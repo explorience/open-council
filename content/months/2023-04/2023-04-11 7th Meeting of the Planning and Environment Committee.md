@@ -612,6 +612,36 @@ The Planning and Environment Committee convened, In Closed Session, from 5:58 PM
 
 
 The meeting adjourned at 6:27 PM
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by East Village Holdings Limited, relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King St...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. Zoning By-law Amendment - 300-320 King Street (Z-9570)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo Ltd., on behalf of Royal Host GP Inc. and Holloway Lodging, relating to the property located at 300-320 King Street: a)    the proposed by-law ap...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1194,34 +1224,3 @@ Thank you, I look for a motion to close the meeting. Councillor Frank, seconded 
 Thanks, folks.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by East Village Holdings Limited, relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King St...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. Zoning By-law Amendment - 300-320 King Street (Z-9570)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo Ltd., on behalf of Royal Host GP Inc. and Holloway Lodging, relating to the property located at 300-320 King Street: a)    the proposed by-law ap...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

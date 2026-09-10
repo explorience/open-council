@@ -750,6 +750,53 @@ The Planning and Environment Committee convened, in Closed Session, from 6:00 PM
 
 
 The meeting adjourned at 6:11 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 978 Gainsborough Road (Z-9247)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a) the request to amend the Official Plan, The London Plan, f...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 5.1. Deferred Matters List
+
+> Motion to receive clauses 5.1 and 5.2
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.  (2023-D09)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1318,51 +1365,3 @@ Thank you, Deputy Mayor. brings us to a general of promotion to adjourn. Council
 Thank you for the remaining staff who are here. As always and for committee members for your work this evening.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 978 Gainsborough Road (Z-9247)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a) the request to amend the Official Plan, The London Plan, f...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 5.1. Deferred Matters List
-
-> Motion to receive clauses 5.1 and 5.2
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Deferred Matters List
-
-> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.  (2023-D09)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

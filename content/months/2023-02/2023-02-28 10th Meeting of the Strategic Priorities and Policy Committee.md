@@ -747,6 +747,235 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:25 PM.
 
 ****
+
+---
+
+## Votes
+
+*16 substantive votes at this meeting (11 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. 2023 Assessment Growth Funding Allocation
+
+> That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.1. 2023 Assessment Growth Funding Allocation
+
+> That Business Case #11 Police Services: Increase Complement BE RECEIVED. At 3:50 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 3:54 PM, His Worship Mayor J. Morgan resumes the Chair.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
+
+> That the following amendment to the motion, BE APPROVED: c) by adding “it being noted that Civic Administration will return to Council with a business case detailing the proposed use of the funds;"
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
+
+> That the following amendment to the motion, BE APPROVED: e) to read as follows "the Civic Administration BE DIRECTED to report back monthly to future standing committees on progress updates;"
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
+
+> That the delegation request from G. Henderson, London Chamber of Commerce, BE APPROVED to be heard at this time. ADDITIONAL VOTES:
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
+
+> That Strategic Area of Focus Economic Growth, Culture, and Prosperity: Expected Result 2.2, BE AMENDED subsections a) through e) BE AMENDED in the Draft Strategic Plan by including London Chamber of Commerce's expected results and draft strategies.
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Housing and Homelessness, Expected Result 2.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric c)
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.3, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric b) % of residents who indicate they are happy or very happy.
+
+**❌ Motion Failed (5 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric f) # of hectares of naturalized parkland.
+
+**❌ Motion Failed (4 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, Draft Metric c) and Expected Result 1.7, Draft Metric a) BE REMOVED from the Draft Strategic Plan.
+
+**❌ Motion Failed (6 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Climate Action and Sustainable Growth 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric i) grade level for watershed.
+
+**❌ Motion Failed (6 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Well-Run City, Expected Result 3.1, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) % of employees who say they are happy with their work and workplace.
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+> That the Strategic Area of Focus: Well-Run City, Expected Result 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) # of Londoners participating in public participation meetings (in person and online).
+
+**✅ Motion Passed (11 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.4. Consideration of Appointment to the London and Middlesex Community Housing (Requires 1 Tenant)
+
+> That Cara Awcock BE APPOINTED to the London & Middlesex Community Housing Board of Directors for the term ending December 31, 2025 (Third Class); it being noted that the Strategic Priorities and Policy Committee received a communication from S. Chowns, Board of Directors, London & Middlesex Commu...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+> That Mariam Hamou BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+> Consideration of Appointment to the Committee of Adjustment
+
+**❌ Majority Winner: Mariam Hamou 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2429,233 +2658,3 @@ So thank you for your work today with that. I will entertain a motion to adjourn
 That motion's passed. All right, thank you very much. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*16 substantive votes at this meeting (11 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.1. 2023 Assessment Growth Funding Allocation
-
-> That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.1. 2023 Assessment Growth Funding Allocation
-
-> That Business Case #11 Police Services: Increase Complement BE RECEIVED. At 3:50 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 3:54 PM, His Worship Mayor J. Morgan resumes the Chair.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
-
-> That the following amendment to the motion, BE APPROVED: c) by adding “it being noted that Civic Administration will return to Council with a business case detailing the proposed use of the funds;"
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
-
-> That the following amendment to the motion, BE APPROVED: e) to read as follows "the Civic Administration BE DIRECTED to report back monthly to future standing committees on progress updates;"
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
-
-> That the delegation request from G. Henderson, London Chamber of Commerce, BE APPROVED to be heard at this time. ADDITIONAL VOTES:
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
-
-> That Strategic Area of Focus Economic Growth, Culture, and Prosperity: Expected Result 2.2, BE AMENDED subsections a) through e) BE AMENDED in the Draft Strategic Plan by including London Chamber of Commerce's expected results and draft strategies.
-
-**✅ Motion Passed (7 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Housing and Homelessness, Expected Result 2.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric c)
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.3, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric b) % of residents who indicate they are happy or very happy.
-
-**❌ Motion Failed (5 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric f) # of hectares of naturalized parkland.
-
-**❌ Motion Failed (4 to 8)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, Draft Metric c) and Expected Result 1.7, Draft Metric a) BE REMOVED from the Draft Strategic Plan.
-
-**❌ Motion Failed (6 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Climate Action and Sustainable Growth 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric i) grade level for watershed.
-
-**❌ Motion Failed (6 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Well-Run City, Expected Result 3.1, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) % of employees who say they are happy with their work and workplace.
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
-
-> That the Strategic Area of Focus: Well-Run City, Expected Result 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) # of Londoners participating in public participation meetings (in person and online).
-
-**✅ Motion Passed (11 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.4. Consideration of Appointment to the London and Middlesex Community Housing (Requires 1 Tenant)
-
-> That Cara Awcock BE APPOINTED to the London & Middlesex Community Housing Board of Directors for the term ending December 31, 2025 (Third Class); it being noted that the Strategic Priorities and Policy Committee received a communication from S. Chowns, Board of Directors, London & Middlesex Commu...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
-
-> That Mariam Hamou BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
-
-> Consideration of Appointment to the Committee of Adjustment
-
-**❌ Majority Winner: Mariam Hamou 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

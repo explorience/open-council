@@ -483,6 +483,43 @@ None.
 
 
 The meeting adjourned at 6:25 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Housekeeping Amendment to Secondary Plans (O-9346)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendments to approved Secondary Plans: a) the proposed by-law appended to the staff report dated January 31, 2022 as Appendix "A" BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Secondary Plan for Meadowlilly Road Area
+
+> That the communication BE REFERRED to the Civic Administration for review and for consideration in the development of Special Area Policies for Meadowlily Road South and to report back at a future meeting of the Planning and Environment Committee.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1161,41 +1198,3 @@ Okay as we make a change to that I think the clerk has that information if I can
 I would say that we can at least receive the the report or receive the letter from the community that doesn't preclude us from doing anything at a future time. Thank you with that I would that is a motion to receive the secondary Councillor Layman I'll go around the table to receive the correspondence Councillor Turner yes Councillor Hillyer yes Mr. Mayor yes Councillor Lewis yes Councillor Layman yes and I vote yes closing the vote the motion carries six to zero and with that I'll go to five deferred matters additional business committee members I see none and I will look for an adjournment in Councillor Turner seconded by Councillor Hillyer can we do a hand vote or do we need a verbal hand vote everyone thanks I vote yes thank you Mr. Mayor thanks everyone good night
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Housekeeping Amendment to Secondary Plans (O-9346)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to housekeeping amendments to approved Secondary Plans: a) the proposed by-law appended to the staff report dated January 31, 2022 as Appendix "A" BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. Secondary Plan for Meadowlilly Road Area
-
-> That the communication BE REFERRED to the Civic Administration for review and for consideration in the development of Special Area Policies for Meadowlily Road South and to report back at a future meeting of the Planning and Environment Committee.
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-

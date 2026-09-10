@@ -424,6 +424,86 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 8:19 PM.
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair
+
+> That Councillor D. Ferreira BE APPOINTED Vice Chair of the Community and Protective Services Committee for the term ending November 14, 2023.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
+
+> Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
+
+> Motion that the delegations and communications BE RECEIVED and NO ACTION BE TAKEN with respect to this matter.
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
+
+> That the above clause be amended to read: That the Civic Administration BE DIRECTED to prepare a staff report to be brought forward to the January 2023 Community and Protective Services Committee meeting with respect to a potential amendment to By-law PH-3, the Animal Control By-law, to permit th...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.2. Councillor E. Peloza - Renaming of Paul Haggis Park
+
+> That the following actions be taken with respect to the communication, dated November 21, 2022, from Councillor E. Peloza and Mayor J. Morgan, related to the Renaming of Paul Haggis Park: a)    the Civic Administration BE DIRECTED to begin removing Paul Haggis’ name from the city park located at ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. 2022 Parkland Conveyance and Levy By-Law CP-9 Update
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken, with respect to the staff report, dated November 29, 2022, related to an update on the 2022 Parkland Conveyance and Levy By-law CP-9: a)    the proposed by-law, as appended to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1306,84 +1386,3 @@ At this point, our time together has come to an end and I'm looking for a motion
 Thank you to everyone in the gallery who stayed to the very end and for everyone online and to staff for a long night and I'm sorry, next time I'll do better and provide snacks. We're adjourned and I'll see you on the 13th for sure.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (2 contested, 5 unanimous). Procedural motions excluded.*
-
-### 1.2. Election of Vice-Chair
-
-> That Councillor D. Ferreira BE APPOINTED Vice Chair of the Community and Protective Services Committee for the term ending November 14, 2023.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
-
-> Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
-
-> Motion that the delegations and communications BE RECEIVED and NO ACTION BE TAKEN with respect to this matter.
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
-
-> That the above clause be amended to read: That the Civic Administration BE DIRECTED to prepare a staff report to be brought forward to the January 2023 Community and Protective Services Committee meeting with respect to a potential amendment to By-law PH-3, the Animal Control By-law, to permit th...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.2. Councillor E. Peloza - Renaming of Paul Haggis Park
-
-> That the following actions be taken with respect to the communication, dated November 21, 2022, from Councillor E. Peloza and Mayor J. Morgan, related to the Renaming of Paul Haggis Park: a)    the Civic Administration BE DIRECTED to begin removing Paul Haggis’ name from the city park located at ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.3. 2022 Parkland Conveyance and Levy By-Law CP-9 Update
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken, with respect to the staff report, dated November 29, 2022, related to an update on the 2022 Parkland Conveyance and Levy By-law CP-9: a)    the proposed by-law, as appended to t...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

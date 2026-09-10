@@ -546,6 +546,109 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+> That part a) i) 641 Queens Avenue, ii) 434 Elizabeth Street, vi) 824 Dundas Street BE REFERRED to Civic Administration to consult with the Old East Village Business Improvement Area and community association and report back to a future meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+> That part a) of the motion be amended to read as follows: a)    the Civic Administration BE DIRECTED to undertake a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techn...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
+
+> That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
+
+> That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to the next meeting of Strategic Priorities and Policy Committee in order to allow the accommodation industry to provide comment on the proposed increase to the MAT.
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.1. 2nd Report of the Strategic Opportunities Review Working Group
+
+> That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.2. 3rd Report of the Strategic Opportunities Review Working Group
+
+> That the delegation request from A. McGuigan BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. 12th Report of the Governance Working Group
+
+> That the following actions be taken with respect to the 12th Report of the Special Governance Working Group from its meeting held on August 15, 2024: a)    the Councillor Role Description, as amended and attached, BE APPROVED; b)    on the recommendation of the City Clerk, the following actions b...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. (ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
+
+> That the grant application for the Growing Canada's Community Canopies to assist London in achieving our tree canopy target BE SUPPORTED by Municipal Council.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -658,107 +761,3 @@ Chair certainly we provide additional support to new and growing local initiativ
 Barboon said the absolute fastest we could fast track it would be three months I ask you to respectfully keep in mind our finance team is in the middle of putting together the annual budget update for this Council's consideration and deliberation in just a few weeks time that's a massive amount of work as we know and now we're gonna ask them to do this work on top of that and come back in one cycle when the annual budget update is done they have to move into the assessment growth allocation reviews and bring that forward to us a few weeks after that so I don't think it's fair because a couple of hoteliers don't like it and again I'm really resisting the urge to name them because I know who they are to delay and ask our staff to do additional work at one of the busiest times of the year for them because there are a couple of individuals who object to this you've you've heard the support from other really key tourism assets the airport which just brought over 50,000 people in partnership with London Airshow to our city people who stayed in those hotels the Grand Theatre has a season this year which will have overnight visitors with heads and beds because we used this accommodation tax to help them replace their boiler and bug gardens that will be bringing 9,000 people a night every Friday night for hockey games and everything else that they do through the season of tens of millions of dollars invested in updating that this is a political decision this is not an industry decision so let's do our job and make a political decision today and not refer this either just vote yes or no okay thank you I have a list building and I will go to Councillor Pribble next and then I'll go to Councillor McAllister and Councillor Pelosa Councillor Pribble so let me talk now that industry decision political decision there are two local associations and neither one of them and their representatives said that they were aware this is coming forward sorry a point of order Madam Chair has the seconder this motion left the meeting just a moment I'll confer the clerk after conferring the clerk the motion is in the possession of the committee and it doesn't matter if the seconder is present I'll go back to Councillor Pribble so going back to it I really honestly and there's one thing is actually that both organizations and four different hotel areas it's not that they would not be that they would be totally opposed to it or they didn't say yes we don't want it it doesn't make sense they just don't feel that as a sector that they are receiving a direction from us and not conversation and they want to be actually heard I attended few of their meetings during this year and they want to be heard and again it's not that the ones that have stated it they said we are against it you're not gonna do it they didn't say it they might mean it or they might say it during the conversations but they did not say that the thing is that as we heard this three months so I know I said referral bio to the next meeting my point is more three months for us to implement this okay this is what one year and four months that we have time what's in front of us they're not asking for 20 reports they're not asking for 10 meetings all they're asking for to be heard and to give their input their feedback not just on this but also support of the city of the issues they have that's really what it comes down to so it's not again I'm not delaying it certainly the marketing radical marketing funds it's not just marketing funds it additional we have their 4.8 million dollars so we are installing on that and again it's not to kick in till January 2026 what I want the sector that has been doing great things for us if it's a referral or if it's a change afterwards to the motion all I want them to have the opportunity to be heard by civic administration and to say what I feel would help them as the collectors of the stocks for us okay thank you I have Councilor McAllister next followed by Councilor Palosa thank you and through the presiding officer and you know I hear both sides in this appreciate the discussion that's gone on I'm not willing to support the referral I'm willing to make a decision as the deputy mayor said I do think this largely is a political decision looked at what the other cities are doing in the area I think it's fair in terms of what we're looking at with the mat I think in terms of the answer to the given with two of them London I think there are a lot of opportunities to utilize these funds as again the deputy mayor said we've we've drawn on those funds very recently to support a lot of our assets throughout the city so I will be voting against this referral I like to vote on the main motion and support it but I would also like to say I mean in terms of the associations if they want to be heard I'm more than willing to hear them out at council if they want to have a delegation there's also the opportunity to have conversations between now and council again you know I'm happy to have those conversations but I do think you know again I think we're we're unfortunately behind everybody else and I do think that we need to support this and give tourism on them those funds to support these very valuable things to our city thank you thank you just a reminder to counselor we don't have delegations a council but I hear your point in between there is opportunity for conversations and I did also have councilor cuddy on the list correct okay so I'm gonna go to councilor Palosa and then councilor cuddy thank you I won't be sprint the referral as you said there's no delegations at council but they're welcome to always send in correspondence or have meetings outside of this I'll also note that we were advised that hotel stays have exceeded pre-COVID levels as well which was one of the things that led us to doing this that the heads were in beds and through Ms. Finn's conversation with some hotel years we knew there were some questions and Deputy Mayor Lewis and myself I've already reached out through tourism London a while back that if there was questions we were happy to set the meeting with those with questions to come and talk about tourism London's portion of the mat the city of London's portion and what we're doing what we have done and we can continue to do together just for those conversations we're already in play months ago thank you I will go to counselor cuddy next go ahead thank you madam presiding officer I won't be supporting this referral and I will be supporting the main motion it seems that whenever we don't want to make a decision we ask for referral and that's not fair to us it's not fair to our constituents and it's not fair to our staff to Deputy Mayor Lewis's point this is something we're at the bottom of the we're at the low end of other cities who are increasing the taxes because they need to and this isn't a case madam presiding officer where people aren't going to come to the city because we've raised it by a point they're going to come to the city anyway and they're going to enjoy dining and and overnight accommodations and it's one point and it's not going to make a big difference so I will be gladly I will be voting against referral and I will be supporting the motion thank you thank you anyone else on the referral okay counselor you have a lesson two and a half minutes go ahead I don't think I'm very clear because everything that will set even including the last two counselors I don't agree I don't disagree with them but again we have a group I don't get repeated again we have a group that's collecting tax for us funds for us we have a group that feels done or being heard that being just directed we have an opportunity again we are not losing the time again it's from first of January so when I hear when I heard here that again it's an opportunity of the funds there isn't till January 2026 there is no additional funds on the table whatsoever we heard from our staff that it will take three months to implement and we are not giving an opportunity to the group that has been doing a great job for us last six years to be heard they didn't say I hear here did they say that against it the the increase he never even said that they didn't make it a such a statement all they ask is before you give us a direction let's talk let's talk let's talk with the staff let's talk and that's what they're asking for so whatever I heard here from previous come from other counselors that we are losing money that there's this that's not true January 2026 we are not touching anything till then if there's anyone that have a different suggestions all I want them before we do this direction of one percent increase all I want this group to be heard that's all they want okay thank you I have Deputy Mayor Lewis on the referral you two minutes and 24 seconds remaining I promised not to use it all because I keep hearing all they want is to be heard and respectfully read clause C civic administration be further directed in consultation with tourism London and these associations have representatives on the tourism London board to report back to the appropriate standing committees with recommendations to counsel for any updates to the tourism infrastructure reserve fund allocation policy and strategic investments if they don't like or don't think that the way the money is being spent is benefiting them clause C gives them the opportunity to participate so they have a chance to provide feedback to come and talk they've had a chance since April to provide feedback and come and talk it's not about how much if it's about how the money is being spent whether it's the matte allocation which has a great policy that other municipalities are actually copying to use that tourism London has established for how its 50% is used and take a look at Kingston's it's a carbon copy of ours because our staff did a great job the tourism London staff did a great job of creating that but that is what clause C is about it's not there should be no discussion with the industry about whether we're having it at 4% or 5% because they're not paying it they're collecting it from a bill we're deciding what the tax rate is if they want to have a conversation about how it's being spent that is exactly what clause C does and that says report back to the appropriate standing committees so what ever timeline that is doesn't matter it's about getting the 1% increase directed so that staff have the time outside of the annual budget update process to go through the steps and not on the three month fast track but to be able to balance that with all their other work to bring forward the increase so that it can take effect had we really wanted to just do this without consultation we would have brought this forward to you in April and said make it effective January 1 2025 and given the staff the summer to work on it but we didn't we've taken the time to ask around to have some conversations and so and there's an opportunity for further conversations in clause C thank you any further speakers on the referral before we call the vote seeing none in chambers and no one piping up online we'll look to open the vote closing the vote motion fails 1 to 13 thank you you want me to keep the chair for the rest or you okay thank you all right so on the main motion just looking for any additional speakers I see Councillor Hopkins and Councillor Chaso go ahead Councillor Hopkins thank you madam presiding chair and I want to thank Councilor Pribble first of all as much as I didn't support the referral I did appreciate the conversation this is committee this is where we are able to debate and understand motions coming forward Miss Finn I think what sold me in terms of supporting this increase because the fact that other cities are doing it wasn't a big selling feature for me but when I hear what the tourism London is doing in our city the increase in tourism the support of our city being in a UNESCO music city all those things matter and it does tell me that tourism London is doing a great job so thank you for that also what I sold me on supporting this 1% increase was the fact that infrastructure is increasing and the cost to replace via boilers or renovations is going to be harder to obtain to get that funding and our organizations are going to be challenged so this is an opportunity where we can spread that wealth I'm glad that C is included in the motion I would encourage the industry the hotel groups out there to reach out to us it's standing committees and to us on our phones and to share their concerns with us as well those are still opportunities that that they have to go forward and I'll be supporting this motion and again appreciate the debate we've had here thank you I'll go to Councillor Trozzo well the one concern I want to raise and I'm not going to put anything on the table right now because I think this is a bigger discussion we have to have it I'm really worried about the leakage in the loss of revenue that we're not getting from the Airbnb industry we've spoken I've raised some of my concerns about the enforcement of our Airbnb by well I'm not going to put it I'm not going to put something on the table now but thank you Councillor I'll just remind you to tie it back into the conversation on the map I am going to tie it back into the conversation in the map because if I if I I think that there's a certain equity for the hotel years and the people if people can go off to Airbnb and not go to hotels knowing that the the Airbnb industry is not complying with this that's a fundamental question of unfairness and again I'm not putting anything on the table now I just want to mark my dissatisfaction with what I what I perceived to be happening and I would like to see a report on that that's a different committee and I'll just leave it at that but I have to say something about the Airbnb industry thank you Councillor Perble next I do not have the original speakers list so I do not know how much time you have remaining but while you're speaking we'll figure that out I don't think I'll be very long ago but by the way I do I agree with Councillor Trost so just said this Airbnb is 100% I just want to let you know I just want to reiterate a couple of things tourism London these funds for municipality for tourism London are fantastic 100% support of it will support it right from the beginning you know any initiatives that came doesn't matter if it was the grand theater if it's the bids makes complete sense and it's great benefits tourism London doing a great job in it maximizing this these funds all great I'll tell you right now if the industry would know that this is in front of us today I would avoid it I would avoid it yes yes yes that's not my point I'm even supported with the five my thing is that the industry that's collecting these funds for us they were surprised sort no door they are still surprised today that this is in front of us on the table today that's all it's about so again if they were aware of it I'm all for it and again we see it here in the motion into other municipalities it makes sense that's not a point the point is that they are collecting for us and they have something you know always call it kind of the best decisions are not made about you without you and this is the thing that kind of that I felt they weren't hurt is it a good thing for our city municipal tourism London absolute latest there was the only point I was trying to make that we are doing deciding and the sector who is collecting it for us is not aware of it that we are deciding today that's all it was about thank you thank you any other speakers on the main motion seeing none here and no one speaking up online I will look to call the vote losing the vote motion carries 13 to 1 thank you I will return the chair to Deputy Mayor Lewis thank you madam presiding officer and thank you for steering us through that piece of of our debate today colleagues that concludes our public agenda we've made our way through our consent our items for direction under deferred matters we do have one matter to be discussed in closed session that is a labor relations employee negotiations land acquisition disposition solicitor client privilege advice matter and so I'm going to look for a mover to take us into confidential session and that's been moved by Councillor ramen and seconded by Councillor Stevenson and we will ask clerk to open the vote on that losing the vote motion carries 14 to 0 thank you colleagues so we will just get the appropriate people in the room let everyone else I'm going to call the 14th meeting of the strategic priorities and policy committee back to order from our closed session and I will turn to Vice Chair ramen to report out thank you I'm happy to report the progress is made on the item we went in camera for thank you Councillor that concludes our agenda so all we need now is a motion to adjourn and that is moved by Councillor Ferrera and seconded by Councillor Stevenson and by hand all in favor motion carries thank you colleagues we are adjourned
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That part a) i) 641 Queens Avenue, ii) 434 Elizabeth Street, vi) 824 Dundas Street BE REFERRED to Civic Administration to consult with the Old East Village Business Improvement Area and community association and report back to a future meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That part a) of the motion be amended to read as follows: a)    the Civic Administration BE DIRECTED to undertake a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techn...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
-
-> That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
-
-> That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to the next meeting of Strategic Priorities and Policy Committee in order to allow the accommodation industry to provide comment on the proposed increase to the MAT.
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.1. 2nd Report of the Strategic Opportunities Review Working Group
-
-> That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.2. 3rd Report of the Strategic Opportunities Review Working Group
-
-> That the delegation request from A. McGuigan BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. 12th Report of the Governance Working Group
-
-> That the following actions be taken with respect to the 12th Report of the Special Governance Working Group from its meeting held on August 15, 2024: a)    the Councillor Role Description, as amended and attached, BE APPROVED; b)    on the recommendation of the City Clerk, the following actions b...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. (ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
-
-> That the grant application for the Growing Canada's Community Canopies to assist London in achieving our tree canopy target BE SUPPORTED by Municipal Council.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

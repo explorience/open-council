@@ -184,6 +184,28 @@ That the Deferred Matters List, as at December 12, 2023, BE RECEIVED.
 
 
 The meeting adjourned at 1:41 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Byron Legion Monument Donation to Springbank Park
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated January 8, 2024, related to the proposed donation of Byron Monument to the City of London for Springbank Park per Sections 4.1a...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -394,26 +416,3 @@ I will need a mover and a seconder to adjourn. Moved by Councillor McAllister, s
 We are adjourned and thank you to everyone in the gallery for joining us and have a wonderful day.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. Byron Legion Monument Donation to Springbank Park
-
-> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated January 8, 2024, related to the proposed donation of Byron Monument to the City of London for Springbank Park per Sections 4.1a...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

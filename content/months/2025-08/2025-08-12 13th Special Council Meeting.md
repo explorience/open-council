@@ -222,6 +222,29 @@ The meeting adjourned at 12:12 PM.
 > **Bill No. 333**
 > 
 > By-law No. Z.-1-253345 - A by-law to amend By-law No. Z.-1 to add a new Zone (TSA) and regulations and apply new zones to lands located within the Protected Major Transit Station Areas within the City of London (3.7b/14/PEC) (Third Reading Only)
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No. 333 BE APPROVED.
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
 ---
 
 ## Full Transcript
@@ -266,27 +289,3 @@ I'll look for mover and seconder, Councilor Hillier, seconder by Councilor Ferre
 All right, thank you. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No. 333 BE APPROVED.
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-

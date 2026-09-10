@@ -1426,6 +1426,97 @@ None.
 
 
 The meeting adjourned at 9:49 PM.
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.13, inclusive, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.3. Application - 1414 Dundas Street (Z-9276)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Humane Society London & Middlesex, relating to the property located at 1414 Dundas Street: a)       the request to amend Zoning-By-law No. Z.-1 to change the zoning...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 3.3. Application - 1414 Dundas Street (Z-9276)
+
+> That the matter of Application for 1414 Dundas Street BE REFERRED back to Civic Administration in order for additional discussion with respect to parking location and reduction and the landscaped buffer with the applicant.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2690015 Ontario Inc., relating to the property located at 101 Meadowlily Road South: a)       the proposed by-law appended to the staff report dated March 29, 2021 ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
+
+**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
+
+</details>
+
+### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
+
+> That the following be added to the recommendation: f) the Civic Administration BE REQUESTED to include the HIA with any recommendation and continue to consult with the London Advisory Committee on Heritage (LACH) on future approvals for this matter and to consult with the LACH on HIA related matt...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.8. Application - 1478 Westdel Bourne 39T-20503 (Z-9278)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Townline Orchard Property Ltd., relating to the lands located at 1478 Westdel Bourne: a)       the proposed by-law appended to the staff report dated March 29, 2021...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.9. 3080 Bostwick Road - 39T-18502 (Z-8931)
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 731675 Ontario Limited (York Developments Inc.), relating to the lands located at 3080 Bostwick Road: a)       the proposed by-law appended to the staff report date...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. 2nd Report of the Environmental and Ecological Planning Advisory Committee
+
+> That, the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on March 18, 2021: a)       the 14 Gideon Drive and 2012 Oxford Street West Working Group comments, appended to the Environmental and Ecologic...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -3068,95 +3159,3 @@ I know that's a long time, but we did very well tonight, and I appreciate the su
 I'll go just to hand vote all yay. Again, thank you very much. Have a good evening.
 
 </details>
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (3 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.13, inclusive, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.3. Application - 1414 Dundas Street (Z-9276)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Humane Society London & Middlesex, relating to the property located at 1414 Dundas Street: a)       the request to amend Zoning-By-law No. Z.-1 to change the zoning...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 3.3. Application - 1414 Dundas Street (Z-9276)
-
-> That the matter of Application for 1414 Dundas Street BE REFERRED back to Civic Administration in order for additional discussion with respect to parking location and reduction and the landscaped buffer with the applicant.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
-
-</details>
-
-### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2690015 Ontario Inc., relating to the property located at 101 Meadowlily Road South: a)       the proposed by-law appended to the staff report dated March 29, 2021 ...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Ed Holder](/councillors/former/e-holder)
-
-**Nay (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
-
-</details>
-
-### 3.5. Application - 101 Meadowlily Road South 39CD-20502 (OZ-9192)
-
-> That the following be added to the recommendation: f) the Civic Administration BE REQUESTED to include the HIA with any recommendation and continue to consult with the London Advisory Committee on Heritage (LACH) on future approvals for this matter and to consult with the LACH on HIA related matt...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.8. Application - 1478 Westdel Bourne 39T-20503 (Z-9278)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Townline Orchard Property Ltd., relating to the lands located at 1478 Westdel Bourne: a)       the proposed by-law appended to the staff report dated March 29, 2021...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.9. 3080 Bostwick Road - 39T-18502 (Z-8931)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 731675 Ontario Limited (York Developments Inc.), relating to the lands located at 3080 Bostwick Road: a)       the proposed by-law appended to the staff report date...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. 2nd Report of the Environmental and Ecological Planning Advisory Committee
-
-> That, the following actions be taken with respect to the 2nd Report of the Environmental and Ecological Planning Advisory Committee, from its meeting held on March 18, 2021: a)       the 14 Gideon Drive and 2012 Oxford Street West Working Group comments, appended to the Environmental and Ecologic...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

@@ -255,6 +255,79 @@ None.
 
 
 The meeting adjourned at 2:40 PM.
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4 and 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Core Area Parking Incentives Extension
+
+> Motion to further amend by including a new part a) to read as follows: a)       the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024;
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 2.5. Core Area Parking Incentives Extension
+
+> Motion to approve parts a) and b) of the clause.
+
+**❌ Motion Failed (2 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 2.5. Core Area Parking Incentives Extension
+
+> Motion to approve parts c) and d) of the clause.
+
+**❌ Motion Failed (1 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 2.5. Core Area Parking Incentives Extension
+
+> Motion to approve parts e) and f) of the clause.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -675,77 +748,3 @@ Deferred matters in additional business. I am not aware of any but looking to se
 Moved by Councillor Travsau, seconded by Councillor Ferrera and a hand vote is in favor of all in favor of adjournment today. The clerk has deemed that carried. Thank you everyone and have a wonderful day.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (3 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4 and 2.6 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.5. Core Area Parking Incentives Extension
-
-> Motion to further amend by including a new part a) to read as follows: a)       the Civic Administration BE DIRECTED to implement a free weekday 1-hour on-street parking program for the Core Area until the end of 2024;
-
-**❌ Motion Failed (2 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 2.5. Core Area Parking Incentives Extension
-
-> Motion to approve parts a) and b) of the clause.
-
-**❌ Motion Failed (2 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 2.5. Core Area Parking Incentives Extension
-
-> Motion to approve parts c) and d) of the clause.
-
-**❌ Motion Failed (1 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 2.5. Core Area Parking Incentives Extension
-
-> Motion to approve parts e) and f) of the clause.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

@@ -485,6 +485,97 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:44 PM.
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 3.2. Not to be heard before 4:20 PM - London Hydro Inc. - 2020 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That the following actions be taken with to the London Hydro Inc. 2020 Annual General Meeting of the Shareholder Annual Resolutions: a)      the by-law appended to the staff report dated June 23, 2021 entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London Hyd...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
+
+> That, on the recommendation of the Interim Board of Directors, London & Middlesex Community Housing, the following appointments to the London & Middlesex Community Housing Board of Directors, BE APPROVED: a)    First Class:  Aynsley Anderson and John Millson b)    Second Class: Shellie Chowns (Co...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
+
+> London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors
+
+**❌ Majority Winner: P. Squire; M. van Holst 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.2. Strategy for Core Area Land and Vacant Buildings - Councillor M. Cassidy
+
+> That the Civic Administration BE DIRECTED to report back on a proposed strategy that sets out potential tools that may assist in reducing core area land and building vacancy, including, but not limited to: a)      a review of existing incentive programs and any recommended changes to them;  b)   ...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.3. Confirmation of Appointment to the Hamilton Road Business Improvement Area
+
+> That, Mark Simpson BE APPOINTED to the Hamilton Road Business Improvement Area for the term ending November 15, 2022.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
+
+> That Megan Halliday BE APPOINTED to Eldon House Board of Directors for the term ending November 15, 2022.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
+
+> Appointment to Eldon House Board of Directors
+
+**❌ Majority Winner: Megan Halliday 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+</details>
+
+### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
+
+> That JJ Strybosch BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 15, 2022.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
+
+> Appointment to the Lower Thames Valley Conservation Authority
+
+**❌ Majority Winner: JJ Strybosch 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1255,95 +1346,3 @@ By a show of hands, screen's on. Let's just all do it with energy. Motion's pass
 Meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
-
-### 3.2. Not to be heard before 4:20 PM - London Hydro Inc. - 2020 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That the following actions be taken with to the London Hydro Inc. 2020 Annual General Meeting of the Shareholder Annual Resolutions: a)      the by-law appended to the staff report dated June 23, 2021 entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London Hyd...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
-
-> That, on the recommendation of the Interim Board of Directors, London & Middlesex Community Housing, the following appointments to the London & Middlesex Community Housing Board of Directors, BE APPROVED: a)    First Class:  Aynsley Anderson and John Millson b)    Second Class: Shellie Chowns (Co...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 3.3. Not to be heard before 4:40 PM - London & Middlesex Community Housing - 2020 Annual General Meeting of the Shareholder Annual Resolutions
-
-> London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors
-
-**❌ Majority Winner: P. Squire; M. van Holst 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-</details>
-
-### 4.2. Strategy for Core Area Land and Vacant Buildings - Councillor M. Cassidy
-
-> That the Civic Administration BE DIRECTED to report back on a proposed strategy that sets out potential tools that may assist in reducing core area land and building vacancy, including, but not limited to: a)      a review of existing incentive programs and any recommended changes to them;  b)   ...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.3. Confirmation of Appointment to the Hamilton Road Business Improvement Area
-
-> That, Mark Simpson BE APPOINTED to the Hamilton Road Business Improvement Area for the term ending November 15, 2022.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
-
-> That Megan Halliday BE APPOINTED to Eldon House Board of Directors for the term ending November 15, 2022.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.4. Consideration of Appointment to Eldon House (Requires 1 Voting Member)
-
-> Appointment to Eldon House Board of Directors
-
-**❌ Majority Winner: Megan Halliday 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
-
-</details>
-
-### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
-
-> That JJ Strybosch BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 15, 2022.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.5. Consideration of Appointment to the Lower Thames Valley Conservation Authority (Requires 1 Voting Member)
-
-> Appointment to the Lower Thames Valley Conservation Authority
-
-**❌ Majority Winner: JJ Strybosch 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Stephen Turner](/councillors/former/s-turner), [Arielle Kayabaga](/councillors/former/a-kayabaga)
-
-</details>
-

@@ -965,6 +965,87 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:34 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.2 in Stage 2, Consent, to remain in Stage 2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+> That Items 2.1, 2.3 and 2.4, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Heritage Designation of the Property at 1269 Hyde Park Road
+
+> Notwithstanding the recommendation from the Director, Planning and Development the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.3. 1447-1449 Dundas Street & 684-690 Hale Street - OZ-25110
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1412651 Ontario Limited o/a Prospera Properties relating to the property located at 1447-1449 Dundas Street and 684-690 Hale Street: a)    the proposed a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 1269 Hyde Park Road - OZ-25105
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1269 Hyde Park Rd Inc. relating to the property located at 1269 Hyde Park Road:    a)    the proposed attached by-law BE INTRODUCED at the Municipal Coun...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.6. Amendments to Home Occupation - Z-25103
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London relating to home occupation uses: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as Appendix "A" BE INTRO...
+
+**❌ Motion Failed (0 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.8. 3563 Bostwick Road - OZ-25078/ 39T-24502
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning Ltd. relating to the property located at 3563 Bostwick Road: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1985,85 +2066,3 @@ I'll call that vote. Closing the vote, the motion carries five to zero. Thank yo
 Our motion first, Councillor Deputy Mayor Lewis, seconded by Councillor Cudi, a hand vote. All in favor? Motion carries. Thank you, everyone.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.2 in Stage 2, Consent, to remain in Stage 2.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2. Consent
-
-> That Items 2.1, 2.3 and 2.4, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Heritage Designation of the Property at 1269 Hyde Park Road
-
-> Notwithstanding the recommendation from the Director, Planning and Development the heritage designation request related to the property at 1269 Hyde Park Road BE REFUSED.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.3. 1447-1449 Dundas Street & 684-690 Hale Street - OZ-25110
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1412651 Ontario Limited o/a Prospera Properties relating to the property located at 1447-1449 Dundas Street and 684-690 Hale Street: a)    the proposed a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 1269 Hyde Park Road - OZ-25105
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1269 Hyde Park Rd Inc. relating to the property located at 1269 Hyde Park Road:    a)    the proposed attached by-law BE INTRODUCED at the Municipal Coun...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.6. Amendments to Home Occupation - Z-25103
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by the City of London relating to home occupation uses: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as Appendix "A" BE INTRO...
-
-**❌ Motion Failed (0 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.8. 3563 Bostwick Road - OZ-25078/ 39T-24502
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of MHBC Planning Ltd. relating to the property located at 3563 Bostwick Road: a)    the proposed by-law as appended to the staff report dated November 12, 2025, as...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

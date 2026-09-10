@@ -328,6 +328,50 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:51 PM.
 
 ****
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Expropriation of Lands - East London Link Project Phase 4
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 2.2. 2023 Year-End Operating Budget Monitoring Report
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 Year-End Operating Budget Monitoring Report: a)    the 2023 Year-End Operating Budget Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastew...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4. Items for Direction
+
+> That items for direction 4.1 to 4.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -832,48 +876,3 @@ And we are into adjournment. So can I get a motion to adjourn? Councillor Cuddy,
 Motion carries. Thank you, everyone. I'll get after you.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. Expropriation of Lands - East London Link Project Phase 4
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 2.2. 2023 Year-End Operating Budget Monitoring Report
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 Year-End Operating Budget Monitoring Report: a)    the 2023 Year-End Operating Budget Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastew...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4. Items for Direction
-
-> That items for direction 4.1 to 4.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

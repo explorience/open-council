@@ -754,6 +754,37 @@ The Planning and Environment Committee convenes, in Closed Session, from 6:11 PM
 
 
 The meeting adjourned at 6:31 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 850 Highbury Avenue North - Request for Demolition
+
+> Motion to add a new part d), which reads as follows: "d)  the applicant BE REQUESTED to photographically document and chronical, to the degree possible, the north and south pavilion and the connecting building."
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
+
+**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1346,35 +1377,3 @@ Opposed in the vote. The motion carries five to zero. Thank you. Everyone, good 
 Good night.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 850 Highbury Avenue North - Request for Demolition
-
-> Motion to add a new part d), which reads as follows: "d)  the applicant BE REQUESTED to photographically document and chronical, to the degree possible, the north and south pavilion and the connecting building."
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Stephen Turner](/councillors/former/s-turner)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder)
-
-**Absent (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-

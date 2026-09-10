@@ -170,6 +170,57 @@ That the meeting BE RECESSED.
 The meeting recessed at 1:49 PM.
 
 ****
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
+
+### 3.2. Amendment - Business Case #P-5
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.3. Amendment - Business Case #P-7
+
+> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-7 – Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.
+
+**❌ Motion Failed (2 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 7. Adjournment
+
+> That the meeting BE RECESSED.
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1026,55 +1077,3 @@ No, there's no speaking procedurally to a motion to recess. So if you want to ke
 Okay, you're recessed, have a good afternoon.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (3 contested, 0 unanimous). Procedural motions excluded.*
-
-### 3.2. Amendment - Business Case #P-5
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-5 – Fire Department Breathing Apparatus and Breathing Apparatus Decontamination (Amended – funding deferred from 2024 to 2026), and that this Business Case BE REFERRED to the 2028-2031 MYB noting that the equipment...
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.3. Amendment - Business Case #P-7
-
-> That the Mayor’s 2024-2027 Multi-Year Budget BE AMENDED to remove Business Case #P-7 – Implementation of a New Property Tax Software System and Capital Asset Reporting Tool for Financial Reporting.
-
-**❌ Motion Failed (2 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 7. Adjournment
-
-> That the meeting BE RECESSED.
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

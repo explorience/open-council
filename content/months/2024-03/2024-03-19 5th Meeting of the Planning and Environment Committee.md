@@ -1115,6 +1115,142 @@ Pursuant to Section 27.6 of the Council Procedure By-law, the 3rd Report of the 
 ## 5.6&nbsp;&nbsp;&nbsp;Adjournment
 
 The meeting adjourned at 5:06 PM.
+
+---
+
+## Votes
+
+*11 substantive votes at this meeting (6 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 900 Jalna Boulevard (Z-9697)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 900 Jalna GP Ltd, c/o MHBC Planning, relating to the property located at 900 Jalna Boulevard: a)    the proposed by-law appended to the staff report dated March...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 3010-3050 Yorkville Street (Z-9692)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 731675 Ontario Limited, (c/o York Developments), relating to the properties located at 3010-3050 Yorkville Street: a)    the proposed by-law appended to the sta...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 460 Asher Crescent (Z-9701)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc., relating to the property located at 460 Asher Crescent, known legally as Block 231, 33M-826: a)    the proposed by-law appended to the sta...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 613 Superior Drive (Z-9691)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Ironstone Building Company Inc., relating to the property located at 613 Superior Drive: a)    the proposed by-law appended to the staff report dated March ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.9. 613 Superior Drive (Z-9691)
+
+> Motion to add part b) ii) which reads as follows: “b) ii)    work with the applicant for park enhancements or onsite amenity that may serve the neighbourhood, including play structures etc.;”
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.9. 613 Superior Drive (Z-9691)
+
+> Motion to add clause c) i) which reads as follows: “c) i)    to ensure the road conditions in the adjacent plan of subdivision are improved and communicate with developer on paving the unassumed streets (Kleinburg Drive and Appletree Gate) in the near term to ensure an accessible vehicular access...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+</details>
+
+### 3.9. 613 Superior Drive (Z-9691)
+
+> Motion to add part c) ii), which reads as follows: “c) ii)    Phase 4 of the subdivision to establish the east/west access on Superior with the connection to Adelaide Street;”
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 3.9. 613 Superior Drive (Z-9691)
+
+> Motion to approve the recommendation, as amended.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
+
+> That the 3rd Report of the Community Advisory Committee on Planning, from its meeting held on March 13, 2024 BE RECIEVED for information; it being noted that the Planning and Environment Committee heard a verbal delegation from S. Bergman, Chair, Community Advisory Committee, with respect to thes...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
+
+> Pursuant to Section 27.6 of the Council Procedure By-law, the 3rd Report of the Community Advisory Committee on Planning BE MOVED to the first order of business after Consent.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -2199,140 +2335,3 @@ I'll call the vote. Closing the vote, the motion carries, five to zero. Okay, I 
 Motion carries. Thank you, folks, for adjourned. (muffled speaking)
 
 </details>
-
----
-
-## Votes
-
-*11 substantive votes at this meeting (6 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 900 Jalna Boulevard (Z-9697)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 900 Jalna GP Ltd, c/o MHBC Planning, relating to the property located at 900 Jalna Boulevard: a)    the proposed by-law appended to the staff report dated March...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 3010-3050 Yorkville Street (Z-9692)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 731675 Ontario Limited, (c/o York Developments), relating to the properties located at 3010-3050 Yorkville Street: a)    the proposed by-law appended to the sta...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 460 Asher Crescent (Z-9701)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc., relating to the property located at 460 Asher Crescent, known legally as Block 231, 33M-826: a)    the proposed by-law appended to the sta...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. 613 Superior Drive (Z-9691)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Ironstone Building Company Inc., relating to the property located at 613 Superior Drive: a)    the proposed by-law appended to the staff report dated March ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.9. 613 Superior Drive (Z-9691)
-
-> Motion to add part b) ii) which reads as follows: “b) ii)    work with the applicant for park enhancements or onsite amenity that may serve the neighbourhood, including play structures etc.;”
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.9. 613 Superior Drive (Z-9691)
-
-> Motion to add clause c) i) which reads as follows: “c) i)    to ensure the road conditions in the adjacent plan of subdivision are improved and communicate with developer on paving the unassumed streets (Kleinburg Drive and Appletree Gate) in the near term to ensure an accessible vehicular access...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
-
-</details>
-
-### 3.9. 613 Superior Drive (Z-9691)
-
-> Motion to add part c) ii), which reads as follows: “c) ii)    Phase 4 of the subdivision to establish the east/west access on Superior with the connection to Adelaide Street;”
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 3.9. 613 Superior Drive (Z-9691)
-
-> Motion to approve the recommendation, as amended.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
-
-> That the 3rd Report of the Community Advisory Committee on Planning, from its meeting held on March 13, 2024 BE RECIEVED for information; it being noted that the Planning and Environment Committee heard a verbal delegation from S. Bergman, Chair, Community Advisory Committee, with respect to thes...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
-
-> Pursuant to Section 27.6 of the Council Procedure By-law, the 3rd Report of the Community Advisory Committee on Planning BE MOVED to the first order of business after Consent.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

@@ -566,6 +566,28 @@ The Planning and Environment Committee convenes In Closed Session from 1:42 PM t
 
 
 The meeting adjourned at 2:01 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.6. Not to be heard before 1:00 PM - 456 Sunningdale Road South
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Corlon Properties Inc., relating to the property located at 465 Sunningdale Road West: a)    the proposed by-law appended to the staff report dated August 26, 2...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 5. Deferred Matters/Additional Business
+
+> That a motion to move 5.1 and 5.2 together BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -768,26 +790,3 @@ And I will go to Councilor Raman to fill in for me as the Vice Chair to report o
 And we can do this one by hand, all those in favor. Opposing the vote, the motion carries four to zero. A great rest of your day.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.6. Not to be heard before 1:00 PM - 456 Sunningdale Road South
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Corlon Properties Inc., relating to the property located at 465 Sunningdale Road West: a)    the proposed by-law appended to the staff report dated August 26, 2...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 5. Deferred Matters/Additional Business
-
-> That a motion to move 5.1 and 5.2 together BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

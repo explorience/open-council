@@ -2015,6 +2015,198 @@ That the meeting BE ADJOURNED.
 The meeting adjourns at 6:22 PM.
 
 ****
+
+---
+
+## Votes
+
+*18 substantive votes at this meeting (6 contested, 12 unanimous). Procedural motions excluded.*
+
+### 8.1. 12th Report of the Strategic Priorities and Policy Committee
+
+> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 2.2.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.3. (2.2) Municipal Accommodation Tax - Amended By-law to Include Short-Term Accommodations (Relates to Bill No. 339)
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated August 30, 2022 as Appendix ‘A’, BE INTRODUCED at the Municipal Council meeting on September 6, 2022, with respect to the by-law entitled “A By-law to Impose a Munic...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2. 12th Report of the Corporate Services Committee
+
+> That the 12th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.3. 11th Report of the Civic Works Committee
+
+> That the 11th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 14th Report of the Planning and Environment Committee
+
+> That the 14th Report of the Planning and Environment Committee BE APPROVED, excluding items 7, 13, 14, 16 and 17.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.7. (3.2) 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521) (Relates to Bill No. 347)
+
+> That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.13. (3.8) 712 Baseline Road East (Z-9474) (Relates to Bill No. 351)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
+
+> That clause 3.9 BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond St...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
+
+> That Item 14, clause 3.9, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.16. (4.1) 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections (Relates to Bill No.'s 344 and 345)
+
+> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.17. (4.2) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264) (Relates to Bill No's. 342 and 354)
+
+> That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; ...
+
+**✅ Motion Passed (10 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 8.5. 10th Report of the Community and Protective Services Committee
+
+> That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 7 (3.2) and 8 (5.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.5.7. (3.2) Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
+
+> The following actions be taken with respect to the staff report dated August 23, 2022, related to an application made under the Business Licensing By-law L.-131-16 to substitute an existing Adult Entertainment Body-rub Parlour location at 802 Exeter Road to a proposed new location at 232 Dundas S...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
+
+</details>
+
+### 8.5.8. (5.1) Deferred Matters List
+
+> That item #1 of the Deferred Matters List, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.5.8. (5.1) Deferred Matters List
+
+> That the balance of the Deferred Matters List BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
+
+**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2595,196 +2787,3 @@ So I just want to say, thank you to staff for all that you do. You make us so da
 Can I see who would like to depart from this meeting? I'm curious. This meeting is adjourned. Thank you all.
 
 </details>
-
----
-
-## Votes
-
-*18 substantive votes at this meeting (6 contested, 12 unanimous). Procedural motions excluded.*
-
-### 8.1. 12th Report of the Strategic Priorities and Policy Committee
-
-> That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED, excluding item 2.2.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.3. (2.2) Municipal Accommodation Tax - Amended By-law to Include Short-Term Accommodations (Relates to Bill No. 339)
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated August 30, 2022 as Appendix ‘A’, BE INTRODUCED at the Municipal Council meeting on September 6, 2022, with respect to the by-law entitled “A By-law to Impose a Munic...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2. 12th Report of the Corporate Services Committee
-
-> That the 12th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.3. 11th Report of the Civic Works Committee
-
-> That the 11th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 14th Report of the Planning and Environment Committee
-
-> That the 14th Report of the Planning and Environment Committee BE APPROVED, excluding items 7, 13, 14, 16 and 17.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.7. (3.2) 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521) (Relates to Bill No. 347)
-
-> That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.13. (3.8) 712 Baseline Road East (Z-9474) (Relates to Bill No. 351)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
-
-> That clause 3.9 BE AMENDED to read as follows: "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond St...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.14. (3.9) 1737 Richmond Street (Z-9470) (Relates to Bill No. 352)
-
-> That Item 14, clause 3.9, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.16. (4.1) 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections (Relates to Bill No.'s 344 and 345)
-
-> That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.17. (4.2) 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264) (Relates to Bill No's. 342 and 354)
-
-> That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)    the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; ...
-
-**✅ Motion Passed (10 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (5):** [Anna Hopkins](/councillors/current/a-hopkins), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-
-### 8.5. 10th Report of the Community and Protective Services Committee
-
-> That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 7 (3.2) and 8 (5.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.5.7. (3.2) Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
-
-> The following actions be taken with respect to the staff report dated August 23, 2022, related to an application made under the Business Licensing By-law L.-131-16 to substitute an existing Adult Entertainment Body-rub Parlour location at 802 Exeter Road to a proposed new location at 232 Dundas S...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (1):** [Jesse Helmer](/councillors/former/j-helmer)
-
-</details>
-
-### 8.5.8. (5.1) Deferred Matters List
-
-> That item #1 of the Deferred Matters List, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.5.8. (5.1) Deferred Matters List
-
-> That the balance of the Deferred Matters List BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 13. By-laws
-
-> That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier), [Ed Holder](/councillors/former/e-holder), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Mariam Hamou](/councillors/former/m-hamou), [John Fyfe-Millar](/councillors/former/j-fyfe-millar)
-
-**Nay (4):** [Anna Hopkins](/councillors/current/a-hopkins), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-

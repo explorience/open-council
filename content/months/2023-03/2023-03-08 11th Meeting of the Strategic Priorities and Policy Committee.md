@@ -412,6 +412,97 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:38 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
+
+### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+> That, the Vision Statement BE AMENDED in the Draft Strategic Plan to read: "London is a sustainable city within a thriving region, committed to a vibrant culture, innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation." ADDITIONAL VOTES: A...
+
+**✅ Motion Passed (10 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+> That the strategic area of focus “Reconciliation, Equity and Inclusion” be removed from the 2023-2027 Strategic Plan, with the proposed Outcomes to be reassigned within the remaining strategic areas of focus.
+
+**❌ Motion Failed (4 to 9)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+> That, the Strategic Area of Focus: Housing and Homelessness, Outcome 2, Expected Result 2.4 BE REMOVED and Draft Strategy BE AMENDED to add a new part d) "Implement a program of proactive rental property compliance blitzes to protect the health and safety of tenants" under Outcome 1, Expected Res...
+
+**✅ Motion Passed (8 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+> That, the Strategic Area of Focus: Wellbeing and Safety, Outcome 1, Expected Result 1.2, BE AMENDED to add a new part e) "Collaborate with volunteer-involved organizations to build on London’s history of individual and corporate volunteerism".
+
+**✅ Motion Passed (7 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+> That, the Strategic Area of Focus: Economic Growth, Culture, and Prosperity, Outcome 1, Expected Result 1.1, BE AMENDED in part a) "Strengthen existing and introduce new partnerships and programs that support small and growing businesses, cultural and non-profit organizations, and entrepreneurs"....
+
+**✅ Motion Passed (8 to 5) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1920,95 +2011,3 @@ You may not agree with each other, but having your presence and your work here o
 All those in favor of adjournment. That motion's carried. Thank you, we're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (5 contested, 0 unanimous). Procedural motions excluded.*
-
-### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
-
-> That, the Vision Statement BE AMENDED in the Draft Strategic Plan to read: "London is a sustainable city within a thriving region, committed to a vibrant culture, innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation." ADDITIONAL VOTES: A...
-
-**✅ Motion Passed (10 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
-
-> That the strategic area of focus “Reconciliation, Equity and Inclusion” be removed from the 2023-2027 Strategic Plan, with the proposed Outcomes to be reassigned within the remaining strategic areas of focus.
-
-**❌ Motion Failed (4 to 9)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
-
-> That, the Strategic Area of Focus: Housing and Homelessness, Outcome 2, Expected Result 2.4 BE REMOVED and Draft Strategy BE AMENDED to add a new part d) "Implement a program of proactive rental property compliance blitzes to protect the health and safety of tenants" under Outcome 1, Expected Res...
-
-**✅ Motion Passed (8 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (3):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
-
-> That, the Strategic Area of Focus: Wellbeing and Safety, Outcome 1, Expected Result 1.2, BE AMENDED to add a new part e) "Collaborate with volunteer-involved organizations to build on London’s history of individual and corporate volunteerism".
-
-**✅ Motion Passed (7 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
-
-> That, the Strategic Area of Focus: Economic Growth, Culture, and Prosperity, Outcome 1, Expected Result 1.1, BE AMENDED in part a) "Strengthen existing and introduce new partnerships and programs that support small and growing businesses, cultural and non-profit organizations, and entrepreneurs"....
-
-**✅ Motion Passed (8 to 5) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (5):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (2):** [Sam Trosow](/councillors/current/s-trosow), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-

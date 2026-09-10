@@ -857,6 +857,297 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 7:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*26 substantive votes at this meeting (11 contested, 15 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.4 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Good Neighbour Agreements
+
+> That part a) of the motion BE AMENDED as follows: i)     the Civic Administration BE DIRECTED to provide a one year contract renewal for the procurement framework  with an option to renew for one year; and, ii)     that Civic Administration BE DIRECTED to review existing housing stability contrac...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. Good Neighbour Agreements
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 2.2. Good Neighbour Agreements
+
+> That part a) of the motion BE APPROVED.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 2.2. Good Neighbour Agreements
+
+> That part b) of the motion BE APPROVED.
+
+**❌ Motion Failed (1 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Nay (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. Good Neighbour Agreements
+
+> That part c) of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Good Neighbour Agreements
+
+> That part d) of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Good Neighbour Agreements
+
+> That part e) of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
+
+> That the delegation request from S. Campbell, Ark Aid Street Mission, with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
+
+> That the communication, as appended to the Agenda, from Councillor Rahman, Deputy Mayor S. Lewis and Councillor E. Peloza, with respect to Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles, BE RECEIVED; it being noted tha...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
+
+> That the Civic Administration BE DIRECTED to limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027; it being noted that a communication, as appended to the Added Agenda, as well as a ver...
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
+
+> That the request for delegation from M. Cassidy, Pillar Nonprofit Network BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That it being noted that communications from the following individuals, as appended to the Agenda and the Added Agenda, with respect to this matter, were received: -    Councillors S. Trosow and D. Ferreira;  -    Councillor S. Stevenson;  -    S. Mcfarlane, London ACORN East of Adelaide Chapter;...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That the delegation requests from S. Campbell, Ark Aid Mission, V. Brown, C. McDonald, London Cares, M. Kolls, R. Klemm and T. Davies BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That pursuant to section 35.7 of the Council Procedure by-law, the Council decision with respect to the Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 having to do with the September 29, 2025 Staff Report – Proposed Temporary Warming Centre Framework BE RECONSIDERED ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That the amendment to part a) BE FURTHER AMENDED to add the following: and that notwithstanding previous council direction spaces on a BIA main street shall be considered as part of this initiative until April 30, 2026
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That the amendment to part a), as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That part b) BE AMENDED to provide for the financing to be pulled from the Social Services Reserve Fund up to a maximum of $290,000.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That parts a), b) and c) of the main motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That part d) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Temporary Warming Centres
+
+> That part e) i) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That part e) ii) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.2. Temporary Warming Centres
+
+> That part e) iii) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Temporary Warming Centres
+
+> That part e) iv) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.2. Temporary Warming Centres
+
+> That part e) v) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+</details>
+
+### 4.2. Temporary Warming Centres
+
+> That part e) vi) of the motion, as amended, BE APPROVED.
+
+**❌ Motion Failed (3 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2627,295 +2918,3 @@ There are more people falling in homelessness. We have actually done an exceptio
 Kemel and I had a great conversation on the weekend and she mentioned it herself the crux of the need to sit down and discuss how we do what we're doing with less resources because this is a perfect example of millions of dollars from the federal government disappearing from being part of the solution the municipal property tax base does not take into consideration a resident's ability to pay it's based on a number on a building they live in that MPAC establishes income tax and consumer tax that the federal and the provincial governments collect are based on someone's ability to pay and the choices they make at the cash register so those who have the most contribute the most back in theory so when we think about our municipal reality and when we think about the advocacy piece it's vital and we need to do that council how can spoke to ammo and and that's that's a key component but I think beyond that as a community when we speak to our MPs when we speak to our MPPs particularly as counselors sometimes a little harder for staff to do this but we can lobby too and when we do that we should be going to the table with community partners not just as the voice of municipal council but with with our agency partners with our police partners with our our frontline providers just as we do in other areas so we are on a funding cliff and I don't hold out a lot of hope that the feds are going to hear us in time to address that so we are going to have to continue to do what we can but we are going to have to face some tough decisions and the reality is there's no good decision right now because there is no solution we can provide from this chamber from this building in this community alone I spoke to CBC on Friday again incidents of people being sent here told that they have a bed at the Salvation Army and they get here and they don't have a bed though those kind of things we can't just keep doing that to each other we need to come together that's why what ammo is doing is so important because all the municipalities have to speak with one voice on this and unfortunately we have municipalities that are speaking it but they're not acting it and that that's going to be a problem that we're going to have to really take to heart and think about how we address as we look off the side of this funding cliff. Thank you I'll note that Councillor Ferra has left the meeting looking for further speakers before I call the question call on the question closing the vote the motion carries five to zero motion to adjourn by hand moved by Deputy Mayor Lewis seconded by Councillor Trousow hand vote all in favour of adjournment motion carries thank you that concludes our meeting today safe travels home and thank you to all those in the gallery who started the beginning into those hardcore ones who spent the entire night with us thank you so much
 
 </details>
-
----
-
-## Votes
-
-*26 substantive votes at this meeting (11 contested, 15 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.4 and 2.5 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Good Neighbour Agreements
-
-> That part a) of the motion BE AMENDED as follows: i)     the Civic Administration BE DIRECTED to provide a one year contract renewal for the procurement framework  with an option to renew for one year; and, ii)     that Civic Administration BE DIRECTED to review existing housing stability contrac...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. Good Neighbour Agreements
-
-> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 2.2. Good Neighbour Agreements
-
-> That part a) of the motion BE APPROVED.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 2.2. Good Neighbour Agreements
-
-> That part b) of the motion BE APPROVED.
-
-**❌ Motion Failed (1 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Nay (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. Good Neighbour Agreements
-
-> That part c) of the motion BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Good Neighbour Agreements
-
-> That part d) of the motion BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Good Neighbour Agreements
-
-> That part e) of the motion BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. System Area Update: Supports for Those Living Unsheltered: Basic Needs and Pathway Options
-
-> That the delegation request from S. Campbell, Ark Aid Street Mission, with respect to this matter, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
-
-> That the communication, as appended to the Agenda, from Councillor Rahman, Deputy Mayor S. Lewis and Councillor E. Peloza, with respect to Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles, BE RECEIVED; it being noted tha...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
-
-> That the Civic Administration BE DIRECTED to limit the City of London Community Grants Annual Program to the capital funding category, as defined in the City of London Community Grants Policy for 2026 and 2027; it being noted that a communication, as appended to the Added Agenda, as well as a ver...
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Allocating the City of London Community Grants Annual Stream to Fund Capital Projects Only in the 2026 and 2027 Budget Cycles
-
-> That the request for delegation from M. Cassidy, Pillar Nonprofit Network BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That it being noted that communications from the following individuals, as appended to the Agenda and the Added Agenda, with respect to this matter, were received: -    Councillors S. Trosow and D. Ferreira;  -    Councillor S. Stevenson;  -    S. Mcfarlane, London ACORN East of Adelaide Chapter;...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That the delegation requests from S. Campbell, Ark Aid Mission, V. Brown, C. McDonald, London Cares, M. Kolls, R. Klemm and T. Davies BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That pursuant to section 35.7 of the Council Procedure by-law, the Council decision with respect to the Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 having to do with the September 29, 2025 Staff Report – Proposed Temporary Warming Centre Framework BE RECONSIDERED ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That the amendment to part a) BE FURTHER AMENDED to add the following: and that notwithstanding previous council direction spaces on a BIA main street shall be considered as part of this initiative until April 30, 2026
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That the amendment to part a), as amended, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That part b) BE AMENDED to provide for the financing to be pulled from the Social Services Reserve Fund up to a maximum of $290,000.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That parts a), b) and c) of the main motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That part d) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.2. Temporary Warming Centres
-
-> That part e) i) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That part e) ii) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 4.2. Temporary Warming Centres
-
-> That part e) iii) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.2. Temporary Warming Centres
-
-> That part e) iv) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.2. Temporary Warming Centres
-
-> That part e) v) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-</details>
-
-### 4.2. Temporary Warming Centres
-
-> That part e) vi) of the motion, as amended, BE APPROVED.
-
-**❌ Motion Failed (3 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-

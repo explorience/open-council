@@ -693,6 +693,68 @@ The meeting adjourned at 6:10 PM.
 > **Bill No. 390**
 > 
 > By-law No. S.-6209-272 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway. (as widening to Gainsborough Road, east of Hyde Park Road)  (Chief Surveyor – for road dedication purposes pursuant to SPA20-068)
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
+
+### 8.1. 12th Report of the Community and Protective Services Committee
+
+> That the 12th Report of the Community and Protective Services Committee BE APPROVED, excluding Item 5 (clause 5.1).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.5. (5.1) Deferred Matters List
+
+> Motion that Item 1 of the Deferred Matters List BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.5. (5.1) Deferred Matters List
+
+> Motion that the balance of the Deferred Matters List BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 14th Report of the Corporate Services Committee
+
+> That the 14th Report of the Corporate Services Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.3. 14th Report of the Civic Works Committee
+
+> That the 14th Report of the Civic Works Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 9.1. 14th Report of Council in Closed Session
+
+> - That progress was made with respect to items 4.1 and 4.2, as noted on the public agenda (6.1/14/CSC) and (6.1/15/SPPC).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 9.2. 15th Report of the Strategic Priorities and Policy Committee
+
+> That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -1259,66 +1321,3 @@ Second it. Everybody. All those in favor? Motion carries.
 This meeting is adjourned. Bravo.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (0 contested, 7 unanimous). Procedural motions excluded.*
-
-### 8.1. 12th Report of the Community and Protective Services Committee
-
-> That the 12th Report of the Community and Protective Services Committee BE APPROVED, excluding Item 5 (clause 5.1).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.5. (5.1) Deferred Matters List
-
-> Motion that Item 1 of the Deferred Matters List BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.5. (5.1) Deferred Matters List
-
-> Motion that the balance of the Deferred Matters List BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 14th Report of the Corporate Services Committee
-
-> That the 14th Report of the Corporate Services Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.3. 14th Report of the Civic Works Committee
-
-> That the 14th Report of the Civic Works Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 9.1. 14th Report of Council in Closed Session
-
-> - That progress was made with respect to items 4.1 and 4.2, as noted on the public agenda (6.1/14/CSC) and (6.1/15/SPPC).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 9.2. 15th Report of the Strategic Priorities and Policy Committee
-
-> That the 15th Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

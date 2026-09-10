@@ -679,6 +679,66 @@ That the April 30, 2024 Deferred Matters List BE RECEIVED.
 
 
 The meeting adjourned at 4:16 PM.
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Changes to the Conservation Act
+
+> That T. Annett, General Manager and J. Allain, Manager, Environmental Planning and Regulations and Representatives, Upper Thames River Conservation Authority (UTRCA), BE GRANTED delegation status at the May 22, 2024 Planning and Environment Committee meeting to provide an update on recent legisla...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 743 Wellington Road (Z-9720)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Olde School Professional Properties Inc., relating to the property located at 743 Wellington Road: a)    the proposed attached, revi...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.4. 530 Oxford Street West (OZ-9712)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Captain Generation Mall Limited (c/o MHBC), relating to the property located at 530 Oxford Street West: a)    the proposed by-law appended to the staff report d...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 193-199 College Avenue (OZ-8693)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of College Avenue Lofts Inc. (c/o York Developments) relating to the property located at 193-199 College Avenue: a)    the development, as proposed, B...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1611,64 +1671,3 @@ We're now at a Germano look promotion to adjourned. Deputy Mayor and Councilor A
 Thanks, folks. We're adjourned. Thanks. Yeah, thank you.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Changes to the Conservation Act
-
-> That T. Annett, General Manager and J. Allain, Manager, Environmental Planning and Regulations and Representatives, Upper Thames River Conservation Authority (UTRCA), BE GRANTED delegation status at the May 22, 2024 Planning and Environment Committee meeting to provide an update on recent legisla...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 743 Wellington Road (Z-9720)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Olde School Professional Properties Inc., relating to the property located at 743 Wellington Road: a)    the proposed attached, revi...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.4. 530 Oxford Street West (OZ-9712)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Captain Generation Mall Limited (c/o MHBC), relating to the property located at 530 Oxford Street West: a)    the proposed by-law appended to the staff report d...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 193-199 College Avenue (OZ-8693)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of College Avenue Lofts Inc. (c/o York Developments) relating to the property located at 193-199 College Avenue: a)    the development, as proposed, B...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-

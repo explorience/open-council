@@ -505,6 +505,172 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 5:12 PM.
+
+---
+
+## Votes
+
+*14 substantive votes at this meeting (6 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+> Motion to approve the requests for delegation, as listed on the Added Agenda, from K. Andrews, C. Wittnebel, J.M. Smith, M. Jollymore, T. Jollymore, D. Millette and R. Slade, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+> That the matter of renovictions and amendments to the business licensing by-law BE REFERRED back to the Civic Administration to report back to a future meeting of the Community and Protective Services Committee to include rent top ups and alternate accommodations as part of the by-law.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+> That the Civic Administration BE DIRECTED to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulation of Various Businesses”, attached to the CPSC report, to include temporary alternative accommodation for displaced tenants and short-term rental top ups as provided ...
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+> Motion to approve parts a) to d) of the main motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
+
+> Motion to approve part e) of the main motion: e)    that NO ACTION BE TAKEN to amend By-law No. CP-19, the Residential Rental Unit Licensing By-law to expand the program to licence all multi-unit residential dwellings up to and including four (4) storeys in height or less, including those units c...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.3. Regulating Maximum Temperature in Rental Units
+
+> Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, from K. Pagniello and A.M. Valastro, to be heard at this meeting
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Regulating Maximum Temperature in Rental Units
+
+> Motion to approve part a) of the motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Regulating Maximum Temperature in Rental Units
+
+> Motion to approve part b) of the motion.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.4. Special Events Policy Update
+
+> Motion to approve the request for delegation, as appended to the Added Agenda, from A.M. Valastro, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Special Events Policy Update
+
+> Motion to approve a new part d): the Civic Administration BE DIRECTED to hold a hybrid community meeting with residents and neighborhood associations near Victoria Park, Harris Park, and Dundas Place to address the impact of changes to the Special Events Policy on their neighborhoods.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.4. Special Events Policy Update
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Life*Spin - Property Standards and Tenant Support - REQUEST FOR DELEGATION STATUS
+
+> That the request for delegation status from Life*Spin, as appended to the agenda, with respect to Property Standards and Tenant Support, BE APPROVED to be heard at a future meeting of the Community and Protective Services Committee. (2024-A20)
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 6. Confidential
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 in Stage 6, Confidential, to be considered in Stage 4, Items for Direction
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -1305,170 +1471,3 @@ Catolic uh we'll go back to County Council. Yeah thank thank thank you that that
 Councillor Trusso was that a Councillor Ferri you can move your you can move it as amended that's fine too like you did it okay so Councillor Ferri has moved the staff report we can make amendments as we go if we want with the one that just passed as well for extra engagement it was seconded by Councillor Trusso everything is on the floor open season on questions uh Councillor Pribble do you want me to start with you because you've mostly held tight yes please okay i will start sorry i'm guys now there's the question again with uh Harry's Park and Victoria Park the 12 days nine days through the chair to the staff can you please tell me how many we have currently in these two parks on an annual basis mr. Smith thank you and through the chair there are limits and this this proposed policy does not increase the number of special events in London as we do not have the operational capacity to do this so that means it will maintain nine events in Victoria Park five and spring bank parks and currently we allowed 12 up to 12 days of amplified sound in Harris Park this year in 2024 that meant there was only two events in Harris Park one was canceled due to the rain Councillor Pribble okay thank you and thank you and uh no more questions and i'm just gonna make a comment or statement what's in front of us and i know there's no decision made now and then the staff is going to come back to us and there's going to be involved in other community but i really uh to be honest with you if you were voting for it today i would not support it and from various reasons actually certainly from the neighbors neighborhoods absolutely to end at 11.1.2 when i look at cultural economic and social fabric of London there are a lot of actually businesses that when concerts uh finish at 11 o'clock outdoors there are individuals that go actually indoors and they still continue socializing they are still having a cultural experience and there are many economic benefits to the businesses and just to add uh just to add to be up front not to my business i'm closed by 11 o'clock so i'm not i'm not talking from my personal advantage but i really when i when i went through the report to be honest with you i don't see uh i don't see any great benefits for us to go beyond 11 o'clock so that was the thing why i voted last time no uh sorry last time five minutes ago because whatever staff planned to do with our communities and reach out i was satisfied with that and uh that's all i have to this one thank you thank you uh and not that anyone ever has to but just declaring publicly that you have no pecuniary interest because you're not open i appreciate the transparencies we moved through this conversation um council trial so i believe y'all had next you mommy next yeah sorry words game blurred you're next well through through the presiding officer i i just want to really profusely thank you for this report as you know this has been something that i've been really looking looking forward to and there are a couple of issues in here that are very important to me um first and foremost is the availability of water i think that's a human right and this is this is what set me into becoming interested in this policy in the first place what you put in here is exactly what we should be doing and i really i really hope that this is something that the operators just realize is is something that the community really wants and needs and we can just get to this point there is a little bit of ambiguity in terms of um whether or not the water is available in the park but i think to the extent that the city has already shown that they can they can they can get their third stations the harris park i think that removes that if if that could if that's probably something that'll come up at the public participation meeting um what's really significant here is the operator does not have the ability to preclude people from being from bringing in um their their own their own uh water water bottle containers and frankly if you wanted to say no glass that would be fine with me um but um i think i think allowing people to come in with um even an empty um water bottle or a full water bottle that is um make sure it's sealed you want to make sure it's not vodka or rum or whatever wherever people might put in these things that's fine but the fact that you're you're not making people get rid of these things is is so important the other thing that's so important here that i really want to call out for special positive attention is is this is this is this cycling i think that what you're doing here is you're you're giving people a positive incentive to bring their cycles if you're telling them that there's going to be a place where they are going to be cared for people are scared to bring their cycles to a lot of these um events because of the theft so this is just so important to the cycling community thank you for that um the only real issue i have with this and this will get flushed out i guess later on at council and at the public participation meeting is uh is the hours of operation i feel very strongly that this needs to not be extended past 11 yes 15 minute grace period but i think that gives the operators advanced notice that they're going to have to plan their their events to uh to fall within this i think i think the point that was made about it takes people a while to get out of the park and then get to their cars um if this is going to be going on for a couple of days it is going to be it is going to be um on on one week nights um so i'm very i'm very happy about that and the one thing i do want to clarify and i i think the answer is is is is evident through its absence is i don't think the operators should be able to then go to municipal compliance to get a class two special events permit to go beyond the 11 o'clock if we put into the bylaw that it's 11 o'clock i i want to make sure that uh that that that operators do not feel that they can then use the sound bylaw because this is not just the sound bylaw this this goes beyond just the sound bylaw and and i i think the answer to my question is that's covered but i just want to make sure that we're not creating any unanticipated loopholes here and that's those are my comments thank you thank you again thank you uh staff reply to comments made by the counselor if they wish thank you and through miss uh presiding officer i believe there are no changes to the sound bylaw in this report and it would be if it goes to 11 a.m which is currently in the policy it is 11 it is 11 a.m it ends at 11 a.m it would not change it would not change based on our current policy but i will double check that with mr katole like and uh have an answer for you for council okay thank you uh i'm somewhere on the speaker's list uh councilor fair is somewhere on the speaker's list technique speaking councilor fair is also the chair's committee um would you like to take it back okay so councilor fair is going to take the chair back i will let you know that councilor pribble has used a minute and 32 seconds of this five minutes and councilor troso has used three minutes and 30 seconds of his five minutes and at some point i would like to ask an onslaught of questions thank you counselor um you have five minutes and i will go to you thank you uh and thank you to staff this report we've been waiting for it to help clean up some things and do guidance of communities and special events so i appreciate it um my questions are random and throughout the report so i will start in numerical order on page 51 it was the best specific policy updates that the events must be compliant with the aod a um so it's accessibility front areas with disability act um which is great just are our parks fully compliant themselves i know sometimes walkways get any water or i know victoria park at one point we put the stones along the pathway i've had my own issues with the rocks with children and not paying attention does that is that still compliant like is our park facility compliant before we even ask others to be compliant thank you counselor uh miss sure thank you mr chair i can start maybe mr yoma may wish to add to that all of our parks are designed and managed with respect to the current legislation for compliance there are um certainly temporary conditions that would restrict access that concludes snow ice flooding those are not covered under the act because they are temporary conditions versus design conditions that would also apply in the case that perhaps the turf or other surfaces are interrupted by um damage those sorts of issues uh we are moving away from the idea of using things like um brick pavers that can easily pop out because the maintenance to keep them in compliance with the act is extremely high and there are really good alternatives like stamp creed on the market so uh we move towards better compliance across the board with every park project we do uh but certainly the parks that we're discussing for these events we do not have compliance concerns thank you counselor thank you um page 56 um 4.6 was non-profit and profit events i know i do help out one charity that does work in our parks um just i know when the however the city manages their their contracts for for-profit events is this saying that they'd have to show us like all their books like i'm just not aware of like proprietary information if it's if this is getting because it just as any event operator um may be required to complete it and and submit a business plan event summary report and event financial statement i just don't know what an event financial statement is of like do you have security or first aid on site or is it like how much are you making how much are you charging vendors what's admission fee how much profit are you making who's the shareholder like i just don't know looking for more guidance and clarity on this one thank you counselor miss halleck thank you for the question and through the chair it would be specific to the event so we wouldn't be looking for the books of not-for-profit agencies it would be we may require to understand particularly if it's a not-for-profit that's looking to host a gated event um what the event uh revenues and expenses were and it would be in a template that is suitable to the city of london so it would be just specific to the event thank you is there an example in existence of what that template currently or would look like that could be an appendix to this report thank you uh back to staff thanks and through the chair yes we have actually had event operators submit their reports in a template that is suitable to them but as part of the development of the administrative procedures that will be um supporting the special event policy we'll be looking to develop templates so we we could provide that in advance if you'd like or it could be something that you would see as part of the administrative procedural manual based off of the direction from council uh for the special event policy thank you thank you counselor thank you mr chair um if possible um i know this goes through council and there's a future p m pm if it was ready for the ppm just the public had feedback as a non-profit of if they understand it if it's too complicated if it's wonderful just if they're here anyways if it's prepared in advance that would be appreciated um sorry just let me flip um 4.16 was inflatable inflatable things mechanical electrical rides just my question was um vehicles and trailers associated with mechanical or electric rides and inflatables are not permitted to maintain on site after park setup um i think what i was thinking with that one i was thinking like if cuz there was other stuff on vehicles not staying on site that if someone had like a vehicle or trailer that was like a cooling center for staff but it's a vehicle or trailer and so electrical is does this prohibit it from staying on site just sometimes there's like first aid trailers or tents that are just looking for clarification thank you counselor mr thank you and through the chair um this specifically tells it within the park on the grass for example when um it allows so our our rides and our trailers can be on the um on the roadway and often what event operators do work with uh the special events team and close down a portion of the of roadway so that would be where the mechanical rides any of the trailers that are required especially for food events like rip fest thank you to you counselor please okay thank you yeah i'm just trying to bounce out when you see the big events that we enjoy downtown versus the candidate celebrations and parks of lots going on with different people um and different providers coming into the city um i think i have one more just oh yes uh page 60 say it then not get an accent from somewhere um item 4.25 um since we discussed penalties and by-law so so much today um that this was a fee of the special event operator would be subject to a food dealer per vehicle administration fee um that could be for like vehicles left in the park realizing that some events are multiple days is this like oh you parked on our grass here's the 50 dollar fee enjoy the rest of your free parking for the rest of the event or like we come back every few hours until this car is moved and you get a reticket or it's towed just looking for how fast we'd want that vehicle moved in the policy for penalties thank you counselor i will go to mr johnson miss pallet miss pallet miss pallet yeah thanks for the question to the chair so this i think you're looking at the old policy so appendix b so that is not in the proposed changes for appendix a and parking violations um are administered through our enforcement officers and and not through the special event policy thank you thank you counselor true i am in the current one so is that changing as per the new one or is it just and then it so my okay so it's changing for the new one parking enforcement will do it so is that parking enforcement coming back like every so many like i know how they do the street ones they chalk wheels and eventually come back um just just think it's a special events in a park and thank you if staff knows if not i'm finding that answer for council i know i think if i have questions in advance so apologies to the chair i'll look to staff and if anybody wants to answer uh feel free too yeah thank you for the question we will get a defined answer for you by council we're not exactly sure right now it is it is currently enforced by parking so we'll get an answer for you by council thank you thank you counselor thank you for your indulgence my questions that concludes the mr chair thank you counselor looking to the rest of committee comments questions okay last call let's call the question closing the vote the motion carries five to zero okay we're in the home stretch that is it for items for direction no deferred matters or additional business that i have confidential has been done so that leaves us to adjournment looking for a motion move oh that's correct i will look to my vice chair to do that thank you council reporting out that progress was made for the item in which we went in camera for that's on the public agenda thank you so much okay now that's a motion to adjourn moved by counselor mccalister seconded by counselor trussle yes second okay i am vote all in favor i'll opposed that's carried this meeting is adjourned thank you
 
 </details>
-
----
-
-## Votes
-
-*14 substantive votes at this meeting (6 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.5 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
-
-> Motion to approve the requests for delegation, as listed on the Added Agenda, from K. Andrews, C. Wittnebel, J.M. Smith, M. Jollymore, T. Jollymore, D. Millette and R. Slade, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
-
-> That the matter of renovictions and amendments to the business licensing by-law BE REFERRED back to the Civic Administration to report back to a future meeting of the Community and Protective Services Committee to include rent top ups and alternate accommodations as part of the by-law.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
-
-> That the Civic Administration BE DIRECTED to amend By-law No. L.-131-16, being “A by-law to provide for the Licensing and Regulation of Various Businesses”, attached to the CPSC report, to include temporary alternative accommodation for displaced tenants and short-term rental top ups as provided ...
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
-
-> Motion to approve parts a) to d) of the main motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Renovictions - Amendments to the Business Licensing By-law to Introduce a Rental Unit Repair Licence
-
-> Motion to approve part e) of the main motion: e)    that NO ACTION BE TAKEN to amend By-law No. CP-19, the Residential Rental Unit Licensing By-law to expand the program to licence all multi-unit residential dwellings up to and including four (4) storeys in height or less, including those units c...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.3. Regulating Maximum Temperature in Rental Units
-
-> Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, from K. Pagniello and A.M. Valastro, to be heard at this meeting
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Regulating Maximum Temperature in Rental Units
-
-> Motion to approve part a) of the motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Regulating Maximum Temperature in Rental Units
-
-> Motion to approve part b) of the motion.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.4. Special Events Policy Update
-
-> Motion to approve the request for delegation, as appended to the Added Agenda, from A.M. Valastro, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Special Events Policy Update
-
-> Motion to approve a new part d): the Civic Administration BE DIRECTED to hold a hybrid community meeting with residents and neighborhood associations near Victoria Park, Harris Park, and Dundas Place to address the impact of changes to the Special Events Policy on their neighborhoods.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.4. Special Events Policy Update
-
-> Motion to approve the motion, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Life*Spin - Property Standards and Tenant Support - REQUEST FOR DELEGATION STATUS
-
-> That the request for delegation status from Life*Spin, as appended to the agenda, with respect to Property Standards and Tenant Support, BE APPROVED to be heard at a future meeting of the Community and Protective Services Committee. (2024-A20)
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 6. Confidential
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 in Stage 6, Confidential, to be considered in Stage 4, Items for Direction
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

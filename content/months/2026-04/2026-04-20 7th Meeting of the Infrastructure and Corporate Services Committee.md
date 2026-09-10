@@ -449,6 +449,27 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:37 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2.8. 2025 Year-End Operating Budget Monitoring Report
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating Budget Year-End Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastewa...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
 ---
 
 ## Full Transcript
@@ -853,25 +874,3 @@ Thank you, looking for a motion to adjourn. Councillor Frank, I'll second. All t
 Thank you.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
-
-### 2.8. 2025 Year-End Operating Budget Monitoring Report
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2025 Year-End Operating Budget Monitoring Report: a)   the 2025 Operating Budget Year-End Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastewa...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-

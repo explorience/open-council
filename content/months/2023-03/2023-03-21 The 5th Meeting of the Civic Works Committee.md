@@ -299,6 +299,36 @@ None.
 
 
 The meeting adjourned at 12:49 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.4 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
+
+> Motion to approve part a).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
+
+> Motion to approve part b).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -499,34 +529,3 @@ We'll be a mover and a seconder, thank you. Mayor Morgan and Councilor McAlliste
 Seeing none, we're on item number six, adjournment. Councilor Troso and Councilor Cuddy, all in favor. And thank you, have a great rest of your day, everyone.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.4 to 2.12 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
-
-> Motion to approve part a).
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
-
-> Motion to approve part b).
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

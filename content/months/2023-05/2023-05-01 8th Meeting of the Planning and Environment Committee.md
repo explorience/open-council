@@ -560,6 +560,36 @@ The Planning and Environment Committee convened, in Closed Session, from 4:53 PM
 
 
 The meeting adjourned at 5:34 PM.
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 614 Westmount Crescent (Z-9553)
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent, the Site Plan Approval Authority BE REQUESTED to consider adding clauses relating to the access alignment across f...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 6. Confidential
+
+> Motion to go in camera at 453
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -870,34 +900,3 @@ Thank you. I'll look for a motion to adjourn. Councillor Frank, seconded by Coun
 We are adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 614 Westmount Crescent (Z-9553)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent, the Site Plan Approval Authority BE REQUESTED to consider adding clauses relating to the access alignment across f...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 6. Confidential
-
-> Motion to go in camera at 453
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

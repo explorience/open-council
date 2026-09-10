@@ -974,6 +974,91 @@ The meeting adjourned at 3:36 PM.
 > **Motion Passed (5 to 0)**
 
 ****
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 2118 Richmond Street (OZ-9770)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Encore at Upper Richmond Inc., relating to the property located at 2118 Richmond Street: a) the proposed by-law appended to the staff report dated October 22, 2...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc., (c/o Strik Baldinelli Moniz), relating to the property located at 1856-1910 Oxford Street West: a) the proposed revised, attached, by-...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc. (c/o Strik Baldinelli Moniz) relating to the property located at 1856-1910 Oxford Street West:  (a)    the proposed by-law attac...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Hyde Park BIA Boundary Expansion Request
+
+> That Civic Administration BE DIRECTED to take the necessary steps to expand the boundary of the Hyde Park Business Improvement Area; it being noted that the Planning and Environment Committee heard verbal delegations and received a communication dated October 8, 2024 from D. Szpakowski, General M...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Hyde Park BIA Boundary Expansion Request
+
+> That D. Szpakowski and T. Delaney, Hyde Park Business Improvement Association BE GRANTED delegation status with respect to the Hyde Park Business Improvement Association boundary expansion request.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) A. Badillo, Urban Roots London
+
+> The Civic Administration be directed to allocate $23,167.00 from the Community Investment Reserve Fund to cover the cost of severing the residential portion of the Urban Roots property at 21 Norlan.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) A. Badillo, Urban Roots London
+
+> That A. Badillo, Executive Director, Urban Roots BE GRANTED delegation status; it being noted that the Planning and Environment Committee received a communication dated October 16, 2024, from A. Badillo, Executive Director, Urban Roots London, with respect to these matters.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 6. Adjournment
+
+> The meeting adjourned at 3:36 PM.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1738,89 +1823,3 @@ And so in a very real way we are transferring some of our community investment r
 Deputy Mayor. Yes thank you and that's kind of what I wanted to get to is really in the grand scheme of things we're not really giving urban routes 23,000 and some change to go off and pay a bunch of bills of their own they're actually going to be paying city bills to continue to do the work that they're doing and because and I recognize and I absolutely agree that we can't and we shouldn't look to change policies to start allowing fee waivers but I'm I'm happy to support this I will say I'm going to take a slightly different approach than my two previous colleagues that I know we have had urban routes come before us before through the community grants process and and then they have been successful in that but I think that is one of the examples of community grants that has been excellent and a successful investment and and a good return on investment for the community I don't think that all the community grants have been that way but I think urban routes is actually an example of an excellent excellent applicant who's taken the grant funding that they've received and put it to excellent use so this is a very very small amount from a an investment community risk investment reserve fund that has a fairly substantive balance at the moment so I don't have any concerns I have been to urban routes events I have also heard those secondhand stories from some of the partnerships that they've had with the school boards in terms of education and opportunities for young people and in addition to the food growth I think that that partnership in educating our young people brings a value that we don't or shouldn't underestimate and those are opportunities that would not exist for Thames Valley school board students if urban routes was not there so I'm also aware that attempting to rezone the property in the past was problematic we are dealing with floodplains we are dealing with upper tems and there would be section 28 and there's servicing challenges there all of which are significantly more money than this amount of money would be so I'm very pleased with this motion happy to support the word counselor and the mover on this and support urban routes and continuing to the work that they do thank you other comments or questions the committee will permit me just a quick comment from the chair thank you miss bidilla on your team for coming today I think this is a good example for other nonprofits to use I'm very impressed with the fact that you've reached out to all aspects of the community I see some good pro bono work being done you've done good work before coming here like the tempting thing is just come here and ask for money and as you know it's challenging for taxpayers in London so this type of effort from my perspective is very much appreciated and for sure it leads me to supporting this motion there's no other comments or questions we have motion moved in second at all call the vote closing the vote the motion carries five to zero now I believe that's the end of the agenda I get the hot the head nod from the clerk and from council frank so that's all powerful so all the promotion adjourned deputy mayor Lewis seconded by council roman hand vote all in favor thank you thanks everyone thank you folks for coming today stuff yeah do you think so they're all going to move so staff and
 
 </details>
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (1 contested, 8 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 2118 Richmond Street (OZ-9770)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Encore at Upper Richmond Inc., relating to the property located at 2118 Richmond Street: a) the proposed by-law appended to the staff report dated October 22, 2...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc., (c/o Strik Baldinelli Moniz), relating to the property located at 1856-1910 Oxford Street West: a) the proposed revised, attached, by-...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 1856-1910 Oxford Street West (O-9484 & Z-9458)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Oxford West Gateway Inc. (c/o Strik Baldinelli Moniz) relating to the property located at 1856-1910 Oxford Street West:  (a)    the proposed by-law attac...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Hyde Park BIA Boundary Expansion Request
-
-> That Civic Administration BE DIRECTED to take the necessary steps to expand the boundary of the Hyde Park Business Improvement Area; it being noted that the Planning and Environment Committee heard verbal delegations and received a communication dated October 8, 2024 from D. Szpakowski, General M...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Hyde Park BIA Boundary Expansion Request
-
-> That D. Szpakowski and T. Delaney, Hyde Park Business Improvement Association BE GRANTED delegation status with respect to the Hyde Park Business Improvement Association boundary expansion request.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.2. (ADDED) A. Badillo, Urban Roots London
-
-> The Civic Administration be directed to allocate $23,167.00 from the Community Investment Reserve Fund to cover the cost of severing the residential portion of the Urban Roots property at 21 Norlan.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.2. (ADDED) A. Badillo, Urban Roots London
-
-> That A. Badillo, Executive Director, Urban Roots BE GRANTED delegation status; it being noted that the Planning and Environment Committee received a communication dated October 16, 2024, from A. Badillo, Executive Director, Urban Roots London, with respect to these matters.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 6. Adjournment
-
-> The meeting adjourned at 3:36 PM.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

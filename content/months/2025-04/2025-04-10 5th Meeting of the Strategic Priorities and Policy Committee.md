@@ -144,6 +144,54 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:57 PM.
 
 ****
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
+
+> That, on the recommendation of the City Manager, the following actions be taken with respect to the appointment of a consultant for the development of the Economic Development Strategy: a)    Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Stra...
+
+**✅ Motion Passed (10 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
+
+> That the appointment of a consultant for the development of the Economic Development Strategy BE REFERRED to a future meeting of the Strategic Policy and Priorities Committee for Civic Administration to report back on proponents and their status as Canadian firms.
+
+**❌ Motion Failed (4 to 8)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.2. Communication from Councillor/Budget Chair E. Peloza and Councillor S. Lehman
+
+> That the following actions be taken with respect to the Submission – Economic Development Strategy: a) the Civic Administration BE DIRECTED to review the City of London’s contracted services with London Economic Development Corporation, TechAlliance and the Small Business Center to identify if an...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
 ---
 
 ## Full Transcript
@@ -366,52 +414,3 @@ Part of this is a review of contracted services so until we have that report bac
 and we have dispensed with our agenda so I'm looking for a motion to adjourn moved by Councillor Hillyer and Councillor Hopkins seconds by hand all those in favor that motion carries thank you we are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
-
-> That, on the recommendation of the City Manager, the following actions be taken with respect to the appointment of a consultant for the development of the Economic Development Strategy: a)    Deloitte LLP BE APPOINTED as the Consultant to undertake the development of the Economic Development Stra...
-
-**✅ Motion Passed (10 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.1. Economic Development Strategy: Appointment of Consultant for RFP 2025-004
-
-> That the appointment of a consultant for the development of the Economic Development Strategy BE REFERRED to a future meeting of the Strategic Policy and Priorities Committee for Civic Administration to report back on proponents and their status as Canadian firms.
-
-**❌ Motion Failed (4 to 8)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (3):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.2. Communication from Councillor/Budget Chair E. Peloza and Councillor S. Lehman
-
-> That the following actions be taken with respect to the Submission – Economic Development Strategy: a) the Civic Administration BE DIRECTED to review the City of London’s contracted services with London Economic Development Corporation, TechAlliance and the Small Business Center to identify if an...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
