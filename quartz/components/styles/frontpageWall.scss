@@ -1,0 +1,530 @@
+@use "../../styles/variables.scss" as *;
+
+// Front Page v3 — The Division Wall (homepage-only)
+//
+// Design tokens (--paper, --ink, --yea-m, --graphite*, etc.) come from
+// quartz/styles/frontpage.scss, loaded globally via custom.scss — this
+// file only lays out this component's own markup.
+
+.fp-wall-section {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 1rem;
+  color: var(--ink);
+  // Backstop against the whole page scrolling horizontally — the actual
+  // overflow sources (flex/grid children defaulting to min-width:auto
+  // around long committee names) are fixed above, this just guarantees
+  // it structurally.
+  overflow-x: hidden;
+
+  @media all and ($mobile) {
+    padding: 1.5rem 1rem 0.5rem;
+  }
+}
+
+// ---------------------------------------------------------------------
+// Hero
+// ---------------------------------------------------------------------
+.fp-hero {
+  position: relative;
+  padding-bottom: 1.5rem;
+  border-bottom: 3px solid var(--ink);
+  margin-bottom: 2rem;
+}
+
+.fp-ghost {
+  position: absolute;
+  right: -10px;
+  top: 2px;
+  z-index: 0;
+  font-weight: 900;
+  font-variation-settings: "wdth" 78;
+  font-size: clamp(120px, 24vw, 290px);
+  line-height: 1;
+  color: transparent;
+  -webkit-text-stroke: 1.5px var(--ghost);
+  text-stroke: 1.5px var(--ghost);
+  user-select: none;
+  pointer-events: none;
+
+  @media all and ($mobile) {
+    position: static;
+    display: block;
+    text-align: right;
+    font-size: clamp(64px, 22vw, 120px);
+    margin-bottom: 0.25rem;
+  }
+}
+
+.fp-kicker {
+  position: relative;
+  z-index: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin: 0 0 0.5rem;
+}
+
+.fp-h1 {
+  position: relative;
+  z-index: 1;
+  font-weight: 900;
+  font-variation-settings: "wdth" 76;
+  font-size: clamp(46px, 9.5vw, 104px);
+  line-height: 0.94;
+  text-transform: uppercase;
+  max-width: 12ch;
+  margin: 0 0 0.75rem;
+}
+
+.fp-ox {
+  color: var(--accent);
+  background-image: linear-gradient(var(--accent-fill), var(--accent-fill));
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  background-size: 100% 4px;
+  padding-bottom: 0.05em;
+}
+
+.fp-sub {
+  position: relative;
+  z-index: 1;
+  max-width: 42ch;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1.55;
+  margin: 0;
+}
+
+// ---------------------------------------------------------------------
+// Stats column ("What's on file" + "Ask the record")
+// ---------------------------------------------------------------------
+.fp-stats {
+  display: grid;
+  grid-template-columns: minmax(0, 2.1fr) minmax(0, 1fr);
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+
+  @media all and ($mobile) {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+.fp-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 1.25rem;
+}
+
+.fp-assistant-lead {
+  margin: 0 0 0.75rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.fp-assistant-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.fp-assistant-chip {
+  font-size: 0.75rem;
+  padding: 0.4rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+
+  &:hover {
+    border-color: var(--accent);
+    background: var(--paper);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+}
+
+.fp-assistant-inputrow {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.fp-assistant-input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--ink);
+  font-size: 0.85rem;
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+}
+
+.fp-assistant-send {
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--accent-fill);
+  background: var(--accent-fill);
+  color: var(--accent-ink);
+  cursor: pointer;
+  font-size: 0.85rem;
+
+  &:hover {
+    opacity: 0.9;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+}
+
+.fp-assistant-disclaimer {
+  margin: 0.6rem 0 0;
+  font-size: 0.7rem;
+  color: var(--muted);
+}
+
+.fp-numcol {
+  display: flex;
+  flex-direction: column;
+
+  @media all and (min-width: 801px) {
+    border-left: 1px solid var(--line);
+    padding-left: 1.5rem;
+  }
+}
+
+.fp-stat-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.4rem 0;
+  border-top: 1px solid var(--line);
+  // Flex items default to min-width:auto (their own max-content width),
+  // which a long unbreakable committee name can grow past the row's
+  // available width — and because .fp-numcol/.fp-stats stretch to fit
+  // their widest child, that overflow was blowing out the WHOLE page's
+  // width (every row's value column was getting shoved off-screen on
+  // mobile, not just the long-label rows). min-width:0 lets the label
+  // shrink and wrap instead of forcing an ancestor wider than viewport.
+  min-width: 0;
+
+  &--first {
+    border-top: 2px solid var(--ink);
+  }
+
+  &--big {
+    font-size: 1.05rem;
+
+    .fp-stat-value {
+      font-size: 1.875rem;
+    }
+  }
+
+  &--n {
+    font-size: 0.8rem;
+    color: var(--muted);
+
+    .fp-stat-value {
+      font-size: 0.8125rem;
+      color: var(--muted);
+    }
+  }
+}
+
+.fp-stat-label {
+  min-width: 0;
+  flex: 1 1 auto;
+  overflow-wrap: break-word;
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    color: var(--accent);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+}
+
+.fp-stat-value {
+  flex: 0 0 auto;
+  font-weight: 600;
+}
+
+// ---------------------------------------------------------------------
+// Wall head / sub
+// ---------------------------------------------------------------------
+.wall-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin-bottom: 0.35rem;
+
+  h2 {
+    min-width: 0;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+    font-weight: 900;
+    font-variation-settings: "wdth" 92;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  .count {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--muted);
+  }
+}
+
+.wall-sub {
+  margin: 0 0 1.25rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+// ---------------------------------------------------------------------
+// The wall itself
+// ---------------------------------------------------------------------
+.wall {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(11px, 1fr));
+  gap: 3px;
+  margin-bottom: 1.5rem;
+}
+
+.wall .yr {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+  padding: 0.5rem 0 0.15rem;
+
+  &::after {
+    content: "";
+    flex: 1 1 auto;
+    height: 1px;
+    background: var(--line);
+  }
+
+  &:first-child {
+    padding-top: 0;
+  }
+}
+
+.wall .c {
+  position: relative;
+  display: block;
+  height: 26px;
+  background: var(--wall-gap);
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  text-decoration: none;
+
+  &:hover,
+  &:focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 1px;
+    z-index: 2;
+  }
+
+  .y {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    background: var(--yea-m);
+    border-radius: 2px 2px 0 0;
+  }
+
+  .n {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--nay-m);
+    border-radius: 0 0 2px 2px;
+  }
+}
+
+// ---------------------------------------------------------------------
+// Shared fixed tooltip
+// ---------------------------------------------------------------------
+.wall-tip {
+  position: fixed;
+  z-index: 1500;
+  max-width: 280px;
+  background: var(--graphite);
+  color: var(--graphite-ink);
+  border-radius: 8px;
+  padding: 0.6rem 0.75rem;
+  box-shadow: 0 6px 20px var(--plate);
+  pointer-events: none;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.wall-tip-title {
+  font-weight: 700;
+  font-size: 0.8rem;
+  margin-bottom: 0.25rem;
+}
+
+.wall-tip-meta {
+  font-size: 0.7rem;
+  color: var(--graphite-muted);
+  margin-bottom: 0.25rem;
+}
+
+.wall-tip-result {
+  font-size: 0.7rem;
+  font-weight: 700;
+}
+
+// ---------------------------------------------------------------------
+// Closest-20 table
+// ---------------------------------------------------------------------
+.closest {
+  margin-top: 1rem;
+
+  summary {
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--accent);
+    padding: 0.5rem 0;
+
+    &:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+  }
+}
+
+.closest-table-wrap {
+  overflow-x: auto;
+}
+
+.closest-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.75rem;
+
+  th,
+  td {
+    text-align: left;
+    padding: 0.45rem 0.6rem;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+  }
+
+  td:nth-child(2) {
+    white-space: normal;
+    min-width: 220px;
+  }
+
+  th {
+    color: var(--muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 0.65rem;
+  }
+
+  a {
+    color: var(--accent);
+  }
+}
+
+// ---------------------------------------------------------------------
+// Load animation — reduced-motion-safe: everything in this block is the
+// ONLY place opacity:0 or an animation is ever applied. Outside this
+// media query, cells/heading/underline simply render in their final
+// state with no JS dependency.
+// ---------------------------------------------------------------------
+@media (prefers-reduced-motion: no-preference) {
+  .wall .c {
+    opacity: 0;
+    animation: fp-cellIn 0.3s ease-out forwards;
+  }
+
+  .wall.done .c {
+    opacity: 1;
+    animation: none;
+  }
+
+  @keyframes fp-cellIn {
+    to {
+      opacity: 1;
+    }
+  }
+
+  .fp-kicker,
+  .fp-h1,
+  .fp-sub {
+    opacity: 0;
+    animation: fp-riseIn 0.5s ease-out forwards;
+  }
+
+  .fp-kicker {
+    animation-delay: 0.05s;
+  }
+
+  .fp-h1 {
+    animation-delay: 0.15s;
+  }
+
+  .fp-sub {
+    animation-delay: 0.45s;
+  }
+
+  @keyframes fp-riseIn {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .fp-ox {
+    background-size: 0% 4px;
+    animation: fp-underlineIn 0.6s ease-out forwards;
+    animation-delay: 0.75s;
+  }
+
+  @keyframes fp-underlineIn {
+    to {
+      background-size: 100% 4px;
+    }
+  }
+}

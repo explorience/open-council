@@ -87,6 +87,16 @@ export const defaultContentPageLayout: PageLayout = {
     // Unified header for all pages (transparent on homepage, solid elsewhere)
     Component.UnifiedHeader(),
 
+    // Front Page v3: broadsheet hero + ghost numeral + stats column + the
+    // Division Wall. A LENS in front of the real homepage, not a
+    // replacement for it — HomepageHero's real chat, PrefillQuestions,
+    // DashboardView's browse rails, and the explorer all still render
+    // below, unchanged and fully working (see afterBody).
+    Component.ConditionalRender({
+      component: Component.FrontpageWall(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+
     // Homepage-specific components
     Component.ConditionalRender({
       component: Component.HomepageHero({

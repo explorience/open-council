@@ -3,21 +3,12 @@ import { resolveRelative } from "../util/path"
 import { byDateAndAlphabetical } from "./PageList"
 import { Date, getDate } from "./Date"
 import { filterRealMeetingFiles } from "../../lib/meetings/filter-real-meetings.js"
+import { committees as defaultCommittees, councillors as defaultCouncillors, type Committee, type Councillor } from "./data/roster.js"
 import style from "./styles/dashboardView.scss"
 // @ts-ignore
 import script from "./scripts/dashboardView.inline"
 
-export interface Committee {
-  name: string
-  slug: string
-  count?: number
-}
-
-export interface Councillor {
-  name: string
-  slug: string
-  role?: string
-}
+export type { Committee, Councillor }
 
 export interface DashboardViewOptions {
   committees: Committee[]
@@ -25,42 +16,12 @@ export interface DashboardViewOptions {
   recentMeetingsLimit: number
 }
 
+// committees/councillors now live in ./data/roster.ts — shared with
+// FrontpageWall.tsx's stats column so the two can't drift into two
+// different counts for the same nine committees again.
 const defaultOptions: DashboardViewOptions = {
-  // Counts snapshotted from content/committees/*.md's `meetingCount`
-  // frontmatter after the committee-mapping fix + historical vote/data
-  // repair (30 Aug 2026 audit) - they WILL drift again as new meetings are
-  // scraped, same as before. infrastructure-corporate-services is new: the
-  // committee-mapping fix (extractCommittee picking the longest matching
-  // pattern) correctly split it out of corporate-services for the first
-  // time; see lib/meetings/committee.ts.
-  committees: [
-    { name: "Planning and Environment", slug: "planning-environment", count: 298 },
-    { name: "Strategic Priorities and Policy", slug: "strategic-priorities", count: 282 },
-    { name: "Corporate Services", slug: "corporate-services", count: 263 },
-    { name: "Community and Protective Services", slug: "community-protective-services", count: 208 },
-    { name: "Civic Works", slug: "civic-works", count: 203 },
-    { name: "City Council", slug: "city-council", count: 185 },
-    { name: "Audit Committee", slug: "audit", count: 70 },
-    { name: "Infrastructure and Corporate Services", slug: "infrastructure-corporate-services", count: 30 },
-    { name: "Budget Committee", slug: "budget", count: 22 },
-  ],
-  councillors: [
-    { name: "J. Morgan", slug: "j-morgan", role: "Mayor" },
-    { name: "P. Cuddy", slug: "p-cuddy" },
-    { name: "D. Ferreira", slug: "d-ferreira" },
-    { name: "S. Franke", slug: "s-franke" },
-    { name: "S. Hillier", slug: "s-hillier" },
-    { name: "A. Hopkins", slug: "a-hopkins" },
-    { name: "S. Lehman", slug: "s-lehman" },
-    { name: "S. Lewis", slug: "s-lewis" },
-    { name: "H. McAlister", slug: "h-mcalister" },
-    { name: "E. Peloza", slug: "e-peloza" },
-    { name: "J. Pribil", slug: "j-pribil" },
-    { name: "C. Rahman", slug: "c-rahman" },
-    { name: "S. Stevenson", slug: "s-stevenson" },
-    { name: "S. Trosow", slug: "s-trosow" },
-    { name: "P. Van Meerbergen", slug: "p-van-meerbergen" },
-  ],
+  committees: defaultCommittees,
+  councillors: defaultCouncillors,
   recentMeetingsLimit: 50,
 }
 
