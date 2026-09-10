@@ -41,7 +41,7 @@ function loadWallData(): DivisionWallFile {
     console.warn(
       `[FrontpageWall] Could not read ${dataPath} (run "npm run generate:frontpage" first) - rendering an empty wall. ${err}`,
     )
-    return { generatedAt: "", cutoffDate: "", recordCount: 0, records: [] }
+    return { cutoffDate: "", recordCount: 0, records: [] }
   }
 }
 
@@ -175,6 +175,11 @@ export default ((userOpts?: Partial<FrontpageWallOptions>) => {
           role="list"
           aria-label={`Every divided council vote since ${cutoffYear}, in chronological order`}
         ></div>
+
+        {/* Skip target for UnifiedHeader's "Skip the division wall" link
+            (verified a11y-gate finding: 1,800+ individually focusable
+            cells with no way to tab past them in one step). */}
+        <span id="fpWallEnd" tabindex={-1}></span>
 
         {/* Compact tuple payload, sorted chronologically ascending — the
             client script (frontpageWall.inline.ts) builds the wall cells

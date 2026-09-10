@@ -76,7 +76,15 @@ function buildWall(section: HTMLElement) {
     const cell = document.createElement("a")
     cell.href = url
     cell.className = "c"
-    cell.setAttribute("role", "listitem")
+    // No role="listitem" here (a verified a11y-gate finding): an
+    // explicit ARIA role always overrides an element's own implicit
+    // one, so role="listitem" on this <a href> was making every screen
+    // reader announce "list item" instead of "link" — silently
+    // stripping the one piece of native semantics (navigable link)
+    // these 1,800+ cells actually have. The wrapping #fpWall container
+    // keeps role="list" for the group's own name/count; browsers and
+    // screen readers tolerate list > link children without listitem
+    // far better than they tolerate a link with its link role erased.
     cell.setAttribute(
       "aria-label",
       `${year}-${date.slice(4, 6)}-${date.slice(6, 8)}: ${title}, ` +

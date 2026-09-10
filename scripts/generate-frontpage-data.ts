@@ -19,7 +19,7 @@
  * 600–2,000 cell performance envelope — the full-history count (5,170
  * divided votes back to 2011) does not.
  *
- * Output shape: { generatedAt, cutoffDate, recordCount, records }, where
+ * Output shape: { cutoffDate, recordCount, records }, where
  * each record is a 7-tuple (matches the approved prototype's compact
  * tuple contract — see design/frontpage-v3-spec.md's "Data contract" —
  * extended by one field, `url`, because this is a real site: every cell
@@ -54,7 +54,14 @@
  *
  * Deterministic and idempotent: same input files in, byte-identical
  * output out (motions are read in their existing source order and sorted
- * by date string, JSON.stringify has no non-determinism here).
+ * by date string, JSON.stringify has no non-determinism here). This is
+ * why the output has no `generatedAt` timestamp field: a wall-clock
+ * value would make the file non-byte-identical across two runs over the
+ * same input by definition, silently contradicting this very claim and
+ * dirtying this git-tracked file on every build for no informational
+ * gain (nothing reads it — see FrontpageWall.tsx's loadWallData). Build
+ * provenance belongs in the console log line below, not the tracked
+ * data file.
  *
  * Usage: npx tsx scripts/generate-frontpage-data.ts
  */
@@ -191,7 +198,6 @@ async function main() {
   const records = withSortKey.map((r) => r.record);
 
   const output = {
-    generatedAt: new Date().toISOString(),
     cutoffDate: CUTOFF_DATE,
     recordCount: records.length,
     records,
@@ -200,7 +206,8 @@ async function main() {
   await fs.mkdir(path.dirname(OUT_PATH), { recursive: true });
   await fs.writeFile(OUT_PATH, JSON.stringify(output));
   console.log(
-    `Wrote ${records.length} division-wall records (since ${CUTOFF_DATE}) -> ${path.relative(REPO_ROOT, OUT_PATH)}`,
+    `Wrote ${records.length} division-wall records (since ${CUTOFF_DATE}) -> ` +
+      `${path.relative(REPO_ROOT, OUT_PATH)} at ${new Date().toISOString()}`,
   );
 }
 

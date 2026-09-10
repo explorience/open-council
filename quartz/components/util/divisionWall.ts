@@ -27,7 +27,6 @@ export type DivisionWallRecord = [
 ]
 
 export interface DivisionWallFile {
-  generatedAt: string
   cutoffDate: string
   recordCount: number
   records: DivisionWallRecord[]
