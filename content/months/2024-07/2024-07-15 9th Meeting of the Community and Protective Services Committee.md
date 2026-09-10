@@ -633,94 +633,6 @@ The meeting adjourned at 4:53 PM.
 > **Motion Passed**
 
 ****
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, 2.7, 2.8 and 2.10 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.6. Subsidized Transit Program Update
-
-> Motion to approve the request for delegation from J. Salisbury to be heard at this meeting.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
-
-> Motion to add an additional part e) which reads as follows: e)    the Civic Administration BE DIRECTED to assess the existing affordable unit bonus zones in Z-1 to consider a cash-in-lieu policy or other similar programs to enable the construction of new affordable units in London, and report bac...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
-
-> Motion to approve the main motion, as amended.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.11. Draft Advocacy Message Sign By-law
-
-> That the motion be amended to add a new part: That the draft Advocacy Message Sign By-law BE AMENDED to include additional wording under section 5.1, additional regulations, fourth bullet to read “with respect to a warning sign must be displayed alongside signage that shows images of deceased hum...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 2.11. Draft Advocacy Message Sign By-law
-
-> Motion to approve the main motion as amended.
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 3.1. PUBLIC PARTICIPATION MEETING - Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 to 6.3 in Stage 6, Confidential, to be considered after Stage 3, Scheduled Items.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)
-
-> That the following actions be taken with respect to the communication, dated May 28, 2024, from Councillors H. McAlister and D. Ferreira, with respect to the City-Operated Long Term Care Facility (Dearness Home): a)    the Civic Administration BE DIRECTED to explore options for expanding the faci...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1621,3 +1533,92 @@ We can do this by hand. I'm looking for a mover to adjourn. Moved by Councillor 
 All in favor, opposed? That motion carries. We're adjourned.
 
 </details>
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (2 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5, 2.7, 2.8 and 2.10 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.6. Subsidized Transit Program Update
+
+> Motion to approve the request for delegation from J. Salisbury to be heard at this meeting.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
+
+> Motion to add an additional part e) which reads as follows: e)    the Civic Administration BE DIRECTED to assess the existing affordable unit bonus zones in Z-1 to consider a cash-in-lieu policy or other similar programs to enable the construction of new affordable units in London, and report bac...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
+
+> Motion to approve the main motion, as amended.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.11. Draft Advocacy Message Sign By-law
+
+> That the motion be amended to add a new part: That the draft Advocacy Message Sign By-law BE AMENDED to include additional wording under section 5.1, additional regulations, fourth bullet to read “with respect to a warning sign must be displayed alongside signage that shows images of deceased hum...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 2.11. Draft Advocacy Message Sign By-law
+
+> Motion to approve the main motion as amended.
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 3.1. PUBLIC PARTICIPATION MEETING - Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 to 6.3 in Stage 6, Confidential, to be considered after Stage 3, Scheduled Items.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)
+
+> That the following actions be taken with respect to the communication, dated May 28, 2024, from Councillors H. McAlister and D. Ferreira, with respect to the City-Operated Long Term Care Facility (Dearness Home): a)    the Civic Administration BE DIRECTED to explore options for expanding the faci...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

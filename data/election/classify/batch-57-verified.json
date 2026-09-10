@@ -1,0 +1,585 @@
+[
+  {
+    "id": "f06c0e1c1fab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have set no increase to 2021 remuneration for elected officials and appointed citizen members, notwithstanding the Council Policy's standard remuneration formula.",
+    "confidence": "high",
+    "quote": "That, notwithstanding the provisions of the Council Policy \"Remuneration for Elected Officials and Appointed Citizen Members\", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2021; it being noted that the Corporate Services Committee received a communication dated May 7, 2021 from Councillors Helmer, Cassidy and Kayabaga with respect to this matter.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed this falls under the corpus's GLOBAL_EXCLUDE governance/procedure-of-council carve-out (remuneration / integrity commissioner / task force terms of reference) -- correctly excluded from all eight tracked issues regardless of any incidental wording. Quote verified verbatim. FAILED motion properly hedged (\"Would have set no increase...\")."
+  },
+  {
+    "id": "143afa9ac140",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law extending the Temporary Use (T-70) Zone for 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street for a period not exceeding three years, continuing use of the properties as surface commercial parking lots.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 10, 2021 BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb."
+  },
+  {
+    "id": "db94b0ce41b8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended a combined action for 2631 Hyde Park Road and 1521 Sunningdale Road West: introducing Official Plan and London Plan amendments redesignating the lands from Open Space to an Urban Reserve Community Growth/Environmental Review designation, while refusing the applicant's separate request to redesignate the same lands to Low Density Residential.",
+    "confidence": "low",
+    "quote": "a) the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation; b) the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend The London Plan to change the Place Type of the subject lands FROM a Green Space place type TO a Future Community Growth place type and Environmental Review place type; it being noted that the amendments will come into full force and effect concurrently with Map 1 and Map 7 of The London Plan; c)  the request to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential designation BE REFUSED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Independently re-read the full O-9190 motion: this clause simultaneously grants an Urban Reserve redesignation AND refuses a Low Density Residential redesignation on the same lands -- a genuinely mixed-direction outcome. Null axis/polarity is correct, not a missed classification; matches the corpus's established mixed-motion precedent. Quote verified verbatim."
+  },
+  {
+    "id": "032123f9c714",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Auburn Developments application for 2631 Hyde Park Road and 1521 Sunningdale Road West back to Civic Administration to accept a revised application redesignating the lands, including to Low Density Residential, rather than adopting the Director's recommended Urban Reserve designation and refusal of the residential redesignation.",
+    "confidence": "medium",
+    "quote": "That, notwithstanding the recommendation of the Director, Development Services, the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West BE REFERRED back to the Civic Administration to accept an application by Auburn Developments to: a) amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently re-read the full O-9190 motion: this clause simultaneously grants an Urban Reserve redesignation AND refuses a Low Density Residential redesignation on the same lands -- a genuinely mixed-direction outcome. Null axis/polarity is correct, not a missed classification; matches the corpus's established mixed-motion precedent. Quote verified verbatim. FAILED motion properly hedged (\"Would have referred...\"), no stance verb."
+  },
+  {
+    "id": "d369210a479e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Advised the Approval Authority that Council has no objection to, and supports, the Site Plan Application for the proposed residential development at 3557 Colonel Talbot Road, while flagging four issues raised at the public meeting for its consideration.",
+    "confidence": "medium",
+    "quote": "b) the Approval Authority BE ADVISED that the Municipal Council does not have any issues with respect to the Site Plan Application, and Council supports the Site Plan Application",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Site Plan support clause (\"Council supports the Site Plan Application\") is a genuine approval action even though it doesn't use a literal AFFIRM_RE verb -- semantically equivalent to approval; consistent with prior-batch site-plan-support precedent."
+  },
+  {
+    "id": "2c4ae1140714",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Established a Sub-Committee to review the Masonville Draft Secondary Plan and requested maps of how its cycling routes connect to existing cycling infrastructure and the Cycling Master Plan; separately advised Civic Administration that the Cycling Advisory Committee supports creating a pumptrack facility, with a report back on feasibility-study process and fees.",
+    "confidence": "medium",
+    "quote": "i)          a Sub-Committee BE ESTABLISHED to review the above-noted Masonville Draft Secondary Plan and report back at a future meeting of the Cycling Advisory Committee (CAC);\n\nii)         the Civic Administration BE REQUESTED to attend the above-noted future CAC meeting to discuss the Sub-Committee Report to be brought forward; and,\n\niii)        the Civic Administration BE REQUESTED to provide maps of the cycling routes in the area under the Masonville Draft Secondary Plan and how they connect with existing cycling infrastructure and integrates with the Cycling Master Plan;",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "CORRECTED issue none->bikes. The classifier checked only the pumptrack sub-clause (b) for bikes keywords and correctly found none, but missed that this is ONE combined 5-1 committee vote covering part a) too, whose own text literally contains two issue-rules.ts bikes keywords verbatim: \"existing cycling infrastructure\" and \"Cycling Master Plan\". No GLOBAL_EXCLUDE applies (unlike the DMOU case, this text substantively discusses cycling-network connectivity content, not merely naming an institution). Axis/polarity correctly left null -- this is a report-back/map-request informational ask with no directional cycling-infrastructure decision, so no direction claim is being made; only the topic tag changes. Quote replaced with the actual verbatim operative clause supporting the corrected tag (still a true substring of the source motion text, immediately followed in the original by the pre-existing pumptrack clause). Contrast: the Council-level duplicate (c857167f0818) is NOT corrected -- at Council this package was split into separate sub-votes and that entry's own quote/vote is only the pumptrack report-back sub-motion, which carries no bikes keyword of its own."
+  },
+  {
+    "id": "7cea5a870807",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Core Area Ambassador Pilot Program as described in the Comprehensive Report on Core Area Initiatives.",
+    "confidence": "high",
+    "quote": "e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed against the SPPC's own split sub-vote on part e) (14-1), distinct from part h)."
+  },
+  {
+    "id": "05e3ccf68fea",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized Civic Administration to reallocate the remaining $100,000 in one-time COVID-19 savings from other Core Area Action Plan efforts to other emergent Core Area opportunities in 2021.",
+    "confidence": "high",
+    "quote": "h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed against the SPPC's own split sub-vote on part h) (10-5); the $100,000's Core Area Action Plan origin is corroborated by the sibling part g) clause in the same report (\"$37,500 ... resulting from COVID-19 impacts on other Core Area Action Plan efforts\")."
+  },
+  {
+    "id": "5f2574b79f1b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Following a reconsideration vote reopening Bill Nos. 253 and 254 (2631 Hyde Park Road and 1521 Sunningdale Road West), directed Civic Administration to bring forward the draft bills for consideration when the matter returns to the Planning and Environment Committee.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward draft Bill No.'s 253 and 254 related to Item 11 (3.2) of the 8th Report of the Planning and Environment Committee, having to do with the applications regarding 2631 Hyde Park Road and 1521 Sunningdale Road West for consideration at the time the matter is brought forward to the Planning and Environment Committee.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural direction (bringing draft bills forward following a reconsideration vote) with no substantive land-use content of its own -- correctly issue:none, reconsideration qualifier convention applied correctly. Quote verified verbatim."
+  },
+  {
+    "id": "4e4f5fded6bf",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law extending the Temporary Use (T-70) Zone for 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street for a period not exceeding three years, continuing use of the properties as surface commercial parking lots.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 10, 2021 BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed as the Council-introduction-stage duplicate of the PEC recommendation for the same T-70 zone extension."
+  },
+  {
+    "id": "876b8bb3ba70",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a combined by-law package for 2631 Hyde Park Road and 1521 Sunningdale Road West: Official Plan and London Plan amendments redesignating the lands from Open Space to an Urban Reserve Community Growth/Environmental Review designation, while refusing the request to redesignate the same lands to Low Density Residential.",
+    "confidence": "low",
+    "quote": "a)      the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation; b)      the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend The London Plan to change the Place Type of the subject lands FROM a Green Space place type TO a Future Community Growth place type and Environmental Review place type; it being noted that the amendments will come into full force and effect concurrently with Map 1 and Map 7 of The London Plan; c)      the request to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential designation BE REFUSED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Independently re-read the full O-9190 motion: this clause simultaneously grants an Urban Reserve redesignation AND refuses a Low Density Residential redesignation on the same lands -- a genuinely mixed-direction outcome. Null axis/polarity is correct, not a missed classification; matches the corpus's established mixed-motion precedent. Quote verified verbatim. Confirmed as the Council-introduction-stage duplicate (10-4)."
+  },
+  {
+    "id": "cf1033ca4e45",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law approving an Agreement for Municipal Integrity Commissioner with, and appointing, Gregory F. Stewart as Integrity Commissioner for the City of London, repealing the prior such agreement by-law.",
+    "confidence": "high",
+    "quote": "b)      the proposed by-law as appended to the staff report dated May 10, 2021 as Appendix “A” being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7842-121, being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London” BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed this falls under the corpus's GLOBAL_EXCLUDE governance/procedure-of-council carve-out (remuneration / integrity commissioner / task force terms of reference) -- correctly excluded from all eight tracked issues regardless of any incidental wording. Quote verified verbatim."
+  },
+  {
+    "id": "ded12511a4cc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to commence the 2021 Council Compensation Review Task Force review under the appended Terms of Reference, and to invite the members of the 2016 Task Force to undertake the 2021 update.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 2021 Council Compensation Review Task Force: a)      the City Clerk BE DIRECTED to commence the 2021 Council Compensation Review Task Force review based on the Terms of Reference as appended to the staff report as Appendix “A”; and, b)      the City Clerk BE DIRECTED to invite the members of the 2016 Council Compensation Review Task Force to undertake the 2021 update based on the Terms of Reference noted in a) above.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed this falls under the corpus's GLOBAL_EXCLUDE governance/procedure-of-council carve-out (remuneration / integrity commissioner / task force terms of reference) -- correctly excluded from all eight tracked issues regardless of any incidental wording. Quote verified verbatim."
+  },
+  {
+    "id": "c5a27cf21562",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information, the staff report on 2021 remuneration for elected officials and appointed citizen members.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 10, 2021, BE RECEIVED for information; it being noted that the communication from Councillors Cassidy, Kayabaga and Helmer was received.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed this falls under the corpus's GLOBAL_EXCLUDE governance/procedure-of-council carve-out (remuneration / integrity commissioner / task force terms of reference) -- correctly excluded from all eight tracked issues regardless of any incidental wording. Quote verified verbatim."
+  },
+  {
+    "id": "c857167f0818",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Civic Administration report back on the process and fees for a feasibility study on establishing a pumptrack facility in the City of London.",
+    "confidence": "high",
+    "quote": "b)        the following actions be taken with respect to a City of London PumpTrack: ii)        the Civic Administration BE REQUESTED to report back on the process and fees associated with a feasibility study with respect to the establishment of a pumptrack facility in the City of London; it being noted that the communication, as appended to the agenda, from B. Cassell and the delegation from S. Nauman, with respect to this matter, was received; and,",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "At Council this item was voted in FOUR separate sub-motions (Masonville sub-committee 14-0, pumptrack-support 14-0, pumptrack feasibility-study report-back 13-1, receive 14-0) -- this manifest id's own quote and 13-1 vote match ONLY the pumptrack feasibility-study report-back sub-motion, which is a pure informational ask carrying no cycling-infrastructure keyword. issue:none confirmed for THIS entry (contrast with the committee-level combined vote, corrected below)."
+  },
+  {
+    "id": "605858a27dd7",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Core Area Ambassador Pilot Program as described in the Comprehensive Report on Core Area Initiatives.",
+    "confidence": "high",
+    "quote": "e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed as the Council-stage duplicate split sub-vote on part e) (13-1)."
+  },
+  {
+    "id": "e14889fef0aa",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized Civic Administration to reallocate the remaining $100,000 in one-time COVID-19 savings from other Core Area Action Plan efforts to other emergent Core Area opportunities in 2021.",
+    "confidence": "high",
+    "quote": "h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed as the Council-stage duplicate split sub-vote on part h) (10-4)."
+  },
+  {
+    "id": "992710e4a12e",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law rezoning a portion of 435-451 Ridout Street North from Heritage/Regional Facility and Downtown Area Special Provision zones to a Holding Downtown Area Special Provision Bonus zone, permitting a mixed-use office/residential building up to 40 storeys (125 metres) with a maximum density of 500 units per hectare, in exchange for heritage retention, public parking, and affordable-housing commitments.",
+    "confidence": "high",
+    "quote": "d) the proposed by-law appended to the staff report dated May 31, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan (2016) as amended in part c) above), to change the zoning of a portion of the subject property FROM a Heritage/Regional Facility (HER/RF) Zone and a Downtown Area Special Provision (DA2(3)*D350) Zone TO a Holding Downtown Area Special Provision Bonus (h-3*h-55*h-_*DA2(3)*D350*B-_) Zone; the Bonus Zone shall be implemented through one or more agreements to facilitate a high quality mixed-use office/residential apartment building, with a maximum height of 40-storeys (125 metres), and a maximum density of 500 units per hectare",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. 40-storey/500-units-per-hectare rezoning from Heritage/Regional-Facility+DA2 to a Bonus Zone is a substantively large density increase even though the clause doesn't use a literal \"increase\" verb -- correctly read as density/expansive."
+  },
+  {
+    "id": "cbaab0ca4cdb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for Bill 286 (Ridout St rezoning): quote traced cross-item to the by-law's own descriptor line in the meeting's compiled bills list (verified as Bill 286's descriptor via the adjacent \"Bill No. 286\" label); vote (12-2) confirmed against the actual roll-call motion in the By-laws item; axis/polarity correctly null per reading-stage convention; enact language on 3rd reading matches source's own \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "3476076f4df8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for Bill 286 (Ridout St rezoning): quote traced cross-item to the by-law's own descriptor line in the meeting's compiled bills list (verified as Bill 286's descriptor via the adjacent \"Bill No. 286\" label); vote (12-2) confirmed against the actual roll-call motion in the By-laws item; axis/polarity correctly null per reading-stage convention; enact language on 3rd reading matches source's own \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "3926e297148d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for Bill 286 (Ridout St rezoning): quote traced cross-item to the by-law's own descriptor line in the meeting's compiled bills list (verified as Bill 286's descriptor via the adjacent \"Bill No. 286\" label); vote (12-2) confirmed against the actual roll-call motion in the By-laws item; axis/polarity correctly null per reading-stage convention; enact language on 3rd reading matches source's own \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "e757e3c685ad",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced by-laws rezoning a portion of 435-451 Ridout Street North from Heritage/Regional Facility and Downtown Area Special Provision zones to a Holding Downtown Area Special Provision Bonus zone, permitting a mixed-use office/residential building up to 40 storeys (125 metres) with a maximum density of 500 units per hectare, in exchange for heritage retention, public parking, and affordable-housing commitments.",
+    "confidence": "high",
+    "quote": "d)        the proposed by-law appended to the staff report dated May 31, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan (2016) as amended in part c) above), to change the zoning of a portion of the subject property FROM a Heritage/Regional Facility (HER/RF) Zone and a Downtown Area Special Provision (DA2(3)*D350) Zone TO a Holding Downtown Area Special Provision Bonus (h-3*h-55*h-_*DA2(3)*D350*B-_) Zone; the Bonus Zone shall be implemented through one or more agreements to facilitate a high quality mixed-use office/residential apartment building, with a maximum height of 40-storeys (125 metres), and a maximum density of 500 units per hectare",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Confirmed as the Council-introduction-stage duplicate of the PEC recommendation (same clause text, distinct item/vote, 12-2)."
+  },
+  {
+    "id": "87838a45c085",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to add a directive that Civic Administration not proceed with changes to the existing ward boundaries at this time.",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3) BE AMENDED to include the following additional wording, \"and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Ward boundary redistricting is not one of the eight tracked issue clusters -- correctly issue:none. Quote verified verbatim; the three FAILED amendments are properly hedged (\"Would have amended...\"), no stance verbs."
+  },
+  {
+    "id": "d9d7956d234c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to direct the City Clerk to arrange a Public Participation Meeting on a proposed ward boundary adjustment moving the Masonville area from Ward 7 to Ward 5 and the Fanshawe Park Road area from Ward 5 to Ward 3 (Option 4).",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3), BE AMENDED by adding the following: \"That the City Clerk BE DIRECTED to proceed to arrange a Public Participation Meeting, including any necessary information, at a future meeting of the Corporate Services Committee, with respect to the following proposed ward boundary adjustment as outlined in the staff report dated May 31, 2021 with respect to this matter: a)      Option 4 - Ward 7 Masonville Area to Ward 5; Ward 5 Fanshawe Park Road Area to Ward 3; and,\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Ward boundary redistricting is not one of the eight tracked issue clusters -- correctly issue:none. Quote verified verbatim; the three FAILED amendments are properly hedged (\"Would have amended...\"), no stance verbs."
+  },
+  {
+    "id": "67c4c381f921",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to direct the City Clerk to arrange a Public Participation Meeting on a proposed ward boundary adjustment moving the Hale Street area from Ward 4 to Ward 2 (Option 7).",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3) BE AMENDED by adding the following: \"That the City Clerk BE DIRECTED to proceed to arrange a Public Participation Meeting, including any necessary information, at a future meeting of the Corporate Services Committee, with respect to the following proposed ward boundary adjustment as outlined in the staff report dated May 31, 2021 with respect to this matter: b)      Option 7 - Ward 4 Hale Street Area to Ward 2.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Ward boundary redistricting is not one of the eight tracked issue clusters -- correctly issue:none. Quote verified verbatim; the three FAILED amendments are properly hedged (\"Would have amended...\"), no stance verbs."
+  },
+  {
+    "id": "247680484234",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Committee recommendation receiving the Review of Ward Boundaries Update report without amendment, leaving the existing ward boundaries unchanged.",
+    "confidence": "high",
+    "quote": "The motion to adopt the Committee recommendation is put. That the report dated May 31, 2021 entitled \"Review of Ward Boundaries Update\" BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Ward boundary redistricting is not one of the eight tracked issue clusters -- correctly issue:none. Quote verified verbatim; the three FAILED amendments are properly hedged (\"Would have amended...\"), no stance verbs."
+  },
+  {
+    "id": "8e54dc6832a8",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell a partial interest in 50 King Street to the City for $551,300, for future road improvements under the Downtown Loop and Municipal Infrastructure Improvements project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by 50 King Street London Limited (the “Vendor”), to sell the subject property to the City, for the sum of $551,300.00 BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "\"BE ACCEPTED\" (offer to sell) does not hit the generic AFFIRM_RE verb set, so axis:null is the mechanically correct fallback, not an omission -- acquisition of land is not itself a policy-direction decision. Quote verified verbatim, issue tag (downtown/transit by project name) matches prior-batch precedent."
+  },
+  {
+    "id": "89a7c5ceafe1",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell a partial interest in 399 Ridout Street North to the City for $323,700, for future road improvements under the Downtown Loop and Municipal Infrastructure Improvements project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by 399 Ridout Street London Limited (the “Vendor”), to sell the subject property to the City, for the sum of $323,700.00 BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "\"BE ACCEPTED\" (offer to sell) does not hit the generic AFFIRM_RE verb set, so axis:null is the mechanically correct fallback, not an omission -- acquisition of land is not itself a policy-direction decision. Quote verified verbatim, issue tag (downtown/transit by project name) matches prior-batch precedent."
+  },
+  {
+    "id": "680f2518aa08",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell 271 Wellington Road to the City for $500,000, for future road improvements under the Wellington Gateway Project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by Derek Michael Berg (the “Vendor”), to sell the subject property to the City, for the sum of $500,000.00, subject to the terms and conditions, BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "\"BE ACCEPTED\" (offer to sell) does not hit the generic AFFIRM_RE verb set, so axis:null is the mechanically correct fallback, not an omission -- acquisition of land is not itself a policy-direction decision. Quote verified verbatim, issue tag (downtown/transit by project name) matches prior-batch precedent."
+  },
+  {
+    "id": "759d51a2bfdf",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "3d7abb8b28bd",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "e53f37cb1a1b",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "d23f38e2a1ae",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "7ef6e04aeaa1",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "249a02aa8b33",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "b025fe99a9e1",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "1a9d44bf38c2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "faa86abca392",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reading-stage triad for a property-acquisition by-law: quote traced cross-item to the by-law's own descriptor line in the same item's compiled bills list; vote tally matches manifest; axis/polarity correctly null (acquisition procedural reading, not a policy direction); enact language on 3rd reading matches source's \"Third Reading and Enactment\" phrasing; three stages byte-distinct."
+  },
+  {
+    "id": "d3cdb861539b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an updated Development Memorandum of Understanding between the City of London and the Upper Thames River Conservation Authority governing joint plan-review services, and authorized/delegated staff to finalize and execute it.",
+    "confidence": "high",
+    "quote": "a) the proposed updated Development Memorandum of Understanding (DMOU) between The Corporation of the City of London and the Upper Thames River Conservation Authority BE APPROVED substantially in the form appended to the staff report dated June 21, 2021 as Appendix “A”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Re-checked: the DMOU body text literally contains \"Conservation Authority\", a literal climate-keyword substring, but on full reading this is a governance/procedure motion about HOW the City and UTRCA jointly administer Planning Act application review -- the Conservation Authority is named only as the counterparty to an inter-agency process agreement, not as the subject of any wetland/flood-plain/natural-heritage content decision. This is exactly the false-positive pattern issue-rules.ts's own GLOBAL_EXCLUDE principle (\"governance/procedure motions that happen to name an issue in passing\") exists to prevent, even though this specific phrase isn't literally enumerated there. Declined to overturn -- issue:none confirmed. FAILED motion properly hedged."
+  },
+  {
+    "id": "115c74126199",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the report on the updated Development Memorandum of Understanding with the Upper Thames River Conservation Authority back to Civic Administration to obtain the Authority's comments and report back to a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That the staff report dated June 21, 2021 entitled \"Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority\" BE REFERRED back to the Civic Administration to obtain comments from the Upper Thames River Conservation Authority with respect to this matter and to report back to a future meeting of the Planning and Environment Committee, with the results of the consultation.",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Re-checked: the DMOU body text literally contains \"Conservation Authority\", a literal climate-keyword substring, but on full reading this is a governance/procedure motion about HOW the City and UTRCA jointly administer Planning Act application review -- the Conservation Authority is named only as the counterparty to an inter-agency process agreement, not as the subject of any wetland/flood-plain/natural-heritage content decision. This is exactly the false-positive pattern issue-rules.ts's own GLOBAL_EXCLUDE principle (\"governance/procedure motions that happen to name an issue in passing\") exists to prevent, even though this specific phrase isn't literally enumerated there. Declined to overturn -- issue:none confirmed. FAILED motion properly hedged. FAILED motion (2-4) properly hedged (\"Would have referred...\")."
+  },
+  {
+    "id": "ee164f8db6ee",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones, extending the Temporary Use designation to continue the existing surface parking use.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated June 21, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on July 6, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the 1989 Official Plan for the City of London (1989)), to change the zoning of the subject property from a Holding Downtown Area (h-3*DA1*D350) Zone and a Holding Downtown Area (h-3*DA2*D350) Zone TO a Holding Downtown Area/Temporary (h-3*DA1*D350/T-_) Zone and a Holding Downtown Area/Temporary (h-3*DA2*D350/T-_) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Issue/axis/polarity/whatAYeaDid/quote independently re-derived from the full source meeting JSON (not the truncated _all-motions.json text); quote confirmed a verbatim substring of the motion's own text; vote tally matches manifest; no denial-flip, no title/operative mismatch, no stance verb. Same T-70/parking-continuation pattern as the Central Ave rows, verified against a distinct property (193 Queens Ave)."
+  },
+  {
+    "id": "914daeda11f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred A-M. Valastro's request for delegation status on the 183 and 197 Ann Street heritage and planning applications to a future Planning and Environment Committee public participation meeting.",
+    "confidence": "high",
+    "quote": "That the request for delegation status with respect to the heritage and planning applications relating to the properties located at 183 and 197 Anne Street BE REFERRED to the public participation meeting to be held at a future meeting of the Planning and Environment Committee regarding these matters",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Heritage/delegation-status procedure is not a tracked issue cluster -- correctly issue:none. Quote verified verbatim."
+  },
+  {
+    "id": "85642f6bbba9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for the two London City Council member appointments to the London & Middlesex Community Housing Board of Directors; P. Squire and M. van Holst received a majority.",
+    "confidence": "high",
+    "quote": "London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot board/committee appointment -- correctly excluded via the corpus's standing appointment-ballot convention (GLOBAL_EXCLUDE_PATTERNS \"consideration of appointment to\"). A vote on WHO sits on a body is not a policy position on what that body oversees."
+  },
+  {
+    "id": "5486490a0a38",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for appointment to the Eldon House Board of Directors; Megan Halliday received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to Eldon House Board of Directors",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot board/committee appointment -- correctly excluded via the corpus's standing appointment-ballot convention (GLOBAL_EXCLUDE_PATTERNS \"consideration of appointment to\"). A vote on WHO sits on a body is not a policy position on what that body oversees."
+  },
+  {
+    "id": "7d3f7f455ab2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for appointment to the Lower Thames Valley Conservation Authority; JJ Strybosch received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Lower Thames Valley Conservation Authority",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot board/committee appointment -- correctly excluded via the corpus's standing appointment-ballot convention (GLOBAL_EXCLUDE_PATTERNS \"consideration of appointment to\"). A vote on WHO sits on a body is not a policy position on what that body oversees."
+  }
+]

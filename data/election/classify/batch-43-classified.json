@@ -1,0 +1,516 @@
+[
+  {
+    "id": "1032203f7820",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Suspended the Council Procedure By-law's 11:00 PM meeting-end provision to allow the meeting to continue.",
+    "confidence": "high",
+    "quote": "That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of the said by-law BE SUSPENDED for the purpose of permitting the meeting to proceed beyond 11:00 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8e79918db9f2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of several remaining Investing in Canada Infrastructure Program Public Transit Stream project candidates -- on-board information screens, pedestrian connectivity, new sidewalks, active-transportation bridge improvements, cycling routes, and bike parking -- to a future meeting.",
+    "confidence": "high",
+    "quote": "That consideration of the following projects BE REFERRED to a future meeting: Project 8. On-Board Information Screens Project 10. Pedestrian Street Connectivity Improvements to the Transit Network Project 11. New Sidewalks Project 13. Active Transportation Improvements across Transit Route Bridges Project 17. Cycling Routes Connecting to Downtown Transit Project 18. Cycling Routes Connecting to Transit throughout the City Project 19. Enhanced Bike Parking",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a98a86bddb89",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Requested a funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream that includes the Dundas Place Thames Valley Parkway Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements projects.",
+    "confidence": "medium",
+    "quote": "That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection Project 15. Dundas Street Old East Village Streetscape Improvements",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "2afa8e32e2f5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave leave to introduce an emergent motion regarding the London Medical Innovation and Commercialization Network.",
+    "confidence": "high",
+    "quote": "That pursuant to section 20.2 of the Council Procedure By-law leave BE GIVEN to introduce an emergent motion regarding the London Medial Innovation and Commercialization Network.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "dbeff09f8589",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Permitted, as proposed, a heritage alteration to construct a new apartment building and associated site development at 195 Dundas Street within the Downtown Heritage Conservation District, subject to Building Permit design-compliance and Heritage Alteration Permit display conditions.",
+    "confidence": "high",
+    "quote": "That the application made under Section 42 of the Ontario Heritage Act to construct a new apartment building and associated site development on the property located at 195 Dundas Street, within the Downtown Heritage Conservation District, BE PERMITTED as proposed in the drawings appended to the presentation on the 4th Report of the London Advisory Committee on Heritage",
+    "flags": []
+  },
+  {
+    "id": "7c2789e3ccab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on appointing an Integrity Commissioner and directed staff to bring forward an agreement with, and a by-law appointing, Gregory F. Stewart as Integrity Commissioner for the City of London and local boards.",
+    "confidence": "high",
+    "quote": "the staff report, dated March 19, 2019, entitled “Integrity Commissioner” BE RECEIVED; b) the City Clerk and the Managing Director, Corporate Services and City Solicitor BE DIRECTED to bring forward a draft Agreement between The Corporation of the City of London and Gregory F. Stewart for the provision of services as The Corporation of the City of London’s and local boards’ Integrity Commissioner",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "e283760b34d2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the Lobbyist Registrar and Closed Meeting Investigator functions.",
+    "confidence": "high",
+    "quote": "the staff report dated, March 19, 2019, entitled “Lobbyist Registrar and Closed Meeting Investigator”, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "b121c8f30e41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Advisory Committee Review interim report to add referring a communication on advisory-committee effectiveness for consideration during the review, and to have Civic Administration meet with Advisory Committee chairs for their input.",
+    "confidence": "high",
+    "quote": "That item 14 (2.6) be amended by adding the following new parts c) and d): c) the attached communication dated March 15, 2019 entitled “Enhancing the Effectiveness of Advisory Committees - Executive Summary” BE REFERRED for consideration during the Advisory Committee review process; and, d) the Civic Administration BE REQUESTED to meet with the Chairs of the Advisory Commitrees to gain their insight and feedback as part of the Advisory Committee Review process",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "96fbd930f5b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, the 2019 process for appointments to the City's Advisory Committees, including having non-voting Civic Administration resources assist with AC work-plan development and recruiting only members-at-large for the abbreviated June 2019-February 2021 voting-member term (notwithstanding each Advisory Committee's current Terms of Reference), subject to an exception for the Accessibility Advisory Committee under provincial legislation.",
+    "confidence": "high",
+    "quote": "the Civic Administration, who currently serve as non-voting resources to ACs, BE REQUESTED to assist in the ACs work plan development, based on advice or initiatives that are related to work currently being undertaken by the Civic Administration; and b) notwithstanding the current Terms of Reference for each Advisory Committee, the current voting member recruitment for the abbreviated term of June 1, 2019 to February 28, 2021 (previously approved by Council), BE CONDUCTED seeking only ‘members-at-large’ for appointment",
+    "flags": [
+      "wrapper_preamble",
+      "appointment"
+    ]
+  },
+  {
+    "id": "db61cfd5d799",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered Council's earlier disposition of Item 4.1 a) ii), Project 2 (Wellington Road Gateway), due to a voting error.",
+    "confidence": "high",
+    "quote": "That pursuant to section 13.2 of the Council Procedure By-law that consideration of Item 4.1 a) ii) Project 2. Wellington Road Gateway BE RECONSIDERED due to a voting error.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0dd0f857160d",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the Downtown Loop project (Project 1) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) i) Project 1. Downtown Loop BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "ebadbb41c613",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved including the Wellington Road Gateway project (Project 2) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream, following the reconsideration granted for this project.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) ii) Project 2. Wellington Road Gateway BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "c55366f87ab3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved including the Wellington Road Gateway project (Project 2) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream, on an immediate re-vote of the same motion.",
+    "confidence": "medium",
+    "quote": "That Item 4.1a) ii) Project 2. Wellington Road Gateway BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "dcb0f1eb29ad",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the East London Link bus rapid transit project (Project 3) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) iii) Project 3. East London Link BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "1b50644b049a",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the Dundas Place Thames Valley Parkway Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements projects (Projects 14 and 15) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "high",
+    "quote": "That Item 4.1 a) viii) and ix) BE APPROVED: viii) Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection; ix) Project 15. Dundas Street Old East Village Streetscape Improvements",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "2b9d337a6e5f",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred several remaining candidate projects (on-board information screens, pedestrian connectivity, new sidewalks, active-transportation bridge improvements, cycling routes, and bike parking) to a future meeting, and received the staff report and public communications on the funding submission.",
+    "confidence": "high",
+    "quote": "consideration of the following remaining proposed projects BE REFERRED to a future meeting: i) Project 8. On-Board Information Screens ii) Project 10. Pedestrian Street Connectivity Improvements to the Transit Network iii) Project 11. New Sidewalks iv) Project 13. Active Transportation Improvements across Transit Route Bridges v) Project 17. Cycling Routes Connecting to Downtown Transit vi) Project 18. Cycling Routes Connecting to Transit throughout the City, and vii) Project 19. Enhanced Bike Parking",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "53cb09768ae8",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that High-Occupancy Vehicle lanes be assessed at a network level in the next Transportation Master Plan update.",
+    "confidence": "high",
+    "quote": "That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "365e4811c4a8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the annual meeting calendar for January 1, 2020 to December 31, 2020.",
+    "confidence": "high",
+    "quote": "the annual meeting calendar appended to the staff report dated April 2. 2019 for the period January 1, 2020 to December 31, 2020 BE APPROVED",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "184c6628dbfd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Strategic Plan's Building a Sustainable City outcome BSC-20 to read 'Bring Londoners Back to the River by revitalizing the Thames River,' removing 'radiating from the Forks' and its inaugural-project-completion metric.",
+    "confidence": "high",
+    "quote": "That the Strategic Plan section, Building a Sustainable City, Outcome 2, BSC-20 BE AMENDED to read: “Bring Londoners Back to the River by revitalizing the Thames River\", deleting “radiating from the Forks”; and by deleting metric #1, \"% of inaugural project at the Forks completed\".",
+    "flags": []
+  },
+  {
+    "id": "ae0c0688b815",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received and referred, as noted on the public agenda, Councillor M. van Holst's communication regarding High-Occupancy Vehicle (HOV) lanes.",
+    "confidence": "high",
+    "quote": "That the following communications BE RECEIVED and BE REFERRED as noted on the public Agenda: 6.1 Councillor M. van Holst - High-Occupancy Vehicle (HOV)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "ee42d531a5b5",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that High-Occupancy Vehicle lanes be assessed at a network level in the next Transportation Master Plan update.",
+    "confidence": "high",
+    "quote": "That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "b253a3473e9f",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Declared a climate emergency for the City of London, committing to naming, framing, and deepening the City's commitment to protecting its economy, ecosystems, and community from climate change.",
+    "confidence": "high",
+    "quote": "Therefore, a climate emergency BE DECLARED by the City of London for the purposes of naming, framing, and deepening our commitment to protecting our economy, our eco systems, and our community from climate change.",
+    "flags": []
+  },
+  {
+    "id": "d8a10dac5866",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Consented to demolishing the heritage-listed building at 160 Oxford Street East and removed the property from the Register (Inventory of Heritage Resources).",
+    "confidence": "high",
+    "quote": "the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of the building on this property; and, b) the property at 160 Oxford Street East BE REMOVED from the Register (Inventory of Heritage Resources)",
+    "flags": []
+  },
+  {
+    "id": "1ee533b79ec1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law to rezone the property at 536 and 542 Windermere Road to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone permitting cluster townhouse and cluster stacked townhouse dwellings with a reduced 10.5-metre maximum height and a reduced 2.1-metre front-yard depth, would have refused the applicant's broader request to rezone to a standard Residential R5 Special Provision (R5-7) zone, and would have protected the trees on the property's westerly and northerly boundary.",
+    "confidence": "high",
+    "quote": "Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to change the zoning of the subject property to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone to permit cluster townhouse dwellings and cluster stacked townhouse dwellings with a reduced minimum front yard depth of 2.1 metres, an increased maximum encroachment into the front yard depth of 0.2 metres from the front property line, and a reduced maximum height of 10.5 metres",
+    "flags": []
+  },
+  {
+    "id": "1a466ba790d9",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law, per the Director of Development Services' recommendation, to rezone the property at 536 and 542 Windermere Road from a Residential R1 zone to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone, and would have refused the applicant's broader request to rezone to a standard Residential R5 Special Provision (R5-7) zone.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated April 15, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "d9d239064733",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adjusted 2018 remuneration for elected officials and appointed citizen members of local boards and commissions, where stipends are paid, by 2.3% over 2018, effective January 1, 2019, per Council Policy.",
+    "confidence": "high",
+    "quote": "the 2018 remuneration for elected officials and appointed citizen members of local boards and commissions, where stipends are paid, BE ADJUSTED by 2.3% over 2018 effective January 1, 2019",
+    "flags": []
+  },
+  {
+    "id": "5391efea7b5b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that no action be taken to adjust 2019 remuneration for elected officials, notwithstanding the Remuneration for Elected Officials and Appointed Citizen Members policy.",
+    "confidence": "high",
+    "quote": "notwithstanding the “Remuneration for Elected Officials and Appointed Citizen Members” policy NO ACTION BE TAKEN with respect to the 2019 remuneration for elected officials",
+    "flags": []
+  },
+  {
+    "id": "1699900bf513",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "cab3e6d5dff8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6f755a2f222d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ccf8984897a0",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e78330e920d9",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "15dc3ea5f1b8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "beae345d358f",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the City's Climate Emergency Declaration to add notes clarifying that it does not invoke the City's Emergency Response Plan or interfere with the Mayor's emergency powers under the Emergency Management and Civil Protection Act, 1990, and that a climate emergency is distinct from emergencies contemplated under that Act.",
+    "confidence": "high",
+    "quote": "IT BEING NOTED THAT the above-noted Declaration is not intended to invoke the City of London’s Emergency Response Plan or to interfere with the responsibilities and power delegated to the Mayor to declare or to terminate a local emergency under the Emergency Management and Civil Protection Act, 1990; and, THAT IT BE FURTHER NOTED that a climate emergency is distinct from the kinds of emergencies contemplated under the Emergency Management and Civil Protection Act, 1990, as it is a global emergency with impacts extending well beyond London and Ontario",
+    "flags": []
+  },
+  {
+    "id": "6fe2d38427a3",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 4th Report of the Advisory Committee on the Environment, including its Climate Emergency Declaration recommendation, to a future Strategic Priorities and Policy Committee meeting for consideration.",
+    "confidence": "high",
+    "quote": "That the matter of the 4th Report of the Advisory Committee on the Environment BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee, for consideration.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a65fc96c9ab3",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, the City's Declaration of a Climate Emergency (part b) ii) of clause 3.4 of the Planning and Environment Committee's 7th Report).",
+    "confidence": "medium",
+    "quote": "That Part b) ii) of clause 3.4, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0822d9425657",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on the Integrity Commissioner Agreement, directed introducing a by-law to approve the agreement with, and appoint, Gregory F. Stewart as Integrity Commissioner, and directed the City Clerk to arrange for the Mayor and Clerk to execute the agreement.",
+    "confidence": "high",
+    "quote": "the staff report, dated April 16, 2019, entitled “Integrity Commissioner Agreement” BE RECEIVED; b) the proposed by-law appended to the staff report dated April 16, 2019 as Appendix “A” being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156, being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London” BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "9aa7bdc52f05",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted the Corporate Services Committee's recommendation that no action be taken to adjust 2019 remuneration for elected officials.",
+    "confidence": "medium",
+    "quote": "Part a) of Item 8, clause 2.4, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "fec5cea8261f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjusted 2018 remuneration for elected officials by 2.3% over 2018, effective January 1, 2019, per Council Policy 'Remuneration for Elected Officials and Appointed Citizen Members.'",
+    "confidence": "high",
+    "quote": "That the 2018 remuneration for elected officials ADJUSTED by 2.3% over 2018 effective January 1, 2019, in keeping with Council Policy, “Remuneration for Elected Officials and Appointed Citizen Members” adopted by By-law No. CPOL.-70(a)-408.",
+    "flags": []
+  },
+  {
+    "id": "abeb07ccc7ad",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law to rezone the property at 536 and 542 Windermere Road to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone permitting cluster townhouse and cluster stacked townhouse dwellings with a reduced 10.5-metre maximum height, a reduced 2.1-metre front-yard depth, and an increased 0.2-metre front-yard encroachment.",
+    "confidence": "high",
+    "quote": "Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to change the zoning of the subject property to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone to permit cluster townhouse dwellings and cluster stacked townhouse dwellings with a reduced minimum front yard depth of 2.1 metres, an increased maximum encroachment into the front yard depth of 0.2 metres from the front property line, and a reduced maximum height of 10.5 metres",
+    "flags": []
+  },
+  {
+    "id": "141f49dbfd30",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Introduced a Zoning By-law, per the Director of Development Services' recommendation, to rezone the property at 536 and 542 Windermere Road from a Residential R1 zone to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated April 15, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "2986bd0737a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the recommended adoption of Council's Strategic Plan 2019-2023 to exclude Outcome BSC-20 (Bring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks) for separate consideration.",
+    "confidence": "high",
+    "quote": "That part b) BE AMENDED to add the exclusion of BSC-20 “Bring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6c5250c03dd9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Council's Strategic Plan 2019-2023 Final Outcomes, Expected Results, Strategies, and Metrics, with the exception of Strategies SOC-12, SOC-13, BSC-20 (Thames River revitalization), GEO-21, and the Building a Sustainable City strategy for replacing surface parking with efficient public parking resources in the Downtown (Downtown Parking Strategy).",
+    "confidence": "high",
+    "quote": "the attached revised \"Council's Strategic Plan 2019-2023: Final Outcomes, Expected Results, Strategies, and Metrics\" BE APPROVED with the exception of Strategies SOC-12, SOC-13, BSC-20 and GEO-21, and the Strategy under \"Building a Sustainable City\" for the \"replacement of surface parking with efficient, convenient and cost-effective public parking resources to support business, personal and social activity in the Downtown (Downtown Parking Strategy)\"",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "10777c8553c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Strategic Plan Outcome BSC-20, 'Bring Londoners Back to the River' by revitalizing the Thames River radiating from the Forks, as originally drafted.",
+    "confidence": "high",
+    "quote": "That BSC-20, Bring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "82b65d1416a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Draft Principles for the Victoria Park Secondary Plan as the basis for continued work with consultants, stakeholders, and property owners on developing the Secondary Plan.",
+    "confidence": "medium",
+    "quote": "the Draft Principles for the Victoria Park Secondary Plan be ENDORSED; it being noted that staff will continue to work with consultants, stakeholders, property owners, and other interested parties to develop the Secondary Plan",
+    "flags": []
+  }
+]

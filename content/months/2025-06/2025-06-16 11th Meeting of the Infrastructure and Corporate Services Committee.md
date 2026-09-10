@@ -386,28 +386,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:37 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -566,3 +544,26 @@ Thank you, I will, we're now back in our public session meeting. I will go to Co
 Have a great day.
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

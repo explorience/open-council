@@ -1,0 +1,528 @@
+[
+  {
+    "id": "b7594bbe764a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law (Bill No. 415) authorizing an Agreement of Purchase and Sale between the City and the property's vendor for the City's acquisition of 265 Wellington Road, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 415, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "09265bd7453b",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 14th Report of the Civic Works Committee to add a new part directing that the initial staff report on the Climate Emergency Declaration be sent to the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "That Item 2.9 of the 14th Report of the Civic Works Committee BE AMENDED to add the following new part c): \"c)         the initial staff report related to the Climate Emergency Declaration BE DIRECTED to the Strategic Priorities and Policy Committee.\"",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "ef5a0e9f445f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted a vendor's offer to sell 265 Wellington Road to the City for $332,000, for the purpose of future road improvements under the Wellington Gateway Project, and approved the financing for the acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Justin Graham Wright (the “Vendor”), to sell the subject property to the City, for the sum of $332,000.00, BE ACCEPTED, subject to the following conditions: ... and b) the financing for this acquisition BE APPROVED as set out in the source of Financing Report attached hereto as Appendix “A”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a0633d1f1d6c",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended part b)ii) of the 2020-2023 Multi-Year Budget update to add wording excluding the London Police Service from that budget-reduction request, noting the London Police Service budget had already been reviewed and reduced.",
+    "confidence": "medium",
+    "quote": "That part b)ii) BE AMENDED to include the following wording at the end of the clause, \"it being noted that the London Police Services will be excluded from this additional request, as the London Police Service Budget has already been reviewed and reduced.\"",
+    "flags": []
+  },
+  {
+    "id": "fe8de36e6289",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended part b)ii) of the 2020-2023 Multi-Year Budget update to add wording excluding the London Police Service from that budget-reduction request, noting the London Police Service budget had already been reviewed and reduced.",
+    "confidence": "medium",
+    "quote": "That part b)ii) BE AMENDED to include the following wording at the end of the clause, \"it being noted that the London Police Services will be excluded from this additional request, as the London Police Service Budget has already been reviewed and reduced.\"",
+    "flags": []
+  },
+  {
+    "id": "d9266782cec1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to develop business cases identifying potential reductions across civic service areas, for Council's consideration, to be provided after tabling of the 2020-2023 Multi-Year Budget but in advance of public consultation.",
+    "confidence": "high",
+    "quote": "The motion to approve part b)i) is put. b) the Civic Administration BE DIRECTED to take the following actions to address anticipated tax levy pressures in the 2020-2023 Multi-Year Budget:\n\ni) develop business cases for potential reductions within civic service areas for Council’s consideration; it being noted that these business cases will be provided after tabling of the 2020-2023 Multi-Year Budget but in advance of public consultation on the budget; and",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d1f1fff5edca",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to engage the City's agencies, boards and commissions whose draft budgets exceeded the provided targets, to submit potential reduction opportunities and be prepared to address the impacts of achieving their budget target.",
+    "confidence": "high",
+    "quote": "The motion to approve part b) ii) is put.\n\n\n\nii) engage with the City’s agencies, boards and commissions (ABC’s), who submitted draft budgets in excess of the budget targets provided to encourage them to submit potential opportunities for reductions, in accordance with the City’s format and timelines, and to be prepared to address the impacts of a reduction to their budget to achieve the budget target;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a577430473bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in a sample ranked-choice selection demonstration (using named fruit varieties as placeholder candidates), illustrating the Committee's newly recommended appointments Selection Process Policy; the first round recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Selection Demonstration - ONE candidate to be selected",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "17a3c987b7d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the second-round runoff of the sample ranked-choice selection demonstration illustrating the Committee's newly recommended appointments Selection Process Policy; this round again recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Selection Demonstration - ONE candidate to be selected",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3d7776237528",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the third-round runoff of the sample ranked-choice selection demonstration illustrating the Committee's newly recommended appointments Selection Process Policy; this round recorded “Kiwi” as the majority winner.",
+    "confidence": "high",
+    "quote": "Selection Demonstration - ONE candidate to be selected",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a330f50e03fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law (Bill No. 419) to provide for various City fees and charges, repealing the prior Fees and Charges by-law.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 419 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "70a963049b37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law (Bill No. 419) to provide for various City fees and charges, repealing the prior Fees and Charges by-law.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 419 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "7afbbd8afc0b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law (Bill No. 419) to provide for various City fees and charges, repealing the prior Fees and Charges by-law.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 419 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "94de93fe18d1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to develop business cases identifying potential reductions across civic service areas, for Council's consideration, to be provided after tabling of the 2020-2023 Multi-Year Budget but in advance of public consultation.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) i) of the clause, is put.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5e5f9f59e9c8",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to engage the City's agencies, boards and commissions whose draft budgets exceeded the provided targets, to submit potential reduction opportunities and be prepared to address the impacts of achieving their budget target.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) ii) of the clause, is put.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6b140d6c7510",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a zoning by-law amendment to add a “Farm Gate Sales” definition and permit farm gate produce sales as a use in the Urban Reserve (UR1) zone city-wide, and directed the Civic Administration to initiate a further zoning amendment allowing more frequent direct sales of produce grown on residential properties.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, City Planning and City Planner, the following actions be taken with respect to the City-wide zoning by-law amendment initiated by the City of London:\n\na) the proposed by-law appended to the staff report dated November 18, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to add a new “Farm Gate Sales” definition in Section 2 Definitions and amend Section 49.2 1) of the Urban Reserve (UR) Zone to allow Farm Gate Sales as a permitted use in the Urban Reserve (UR1) Zone; and,\n\nb) the Civic Administration BE DIRECTED to initiate a zoning by-law amendment to permit the sales of produce grown on a residential property (direct food sales) on more occasions than the current limitation of up to two times per year; it being noted that the Planning and Environment Committee reviewed and received the following communications with respect to these matters: a communication dated October 21, 2019 from A. Williams, 595 Sherene Terrace; and, a communication dated November 4, 2019 from P. Shand, Chairperson, Middlesex London Food Policy Council; it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters; it being further noted that the Municipal Council approves this application for the following reasons: - the recommended amendment to Zoning By-law Z.-1 is consistent with the Provincial Policy Statement (2014);\n\n- the recommended amendment to Zoning By-law Z.1 conforms to the 1989 Official Plan, including the policies of the Urban Reserve land use designation and to The London Plan, including the policies of the Food Systems chapter and the Future Growth Place Type, and provides for appropriate uses on these sites; and,\n\n- the recommended amendment to Zoning By-law Z.-1 will allow the sales of agricultural products from farms located within the Urban Growth Boundary. (2019-D09)",
+    "flags": []
+  },
+  {
+    "id": "24de4eb675f8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on London Community Grants Program allocations.",
+    "confidence": "high",
+    "quote": "That part a) BE APPROVED, as follows: That the following actions be taken with respect to the London Community Grants Program allocations:\n\na) the staff report dated November 25, 2019 entitled “London Community Grants Program Allocations” BE RECEIVED;",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ae2127ffd965",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to review the London Community Grants Policy and report back on policy amendments addressing whether the municipality is an appropriate funding source for requests that could be eligible for funding through senior levels of government, such as the Enabling Accessibility Fund.",
+    "confidence": "high",
+    "quote": "That part b) i) BE APPROVED, as follows:\n\nb) the Civic Administration BE DIRECTED to review the London Community Grants Policy and report back on policy amendments that would:\n\ni) identify if the municipality is the appropriate source of funding for requests, potentially limiting or removing eligibility for programs that receive funding through senior levels of government, such as the “Enabling Accessibility Fund”;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2b82ff52e54a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration, in its review of the London Community Grants Policy, to consider limiting eligibility for special events (including one-day events) under the Neighbourhood Decision Making process.",
+    "confidence": "high",
+    "quote": "That part b) ii) BE APPROVED, as follows:\n\nii) limit the eligibility for special events; including one day events, that could submit requests for consideration under the Neighbourhood Decision Making process; and",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "336ece268959",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration, in its review of the London Community Grants Policy, to consider tightening the current eligibility criteria for capital funding requests.",
+    "confidence": "high",
+    "quote": "That part b) iii) BE APPROVED, as follows:\n\niii) tighten the current eligibility criteria for capital funding requests; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "5dc6f4e8e4a7",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to develop business cases, for consideration during the 2020-2023 Multi-Year Budget process, that provide for potential reductions to the London Community Grants Program.",
+    "confidence": "high",
+    "quote": "That part c) BE APPROVED, as follows:\n\nc) the Civic Administration BE DIRECTED to develop Business Cases for consideration during the 2020-2023 Multi-Year Budget process that provide for potential reductions related to the “London Community Grants Program”.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1a7f57a5dc4f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have recommended introducing a by-law amending By-law WM-28 to increase 2020 water and wastewater rates and charges by 3 percent, effective January 1, 2020.",
+    "confidence": "high",
+    "quote": "That part a) BE APPROVED, as follows: That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water and Wastewater rates and charges: a) the  revised By-law, being, “A by-law to amend By-law WM-28 being “A by-law for regulation of wastewater and stormwater drainage systems in the City of London”, as amended by providing for an increase in the rates and charges, BE INTRODUCED at the Municipal Council meeting to be held November 26, 2019 to effect rates and charges increases of 3 (three) percent effective January 1,2020; and,",
+    "flags": []
+  },
+  {
+    "id": "a20c61f2876b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law amending By-law WM-28 to increase 2020 water and wastewater rates and charges by 2.5 percent, effective January 1, 2020.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2020 Water and Wastewater rates and charges: a) the proposed by-law appended to the staff report dated November 25, 2019 as Appendix “A”, “A by-law to amend By-law WM-28 being “A by-law for regulation of wastewater and stormwater drainage systems in the City of London”, as amended by providing for an increase in the rates and charges, BE INTRODUCED at the Municipal Council meeting to be held November 26, 2019 to effect rates and charges increases of 2.5 percent effective January 1,2020; and,",
+    "flags": []
+  },
+  {
+    "id": "a46ac4946a77",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Climate Change Emergency Update and its associated recommendations back to the Civic Administration to gather additional London-specific information.",
+    "confidence": "high",
+    "quote": "That the matter of Climate Change Emergency Update and the associated recommendations BE REFERRED back to the Civic Administration, in order to allow for the gathering of additional information specific to the London experience and related data with respect to this matter.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "3b1274ccc560",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted specific Climate Emergency Action Plan components, including developing and formalizing a screening Climate Emergency Evaluation Tool applied to City projects and Standing Committee reports, pursuing new funding for climate initiatives, and establishing a city-wide net zero community greenhouse gas emissions target no later than 2050.",
+    "confidence": "high",
+    "quote": "d)      the Civic Administration BE DIRECTED to complete the Climate Emergency Action Plan within one year, to include but not be limited to, the following components: ... i)       a clear city-wide net zero community GHG emissions target (no later than 2050, but with the intent of establishing a path to net zero GHG emissions prior to 2050);",
+    "flags": []
+  },
+  {
+    "id": "4fe19609eb64",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the balance of the Climate Emergency Action Plan recommendations, including establishing a city-wide target for London to achieve net zero community greenhouse gas emissions by 2050, pursuing corporate net-zero emissions ahead of that date, advancing the urban forest strategy including reforestation, and establishing tools to encourage green roofs, cool roofs and rooftop solar on private developments.",
+    "confidence": "high",
+    "quote": "a)     the Civic Administration BE DIRECTED to undertake the following immediate actions: i)      establish a City-wide target for London to achieve net zero community greenhouse gas (GHG) emissions by the year 2050;",
+    "flags": []
+  },
+  {
+    "id": "3edb7b0d4bfc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Elected Councillor A. Kayabaga, by ballot, to the Middlesex-London Health Unit Board of Directors.",
+    "confidence": "high",
+    "quote": "Appointment to Middlesex-London Health Unit Board of Directors",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b64466b0c74d",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration review and report back with recommendations for higher-order transit service and/or transit improvement projects for West London, including potential modifications to the West Connection project covering service options, local service integration, road design alternatives, a possible quick-start program, park-and-ride opportunities, and electric bus infrastructure needs.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE REQUESTED to review and report back with recommendations for providing higher order transit service and/or transit improvement projects to West London, including but not limited to potential modifications of the West Connection project that address:\n\n\n\na)      options for higher order transit serving West London, including the extension of service further west;\n\nb)      local service integration opportunities;\n\nc)      additional road design alternatives along the corridor, including a review of lane configurations and options for phased delivery; \n\nd)      the possibility of a quick-start program that includes prioritized intersections with mixed traffic routes,\n\ne)      opportunities for park and ride; and\n\nf)       the possible need for electric bus infrastructure;\n\n\n\nit being noted that the Strategic Priorities and Policy Committee received a communication, dated November 22, 2019, from B. Brock with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8d74fc494ef6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law (Added Bill No. 451) authorizing an Agreement of Purchase and Sale between the City and the property's vendor for the City's acquisition of 273 Wellington Road, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 451, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c2aff0c6ffca",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law (Added Bill No. 451) authorizing an Agreement of Purchase and Sale between the City and the property's vendor for the City's acquisition of 273 Wellington Road, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 451, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "351909534e32",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law (Added Bill No. 451) authorizing an Agreement of Purchase and Sale between the City and Sherry Jacqueline Bettridge for the City's acquisition of 273 Wellington Road, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 451, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1e75adb932da",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted a vendor's offer to sell 273 Wellington Road to the City for $300,000, for the purpose of future road improvements under the Wellington Gateway Project, and approved the financing for the acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Sherry Jacqueline Bettridge (the “Vendor”), to sell the subject property to the City, for the sum of $300,000.00, BE ACCEPTED, subject to the following conditions: ... and b)      the financing for this acquisition BE APPROVED as set out in the source of Financing Report attached hereto as Appendix “A”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e1c9efde7c24",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Strategic Priorities and Policy Committee's West Transit Motion, as amended, requesting the Civic Administration review and report back with recommendations for higher-order transit service and/or transit improvement projects for West London, including potential modifications to the West Connection project, and directing the Civic Administration to consult with the London Transit Commission on higher-order transit options.",
+    "confidence": "high",
+    "quote": "That Item 12, clause 4.6, as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8a59578b5d18",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the London Community Grants Program Allocations report and directed the Civic Administration to review the London Community Grants Policy and report back on policy amendments addressing whether the municipality is an appropriate funding source for requests that could be eligible for funding through senior levels of government, such as the Enabling Accessibility Fund.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) is put.",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "54dfe6887cba",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted specific Climate Emergency Action Plan components, including developing and formalizing a screening Climate Emergency Evaluation Tool applied to City projects and Standing Committee reports, pursuing new funding for climate initiatives, and establishing a city-wide net zero community greenhouse gas emissions target no later than 2050.",
+    "confidence": "high",
+    "quote": "d)      the Civic Administration BE DIRECTED to complete the Climate Emergency Action Plan within one year, to include but not be limited to, the following components: ... i)       a clear city-wide net zero community GHG emissions target (no later than 2050, but with the intent of establishing a path to net zero GHG emissions prior to 2050);",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "fe29e5c4096a",
+    "issue": "climate",
+    "axis": "target-strength",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the balance of the Climate Emergency Action Plan recommendations, including establishing a city-wide target for London to achieve net zero community greenhouse gas emissions by 2050, pursuing corporate net-zero emissions ahead of that date, advancing the urban forest strategy including reforestation, and establishing tools to encourage green roofs, cool roofs and rooftop solar on private developments.",
+    "confidence": "high",
+    "quote": "a)     the Civic Administration BE DIRECTED to undertake the following immediate actions: i)      establish a City-wide target for London to achieve net zero community greenhouse gas (GHG) emissions by the year 2050;",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "900f2935d3d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward a report with a revised draft proclamation policy similar to the City of Toronto's, that would provide for the authority for municipal proclamations to be delegated.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a report to the Corporate Services Committee meeting to be held on January 6, 2020, with a revised draft proclamation policy that is similar to the policy of the City of Toronto and that would provide for the authority for municipal proclamations to be delegated.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "db54a9b3fef1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a proposed by-law amending the Business Licence By-law to add a new tow truck operator licence category, definition and fees back to the Civic Administration for further consultation with stakeholders and the London Police Services Board, with a report back to the Community and Protective Services Committee no later than Q2 of 2020.",
+    "confidence": "high",
+    "quote": "That the proposed by-law, as appended to the staff report dated December 3, 2019, with respect to the addition of a new category, definition, and fees to the Business Licence By-law BE REFERRED back to the Civic Administration for further consultation with stakeholders and the London Police Services Board and a report back to the Community and Protective Services Committee no later than Q2 of 2020; it being noted that the attached presentation from N. Musicco, Specialist I, Municipal Policy, was received with respect to this matter;\n\nit being further noted that the Community and Protective Services Committee reviewed and received the following communications with respect to this matter:\n\n- F. Ibrahim;\n\n- M. Aboukhamis;\n\n- T. Aboukhamis;\n\n- D. Nelson, Canadian Towing Association; it being pointed out that at the public participation meeting associated with this matter, the individuals indicated on the attached public participation meeting record made an oral submission regarding this matter. (2019-T08/P09)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1a995eb5ffe4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward a report with a revised draft proclamation policy similar to the City of Toronto's, that would provide for the authority for municipal proclamations to be delegated.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a report to the Corporate Services Committee meeting to be held on January 6, 2020, with a revised draft proclamation policy that is similar to the policy of the City of Toronto and that would provide for the authority for municipal proclamations to be delegated.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3b80e3369b20",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Urban Design Peer Review Panel Terms of Reference Update back to the Civic Administration to further review and report back on implications related to the Municipal Conflict of Interest Act.",
+    "confidence": "high",
+    "quote": "That the matter of the Urban Design Peer Review Panel Terms of Reference Update BE REFERRED back to the Civic Administration in order to further review and report back on implications related to the Municipal Conflict of Interest Act.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "b7befb5bbe03",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted delegation status to C. Butler to address the Committee on this matter at that time.",
+    "confidence": "high",
+    "quote": "That the request for delegation status from C. Butler BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "38c6b5063447",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law at the January 14, 2020 Council meeting to repeal the prior Council Proclamations Policy and replace it with a new Issuance of Proclamations Policy, to be enacted as a one-year pilot project.",
+    "confidence": "high",
+    "quote": "That the proposed by-law, as appended to the staff report dated January 6, 2020 BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 to repeal Council Policy By-law No. CPOL.-115-367, as amended by By-law No. CPOL.115(a)-418, being \"Issuance of Proclamations Policy\" and replace it with a new Council policy entitled \"Issuance of Proclamations Policy\"; it being noted that this policy will be enacted as a pilot project to be reviewed one year after implementation.",
+    "flags": []
+  },
+  {
+    "id": "71fa0964bc48",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 11th Report of the Cycling Advisory Committee back to the Committee for re-submission to the Civic Works Committee with a completed 2020 work plan for Council's consideration and approval.",
+    "confidence": "medium",
+    "quote": "That the 11th report of the Cycling Advisory Committee (CAC) BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1e61a6246d4b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed AECOM Canada Ltd. as consulting engineer for the Downtown Loop and Municipal Infrastructure Improvements project at an upset amount of $3,345,245 (excluding HST), and approved the financing for the appointment.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Downtown Loop and Municipal Infrastructure Improvements:\n\n\n\na)       AECOM Canada Ltd. BE APPOINTED Consulting Engineers for the Downtown Loop and Municipal Infrastructure Improvements at an upset amount of $3,345,245 including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy; b)       the financing for this appointment BE APPROVED as set out in the Sources of Financing Report as appended to the staff report dated January 7, 2020; c)       the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this appointment; d)       the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and, e)       the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations. (2019-T06)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6f72381497d3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law at the January 14, 2020 Council meeting to amend the Traffic and Parking By-law (PS-113) related to School Community Safety Zones.",
+    "confidence": "medium",
+    "quote": "That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London\", BE INTRODUCED at the Municipal Council meeting to be held on January 14, 2020 (2019-T08).",
+    "flags": [
+      "procedural"
+    ]
+  }
+]

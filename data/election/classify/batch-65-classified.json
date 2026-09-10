@@ -1,0 +1,112 @@
+[
+ {
+  "id": "a9921019460d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Denied a request to transfer an Adult Entertainment Body-rub Parlour business license from 802 Exeter Road to 232 Dundas Street.",
+  "confidence": "high",
+  "quote": "the request to transfer the adult entertainment body-rub parlour license from 802 Exeter Road to 232 Dundas Street BE DENIED",
+  "flags": []
+ },
+ {
+  "id": "6ab0dbb37e9b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no further action on a communication from AM. Valastro regarding Item 5 (2.5) of the 12th Report of the Civic Works Committee, on the Harris Park Erosion Control Structure Replacement.",
+  "confidence": "high",
+  "quote": "That no action BE TAKEN with respect to the communication from AM. Valastro, with respect to Item #5 (2.5) of the 12th Report of the Civic Works Committee.",
+  "flags": []
+ },
+ {
+  "id": "bbc15e477352",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the applications for proclamations of Economic Abuse Awareness Day and National Children's Grief Awareness Day.",
+  "confidence": "high",
+  "quote": "That Items 4.1 and 4.2 BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "2072e005787a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to provide future status update reports on adult entertainment parlour licence applications, and received the staff report and a related communication on the Adult Live Entertainment Parlour at 2010 Dundas Street.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to provide the Community and Protective Services Committee with future status update reports with respect to licence applications for adult entertainment parlour locations",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "62436ebc321d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing by-laws to amend The London Plan and Zoning By-law No. Z.-1 to redesignate a portion of 4452 Wellington Road South from a Shopping Area Place Type/Commercial designation to a Light Industrial Place Type/Industrial designation, and rezone the property from a Holding Associated Shopping Area Commercial zone to a Holding Light Industrial zone and an Environmental Review zone.",
+  "confidence": "high",
+  "quote": "to change the zoning of the subject property FROM a Holding Associated Shopping Area Commercial (h-17*ASA1/ASA2/ASA6) Zone TO a Holding Light Industrial (h-17*LI6) Zone, and an Environmental Review (ER) Zone",
+  "flags": []
+ },
+ {
+  "id": "83f63d696015",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred consideration of the 4452 Wellington Road South (OZ-9497) rezoning application to a future Planning and Environment Committee public participation meeting, to allow residents of Brockley-Shaver to be notified of the proposed application.",
+  "confidence": "high",
+  "quote": "Motion to refer consideration of the application to a future Planning and Environment Committee public participation meeting, to allow the residents of Brockley-Shaver to be notified of the proposed application.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "2a81e2ad852d",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have removed the proposed $1.85/hour fee for Electric Vehicle Charging from Schedule 1 of the Fees and Charges By-law.",
+  "confidence": "medium",
+  "quote": "That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.",
+  "flags": []
+ },
+ {
+  "id": "95329837b1ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to provide future status update reports on adult entertainment parlour licence applications, and received the staff report and a related communication on the Adult Live Entertainment Parlour at 2010 Dundas Street.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to provide the Community and Protective Services Committee with future status update reports with respect to licence applications for adult entertainment parlour locations",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "84314a31e1e7",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Councillor M. van Holst's communication and proposed zoning amendment on a pilot of temporary mobile shelters to the ongoing ReThink Zoning process, to consider use of temporary mobile shelters including on lands zoned for places of worship.",
+  "confidence": "medium",
+  "quote": "That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobile shelters, including on lands zoned for places of worship.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "2bdf8f6c8643",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred consideration of the 4452 Wellington Road South (OZ-9497) rezoning application back to the Planning and Environment Committee to facilitate an additional public participation meeting with broader notice circulation.",
+  "confidence": "high",
+  "quote": "That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulation of notice for the PPM meeting is required.",
+  "flags": [
+   "referral"
+  ]
+ }
+]

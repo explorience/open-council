@@ -1,0 +1,592 @@
+[
+  {
+    "id": "2d989f0d676e",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved Business Case #2, cancelling the planned 2019 minimum wage increase in the Operating Budget, a net decrease of $521 to the 2019 tax levy.",
+    "confidence": "high",
+    "quote": "Business Case #2 (Cancellation of Planned 2019 Minimum wage Increase) - Net Impact $(521), BE APPROVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the split 8.4.4(ii) sub-vote (9-6): quote is verbatim, and 'Net Impact $(521)' is the motion's own levy-effect figure -- a negative number is a levy decrease, so restrictive is correct. No stance verb; whatAYeaDid uses motion-action voice."
+  },
+  {
+    "id": "a361549a7ba4",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a $50,000 grant to the Hamilton Road Business Improvement Area for 2019, funded from the Community Investment Reserve Fund.",
+    "confidence": "medium",
+    "quote": "the Hamilton Road Business Improvement Area (BIA) BE GIVEN a grant in the amount of $50,000 for 2019 to assist the BIA in their activities; it being noted that this is a 4 km, low assessment area with a 4.9% levy totaling only $70,000; it being further noted that the grant would be funded from the Community Investment Reserve Fund",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Downgraded axis/polarity to null. The motion's own text says the $50,000 grant 'would be funded from the Community Investment Reserve Fund' -- not the tax levy -- and this SAME motion's Business Case #7 line shows reserve-funded spending nets to $0 levy impact ('Net Impact $0 ... including the amended sources of financing ... Reserve Fund'). No Tax Levy $ line is printed for this BIA grant (unlike the numbered Business Cases), so its levy effect isn't derivable from the motion's own text -- convention requires null, not 'expansive'."
+  },
+  {
+    "id": "eac1f29279f5",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved allocating $330,000 from Assessment Growth revenue to the 2019 Budget in order to offset the tax levy.",
+    "confidence": "high",
+    "quote": "that $330,000 from Assessment Growth revenue BE ALLOCATED to the 2019 Budget in order to off-set the tax levy.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 8.4.4(c) (12-3): quote verbatim ('off-set' hyphenation matches source). $330,000 assessment-growth revenue applied to REDUCE the levy requirement is correctly restrictive (smaller levy), matching the convention's 'net effect of the motion passing' read."
+  },
+  {
+    "id": "d9f45401f04f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended item 4.4 (Operating Budget) to add a note recognizing $11,359,000 of increased taxation from assessment growth.",
+    "confidence": "medium",
+    "quote": "after recognizing $11,359,000 of increased taxation from assessment growth.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "d747b0b5c3c0",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the revised 2019 tax levy related to golf operations in the gross amount of $3,849,601 and the net amount of $1,902.",
+    "confidence": "medium",
+    "quote": "the revised 2019 tax levy related to golf BE READOPTED in the gross amount of $3,849,601 and in the net amount of $1,902.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "08f4496ab2d0",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Readopted, under section 291(4)(c) of the Municipal Act, the revised 2019 tax levy related to the Community Grant Program in the gross and net amount of $2,797,000.",
+    "confidence": "medium",
+    "quote": "the revised 2019 tax levy related to the Community Grant Program BE READOPTED in the gross amount of $2,797,000 and in the net amount of $2,797,000.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "26aace6690d8",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave final approval to the 2019 Operating Budget item (item 4.4), as amended by Council's business-case, grant, and tax-levy-readoption decisions earlier in the same meeting.",
+    "confidence": "medium",
+    "quote": "That item 4.4, as amended, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "'That item 4.4, as amended, BE APPROVED.' (13-2) is a complete, period-terminated standalone sentence, not a colon-introduced wrapper -- it is the real final Operating Budget adoption vote, correctly read as application-approval/expansive per the generic 'approved the budget item' convention (no levy $ line of its own to cite)."
+  },
+  {
+    "id": "7eb6029207c1",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Readopted the 2019 capital budget at $205,382,000 and approved in principle the 2020-2025 capital forecast at $1,523,527,000.",
+    "confidence": "medium",
+    "quote": "the revised 2019 capital budget BE READOPTED in the amount of $205,382,000; and b) the revised 2020-2025 capital forecast BE APPROVED in principle in the amount of $1,523,527,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim against 8.4.8 (14-1); both dollar figures (2019 capital budget readoption $205,382,000; 2020-2025 forecast $1,523,527,000) match source exactly. Application-approval/expansive correctly reflects a budget re-adoption/expansion, not a levy-size figure."
+  },
+  {
+    "id": "2a7a3258a6cd",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved accepting a $290,000 offer to purchase the property at 78 Wellington Road, plus the vendor's appraisal costs, for future road improvements needed to accommodate the Bus Rapid Transit initiative, and approved the financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "the offer submitted by Jill Lydia Ritchie, to sell the subject property to the City, for the sum of $290,000.00 BE ACCEPTED ... the financing for this acquisition BE APPROVED as set out in the source of Financing Report",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim against the 78 Wellington Road closed-session property report (10-4); text explicitly ties the acquisition to 'future road improvements to accommodate the Bus Rapid Transit initiative.' Application-approval/expansive is a defensible, non-overclaiming read (sidesteps the road-capacity vs transit-service ambiguity rather than guessing)."
+  },
+  {
+    "id": "b385cb53eb89",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added an h-5 holding provision requiring site plan approval to the 447 Old Wonderland Road (Z-8962) rezoning, and dispensed with further public notice except for that holding provision.",
+    "confidence": "medium",
+    "quote": "Motion to include an h-5 holding provision for the site plan; and, c) pursuant to Section 34(17) of the Planning Act, no further public notice BE GIVEN with the exception of the h-5 holding provision for the public site plan;",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "fedbb8df07c3",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred installing a temporary bike lane on King Street, originally scheduled for 2019, until Council decided on the rapid transit project, directing the matter back to Civic Works Committee for further consideration at that time.",
+    "confidence": "high",
+    "quote": "the temporary bike lane for King Street, scheduled for installation in 2019, BE DEFERRED until such time as the Municipal Council has made decisions regarding the rapid transit project, pending the above-noted Council decisions related to transit projects, the matter of temporary King Street bike lane be brought back to the Civic Works Committee for additional consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "9007d2d09b3c",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Downtown Old East Village East-West Bikeway matter back to staff for further consultation on a viable Dundas Street corridor solution.",
+    "confidence": "high",
+    "quote": "the matter of the Downtown OEV East-West Bikeway BE REFERRED back to the staff in order to have further consultation related to a viable Dundas Street corridor solution.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "b3d705215d29",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on making nasal Naloxone kits available for public use in some City of London facilities, and took no further action on the matter.",
+    "confidence": "high",
+    "quote": "the staff report dated February 20, 2019 with respect to making nasal Naloxone kits available for public use in some City of London facilities BE RECEIVED and no further action be taken with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "02036e90a7cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the vision statement for Council's 2019-2023 Strategic Plan: “A leader in commerce, culture, and innovation - our region’s connection to the World.”",
+    "confidence": "high",
+    "quote": "the following vision statement BE APPROVED for the 2019-2023 Strategic Plan: \"A leader in commerce, culture, and innovation - our region’s connection to the World\".",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "6c96c3c2742a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the mission statement for Council's 2019-2023 Strategic Plan: “A responsive and modern public service partner that fosters change to build a better London for all.”",
+    "confidence": "high",
+    "quote": "the following proposed mission statement BE APPROVED for the 2019-2023 Strategic Plan: \"A responsive and modern public service partner that fosters change to build a better London for all.\"",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "4011f65fb7b9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the values statement for Council's 2019-2023 Strategic Plan: “Good governance, driven by community, acting with compassion, moving forward through innovation.”",
+    "confidence": "high",
+    "quote": "the following proposed values BE APPROVED for the 2019-2023 Strategic Plan: “Good governance, driven by community, acting with compassion, moving forward through innovation.”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "4defce572a49",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred consideration of appointments to the London Downtown Business Association Board of Directors to a future meeting of the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "consideration of appointments to the London Downtown Business Association Board of Directors, as outlined on the correspondence dated January 31, 2019 with respect to this matter, BE DEFERRED to a future meeting of the Strategic Priorities and Policy Committee.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "b0a780294212",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to route major Bus Rapid Transit and Public Transit Infrastructure Stream (PTIS) funding-related reports, presentations, and Rapid Transit Implementation Working Group reports through the Strategic Priorities and Policy Committee going forward, and received the Mayor's update on the matter.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to: a) consign to meetings of the Strategic Priorities and Policy Committee (SPPC) all major Bus Rapid Transit (BRT) related matters, including but not limited to reports, presentations and Councillor submissions that have regard to Rapid Transit or any project seeking funding through the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding commitment, noting that this will not include any related property acquisitions",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote was sourced from the wrong content block within item 4.6: it used the 'i)' sub-clause numbering from the pre-split combined motion (untallied 'Motion Passed' block), not the actual recorded 13-2 vote's own text, which numbers the same clause 'a)'. Substance and whatAYeaDid/issue/axis/polarity were already correct (procedural reporting-routing directive, no BRT project or funding decision); fixed the quote to verbatim-match the block that was actually voted 13-2."
+  },
+  {
+    "id": "06b3e101f2b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on making nasal Naloxone kits available for public use in some City of London facilities, and took no further action on the matter.",
+    "confidence": "high",
+    "quote": "the staff report dated February 20, 2019 with respect to making nasal Naloxone kits available for public use in some City of London facilities BE RECEIVED and no further action be taken with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "194f30b27e26",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved reconsidering the vote on the Naloxone-kits item (Item 9(2.7)) under section 13.2 of the Council Procedure By-law, to address a vote-entry error by Councillor M. van Holst.",
+    "confidence": "high",
+    "quote": "pursuant to section 13.2 of the Council Procedure By-law reconsideration of the vote for Item 9(2.7) BE APPROVED to address vote entry error by Councillor M. van Holst.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "b7a2be6098df",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have received the staff report on making nasal Naloxone kits available for public use in some City of London facilities and taken no further action on the matter, following a reconsideration vote to correct a vote-entry error; failed.",
+    "confidence": "high",
+    "quote": "the staff report dated February 20, 2019 with respect to making nasal Naloxone kits available for public use in some City of London facilities BE RECEIVED and no further action be taken with respect to this matter.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "51733594d570",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a policy and implementation plan to install nasal Naloxone kits at publicly accessible defibrillator locations in City facilities that operate year-round, as a one-year pilot program beginning June 2019, with associated signage and a public education session with the Middlesex-London Health Unit.",
+    "confidence": "high",
+    "quote": "the following policy direction and implementation plan to install nasal Naloxone Kits for public use at some City of London facilities BE APPROVED: a) place up to two nasal Naloxone kits for public use with each publicly accessible Automated External Defibrillator (AED) at those City facilities that operate year-round",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "e4cb7c1c8876",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Agreement Extension with Trojan Technologies for use of the decommissioned Westminster Wastewater Plant back to Civic Administration for additional discussion.",
+    "confidence": "high",
+    "quote": "the Agreement Extension with Trojan Technologies for the use of the decommissioned Westminster Wastewater Plant BE REFERRED back to the Civic Administration, in order for additional discussion with respect to this matter.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "c746115532a5",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Downtown Old East Village East-West Bikeway matter back to staff for further consultation on a viable Dundas Street corridor solution, instead of deciding on the Dundas/Queens Hybrid design directly; failed.",
+    "confidence": "high",
+    "quote": "the matter of the Downtown OEV East-West Bikeway BE REFERRED back to the staff in order to have further consultation related to a viable Dundas Street corridor solution;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "0a7893fcb3ff",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Dundas Street and Queens Avenue Old East Village Hybrid design for the Downtown OEV East-West Bikeway for implementation, including a shared cycling route on Dundas Place, uni-directional cycle tracks on Dundas Street between Wellington and William Streets, and a cycle track couplet on Dundas Street/Queens Avenue between William and Quebec Streets, and incorporated it into the Cycling Master Plan.",
+    "confidence": "high",
+    "quote": "the preferred alternative identified herein as the Dundas Street and Queens Avenue Old East Village (OEV) Hybrid BE ENDORSED for implementation which is generally described as: ... a shared cycling route along Dundas Place between Ridout Street and Wellington Street; ... an uni-directional cycle tracks on Dundas Street between Wellington Street and William Street; ... a cycle track couplet on Dundas Street (eastbound) and Queens Avenue (westbound) between William Street and Quebec Street through the Old East Village; and, b) The proposed recommendations of the Evaluation BE INCORPORATED into the Cycling Master Plan",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim against 8.3.15 idx2 (14-1, the OEV Hybrid design endorsement -- distinct from the two failed referral/deferral sub-motions on the same item). Bikes/infrastructure-expansion/expansive is squarely correct: this is a real cycling-infrastructure approval, not a wrapper."
+  },
+  {
+    "id": "7f78d3fd2147",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have deferred installing a temporary bike lane on King Street, originally scheduled for 2019, until Council decided on the rapid transit project; failed.",
+    "confidence": "high",
+    "quote": "the temporary bike lane for King Street, scheduled for installation in 2019, BE DEFERRED until such time as the Municipal Council has made decisions regarding the rapid transit project, pending the above-noted Council decisions related to transit projects, the matter of temporary King Street bike lane be brought back to the Civic Works Committee for additional consideration;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "fba8dc74c0c2",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved entering into a Subdivision Agreement with Sunningdale Golf and Country Club Ltd. for the Sunninglea Subdivision (39T-16504) at 379 Sunningdale Road West, including its special provisions and financing, and authorized the Mayor and City Clerk to execute it.",
+    "confidence": "medium",
+    "quote": "the Special Provisions, to be contained in a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Club Ltd., for the Sunninglea Subdivision, (39T-16504), appended to the staff report dated February 19, 2019 as Appendix “A”, BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim against 8.4.11 (13-1). 'Sunninglea Subdivision' / file prefix 39T- is a plan-of-subdivision file, matching issue-rules.ts's 'plan of subdivision' housing keyword. Application-approval/expansive correctly reflects approving the subdivision agreement."
+  },
+  {
+    "id": "7bff7c11dc56",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred consideration of appointments to the London Downtown Business Association Board of Directors to a future meeting of the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "consideration of appointments to the London Downtown Business Association Board of Directors, as outlined on the correspondence dated January 31, 2019 with respect to this matter, BE DEFERRED to a future meeting of the Strategic Priorities and Policy Committee.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "61617d225e36",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to route major Bus Rapid Transit and Public Transit Infrastructure Stream (PTIS) funding-related reports, presentations, and Rapid Transit Implementation Working Group reports through the Strategic Priorities and Policy Committee going forward, and received the Mayor's update on the matter.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to: i) consign to meetings of the Strategic Priorities and Policy Committee (SPPC) all major Bus Rapid Transit (BRT) related matters, including but not limited to reports, presentations and Councillor submissions that have regard to Rapid Transit or any project seeking funding through the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding commitment, noting that this will not include any related property acquisitions",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "319c14cbc765",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information, the staff report on the Council of Canadians' Blue Communities Project and its application to the City of London.",
+    "confidence": "high",
+    "quote": "the report dated March 18, 2019 with respect to the Council of Canadians’ Blue Communities Project and its application to the City of London BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "19943362511d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested Civic Administration to report back to Civic Works Committee on the feasibility of implementing the Blue Communities Program, including the financial impacts; failed.",
+    "confidence": "high",
+    "quote": "Civic Administration Be REQUESTED to report back to Civic Works Committee with respect to the feasibility of implementing the Blue Communities Program, including the financial impacts of this implementation.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "b8462f4b646d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Consented to the demolition of the barn on the heritage-listed property at 1588 Clarke Road.",
+    "confidence": "high",
+    "quote": "the Chief Building Official BE ADVISED that the Municipal Council consents to the demolition of the barn on this property",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "e0f2a60beff6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have deferred consideration of the London Downtown Business Association's 2019 proposed budget to a future Corporate Services Committee meeting; failed.",
+    "confidence": "high",
+    "quote": "consideration of the 2019 proposed budget of the London Downtown Business Association BE DEFERRED to a future meeting of the Corporate Services Committee meeting.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "14a57a146219",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved the London Downtown Business Association's proposed 2019 budget of $1,826,490, fixed the 2019 Municipal Special Levy for the LDBA Improvement Area at $1,915,390 (including an estimated $90,000 for tax write-offs), established the related special charge, and introduced the special-levy by-law; failed.",
+    "confidence": "high",
+    "quote": "the London Downtown Business Association proposed 2019 budget submission in the amount of $1,826,490 BE APPROVED as outlined in Schedule “A” as appended to the staff report dated March 19, 2019; ... the amount to be raised by the Corporation of the City of London for the 2019 fiscal year for the purposes of the London Downtown Business Association Improvement Area and pursuant to subsection 208(1) of the Municipal Act, 2001 BE FIXED at $1,915,390 (which includes $1,825,390 for the Municipal Special Levy and an estimated $90,000 for tax write-offs administered by the City of London on behalf of London Downtown Business Association Improvement Area)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "e8c52955a632",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have amended the Project 4 North Connection PTIS submission to revise its design to mixed traffic and remove the requirement for designated (transit) lanes between Central Avenue and the Western University Gate on Richmond Street; failed.",
+    "confidence": "medium",
+    "quote": "the motion to approve the inclusion of Project 4 North Connection, BE AMENDED to revise the proposed design to have mixed traffic, and remove the requirement for designated lanes between Central Avenue and the Western University Gate on Richmond Street.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim against SPPC 2019-03-25 item 4.1 idx0 (Failed 5-8; disambiguated from a same-tally duplicate result elsewhere in the same 17-motion item by matching the actual clause text). Hedged 'Would have' correctly since Failed. Removing a designated-lanes requirement in favour of mixed traffic is correctly restrictive on transit-service."
+  },
+  {
+    "id": "dd1872bc88e1",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Project 2 Wellington Road Gateway PTIS submission to replace the requirement for “dedicated” bus lanes with a broader “priority transit lanes” definition that could include dedicated lanes, HOV lanes, reversible lanes, or other measures intended to increase transit capacity, quality, safety, or accessibility; failed.",
+    "confidence": "medium",
+    "quote": "the application for transit funding shall not use the term “dedicated” bus lanes but rather “priority” transit lanes with the following definition: “Priority transit lanes may take the form of dedicated lanes or dedicated lanes for posted hours of the day, high occupancy vehicle (HOV) lanes or HOV lanes for posted hours of the day, reversible lanes that can be either dedicated or HOV, or other innovations that, in any appropriate combination, will increase the capacity, quality, safety or accessibility of transit.”",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "9bec81849fa7",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Project 3 East London Link PTIS submission to thank London Transit Commission for its new express Route 94 bus service to Argyle Mall starting Fall 2019, and to ask LTC to consider several service priorities in its 5-year service plan (maintaining the Argyle Mall-Dundas/Highbury connection, an express connection to Fanshawe College, improved peak frequency on Routes 36 and 94, and faster rollout of alternative service delivery in industrial employment zones).",
+    "confidence": "high",
+    "quote": "London Transit Commission BE THANKED for implementing a new express bus service to Argyle Mall, Route 94, to start in Fall 2019; and c) London Transit Commission BE REQUESTED to consider the following as priorities in its 5-year service plan",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "279266ced9e7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Suspended section 31.0 of the Council Procedure By-law to allow a revised debate format for this meeting (member statements, then member discussion, then questions to Civic Administration) before resuming normal debate rules.",
+    "confidence": "high",
+    "quote": "pursuant to section 2.3 of the Council Procedure By-law, section 31.0 of the said By-law be suspended for the purpose of permitting a revised format for debate and conduct at this meeting",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "a118996a150a",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred consideration of Projects 1, 3, and 5 through 19 (the Downtown Loop, East London Link, West Connection, and 14 other transit, active-transportation, and streetscape projects) to a future meeting to allow preparation of additional business cases; failed.",
+    "confidence": "high",
+    "quote": "consideration of the following projects BE REFERRED to a future meeting, in order to allow for the preparation of additional business cases for consideration: - Project 1. The Downtown Loop - Project 3. East London Link - Project 5. West Connection",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "966c3be78659",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested that the Managing Director, Environmental & Engineering Services and City Engineer include Project 4, North Connection, in the City's Public Transit Infrastructure Stream (PTIS) funding submission; failed.",
+    "confidence": "medium",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 4, North Connection.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "d7573ac66f79",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Managing Director, Environmental & Engineering Services and City Engineer include Project 2, Wellington Road Gateway, in the City's Public Transit Infrastructure Stream (PTIS) funding submission.",
+    "confidence": "medium",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 2. Wellington Road Gateway",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "94bad1568635",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Managing Director, Environmental & Engineering Services and City Engineer include Project 3, East London Link, in the City's PTIS funding submission; thanked London Transit Commission for its new express Route 94 bus service to Argyle Mall starting Fall 2019; and asked LTC to consider several service priorities in its 5-year plan.",
+    "confidence": "high",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 3. East London Link",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "611a4b987989",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested that the Managing Director, Environmental & Engineering Services and City Engineer include Project 5, West Connection, in the City's Public Transit Infrastructure Stream (PTIS) funding submission; failed.",
+    "confidence": "medium",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 5. West Connection",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "5ac47a990344",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Managing Director, Environmental & Engineering Services and City Engineer include Project 1, the Downtown Loop, in the City's Public Transit Infrastructure Stream (PTIS) funding submission.",
+    "confidence": "medium",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 1. The Downtown Loop",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  },
+  {
+    "id": "7b4ae328a8d1",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Managing Director, Environmental & Engineering Services and City Engineer include Projects 6 (Intelligent Traffic Signals/TIMMS), 7 (Expansion Buses), 9 (Bus Stop Amenities), 12 (Adelaide Street Underpass Active Transportation Connections), and 16 (Oxford Street/Wharncliffe Road Intersection Improvements) in the City's Public Transit Infrastructure Stream (PTIS) funding submission.",
+    "confidence": "medium",
+    "quote": "the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 6. Intelligent Traffic Signals (TIMMS) Project 7. Expansion Buses Project 9. Bus Stop Amenities Project 12. Adelaide Street Underpass Active Transportation Connections Project 16. Oxford Street / Wharncliffe Road Intersection Improvements",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verified verbatim against the full motion text at its meetingSlug/itemNumber; issue, axis/polarity (or correctly-left-null unclear/procedural read), and convention compliance (hedge, stance-verb, wrapper-vs-substantive) all confirmed against the source text."
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "id": "b761d3962902",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred Merrymount Family Support and Crisis Centre's 2019 funding request ($368,704) to the 2019 Budget process, requested the Budget Chair to investigate funding sources with other levels of government, and referred its 2020 funding request ($238,704) to the 2020-2023 Multi-year Budget process.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the request for funding from Merrymount Family Support and Crisis Centre: a)      the request for 2019 funding in the amount of $368,704 BE REFERRED to the 2019 Budget process for consideration; b)      the Budget Chair BE REQUESTED to work with the Civic Administration, Provincial and Federal Government officials and representatives from the Merrymount Family Support and Crisis Centre to investigate and determine any potential appropriate sources of funding with respect to the 2019 request for funding; and c)      the Merrymount Family Support and Crisis Centre 2020 request for funding in the amount of $238,704 BE REFERRED to the 2020-2023 Multi-year Budget Process for consideration; it being noted that the Strategic Priorities and Policy Committee received a variety of communications through the Public Participation Meeting associated with the 2016 - 2019 Budget.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim in source (2019-01-17 SPPC 5.1); referral, no dollar line drives a levy vote here, correctly issue=none."
+  },
+  {
+    "id": "203d7c727ae8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Vanden Booman to the London Council for Adult Education for the term December 1, 2018 to November 15, 2022, based on committee interviews and a ranked ballot.",
+    "confidence": "high",
+    "quote": "That D. Vanden Booman BE APPOINTED to the London Council for Adult Education, for the term December 1, 2018 to November 15, 2022, based on the interviews conducted by the Corporate Services Committee on January 22, 2019, and the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Committee appointment vote, quote verbatim, appointment flag correct."
+  },
+  {
+    "id": "901667d2387a",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Amended Operating Budget Case #7 (London Children's Museum funding request) to change its funding source to $1,500,000 from the Economic Development Reserve Fund and $500,000 from the Tourism Infrastructure Reserve Fund, with the total amount unchanged.",
+    "confidence": "medium",
+    "quote": "That Operating Budget Amendment - Case #7 (London Children's Museum - Funding Request), BE AMENDED, to revise the source of funding of the Case with $1,500,000 being funded from the Economic Development Reserve Fund, and $500,000 being funded from the Tourism Infrastructure Reserve Fund.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Case #7 funding-source swap, total unchanged (Net Impact $0 in source item 4.1(a)(v)); $0-delta swap = polarity null per convention."
+  },
+  {
+    "id": "47529b6bfd4b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have amended the pending motion to allocate $330,000 from Assessment Growth Revenue to the 2019 Budget (to off-set the tax levy), increasing that allocation to $1,000,000.",
+    "confidence": "medium",
+    "quote": "That the motion to allocate $330,000 from Assessment Growth Revenue to the 2019 Budget BE AMENDED to be $1,000,000 to the 2019 Budget amount.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED amendment (5-10) correctly hedged \"Would have amended...\"; both figures ($330,000 -> $1,000,000) stated per amendment-vs-pending convention; bigger levy-offset = restrictive is right on the levy-size axis definition (reduces the levy). Quote verbatim."
+  },
+  {
+    "id": "8129dc1eca23",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Operating Budget Case #2, cancelling a planned 2019 increase to the City's minimum wage.",
+    "confidence": "medium",
+    "quote": "That Operating Budget Amendments included in Case #2 (Cancellation of Planned 2019 Minimum wage Increase), BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Standalone Case #2 floor motion has no dollar figure in its own text (the $(521) net impact only appears in the sibling omnibus item 4.1 text) — correctly left polarity null."
+  },
+  {
+    "id": "1417bac61d37",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Operating Budget Case #4, funding bicycle lane maintenance.",
+    "confidence": "medium",
+    "quote": "That Operating Budget Amendments included in Case #4 (Bicycle Lane Maintenance), BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same pattern as Case #2: Case #4 standalone vote carries no dollar figure in its own motion text; correctly null."
+  },
+  {
+    "id": "5c79b950d1c2",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Operating Budget Case #6, funding the Safeguard Program with the London Police Service.",
+    "confidence": "medium",
+    "quote": "That Operating Budget Amendments included in Case #6 (Safeguard Program - London Police Service), BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Case #6 standalone vote, no own dollar line; correctly null."
+  },
+  {
+    "id": "a2b161cca21e",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred Business Case #13 (Subsidized Transit for Seniors) to the next multi-year budget process, so that all transit subsidies and fares could be reviewed comprehensively.",
+    "confidence": "high",
+    "quote": "That Business Case #13 Subsidized Transit for Seniors, BE REFERRED to the next multi-year budget process, in order for all transit subsidies and fares to be reviewed in a comprehensive way.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED referral (3-12) correctly hedged; referral flag appropriate, no levy figure to sign."
+  },
+  {
+    "id": "52679d13ba79",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Approved Operating Budget Case #13, funding subsidized transit for seniors.",
+    "confidence": "medium",
+    "quote": "That Operating Budget Amendments included in Case #13 (Subsidized Transit for Seniors), BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Case #13 standalone vote, no own dollar line; correctly null."
+  },
+  {
+    "id": "67ab281ac811",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring forward options for Council's consideration that would reduce the proposed 2019 tax levy increase to 2.4%, with Council to later decide whether to implement that lower rate.",
+    "confidence": "medium",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward for Municipal Council’s consideration options that would result in a reduction of the proposed tax levy increase for 2019 to 2.4%; it being noted that Municipal Council will review the said options presented and all other budget matters to determine if it will implement a 2019 tax levy increase of 2.4%.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "downgraded",
+    "verifierNote": "REFUTED. Motion only directs staff to \"bring forward options\" targeting 2.4%, then states Council \"will review... to determine if it will implement\" — the decision is explicitly deferred, no dollar line (only a %), same \"prepare options for later consideration\" shape the classifier itself scored null/informational_ask for the sibling transit item 0c9ded1103c2 in this same batch. Cannot positively confirm this is a concrete levy-size action rather than a study directive; nulled polarity, added informational_ask flag for consistency."
+  },
+  {
+    "id": "59c574597373",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": null,
+    "whatAYeaDid": "Gave the Hamilton Road Business Improvement Area a $50,000 grant for 2019, funded from the Community Investment Reserve Fund.",
+    "confidence": "medium",
+    "quote": "That the Hamilton Road Business Improvement Area (BIA) BE GIVEN a grant of $50,000 for 2019 to assist the BIA in their activities; it being noted that this is a 4km, low assessment area with a 4.9% levy totaling only $70,000; it being further noted that the grant would be funded from the Community Investment Reserve Fund.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Hamilton Road BIA grant funded from a reserve fund, not the levy; correctly polarity null (no tax-levy line)."
+  },
+  {
+    "id": "78a0f0a36c6d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Allocated $330,000 from Assessment Growth revenue to the 2019 Budget in order to off-set the tax levy.",
+    "confidence": "high",
+    "quote": "That $330,000 from Assessment Growth revenue BE ALLOCATED to the 2019 Budget in order to off-set the tax levy.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Floor motion (12-3) quote verbatim matches the standalone $330,000 vote at 2019-01-24 SPPC exactly; own text carries the dollar figure and explicit \"off-set the tax levy\" language — restrictive is correct (an allocation that offsets/reduces the levy)."
+  },
+  {
+    "id": "91649cfa2635",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Included the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, in the draft 2019-2023 Strategic Plan.",
+    "confidence": "high",
+    "quote": "That the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, BE INCLUDED in the draft 2019-2023 Strategic Plan.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Strategic Plan inclusion, no tracked issue vocabulary matches (Wi-Fi is not a coded issue); quote verbatim."
+  },
+  {
+    "id": "c3bf04bda14f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a bundle of by-laws (Bill Nos. 51 to 58, 60 to 67, and Added Bill Nos. 68, 69, and 70) enacting decisions made elsewhere on this Council agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.'s 51 to 58 and 60 to 67 and the Added Bill No.’s 68, 69 and 70 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading of an unidentified multi-bill bundle (51-58,60-67,68-70); lowercase reading-stage phrasing correct, no enactment language present in source so none added; issue=none appropriate for an omnibus bundle."
+  },
+  {
+    "id": "f9d8ddc9c52b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Added Bill Nos. 69 and 70.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No.’s 69 and 70 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "First reading, Added Bills 69-70; reading-stage phrasing correct."
+  },
+  {
+    "id": "d744e4d2635f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Added Bill Nos. 69 and 70.",
+    "confidence": "low",
+    "quote": "That Second Reading of Added Bill No.’s 69 and 70 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading, Added Bills 69-70; reading-stage phrasing correct, byte-distinct from the first-reading row."
+  },
+  {
+    "id": "f9bb0673e063",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Added Bill Nos. 69 and 70.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.’s Added Bill No.’s 69 and 70 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Source text itself contains \"Third Reading and Enactment\" for Added Bills 69-70, so \"Gave third reading and enacted...\" correctly carries enact-language."
+  },
+  {
+    "id": "d21439c9f262",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 3rd Report of the Corporate Services Committee.",
+    "confidence": "low",
+    "quote": "That the 3rd Report of the Corporate Services Committee BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bare committee-report adoption wrapper; wrapper_preamble flag correct."
+  },
+  {
+    "id": "bcc098c4ac15",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Vanden Booman to the London Council for Adult Education for the term December 1, 2018 to November 15, 2022, based on committee interviews and a ranked ballot.",
+    "confidence": "high",
+    "quote": "That D. Vanden Booman BE APPOINTED to the London Council for Adult Education, for the term December 1, 2018 to November 15, 2022, based on the interviews conducted by the Corporate Services Committee on January 22, 2019, and the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council ratification of the same appointment as 203d7c727ae8; quote verbatim, appointment flag correct."
+  },
+  {
+    "id": "49d584f6004e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred Merrymount Family Support and Crisis Centre's 2019 funding request ($368,704) to the 2019 Budget process, and requested the Budget Chair to investigate funding sources with other levels of government.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the request for funding from Merrymount Family Support and Crisis Centre: a)      the request for 2019 funding in the amount of $368,704 BE REFERRED to the 2019 Budget process for consideration; b)      the Budget Chair BE REQUESTED to work with the Civic Administration, Provincial and Federal Government officials and representatives from the Merrymount Family Support and Crisis Centre to investigate and determine any potential appropriate sources of funding with respect to the 2019 request for funding; and it being noted that the Strategic Priorities and Policy Committee received a variety of communications through the Public Participation Meeting associated with the 2016 - 2019 Budget.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage Merrymount referral (part a+b only, no part c in this row); quote verbatim, referral flag correct."
+  },
+  {
+    "id": "4b7e7ac7d61c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved referring Merrymount Family Support and Crisis Centre's 2020 funding request ($238,704) to the 2020-2023 Multi-year Budget process for consideration.",
+    "confidence": "high",
+    "quote": "That part c) of clause 5.1 BE APPROVED: c)      the Merrymount Family Support and Crisis Centre 2020 request for funding in the amount of $238,704 BE REFERRED to the 2020-2023 Multi-year Budget Process for consideration;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (3-11) part-c-only referral of the 2020 request, correctly hedged \"Would have approved referring...\"."
+  },
+  {
+    "id": "95c7ac4b87c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to advise Merrymount Family Support and Crisis Centre of the London Community Grants Program and its timelines, as the appropriate means for it to apply for its 2020 funding request of $238,704.",
+    "confidence": "high",
+    "quote": "That the following new part c) BE APPROVED: \"c)         that the Civic Administration BE DIRECTED to advise the Merrymount Family Support and Crisis Centre of the London Community Grants Program and the related timelines, as the appropriate means of applying for their 2020 request for funding in the amount of $238,704.\"",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Replacement part c) directing staff to the London Community Grants Program instead of referral to budget; informational_ask flag and quote verbatim confirmed against source new-part-c text."
+  },
+  {
+    "id": "fc8342189a59",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved accepting offers to purchase two properties on Wellington Road (for $215,000 and $275,000) for future road improvements to accommodate the Bus Rapid Transit initiative, and approved financing for both acquisitions.",
+    "confidence": "medium",
+    "quote": "for the purpose of future road improvements to accommodate the Bus Rapid Transit initiative, the following actions be taken: a)    the offer submitted by Shayne Sterling Johnston, to sell the subject property to the City, for the sum of $215,000.00, BE ACCEPTED ... b)         the financing for this acquisition BE APPROVED as set out in the source of Financing Report attached hereto as Appendix “A”. ... the offer submitted by Sarah Van De Vooren, to sell the subject property to the City, for the sum of $275,000.00, BE ACCEPTED ... b)         the financing for this acquisition BE APPROVED as set out in the source of Financing Report attached hereto as Appendix “A”.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Closed-session 4th report item 9.1, second motion (11-4) combines BOTH Wellington Road BRT property offers ($215,000 + $275,000) with financing approval — quote verbatim against source, correctly excludes the separate 15-0 Cuddy industrial-land motion in the same item. Generic application-approval axis (rather than the narrower transit-service axis, whose regex needs the BRT phrase and the approval verb within ~60 chars — too far apart here) is the more conservative, defensible read; expansive (approved) is correct."
+  },
+  {
+    "id": "f043e72853aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Included the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, in the draft 2019-2023 Strategic Plan.",
+    "confidence": "high",
+    "quote": "That the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, BE INCLUDED in the draft 2019-2023 Strategic Plan.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Council adoption of the same Wi-Fi clause as 91649cfa2635; quote verbatim."
+  },
+  {
+    "id": "463edf860e71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted L. Kirkness, Kirkness Consulting Inc., delegation status at the February 19, 2019 Planning and Environment Committee meeting regarding 894 Adelaide Street North.",
+    "confidence": "high",
+    "quote": "That L. Kirkness, Kirkness Consulting Inc., BE GRANTED delegation status at the February 19, 2019 Planning and Environment Committee meeting with respect to the property located at 894 Adelaide Street North.   (2019-D13)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Delegation-status grant, procedural flag correct, quote verbatim (894 Adelaide St N, item 2019-D13)."
+  },
+  {
+    "id": "f318e09d3a56",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted L. Kirkness, Kirkness Consulting Inc., delegation status at the February 19, 2019 Planning and Environment Committee meeting regarding 131 King Street.",
+    "confidence": "high",
+    "quote": "That L. Kirkness, Kirkness Consulting Inc., BE GRANTED delegation status at the February 19, 2019 Planning and Environment Committee meeting with respect to the property located at 131 King Street.   (2019-D14)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Delegation-status grant, procedural flag correct, quote verbatim (131 King St, item 2019-D14) — byte-distinct from the sibling 894 Adelaide row."
+  },
+  {
+    "id": "009201a1e444",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a $500,000 financial support request from the London Convention Centre for its 2nd Floor Renovation Project, funded from the Economic Development Reserve Fund.",
+    "confidence": "high",
+    "quote": "That the request of London Convention Centre for financial support in the amount of $500,000, for the London Convention Centre 2nd Floor Renovation Project, BE APPROVED, with the source of funding being the Economic Development Reserve Fund; it being noted that the Corporate Services Committee received a verbal presentation and the attached information from L. Da Silva, General Manager and CEO of the London Convention Centre with respect to this matter.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "London Convention Centre $500,000 funded from the Economic Development Reserve Fund, not the tax levy — issue=none with no polarity is defensible since the grant carries no levy-size effect (note: Hamilton Road BIA at 59c574597373, also reserve-financed, was left issue=budget/polarity=null rather than issue=none for the same reserve-fund reason; both are already polarity-null so this labeling difference carries no direction risk, flagging for the corpus sweep rather than correcting here)."
+  },
+  {
+    "id": "249bec1a8ec3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing the $500,000 investment in the London Convention Centre's 2nd Floor Renovation Project.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 83 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "First reading of Bill 83 (Convention Centre); lowercase reading-stage phrasing correct, medium-confidence nay-list attribution disclosed and plausible."
+  },
+  {
+    "id": "1630e683b72a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing the $500,000 investment in the London Convention Centre's 2nd Floor Renovation Project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 83 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading of Bill 83; correct stage phrasing."
+  },
+  {
+    "id": "237d56d07cf9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing the $500,000 investment in the London Convention Centre's 2nd Floor Renovation Project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. Bill No. 83 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Source text reads \"Third Reading and Enactment of Bill No. 83\" — enact-language present at source, so \"Gave third reading and enacted...\" is correct."
+  },
+  {
+    "id": "5d958d9a753f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Added Bill No. 84.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No. 84 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "First reading, Added Bill 84; correct stage phrasing."
+  },
+  {
+    "id": "be02ba20e329",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Added Bill No. 84.",
+    "confidence": "low",
+    "quote": "That Second Reading of Added Bill No. 84 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Second reading, Added Bill 84; correct stage phrasing."
+  },
+  {
+    "id": "049144563c74",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Added Bill No. 84.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Added Bill No. 84 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Source text contains \"Third Reading and Enactment of Added Bill No. 84\" — enact-language correctly carried."
+  },
+  {
+    "id": "ed223eb45525",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the pending London Convention Centre funding motion to change its funding source from the Economic Development Reserve Fund to the Tourism Infrastructure Reserve Fund, with the $500,000 amount unchanged.",
+    "confidence": "high",
+    "quote": "That item 4.1 BE AMENDED, by deleting the words \"Economic Development Reserve Fund\", and by replacing them with the words \"Tourism Infrastructure Reserve Fund\".",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Amendment to the pending Convention Centre motion swapping funding source (Economic Dev -> Tourism Infrastructure Reserve) with the $500,000 amount unchanged — $0-delta funding-source swap = polarity null per convention; quote verbatim."
+  },
+  {
+    "id": "dba2c4b7e6f4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, the $500,000 investment in the London Convention Centre's 2nd Floor Renovation Project, funded from the Tourism Infrastructure Reserve Fund.",
+    "confidence": "high",
+    "quote": "That item 4.1, as amended BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Adoption of item 4.1 \"as amended\"; reserve-financed, correctly no polarity."
+  },
+  {
+    "id": "9ee94f446d9f",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Potential Transportation Projects motion to change the date/time of the special Strategic Priorities and Policy Committee meeting reviewing PTIS-eligible transportation projects, from the week of March 18, 2019 to Wednesday, March 20, 2019 at 3 PM.",
+    "confidence": "high",
+    "quote": "That part c) BE AMENDED by deleting the words, “the week of March 18, 2019” and by replacing them with the words, “on Wednesday, March 20, 2019 at 3 PM\".",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural date/time amendment to the PTIS special-meeting clause; procedural flag correct, no levy or service content to sign."
+  },
+  {
+    "id": "0c9ded1103c2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed staff to assemble a list of transportation projects likely eligible for Federal Public Transit Infrastructure Stream (PTIS) and Provincial funding, for consideration at a special Strategic Priorities and Policy Committee meeting including a public participation meeting, given the risk that a fall 2019 federal election could delay funding approval.",
+    "confidence": "medium",
+    "quote": "That item 4.2, as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Directs staff to assemble a list of PTIS/Provincial-eligible transportation projects for consideration at a LATER special meeting — no project is actually approved yet, correctly informational_ask/null rather than a transit-service direction call."
+  },
+  {
+    "id": "4a39291e1f2a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have received the Community Water Fluoridation communications and delegations and referred them to the February 20, 2019 Civic Works Committee meeting, to consider how the matters raised relate to Council's duties under the Safe Water Drinking Act, 2002.",
+    "confidence": "high",
+    "quote": "That the communications and delegations, noted in part a) of item 3.1 BE RECEIVED and REFERRED to the February 20, 2019 meeting of the Civic Works Committee for further consideration as to how the matters raised in the communications and delegations relate to the Municipal Council’s duties under the Safe Water Drinking Act, 2002;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (5-9) receive-and-refer of fluoridation delegations, correctly hedged; fluoridation/water quality is not in the tracked issue vocabulary (housing/bikes/downtown/transit/budget/climate/policing/encampments) so issue=none is correct, not a missed classification."
+  },
+  {
+    "id": "f388d9615208",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Upheld the ruling of the Chair recognizing Councillor M. van Holst to continue speaking, pursuant to section 9 of the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "Shall the ruling of the Chair be upheld? The Chair recognizes Councillor M. van Holst to continue speaking, pursuant to section 9 of the Council Procedure By-law.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural point-of-order vote upholding the Chair; quote verbatim."
+  },
+  {
+    "id": "eec7dc3f6f55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Civic Works Committee's report-back request so the City Engineer, in consultation with the Middlesex-London Health Unit, would also examine eliminating fluoridation in London's drinking water (not only lowering it to 0.6 mg/L) and report on potential cost savings.",
+    "confidence": "high",
+    "quote": "That part b) of item 3.1 BE AMENDED to read as follows: “b)       the City Engineer, in consultation with the Middlesex London Health Unit BE REQUESTED to report back at a future meeting of the Civic Works Committee with respect to the potential to lower the fluoridation levels in the London drinking water to 0.6 mg/L or to eliminate fluoridation in the London drinking water including information with respect to potential cost savings from implementing such measures.”",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (2-12) amendment adding an elimination-of-fluoridation study option, correctly hedged \"Would have amended...\"; not a tracked issue."
+  },
+  {
+    "id": "a3e42587e375",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the delegations and submissions heard at the meeting on Community Water Fluoridation.",
+    "confidence": "medium",
+    "quote": "That part a) of item 3.1 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural receipt of delegations/submissions; not a tracked issue."
+  },
+  {
+    "id": "c84813183dc2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested the City Engineer, in consultation with the Middlesex-London Health Unit, to report back at a future Civic Works Committee meeting on the potential to lower fluoridation levels in London's drinking water to 0.6 mg/L.",
+    "confidence": "high",
+    "quote": "That part b) of item 3.1 BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED (3-11) request to report back on lowering fluoridation to 0.6 mg/L, correctly hedged; not a tracked issue."
+  },
+  {
+    "id": "76efd6f2103c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed Council during consideration of the Community Water Fluoridation item.",
+    "confidence": "high",
+    "quote": "That Council RECESS.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural recess motion; correctly flagged procedural, no issue content."
+  },
+  {
+    "id": "0411f624e23a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clauses 8 and 9 of the Planning and Environment Committee report, including authorizing staff to accept a Minor Variance application for 894 Adelaide Street North and receiving the related delegation report for information.",
+    "confidence": "low",
+    "quote": "That clauses 8 and 9 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bare wrapper approving clauses 8-9 of a committee report (staff authorized to accept a minor-variance application, and a delegation report received); this is a procedural intake step, not itself a planning decision, so issue=none is defensible rather than a missed housing/planning classification."
+  },
+  {
+    "id": "74069de95545",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Operating Budget Cases #4 (Bicycle Lane Maintenance, net impact $408,000), #6 (Safeguard Program – London Police Service, net impact $161,000), and #13 (Subsidized Transit for Seniors, net impact $285,000), adding to the City's operating budget.",
+    "confidence": "high",
+    "quote": "That parts a)iii), iv) and vi) of item 4.1 BE APPROVED: iii)       Business Case #4 (Bicycle Lane Maintenance) - Net Impact $408, BE APPROVED; iv)       Business Case #6 (Safeguard Program - London Police Service) - Net Impact $161, BE APPROVED; vi)       Business Case #13 (Subsidized Transit for Seniors) - Net Impact $285, BE APPROVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Council-stage sub-motion (14-1) quote matches the actual voted text exactly (part a)iii,iv,vi of item 4.1, distinct from the 15-0 and 9-6 sub-motions in the same source item); all three net impacts are positive (+$408k, +$161k, +$285k = more spending), so expansive is correct on the levy-size axis."
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "id": "79094424f8f7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the second round of the multi-candidate ballot to appoint a Council representative to the London Transit Commission; this round again recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Appointment of a Member to the London Transit Commission - 2nd selection",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "bde14bbacdad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the third round of the multi-candidate ballot to appoint a Council representative to the London Transit Commission; this round again recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Appointment of a Member to the London Transit Commission - 3rd selection",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "fde4a2ab15ac",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the fourth round of the multi-candidate ballot to appoint a Council representative to the London Transit Commission; this round recorded Stephanie Marentette as the majority winner.",
+    "confidence": "high",
+    "quote": "Appointment of a Member to the London Transit Commission - 4th selection",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "9cf332a98411",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred part b) — forgiving the remaining $78,749.83 balance of the interest-free Community Improvement Plan loan to the London Community Players — to the multi-year budget process for consideration.",
+    "confidence": "high",
+    "quote": "That part b) BE REFERRED to the multi-year budget process for consideration; it being noted that part b) reads as follows: b)       the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "4cb1e68f91fd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved forgiving the remaining $78,749.83 balance of the interest-free Community Improvement Plan loan to the London Community Players.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) b)  the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.",
+    "flags": []
+  },
+  {
+    "id": "1305bb8a3e4b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law adopting the Members of Council Proof of COVID-19 Vaccination Policy.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 461, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "abfe2e1e3b9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law adopting the Members of Council Proof of COVID-19 Vaccination Policy.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 461, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "45e968a56e1a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law adopting the Members of Council Proof of COVID-19 Vaccination Policy.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 461, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5584f656e97a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Added Bill No. 483; the by-law's subject is not identified anywhere else in the meeting record.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No. 483, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bdf9f22a5725",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Added Bill No. 483; the by-law's subject is not identified anywhere else in the meeting record.",
+    "confidence": "low",
+    "quote": "That Second Reading of Added Bill No. 483, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8287ac429506",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Added Bill No. 483; the by-law's subject is not identified anywhere else in the meeting record.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Added Bill No. 483, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5fb9391bf3ee",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred McCOR Management Inc.'s application for 755-785 Wonderland Road South (Westmount Mall) back to the Civic Administration for further consultation with the applicant on permitted uses in the zone, and to report back to a future Planning and Environment Committee public participation meeting.",
+    "confidence": "high",
+    "quote": "That the application by McCOR Management Inc., relating to the property located at 755-785 Wonderland Road South (Westmount Mall) BE REFERRED back to the Civic Administration for further consultation with the applicant with respect to the permitted uses in the zone and how the applicant's request may be accommodated and to report back to a future public participation meeting of the Planning and Environment Committee; it being noted that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: -    the staff presentation;\n\n-    a communication dated September 16, 2021, from P. Lombardi, Partner, Siskinds The Law Firm;\n\n-    a communication dated September 16, 2021, from S. Allen, Partner, MHBC Planning;\n\n-    a communication dated September 16, 2021, from B. Maly, Executive Director, Downtown London and A. McClenaghan, Chair, London Downtown Business Association; it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters.  (2021-D09)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "cf8987cb6e3d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the rezoning request for 2631 Hyde Park Road and 1521 Sunningdale Road West to the Civic Administration to work with the applicant, the Province, and the Thames Valley District School Board on a detailed application, and requested the School Board attend when staff reports back to a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That, the following actions be taken with respect to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a)    the request to rezone the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West BE REFERRED to the Civic Administration to work with the applicant, the Province and the Thames Valley District School Board to provide a detailed application, including location mapping, and to report back to a future meeting of the Planning and Environment Committee; and,\n\nb)    the Thames Valley District School Board BE REQUESTED to attend the Planning and Environment Committee when the Civic Administration reports back on the above-noted matters.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "0ab78b576479",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the Civic Administration to bring back a proposed by-law changing the Official Plan designation for 2631 Hyde Park Road and 1521 Sunningdale Road West from Open Space to Low Density Residential and Environmental Review, and The London Plan place type from Green Space to Neighbourhoods and Environmental Review, for consideration at a future Planning and Environment Committee meeting.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) b)    notwithstanding the recommendation of the Director, Development Services, with respect to the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West, the Civic Administration BE DIRECTED to bring back a proposed by-law to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential and Environmental Review designation and to amend The London Plan to change the Place Type of the subject lands FROM a Green Space place type TO a Neighbourhoods place type and Environmental Review place type to be considered at a future public participation meeting of the Planning and Environment Committee;\n\nit being noted that the future development of the lands shall fully comply with the policies of the Neighbourhoods Place Type of The London Plan; and,\n\nit being further noted that the costs of any temporary servicing required for these lands shall be at the full cost of the property owner;\n\nit being pointed out that the Planning and Environment Committee reviewed and received the following communications with respect to this matter:\n\n-    a communication dated September 8, 2021, from J. Pratt, Associate Director and Treasurer, Thames Valley District School Board;\n\n-    a communication dated September 20, 2021, from Deputy Mayor J. Morgan;\n\n-    a communication dated September 13, 2021, from J. Sousa, Brown Beattie O'Donovan;\n\n-    a communication dated September 23, 2021, from A. Clark, Co-Chair, Sir Arthur Currie Public School Council / President, Sir Arthur Currie Home & School;\n\n-    a communication from S. Trosow, by e-mail; and,\n\n-    a communication dated September 23, 2021 from A. DeActis, by e-mail.",
+    "flags": []
+  },
+  {
+    "id": "0d7497ac9245",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part a) of the Property Standards Matters motion to direct the Civic Administration to report back on an evaluation of a RentSafeLondon by-law enforcement program, modelled after the RentSafeTO program, including proposed registration and building-audit fees.",
+    "confidence": "high",
+    "quote": "That part a) BE AMENDED to read as follows: a)    the Civic Administration BE DIRECTED to report back at a future meeting of the Community and Protective Services Committee on an evaluation of a RentSafeLondon by-law enforcement program, modelled after the RentSafeTO program, including proposed fees for registration and building audits;",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f65e0a94fc31",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Flyer Deliveries to Residential Properties motion to add a requirement that a public participation meeting be held in conjunction with the report-back.",
+    "confidence": "high",
+    "quote": "That clause 4.1, BE AMENDED by adding the following new part c): c)     that a public participation meeting BE HELD in conjunction with the above-noted report back;",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e74909f3feae",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, referring the matter of flyer deliveries to residential properties and the related delegation requests to a future Community and Protective Services Committee meeting, with a public participation meeting to be held in conjunction with that report-back.",
+    "confidence": "medium",
+    "quote": "That clause 4.1, as amended, BE APPROVED.",
+    "flags": [
+      "referral",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "d3b52b581d6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing at the October 5, 2021 Council meeting the by-law adopting the Members of Council Proof of COVID-19 Vaccination Policy, per the City Clerk's recommendation.",
+    "confidence": "high",
+    "quote": "That on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated September 20, 2021 as Appendix “A” being “A by-law to adopt “Members of Council Proof of COVID-19 Vaccination Policy”, BE INTRODUCED at the Municipal Council Meeting to be held on October 5, 2021; it being noted that the Corporate Services Committee received a communication dated September 16, 2021 from B. Gauld with respect to this matter.",
+    "flags": []
+  },
+  {
+    "id": "08fc8e434920",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred consideration of forgiving the remaining $78,749.83 balance of the interest-free loan to the London Community Players to the 2022 Budget update, pending a business case from the organization.",
+    "confidence": "high",
+    "quote": "That consideration of part b) BE REFERRED to the 2022 Budget update, when London Community Players can present a business case for forgiveness of the Interest Free Loan from the city.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "21858f56d1f8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a procedural step amending the pending referral motion on part b) of the London Community Players loan-forgiveness item; the motion's own text was not captured in the meeting record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5f323e30d9c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a further procedural step regarding the referral motion on part b) of the London Community Players loan-forgiveness item; the motion's own text was not captured in the meeting record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "01005250ee9d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Michael Gregory Maguire's offer to sell a portion of 259 Wellington Road to the City for $624,000, for future road improvements to accommodate the Wellington Gateway Project, and approved the financing for the acquisition.",
+    "confidence": "high",
+    "quote": "3.    Property Acquisition – 259 Wellington Road – Wellington Gateway Project     \n\n    \n\nThat, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, with respect to the property located at 259 Wellington Road, further described as Part of Lot 64, Plan 452 (4th), designated as Parts 1 and 2, Plan 33R-4765, being all of PIN 08364-0091 (LT), containing an area of approximately 3,788.89 square feet, as shown on the location map attached as Appendix “B”, for the purpose of future road improvements to accommodate the Wellington Gateway Project, the following actions be taken: a)    the offer submitted by Michael Gregory Maguire (the “Vendor”), to sell the subject property to the City, for the sum of $624,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and, b)    the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”.",
+    "flags": []
+  },
+  {
+    "id": "2bf3279dfcc8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication and presentation regarding 100 Stanley Street and forwarded them to the Civic Administration for consideration.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to 100 Stanley Street: a)        the communication from J. O’Neill and B. McQuaid and the presentation from K. McKeating, with respect to this matter, BE RECEIVED; and, b)        the above-noted communication and presentation BE FORWARDED to Civic Administration for consideration. (2021-R01)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4e00db3b76ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the delegation request from K. McKeating of ACO London to be heard at the Civic Works Committee meeting regarding 100 Stanley Street.",
+    "confidence": "high",
+    "quote": "That the delegation request from K. McKeating, ACO London BE APPROVED to be heard at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "898da3d22a07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law appointing John Fyfe-Millar to the Office of Ward 13.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 485, BE APPROVED.",
+    "flags": [
+      "procedural",
+      "appointment"
+    ]
+  },
+  {
+    "id": "ec69fcb55cda",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law appointing John Fyfe-Millar to the Office of Ward 13.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 485, BE APPROVED.",
+    "flags": [
+      "procedural",
+      "appointment"
+    ]
+  },
+  {
+    "id": "5b86547e90b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law appointing John Fyfe-Millar to the Office of Ward 13.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 485, BE APPROVED.\n\n\n\nThe following are enacted as By-laws of the Corporation of the City of London: Bill No. 484 By-law No. A.-8175-339 - A by-law to confirm the proceedings of the Council Meeting held on the 26th day of October, 2021. (City Clerk) Bill No. 485 By-law No. A.-8176-340 - A by-law to appoint a Councillor for Ward 13 for the City of London. (4.1a/17/CSC) Bill No. 486 By-law No. A.-8177-341 - A by-law to approve the Contribution Agreement with Canada for the purpose of installing Electric Vehicle charging infrastructure owned by The Corporation of the City of London for use for Fleet vehicles; and to authorize the Mayor and City Clerk to act on behalf the City of London and execute the Agreement. (2.4c/13/CWC) Bill No. 487 By-law No. A.-8178-342 - A by-law to authorize the City Treasurer to approve the Internal Audit Services Agreement between The Corporation of the City of London and MNP LLP and to authorize the Mayor and City Clerk to execute the Agreement. (5.1d/4/AC) Bill No. 488 By-law No. A.-7922(a)-343 - A by-law to amend By-law No. A.-7922-3, being “A by-law to approve a Neighbourhood, Children and Fire Services Funding Agreement Template; and to authorize the Managing Director, Neighbourhood, Children and Fire Services, or in their absence the Manager IV Neighbourhood, Children and Fire Services, to approve and execute agreements using the Neighbourhood, Children and Fire Services Agreement Template” to reflect the current organizational structure. (2.2a/17/CSC) Bill No. 489 By-law No. A.-6945(a)-344 - A by-law to amend By-law No. A.-6945-139, being “A by-law to establish the Child Care and Early Childhood Development Reserve Fund” to reflect the current organizational structure. (2.2b/17/CSC) Bill No. 490 By-law No. A.-7100(b)-345 - A by-law to amend By-law No. A.-7100-150, as amended, being “A by-law to approve Service Contracts/Agreements, Schedules, and Amendments with Her Majesty the Queen in Right of Ontario with respect to Social Services; and to authorize the Mayor and the City Clerk to execute these Contracts/Agreements” to reflect the current organizational structure. (2.2c/17/CSC) Bill No.491 By-law No. A.-7551(a)-346 - A by-law to amend By-law No. A.-7551-146, being “A By-law to approve the Contribution Agreement between The Corporation of the City of London and Her Majesty the Queen in Right of Canada, as represented by the Federal Minister of Health through the Public Health Agency of Canada; and to authorize the Mayor and the City Clerk to execute the Agreement” to reflect the current organizational structure. (2.3d/17/CSC) Bill No. 492 By-law No. A.-7253(a)-347 - A by-law to amend By-law No. A.-7253-138, being “A by-law to approve and adopt the standard form Children’s Services Wage Enhancement Grant Agreement and to delegate authority to the Managing Director, Neighbourhood Children and Fire Services as Administrator, Day Nurseries Act to insert information, amend the Schedules and execute agreements which employ this form” to reflect the current organizational structure. (2.3e/17/CSC) Bill No. 493 By-law No. A-57 - A by-law to provide for Various Fees and Charges and to repeal By-law A-56, as amended, being “A by-law to provide for Various Fees and Charges”. (3.1a/14/SPPC) Bill No. 494 By-law No. C.P.-1284(wh)-348 - A by-law to amend the Official Plan for the City of London, 1989 relating to 1 Commissioners Road E. (3.2a/15/PEC) Bill No. 495 By-law No. C.P.-1284(wi)-349 - A by-law to amend the Official Plan for the City of London, 1989 relating to 14 Gideon Drive and 2012 Oxford Street West. (3.3a/15/PEC) Bill No. 496 By-law No. C.P.-1284(wj)-350 - A by-law to amend The Official Plan for the City of London, 1989 relating to the Masonville Secondary Plan area. (3.5d/15/PEC) Bill No. 497 By-law No. C.P.-1284(wk)-351 - A by-law to amend Official Plan for the City of London, 1989 relating to the Masonville Secondary Plan area. (3.5f/15/PEC) Bill No. 498 By-law No. C.P.-1512(aq)-352 - A by-law to amend The London Plan for the City of London, 2016 relating to 415 Oxford Street West. (3.1/15/PEC) Bill No. 499 By-law No. C.P.-1512(ar)-353 - A by-law to amend The Official Plan for the City of London, 2016 relating to the Masonville Secondary Plan area. (3.5a/15/PEC) Bill No. 500 By-law No. C.P.-1512(as)-354 - A by-law to amend The Official Plan for the City of London, 2016 relating to the Masonville Secondary Plan area. (3.5b/15/PEC) Bill No. 501 By-law No. C.P.-1512(at)-355 - A by-law to amend The Official Plan for the City of London, 2016 relating to the Masonville Secondary Plan area. (3.5e/15/PEC) Bill No. 502 By-law No. PH-3-21018 - A by-law to amend By-law No. PH-3, as amended, being “A by-law to provide for the Regulation, Restriction and Prohibition of the Keeping of Animals in the City of London” to remove all references to fees and charges related to services provided for in the by-law. (3.1b/14/SPPC) Bill No. 503 By-law No. PH-4-21031 - A by-law to amend By-law No. PH-4, as amended, being “A by-law to provide for the Regulation, Restriction and Prohibition of the Keeping and the Running at Large of Dogs in the City of London” to remove all references to fees and charges related to services provided for in the by-law. (3.1c/14/SPPC) Bill No. 504 By-law No. PH-5-21008 - A by-law to amend By-law No. PH-5, as amended, being “A by-law to provide for the Appointment of a Poundkeeper and to Regulate the Public Pound” to remove all references to fees and charges related to services provided for in the by-law. (3.1d/14/SPPC) Bill No. 505 By-law No. PS-113-21076 - A by-law to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London. (2.3/13/CWC) Bill No. 506 By-law No. S.-6142-356 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway.  (as widening to Bradley Avenue and Wharncliffe Road South)  (Chief Surveyor – for road widening purposes registered as ER1386249, pursuant to SPA20-073 and in accordance with Z.-1) Bill No. 507 By-law No. S.-6143-357 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway.  (as widening to Sorrel Road north of Perth Avenue)  (Chief Surveyor – for road widening purposes, registered at ER1392283, pursuant to B.010/21 and in accordance with Z.-1) Bill No. 508 By-law No. S.-6144-358 - A by-law to lay out, constitute, establish and assume lands in the City of London as public highway (as widening to Creston Avenue and Verulam Street)  (Chief Surveyor - for road widening purposes registered as ER1356809 pursuant to B.017/19 and in accordance with Z.-1) Bill No. 509 By-law No. S.-6145-359 - A by-law to lay out, constitute, establish and assume certain reserves in the City of London as public highway. (as part of Deveron Crescent)  (Chief Surveyor – plan of subdivision requires 0.3m reserve on abutting plan for unobstructed legal access through subdivision) Bill No. 510 By-law No. Z.-1-212965 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1 Commissioners Road East. (3.2b/15/PEC) Bill No. 511 By-law No. Z.-1-212966 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 14 Gideon Drive and 2012 Oxford Street West. (3.3b/15/PEC) Bill No. 512 By-law No. Z.-1-212967 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 584 Commissioners Road West. (3.4a/15/PEC) Bill No. 513 By-law No. Z.-1-212968 - A by-law to amend By-law No. Z.-1 to remove holding provision from the zoning for lands located at 600 Sunningdale Road West. (2.4/15/PEC) Bill No. 514 By-law No. A.-8179-360 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 2847012 Ontario Inc, for the acquisition of the property located at 1350 Wharncliffe Road South, in the City of London, for the Bradley Avenue Project Phase 2 and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/17/CSC) Bill No. 515 By-law No. A.-8180-361 - A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and The Incorporated Synod of The Diocese of Huron, for the partial acquisition of the property located at 190 Queens Avenue and 472 Richmond Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/17/CSC)",
+    "flags": [
+      "procedural",
+      "appointment"
+    ]
+  },
+  {
+    "id": "f134a287b8ea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the filling of the Ward 13 Council vacancy to a special Strategic Priorities and Policy Committee meeting for further discussion.",
+    "confidence": "high",
+    "quote": "That Item 4.1 of the 17th Report of the Corporate Services Committee related to the filling of the vacancy of the Office of Ward 13 BE REFERRED to a special Strategic Priorities and Policy Committee meeting for further discussion.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "2ce4d270fe52",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed John Fyfe-Millar to the Office of Ward 13 for the term commencing October 26, 2021 and ending November 15, 2022, and directed the City Clerk to confirm his consent and eligibility and prepare the necessary appointing by-law.",
+    "confidence": "high",
+    "quote": "The motion to approve parts a), b) and c) IS PUT. That the following actions be taken with respect to filling the vacancy of the Office of Ward 13: a)    John Fyfe-Millar BE APPOINTED to the Office of Ward 13 for the term commencing October 26, 2021 and ending November 15, 2022 , pursuant to section 263(1)(a) of the Municipal Act, 2001; b)    the City Clerk BE DIRECTED to confirm the consent of John Fyfe-Millar to be appointed to the Office of Ward 13 and to confirm the individual’s eligibility to hold the Office of Ward 13, as set out in the Municipal Act, 2001; c)    subject to the confirmation of the matters set out in b) above, the City Clerk BE DIRECTED to prepare the necessary by-law to appoint John-Fyfe Millar to the Office of Ward 13, in accordance with term set out in a) above, to be introduced at the Council meeting to be held on October 26, 2021; and,",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ebfcf88a4ccc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part b) of the Council Vacancy - Ward 6 motion to fill the vacancy through an application process, per Appendix “A” to the staff report, with additional statement and question requirements for applicants, to be considered at Strategic Priorities and Policy Committee on an expedited basis.",
+    "confidence": "high",
+    "quote": "That part b) BE AMENDED to read as follows: b)    the vacancy of the Office of Ward 6 BE FILLED through an application process in keeping with the proposed application process as outlined in Appendix “A”, as appended to the staff report dated October 12, 2021, subject to the following additional requirements being set out in the process: \n\ni)    a brief written statement (no more than 250 words) on why they would like to serve for the remainder of the term as the Ward 6 Councillor;\n\nii)    a brief written statement (no more than 250 words) on their experience and qualifications;\n\niii)    a brief answer to the question: “Do you intend to seek election to the same council seat in the 2022 election?”; it being noted that Municipal Council cannot prevent a person who is eligible from seeking election to Municipal Council, regardless of the statement provided; and,\n\niv)    other such information the City Clerk or designate considers necessary; c)     filling the Ward 6 vacancy BE CONSIDERED at Strategic Priorities and Policy Committee; it being noted that it will be necessary to expedite the process due to the associated requirements of the Municipal Act.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "30bbd430dd3b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication and presentation regarding 100 Stanley Street and forwarded them to the Civic Administration for consideration.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to 100 Stanley Street: a)        the communication from J. O’Neill and B. McQuaid and the presentation from K. McKeating, with respect to this matter, BE RECEIVED; and, b)        the above-noted communication and presentation BE FORWARDED to Civic Administration for consideration. (2021-R01)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "be46fbc5002d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Extended Michael Lerner's term on the University of Western Ontario Board of Governors to June 30, 2022, and set future City of London appointments to the Board to take effect July 1 rather than December 1.",
+    "confidence": "high",
+    "quote": "That Michael Lerner's term BE EXTENDED to June 30, 2022 and future appointments by the City of London to the University of Western Ontario be made effective as of July 1, rather than December 1.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "fd6ec817ee4d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced by-laws to amend the Official Plan designation for 560 and 562 Wellington Street from Low Density Residential to Multi-Family, High Density Residential, and to rezone the property from an Office (OF1) zone to a holding Residential R10 Special Provision zone.",
+    "confidence": "high",
+    "quote": "That, based on the application of 560 Wellington Holdings Inc., relating to the property located at 560 and 562 Wellington Street: a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend the Official Plan (1989) to change the designation FROM a Low Density Residential designation TO a Multi-Family, High Density Residential Designation, and to ADD a Specific Area Policy in Chapter 10 – Policies for Specific Areas; b) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 16, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM an Office (OF1) Zone, TO a holding Residential R10 Special Provision (h-5*R10-5(_)*H61) Zone; it being pointed out that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: -    the staff presentation;\n\n-    a communication from AM. Valastro, by e-mail;\n\n-    a communication dated October 28, 2021, from S. Stapleton, Vice President, Auburn Developments;\n\n-    a communication dated October 28, 2021, from H. Handy, Senior Associate and K. Muir, Senior Planner, GSP Group;\n\n-    a communication dated October 28, 2021, from K. McKeating, President, Architectural Conservancy Ontario – London Region; and,\n\n-    a communication dated October 25, 2021, from G. Bruzas, CEO, THINQ Technologies Ltd.; it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made oral submissions regarding these matters.",
+    "flags": []
+  },
+  {
+    "id": "ebd7d4c1dac3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to submit an application to Council to demolish the heritage-designated property at 100 Stanley Street, noting the process would require further consultation with the London Advisory Committee on Heritage and a Planning and Environment Committee public participation meeting.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with consideration of the March 23, 2021 Council resolution, the Civic Administration BE DIRECTED to submit an application to Council to demolish the heritage designated property at 100 Stanley Street, it being noted that the application process requires further consultation with the London Advisory Committee on Heritage and a public participation meeting at the Planning and Environment Committee to consider the application. (2021-R01)",
+    "flags": []
+  },
+  {
+    "id": "493cdc3bcf82",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to keep Blackfriars Bridge closed to vehicles for the time being, commence a review of bridge operations as required by the Ministry of the Environment, Conservation and Parks including public consultation, and report back to a future Civic Works Committee meeting, and authorized the administrative acts necessary to carry this out.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the Blackfriars Bridge: a)        the Civic Administration BE DIRECTED to leave Blackfriars Bridge closed to vehicles at this time and commence the review of the bridge operations as required by the Ministry of the Environment, Conservation and Parks including public consultation, and report back at a future meeting of the Civic Works Committee; and, b)        the Civic Administration BE AUTHORIZED to undertake all administrative acts necessary for the action noted in part a), above; it being noted that the Civic Works Committee was made aware of the attached on-line petition (change.org), related to this matter.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c2d2cccde147",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2021-22 Winter Response Program for Unsheltered Individuals and a $1,685,000 funding increase extension to Municipal Purchase of Service agreements with Ark Aid Street Mission, CMHA Thames Valley Addiction & Mental Health Services, Impact London, and Atlohsa Family Healing Services, to administer the program from December 1, 2021 to March 31, 2022.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated November 2, 2021, related to The City of London 2021-22 Winter Response Program for Unsheltered Individuals (SS21-40, SS21-41, SS21-42, SS21-43): a)    the above-noted staff report BE ENDORSED; b)    a funding increase extension to the existing Municipal Purchase of Service agreements, at a total estimated increase of $1,685,000.00 (excluding HST), for the period of December 1, 2021, to March 31, 2022, to administer the City of London 2021-2022 Winter Response Program, as per The Corporation of the City of London Procurement Policy, Section 20.3.a.ii, BE APPROVED to the following existing agreements: -    Ark Aid Street Mission; \n\n-    CMHA Thames Valley Addiction & Mental Health Services,\n\n-    Impact London; and,\n\n-    Atlohsa Family Healing Services; c)    the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in connection with the above-noted contracts; and, d)    the approval given, herein, BE CONDITIONAL upon The Corporation of the City of London entering into and/or amending Purchase of Service Agreements with Agencies outlined in the above-noted staff report; it being pointed out that the Community and Protective Services Committee reviewed and received the following communications with respect to this matter: a communication from J. Duckitt;\n\na communication from L. Kellestine;\n\na communication from J. Hogg; and,\n\na communication from R. Young; it being noted that a verbal delegation from J. Duckitt was received with respect to this matter. (2021-S14)",
+    "flags": []
+  },
+  {
+    "id": "b1fc6e23f9f4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Hamilton Road BIA 2022 budget request motion to add a one-time $30,000 grant to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve.",
+    "confidence": "high",
+    "quote": "That the motion BE AMENDED to add the following new part c): \"c)   that a one time grant of $30,000 be provided to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve.\"",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "2f5b39487041",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, deferring the Hamilton Road BIA's 2022 budget request to the 2023 budget process, requesting the BIA develop a full business case with proposed funding source, and providing a one-time $30,000 grant to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve.",
+    "confidence": "medium",
+    "quote": "That the motion, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "84134a7c99dc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the multi-candidate ballot to appoint a Council representative to the Covent Garden Market Board; Justin Dias was declared the majority winner.",
+    "confidence": "high",
+    "quote": "Appointment of a member to the Covent Garden Market Board.",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "6717fe7107b9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Mariam Hamou to the Office of Ward 6 for the term commencing November 16, 2021 and ending November 15, 2022, and directed the City Clerk to confirm her consent and eligibility and prepare the necessary appointing by-law.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to filling the vacancy of the Office of Ward 6:\n\n\n\na)   Mariam Hamou BE APPOINTED to the Office of Ward 6 for the term commencing November 16, 2021 and ending November 15, 2022, pursuant to section 263(1)(a) of the Municipal Act, 2001;\n\n\n\nb)    the City Clerk BE DIRECTED to confirm the consent of Mariam Hamou to be appointed to the Office of Ward 6 and to confirm the individual’s eligibility to hold the Office of Ward 6, as set out in the Municipal Act, 2001; and \n\n\n\nc)    subject to the confirmation of the matters set out in b) above, the City Clerk BE DIRECTED to prepare the necessary by-law to appoint Mariam Hamou to the Office of Ward 6, in accordance with term set out in a) above, to be introduced at the Council meeting to be held on November 16, 2021.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "df35c02abfc3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the first round of the multi-candidate ballot to appoint a Council representative to the Office of Ward 6; this round recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Appointment to Ward 6",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "002b4ee5d405",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the second round of the multi-candidate ballot to appoint a Council representative to the Office of Ward 6; this round again recorded no majority winner.",
+    "confidence": "high",
+    "quote": "Appointment to Ward 6",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "fd854e01a355",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took part in the third round of the multi-candidate ballot to appoint a Council representative to the Office of Ward 6; this round recorded Mariam Hamou as the majority winner.",
+    "confidence": "high",
+    "quote": "Appointment to the office of Ward 6 Councillor",
+    "flags": [
+      "appointment",
+      "procedural",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "1bd4b453e63c",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the revised by-laws amending the Official Plan designation for 560 and 562 Wellington Street from Low Density Residential to Multi-Family, High Density Residential, and rezoning the property from an Office zone to a holding Residential R10 Special Provision zone.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of the revised Bill No.’s 531 and 548, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ae7855d26e36",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the revised by-laws amending the Official Plan designation for 560 and 562 Wellington Street from Low Density Residential to Multi-Family, High Density Residential, and rezoning the property from an Office zone to a holding Residential R10 Special Provision zone.",
+    "confidence": "high",
+    "quote": "That Second Reading of the revised Bill No.’s 531 and 548, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+ {
+  "meetingSlug": "months/2019-03/2019-03-25 Strategic Priorities and Policy Committee",
+  "itemNumber": "4.1",
+  "members": [
+   [
+    "e8c52955a632",
+    "transit"
+   ],
+   [
+    "a98a86bddb89",
+    "downtown"
+   ]
+  ],
+  "reason": "Committee-stage twin of Council item 9.4.4 (2019-03-26): the same ICIP Public Transit Stream funding-submission omnibus. e8c52955a632 is a BRT-design amendment to Project 4 North Connection (issue=transit, correct). a98a86bddb89 is the umbrella REQUEST clause covering the whole multi-project submission -- Downtown Loop/East London Link (BRT) AND Dundas Place Active Transportation/Streetscape (non-BRT) together -- so it stays issue=downtown per the same reasoning as its Council-stage twin's Dundas Place members (see 9.4.4 below); it is not itself a BRT-specific clause.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "e8c52955a632",
+    "quote": "the motion to approve the inclusion of Project 4 North Connection, BE AMENDED to revise the proposed design to have mixed traffic, and remove the requirement for designated lanes between Central Avenue and the Western University Gate on Richmond Street."
+   },
+   {
+    "issue": "downtown",
+    "id": "a98a86bddb89",
+    "quote": "That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection Project 15. Dundas Street Old East Village Streetscape Improvements"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2019-03/2019-03-26 Council",
+  "itemNumber": "9.4.4",
+  "members": [
+   [
+    "0dd0f857160d",
+    "transit"
+   ],
+   [
+    "dcb0f1eb29ad",
+    "transit"
+   ],
+   [
+    "1b50644b049a",
+    "downtown"
+   ]
+  ],
+  "reason": "Gate round 9 item C: this ICIP Public Transit Stream funding-submission item bundles multiple, independently-topical capital projects under one item number. 0dd0f857160d (Project 1 Downtown Loop) and dcb0f1eb29ad (Project 3 East London Link) are both bus rapid transit corridor projects -- reclassified to issue=transit this round (corrections.json), resolving that half of the split. 1b50644b049a (Projects 14/15, Dundas Place Thames Valley Parkway Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements) is a GENUINELY different, non-BRT project type -- pedestrian/active-transportation and streetscape work, not transit service or transit infrastructure -- and correctly stays issue=downtown. The remaining transit/downtown split is real content, not a mis-file.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "0dd0f857160d",
+    "quote": "That Item 4.1 a) i) Project 1. Downtown Loop BE APPROVED."
+   },
+   {
+    "issue": "downtown",
+    "id": "1b50644b049a",
+    "quote": "That Item 4.1 a) viii) and ix) BE APPROVED: viii) Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection; ix) Project 15. Dundas Street Old East Village Streetscape Improvements"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2021-03/2021-03-02 Civic Works Committee",
+  "itemNumber": "2.8",
+  "members": [
+   [
+    "479657ea4fd3",
+    "downtown"
+   ],
+   [
+    "f2b5d9dd1f8f",
+    "bikes"
+   ]
+  ],
+  "reason": "Two distinct parts of the same Dundas Place staff report, correctly filed under different issues: part b) (479657ea4fd3) is a parking by-law amendment (two-hour paid parking -> one-hour free parking on Dundas Place) -- a downtown-curbside-management decision, not a transit or cycling one. Part d) (f2b5d9dd1f8f) directs a bike-lane pilot-project report for Dundas Place -- a cycling-infrastructure decision. Different regulatory subject matter, same source report.",
+  "evidence": [
+   {
+    "issue": "downtown",
+    "id": "479657ea4fd3",
+    "quote": "b) the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021, for the purpose of amending By-law PS-113, entitled, \"A by-law to regulate traffic and the parking of motor vehicles in the City of London\" to replace the two-hour paid parking with one-hour free parking;"
+   },
+   {
+    "issue": "bikes",
+    "id": "f2b5d9dd1f8f",
+    "quote": "d) the Civic Administration BE DIRECTED to bring forward a report to the March 30, 2021 Civic Works Committee meeting to amend the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place during the 2021 construction season. (2021-T02/T05)"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2021-03/2021-03-23 Council",
+  "itemNumber": "8.1.12",
+  "members": [
+   [
+    "d0e2cd7b968e",
+    "downtown"
+   ],
+   [
+    "5101c184c8b8",
+    "bikes"
+   ]
+  ],
+  "reason": "Council-stage ratification twin of Civic Works Committee item 2.8 (2021-03-02): same parking-by-law (d0e2cd7b968e, downtown) vs bike-lane-pilot-direction (5101c184c8b8, bikes) split, same reasoning.",
+  "evidence": [
+   {
+    "issue": "downtown",
+    "id": "d0e2cd7b968e",
+    "quote": "b) the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021, for the purpose of amending By-law PS-113, entitled, \"A by-law to regulate traffic and the parking of motor vehicles in the City of London\" to replace the two-hour paid parking with one-hour free parking;"
+   },
+   {
+    "issue": "bikes",
+    "id": "5101c184c8b8",
+    "quote": "d) the Civic Administration BE DIRECTED to bring forward a report to the March 30, 2021 Civic Works Committee meeting to amend the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place during the 2021 construction season. (2021-T02/T05)"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-03/2024-03-05 6th Meeting of City Council",
+  "itemNumber": "13",
+  "members": [
+   [
+    "40e608ffef7c",
+    "transit"
+   ],
+   [
+    "1678aab07f0f",
+    "transit"
+   ],
+   [
+    "f6df9b75ee64",
+    "transit"
+   ],
+   [
+    "179f7140e6d6",
+    "housing"
+   ],
+   [
+    "05a34dfdd9d4",
+    "housing"
+   ]
+  ],
+  "reason": "Item 13 is the Council meeting's own omnibus by-law reading/enactment list, formalizing several UNRELATED decisions made elsewhere on the same agenda in one block of roll calls. 40e608ffef7c/1678aab07f0f/f6df9b75ee64 are three reading stages of a by-law amending the East London Link BRT construction contract (issue=transit, correct). 179f7140e6d6/05a34dfdd9d4 are reading stages of a by-law authorizing a property-acquisition Agreement of Purchase and Sale at 1040 Hamilton Road (issue=housing, correct). Different by-laws, different underlying decisions, bundled only by the agenda's own reading-stage numbering.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "40e608ffef7c",
+    "quote": "A by-law to amend by-law No. W.-5683-100 entitled, “A by-law to authorize the East London Link – Construction Rapid Transit (Project RT1430-3A)” ... A by-law to authorize project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit."
+   },
+   {
+    "issue": "housing",
+    "id": "179f7140e6d6",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of property located at 1040 Hamilton Road, in the City of London, for future housing and parkland"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-04/2024-04-23 9th Meeting of City Council",
+  "itemNumber": "13",
+  "members": [
+   [
+    "538bd4c871ad",
+    "housing"
+   ],
+   [
+    "9b6ac77d84f7",
+    "housing"
+   ],
+   [
+    "d8d88d5a28d0",
+    "housing"
+   ],
+   [
+    "c26fb0e4d55e",
+    "transit"
+   ],
+   [
+    "a639486736ea",
+    "transit"
+   ],
+   [
+    "a79e2c534560",
+    "transit"
+   ]
+  ],
+  "reason": "Same omnibus-item-13 shape as 2024-03-05: 538bd4c871ad/9b6ac77d84f7/d8d88d5a28d0 are reading stages of Official Plan/zoning by-laws for 735 Wonderland Road North (issue=housing, correct). c26fb0e4d55e/a639486736ea/a79e2c534560 are reading stages of a by-law authorizing a Rapid Transit East London Link land-expropriation application (issue=transit, correct). Different by-laws entirely.",
+  "evidence": [
+   {
+    "issue": "housing",
+    "id": "538bd4c871ad",
+    "quote": "A by-law to amend The Official Plan for the City of London, 2016 relating to 735 Wonderland Road North; A by-law to amend By-law No. Z.-1 to rezone an area of land located at 735 Wonderland Road North."
+   },
+   {
+    "issue": "transit",
+    "id": "c26fb0e4d55e",
+    "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project Phase 4."
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-05/2024-05-14 10th Meeting of City Council",
+  "itemNumber": "13",
+  "members": [
+   [
+    "9497e61ab2e6",
+    "transit"
+   ],
+   [
+    "123a317b40e4",
+    "transit"
+   ],
+   [
+    "abf12a805b05",
+    "transit"
+   ],
+   [
+    "8b1d7c79b86d",
+    "housing"
+   ],
+   [
+    "9ed8d62246ad",
+    "housing"
+   ],
+   [
+    "cedd96e5b61f",
+    "housing"
+   ]
+  ],
+  "reason": "Same omnibus-item-13 shape: 9497e61ab2e6/123a317b40e4/abf12a805b05 are reading stages of a Settlement Agreement by-law for Rapid Transit expropriation of 977-993 Wellington Road (issue=transit, correct). 8b1d7c79b86d/9ed8d62246ad/cedd96e5b61f are reading stages of a rezoning by-law for 376-390 Hewitt Street & 748 King Street (issue=housing, correct). Different by-laws entirely.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "9497e61ab2e6",
+    "quote": "A by-law to authorize and approve a Settlement Agreement... for the property rights expropriated from the property at 977-993 Wellington Road... for the Wellington Gateway Project; A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of the property located at 8 Raywood Avenue... for the Wellington Gateway Project."
+   },
+   {
+    "issue": "housing",
+    "id": "8b1d7c79b86d",
+    "quote": "A by-law to amend By-law No. Z.-1 to rezone an area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street."
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-06/2024-06-04 11th Meeting of City Council",
+  "itemNumber": "13",
+  "members": [
+   [
+    "c34b37e35099",
+    "transit"
+   ],
+   [
+    "2d25add9af89",
+    "transit"
+   ],
+   [
+    "4b3c9772a231",
+    "transit"
+   ],
+   [
+    "ce1056fc21f6",
+    "housing"
+   ],
+   [
+    "a06da0b59a8e",
+    "housing"
+   ],
+   [
+    "550a050e44ed",
+    "housing"
+   ]
+  ],
+  "reason": "Same omnibus-item-13 shape: c34b37e35099/2d25add9af89/4b3c9772a231 are reading stages of a Wellington Gateway (Clark's Bridge) transit-project land-expropriation by-law (issue=transit, correct). ce1056fc21f6/a06da0b59a8e/550a050e44ed are reading stages of an Official Plan amendment by-law for 530 Oxford Street West (issue=housing, correct). Different by-laws entirely.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "c34b37e35099",
+    "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 – A by-law to authorize Project RT1430-1D – Wellington Gateway Stops Rapid Transit."
+   },
+   {
+    "issue": "housing",
+    "id": "ce1056fc21f6",
+    "quote": "By-law No. C.P.-1512(df)-138 – A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 530 Oxford Street West; By-law No. Z.-1-243218 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 530 Oxford Street West."
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-07/2024-07-18 12th Meeting of the Strategic Priorities and Policy Committee",
+  "itemNumber": "4.4",
+  "members": [
+   [
+    "d34fba436319",
+    "encampments"
+   ],
+   [
+    "e41ac2ad64b1",
+    "budget"
+   ],
+   [
+    "f43433453552",
+    "encampments"
+   ]
+  ],
+  "reason": "Three distinct clauses of one Ark Aid Street Mission staff report, correctly filed under different issues by their own actual content: d34fba436319 extends one-time ENCAMPMENT-response funding (issue=encampments, correct). e41ac2ad64b1 directs relocating front-door services as part of BUDGET preparation for the 2025 process (issue=budget, correct -- a budget-process directive, not itself a service-scale change). f43433453552 approves a procurement single-source contract AWARD for year-round stable responsive services (issue=encampments, correct -- the actual service, matching d34fba436319's issue).",
+  "evidence": [
+   {
+    "issue": "encampments",
+    "id": "d34fba436319",
+    "quote": "the Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until September 30, 2024 to be funded through the Community Investment Reserve Fund"
+   },
+   {
+    "issue": "budget",
+    "id": "e41ac2ad64b1",
+    "quote": "Civic Administration BE DIRECTED to engage with Ark Aid Street Mission Inc. to relocate the front door services off Dundas Street as part of the budget amendment preparation for the 2025 Budget Update process for funding in 2025 and future years"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2024-12/2024-12-17 1st Meeting of City Council",
+  "itemNumber": "8.1.22",
+  "members": [
+   [
+    "1565d0e9f185",
+    "climate"
+   ],
+   [
+    "97abed62ab90",
+    "housing"
+   ],
+   [
+    "b357c947f66c",
+    "housing"
+   ]
+  ],
+  "reason": "Three distinct clauses of one Land Needs Assessment/Urban Growth Boundary Review staff report: 1565d0e9f185 directs USE OF THE CLIMATE EMERGENCY SCREENING TOOL in the Review (issue=climate, correct -- a climate-process directive, not a growth-boundary decision itself). 97abed62ab90 ADOPTS the Land Needs Assessment for use in the Official Plan review (issue=housing, correct). b357c947f66c DIRECTS the Urban Growth Boundary Review itself, for ~1,476 hectares of developable land (issue=housing, correct). Different regulatory subject matter within one staff report.",
+  "evidence": [
+   {
+    "issue": "climate",
+    "id": "1565d0e9f185",
+    "quote": "the Civic Administration BE DIRECTED to demonstrably utilize the climate emergency screening tool as part of the Urban Growth Boundary Review;"
+   },
+   {
+    "issue": "housing",
+    "id": "97abed62ab90",
+    "quote": "the Land Needs Assessment (Community Growth) appended to the staff report dated December 3, 2024 as Appendix \"A\" BE ADOPTED for use as part of Phase 1B of the Section 26 Review of The London Plan"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2025-03/2025-03-25 4th Meeting of the Strategic Priorities and Policy Committee",
+  "itemNumber": "4.1",
+  "members": [
+   [
+    "9ab2a13766e3",
+    "transit"
+   ],
+   [
+    "bb1201cb1a09",
+    "bikes"
+   ],
+   [
+    "8f30dc265f90",
+    "bikes"
+   ],
+   [
+    "0e1066f4e177",
+    "bikes"
+   ],
+   [
+    "916f3366234a",
+    "bikes"
+   ],
+   [
+    "dfe87ddfc742",
+    "transit"
+   ],
+   [
+    "2202865db756",
+    "bikes"
+   ],
+   [
+    "3e6140abb084",
+    "transit"
+   ],
+   [
+    "f5d2c8a7250b",
+    "transit"
+   ]
+  ],
+  "reason": "This item is the annual Transportation Master Plan network-update omnibus, covering three distinct network layers in one committee report: 9ab2a13766e3/dfe87ddfc742/f5d2c8a7250b/3e6140abb084 are ROAD CAPACITY / TRANSIT PRIORITY NETWORK clauses (Discover Wonderland Road EA restart, Bradley Ave expansion inclusion, Transit Priority Network map approval -- issue=transit, correct). bb1201cb1a09/8f30dc265f90/0e1066f4e177/916f3366234a/2202865db756 are CYCLING NETWORK map amendment clauses (specific street segments removed from/added to the Cycling Network maps -- issue=bikes, correct). Different network layers, same omnibus report.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "9ab2a13766e3",
+    "quote": "the Civic Administration BE DIRECTED to re-start the Discover Wonderland Road Environmental Assessment, with expanded limits from Southdale Road to Fanshawe Park Road, in order to construct six general purpose, through lanes along the corridor with a long-term build-and-convert option to Bus Rapid Transit"
+   },
+   {
+    "issue": "bikes",
+    "id": "bb1201cb1a09",
+    "quote": "the following Proposed Network Additions BE REMOVED from the Network Cycling maps: A. Royal Crescent east of Clarke Road to Wexford Avenue to Admiral Drive"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+  "itemNumber": "8.1.9",
+  "members": [
+   [
+    "68a0dacac29e",
+    "transit"
+   ],
+   [
+    "8888017a8223",
+    "transit"
+   ],
+   [
+    "4d3d41dd3b85",
+    "bikes"
+   ],
+   [
+    "07ddefaa133b",
+    "bikes"
+   ],
+   [
+    "c7684b074103",
+    "bikes"
+   ],
+   [
+    "869855991c1c",
+    "bikes"
+   ],
+   [
+    "67956909add8",
+    "bikes"
+   ],
+   [
+    "d905ef818c14",
+    "bikes"
+   ],
+   [
+    "46579e9c40ba",
+    "bikes"
+   ],
+   [
+    "c00911f9ed6d",
+    "transit"
+   ]
+  ],
+  "reason": "Council-stage ratification twin of Strategic Priorities and Policy Committee item 4.1 (2025-03-25): same Transportation Master Plan omnibus, same transit/road-network clauses (68a0dacac29e/8888017a8223/c00911f9ed6d, issue=transit) vs cycling-network-map clauses (4d3d41dd3b85/07ddefaa133b/c7684b074103/869855991c1c/67956909add8/d905ef818c14/46579e9c40ba, issue=bikes) split, same reasoning.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "68a0dacac29e",
+    "quote": "the Roads Projects maps BE APPROVED; with the following amendment to the Roads Projects Timeline; i) expansion of Bradley Ave from Wellington Road to Highbury Avenue BE INCLUDED in the next improvement cycle"
+   },
+   {
+    "issue": "bikes",
+    "id": "4d3d41dd3b85",
+    "quote": "the Cycling Network maps BE APPROVED, except:"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2025-04/2025-04-22 7th Council Meeting",
+  "itemNumber": "8.3.4",
+  "members": [
+   [
+    "e6dcc337748c",
+    "climate"
+   ],
+   [
+    "f83bcfb68b48",
+    "housing"
+   ]
+  ],
+  "reason": "Two distinct clauses of one subdivision-application item: e6dcc337748c is a NATURAL HERITAGE COMPENSATION draft-plan condition (wetland/woodland feature removal offset -- issue=climate, correct). f83bcfb68b48 is the underlying ZONING BY-LAW introduction for the subdivision (Urban Reserve -> Residential/Open Space -- issue=housing, correct). Different regulatory subject matter, same application.",
+  "evidence": [
+   {
+    "issue": "climate",
+    "id": "e6dcc337748c",
+    "quote": "The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net loss to the natural heritage features and functions, to the satisfaction of the City."
+   },
+   {
+    "issue": "housing",
+    "id": "f83bcfb68b48",
+    "quote": "the proposed by-law...BE INTRODUCED...to amend Zoning By-law No. Z.-1...to change the zoning of the subject property FROM an Urban Reserve (UR3) Zone TO a Residential R2 (R2-3(6)), Residential R4 (R4-4(2)), and an Open Space (OS5) Zone"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2026-02/2026-02-10 3rd Council Meeting",
+  "itemNumber": "13",
+  "members": [
+   [
+    "db64703634b8",
+    "transit"
+   ],
+   [
+    "e64c35d4457d",
+    "transit"
+   ],
+   [
+    "a2820440e78b",
+    "transit"
+   ],
+   [
+    "f14bfb03eecf",
+    "housing"
+   ],
+   [
+    "de06bee73456",
+    "housing"
+   ],
+   [
+    "d0d40d76aa7a",
+    "housing"
+   ],
+   [
+    "eca3027452a1",
+    "housing"
+   ],
+   [
+    "cc3f10abbbb4",
+    "housing"
+   ],
+   [
+    "c75df9adc395",
+    "housing"
+   ],
+   [
+    "4d40e1886a94",
+    "housing"
+   ],
+   [
+    "c3ffe26f3197",
+    "housing"
+   ],
+   [
+    "d74277dbff4d",
+    "housing"
+   ]
+  ],
+  "reason": "Same omnibus-item-13 shape as the 2024 examples above: db64703634b8/e64c35d4457d/a2820440e78b are reading stages of Bill No. 64 (issue=transit, correct). f14bfb03eecf/de06bee73456/d0d40d76aa7a are reading stages of Bill No. 80, eca3027452a1/cc3f10abbbb4/c75df9adc395 of Bill No. 81, and 4d40e1886a94/c3ffe26f3197/d74277dbff4d of Revised Bill No. 82 (all issue=housing, correct). Four entirely separate by-laws bundled only by the agenda's own reading-stage numbering.",
+  "evidence": [
+   {
+    "issue": "transit",
+    "id": "db64703634b8",
+    "quote": "That Introduction and First Reading of Bill No. 64, BE APPROVED."
+   },
+   {
+    "issue": "housing",
+    "id": "f14bfb03eecf",
+    "quote": "That Introduction and First Reading of Bill No. 80, BE APPROVED."
+   }
+  ]
+ }
+]

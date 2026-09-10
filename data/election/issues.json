@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T19:20:26.820Z",
+  "generatedAt": "2026-09-10T01:44:52.031Z",
   "sourceHash": "c89decb146e3da17",
-  "sourceGeneratedAt": "2026-09-05T10:52:14.158Z",
+  "sourceGeneratedAt": "2026-09-10T01:43:11.563Z",
   "cutoffDate": "2023-01-01",
   "methodology": "A \"divided\" vote is any council or committee motion since January 1, 2023 that wasn't approved unanimously and wasn't a routine procedural step, and it doesn't include a vote decided by secret ballot to fill an appointment, since those don't produce a recorded yea or nay by councillor. For each councillor, on each issue, on each axis: a vote counts as \"for\" when it matched that axis's more permissive outcome, and \"against\" when it matched the more restrictive one — but a nay is never described as if it enacted the restrictive outcome; it's described as opposing the motion it was cast on, and the same care is taken in the other direction. When every recorded vote on an axis since January 1, 2023 happens to fall on one side, the pattern sentence says so plainly instead of silently reporting a zero on the other side. Every motion's issue, axis, and direction (\"what a yea did\") come from an independent, motion-by-motion review, checked against that motion's own complete text in the official meeting record rather than a keyword search, with a small, separately published list of after-the-fact corrections applied on top — never a silent edit to the reviewed record. This is a genuine reading of what each clause did, not a raw yea/nay count, including for the generic \"approved or denied the item\" description used when no issue-specific axis applies. Recusals and absences are always counted on their own, never folded into \"against\" and never treated as a hidden position. A pattern sentence is only stated once a councillor has at least 5 separate underlying decisions on an axis — a committee vote followed later by a council vote on the same policy question counts as one decision, not two, when checking that threshold. The \"supported/opposed N measures\" figure inside the pattern sentence itself counts every recorded vote in the sample, including more than one stage of the same decision, so a motion with several stages CAN make that figure larger than the number of distinct decisions behind it; whenever the two differ, the sentence states the distinct-decision count alongside it. Below the 5-decision threshold, the individual votes are still shown, just without a summary sentence. Some motions were reviewed and confirmed to have no clear direction at all — a referral, a request for more information, or a genuinely ambiguous clause — and these are listed, on every relevant issue, as motions with no clear direction: never counted in any pattern or sample size, but never hidden either. This project has no source recording which committee a councillor belongs to — that list isn't published or collected anywhere; a meeting's own attendance record shows who was there that day, not who belongs to it. So when a councillor has no recorded vote on a motion, nothing is claimed about why, in either direction: only whether that meeting's own record separately listed this councillor as present without a recorded vote, or whether nothing else can be said at all. Before any of the above, motions were also dropped in 2 ways, none of them guessed at or repaired: 31 where the same person was recorded as voting more than one way on the same motion (a roster conflict in the source data); and 14 more that turned out, on review, not to be a genuine division at all — a lopsided result the source data's own \"unanimous\" marker missed, or the same motion recorded twice under two item numbers. Each motion is filed under exactly one issue, so a motion that touches two topics — a housing decision with a budget line, say — appears on one issue page only, never both. Where the source text has a hash symbol immediately followed by a case or item number — as in a title reading \"Business Case\", then a hash, then \"P-5\" — this hub shows it instead as \"Business Case No. P-5\", so the character can't be misread as a link; the underlying wording is not otherwise changed.",
   "truncatedDisplayCount": 518,
@@ -136,8 +136,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#23proposed-winter-response-for-2026-2027",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [],
           "direction": {
             "axis": "response-scale",
@@ -6785,7 +6785,7 @@
           "direction": {
             "axis": "response-scale",
             "valence": 1,
-            "label": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus endorsed additional safety programming within existing budgets.",
+            "label": "Approved a one-time funding allocation of up to $174,210 for London Cares Homeless Response Services to support security services at two locations, plus adopted additional safety programming within existing budgets.",
             "axisLabels": {
               "expansive": "expanded the encampment/homelessness response",
               "restrictive": "reduced the encampment/homelessness response"
@@ -10325,9 +10325,9 @@
     },
     "downtown": {
       "label": "Downtown & Core",
-      "dividedVoteCount": 30,
-      "directionBearingVoteCount": 19,
-      "distinctAgendaItemCount": 19,
+      "dividedVoteCount": 31,
+      "directionBearingVoteCount": 20,
+      "distinctAgendaItemCount": 20,
       "votes": [
         {
           "id": "6f0c9180d01c",
@@ -10537,6 +10537,59 @@
           },
           "resultNote": null,
           "motionSnippet": "That the communication dated January 11, 2026 from Councillor D. Ferreira with the foll..."
+        },
+        {
+          "id": "3f1093ba6162",
+          "date": "2025-11-26",
+          "meetingSlug": "months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET",
+          "meetingTitle": "19th Special Meeting of City Council - BUDGET",
+          "meetingType": "Council",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a86b8a39-d331-4a6f-b11e-42cd9cc6f0ac&Agenda=PostMinutes&lang=English",
+          "itemNumber": "8.3.8",
+          "itemTitle": "(4.9) Amendment - Councillor D. Ferreira",
+          "motionText": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village): 2026 Operating Expenditures: $784,000       2026 Tax Levy: $784,000           2026 Capital Expenditures: $0 2027 Operating Expenditures: $784,000       2027 Tax Levy: $784,000           2027 Capital Expenditures: $0",
+          "result": "Motion Passed (11 to 3)",
+          "passed": true,
+          "margin": 8,
+          "tally": {
+            "yea": 11,
+            "nay": 3,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET#83849-amendment---councillor-d-ferreira",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "application-approval",
+            "valence": 1,
+            "label": "Amended the 2026 budget to increase spending by $784,000 (and the tax levy by the same amount) to provide free two-hour on-street parking via the Honk App in the Core Area.",
+            "axisLabels": {
+              "expansive": "approved the downtown/core-area item",
+              "restrictive": "denied the downtown/core-area item"
+            }
+          },
+          "positions": {
+            "j-morgan": "yea",
+            "h-mcalister": "yea",
+            "s-lewis": "yea",
+            "p-cuddy": "yea",
+            "s-stevenson": "yea",
+            "j-pribil": "yea",
+            "s-lehman": "yea",
+            "a-hopkins": "yea",
+            "p-van-meerbergen": "yea",
+            "d-ferreira": "yea",
+            "s-hillier": "yea",
+            "s-trosow": "nay",
+            "c-rahman": "nay",
+            "s-franke": "nay",
+            "e-peloza": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provi..."
         },
         {
           "id": "dd9311c86c89",
@@ -11872,9 +11925,9 @@
     },
     "transit": {
       "label": "Transit & Roads",
-      "dividedVoteCount": 117,
-      "directionBearingVoteCount": 60,
-      "distinctAgendaItemCount": 70,
+      "dividedVoteCount": 118,
+      "directionBearingVoteCount": 61,
+      "distinctAgendaItemCount": 71,
       "votes": [
         {
           "id": "a8e2f548211a",
@@ -13014,6 +13067,50 @@
           },
           "resultNote": null,
           "motionSnippet": "That London Transit Commission Governance BE DEFERRED pending the outcome of the extern..."
+        },
+        {
+          "id": "b38513a0a390",
+          "date": "2025-07-16",
+          "meetingSlug": "months/2025-07/2025-07-16 12th Meeting of the Infrastructure and Corporate Services Committee",
+          "meetingTitle": "12th Meeting of the Infrastructure and Corporate Services Committee",
+          "meetingType": "Infrastructure and Corporate Services Committee",
+          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a413d752-f42e-4a94-a4dc-8a6149daafa6&Agenda=PostMinutes&lang=English",
+          "itemNumber": "2.8",
+          "itemTitle": "Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works",
+          "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Wellington Gateway Project, and that the following actions be taken in connection therewith: a)    the application be made by The Corporation of the City of London as Expropriating Authority to the Council of The Corporation of the City of London as approving authority, for the approval to expropriate the ...",
+          "result": "Motion Passed (4 to 1)",
+          "passed": true,
+          "margin": 3,
+          "tally": {
+            "yea": 4,
+            "nay": 1,
+            "recuse": 0,
+            "absent": 1,
+            "abstain": 0,
+            "other": 0
+          },
+          "anchor": "/months/2025-07/2025-07-16 12th Meeting of the Infrastructure and Corporate Services Committee#28expropriation-of-lands---phase-2---wellington-gateway-project-civil-works",
+          "anchorAmbiguous": false,
+          "matchedKeywords": [],
+          "direction": {
+            "axis": "transit-service",
+            "valence": 1,
+            "label": "Approved proceeding with the expropriation application process for land needed for Phase 2 of the Wellington Gateway Project.",
+            "axisLabels": {
+              "expansive": "expanded public transit service or transit infrastructure",
+              "restrictive": "reduced public transit service or transit infrastructure"
+            }
+          },
+          "positions": {
+            "j-pribil": "yea",
+            "c-rahman": "yea",
+            "a-hopkins": "yea",
+            "s-franke": "yea",
+            "p-van-meerbergen": "nay",
+            "j-morgan": "absent"
+          },
+          "resultNote": null,
+          "motionSnippet": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure,..."
         },
         {
           "id": "24c2e69564b6",
@@ -17783,9 +17880,9 @@
     },
     "budget": {
       "label": "Taxes & Budget",
-      "dividedVoteCount": 150,
-      "directionBearingVoteCount": 91,
-      "distinctAgendaItemCount": 94,
+      "dividedVoteCount": 149,
+      "directionBearingVoteCount": 90,
+      "distinctAgendaItemCount": 93,
       "votes": [
         {
           "id": "031fe5fbc781",
@@ -18085,59 +18182,6 @@
           },
           "resultNote": null,
           "motionSnippet": "That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a ..."
-        },
-        {
-          "id": "3f1093ba6162",
-          "date": "2025-11-26",
-          "meetingSlug": "months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET",
-          "meetingTitle": "19th Special Meeting of City Council - BUDGET",
-          "meetingType": "Council",
-          "meetingUrl": "https://pub-london.escribemeetings.com/Meeting.aspx?Id=a86b8a39-d331-4a6f-b11e-42cd9cc6f0ac&Agenda=PostMinutes&lang=English",
-          "itemNumber": "8.3.8",
-          "itemTitle": "(4.9) Amendment - Councillor D. Ferreira",
-          "motionText": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provide for a free two-hour parking program through the Honk App, including two-hour free on-street parking in the Core Area (Midtown, Downtown, and Old East Village): 2026 Operating Expenditures: $784,000       2026 Tax Levy: $784,000           2026 Capital Expenditures: $0 2027 Operating Expenditures: $784,000       2027 Tax Levy: $784,000           2027 Capital Expenditures: $0",
-          "result": "Motion Passed (11 to 3)",
-          "passed": true,
-          "margin": 8,
-          "tally": {
-            "yea": 11,
-            "nay": 3,
-            "recuse": 0,
-            "absent": 1,
-            "abstain": 0,
-            "other": 0
-          },
-          "anchor": "/months/2025-11/2025-11-26 19th Special Meeting of City Council - BUDGET#83849-amendment---councillor-d-ferreira",
-          "anchorAmbiguous": false,
-          "matchedKeywords": [],
-          "direction": {
-            "axis": "levy-size",
-            "valence": 1,
-            "label": "Amended the 2026 budget to increase spending by $784,000 (and the tax levy by the same amount) to provide free two-hour on-street parking via the Honk App in the Core Area.",
-            "axisLabels": {
-              "expansive": "increased the tax levy or a budget item",
-              "restrictive": "reduced the tax levy or a budget item"
-            }
-          },
-          "positions": {
-            "j-morgan": "yea",
-            "h-mcalister": "yea",
-            "s-lewis": "yea",
-            "p-cuddy": "yea",
-            "s-stevenson": "yea",
-            "j-pribil": "yea",
-            "s-lehman": "yea",
-            "a-hopkins": "yea",
-            "p-van-meerbergen": "yea",
-            "d-ferreira": "yea",
-            "s-hillier": "yea",
-            "s-trosow": "nay",
-            "c-rahman": "nay",
-            "s-franke": "nay",
-            "e-peloza": "absent"
-          },
-          "resultNote": null,
-          "motionSnippet": "That the Mayor’s 2026 Annual Budget Update BE AMENDED by increasing the budget to provi..."
         },
         {
           "id": "760381bbe317",
@@ -27692,8 +27736,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#831236-1076-1080-commissioners-road-west-and-396-402-north-street---oz-26037relates-to-bill-no-273-and-no-289",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -27747,8 +27791,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council#82733-parking-provisions-updaterelates-to-bill-no-285",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-07/2026-07-21 12th Meeting of Council",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -28164,12 +28208,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "application-approval",
+            "axis": "density",
             "valence": 1,
-            "label": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states permits an appropriate form of more intensive residential redevelopment on the site.",
+            "label": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and compatible with the surrounding neighbourhood.",
             "axisLabels": {
-              "expansive": "approved the development, rezoning, or housing-policy item",
-              "restrictive": "denied the development, rezoning, or housing-policy item"
+              "expansive": "increased permitted density or building height",
+              "restrictive": "reduced permitted density or building height"
             }
           },
           "positions": {
@@ -28530,8 +28574,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#38929-cheapside-street--z-26003",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble"
           ],
@@ -28576,8 +28620,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#38929-cheapside-street--z-26003",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble",
             "informational_ask"
@@ -28990,8 +29034,8 @@
             "abstain": 0,
             "other": 0
           },
-          "anchor": "/months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee#43tolpuddle-co-operative-inc-capital-and-operational-transition-plan",
-          "anchorAmbiguous": false,
+          "anchor": "/months/2026-04/2026-04-13 6th Meeting of the Community and Protective Services Committee",
+          "anchorAmbiguous": true,
           "matchedKeywords": [
             "wrapper_preamble",
             "informational_ask"
@@ -39516,7 +39560,7 @@
           "direction": {
             "axis": "density",
             "valence": 1,
-            "label": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+            "label": "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and advised the Approval Authority of Council's support for issuing draft approval of a plan of subdivision with medium- and high-density residential blocks.",
             "axisLabels": {
               "expansive": "increased permitted density or building height",
               "restrictive": "reduced permitted density or building height"
@@ -39870,12 +39914,12 @@
           "anchorAmbiguous": false,
           "matchedKeywords": [],
           "direction": {
-            "axis": "density",
+            "axis": "application-approval",
             "valence": 1,
             "label": "Approved a proposed residential development at 193-199 College Avenue with special zoning provisions permitting density up to 196 units per hectare and building height up to 21 metres, notwithstanding a staff recommendation against approval.",
             "axisLabels": {
-              "expansive": "increased permitted density or building height",
-              "restrictive": "reduced permitted density or building height"
+              "expansive": "approved the development, rezoning, or housing-policy item",
+              "restrictive": "denied the development, rezoning, or housing-policy item"
             }
           },
           "positions": {
@@ -44795,7 +44839,7 @@
     }
   },
   "unclassified": {
-    "count": 841,
+    "count": 840,
     "note": "Divided motions since 2023 the verified classification pass assigned issue 'none' (no tracked issue applies), plus any motion missing a classify entry entirely (tracked separately — see the console warning at generation time; none are guessed at or force-fit into a cluster). All are listed here.",
     "sample": [
       {
@@ -46531,12 +46575,6 @@
         "date": "2025-07-16",
         "itemNumber": "2.1",
         "itemTitle": "Biosolids Management Master Plan - Notice of Completion"
-      },
-      {
-        "id": "b38513a0a390",
-        "date": "2025-07-16",
-        "itemNumber": "2.8",
-        "itemTitle": "Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works"
       },
       {
         "id": "b1eedbcf7b81",

@@ -1,0 +1,499 @@
+[
+  {
+    "id": "dabf702ad211",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the 2020-2023 corporate tax levy at $2,684,600,789 (an approximate average annual increase of 3.9%) and the 2020 corporate tax levy at $642,901,178, and directed staff to bring forward the operating/capital budget by-laws and prepare the 2020-2023 Tax Levy By-law for introduction at Municipal Council.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a) the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,079,669; b) the 2020 corporate tax levy BE ADOPTED in the amount of $642,901,178 after recognizing $9,868,280 of increased taxation from assessment growth; and 2020 gross expenditures equal to $1,021,582,817;",
+    "flags": []
+  },
+  {
+    "id": "7150bb3e8aae",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Land Ambulance budget motion to add a part convening a City-County Liaison Committee meeting before budget finalization and requesting five years of cost-driver information from the land ambulance service provider.",
+    "confidence": "high",
+    "quote": "That the motion related to the Land Ambulance Budget BE AMENDED by adding the following new part b): b) a meeting of the City-County Liaison Committee BE CONVENED forthwith and prior to the finalization of the City budget, in order to provide the opportunity for further discussion with respect to the land ambulance budget, and that the service provider BE REQUESTED to provide specific cost-driver information for the past five years, including but not limited to: unit hour utilization, call volume, code zero, hospital off-load delays and service improvements during that time.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "16fbc4f8c745",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Land Ambulance service's net 2020-2023 Multi-Year Operating Budget at $91,255,000, as part a) of the amended Social and Health Services budget motion.",
+    "confidence": "medium",
+    "quote": "That part a) of the amended motion BE ADOPTED.  Part A) reads as follows: \"That the net 2020-2023 Multi-Year Operating Budget for the following service within Social and Health Services BE ADOPTED: v.  Page 121 - Land Ambulance $91,2550,00\"",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "5213565434ff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the amended Land Ambulance budget motion, convening a City-County Liaison Committee meeting before budget finalization and requesting cost-driver information from the service provider.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) of the amended motion.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "48722b8dda96",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "The meeting adjourned at 5:08 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8a60afd49da6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to investigate a user-pay January Christmas tree pick-up program and report back to a future Civic Works Committee meeting.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to investigate the possibility of collecting Christmas trees in January on a user-pay basis with a report back at a future meeting of the Civic Works Committee. (2020-E07)",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "16c1e6fad8e4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action on Councillor van Holst's proposal regarding curbside organics collection, leaving the existing program unchanged.",
+    "confidence": "high",
+    "quote": "That NO ACTION BE TAKEN regarding the proposed recommendation from Councillor M. van Holst, dated February 9, 2020, as appended to the agenda, with respect to curbside organics collection. (2020-E07)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "498a3f70354b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to continue consulting with licensees and prepare Business Licensing By-law amendments addressing scrap metal theft, and to hold a public participation meeting at a future Community and Protective Services Committee meeting.",
+    "confidence": "high",
+    "quote": "Motion to approve part b), above.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9753c6e8a354",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to investigate and report back to a future Community and Protective Services Committee meeting in Q2 2020 on the viability of third-party cost recovery for fire-related responses through property owners' insurance.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Community and Protective Services Committee in Q2 2020 with respect to opportunities for, and the viability of, cost recovery for fire-related responses through property owners’ insurance; it being noted that a communication, dated January 28, 2020, from Councillor E. Peloza, with respect to this matter, was received. (2020-P16/F21)",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e36b89adc2c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 13(2.10) to refer the gasoline-theft issue back to Civic Administration for further research, directed continued licensee consultation and Business Licensing By-law amendments on scrap-metal theft with a future public participation meeting, received the staff report, and referred a delegation request to that meeting.",
+    "confidence": "high",
+    "quote": "That Item 13(2.10), BE AMENDED to read as follows: That the following actions be taken with respect to the staff report dated February 19, 2020 related to suppressing crime through business licensing regulations for the theft of gasoline and scrap metal: a) the issue of gasoline theft BE REFERRED back to the Civic Administration for further research; b) the Civic Administration BE DIRECTED to continue to consult with the affected Licensees and prepare amendments to the Business Licensing By-law to address the issues of scrap metal theft and hold a public participation meeting at a future meeting of the Community and Protective Services Committee; c) the above-noted staff report BE RECEIVED; and, d) the request for delegation, as appended to the agenda, from C. Gelinas, Specialized Recycling Inc., BE REFERRED to the future public participation meeting with respect to supressing the theft of scrap metal;",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a9effe772768",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to investigate and report back to a future Community and Protective Services Committee meeting in Q2 2020 on the viability of third-party cost recovery for fire-related responses through property owners' insurance.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to investigate and report back to a future meeting of the Community and Protective Services Committee in Q2 2020 with respect to opportunities for, and the viability of, cost recovery for fire-related responses through property owners’ insurance; it being noted that a communication, dated January 28, 2020, from Councillor E. Peloza, with respect to this matter, was received. (2020-P16/F21)",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8c3d75c8d51a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to report back to the Community and Protective Services Committee by April 28, 2020, with a plan to pilot a small number of Conestoga Huts.",
+    "confidence": "medium",
+    "quote": "That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee, by April 28, 2020, with respect to a plan to pilot a small number of Conestoga Huts; it being noted that a communication, dated February 9, 2020, from Councillor M. van Holst, with respect to this matter, was received. (2020-S11)",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "95348923bed3",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law respecting the 2020-2023 Multi-Year Tax Supported Operating and Capital Budget for the City of London (Bill No. 108).",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "67c1759c8b7c",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law respecting the 2020-2023 Multi-Year Tax Supported Operating and Capital Budget for the City of London (Bill No. 108).",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "43e429ed81a7",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law respecting the 2020-2023 Multi-Year Tax Supported Operating and Capital Budget for the City of London (Bill No. 108, By-law No. A.-7950-77).",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 108, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "330e45768742",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law appointing Martin Hayward as City Manager, by repealing his prior appointment as Acting City Manager (Bill No. 110).",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 110, BE APPROVED.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "279da715d1e5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the User-Pay Christmas Tree Pick-Up motion to add a direction for staff to report back on investigating a user-pay January collection option.",
+    "confidence": "high",
+    "quote": "That the motion related to a user-pay Christmas Tree pick-up BE AMENDED, by adding the following, \"and that staff BE DIRECTED to report back with respect to the investigate the possibility of collecting Christmas trees in January on a user-pay basis with a report back at a future meeting of the Civic Works Committee.\"",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "60352c8d22eb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action on Councillor van Holst's proposal regarding curbside organics collection, leaving the existing program unchanged.",
+    "confidence": "high",
+    "quote": "That NO ACTION BE TAKEN regarding the proposed recommendation from Councillor M. van Holst, dated February 9, 2020, as appended to the agenda, with respect to curbside organics collection. (2020-E07)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1074da4bbe8c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Exempted Runnymede Crescent from the planned sidewalk installation and the associated tree removal, notwithstanding London Plan and warranted-sidewalk-program requirements.",
+    "confidence": "medium",
+    "quote": "That, notwithstanding requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Runnymede Crescent BE EXEMPTED from the intended sidewalk installation and any planned tree removal associated with construction of the sidewalk; it being noted that the attached presentation from G. Martin, with respect to this issue, was received. (2020-E04)",
+    "flags": []
+  },
+  {
+    "id": "355512e50dd7",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Adopted a 2020-2023 Multi-Year Budget business case reducing net levy by eliminating funding for the London Public Library's Wi-Fi Hotspot Lending Program (2020-2023 Total Investment and Net Levy reduction of $188,000).",
+    "confidence": "high",
+    "quote": "That the following portion of the 2020-2023 Multi-Year Budget business case for potential net levy reduction BE ADOPTED: v. Business Case 30 - London Public Library - Wi-Fi Hotspot Lending Program – 2020-2023 Total Investment ($188,000); Net Levy ($188,000)",
+    "flags": []
+  },
+  {
+    "id": "50934fbd28f9",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a 2020-2023 Multi-Year Budget business case investing $1,200,000 in Dundas Place under the Core Area Action Plan, as part of the Civic Administration's administratively-prioritized additional-investment business cases.",
+    "confidence": "medium",
+    "quote": "That the following portion of the 2020-2023 Multi-Year Budget business case for additional investment that the Civic Administration has prioritized BE ADOPTED: ix. E) Business Case 7A (Operating) – Core Area Action Plan – New Initiative – Invest in Dundas Place: $1,200,000",
+    "flags": []
+  },
+  {
+    "id": "c00eeae647b1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a 2020-2023 Multi-Year Budget business case investing $50,000 in proactive by-law enforcement under the Core Area Action Plan, as part of the Civic Administration's administratively-prioritized additional-investment business cases.",
+    "confidence": "medium",
+    "quote": "That the following portion of the 2020-2023 Multi-Year Budget business case for additional investment that the Civic Administration has prioritized BE ADOPTED: ix. G) Business Case 7A (Capital) – Core Area Action Plan – Initiative 29 - Proactive by-law enforcement: $50,000",
+    "flags": []
+  },
+  {
+    "id": "2d9b59dc47ff",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a 2020-2023 Multi-Year Budget business case funding the Fanshawe College Innovation Village at $1,000,000 (Net Levy $0), with a further $250,000/year allocated from 2020-2029 for a total $2,500,000 investment.",
+    "confidence": "high",
+    "quote": "That the following 2020-2023 Multi-Year Budget business case for additional investment that the Civic Administration has prioritized BE ADOPTED: xi. Business Case 9 – Fanshawe College Innovation Village – 2020-2023 Total: Investment $1,000,000; Net Levy $0; it being noted that an annual funding allocation of $250,000 will be provided over the period of 2020-2029 for a total investment of $2,500,000",
+    "flags": []
+  },
+  {
+    "id": "c36d3322122b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a 2020-2023 Multi-Year Budget business case funding a four-year Core Area 'construction dollars' pilot program at $200,000 under the Core Area Action Plan, funded from the Economic Development Reserve Fund rather than the tax levy.",
+    "confidence": "high",
+    "quote": "That the following portion of the 2020-2023 Multi-Year Budget business case for additional investment for Council consideration BE ADOPTED: iii. C) Business Case 7B – Initiative 42 – Core Action Plan (Operating) – Fund four-year Core Area “construction dollars: pilot program - $200,000; it being noted that this matter will be funded from the Economic Development Reserve Fund",
+    "flags": []
+  },
+  {
+    "id": "292c9f5c4e94",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the balance of the 4th Report of the Strategic Priorities and Policy Committee (the 2020-2023 Multi-Year Budget), covering all departmental operating and capital budgets and business cases, excluding Item 19 (clause 4.16), which was voted on separately.",
+    "confidence": "high",
+    "quote": "That the balance of the 4th Report of the Strategic Priorities and Policy Committee (BUDGET), BE APPROVED, excluding Item 19 (clause 4.16).",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "5988d9904b79",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the 2020-2023 corporate tax levy at $2,684,600,789 (an approximate average annual increase of 3.9%) and the 2020 corporate tax levy at $642,901,178, and directed staff to bring forward the operating/capital budget by-laws and prepare the 2020-2023 Tax Levy By-law for introduction at Municipal Council.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 2020-2023 Multi-Year Budget: a) the 2020-2023 corporate tax levy BE ADOPTED in the amount of $2,684,600,789, which represents an approximate average annual increase of 3.9% from rates; and 2020-2023 gross expenditures equal to $4,197,079,669; b) the 2020 corporate tax levy BE ADOPTED in the amount of $642,901,178 after recognizing $9,868,280 of increased taxation from assessment growth; and 2020 gross expenditures equal to $1,021,582,817;",
+    "flags": []
+  },
+  {
+    "id": "6dd0f0cd3636",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the 2020-2023 Operating and Capital Budgets for Water Services ($356,452,000 operating; $200,773,000 capital) and for Wastewater & Treatment Services ($447,650,000 operating; $364,721,000 capital), approved associated 2024-2029 capital forecasts in principle, and directed rate increases of 2.5% (Water) and 3.5% (Wastewater & Treatment).",
+    "confidence": "medium",
+    "quote": "That the following actions be taken with respect to the 2020-2023 Operating Budgets and 2020-2023 Capital Budgets and associated forecasts for Water and Wastewater & Treatment Services: a) the 2020-2023 Operating Budget for Water Services BE ADOPTED as submitted (page 34 - $356,452,000); b) the 2020-2023 Capital Budget for Water Services BE ADOPTED as submitted (page 38 - $200,773,000); c) the 2024-2029 Capital Forecast for Water Services be BE ADOPTED in principle (page 38 - $278,507,000); it being noted that all rates and charges related to the provision of Water Services were increased by 2.5% effective January 1, 2020 as approved by Council on November 26, 2019; d) the 2020-2023 Operating Budget for Wastewater & Treatment Services BE ADOPTED as submitted (page 44 - $447,650,000); e) the Civic Administration BE DIRECTED to take all necessary arrangements with respect to the rates and charges increases of 3.5%;",
+    "flags": []
+  },
+  {
+    "id": "655881979901",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the net 2020-2023 Multi-Year Operating Budget for Children's Services within Neighbourhood and Recreation Services at $31,423,000 (excluding provincial impacts).",
+    "confidence": "medium",
+    "quote": "That the net 2020-2023 Multi-Year Operating Budget for the following service within Parks, Recreation and Neighbourhood Services, BE ADOPTED: a)  i. B) Children’s Service’s within Neighbourhood and Recreation Services excluding provincial impacts: $31,423,000;",
+    "flags": []
+  },
+  {
+    "id": "0e3a62b7bef8",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the net 2020-2023 Multi-Year Operating Budget for the Golf service within Neighbourhood and Recreation Services at $0 (excluding provincial impacts).",
+    "confidence": "medium",
+    "quote": "That the net 2020-2023 Multi-Year Operating Budget with respect to the following service within Parks, Recreation and Neighbourhood Services, BE ADOPTED: a) i. C) Golf within Neighbourhood and Recreation Services excluding provincial impacts: $0",
+    "flags": []
+  },
+  {
+    "id": "cdbc7376e083",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the recommended provincial-impacts portion of the 2020-2023 Multi-Year Operating Budget for Neighbourhood and Recreation Services at $1,206,000.",
+    "confidence": "medium",
+    "quote": "That the net 2020-2023 Multi-Year Operating Budget with respect to the following service within Parks, Recreation and Neighbourhood Services, BE ADOPTED: a) ii. Page 90 – Neighbourhood and Recreation Services recommended provincial impacts - $1,206,000",
+    "flags": []
+  },
+  {
+    "id": "a4722a15e6ea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Changed the order of business, under the Council Procedure By-law, to consider the Strategic Priorities and Policy Committee's 6th, 7th, and 4th Reports in that sequence.",
+    "confidence": "high",
+    "quote": "That pursuant to section 6.4 of the Council Procedure By-law, the order of business BE CHANGED to permit consideration of the Strategic Priorities and Policy Committee Reports in the following order the 6th Report, 7th Report and 4th Rheport.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "850bedf4a3dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed April 2020 as Limb Loss Awareness Month in London, based on the Amputee Coalition of Toronto's application.",
+    "confidence": "high",
+    "quote": "That, based on the application dated February 24, 2020, from the Amputee Coalition of Toronto, the month of April 2020 BE PROCLAIMED as Limb Loss Awareness Month in London.",
+    "flags": []
+  },
+  {
+    "id": "86cb6b7ba9a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have received the Amputee Coalition of Toronto's proclamation application and taken no further action on it.",
+    "confidence": "high",
+    "quote": "That the application for a proclamation from the Amputee Coalition of Toronto, BE RECEIVED, and no further action be taken with respect to this matter.",
+    "flags": []
+  },
+  {
+    "id": "b0c9d0968571",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted a delegate an additional minute to speak to the rezoning application for 84-86 St. George Street and 175-197 Ann Street (OZ-9127).",
+    "confidence": "high",
+    "quote": "Motion to grant Ms. A-M. Valastro an additional minute to speak to the application pertaining to the properties located at 84-86 St. George Street and 175-197 Ann Street.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bf2490d75450",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjourned the meeting.",
+    "confidence": "high",
+    "quote": "The meeting adjourned at 6:40 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f78e91166259",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Mayor draft a letter to the Province of Ontario expressing implementation complications with the Automated Speed Enforcement program's recent legislative changes, as part of the province's 180-day consultation period.",
+    "confidence": "high",
+    "quote": "b)     that the Mayor BE REQUESTED to draft a letter to the Province expressing the implementation complications that have been raised at the Municipal level with respect to the recent legislative changes as part of the 180-day consultation period.",
+    "flags": []
+  },
+  {
+    "id": "f86308650f22",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the proposed Area Speed Limit by-law back to Civic Administration to draft a separate by-law for the downtown arterial roads apart from the other proposed changes.",
+    "confidence": "high",
+    "quote": "That the proposed by-law, as appended to the staff report dated March 10, 2020, with respect to the implementation of the Area Speed Limit program, BE REFERRED back to the Civic Administration to allow for the drafting of a by-law for the downtown arterial roads separate from other proposed changes.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "8c4388f4b368",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received Councillor Hillier's communication proposing a sidewalk snow removal by-law.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Hillier, dated February 18, 2020, with respect to a proposed sidewalk snow removal by-law, BE RECEIVED. (2020-T06)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "679d2526a79d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Exempted Fox Mill Crescent from the planned sidewalk installation associated with the watermain replacement and road rehabilitation project, notwithstanding London Plan and warranted-sidewalk-program requirements.",
+    "confidence": "medium",
+    "quote": "That, notwithstanding requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Fox Mill Crescent BE EXEMPTED from the intended sidewalk installation associated with the planned watermain replacement project and road rehabilitation project; it being noted that the delegation from J. Lang, with respect to this matter, was received. (2020-D19)",
+    "flags": []
+  },
+  {
+    "id": "a3d64397f899",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved J. Lang's request to appear as a delegation on the Fox Mill Crescent sidewalk petition.",
+    "confidence": "high",
+    "quote": "That the delegation request from J. Lang BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1f8e29bfa54d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved J. McIntyre's request to appear as a delegation on the Camden Crescent tree removal item.",
+    "confidence": "high",
+    "quote": "That the delegation request from J. McIntyre BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5a5cb1bcc612",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to waive the $1.50 per-bag fee for London residents disposing of bagged garbage at the City's EnviroDepots until May 4, 2020.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to make the necessary arrangements to waive the $1.50 per bag fee for disposing of bagged garbage by London Residents at the City of London’s EnviroDepots until May 4, 2020.",
+    "flags": []
+  },
+  {
+    "id": "823eab386238",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took a 10-minute recess.",
+    "confidence": "high",
+    "quote": "That a 10 minute Recess BE APPROVED at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b7c23164e2d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed April 2020 as Sikh Heritage Month in the City of London, based on the Guru Nanak Mission Society's application.",
+    "confidence": "high",
+    "quote": "That, based on the application dated February 13, 2020, April 2020 BE PROCLAIMED as Sikh Heritage Month in the City of London; it being noted that every April Sikhs across Canada participate in Sikh Heritage Month festivities and events that honour the birth of Khalsa and the rich heritage of the culture.",
+    "flags": []
+  },
+  {
+    "id": "e2e0e255a581",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed May 5, 2020 as Guillain-Barré Syndrome–Chronic Inflammatory Demyelinating Polyneuropathy (GBS/CIDP) Foundation of Canada Day in London.",
+    "confidence": "high",
+    "quote": "That, based on the application dated February 19, 2020, the day of May 5, 2020 BE PROCLAIMED as Guillain-Barre Syndrome-Chronic Inflammatory Demyelinating Polyneuropathy Foundation of Canada Day in London, as it falls within Neuropathy Awareness Month.",
+    "flags": []
+  }
+]

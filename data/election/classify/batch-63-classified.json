@@ -1,0 +1,482 @@
+[
+ {
+  "id": "3453e1603f24",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a secret-ballot selection round for appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "908099bd9fc4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "In a second secret-ballot round, selected Prabh Singh Gill, Lissette Ochoa, Michaela Hazel Castillo, Mphatso Mlotha, Nadia Fahd, Brian Hill, Hetham Hani Abu Karky, Rupinder Kaur Gill, Sue Brooks, Kymberley Ann Burke, Audra Stonefish, Niko Fragis, Ryan O'Hagan, and Stacey Evoy to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee - Round 2",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "9578cb7223a2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Selected, by secret ballot, Berta Bella Krichker, Katrina Moser, Kiana Lee, Matheus Sanita Lima, Sandy Levin, Suba Sivakumar, Susan Hall, Vera Tai, Peter Baker, Simone Nicole Miklosi, Tim Hain, Steve Evans, and Rob McGarry to the Ecological Community Advisory Committee.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Ecological Community Advisory Committee",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "9e41cf285c48",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a secret-ballot selection round for appointments to the Environmental Stewardship and Action Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "14620b44ba1a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a second secret-ballot selection round for appointments to the Environmental Stewardship and Action Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 2",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "e224fdd5967e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a third secret-ballot selection round for appointments to the Environmental Stewardship and Action Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 3",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "96b31b4cf9e6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a fourth secret-ballot selection round for appointments to the Environmental Stewardship and Action Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 4",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "63f4cdc91c5a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Held a fifth secret-ballot selection round for appointments to the Environmental Stewardship and Action Community Advisory Committee; no candidate received a majority.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 5",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "9db730cef547",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Selected, by secret ballot, Dan Foster, Devinder Luthra, Rachel Cabunoc, Sheryl Rooth, Antonio Santiago, Ashfaq Kash Husain, Scott Leitch, Trevor Kerr, Vincent Lubrano III, James Collie, Milad Malekzadeh, Ralph Buchal, Ernest Eady, John Vareka, and Tariq Khan to the Integrated Transportation Community Advisory Committee.",
+  "confidence": "high",
+  "quote": "Consideration of appointment to the Integrated Transportation Community Advisory Committee",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "2c572d3c5991",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to by-laws amending the Official Plan, The London Plan, and Zoning By-law No. Z.-1 to redesignate and rezone 1521 Sunningdale Road West and 2631 Hyde Park Road from an Open Space designation to Low and Medium Density Residential designations and zones, permitting Auburn Developments Inc.'s residential subdivision.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of Bill No.’s 183, 186 and 202, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "3a35b041db81",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to by-laws amending the Official Plan, The London Plan, and Zoning By-law No. Z.-1 to redesignate and rezone 1521 Sunningdale Road West and 2631 Hyde Park Road from an Open Space designation to Low and Medium Density Residential designations and zones, permitting Auburn Developments Inc.'s residential subdivision.",
+  "confidence": "medium",
+  "quote": "That Second Reading of Bill No.’s 183, 186 and 202, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "37058b01af92",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted by-laws amending the Official Plan, The London Plan, and Zoning By-law No. Z.-1 to redesignate and rezone 1521 Sunningdale Road West and 2631 Hyde Park Road from an Open Space designation to Low and Medium Density Residential designations and zones, permitting Auburn Developments Inc.'s residential subdivision.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of Bill No.’s 183, 186 and 202, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "77a2b6f42f4c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to by-laws amending The London Plan's Specific Area Policy and the Official Plan to increase the maximum permitted medical/dental office gross floor area at 1055 Fanshawe Park Road West to 6,342.4 square metres, and amending Zoning By-law No. Z.-1 accordingly.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of Bill No.’s 184, 187 and 205, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "5df16bd4b1a4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to by-laws amending The London Plan's Specific Area Policy and the Official Plan to increase the maximum permitted medical/dental office gross floor area at 1055 Fanshawe Park Road West to 6,342.4 square metres, and amending Zoning By-law No. Z.-1 accordingly.",
+  "confidence": "medium",
+  "quote": "That Second Reading of Bill No.’s 184, 187 and 205, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "842eb771f5a8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted by-laws amending The London Plan's Specific Area Policy and the Official Plan to increase the maximum permitted medical/dental office gross floor area at 1055 Fanshawe Park Road West to 6,342.4 square metres, and amending Zoning By-law No. Z.-1 accordingly.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of Bill No.’s 184, 187 and 205, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "03c85f15a5d7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Integrity Commissioner's report and Councillor M. van Holst's response, and adopted the Integrity Commissioner's findings that Councillor van Holst contravened sections 2.4, 2.5, 2.6, and 8.1 of the Council Code of Conduct.",
+  "confidence": "high",
+  "quote": "the findings of the Integrity Commissioner that Councillor M. van Holst contravened sections 2.4, 2.5, 2.6 and 8.1 of the Code of Conduct for Members of Council as outlined in the report BE ADOPTED",
+  "flags": []
+ },
+ {
+  "id": "97f5843ebda3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have reprimanded Councillor M. van Holst for his contraventions of the Code of Conduct as found in part c) of the Integrity Commissioner's report.",
+  "confidence": "high",
+  "quote": "Councillor M. van Holst BE REPRIMANDED for his contraventions of the Code of Conduct as noted in part c), above.",
+  "flags": []
+ },
+ {
+  "id": "94424a190de9",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Official Plan, London Plan, and zoning by-law amendments redesignating and rezoning 1521 Sunningdale Road West and 2631 Hyde Park Road from Open Space to a mix of Low and Medium Density Residential designations and zones, and approved a plan of subdivision with thirteen low-density and two medium-density residential blocks, for Auburn Developments Inc.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 19, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Multi-Family, Medium Density Residential designation, Low Density Residential designation and Open Space designation",
+  "flags": []
+ },
+ {
+  "id": "d1c6ac1b8107",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law amending Zoning By-law No. Z.-1 to add a Neighbourhood Facility (NF1) zone designation at 1284 Sunningdale Road West, on the Thames Valley District School Board's application, to permit an elementary school and daycare.",
+  "confidence": "medium",
+  "quote": "the attached, revised, proposed by-law (Appendix ‘A’) BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R4/R6/R7/R8 (h-h-54-h-71-h-95-h-100-R4-6(14)/R6-5/R-7-H15-D75-R-8-H15-D75) Zone TO a Holding Residential R4/R6/R7/R8, Neighbourhood Facility (h-h-54-h-71-h-95-h-100-R4-6(14)/R6-5/R-7-H15-D75-R-8-H15-D75-NF1) Zone",
+  "flags": []
+ },
+ {
+  "id": "88bcf05afc1a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, notwithstanding the Civic Administration's recommendation, Quincy Developments' application to increase the maximum permitted medical/dental office gross floor area at 1055 Fanshawe Park Road West to 6,342.4 square metres via amendments to The London Plan's Specific Area Policy, the Official Plan, and the zoning by-law.",
+  "confidence": "high",
+  "quote": "That, notwithstanding the Civic Administration's recommendation, the application by Quincy Developments, relating to the property located at 1055 Fanshawe Park Road West, the application BE APPROVED;",
+  "flags": []
+ },
+ {
+  "id": "df37aa7a6eec",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Further amended the pending Animal Control By-law (Class 7 animals) report-back directive to include a Public Participation Meeting as part of that future report back to the Strategic Priorities and Policy Committee.",
+  "confidence": "medium",
+  "quote": "That the proposed amendment, BE FURTHER AMENDED, to include a Public Participation Meeting, with the report back noted in the aforementioned proposed amendment.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "931964f6b010",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, a directive that the Civic Administration bring forward to the Strategic Priorities and Policy Committee a report outlining options for amendments to By-law PH-3 to permit the keeping of Class 7 animals under specific terms and conditions, including a Public Participation Meeting as part of that report back.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to bring forward to the next meeting of the Strategic Priorities and Policy Committee, a report that would outline options for amendments to By-law PH-3 that could provide for the keeping of Class 7 animals in the City of London, under specific terms and conditions",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "70e654a07604",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced by-laws to regulate the delivery of graphic images to residential properties in London and to amend the Administrative Monetary Penalty System By-law to designate the graphic-images delivery by-law.",
+  "confidence": "high",
+  "quote": "the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022, to regulate the delivery of graphic images in the City of London",
+  "flags": []
+ },
+ {
+  "id": "ac1448d3b8af",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 148 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of Added Bill No. 228, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "18481093ac8d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 148 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Second Reading of Added Bill No. 228, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "3740dabfbb79",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 148 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of Added Bill No. 228, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "b12aed8ff05c",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have reduced the minimum permitted building height in the West Policy Area of the Revised Victoria Park Secondary Plan from 2 storeys (8 metres) to 1 storey.",
+  "confidence": "medium",
+  "quote": "That Part A, West Policy Area, as indicated in Table 1: Permitted Heights of the Victoria Park Secondary Plan the minimum height BE AMENDED to require one storey, rather than 2 storeys (or 8 Metres).",
+  "flags": []
+ },
+ {
+  "id": "819c759ba62d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the acquisition of property at 148 Wellington Road for $800,000, for future road improvements to the Wellington Gateway Project, and approved its financing.",
+  "confidence": "high",
+  "quote": "the offer submitted by 588274 Ontario Inc (the \"Vendor\"), to sell the subject property to the City, for the sum of $800,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix \"C\"",
+  "flags": []
+ },
+ {
+  "id": "66624bd5c519",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Selected, by ballot, Patricia Almost and Girish Sankar as the two majority-winning appointees to the Ecological Community Advisory Committee.",
+  "confidence": "high",
+  "quote": "Appointment to the Ecological Community Advisory Committee",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "b58570b0523b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have appointed Patricia Almost, Eric Dusenge, and Girish Sankar to the Ecological Community Advisory Committee, notwithstanding the Committee's Terms of Reference (which provide for two members).",
+  "confidence": "high",
+  "quote": "THAT notwithstanding the Terms of Reference for the Ecological Community Advisory Committee, Patricia Almost, Eric Dusenge, and Girish Sankar BE APPOINTED to the Ecological Community Advisory Committee.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "ebe99199209e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a requirement that the applicant photographically document and chronicle, to the degree possible, the north and south pavilion and the connecting building at 850 Highbury Avenue North, as a condition of the heritage demolition permission.",
+  "confidence": "high",
+  "quote": "the applicant BE REQUESTED to photographically document and chronical, to the degree possible, the north and south pavilion and the connecting building.",
+  "flags": []
+ },
+ {
+  "id": "5cbe87e0d727",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to identify and begin removing Trooper Mark Wilson's name from City of London amenities (including the park at 2070 Wallingford Avenue and the commemoration near Hale and Trafalgar), and to begin a renaming process that includes consultation with affected residents and community members.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to identify all instances where Trooper Mark Wilson's name has been used on City amenities, including the park at 2070 Wallingford Avenue and the commemoration in the area of Hale and Trafalgar, and to begin removing his name in every instance",
+  "flags": []
+ },
+ {
+  "id": "8f61cbc65f35",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to the revised by-laws amending the Business Licensing By-law No. L.-131-16 to add a Schedule licensing and regulating short-term accommodations, and amending the Administrative Monetary Penalty System By-law No. A-54 to add a penalty schedule for that category.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of the revised Bill No.’s 239 and 243, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "8a81de6869a1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to the revised by-laws amending the Business Licensing By-law No. L.-131-16 to add a Schedule licensing and regulating short-term accommodations, and amending the Administrative Monetary Penalty System By-law No. A-54 to add a penalty schedule for that category.",
+  "confidence": "medium",
+  "quote": "That Second Reading of the revised Bill No.’s 239 and 243, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "c569b04219b9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted the revised by-laws amending the Business Licensing By-law No. L.-131-16 to add a Schedule licensing and regulating short-term accommodations, and amending the Administrative Monetary Penalty System By-law No. A-54 to add a penalty schedule for that category.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of the revised Bill No.’s 239 and 243, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "d00304bb6eae",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 134 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Introduction and First Reading of Added Bill No. 257, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "9498d3bdc7ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 134 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Second Reading of Added Bill No. 257, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "f8720fce4158",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 134 Wellington Road for the Wellington Gateway Project.",
+  "confidence": "medium",
+  "quote": "That Third Reading and Enactment of Added Bill No. 257, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "0cad19fc6a0c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the Short-term Accommodations licensing recommendation to introduce by-laws amending the Business Licensing By-law No. L.-131-16 (adding a Schedule licensing and regulating short-term accommodations) and the Administrative Monetary Penalty System By-law No. A-54 (adding a penalty schedule for that category).",
+  "confidence": "medium",
+  "quote": "the proposed  by-law BE INTRODUCED at the Municipal Council meeting to be held on June 14, 2022, to amend the Business Licensing By-law No. L.-131-16 entitled “A by-law to provide for the Licensing and Regulation of Various Businesses” to add a new Schedule, including definitions and fees, related to the Licensing of Short-term Accommodations",
+  "flags": []
+ },
+ {
+  "id": "b69fba8ff6f4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, the introduction of by-laws licensing and regulating short-term accommodations under the Business Licensing By-law and adding a corresponding penalty schedule to the Administrative Monetary Penalty System By-law.",
+  "confidence": "high",
+  "quote": "That Item 15 (4.2), as amended, BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "5358f375f4f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the proposed 2023 Standing Committee Meetings and Annual Meeting Calendar back to the Civic Administration to incorporate additional Planning and Environment Committee meetings.",
+  "confidence": "high",
+  "quote": "That the proposed Standing Committee Meetings and Annual Meeting Calendar BE REFERRED back to the Civic Administration in order to incorporate additional meetings of the Planning and Environment Committee into the proposed calendar.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "2ea1b6c230f4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the acquisition of property at 134 Wellington Road for $650,000, for future road improvements to the Wellington Gateway Project, and approved its financing.",
+  "confidence": "high",
+  "quote": "the offer submitted by Goran Mamika (the \"Vendor\"), to sell the subject property to the City, for the sum of $650,000.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement",
+  "flags": []
+ },
+ {
+  "id": "5f41897aab48",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved by-laws to change the Specific Area Policy to permit a maximum building height of 23 storeys and a maximum 500-square-metre podium retail/service/office floor area, and to rezone 84-86 St. George Street and 175-197 Ann Street from a Residential R9 zone to a holding Residential R10/Convenience Commercial (bonus) zone, for St. George and Ann Block Limited.",
+  "confidence": "high",
+  "quote": "the proposed, attached, by-law (Appendix A) BE INTRODUCED at the Municipal Council meeting to be held on July 5, 2022 to CHANGE the Specific Area Policy in the Neighbourhoods Place Type applicable to the subject lands to permit a maximum building height of 23 storeys, and to permit a maximum overall floor area of 500 square metres for retail, service and office uses within the podium base",
+  "flags": []
+ },
+ {
+  "id": "3aeeeb251654",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": null,
+  "whatAYeaDid": "Would have replaced the proposed zoning by-law for 84-86 St. George Street and 175-197 Ann Street with the Planning and Development Department's own draft appended to the staff report, in place of the revised by-law used in the main motion.",
+  "confidence": "low",
+  "quote": "Motion to amend the motion to replace the by-law reference in part b) to introduce the draft by-law appended as Appendix B to the staff report, the alternative by-law from Planning and Development",
+  "flags": []
+ },
+ {
+  "id": "c10fea602dda",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": null,
+  "whatAYeaDid": "Referred the rezoning application for 689 Oxford Street West back to the Civic Administration to work with the developer on improving the proposed transition from high-density towers to the adjacent low-density residential neighbourhood, with specific attention to shadowing and traffic management at Wonderland and Beaverbrook.",
+  "confidence": "high",
+  "quote": "the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific attention to addressing shadowing and traffic management at Wonderland and Beaverbrook",
+  "flags": [
+   "referral"
+  ]
+ }
+]

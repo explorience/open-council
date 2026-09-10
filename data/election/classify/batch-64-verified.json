@@ -1,0 +1,612 @@
+[
+  {
+    "id": "b856c8d2d8ce",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Extended L. Kirkness's delegation time beyond five minutes at the public participation meeting for the 689 Oxford Street West rezoning application.",
+    "confidence": "high",
+    "quote": "That Mr. L. Kirkness's delegation BE EXTENDED beyond five minutes.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 3.6 PEC 2022-06-20 sub-motion, confirmed 5-1 vs manifest. Delegation-time extension is procedural; issue=none correct."
+  },
+  {
+    "id": "466bcd557337",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have sustained the Chair's ruling on a point of order raised during the public participation meeting for the 689 Oxford Street West rezoning application.",
+    "confidence": "medium",
+    "quote": "Shall the ruling of the Chair BE SUSTAINED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Point-of-order sustain vote, confirmed Failed 2-4 vs manifest. Hedged 'Would have sustained...' correctly for a failed motion; procedural, issue=none correct."
+  },
+  {
+    "id": "6ba3539df326",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to bring forward a business case for a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a business case that would provide for the implementation of a Rent Safe London Housing Enforcement Program, for consideration during the next multi-year budget development.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Failed 3-3. Hedged correctly. Text hits budget keywords ('business case', 'multi-year budget') but is a pure ask-for-a-future-business-case with no levy figure or spending decision — issue=none/informational_ask avoids overstating a budget position from a non-decision; a naive keyword hit here would wrongly imply a levy vote. Not overturned."
+  },
+  {
+    "id": "8dfbb441780b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received J. Scott-Pearse's delegation requesting permission to use Gibbons Park for an event and took no action on the request.",
+    "confidence": "high",
+    "quote": "That the verbal delegation, from J. Scott-Pearse, with respect to a request for permission to use Gibbons Park for an event, BE RECEIVED and NO ACTION BE TAKEN.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Passed 4-1. Delegation received/no action; informational_ask, issue=none correct."
+  },
+  {
+    "id": "cc133e801cce",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against item 13 By-laws (10th Council 2022-07-05), Bill 284/301 first reading, Passed 10-3. whatAYeaDid matches item 8.1.13's clause (a)/(b) text (23-storey height cap, R10/CC4 Bonus zone); density/expansive correct; lowercase 'Gave first reading' stage phrasing correct (no enactment language)."
+  },
+  {
+    "id": "58aeedf300f9",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Second Reading of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 284/301 second reading, Passed 10-3, same substance as first reading; density/expansive correct, no enactment language (correct)."
+  },
+  {
+    "id": "23a5ea85bf38",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted by-laws changing the Specific Area Policy to permit a maximum building height of 23 storeys and rezoning 84-86 St. George Street and 175-197 Ann Street to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of the Bill No.’s 284 and 301 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 284/301 third reading, Passed 10-3. Motion's own text reads 'Third Reading and Enactment' — 'Gave third reading and enacted' is licensed by the source text, correct."
+  },
+  {
+    "id": "9784e360c6f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Added Bill 304-306 first reading, Passed 12-1, matches enacted-bylaw list (Wellington Gateway property acquisitions). issue=none correct — not a housing/rezoning matter."
+  },
+  {
+    "id": "2a6d53daa571",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 304-306 second reading, Passed 12-1. Consistent with first reading."
+  },
+  {
+    "id": "2f503b430c04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws authorizing property acquisitions for the Wellington Gateway Project at 19 Raywood Avenue, the property north of Front Street on the east side of Wellington Road, and 1 Kennon Place.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No.’s 304 to 306, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 304-306 third reading, Passed 12-1, motion text says 'Third Reading and Enactment' — enact language licensed."
+  },
+  {
+    "id": "670a9121d3ca",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Added Bill 310 first reading, Passed 11-2, matches enacted-bylaw list (689 Oxford St W rezoning). whatAYeaDid's density/unit figures verified against item 8.1.14's substantive clause text (17/18/21-storey towers, 396 u/ha, 490 units). Correct."
+  },
+  {
+    "id": "687f5f8fb2e5",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 310 second reading, Passed 11-2. Consistent."
+  },
+  {
+    "id": "579860aaeb2f",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 689 Oxford Street West to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Added Bill No. 310, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 310 third reading, Passed 11-2, motion text says 'Third Reading and Enactment' — enact language licensed."
+  },
+  {
+    "id": "fc1a6776eace",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 13, clause 3.5 to add Council's stated reasons for approving the 84-86 St. George Street and 175-197 Ann Street application, citing consistency with the Provincial Policy Statement, the London Plan, and heritage mitigation measures.",
+    "confidence": "high",
+    "quote": "That Item 13, clause 3.5, BE AMENDED to include the following at the end of the clause:",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against item 8.1.13 (2022-07-05 Council), Passed 11-2. Quote is the amendment's own operative sentence; whatAYeaDid accurately describes the added justificatory reasons text only (heritage mitigation, PPS/London Plan consistency) — does not itself grant/deny density, so axis/polarity null is correct (this is a reasons-preamble addition, not a substantive density change)."
+  },
+  {
+    "id": "d370f61dcb2a",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, introducing by-laws to change the Specific Area Policy to permit a maximum building height of 23 storeys and to rezone 84-86 St. George Street and 175-197 Ann Street from a Residential R9 zone to a holding Residential R10/Convenience Commercial Special Provision Bonus zone.",
+    "confidence": "high",
+    "quote": "That Item 13, clause 3.5, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed 'Item 13, clause 3.5, as amended, BE APPROVED', Passed 11-2. Cross-checked against the [POST] full amended clause text reproduced in the source (23-storey cap, R9→R10/CC4 Bonus rezoning) — whatAYeaDid matches; wrapper_preamble correctly classifies the substantive act per convention."
+  },
+  {
+    "id": "b1226b64400a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 689 Oxford Street West application back to the Civic Administration to work with the developer on improving the transition from high-density towers to the abutting low-density residential neighbourhood, including shadowing and traffic management at Wonderland and Beaverbrook.",
+    "confidence": "high",
+    "quote": "That, the application by 2399731 Ontario Ltd, c/o Westdell Development Corporation BE REFERRED back to the Civic Administration to work with the developer to improve the proposed transition from high density towers to the existing low density abutting residential neighbourhoods with specific attention to addressing shadowing and traffic management at Wonderland and Beaverbrook;",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.1.14 first motion, Failed 4-9. Pure 'BE REFERRED' with no AFFIRM verb — deferOnly per direction-rules, axis/polarity null correct; hedged 'Would have referred...' correct for a failed motion."
+  },
+  {
+    "id": "f2d8c8172ef0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 689 Oxford Street West from Highway Service/Restricted Service Commercial to a holding Residential R9 Special Provision Bonus zone permitting three apartment towers of 17, 18, and 21 storeys (490 units total), an increased density of up to 396 units per hectare, including 30 affordable housing units.",
+    "confidence": "high",
+    "quote": "The Bonus Zone shall be implemented through one or more agreements to facilitate the development of three apartment buildings as follows: a 17-storey building of 146 units; an 18-storey building of 160 units; and a 21-storey building of 184 units. The development is an increased density of up to 396 units per hectare (490 units total).",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.1.14 second motion, Passed 11-2. Quote is an exact verbatim sentence from the substantive clause (17/18/21-storey towers, 396 u/ha, 490 units, 30 affordable units) — density/expansive correct, matches source precisely."
+  },
+  {
+    "id": "151c1e7bbd45",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended clause 2.4 to direct the Civic Administration to develop and bring forward a business case for a RentSafe London program, modelled on RentSafeTO enforcement data, for consideration during the next multi-year budget.",
+    "confidence": "high",
+    "quote": "That clause 2.4, BE AMENDED, by adding the following new part b):",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.2.6 amendment, Failed 3-10. Hedged correctly. Same informational-ask-not-budget reasoning as 6ba3539df326 (RentSafe business-case ask, no levy figure) — issue=none is a deliberate, defensible avoidance of overstating a budget position from a report-back ask, not an error."
+  },
+  {
+    "id": "1ac24a3ea475",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the \"RentSafeTO\" Program and Complaint Process Improvements, along with a communication and a delegation on the matter, with no further action.",
+    "confidence": "medium",
+    "quote": "Motion to approve clause 2.4.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.2.6 third motion ('Motion to approve clause 2.4.'), Passed 10-3 — since the amendment failed, clause 2.4 reverts to its original receive-only text, which whatAYeaDid correctly reflects. issue=none/informational_ask correct."
+  },
+  {
+    "id": "cbdb3c616a34",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted offers to purchase three properties for the Wellington Gateway Project road improvements — 19 Raywood Avenue for $571,500, the property north of Front Street on the east side of Wellington Road for $150,000, and 1 Kennon Place for $525,000 — and approved financing for each acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Tatiana Natasha Tielemans and Alexandra Coros (the “Vendor”), to sell the subject property to the City, for the sum of $571,500.00 BE ACCEPTED, subject to the terms and conditions as set out in the agreement attached as Appendix “C”; and,",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 9.1 (10th Report of Council in Closed Session), second motion block, Passed 12-1, matches the three Wellington Gateway property acquisitions ($571,500/$150,000/$525,000) and financing approvals verbatim. issue=none correct (not housing; a road-project land purchase)."
+  },
+  {
+    "id": "b05193c107c2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 2022 as \"230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone,\" based on the #1792Project's application.",
+    "confidence": "high",
+    "quote": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed CSC 2022-07-25 item 4.3, Passed 4-2, quote verbatim. Proclamation — issue=none correct (not a tracked issue)."
+  },
+  {
+    "id": "ab7af74d62eb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 1067-1071 Wellington Road application back to the Civic Administration and the applicant for further consideration of the 1,050-square-metre floor plate condition and a larger mix of unit sizes among the sixty-five affordable units, with a report back at the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 1050 square metre floor plate condition as recommended by the applicant and to direct Municipal Housing to have a further discussion with the applicant with respect to a larger mix of unit sizes in terms of affordable units and  to further negotiate the sixty-five affordable units, specifically to increase the ratio of 2 and 3 bedroom units that would be available and to report back at a public participation meeting to be held at the August 22, 2022 Planning and Environment Committee meeting; and,",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed PEC 2022-07-25 item 3.10, Passed 4-2, quote verbatim. Pure referral (BE REFERRED, no AFFIRM verb) — deferOnly, axis/polarity null correct."
+  },
+  {
+    "id": "a4a86e882114",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law to remove minimum parking requirements in the Downtown, Transit Village, Rapid Transit Corridor, and Main Street Place Types, reduce minimum parking requirements elsewhere in the city, and modify other parking regulations.",
+    "confidence": "medium",
+    "quote": "b)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix A, BE INTRODUCED at the Municipal Council meeting to be held on August 2, 2022, TO AMEND Zoning Bylaw No. Z.-1, Section 4.19 (in conformity with the Official Plan, as amended above) to remove minimum parking requirements in the Downtown Transit Village, Rapid Transit Corridor, and Main Street Place Types; reduce minimum parking requirements in other parts of the City; and modify other regulations including bicycle and accessible parking requirements;",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed PEC 2022-07-25 item 3.6 (Parking Standards Review), Passed 3-2, quote (clause b) verbatim. issue=housing is licensed by the OZ-9520 structural code pattern plus an 'official plan' body-text hit (out-scoring transit/downtown's single 'transit'/'downtown' hits) per issue-rules.ts; axis=application-approval/expansive is the correct generic-fallback read (BE INTRODUCED, not denied) since no density/use-permission/affordable-funding axis phrasing appears. Correct."
+  },
+  {
+    "id": "943025bcbc3c",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the Civic Administration to work with the London Transit Commission to develop a joint application to the federal-provincial ICIP Public Transit Stream for a new LTC facility on Highbury Avenue to accommodate transit service growth and convert the LTC fleet to zero-emission buses.",
+    "confidence": "medium",
+    "quote": "That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to work with London Transit Commission (LTC) staff to develop a joint application to the Investing in Canada Infrastructure Program Public Transit Stream (ICIP-PTS) for a new LTC facility on Highbury Avenue to accommodate transit service growth and the conversion of the LTC fleet to zero-emission buses",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed SPPC 2022-07-27 item 2.2, Passed 14-1, quote verbatim. transit-service-specific axis regex does not literally fire (no 'increase ... transit service' or 'transit facility' bigram), so generic application-approval/expansive fallback is the correct read; issue=transit correct (LTC facility, transit service growth, zero-emission fleet)."
+  },
+  {
+    "id": "9e7bd14431c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved London Community Recovery Network Business Cases #1 (Green Economic Stimulus building retrofits), #2 (Belong: Inclusive Arts Experiences for Children and Youth), and #5 (London Innovation Challenge) for recovery funding, received Business Cases A through F, and authorized the Mayor and City Clerk to execute related contracts.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases: a) the LCRN Business Cases: A through F, included in the above-noted staff report, BE RECEIVED; b) the following funding requests BE APPROVED: i) Business Case #1: Green Economic Stimulus: Building Retrofits for Local Residents and Businesses;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed SPPC 2022-07-27 item 4.1, second motion block, Passed 14-1, quote verbatim — matches Business Cases #1/#2/#5 only (not #3/#4/#6, which had separate votes). issue=none correct: 'Business Cases' (plural) does not trigger the budget rule's singular 'business case' keyword, and no other issue keyword hits."
+  },
+  {
+    "id": "6a116821cad8",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved London Community Recovery Network Business Case #4, funding library reading-garden access from Dundas Place Flex Street.",
+    "confidence": "medium",
+    "quote": "iv) Business Case # 4: London Public Library Reading Garden Access from Dundas Place Flex Street;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed SPPC 2022-07-27 item 4.1, fourth motion block (Business Case #4 only), Passed 13-1, quote verbatim. issue=downtown correctly triggered by the 'Dundas Place' keyword hit — the one LCRN case among six that names it, consistent with the classifier's stated exception."
+  },
+  {
+    "id": "5b02abbd7ca7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed 11th Council 2022-08-02 item 13, Bill 318 first reading, Passed 12-2; Bill 318 confirmed via the enacted-bylaw list as the Official Plan amendment for the Parking Standards Review. Correct."
+  },
+  {
+    "id": "53bddcc7a553",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Second Reading of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 318 second reading, Passed 12-2. Consistent."
+  },
+  {
+    "id": "b47a92f37e7c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law amending the Official Plan relating to the Parking Standards Review, which removes and reduces minimum parking requirements citywide.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of the Bill No. 318, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 318 third reading, Passed 12-2, motion text says 'Third Reading and Enactment' — enact language licensed."
+  },
+  {
+    "id": "134cad82f94c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back, ahead of the 2024-2027 multi-year budget process, on extending water services to parks including dog parks, and received communications and a delegation on installing water for dogs at Pottersburg Dog Park.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back, in advance of the 2024-2027 multi year budget process, with respect to extending water services to parks, including dog parks in the City of London;",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.1.11, Passed 12-2, quote verbatim (clause a). informational_ask/issue=none correct (report-back ask, no decision on service extension itself)."
+  },
+  {
+    "id": "3d937c9d1618",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 4.5 to direct staff to include a business case in the 2023 annual budget deliberations for expanding the Neighbourhood Decision Making program by doubling its tax-levy funding.",
+    "confidence": "medium",
+    "quote": "b)     that staff BE DIRECTED to include in the 2023 annual budget deliberations, a business case for expanding the neighbourhood decision making program, by doubling the tax levy funding.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.1.13 amendment, Passed 8-6, quote verbatim. 'Doubling the tax levy funding' names no dollar figure for the base NDM allocation — axis/polarity null is the correct application of the no-derivable-dollar-line convention, distinguishing this from the RentSafe informational-ask cases (this one is genuinely levy-adjacent, just undollarized) — issue=budget is still correctly retained here (unlike RentSafe) since the clause names 'tax levy funding' directly, not just a future business-case ask."
+  },
+  {
+    "id": "32e4b8ace214",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, receiving Councillor van Holst's Neighbourhood Decision Making Expansion Business Case communication and directing staff to include a business case in the 2023 annual budget deliberations for expanding the program by doubling its tax-levy funding.",
+    "confidence": "medium",
+    "quote": "That clause 4.5 as amended, BE APPROVED",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed 'clause 4.5 as amended, BE APPROVED', Passed 11-3, quote verbatim. Same no-dollar-line reasoning as 3d937c9d1618 — null axis/polarity correct; wrapper_preamble correctly classifies the substantive (undollarized) act."
+  },
+  {
+    "id": "c0999f0eeebb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 2022 as \"230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone,\" based on the #1792Project's application.",
+    "confidence": "high",
+    "quote": "That based on the application dated July 4, 2022 from #1792Project, the month of September 2022 BE PROCLAIMED as 230th Anniversary: Black Loyalist Exodus: 15 Ships to Sierra Leone.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.3.14, Passed 12-2, quote verbatim, matches b05193c107c2's proclamation text. issue=none correct."
+  },
+  {
+    "id": "8cae3e2d9351",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law to remove minimum parking requirements in the Downtown, Transit Village, Rapid Transit Corridor, and Main Street Place Types, reduce minimum parking requirements elsewhere in the city, and modify other parking regulations.",
+    "confidence": "high",
+    "quote": "b)    the proposed by-law appended to the staff report dated July 25, 2022 as Appendix A, BE INTRODUCED at the Municipal Council meeting to be held on August 2, 2022, TO AMEND Zoning Bylaw No. Z.-1, Section 4.19 (in conformity with the Official Plan, as amended above) to remove minimum parking requirements in the Downtown Transit Village, Rapid Transit Corridor, and Main Street Place Types; reduce minimum parking requirements in other parts of the City; and modify other regulations including bicycle and accessible parking requirements;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.5.14 (duplicate of the PEC-stage a4a86e882114 clause at Council), Passed 12-2, quote verbatim (clause b). Same housing/application-approval/expansive reasoning as a4a86e882114 — correct and consistent between stages."
+  },
+  {
+    "id": "483af11c84bf",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 1067-1071 Wellington Road application back to the Civic Administration and the applicant for further consideration of the floor plate condition and a larger mix of unit sizes among the sixty-five affordable units, with a report back at the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "a)  the application BE REFERRED back to allow the Civic Administration and the Applicant give further consideration to  the 1050 square metre floor plate condition as recommended by the applicant and to direct Municipal Housing to have a further discussion with the applicant with respect to a larger mix of unit sizes in terms of affordable units and  to further negotiate the sixty-five affordable units, specifically to increase the ratio of 2 and 3 bedroom units that would be available and to report back at a public participation meeting to be held at the August 22, 2022 Planning and Environment Committee meeting; and,",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.5.18 first motion, Failed 2-12. Pure referral, hedged 'Would have referred...' correctly; deferOnly, axis/polarity null correct."
+  },
+  {
+    "id": "f98b6978e747",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred Councillors Peloza and Lewis's motion and associated by-laws for 1067, 1069 and 1071 Wellington Road — introducing by-laws for a five-tower, 1,272-unit development up to 27 storeys — back to the Civic Administration for review, with the matter to return to the August 22, 2022 Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That the motion of Councillors E. Peloza and S. Lewis, and the associated by-laws, related to the applications for the properties located at 1067, 1069 and 1071 Wellington Road (OZ-6263/ Z-9264), BE REFERRED back to the Civic Administration in order to review and that this matter may be brought forward to the August 22, 2022 Planning and Environment Committee meeting.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.5.18 third motion (after a recess), Passed 12-2, quote verbatim. This refers back Peloza/Lewis's own substantive motion (a 3-building/5-tower/1,272-unit/27-storey proposal, whose own vote result is blank in the source — it was never voted on directly, only referred) — whatAYeaDid's tower/unit/storey figures are drawn directly from that un-voted motion's own text purely as descriptive context for what was referred, not asserted as an approved outcome; axis/polarity correctly left null since the actual decision here is a referral (deferOnly)."
+  },
+  {
+    "id": "e37a3aec0b10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting for the 21-41 Meadowlily Road North and 20 Norlan Avenue rezoning application.",
+    "confidence": "high",
+    "quote": "Motion to close the public participation meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed PEC 2022-08-22 item 3.10, 'close the public participation meeting' sub-motion, Passed 4-1 (distinct from the item's unanimous 5-0 substantive rezoning vote, which is not part of this batch). Procedural, issue=none correct."
+  },
+  {
+    "id": "45b364f4c60a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reaffirmed Council's intention to designate the built resources at 183 and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act, received York Developments' notice of objection, and directed that by-laws designating each property be introduced at the September 6, 2022 Council meeting.",
+    "confidence": "high",
+    "quote": "the Municipal Council's intention to designate the built resources at municipal addresses 183 Ann Street and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act as set out in Resolution (2022-D09/R01) (4.2/9/PEC) on May 4, 2022 BE REAFFIRMED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed PEC 2022-08-22 item 4.1, Passed 3-2, quote verbatim (clause b, reaffirmation). whatAYeaDid accurately summarizes clauses a-d. Heritage designation is not a tracked issue per convention — issue=none correct."
+  },
+  {
+    "id": "304adbb9f877",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that revised by-laws for Century Centre Developments Inc.'s application at 1067, 1069 and 1071 Wellington Road be introduced at the September 6, 2022 Council meeting, and received the accompanying staff report for information.",
+    "confidence": "low",
+    "quote": "a)  the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; and,",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed PEC 2022-08-22 item 4.2, Passed 3-2, quote verbatim (clause a). Text says only 'the proposed, attached, by-laws BE INTRODUCED' with no restated density/unit figure and no 'revised' language in this clause itself — axis/polarity null and confidence=low are correctly conservative given the prior Aug 2 referral for further negotiation of unit mix left the final configuration unconfirmed in this text."
+  },
+  {
+    "id": "f41b1d0f37f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Denied the request to transfer the adult entertainment body-rub parlour license from 802 Exeter Road to 232 Dundas Street.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) of the clause.",
+    "flags": [
+      "relocation"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed CPSC 2022-08-23 item 3.2, 'approve part b) of the clause', Passed 4-1. Correctly denial-flip-checked: part b)'s own text is 'the request...BE DENIED', so a yea here is accurately read as denying the transfer, not approving relocation. relocation flag and issue=none (not a tracked issue) correct."
+  },
+  {
+    "id": "1f5f10761f4c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed 12th Council 2022-09-06 item 13, Bill 342/354 first reading, Passed 11-4; Bills confirmed via enacted-bylaw list as the Official Plan/Zoning amendments for 1067-1071 Wellington Rd. Quote is bare 'BE APPROVED' wrapper with no restated density figure — axis/polarity null and confidence=low correctly avoid asserting unconfirmed final density numbers for a previously-referred, revised application."
+  },
+  {
+    "id": "987e728b475b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Second Reading of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 342/354 second reading, Passed 11-4. Consistent, same conservative null treatment correct."
+  },
+  {
+    "id": "bf8474ffdbbb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws amending the Official Plan and rezoning 1067, 1069 and 1071 Wellington Road.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of the Bill No.’s 342 and 354, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Bill 342/354 third reading, Passed 11-4, motion text says 'Third Reading and Enactment' — enact language licensed; null axis/polarity still correctly conservative."
+  },
+  {
+    "id": "3231b79f2dc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reaffirmed Council's intention to designate the built resources at 183 and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act, received York Developments' notice of objection, and directed that by-laws designating each property be introduced at the September 6, 2022 Council meeting.",
+    "confidence": "high",
+    "quote": "the Municipal Council’s intention to designate the built resources at municipal addresses 183 Ann Street and 197 Ann Street under Part IV, Section 29 of the Ontario Heritage Act as set out in Resolution (2022-D09/R01) (4.2/9/PEC) on May 4, 2022 BE REAFFIRMED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.4.16, Passed 13-2, quote verbatim, matches 45b364f4c60a's PEC-stage text exactly. issue=none correct."
+  },
+  {
+    "id": "bd86cf984d36",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that by-laws for Century Centre Developments Inc.'s application at 1067, 1069 and 1071 Wellington Road be introduced at the September 6, 2022 Council meeting, and received the accompanying staff report for information.",
+    "confidence": "low",
+    "quote": "a)    the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; and, b)    the staff report dated August 22, 2022 entitled \"Century Centre Developments Inc. - 1067, 1069 and 1071 Wellington Road\" BE RECEIVED for information;",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed item 8.4.17, Passed 10-5, quote verbatim, matches 304adbb9f877's PEC-stage text. Same conservative null-axis reasoning correct."
+  }
+]

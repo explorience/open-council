@@ -84,6 +84,66 @@ Both are accurate under the same "true regardless of which vote/context it
 renders into" test this check enforces; they're a distinct wording
 convention, not a stance-verb defect, so this guard has no rule for them.
 
+GATE ROUND 9 ITEM B (mid-sentence COORDINATED stance-verb predicate): every
+case above is about the OPENING word of whatAYeaDid. A stance verb can also
+appear as a SECOND predicate of the same subject, coordinated onto a first,
+already-correct action-voice predicate -- "Approved introducing a by-law
+..., and supported draft approval of ..." (960505d7bb80) is exactly as much
+a personal-agreement claim as an opening "Supported draft approval of ..."
+would be; it just isn't the first word, so the round-7/8 anchor-at-start
+check waved it through.
+
+DETECTION RULE for the mid-sentence class (the whole rule, not a summary):
+a stance verb is flagged when it is BOTH --
+
+  1. COORDINATOR-PRECEDED: the verb is the very next word after one of
+     three literal boundary tokens -- "and " / ", " / "; " (case-
+     insensitive, any run of whitespace after the token) -- immediately
+     to its left. This is what distinguishes a genuine second PREDICATE
+     ("..., and supported draft approval of a 30-lot subdivision") from
+     every other way these three verbs occur mid-string in the corpus: as
+     an ADJECTIVE/NOUN-MODIFIER preceded by an article ("the endorsed
+     safety programs"), a bare noun ("Development Charges supported"), a
+     negation ("were not supported"), a relative pronoun ("which endorsed
+     it"), or as half of a hyphenated compound ("supported-housing",
+     "tax-supported") -- a full corpus scan (every whatAYeaDid, post
+     corrections.json merge, every mid-string occurrence of the three
+     verbs) turns up exactly zero of those incidental shapes immediately
+     preceded by "and "/", "/"; ", so this boundary alone already
+     separates every current genuine hit from every current incidental
+     one. Not "e.g." -- this is the full, literal set, same enumerated-
+     list convention as STANCE_VERBS/HEDGE_PREFIXES above; extending it to
+     a genuinely new observed coordinator is a one-line change with a
+     self-test, per this repo's convention (see 35d6a5473517's
+     corrections.json entry for one such case -- "plus endorsed ..." --
+     resolved by hand rather than added here, since it was a single
+     instance rather than an established corpus pattern).
+
+  2. TRANSITIVE-OBJECT FOLLOWS (the POS-ish part, defense in depth beyond
+     #1 -- not load-bearing against any hit in today's corpus, since #1
+     alone already separates today's genuine/incidental rows, but kept as
+     an independent, principled check rather than relying solely on the
+     coordinator boundary holding forever): a stance verb used as a real
+     predicate is transitive and takes a direct-object noun phrase --
+     "supported/endorsed/backed X". So it is NOT flagged when nothing that
+     could be an object follows:
+       (a) the very next character is a hyphen with no space ("and
+           supported-housing spaces") -- a hyphenated compound modifier is
+           one lexical unit, not verb+object;
+       (b) the following text, after leading whitespace, is empty or
+           starts with a closing/terminal punctuation mark (. , ; )) --
+           "..., and Development Charges supported." has nothing to its
+           right to be an object, so "supported" here is a POSTPOSED
+           ADJECTIVE modifying "Development Charges", not a predicate.
+     Neither shape occurs in the corpus immediately after a coordinator
+     today, but a future row could combine both signals in a way #1 alone
+     wouldn't safely rule out, which is why this check exists as a second,
+     independent gate rather than being folded away.
+
+This is a DIFFERENT defect than the KNOWN ACCURATE VOICE VARIANTS section
+above ("In final vote, approved ...", "A yea ..."): neither of those opens
+OR coordinates a stance verb at all.
+
 Usage: python3 scripts/election/verify-no-stance-verb-whataeadid.py
        python3 scripts/election/verify-no-stance-verb-whataeadid.py --self-test
 """
@@ -98,6 +158,44 @@ STANCE_VERBS = ["Supported", "Backed", "Endorsed"]
 STANCE_VERB_RE = re.compile(
     r"^(" + "|".join(re.escape(v) for v in STANCE_VERBS) + r")\b", re.IGNORECASE
 )
+
+# Round-9 gate item B: coordinated mid-sentence stance-verb predicate --
+# the verb immediately preceded by one of these three literal boundary
+# tokens is a candidate second predicate (see module docstring for the
+# full rule and why this list is complete, not illustrative).
+COORD_MARKERS = ["and ", ", ", "; "]
+MID_COORD_STANCE_RE = re.compile(
+    r"(?:\band\s+|,\s+|;\s+)(" + "|".join(re.escape(v) for v in STANCE_VERBS) + r")\b",
+    re.IGNORECASE,
+)
+# Round-9 gate item B: following-token discriminator (rule #2 in the module
+# docstring) -- a genuine transitive predicate must be followed by
+# something that can be its object; a hyphenated compound or a
+# postposed/no-object tail is not a predicate use.
+_NO_OBJECT_LEADING_CHARS = set(".,;)")
+
+
+def _is_transitive_predicate_use(text: str, match: re.Match) -> bool:
+    following = text[match.end():]
+    if following.startswith("-"):
+        return False  # hyphenated compound modifier, e.g. "supported-housing"
+    stripped = following.lstrip()
+    if not stripped or stripped[0] in _NO_OBJECT_LEADING_CHARS:
+        return False  # nothing that could be a direct object follows
+    return True
+
+
+def find_mid_sentence_violations(entries: dict) -> list[tuple[str, str, str]]:
+    violations = []
+    for mid, e in entries.items():
+        text = e.get("whatAYeaDid", "") or ""
+        if not text:
+            continue
+        for m in MID_COORD_STANCE_RE.finditer(text):
+            if _is_transitive_predicate_use(text, m):
+                violations.append((mid, text, m.group(0)))
+                break  # one flagged hit per row is enough
+    return violations
 
 # Round-8 gate item B: corpus-wide hedge prefixes that must be stripped from
 # the front of whatAYeaDid BEFORE testing for a stance verb, so "Would have
@@ -116,6 +214,9 @@ def strip_hedge(text: str) -> str:
 
 
 def find_violations(entries: dict) -> list[tuple[str, str]]:
+    """Opening-position stance-verb hits only (round-7/8 rule). Kept
+    separate from the mid-sentence rule (find_mid_sentence_violations)
+    because the self-test below needs to prove each rule independently."""
     violations = []
     for mid, e in entries.items():
         text = e.get("whatAYeaDid", "") or ""
@@ -124,6 +225,14 @@ def find_violations(entries: dict) -> list[tuple[str, str]]:
         if STANCE_VERB_RE.match(strip_hedge(text)):
             violations.append((mid, text))
     return violations
+
+
+def find_all_violations(entries: dict) -> list[tuple[str, str, str]]:
+    """Union of both rules: opening-position (round-7/8) and mid-sentence
+    coordinated-predicate (round-9 item B). Each tuple is (id, text, kind)."""
+    combined = [(mid, text, "opening") for mid, text in find_violations(entries)]
+    combined += [(mid, text, "mid-sentence") for mid, text, _verb in find_mid_sentence_violations(entries)]
+    return combined
 
 
 def run_check(corrections_override=None) -> tuple[int, list[str]]:
@@ -136,16 +245,16 @@ def run_check(corrections_override=None) -> tuple[int, list[str]]:
     )
     lc.apply_corrections(entries, motions, corrections)
 
-    violations = find_violations(entries)
+    violations = find_all_violations(entries)
 
     msgs = [
         f"Scanned {len(entries)} verified entries (post corrections.json merge).",
-        f"whatAYeaDid rows opening with a stance verb ({', '.join(STANCE_VERBS)}): {len(violations)}",
+        f"whatAYeaDid rows with a stance verb ({', '.join(STANCE_VERBS)}), opening or mid-sentence coordinated: {len(violations)}",
     ]
     if violations:
-        msgs.append("\nFAILED — stance-verb-prefixed whatAYeaDid rows found:")
-        for mid, text in sorted(violations):
-            msgs.append(f" - {mid}: {text}")
+        msgs.append("\nFAILED — stance-verb whatAYeaDid rows found:")
+        for mid, text, kind in sorted(violations):
+            msgs.append(f" - {mid} [{kind}]: {text}")
         return 1, msgs
     msgs.append("\nALL CHECKS PASSED")
     return 0, msgs
@@ -173,6 +282,25 @@ _SELF_TEST_REVERTS = {
     ("06f690a36f3c", "whatAYeaDid"): "Would have endorsed a 25-metre setback requirement for the Community Encampment Response Plan from any private residential property line with a habitable dwelling, per the Building Code.",
     ("cb38db322931", "whatAYeaDid"): "Would have backed the Whole of Community System Response Hubs Implementation Plan to a future special meeting that would include a public participation meeting, rather than deciding it that day.",
 }
+
+# Round-9 gate item B: mid-sentence coordinated-predicate negative tests,
+# BOTH directions --
+#   (1) revert each of the two real corrections.json fixes for this defect
+#       (960505d7bb80, f6361a61d337) back to its genuine pre-fix "... and
+#       supported/endorsed ..." text -- this IS "plant 'and supported X'",
+#       using the corpus's own real defect text rather than a synthetic
+#       string, and each must independently produce exit 1;
+#   (2) separately (not a revert -- these ids were never wrong) confirm the
+#       three ids matching the brief's own named incidental-usage examples
+#       stay UNFLAGGED at their real, current (post-corrections) text:
+#       5df56cf1e54e ("... 10 supported-housing spaces ..."), b57d09343f08
+#       ("... the endorsed safety and security programs ..."),
+#       7c2d6c2f7bc8 ("... Development Charges supported.").
+_SELF_TEST_MID_SENTENCE_REVERTS = {
+    ("960505d7bb80", "whatAYeaDid"): "Approved introducing a by-law to rezone 355 Marconi Boulevard from Restricted Service Commercial to Holding Residential R1, and supported draft approval of a 30-lot single-detached residential subdivision on the property.",
+    ("f6361a61d337", "whatAYeaDid"): "Approved Official Plan and zoning amendments for 323 Oxford Street West and 92/825 Proudfoot Lane permitting building heights up to 18 storeys, and endorsed a draft plan of subdivision with medium- and high-density residential blocks.",
+}
+_SELF_TEST_NOUN_PHRASE_IDS_STAY_CLEAN = ["5df56cf1e54e", "b57d09343f08", "7c2d6c2f7bc8"]
 
 
 def _revert_one(base: list[dict], key: tuple[str, str], revert_text: str) -> list[dict]:
@@ -214,6 +342,36 @@ def self_test() -> int:
             print(f"SELF-TEST FAILED: expected {key[0]} flagged, got {flagged_ids}")
             return 1
         print(f" - {key}: reverted to {revert_text!r} -> exit 1 (confirmed flagged)")
+
+    print(f"\n=== self-test: {len(_SELF_TEST_MID_SENTENCE_REVERTS)} mid-sentence reverts (round-9 item B), each applied alone, each must exit 1 ===")
+    for key, revert_text in _SELF_TEST_MID_SENTENCE_REVERTS.items():
+        mutated = _revert_one(base, key, revert_text)
+        code, msgs = run_check(corrections_override=mutated)
+        if code != 1:
+            print("\n".join(msgs))
+            print(f"SELF-TEST FAILED: reverting {key} to {revert_text!r} did not produce exit 1")
+            return 1
+        entries = lc.load_verified_entries()
+        lc.apply_corrections(entries, lc.load_all_motions(), mutated)
+        flagged_ids = {mid for mid, _text, _verb in find_mid_sentence_violations(entries)}
+        if key[0] not in flagged_ids:
+            print(f"SELF-TEST FAILED: expected {key[0]} flagged by the mid-sentence rule, got {flagged_ids}")
+            return 1
+        print(f" - {key}: reverted to {revert_text!r} -> exit 1 (confirmed flagged, mid-sentence rule)")
+
+    print(f"\n=== self-test: {len(_SELF_TEST_NOUN_PHRASE_IDS_STAY_CLEAN)} known incidental noun-phrase ids (real, current text) must stay UNFLAGGED ===")
+    entries_now = lc.load_verified_entries()
+    lc.apply_corrections(entries_now, lc.load_all_motions(), lc.load_corrections())
+    mid_flagged_now = {mid for mid, _text, _verb in find_mid_sentence_violations(entries_now)}
+    for eid in _SELF_TEST_NOUN_PHRASE_IDS_STAY_CLEAN:
+        if eid not in entries_now:
+            print(f"SELF-TEST FAILED: {eid} not found in verified entries -- can't confirm it stays clean")
+            return 1
+        if eid in mid_flagged_now:
+            print(f"SELF-TEST FAILED: {eid} ({entries_now[eid]['whatAYeaDid']!r}) was incorrectly flagged by the mid-sentence rule")
+            return 1
+        print(f" - {eid}: {entries_now[eid]['whatAYeaDid']!r} -> correctly NOT flagged")
+
     print("\n=== self-test: restore (no mutations), expect exit 0 ===")
     code2, msgs2 = run_check()
     print("\n".join(msgs2))
