@@ -226,35 +226,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:44 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Consent Item 2.4 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.1. Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project: a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consult...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
 ---
 
 ## Full Transcript
@@ -383,3 +354,33 @@ Barbone first just to give us a little bit of a preamble to this one thank you M
 Councillor Hopkins yeah i appreciate this feedback uh so we're definitely not there so um again i want to thank the mayor for bringing this to our attention and i will be supporting a and uh seeing what comes back to us next year who knows thank you thank you looking for other speakers okay seeing none this is moved and seconded to receive uh well the vote closing the vote motion carries six to zero thank you that takes us to our confidential items we have two items to deal with in closed session 6.1 land acquisition and the reasons are in the agenda we have 6.2 labor relations as well cited in our agenda all looked for a mover and a seconder of Councillor Hopkins seconded by Councillor van Mirbergen and look to open the vote. Councillor van Mirbergen closing the vote motion carries six to zero recording in progress thank you i'll ask uh Councillor frank to report out from in camera please thank you and i'm pleased to share that progress has been made for the items for which we went in camera for thank you and with that item 7 adjournment i'll look for a motion to adjourn Councillor van Mirberg and Councillor Hopkins all in favor by hand motion carries thanks everyone
 
 </details>
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Consent Item 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.1. Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project: a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consult...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
