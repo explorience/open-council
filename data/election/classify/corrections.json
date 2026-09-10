@@ -6590,5 +6590,185 @@
   "now": "Approved introducing a by-law rezoning 36 Wethered Street from Residential R1 to a Holding Residential R5 Special Provision zone, which the motion states would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and compatible with the surrounding neighbourhood.",
   "reason": "Gate round 6: under an explicit 'the motion states' attribution, the label used the comparative 'more intensive residential redevelopment' -- words the motion never uses -- and dropped its compatibility qualifier. Reworded to track the motion's own reasons clause ('would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood'). Axis (density) and polarity (expansive) unchanged -- grounded in the FROM R1 TO R5 rezoning clause per the round-5 correction above.",
   "quote": "would permit an appropriate form of redevelopment at an intensity that can be accommodated on the subject lands and is considered compatible with the surrounding neighbourhood"
+ },
+ {
+  "id": "99f90a492c0f",
+  "field": "whatAYeaDid",
+  "was": "Gave first reading to the by-law repealing the former Tree Conservation By-law and enacting a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "now": "Gave first reading to the by-law repealing the former Tree Conservation By-law and establishing a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D -- 'enacting' overstates what a first-reading roll call did (motionText confirms 'Approve Introduction and First Reading of Bill No. 313.'); nothing is enacted before third reading. Corpus convention (a330f50e03fc, a similar repeal-and-replace by-law) describes new by-law content without the word 'enact' at first/second reading, reserving it for the third-reading sibling (0caff7f23378, same Bill 313, correctly says 'Gave third reading and enacted...')."
+ },
+ {
+  "id": "b89ea4931bb7",
+  "field": "whatAYeaDid",
+  "was": "Gave second reading to the by-law repealing the former Tree Conservation By-law and enacting a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "now": "Gave second reading to the by-law repealing the former Tree Conservation By-law and establishing a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D -- same defect as 99f90a492c0f's sibling first-reading row, one stage later (motionText confirms 'Approve Second Reading of Bill No. 313.'); 'enacting' overstates what a second-reading roll call did."
+ },
+ {
+  "id": "427b075504d8",
+  "field": "whatAYeaDid",
+  "was": "Would have directed the Civic Administration to submit revised by-laws enacting 2015 tax ratios of 1.86 for multi-residential, 1.97 for commercial, and 2.1 for industrial properties, for introduction at the April 14, 2015 Council meeting.",
+  "now": "Would have directed the Civic Administration to submit revised by-laws establishing 2015 tax ratios of 1.86 for multi-residential, 1.97 for commercial, and 2.1 for industrial properties, for introduction at the April 14, 2015 Council meeting.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D -- this is a committee motion DIRECTING staff to submit revised by-laws for future introduction (motionText: 'Motion Failed', no reading at all yet), not a reading of any by-law; 'enacting' still overstates the not-yet-introduced by-laws' status. Corpus convention avoids 'enact' outside a genuine third-reading+enactment claim (zero other post-2018 non-third-reading rows use it affirmatively)."
+ },
+ {
+  "id": "c5575d2a465a",
+  "field": "motionText",
+  "was": "Motion Passed",
+  "now": "Approve Third Reading and Enactment Bill Nos.\n  37 to 54, inclusive.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D unresolved -- 2018-01-16 MINUTES SECOND MEETING, item XIII. This roll call's own motionText is the generic 'Motion Passed' result; the genuine descriptive text ('Approve Third Reading and Enactment of ...') sits on the immediately preceding sibling Motion node (no vote of its own), dropped by the extractor -- same shape as the precedent d2e0d07a90e6 motionText correction. whatAYeaDid ('Gave third reading to and enacted ...') was already correct; this fill lets the stage-derivation confirm it.",
+  "quote": "Approve Third Reading and Enactment Bill Nos.\n  37 to 54, inclusive."
+ },
+ {
+  "id": "5fda22eb51be",
+  "field": "motionText",
+  "was": "Motion Passed",
+  "now": "Approve Third Reading and Enactment of\n  Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59,\n  61, 63 and 64.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D unresolved -- 2018-01-30 MINUTES THIRD MEETING, item XIII. This roll call's own motionText is the generic 'Motion Passed' result; the genuine descriptive text ('Approve Third Reading and Enactment of ...') sits on the immediately preceding sibling Motion node (no vote of its own), dropped by the extractor -- same shape as the precedent d2e0d07a90e6 motionText correction. whatAYeaDid ('Gave third reading to and enacted ...') was already correct; this fill lets the stage-derivation confirm it.",
+  "quote": "Approve Third Reading and Enactment of\n  Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59,\n  61, 63 and 64."
+ },
+ {
+  "id": "d39b3a5d16d8",
+  "field": "motionText",
+  "was": "Motion Passed",
+  "now": "Approve Third Reading and Enactment of\n  Bill No. 59.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D unresolved -- 2018-01-30 MINUTES THIRD MEETING, item XIII. This roll call's own motionText is the generic 'Motion Passed' result; the genuine descriptive text ('Approve Third Reading and Enactment of ...') sits on the immediately preceding sibling Motion node (no vote of its own), dropped by the extractor -- same shape as the precedent d2e0d07a90e6 motionText correction. whatAYeaDid ('Gave third reading to and enacted ...') was already correct; this fill lets the stage-derivation confirm it.",
+  "quote": "Approve Third Reading and Enactment of\n  Bill No. 59."
+ },
+ {
+  "id": "0c15e2347fc5",
+  "field": "motionText",
+  "was": "Motion Passed",
+  "now": "Approve Third Reading and Enactment of\n  Bill No.’s 61, 63 and 64.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D unresolved -- 2018-01-30 MINUTES THIRD MEETING, item XIII. This roll call's own motionText is the generic 'Motion Passed' result; the genuine descriptive text ('Approve Third Reading and Enactment of ...') sits on the immediately preceding sibling Motion node (no vote of its own), dropped by the extractor -- same shape as the precedent d2e0d07a90e6 motionText correction. whatAYeaDid ('Gave third reading to and enacted ...') was already correct; this fill lets the stage-derivation confirm it.",
+  "quote": "Approve Third Reading and Enactment of\n  Bill No.’s 61, 63 and 64."
+ },
+ {
+  "id": "19a0839bc3e6",
+  "field": "motionText",
+  "was": "Motion Passed",
+  "now": "Approve Third Reading and Enactment of Bill\n  No.’s 83 to 92 and the Added Bill No’s 93 and 94.",
+  "reason": "Gate: sweep-reading-stage-labels.py class D unresolved -- 2018-02-13 MINUTES FOURTH MEETING, item XIII. This roll call's own motionText is the generic 'Motion Passed' result; the genuine descriptive text ('Approve Third Reading and Enactment of ...') sits on the immediately preceding sibling Motion node (no vote of its own), dropped by the extractor -- same shape as the precedent d2e0d07a90e6 motionText correction. whatAYeaDid ('Gave third reading to and enacted ...') was already correct; this fill lets the stage-derivation confirm it.",
+  "quote": "Approve Third Reading and Enactment of Bill\n  No.’s 83 to 92 and the Added Bill No’s 93 and 94."
+ },
+ {
+  "id": "0eb59b48a11a",
+  "field": "whatAYeaDid",
+  "was": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "now": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "0f455b260cb0",
+  "field": "whatAYeaDid",
+  "was": "Endorsed a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+  "now": "Approved a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "110c098c5989",
+  "field": "whatAYeaDid",
+  "was": "Endorsed the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+  "now": "Approved the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "14ecdbe76f3d",
+  "field": "whatAYeaDid",
+  "was": "Endorsed implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+  "now": "Approved implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "1d5a967740ff",
+  "field": "whatAYeaDid",
+  "was": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and endorsed the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+  "now": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and approved the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "1f8cb60a8fa0",
+  "field": "whatAYeaDid",
+  "was": "Referred the Cultural Heritage Screening Report for the London Bus Rapid Transit System to the Stewardship Sub-Committee for further heritage research and a report back, endorsed establishing a federal tax credit for the restoration and preservation of buildings on the Canadian Register of Historic Places, and approved the London Advisory Committee on Heritage's response letter to Community Heritage Ontario.",
+  "now": "Referred the Cultural Heritage Screening Report for the London Bus Rapid Transit System to the Stewardship Sub-Committee for further heritage research and a report back, requested the establishment of a federal tax credit for the restoration and preservation of buildings on the Canadian Register of Historic Places, and approved the London Advisory Committee on Heritage's response letter to Community Heritage Ontario.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did). This clause is itself an advocacy ask to the FEDERAL government (Council cannot itself establish a federal tax credit), so 'Approved establishing' would misstate the actor; 'Requested the establishment of' matches this corpus's own established advocacy-ask voice (see e.g. 'Requested that the Mayor call on the Provincial Government to...')."
+ },
+ {
+  "id": "286131c377d8",
+  "field": "whatAYeaDid",
+  "was": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "now": "Approved the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "787493c6fdce",
+  "field": "whatAYeaDid",
+  "was": "Endorsed in principle the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by Canadian Urban Transit Research and Innovation Consortium (CUTRIC) modelling.",
+  "now": "Approved in principle the electrification of London's Bus Rapid Transit system, based on the financial and environmental benefits shown by Canadian Urban Transit Research and Innovation Consortium (CUTRIC) modelling.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "884b295e1641",
+  "field": "whatAYeaDid",
+  "was": "Endorsed three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+  "now": "Approved three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "8d242925ddc8",
+  "field": "whatAYeaDid",
+  "was": "Endorsed the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+  "now": "Approved the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "ab66b1958f8a",
+  "field": "whatAYeaDid",
+  "was": "Endorsed the City's comments and discussion on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting, “Ontario's Approach to Climate Change Adaptation,” and submitted them to the Ministry.",
+  "now": "Approved the City's comments and discussion on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting, “Ontario's Approach to Climate Change Adaptation,” and submitted them to the Ministry.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "ebbd0a12fc37",
+  "field": "whatAYeaDid",
+  "was": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): endorsed three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; endorsed the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+  "now": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): approved three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; approved the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "f257dffa4c73",
+  "field": "whatAYeaDid",
+  "was": "Endorsed a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+  "now": "Approved a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+  "reason": "Gate: verify-no-stance-verb-whataeadid.py -- 'Endorsed' is a voter-stance verb (what a voter felt about a motion), not motion-action voice; the motion's own quote reads 'BE ENDORSED' (or 'BE ENDORSED-IN-PRINCIPLE'), which this corpus's established vocabulary renders as 'Approved' (round-7 gate item A convention: every 'Endorsed ...' row rewords to 'Adopted ...' or 'Approved ...' per what the motion's own quote showed Council actually did)."
+ },
+ {
+  "id": "eb3ead1f6afa",
+  "field": "whatAYeaDid",
+  "was": "Passed a further motion within the Bill No. 92 (Vehicle for Hire By-law) reading sequence; the motion's own operative text is not preserved in the source minutes.",
+  "now": "Passed a further procedural motion in the Bill No. 92 (Vehicle for Hire By-law) sequence; the motion's own operative text is not preserved in the source minutes.",
+  "reason": "Gate: verify-reading-voice-consistency.py -- this row's whatAYeaDid contains the word 'reading' ('...reading sequence'), putting it in-scope for the corpus's single established reading-vote voice ('Gave {stage} reading to ...'), but this row is NOT a first/second/third reading vote itself -- it's a distinct procedural motion moved during the Bill No. 92 reading sequence, whose own text is lost. Reworded to describe it as a procedural motion without the word 'reading', so it correctly falls out of scope for the reading-voice check instead of being forced into a voice that would misrepresent it as a reading vote."
+ },
+ {
+  "id": "9a4451d22cc9",
+  "field": "whatAYeaDid",
+  "was": "Passed a further motion within the Bill No. 92 (Vehicle for Hire By-law) reading sequence; the motion's own operative text is not preserved in the source minutes.",
+  "now": "Passed a further procedural motion in the Bill No. 92 (Vehicle for Hire By-law) sequence; the motion's own operative text is not preserved in the source minutes.",
+  "reason": "Gate: verify-reading-voice-consistency.py -- this row's whatAYeaDid contains the word 'reading' ('...reading sequence'), putting it in-scope for the corpus's single established reading-vote voice ('Gave {stage} reading to ...'), but this row is NOT a first/second/third reading vote itself -- it's a distinct procedural motion moved during the Bill No. 92 reading sequence, whose own text is lost. Reworded to describe it as a procedural motion without the word 'reading', so it correctly falls out of scope for the reading-voice check instead of being forced into a voice that would misrepresent it as a reading vote."
+ },
+ {
+  "id": "3133b8b3235e",
+  "field": "whatAYeaDid",
+  "was": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting the enactment of a City of London by-law to prohibit outdoor open air burning; the Committee did not itself act on the request.",
+  "now": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting a City of London by-law to prohibit outdoor open air burning; the Committee did not itself act on the request.",
+  "reason": "Gate: verify-reading-voice-consistency.py -- this row's whatAYeaDid contains a non-negated 'enactment', putting it in-scope for the established reading/enactment voice, but this row is NOT a reading or enactment vote at all -- it describes delegations ASKING the Committee/Council to enact a by-law, which the body did not itself act on. Reworded to drop 'enactment of' (the delegations' own ask, not a City action) while keeping the substance -- five delegations requested a by-law to prohibit outdoor open air burning, and neither body acted on that request."
+ },
+ {
+  "id": "d3aab8ea78c9",
+  "field": "whatAYeaDid",
+  "was": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting the enactment of a City of London by-law to prohibit outdoor open air burning; Council did not itself act on the request.",
+  "now": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting a City of London by-law to prohibit outdoor open air burning; Council did not itself act on the request.",
+  "reason": "Gate: verify-reading-voice-consistency.py -- this row's whatAYeaDid contains a non-negated 'enactment', putting it in-scope for the established reading/enactment voice, but this row is NOT a reading or enactment vote at all -- it describes delegations ASKING the Committee/Council to enact a by-law, which the body did not itself act on. Reworded to drop 'enactment of' (the delegations' own ask, not a City action) while keeping the substance -- five delegations requested a by-law to prohibit outdoor open air burning, and neither body acted on that request."
  }
 ]

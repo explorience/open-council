@@ -548,5 +548,244 @@
     "quote": "That Introduction and First Reading of Bill No. 80, BE APPROVED."
    }
   ]
+ },
+ {
+  "meetingSlug": "months/2015-01/2015-01-29 Strategic Priorities and Policy Committee",
+  "itemNumber": "2",
+  "members": [
+   [
+    "22adc2458a42",
+    "budget"
+   ],
+   [
+    "3b020e746c62",
+    "budget"
+   ],
+   [
+    "0c6fca33c872",
+    "budget"
+   ],
+   [
+    "315cfab18d40",
+    "budget"
+   ],
+   [
+    "34973459c907",
+    "budget"
+   ],
+   [
+    "9e34338784cd",
+    "climate"
+   ],
+   [
+    "2ce9b0c30e4f",
+    "budget"
+   ],
+   [
+    "8472d08a14e3",
+    "budget"
+   ],
+   [
+    "5d09f101f7c3",
+    "budget"
+   ]
+  ],
+  "reason": "2015 Corporate Operating Budget omnibus (item 2): dozens of independent budget-line roll calls under one item number. Eight members are general budget-line approvals (Convention Centre debt financing, LMIEC one-time funding, Hutton House iPads, Palace Theatre loan, Parks/Urban Forestry allocation, the Financial Management Base Budget total itself) with no distinct topical focus beyond issue=budget. 9e34338784cd is a separately-topical urban forest/climate line item -- $175,000 operating funding for the Urban Forest Strategy specifically -- correctly issue=climate, not one decision mis-filed twice.",
+  "evidence": [
+   {
+    "issue": "budget",
+    "id": "0c6fca33c872",
+    "quote": "Motion to approve one-time funding in the amount of $3,600 for Hutton House for the acquisition of iPads."
+   },
+   {
+    "issue": "climate",
+    "id": "9e34338784cd",
+    "quote": "Motion to approve an additional $175,000 for 2015 for operating costs associated with the implementation of the Urban Forest Strategy."
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2016-02/2016-02-25 Strategic Priorities and Policy Committee",
+  "itemNumber": "3",
+  "members": [
+   [
+    "84dfa68a1bb1",
+    "budget"
+   ],
+   [
+    "7edda46dcdfd",
+    "budget"
+   ],
+   [
+    "216efae26c57",
+    "budget"
+   ],
+   [
+    "de33ca49baed",
+    "budget"
+   ],
+   [
+    "f52060c44c9f",
+    "budget"
+   ],
+   [
+    "db131e5c1252",
+    "downtown"
+   ],
+   [
+    "27088664e03b",
+    "downtown"
+   ],
+   [
+    "faaef8324add",
+    "budget"
+   ],
+   [
+    "59cef0525e34",
+    "budget"
+   ],
+   [
+    "979b32728e56",
+    "budget"
+   ]
+  ],
+  "reason": "2016 Multi-Year Budget business-case omnibus (item 3): each member is a distinct Business Case funding line (Back to the River, Road Safety Strategy, Urban Forest Strategy, Regenerating Public Housing, Garbage Collection technology, etc.), all correctly issue=budget with no other distinct topical focus, EXCEPT db131e5c1252 and 27088664e03b, both Business Case #20 -- Downtown Plan (Small Scale projects) -- which is explicitly downtown-designated by its own business-case name and correctly issue=downtown.",
+  "evidence": [
+   {
+    "issue": "budget",
+    "id": "de33ca49baed",
+    "quote": "Business Case #5 – Road Safety Strategy $500,000"
+   },
+   {
+    "issue": "downtown",
+    "id": "db131e5c1252",
+    "quote": "Business Case #20 – Downtown Plan (Small Scale projects) $100,000 in 2016 only, with funding as noted in the Business Case; it being noted there will not be a levy allocation in 2017, 2018 and 2019."
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2017-05/2017-05-15 Strategic Priorities and Policy Committee",
+  "itemNumber": "10",
+  "members": [
+   [
+    "622f8c74171c",
+    "downtown"
+   ],
+   [
+    "58d37783eacb",
+    "downtown"
+   ],
+   [
+    "80d1d9d10360",
+    "transit"
+   ],
+   [
+    "a06d1726ef60",
+    "transit"
+   ],
+   [
+    "208b06aeae12",
+    "transit"
+   ],
+   [
+    "03de1b80ce6d",
+    "transit"
+   ]
+  ],
+  "reason": "2017-05 Rapid Transit Corridors omnibus (item 10, a)-j)): parts a) and b) are downtown STREET-CORRIDOR configuration decisions (the King Street/Queens Avenue couplet, the Richmond Street corridor) choosing which downtown streets the future transit corridor will run on -- correctly issue=downtown. The part-f)-scoped members are the separate BUS RAPID TRANSIT NETWORK / mode approval for each geographic corridor (a different decision: which transit alternative to build, not which downtown street to use) -- correctly issue=transit. Same downtown/transit split already established for the sibling ICIP omnibus (see 2019-03-25 SPPC#4.1 above).",
+  "evidence": [
+   {
+    "issue": "downtown",
+    "id": "622f8c74171c",
+    "quote": "the King Street/Queens Avenue couplet system BE APPROVED as the preferred downtown east-west corridors"
+   },
+   {
+    "issue": "transit",
+    "id": "208b06aeae12",
+    "quote": "Motion to Approve the portion of part f) that relates to the Richmond Corridor: north of Queens Avenue. [part f)]: the Bus Rapid Transit Network, with the above-noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2017-05/2017-05-16 MINUTES SIXTEENTH MEETING",
+  "itemNumber": "10",
+  "members": [
+   [
+    "433582b171ed",
+    "downtown"
+   ],
+   [
+    "dfc13af1288e",
+    "downtown"
+   ],
+   [
+    "d6c1c94b84a4",
+    "transit"
+   ],
+   [
+    "0c96634667ba",
+    "transit"
+   ],
+   [
+    "2ec1dbfb3cd5",
+    "transit"
+   ],
+   [
+    "bbf0bcf04998",
+    "transit"
+   ]
+  ],
+  "reason": "Council-stage twin of the 2017-05-15 SPPC#10 omnibus above (same recommendation, ratified the next day): same downtown-corridor-choice vs. BRT-mode-approval split, same reasoning.",
+  "evidence": [
+   {
+    "issue": "downtown",
+    "id": "433582b171ed",
+    "quote": "a) the King Street/Queens Avenue couplet system BE APPROVED as the preferred downtown east-west corridors"
+   },
+   {
+    "issue": "transit",
+    "id": "d6c1c94b84a4",
+    "quote": "Approve part f) of clause 10 as it relates to the Richmond Corridor: north of Queens Avenue. [part f)]: the Bus Rapid Transit Network, with the above noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)"
+   }
+  ]
+ },
+ {
+  "meetingSlug": "months/2017-12/2017-12-12 MINUTES FIRST MEETING",
+  "itemNumber": "6#6",
+  "members": [
+   [
+    "a3979e755fad",
+    "budget"
+   ],
+   [
+    "812ff98fffc3",
+    "budget"
+   ],
+   [
+    "1b4ec72fc4fc",
+    "transit"
+   ],
+   [
+    "3856232251fc",
+    "budget"
+   ],
+   [
+    "5d99011dc1f3",
+    "budget"
+   ]
+  ],
+  "reason": "2017-2019 Multi-Year Budget Operating amendments omnibus (item 6#6): four members are general Operating Budget adjustments (Councillors' compensation, Dundas Place place management, and two general Operating Budget approvals under section 291(4)(c)), correctly issue=budget. 1b4ec72fc4fc is a distinct transit-fare-policy amendment -- adding a 25%-discount senior transit-ticket pilot project and directing the implementing by-law -- correctly issue=transit, not a budget line re-filed.",
+  "evidence": [
+   {
+    "issue": "budget",
+    "id": "a3979e755fad",
+    "quote": "the following Multi-Year Budget adjustments to the Operating Budget resulting from new Council direction and cost/revenue drivers impacting the municipality BE APPROVED... B) Councillors’ Annual Compensation (Case #2): $0 Net (2018), $245,000 Net (2019)"
+   },
+   {
+    "issue": "transit",
+    "id": "1b4ec72fc4fc",
+    "quote": "clause 6a)iii) of the 20th Report of the Strategic Priorities and Policy Committee be amended by adding the following new parts B) and C): “B) the Civic Administration BE DIRECTED to include, as an additional part of the above-noted Pilot Project, provision for reduced rate (25% discount) transit tickets for seniors; and C) the City Clerk BE DIRECTED to bring forward the necessary by-law, at the January 16, 2018 meeting of the Municipal Council, to implement the addition to the Pilot Project, as detailed in B), above.”"
+   }
+  ]
  }
 ]
