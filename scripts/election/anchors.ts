@@ -1,6 +1,30 @@
 /**
  * Election Hub — evidence link anchors
  *
+ * TWO RESOLVERS LIVE HERE, and the order matters.
+ *
+ * 1. motionEvidenceAnchor (bottom of this file) — the one every hub row
+ *    now uses. It looks for the PER-MOTION anchor that
+ *    scripts/add-votes-to-pages.ts emits into the meeting page's own Votes
+ *    section, keyed on (itemNumber, rollCallOrdinal). Nothing is predicted:
+ *    the id is checked against the page on disk before it is published.
+ *    See scripts/motion-anchor.ts for the key and why it is what it is.
+ *
+ * 2. The heading-slug resolver below (motionAnchor) — the original
+ *    approach, now the FALLBACK. It re-implements Quartz's slugger offline
+ *    to guess which heading a motion belongs to. That works whenever an
+ *    item number appears exactly once, and degrades honestly (page link,
+ *    `ambiguous: true`) when it doesn't. It is still reached for anything
+ *    outside a generated Votes section — procedural motions aren't
+ *    rendered there, and pre-2018 minutes are sometimes unheaded prose.
+ *
+ * The heading-slug machinery is kept, not deleted, precisely because its
+ * failure mode is honest. What changed is that it is no longer the only
+ * option, so a motion sharing its heading with a sibling no longer has to
+ * fall back at all.
+ *
+ * ---
+ *
  * Quartz assigns heading ids the same way its own TOC transformer does:
  * parse the heading's markdown to plain text (mdast-util-to-string, which
  * decodes HTML entities like &nbsp; and drops link URLs but keeps link
@@ -19,6 +43,7 @@ import remarkParse from "remark-parse";
 import { toString as mdastToString } from "mdast-util-to-string";
 import GithubSlugger from "github-slugger";
 import type { Root, Heading } from "mdast";
+import { motionAnchorId } from "../motion-anchor.js";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const parser = unified().use(remarkParse);
@@ -250,6 +275,14 @@ export function motionAnchor(
   itemNumber: string,
   resultText?: string,
 ): AnchorResult | null {
+  return legacyHeadingAnchor(meetingSlug, itemNumber, resultText);
+}
+
+function legacyHeadingAnchor(
+  meetingSlug: string,
+  itemNumber: string,
+  resultText?: string,
+): AnchorResult | null {
   let index = fileAnchorCache.get(meetingSlug);
   if (index === undefined) {
     const mdPath = findMarkdownFile(meetingSlug);
@@ -320,4 +353,85 @@ export function motionAnchor(
   // content disambiguates them. Link the meeting page itself rather than
   // guess which heading is right.
   return { url: `/${meetingSlug}`, ambiguous: true };
+}
+
+// ---------------------------------------------------------------------------
+// Per-motion anchors (the precise path — see scripts/motion-anchor.ts)
+// ---------------------------------------------------------------------------
+
+/** meetingSlug -> every `motion-…` id actually present in that meeting's
+ * markdown file, or null if no markdown file was found. Read from the file
+ * on disk, never assumed: a motion only gets a precise anchor if the page
+ * really carries one for it. */
+const emittedAnchorCache = new Map<string, Set<string> | null>();
+
+function emittedAnchorsFor(meetingSlug: string): Set<string> | null {
+  let ids = emittedAnchorCache.get(meetingSlug);
+  if (ids === undefined) {
+    const mdPath = findMarkdownFile(meetingSlug);
+    if (!mdPath) {
+      ids = null;
+    } else {
+      const raw = fs.readFileSync(mdPath, "utf-8");
+      ids = new Set<string>();
+      for (const m of raw.matchAll(/<a id="(motion-[a-z0-9-]+)"/g)) {
+        ids.add(m[1]);
+      }
+    }
+    emittedAnchorCache.set(meetingSlug, ids);
+  }
+  return ids;
+}
+
+export interface MotionAnchorInput {
+  meetingSlug: string;
+  itemNumber: string;
+  rollCallOrdinal: number;
+  result?: string;
+}
+
+export interface MotionAnchorResult extends AnchorResult {
+  /** True when the link targets an anchor EMITTED for this exact roll call
+   * by scripts/add-votes-to-pages.ts — the motion is identified by its own
+   * id, not inferred from heading text, a tally, or word overlap. */
+  precise: boolean;
+}
+
+/**
+ * The evidence link for one motion.
+ *
+ * Preferred path: the per-motion anchor the Votes-section generator emitted
+ * for this exact (itemNumber, rollCallOrdinal). Presence is CHECKED against
+ * the meeting page on disk — a computed id is never published on faith — so
+ * a motion whose page has no Votes section (or no matching anchor) falls
+ * through rather than pointing at a fragment that doesn't exist.
+ *
+ * Fallback path: the original heading-slug resolver, which still handles
+ * anything outside the generated Votes section (procedural motions are not
+ * rendered there, and pre-2018 minutes sometimes have no headings at all).
+ * Where even that cannot identify a single heading, it returns a bare
+ * meeting-page link with `ambiguous: true` — the honest fallback, kept
+ * deliberately: a wrong anchor is far worse than an admitted imprecise one.
+ */
+export function motionEvidenceAnchor(
+  motion: MotionAnchorInput,
+): MotionAnchorResult | null {
+  const emitted = emittedAnchorsFor(motion.meetingSlug);
+  if (emitted) {
+    const id = motionAnchorId(motion.itemNumber, motion.rollCallOrdinal);
+    if (emitted.has(id)) {
+      return {
+        url: `/${motion.meetingSlug}#${id}`,
+        ambiguous: false,
+        precise: true,
+      };
+    }
+  }
+
+  const legacy = legacyHeadingAnchor(
+    motion.meetingSlug,
+    motion.itemNumber,
+    motion.result,
+  );
+  return legacy ? { ...legacy, precise: false } : null;
 }
