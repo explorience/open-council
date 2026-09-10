@@ -2259,6 +2259,8 @@ Motion Passed
 ### 1#7. Disclosures of
   Pecuniary Interest
 
+<a id="motion-1-7-1" class="motion-anchor"></a>
+
 > Approve that Council rise and go into Committee   of the Whole, in camera, at 8:31 PM, for the purpose of continuing discussion   regarding the following matters:
 
 **✅ Motion Passed**
@@ -2267,6 +2269,8 @@ Unanimous (14-0)
 
 ### 1#7. Disclosures of
   Pecuniary Interest
+
+<a id="motion-1-7-2" class="motion-anchor"></a>
 
 > Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasure...
 
@@ -2277,6 +2281,8 @@ Unanimous (14-0)
 ### 1#7. Disclosures of
   Pecuniary Interest
 
+<a id="motion-1-7-3" class="motion-anchor"></a>
+
 > Approve that the following actions be taken   with respect to the process to appoint an Integrity Commissioner:   a)              the   Request for Proposal 15-35 – Appointment of an Integrity Commissioner BE   CANCELLED;        b)         the Civic Administration BE DIRECTED to give notice to th...
 
 **✅ Motion Passed**
@@ -2286,6 +2292,8 @@ Unanimous (14-0)
 ### 3#2. Municipal Golf -
   Agreement with London Golf Club (Relates to Bill No. 62)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director of Parks and Recreation, the proposed by-law, as appended to the   staff report dated January 19, 2016, BE INTRODUCED at the Municipal Council   meeting to be held on January 26, 2016 to:   a)        approve   the agreement between The Corpor...
 
 **✅ Motion Passed**
@@ -2294,6 +2302,8 @@ Unanimous (13-0)
 
 ### 3#3. Future Tax Policy -
   Possible Directions
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > Approve that clause 3 be amended to read   as follows:
 
@@ -2311,6 +2321,8 @@ Unanimous (13-0)
 ### 3#3. Future Tax Policy -
   Possible Directions
 
+<a id="motion-3-3-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2319,6 +2331,8 @@ Unanimous (14-0)
 
 ### 3#3. Future Tax Policy -
   Possible Directions
+
+<a id="motion-3-3-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2336,6 +2350,8 @@ Unanimous (14-0)
 ### 3#3. Future Tax Policy -
   Possible Directions
 
+<a id="motion-3-3-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2344,6 +2360,8 @@ Unanimous (14-0)
 
 ### 3#3. Future Tax Policy -
   Possible Directions
+
+<a id="motion-3-3-4" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2361,6 +2379,8 @@ Unanimous (14-0)
 ### 3#3. Future Tax Policy -
   Possible Directions
 
+<a id="motion-3-3-5" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2370,6 +2390,8 @@ Unanimous (14-0)
 ### 3#3. Future Tax Policy -
   Possible Directions
 
+<a id="motion-3-3-6" class="motion-anchor"></a>
+
 > The motion to Approve clause 3, as amended,   is put.
 
 **✅ Motion Passed**
@@ -2378,6 +2400,8 @@ Unanimous (14-0)
 
 ### 4#4. February Meeting
   Date
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That the scheduled time for the February   23, 2016 meeting of the Audit Committee BE CHANGED to 4:00 PM.
 
@@ -2390,6 +2414,8 @@ Unanimous (14-0)
   3493 Colonel Talbot Road (39T-14504/OZ-8417) (Relates to Bill No. 65 and Bill
   No. 73)
 
+<a id="motion-6-2-0" class="motion-anchor"></a>
+
 > Approve that clause 6 of the 2nd Report   of the Planning and Environment Committee (PEC) be amended as follows:   a)         by adding the word “further”   after the word “attached” in part c); and,   b)         by adding the following new part   f):    “f)       pursuant   to Section 34(17) of ...
 
 **✅ Motion Passed**
@@ -2400,6 +2426,8 @@ Unanimous (14-0)
   3493 Colonel Talbot Road (39T-14504/OZ-8417) (Relates to Bill No. 65 and Bill
   No. 73)
 
+<a id="motion-6-2-1" class="motion-anchor"></a>
+
 > Approve clause 6, as amended.
 
 **✅ Motion Passed**
@@ -2408,6 +2436,8 @@ Unanimous (14-0)
 
 ### 6#3. Public Question
   Session/Period
+
+<a id="motion-6-3-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 11.14 of   the Council Procedure By-law, the question be put.
 
@@ -2425,6 +2455,8 @@ Unanimous (14-0)
 ### 6#3. Public Question
   Session/Period
 
+<a id="motion-6-3-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -2440,6 +2472,8 @@ Unanimous (14-0)
 
 ### 6#3. Public Question
   Session/Period
+
+<a id="motion-6-3-3" class="motion-anchor"></a>
 
 > Approve clause 6, as amended.
 
@@ -2457,6 +2491,8 @@ Unanimous (14-0)
 ### 8#3. Request for
   Approval of an Expense on an Exception Basis
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the request by Councillor M. van Holst   to provide $27.09 from his annual expense allocation for 3 nylon basketball   nets for Trafalgar Public School BE DENIED.
 
 **✅ Motion Passed 🔥**
@@ -2473,6 +2509,8 @@ Unanimous (14-0)
 ### 9#3. Diversity,
   Integration and Inclusion in London
 
+<a id="motion-9-3-0" class="motion-anchor"></a>
+
 > Approve that clause 9 be deleted in its   entirety and be replaced with the following new clause 9:   That the Civic Administration BE DIRECTED   to report back at a future meeting of the Corporate Services Committee with   strategies including the potential creation of a staff position within th...
 
 **✅ Motion Passed**
@@ -2482,6 +2520,8 @@ Unanimous (14-0)
 ### 9#3. Diversity,
   Integration and Inclusion in London
 
+<a id="motion-9-3-1" class="motion-anchor"></a>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -2489,6 +2529,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### IX. REPORTS
+
+<a id="motion-ix-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.3 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 5 of the 4th Report of the Corporate Services   Committee, followed by clause 6 of the 2nd Report of the Community and   Protective Services Committee, at t...
 
@@ -2499,6 +2541,8 @@ Unanimous (14-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-1" class="motion-anchor"></a>
+
 > That Council rises   and goes into Committee of the Whole, in camera, for the purpose of   considering the following:
 
 **✅ Motion Passed**
@@ -2507,6 +2551,8 @@ Unanimous (13-0)
 
 ### V#2. COMMITTEE OF THE WHOLE (continued)
 
+<a id="motion-v-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2514,6 +2560,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### V#2. COMMITTEE OF THE WHOLE (continued)
+
+<a id="motion-v-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2524,6 +2572,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON JANUARY 12, 2016
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Third Meeting   held on January 12, 2016.
 
 **✅ Motion Passed**
@@ -2533,6 +2583,8 @@ Unanimous (14-0)
 ### VII. COMMUNICATIONS
   AND PETITIONS
 
+<a id="motion-vii-1" class="motion-anchor"></a>
+
 > Approve that  on the recommendation of   the City Clerk, the appointment of following individuals to the 2016 Council   Compensation Review Task Force BE RATIFIED:   a)         Martin Horak b)         Dan Ross c)         Phyllis Retty; and d)         Mike Moffatt.
 
 **✅ Motion Passed**
@@ -2541,6 +2593,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.2 of   the Council Procedure By-law reconsideration on the Introduction and First   Reading of Bill No.s 59 to 62, 64 to 74, and the Added Bill No. 75, in order   to separate a Bill for which there is a pecuniary interest.
 
 **✅ Motion Passed**
@@ -2548,6 +2602,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 5. Hydro One
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to undertake a high level review, in liaison with London Hydro, as to the   feasibility and desirability of investing in Hydro One; it being pointed out   that delegations were received from Colleen Shaw, Darlene Faulds, Ange   Thompson and Tina Steven...
 
@@ -2564,6 +2620,8 @@ Unanimous (12-0)
 
 ### 6. BMO Centre
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Approve that clause 6 be amended by   adding the following new part d):   d)        the   Mayor BE REQUESTED to provide a letter of support for the project to the   Provincial and/or Federal Governments, should the London Optimist Sports   Centre request such a letter;
 
 **✅ Motion Passed**
@@ -2579,6 +2637,8 @@ Unanimous (12-0)
 
 ### 6. BMO Centre
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > Approve referral of clause 6 of the 2nd   Report of the Community and Protective Services Committee, having to do with   the BMO Centre funding request and recommendation, to the 2016-2019   Multi-Year Budget process.
 
 **❌ Motion Failed**
@@ -2593,6 +2653,8 @@ Unanimous (12-0)
 </details>
 
 ### 6. BMO Centre
+
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > At 5:48 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert resumes his seat at the Council Board.
 
@@ -2610,6 +2672,8 @@ Unanimous (12-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523) (Relates to Bill No. 74)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Approve that clause 7 be amended by   adding the following new part b):   “b)       the   Civic Administration BE DIRECTED to continue to have conversations with   Southside Group in order to look for ways and opportunities to find a   development that would incorporate the heritage features of t...
 
 **❌ Motion Failed**
@@ -2626,6 +2690,8 @@ Unanimous (12-0)
 ### 7. Properties located
   at 175-183 King Street (Z-8523) (Relates to Bill No. 74)
 
+<a id="motion-7-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2634,6 +2700,8 @@ Unanimous (14-0)
 
 ### 11. Environmental
   Impact Statements
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED   to review and report back to a future meeting of the Planning and Environment   Committee on how Development Agreements could be modified to include a   mechanism for the Civic Administration to undertake compliance investigations   to ensure that condi...
 

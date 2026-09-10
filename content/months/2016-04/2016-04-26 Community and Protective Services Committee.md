@@ -579,6 +579,8 @@ Motion
 ### 2. Naming Rights,
   Sponsorship, and Advertising for City of London Recreation Facilities
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -588,6 +590,8 @@ Unanimous (4-0)
 
 ### 3. Parks and
   Recreation Strategic Master Plan Accomplishments and Update Strategy
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -599,6 +603,8 @@ Unanimous (4-0)
 ### 4. London
   Strengthening Neighbourhoods Strategy 2017-2020 Community Engagement Plan
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -608,6 +614,8 @@ Unanimous (4-0)
 
 ### 5. Fire Station
   Alerting Radios - Life Cycle Replacement
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -620,6 +628,8 @@ Unanimous (4-0)
   Affordable Housing - 2014 Extension (IAH-E) Year 3: Proposal Recommendation
   for 27 Centre Street
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -629,6 +639,8 @@ Unanimous (4-0)
 
 ### 7. Amendments to the
   Fireworks By-law
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -640,6 +652,8 @@ Unanimous (4-0)
 ### 8. 3rd Report of the
   Accessibility Advisory Committee
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Voting   Record:   Motion   Passed
 
 **✅ Motion
@@ -649,6 +663,8 @@ Unanimous (3-0)
 
 ### 9. 5th Report of the
   Animal Welfare Advisory Committee
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -660,6 +676,8 @@ Unanimous (4-0)
 ### 10. 4th Report of the
   London Housing Advisory Committee
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Voting   Record:   Motion   Passed
 
 **✅ Motion
@@ -669,6 +687,8 @@ Unanimous (3-0)
 
 ### 11. Community Centre
   Room and Gymnasium Rentals
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -681,6 +701,8 @@ Unanimous (4-0)
   Needed) 2016 Meeting Dates for the Community and Protective Services
   Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -690,6 +712,8 @@ Unanimous (4-0)
 
 ### 13. Deferred Matters
   List
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

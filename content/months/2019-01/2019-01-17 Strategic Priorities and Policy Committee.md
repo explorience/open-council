@@ -269,6 +269,8 @@ The meeting adjourned at 5:03 PM.
 
 ### 5.1. Merrymount Children's Centre Funding Request
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the request for funding from Merrymount Family Support and Crisis Centre: a)      the request for 2019 funding in the amount of $368,704 BE REFERRED to the 2019 Budget process for consideration; b)      the Budget Chair BE REQUESTED to work with...
 
 **✅ Motion Passed (11 to 2)**
@@ -285,6 +287,8 @@ The meeting adjourned at 5:03 PM.
 </details>
 
 ### 6. Adjournment
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That the meeting Adjourn.
 

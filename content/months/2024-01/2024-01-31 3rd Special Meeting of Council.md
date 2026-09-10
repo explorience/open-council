@@ -310,6 +310,8 @@ Mad motion carries. All right, we're adjourned. Thank you.
 
 ### 8.1. 4th Special Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**

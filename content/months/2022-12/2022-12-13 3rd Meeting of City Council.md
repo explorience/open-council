@@ -3042,6 +3042,8 @@ Three acquisition buyback of industrial land from 2842 61 3 Ontario limited inno
 
 ### 8.1. 1st Report of the Planning and Environment Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 1st Report of the Planning and Environment Committee BE APPROVED, excluding items 19 (3.9), 20 (3.10) and 21 (4.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -3049,6 +3051,8 @@ Three acquisition buyback of industrial land from 2842 61 3 Ontario limited inno
 Unanimous (15-0)
 
 ### 8.1.19. (3.9) 4452 Wellington Road South (OZ-9497) (Relates to Bill No.'s 9 and 22)
+
+<a id="motion-8-1-19-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a)    the proposed appended to the staff...
 
@@ -3065,6 +3069,8 @@ Unanimous (15-0)
 
 ### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
 
+<a id="motion-8-1-20-1" class="motion-anchor"></a>
+
 > That the following amendment BE APPROVED to the associated by-law for 952 Southdale Rd. W. Amend by adding the word “Maximum” in Section 2. a) iii) Density to the R8-4 Zone.
 
 **✅ Motion Passed (15 to 0)**
@@ -3072,6 +3078,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.20. (3.10) 952 Southdale Road West (OZ-9431) (Relates to Bill No.'s 10 and 23)
+
+<a id="motion-8-1-20-2" class="motion-anchor"></a>
 
 > That item 20, clause 3.10, as amended, BE APPROVED.
 
@@ -3088,6 +3096,8 @@ Unanimous (15-0)
 
 ### 8.2. 1st Report of the Corporate Services Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the 1st Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3096,6 +3106,8 @@ Unanimous (15-0)
 
 ### 8.3. 1st Report of the Community and Protective Services Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 1st Report of the Community and Protective Services Committee BE APPROVED, excluding item 8 (4.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -3103,6 +3115,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.8. (4.1) Animal Control By-Law
+
+<a id="motion-8-3-8-1" class="motion-anchor"></a>
 
 > Motion to approve part a) That clause 4.1 BE AMENDED following the words, “prepare a staff report” to add "a)  including any related previous recommendations; and
 
@@ -3119,6 +3133,8 @@ Unanimous (15-0)
 
 ### 8.3.8. (4.1) Animal Control By-Law
 
+<a id="motion-8-3-8-2" class="motion-anchor"></a>
+
 > That clause 4.1 BE AMENDED by adding the follow new part b) "b)  an evaluation of both onsite and offsite programs;"
 
 **❌ Motion Failed (5 to 10)**
@@ -3133,6 +3149,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.3.8. (4.1) Animal Control By-Law
+
+<a id="motion-8-3-8-3" class="motion-anchor"></a>
 
 > That item 8, clause 4.1, as amended, BE APPROVED.
 
@@ -3149,6 +3167,8 @@ Unanimous (15-0)
 
 ### 8.4. 1st Report of the Civic Works Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 1st Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3157,6 +3177,8 @@ Unanimous (14-0)
 
 ### 8.5. 3rd Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That Items 1 to 10, inclusive, of the 3rd Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3164,6 +3186,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 9.1. 2nd Report of Council in Closed Session
+
+<a id="motion-9-1-1" class="motion-anchor"></a>
 
 > Motion to approve item 4. 4.    Property Acquisition – 2 Kennon Place – Wellington Gateway Project That, on the recommendation of the Deputy City Manager, Finance Supports, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Servic...
 
@@ -3180,6 +3204,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-3" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 10, BE APPROVED.
 
 **✅ Motion Passed (12 to 3)**
@@ -3194,6 +3220,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-4" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No. 10, BE APPROVED.
 
@@ -3210,6 +3238,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-5" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Bill No. 26, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -3225,6 +3255,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-6" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 26, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -3239,6 +3271,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-7" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No. 26, BE APPROVED.
 

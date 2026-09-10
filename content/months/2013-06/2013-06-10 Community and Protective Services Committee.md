@@ -48,6 +48,8 @@ Motion
 
 ### 2. Food Truck Proposal
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion

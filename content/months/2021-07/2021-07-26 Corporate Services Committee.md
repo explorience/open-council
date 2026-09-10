@@ -511,6 +511,8 @@ The meeting adjourned at 1:10 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -518,6 +520,8 @@ The meeting adjourned at 1:10 PM.
 Unanimous (6-0)
 
 ### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That interviews BE ARRANGED with the following applicants for consideration of appointment to the London Hydro Inc. Board of Directors for the current Board vacancy:    Tania Goodine Margaret Parks Steven Stefanko
 
@@ -527,6 +531,8 @@ Unanimous (6-0)
 
 ### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the Corporate Services Committee members select up to three candidates for the purpose of interviews for an appointment to the London Hydro Board of Directors.
 
 **✅ Motion Passed (6 to 0)**
@@ -534,6 +540,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Consideration of Applications to the London Hydro Inc. Board of Directors (Requires 1 Member)
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > London Hydro Inc. Board of Directors - selection of three candidates for interviews
 
@@ -546,6 +554,8 @@ Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the proclamation requests, Items 4.2 and 4.3, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -554,6 +564,8 @@ Unanimous (6-0)
 
 ### 4.2. Application - Issuance of Proclamation - Bullying Elimination Week
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That based on the application dated June 14, 2021 from Bullying Elimination Week, May 23 - 30, 2022 BE PROCLAIMED as Bullying Elimination Week.
 
 **✅ Motion Passed (6 to 0)**
@@ -561,6 +573,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.3. Application - Issuance of Proclamation - October is Caribbean Heritage Month in Canada
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That based on the application dated June 18, 2021 from Caribbean Women's Society, October 1-31, 2021 BE PROCLAIMED as October is Caribbean Heritage Month in Canada.
 

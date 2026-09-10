@@ -428,6 +428,8 @@ Motion Passed
 ### 2. Industrial Land
   Development Strategy Update
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -437,6 +439,8 @@ Unanimous (13-0)
 ### 3. Agreement Between
   the City of London and The London Economic Development Corporation (LEDC)
   2015-2019
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -453,6 +457,8 @@ Unanimous (13-0)
 
 ### 4. London Hydro Inc.
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -462,6 +468,8 @@ Unanimous (13-0)
 ### 5. Resignation from
   the Town and Gown Committee
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -470,6 +478,8 @@ Unanimous (12-0)
 
 ### 6. Advisory Committee
   Terms of Reference
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -488,6 +498,8 @@ Unanimous (12-0)
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -497,14 +509,7 @@ Unanimous (12-0)
 ### 8. 3rd Report of the
   Governance Working Group
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 9. ADDED - Orchestra
-  London Bankruptcy
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -514,6 +519,19 @@ Unanimous (13-0)
 
 ### 9. ADDED - Orchestra
   London Bankruptcy
+
+<a id="motion-9-0" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 9. ADDED - Orchestra
+  London Bankruptcy
+
+<a id="motion-9-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -523,6 +541,8 @@ Unanimous (12-0)
 
 ### 9. ADDED - Orchestra
   London Bankruptcy
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion Passed
 

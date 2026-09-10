@@ -349,6 +349,8 @@ We are now adjourned.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -356,6 +358,8 @@ We are now adjourned.
 Unanimous (5-0)
 
 ### 5.1. (ADDED) Councillor S. Trosow – Amendment to the Streets By-law (S-1) to Regulate the Display of Graphic Images on the Streets in the City of London
+
+<a id="motion-5-1-1" class="motion-anchor"></a>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 

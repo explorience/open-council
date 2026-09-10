@@ -775,6 +775,8 @@ The meeting adjourned at 8:07 PM.
 ### 2. 11th Report of the
   Trees and Forests Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -785,15 +787,7 @@ Unanimous (5-0)
 ### 3. 10th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 4. Properties located
-  at 1140 and 1154 Sunningdale Road East (Z-8805)
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -805,15 +799,7 @@ Unanimous (6-0)
 ### 4. Properties located
   at 1140 and 1154 Sunningdale Road East (Z-8805)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 4. Properties located
-  at 1140 and 1154 Sunningdale Road East (Z-8805)
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -825,6 +811,8 @@ Unanimous (6-0)
 ### 4. Properties located
   at 1140 and 1154 Sunningdale Road East (Z-8805)
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -834,6 +822,32 @@ Unanimous (6-0)
 
 ### 4. Properties located
   at 1140 and 1154 Sunningdale Road East (Z-8805)
+
+<a id="motion-4-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 4. Properties located
+  at 1140 and 1154 Sunningdale Road East (Z-8805)
+
+<a id="motion-4-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 4. Properties located
+  at 1140 and 1154 Sunningdale Road East (Z-8805)
+
+<a id="motion-4-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -852,15 +866,7 @@ Unanimous (6-0)
 ### 5. Expansion of the
   Downtown Community Improvement Plan Project Area (O-8788)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 5. Expansion of the
-  Downtown Community Improvement Plan Project Area (O-8788)
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -872,6 +878,20 @@ Unanimous (6-0)
 ### 5. Expansion of the
   Downtown Community Improvement Plan Project Area (O-8788)
 
+<a id="motion-5-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 5. Expansion of the
+  Downtown Community Improvement Plan Project Area (O-8788)
+
+<a id="motion-5-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -882,15 +902,7 @@ Unanimous (6-0)
 ### 6. Property located at
   1880 Phillbrook Drive - Public Site Plan Meeting (SPA17-069)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 6. Property located at
-  1880 Phillbrook Drive - Public Site Plan Meeting (SPA17-069)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -901,6 +913,20 @@ Unanimous (6-0)
 
 ### 6. Property located at
   1880 Phillbrook Drive - Public Site Plan Meeting (SPA17-069)
+
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 6. Property located at
+  1880 Phillbrook Drive - Public Site Plan Meeting (SPA17-069)
+
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -912,6 +938,8 @@ Unanimous (6-0)
 ### 7. Urban Agriculture
   Strategy
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -922,6 +950,8 @@ Unanimous (4-0)
 ### 8. Tree Planting
   Strategy 2017-2022
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -931,15 +961,7 @@ Unanimous (5-0)
 
 ### 9. PEC Deferred List
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. (ADDED) Property
-  located at 6188 Colonel Talbot Road
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -950,6 +972,20 @@ Unanimous (4-0)
 
 ### 10. (ADDED) Property
   located at 6188 Colonel Talbot Road
+
+<a id="motion-10-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. (ADDED) Property
+  located at 6188 Colonel Talbot Road
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

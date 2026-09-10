@@ -2304,6 +2304,8 @@ Passed
   and City Engineer, Environmental and Engineering Services - Expropriation of
   Lands - Hyde Park Road Widening Project - Phase II - TS1477-2
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, the following actions be taken with   respect to the ex...
 
 **✅ Motion Passed**
@@ -2314,6 +2316,8 @@ Unanimous (11-0)
   and City Engineer, Environmental and Engineering Services - Expropriation of
   Lands - Hyde Park Road Widening Project - Phase II - TS1477-2
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director and City Engineer, Environmental and Engineering Services, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, with respect to the expropriation of   lands for the pr...
 
 **✅ Motion Passed**
@@ -2322,6 +2326,8 @@ Unanimous (12-0)
 
 ### 3#3. Animal Welfare
   Advisory Committee
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > Amend clause 3 in part a) to add the   words "BE ENDORSED IN PRINCIPLE and" before the words, "BE   REFERRED".
 
@@ -2332,6 +2338,8 @@ Unanimous (12-0)
 ### 3#3. Animal Welfare
   Advisory Committee
 
+<a id="motion-3-3-1" class="motion-anchor"></a>
+
 > Amend clause 3, in clause 1 of the Animal   Welfare Advisory Committee's clause 1, part a), by deleting the words   "feasibility of the City implementing a" and by replacing them with   the words "a draft".
 
 **✅ Motion Passed**
@@ -2341,6 +2349,8 @@ Unanimous (11-0)
 ### 3#3. Animal Welfare
   Advisory Committee
 
+<a id="motion-3-3-2" class="motion-anchor"></a>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -2349,6 +2359,8 @@ Unanimous (11-0)
 
 ### 3#7. Tourism London -
   Destination Marketing Fund
+
+<a id="motion-3-7-0" class="motion-anchor"></a>
 
 > That, notwithstanding the Municipal Council   resolution adopted at its meeting on April 1, 2014, with respect to a   potential levy related to hotel / motel rates and Council’s desire that a   voluntary Destination Marketing Program be established for the London   Community, it BE CLARIFIED that...
 
@@ -2366,6 +2378,8 @@ Unanimous (11-0)
 ### 3#8. Music London
   Progress Update
 
+<a id="motion-3-8-0" class="motion-anchor"></a>
+
 > That the Music London Business Plan dated   May 2014, for a mix-use development including a Performing Arts Centre BE   REFERRED to the Civic Administration for further review and for an   independent peer-review by Novita Interpares Ltd., with a report back to the   Investment and Economic Prosp...
 
 **✅ Motion Passed**
@@ -2382,6 +2396,8 @@ Unanimous (11-0)
   Annual Resolutions and Declaration of the Sole Shareholder and Accountability
   Rules
 
+<a id="motion-4-6-0" class="motion-anchor"></a>
+
 > Amend clause 4 b) in part i) by deleting   the word "City" and by replacing it with the word   "County".
 
 **✅ Motion Passed**
@@ -2392,6 +2408,8 @@ Unanimous (12-0)
   Middlesex Housing Corporation - 2013 Annual Meeting of the Shareholder -
   Annual Resolutions and Declaration of the Sole Shareholder and Accountability
   Rules
+
+<a id="motion-4-6-1" class="motion-anchor"></a>
 
 > Amend clause 4 in line 5 of part b) by   deleting the words “at the May 20, 2014” and by replacing them with the words   “to a future”.
 
@@ -2404,6 +2422,8 @@ Unanimous (12-0)
   Annual Resolutions and Declaration of the Sole Shareholder and Accountability
   Rules
 
+<a id="motion-4-6-2" class="motion-anchor"></a>
+
 > Approve clause 4, as amended.
 
 **✅ Motion Passed**
@@ -2412,6 +2432,8 @@ Unanimous (12-0)
 
 ### 4#7. High Speed Rail –
   Moving Ontario Forward
+
+<a id="motion-4-7-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to high speed rail in Ontario:   a)         Whereas knowledge-based   economies thrive on convenient connectivity; and,    Whereas frequent   High Speed Rail service between Downtown London and Toronto will bring   immediate and long-term benefit...
 
@@ -2422,6 +2444,8 @@ Unanimous (12-0)
 ### 5#2. Request to Have
   By-law PW-11 (Fireworks) Revised to Include the Weekend Before Canada Day
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That the communication from J. Bialkowski   BE FORWARDED to the Civic Administration, and the Civic Administration BE   DIRECTED to draft the appropriate by-law amendment, to permit the use of   retail grade fireworks on the weekend prior to the Canada Day holiday.
 
 **✅ Motion Passed**
@@ -2431,6 +2455,8 @@ Unanimous (12-0)
 ### 5#5. 2014 Development
   Charges
 
+<a id="motion-5-5-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the 2014 Development Charges (DC) Background Study, and the 2014   Draft DC By-law:   a)         the   revised Commercial growth projections, as described in Appendix H.5 of the   staff report dated April 14, 2014, BE ADOPTED; it being noted t...
 
 **✅ Motion Passed**
@@ -2439,6 +2465,8 @@ Unanimous (12-0)
 
 ### 5#6. IEPC Special
   Meeting
+
+<a id="motion-5-6-0" class="motion-anchor"></a>
 
 > That a Special Meeting of the Investment   and Economic Prosperity Committee  BE SCHEDULED for May 14, 2014 at 4:00 PM   to receive updates on the following matters:   1.         Mixed-Use Development  2.         111 Horton Street Redevelopment
 
@@ -2450,6 +2478,8 @@ Unanimous (10-0)
   Nominees for Appointment to the Board of Directors of the Greater London
   International Airport Authority
 
+<a id="motion-6-4-0" class="motion-anchor"></a>
+
 > That the names and applications of the   following nominees BE FORWARDED to the Greater London International Airport   Authority Board of Directors for consideration for appointment to the Greater   London International Airport Authority (GLIAA) Board of Directors, for the   term August 1, 2014 t...
 
 **✅ Motion Passed**
@@ -2458,6 +2488,8 @@ Unanimous (12-0)
 
 ### 9#2. Sale of VQA Wine at
   Eligible Ontario Farmers' Market
+
+<a id="motion-9-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the sale of VQA wine at eligible Ontario farmers’ markets within   the City of London:   a)         NO   ACTION BE TAKEN to advise the Registrar, in writing, of any objection to the   sale of VQA wine at eligible Ontario farmers’ markets withi...
 
@@ -2468,6 +2500,8 @@ Unanimous (11-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-0" class="motion-anchor"></a>
+
 > Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following:
 
 **✅ Motion Passed**
@@ -2476,6 +2510,8 @@ Unanimous (11-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON MAY 6, 2014
+
+<a id="motion-vi-0" class="motion-anchor"></a>
 
 > Approve the Minutes of 12th Meeting held   on May 6, 2014.
 
@@ -2489,6 +2525,8 @@ Unanimous (11-0)
   Consideration with Clause 10 of the 9th Report of the Planning and
   Environment Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2501,6 +2539,8 @@ Unanimous (11-0)
   Consideration with Clause 10 of the 9th Report of the Planning and
   Environment Committee.)
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Approve that Council convene as the   Approval Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 2 from the Manager, Realty Services, dealing with the proposed   expropriation of lands for the Hyde ...
 
 **✅ Motion Passed**
@@ -2509,6 +2549,8 @@ Unanimous (11-0)
 
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Amend clause 8 to exclude locations   that are adjacent to an R-1 zone property (abutting properties), and to   further Amend clause 8 to add the words "other live entertainment"   following the words "acoustical music".
 
@@ -2526,6 +2568,8 @@ Unanimous (11-0)
 ### 8. Entertainment on
   Outdoor Patios (Z-8335)
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2534,6 +2578,8 @@ Unanimous (12-0)
 
 ### 11. Property located at
   230 Victoria Street
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > That the attached   presentation and the communication dated May 4, 2014, from K. McKeating and   B. Jones, with respect to the property located at 230 Victoria Street BE   RECEIVED.   (2014-D14)
 

@@ -749,6 +749,8 @@ The meeting adjourned at 3:02 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.6, 2.8, 2.9, and 2.13 to 2.19 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -756,6 +758,8 @@ The meeting adjourned at 3:02 PM.
 Unanimous (6-0)
 
 ### 2.7. Comments on the Ontario Ministry of Transportation's Draft Transportation Plan for Southwest Ontario
+
+<a id="motion-2-7-0" class="motion-anchor"></a>
 
 > That, on the joint recommendation of the Managing Director, Environmental and Engineering Services and City Engineer and the Managing Director, Development and Compliance Services and Chief Building Official, the comments and discussion included in the staff report dated March 10, 2020, regarding...
 
@@ -765,6 +769,8 @@ Unanimous (6-0)
 
 ### 2.10. Automated Speed Enforcement Update
 
+<a id="motion-2-10-1" class="motion-anchor"></a>
+
 > That part a) above BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -772,6 +778,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.10. Automated Speed Enforcement Update
+
+<a id="motion-2-10-2" class="motion-anchor"></a>
 
 > That part b) above BE APPROVED.
 
@@ -788,6 +796,8 @@ Unanimous (6-0)
 
 ### 2.11. Area Speed Limit Implementation
 
+<a id="motion-2-11-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the implementation of the Area Speed Limit program: a)       the proposed by-law, as appended to the staff report dated March 10, 2020, BE...
 
 **✅ Motion Passed (6 to 0)**
@@ -795,6 +805,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.11. Area Speed Limit Implementation
+
+<a id="motion-2-11-1" class="motion-anchor"></a>
 
 > That the proposed by-law, as appended to the staff report dated March 10, 2020, with respect to the implementation of the Area Speed Limit program, BE REFERRED back to the Civic Administration to allow for the drafting of a by-law for the downtown arterial roads separate from other proposed changes.
 
@@ -811,6 +823,8 @@ Unanimous (6-0)
 
 ### 2.12. Request for Proposal (RFP) 20-04 Award - Supply and Delivery of Electric Ice Resurfacers
 
+<a id="motion-2-12-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the delivery of electric ice resurfacers: a)       the transition of ice resurfacers from compressed natural gas models to electric batter...
 
 **✅ Motion Passed (6 to 0)**
@@ -819,6 +833,8 @@ Unanimous (6-0)
 
 ### 2.20. Overnight Parking and 12 Hour Parking Limit
 
+<a id="motion-2-20-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to overnight parking restrictions contained in the Traffic and Parking By-law PS-113, as amended and the Administrative Monetary Penalty System By-law, A-54, as amended:    a)       the Civic Administration BE DIRECTED to bring forward for consider...
 
 **✅ Motion Passed (6 to 0)**
@@ -826,6 +842,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Sidewalk Snow Removal By-law - Councillor S. Hillier
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the communication from Councillor S. Hillier, dated February 18, 2020, with respect to a proposed sidewalk snow removal by-law, BE RECEIVED. (2020-T06)
 
@@ -842,6 +860,8 @@ Unanimous (6-0)
 
 ### 4.2. Elimination of Sidewalk Construction on Fox Mill Crescent - Petition
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That, notwithstanding requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Fox Mill Crescent BE EXEMPTED from the intended sidewalk installation associated with the planned watermain replacement project and road re...
 
 **✅ Motion Passed (5 to 1)**
@@ -857,6 +877,8 @@ Unanimous (6-0)
 
 ### 4.2. Elimination of Sidewalk Construction on Fox Mill Crescent - Petition
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the delegation request from J. Lang BE APPROVED.
 
 **✅ Motion Passed 🔥**
@@ -870,6 +892,8 @@ Unanimous (6-0)
 
 ### 4.3. (ADDED) Removal of Trees on Camden Crescent - Councillor M. Cassidy
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That, notwithstanding policies set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Camden Crescent BE EXEMPTED from the intended sidewalk installation and any planned tree removal associated with construction of the sidewalk; ...
 
 **✅ Motion Passed (6 to 0)**
@@ -877,6 +901,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.3. (ADDED) Removal of Trees on Camden Crescent - Councillor M. Cassidy
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > That the delegation request from J. McIntyre BE APPROVED.
 

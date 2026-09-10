@@ -2313,6 +2313,8 @@ Passed
 ### 2#4. Election of
   Vice-Chair for the term ending November 30, 2014
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That Councillor J.P. Bryant BE ELECTED as   Vice Chair of the Corporate Services Committee for the term ending November   30, 2014.
 
 **✅ Motion Passed**
@@ -2322,6 +2324,8 @@ Unanimous (15-0)
 ### 2#7. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
+
+<a id="motion-2-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the Ontario Municipal Board BE ADVISED,   in response to letters of appeal to an Official Plan Amendment and a Zoning   By-law Amendment for properties located at 3130 and 3260 Dingman Drive and   the rear portion ...
 
@@ -2339,6 +2343,8 @@ Unanimous (15-0)
 ### 3#3. Extension of Realty
   Services - Agency of Record Agreement
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That consideration of the staff report   dated November 26, 2013, with respect to the Agency of Record Agreement   between The Corporation of the City of London and CB Richard Ellis Limited,   BE DEFERRED to the next meeting of the Corporate Services Committee in   conjunction with the receipt of...
 
 **✅ Motion Passed**
@@ -2347,6 +2353,8 @@ Unanimous (15-0)
 
 ### 7#2. Waste Diversion and
   Garbage Collection Updates
+
+<a id="motion-7-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the waste diversion and garbage collection updates:    a)         the   Civic Administration BE DIRECTED to prepare business plans for the following   initiatives from the report “Road Map 2.0 – The Road to Increased Resource   Recovery and Ze...
 
@@ -2364,6 +2372,8 @@ Unanimous (15-0)
 ### 7#4. Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
+<a id="motion-7-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director of Housing, Social Services and Dearness Home, the proposed by-law,   as appended to the staff report dated November 25, 2013, BE INTRODUCED at the   Municipal Council meeting of December 3, 2013 to:    a)         approve   the Amending Agree...
 
 **✅ Motion Passed**
@@ -2372,6 +2382,8 @@ Unanimous (13-0)
 
 ### 7#4. Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
+
+<a id="motion-7-4-1" class="motion-anchor"></a>
 
 > 1st Report of the   Community and Protective Services Committee Councillor D. Brown presents.
 
@@ -2389,6 +2401,8 @@ Unanimous (13-0)
 ### 7#4. Amendment to
   Purchase of Service Agreement - Ontario Works Employment Assistance Services
 
+<a id="motion-7-4-2" class="motion-anchor"></a>
+
 > Approve clauses 1 and 2.
 
 **✅ Motion Passed**
@@ -2397,6 +2411,8 @@ Unanimous (15-0)
 
 ### 9#2. Properties located
   at 595 and 607 Industrial Road (Z-8272)
+
+<a id="motion-9-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, related to the application of the City   of London, relating to the properties located at 595 and 607 Industrial Road,   the proposed by-law, as appended to the staff report dated November 26, 2013,   BE INTRODUCED...
 
@@ -2407,6 +2423,8 @@ Unanimous (13-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-0" class="motion-anchor"></a>
+
 > Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following:
 
 **✅ Motion Passed**
@@ -2415,6 +2433,8 @@ Unanimous (13-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-iv-1" class="motion-anchor"></a>
 
 > 1st Report of the Committee of the Whole
 
@@ -2426,6 +2446,8 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON NOVEMBER 19,
   2013
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 19th   Meeting held on November 19, 2013.
 
 **✅ Motion Passed**
@@ -2433,6 +2455,8 @@ Unanimous (13-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-0" class="motion-anchor"></a>
 
 > Approve Introduction and First   Reading of Bill No.s 1, 2 and 4 to 23 and 25.
 
@@ -2442,6 +2466,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-6" class="motion-anchor"></a>
+
 > Approve Introduction and First   Reading of Bill No. 24.
 
 **✅ Motion Passed**
@@ -2450,6 +2476,8 @@ Unanimous (11-0)
 
 ### 3. 1st Report of the
   Strategic Priorities and Policy Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section to   section 7.4 of the Council Procedure By-law, the order of business be changed   to permit consideration of lause 1 of the 1st Report of the Committee of the   Whole, having to do with the apportionment of costs for social housing,   Ontario Works, Child Care ...
 
@@ -2463,6 +2491,8 @@ Unanimous (12-0)
   Committee Stage for Consideration with Clause 6 of the 20th Report of the
   Civic Works Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2471,6 +2501,8 @@ Unanimous (15-0)
 
 ### 6. Council Service
   London Team
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That the following actions be taken   regarding the Council Service London Team:   a)         the   City Clerk BE DIRECTED to implement a staffing model that provides for 1   Executive Assistant, 2 Administrative Assistants, 2 Co-op positions, as well   as the creation of a permanent reception po...
 
@@ -2488,6 +2520,8 @@ Unanimous (15-0)
 ### 6. Council Service
   London Team
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > The motion to Approve part b) of clause 6   is put.
 
 **❌ Motion Failed**
@@ -2504,6 +2538,8 @@ Unanimous (15-0)
 ### 9. Apportionment of
   Taxes
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy   City Treasurer, the taxes on the blocks of land described in the attached   Schedules BE APPORTIONED as indicated on the Schedules pursuant to Section   356 of the Municipal Act, 2001; it being noted that there were no members of   the public in attenda...
 
 **✅ Motion Passed**
@@ -2513,6 +2549,8 @@ Unanimous (15-0)
 ### 10. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > That Derek Ellis BE APPOINTED as a Voting   Member on the Environmental and Ecological Planning Advisory Committee for   the term ending February 28, 2015.
 
 **✅ Motion Passed**
@@ -2521,6 +2559,8 @@ Unanimous (13-0)
 
 ### 11. Property located at
   3804 South Winds Drive (39T-09503/OZ-7698)
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Planning, the following actions be taken with respect to   the application of Southside Group of Companies, relating to the property   located at 3804 South Winds Drive:   a)         the   proposed by-law, as appended to the staff r...
 
@@ -2538,6 +2578,8 @@ Unanimous (13-0)
 ### 14. Secondary Dwelling
   Units (OZ-8053)
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > That, the application of the City of   London, relating to an Official Plan Amendment to introduce new city-wide   policies related to secondary dwelling units and for a Zoning By-law   Amendment to introduce regulations related to secondary dwelling units BE   REFERRED back to the Civic Administ...
 
 **✅ Motion Passed**
@@ -2546,6 +2588,8 @@ Unanimous (13-0)
 
 ### 14. Secondary Dwelling
   Units (OZ-8053)
+
+<a id="motion-14-1" class="motion-anchor"></a>
 
 > Approve reconsideration of clause 2, to   allow discussion on the item.
 
@@ -2562,6 +2606,8 @@ Unanimous (13-0)
 
 ### 17. Review of Planning
   Application Fees
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, pursuant to the PricewaterhouseCoopers   Quarterly Report on Internal Audit results and further direction from   Municipal Council respecting planning application fees, the proposed by-law,   as appended to the sta...
 

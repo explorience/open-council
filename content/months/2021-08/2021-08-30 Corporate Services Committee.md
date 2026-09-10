@@ -1031,6 +1031,8 @@ Livingston. Thank you very much and it was a pleasure to spend all this time wit
 
 ### 4.1. Vacant Residential Property Tax Review
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to undertake a review, including but not limited to gathering information from other Ontario municipalities advancing this option, to determine the potential scope and feasibility of developing and implementing a vacant residential property tax on the res...
 
 **✅ Motion Passed (4 to 0)**
@@ -1038,6 +1040,8 @@ Livingston. Thank you very much and it was a pleasure to spend all this time wit
 Unanimous (4-0)
 
 ### 4.3. Municipal Support for Truth and Reconciliation
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the information from the AMO Board of Directors meeting of August 14, 2021, related to municipal support for truth and reconciliation: a)    the information BE FORWARDED to the Civic Administration for consideration; and, b)    the Civic Adminis...
 
@@ -1047,6 +1051,8 @@ Unanimous (4-0)
 
 ### 4.4. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That based on the application dated August 6, 2021 from Community Diversity and Inclusion Strategy (CDIS) Implementation Body, September 30, 2021 BE PROCLAIMED as Orange Shirt Day/National Day for Truth and Reconciliation.
 
 **✅ Motion Passed (4 to 0)**
@@ -1055,6 +1061,8 @@ Unanimous (4-0)
 
 ### 4.5. Application - Issuance of Proclamation - Dyslexia Awareness Month
 
+<a id="motion-4-5-0" class="motion-anchor"></a>
+
 > That based on the application dated August 11, 2021 from Dyslexia Canada, October 1, 2021 BE PROCLAIMED as Dyslexia Awareness Month.
 
 **✅ Motion Passed (4 to 0)**
@@ -1062,6 +1070,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.1. (ADDED) Proof of COVID-19 Vaccination Administrative Policy
+
+<a id="motion-5-1-2" class="motion-anchor"></a>
 
 > Motion to approve part b) b) the civic administration BE DIRECTED to bring forward to the next meeting of the Corporate Services Committee a similar COVID-19 Vaccination Council Policy, specifically applicable to the Members of Council, for consideration.
 
@@ -1080,6 +1090,8 @@ Unanimous (4-0)
 
 ### 5.2. (ADDED) Recommendation for Appointment to the London Hydro Inc. Board of Directors
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That on the recommendation of the Corporate Services Committee, the applicant, Tania Goodine, BE FORWARDED to the Strategic Priorities and Policy Committee, as the Shareholder, for appointment to the London Hydro Inc. Board of Directors.
 
 **✅ Motion Passed (4 to 0)**
@@ -1087,6 +1099,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5.2. (ADDED) Recommendation for Appointment to the London Hydro Inc. Board of Directors
+
+<a id="motion-5-2-1" class="motion-anchor"></a>
 
 > Appointment recommendation to the London Hydro Inc. Board of Directors
 

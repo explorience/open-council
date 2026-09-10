@@ -180,6 +180,8 @@ The meeting adjourned at 1:04 PM.
 ### 3. Amendment to Flags
   at City Hall Policy
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -194,6 +196,8 @@ The meeting adjourned at 1:04 PM.
 
 ### 6. Apportionment of
   Taxes
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -211,6 +215,8 @@ The meeting adjourned at 1:04 PM.
   Appointment to the Transportation Advisory Committee (Requires 2 Members at
   Large)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -226,6 +232,8 @@ The meeting adjourned at 1:04 PM.
 ### 9. Forest City Beer
   Fest 2018 Winter Pop Up Bar - Request for Designation as a Municipally
   Significant Event
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

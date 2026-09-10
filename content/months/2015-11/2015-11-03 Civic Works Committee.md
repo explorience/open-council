@@ -873,6 +873,8 @@ The
 ### 2. 5th Report of the
   Transportation Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -883,6 +885,8 @@ Unanimous (4-0)
 ### 3. Amendments to the
   Traffic and Parking By-law with respect to Designating Bicycle Lanes
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -892,6 +896,8 @@ Unanimous (4-0)
 
 ### 4. Amendments to the
   Traffic and Parking By-law
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -906,15 +912,7 @@ Unanimous (4-0)
   Reheater, Incinerator Dome Replacement and Incinerator Annex Building HVAC
   Replacement
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 6. Single Source for
-  Pump Replacement at the Wonderland Pumping Station
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -925,6 +923,20 @@ Unanimous (4-0)
 
 ### 6. Single Source for
   Pump Replacement at the Wonderland Pumping Station
+
+<a id="motion-6-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. Single Source for
+  Pump Replacement at the Wonderland Pumping Station
+
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -937,6 +949,8 @@ Unanimous (4-0)
   Consulting Engineer for Design and Construction of Stormwater Management
   Facilities
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -946,6 +960,8 @@ Unanimous (4-0)
 
 ### 9. Replacement of
   Street Sweepers - Single Source Procurement #15-45
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -958,6 +974,8 @@ Unanimous (4-0)
   Pathway Connection Across Canadian National Railway Detailed Design
   Appointment of Consulting Engineer
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -967,6 +985,8 @@ Unanimous (4-0)
 
 ### 11. Commissioners Road
   West Realignment Environmental Assessment Appointment of Consulting Engineer
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -978,6 +998,8 @@ Unanimous (4-0)
 ### 12. Establishment of
   W12A Landfill Public Liaison Committee - Point of Source Water Treatment
   Program
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -997,6 +1019,8 @@ Unanimous (4-0)
   W12A Landfill Public Liaison Committee - Point of Source Water Treatment
   Program
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -1014,6 +1038,8 @@ Unanimous (4-0)
 ### 13. Parking Strategy
   for Downtown London: Appointment of Consulting Engineer
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1024,6 +1050,8 @@ Unanimous (4-0)
 ### 14. RFP-15-42 Yard
   Material Waste Composting - Irregular Bid
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1033,6 +1061,8 @@ Unanimous (4-0)
 
 ### 15. Winter Maintenance
   Program Enhancements
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1045,6 +1075,8 @@ Unanimous (4-0)
   of London's Drinking Water Quality Management System and 2015 Management
   Review
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1054,6 +1086,8 @@ Unanimous (4-0)
 
 ### 17. Endorsement of
   Revised Operational Plan for London's Drinking Water System
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1065,15 +1099,7 @@ Unanimous (4-0)
 ### 18. Renewal of the Lead
   Service Extension Replacement Loan Program
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 19. Free Parking in
-  December
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1084,6 +1110,20 @@ Unanimous (4-0)
 
 ### 19. Free Parking in
   December
+
+<a id="motion-19-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 19. Free Parking in
+  December
+
+<a id="motion-19-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1102,6 +1142,8 @@ Unanimous (4-0)
 ### 20. Deferred Matters
   List
 
+<a id="motion-20-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1111,6 +1153,8 @@ Unanimous (4-0)
 
 ### 20. Deferred Matters
   List
+
+<a id="motion-20-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

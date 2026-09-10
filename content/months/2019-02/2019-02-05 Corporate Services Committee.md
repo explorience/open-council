@@ -164,6 +164,8 @@ The meeting adjourns at 2:04 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Consent items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -172,6 +174,8 @@ Unanimous (3-0)
 
 ### 3.1. Apportionment of Taxes
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the taxes on the blocks of land described in the Schedules appended to the staff report dated February 5, 2019 BE APPORTIONED as indicated on the Schedules, pursuant to Section 35...
 
 **✅ Motion Passed (3 to 0)**
@@ -179,6 +183,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 4.1. London Convention Centre Investment
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the request of London Convention Centre for financial support in the amount of $500,000, for the London Convention Centre 2nd Floor Renovation Project, BE APPROVED, with the source of funding being the Economic Development Reserve Fund; it being noted that the Corporate Services Committee re...
 

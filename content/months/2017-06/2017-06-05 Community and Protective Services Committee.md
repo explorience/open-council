@@ -327,6 +327,8 @@ The meeting adjourned at 7:42 PM.
 ### 2. STAFF REPORT -
   Safer Communities - 1000 Officers Partnership Program
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -336,6 +338,8 @@ Unanimous (6-0)
 
 ### 3. STAFF REPORT -
   Community Policing Partnership Program
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -347,15 +351,7 @@ Unanimous (6-0)
 ### 4. Homeless Prevention
   and Housing Orientation
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 5. Noise By-law Amendment
-  - Temporary Noise Permits - Outdoor Patios
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -367,6 +363,8 @@ Unanimous (6-0)
 ### 5. Noise By-law Amendment
   - Temporary Noise Permits - Outdoor Patios
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -376,6 +374,20 @@ Unanimous (6-0)
 
 ### 5. Noise By-law Amendment
   - Temporary Noise Permits - Outdoor Patios
+
+<a id="motion-5-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 5. Noise By-law Amendment
+  - Temporary Noise Permits - Outdoor Patios
+
+<a id="motion-5-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -387,6 +399,8 @@ Unanimous (6-0)
 ### 6. 6th Report of the
   Diversity, Inclusion and Anti-oppression Advisory Committee
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -395,6 +409,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 7. Deferred Matters List
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -405,6 +421,8 @@ Unanimous (6-0)
 
 ### 8. (ADDED) 5th Report
   of the Accessibility Advisory Committee
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

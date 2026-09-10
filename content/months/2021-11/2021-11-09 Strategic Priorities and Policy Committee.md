@@ -1534,6 +1534,8 @@ And colleagues, let me also say thank you to you. It's been busy and it's been t
 
 ### 2.2. LMCH - CMHC Co-Investment - Loan Agreement
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports the following actions be taken:    a)  the proposed by-law as appended to the staff report dated November 9, 2021 as Appendix “A” BE INTRODUCED to:    i)    approve the Credit Agreement, substantially in the form attached, b...
 
 **✅ Motion Passed (13 to 0)**
@@ -1542,6 +1544,8 @@ Unanimous (13-0)
 
 ### 4.1. London Small Business Centre - Business Case Submission
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to work with the Small Business Centre to support an application to the Local Business Accelerator Program and that a municipal contribution of $57,500 BE AUTHORIZED from the earmarked London Community Recovery Network funding, noting that Municipal Counc...
 
 **✅ Motion Passed (14 to 0)**
@@ -1549,6 +1553,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 4.2. Hamilton Road BIA 2022 Budget Request
+
+<a id="motion-4-2-2" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to add the following new part c): "c)   that a one time grant of $30,000 be provided to the Hamilton Road BIA from the Community Investment Reserve Fund to establish an operating reserve."
 
@@ -1567,6 +1573,8 @@ Unanimous (14-0)
 
 ### 4.2. Hamilton Road BIA 2022 Budget Request
 
+<a id="motion-4-2-3" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (12 to 1)**
@@ -1584,6 +1592,8 @@ Unanimous (14-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That Justin Dias BE APPOINTED to the Covent Garden Market Board for the term ending November 15, 2022.
 
 **✅ Motion Passed (13 to 0)**
@@ -1591,6 +1601,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board (Requires 1 Member)
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > Appointment of a member to the Covent Garden Market Board.
 
@@ -1605,6 +1617,8 @@ Unanimous (13-0)
 
 ### 5.1. (ADDED) RBC Place London Board Appointment Recommendations for 2022
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors: a)      David Smith (Public Health) and Jenny Diplock (Business), Class 3, BE APPOINTED for the term ending November 15, 2023; and, b)      Dr. C. Schlachta (Health Care), Nora Fisher ...
 
 **✅ Motion Passed (13 to 0)**
@@ -1612,6 +1626,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 5.2. (ADDED) Committee of Adjustment - Member Vacancy
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That the resignation of John Fyfe-Millar from the Committee of Adjustment BE ACCEPTED and the City Clerk BE DIRECTED to publicly advertise for a replacement appointment with applications to be considered at the next meeting of the Strategic Priorities and Policy Committee.
 

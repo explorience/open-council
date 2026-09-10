@@ -1929,6 +1929,8 @@ All those in favor of adjournment. That motion's carried. Thank you, we're adjou
 
 ### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That, the Vision Statement BE AMENDED in the Draft Strategic Plan to read: "London is a sustainable city within a thriving region, committed to a vibrant culture, innovation and providing a safe, affordable, welcoming, and healthy future for today and for the next generation." ADDITIONAL VOTES: A...
 
 **✅ Motion Passed (10 to 3)**
@@ -1945,6 +1947,8 @@ All those in favor of adjournment. That motion's carried. Thank you, we're adjou
 </details>
 
 ### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+<a id="motion-4-2-2" class="motion-anchor"></a>
 
 > That the strategic area of focus “Reconciliation, Equity and Inclusion” be removed from the 2023-2027 Strategic Plan, with the proposed Outcomes to be reassigned within the remaining strategic areas of focus.
 
@@ -1963,6 +1967,8 @@ All those in favor of adjournment. That motion's carried. Thank you, we're adjou
 
 ### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
 
+<a id="motion-4-2-3" class="motion-anchor"></a>
+
 > That, the Strategic Area of Focus: Housing and Homelessness, Outcome 2, Expected Result 2.4 BE REMOVED and Draft Strategy BE AMENDED to add a new part d) "Implement a program of proactive rental property compliance blitzes to protect the health and safety of tenants" under Outcome 1, Expected Res...
 
 **✅ Motion Passed (8 to 4)**
@@ -1980,6 +1986,8 @@ All those in favor of adjournment. That motion's carried. Thank you, we're adjou
 
 ### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
 
+<a id="motion-4-2-4" class="motion-anchor"></a>
+
 > That, the Strategic Area of Focus: Wellbeing and Safety, Outcome 1, Expected Result 1.2, BE AMENDED to add a new part e) "Collaborate with volunteer-involved organizations to build on London’s history of individual and corporate volunteerism".
 
 **✅ Motion Passed (7 to 6) 🔥**
@@ -1996,6 +2004,8 @@ All those in favor of adjournment. That motion's carried. Thank you, we're adjou
 </details>
 
 ### 4.2. (ADDED) Council's Draft 2023-2027 Strategic Plan
+
+<a id="motion-4-2-6" class="motion-anchor"></a>
 
 > That, the Strategic Area of Focus: Economic Growth, Culture, and Prosperity, Outcome 1, Expected Result 1.1, BE AMENDED in part a) "Strengthen existing and introduce new partnerships and programs that support small and growing businesses, cultural and non-profit organizations, and entrepreneurs"....
 

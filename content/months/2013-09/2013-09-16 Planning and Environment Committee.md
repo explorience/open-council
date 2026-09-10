@@ -84,6 +84,8 @@ The
   By-law Monitoring Amendments Pertaining to Near-Campus Neighbourhood
   Amendments (Z-8218)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion

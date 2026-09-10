@@ -174,6 +174,8 @@ Passed
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > MOTION FOR IN CAMERA SESSION
 
 **✅ Motion Passed**

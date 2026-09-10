@@ -639,6 +639,8 @@ The
 ### 2. Property located at
   1452 Byron Baseline Road (H-8444)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -649,6 +651,8 @@ Unanimous (5-0)
 ### 3. Property located at
   1820 Woodhull Road - Amendment to Special Provisions - Bournewood Subdivision
   (39T-03511)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -667,6 +671,8 @@ Unanimous (5-0)
 ### 4. General Orientation
   - Key Committee Matters – Planning
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -676,6 +682,8 @@ Unanimous (5-0)
 
 ### 5. Municipality of
   Thames Centre Official Plan Review
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -695,6 +703,8 @@ Unanimous (5-0)
   with the National Trails Coalition for Implementation of the Coves
   Environmentally Significant Area Master Plan
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -706,14 +716,7 @@ Unanimous (5-0)
   at 51 and 99 Exeter Road - Notice of Appeal to the Ontario Municipal Board
   (OZ-8324)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Urban Design Manual
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -724,14 +727,7 @@ Unanimous (5-0)
 
 ### 8. Urban Design Manual
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Urban Design Manual
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -741,6 +737,30 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 8. Urban Design Manual
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Urban Design Manual
+
+<a id="motion-8-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Urban Design Manual
+
+<a id="motion-8-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -752,15 +772,7 @@ Unanimous (5-0)
 ### 9. Properties located
   at 305, 309 and 315 Southdale Road West (OZ-8320)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Properties located
-  at 305, 309 and 315 Southdale Road West (OZ-8320)
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -772,6 +784,8 @@ Unanimous (5-0)
 ### 9. Properties located
   at 305, 309 and 315 Southdale Road West (OZ-8320)
 
+<a id="motion-9-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -781,6 +795,20 @@ Unanimous (5-0)
 
 ### 9. Properties located
   at 305, 309 and 315 Southdale Road West (OZ-8320)
+
+<a id="motion-9-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Properties located
+  at 305, 309 and 315 Southdale Road West (OZ-8320)
+
+<a id="motion-9-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -791,6 +819,8 @@ Unanimous (5-0)
 
 ### 10. Property located at
   3680 Wonderland Road South (Z-8431)
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -809,6 +839,8 @@ Unanimous (5-0)
 ### 10. Property located at
   3680 Wonderland Road South (Z-8431)
 
+<a id="motion-10-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -818,6 +850,8 @@ Unanimous (5-0)
 
 ### 10. Property located at
   3680 Wonderland Road South (Z-8431)
+
+<a id="motion-10-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -829,6 +863,8 @@ Unanimous (5-0)
 ### 11. General Orientation
   - Key Committee Matters - Development Services
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -838,6 +874,8 @@ Unanimous (5-0)
 
 ### 12. Property located at
   1576 Richmond Street
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

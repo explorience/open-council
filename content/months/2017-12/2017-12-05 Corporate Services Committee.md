@@ -562,15 +562,7 @@ The meeting adjourned at 2:53 PM.
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2018
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 3. Asset Review: Class
-  C - Major Venues, Non-Core Services and Assets
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -581,6 +573,20 @@ Unanimous (6-0)
 
 ### 3. Asset Review: Class
   C - Major Venues, Non-Core Services and Assets
+
+<a id="motion-3-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 3. Asset Review: Class
+  C - Major Venues, Non-Core Services and Assets
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -592,6 +598,8 @@ Unanimous (6-0)
 ### 4. Crowd Control
   Procedures at Meetings
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -601,6 +609,8 @@ Unanimous (6-0)
 
 ### 5. Canada 150
   Community Infrastructure Program - Amending Agreements
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -612,16 +622,7 @@ Unanimous (6-0)
 ### 6. Understanding the
   City's Procurement Process and Practices
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 7. Amendments to the
-  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
-  Ontario's Municipal Legislation Act, 2017
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -634,16 +635,7 @@ Unanimous (6-0)
   Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
   Ontario's Municipal Legislation Act, 2017
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 7. Amendments to the
-  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
-  Ontario's Municipal Legislation Act, 2017
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -655,6 +647,34 @@ Unanimous (6-0)
 ### 7. Amendments to the
   Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
   Ontario's Municipal Legislation Act, 2017
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 7. Amendments to the
+  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
+  Ontario's Municipal Legislation Act, 2017
+
+<a id="motion-7-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 7. Amendments to the
+  Council Procedure By-law A-50, As Amended, Resulting from the Modernizing
+  Ontario's Municipal Legislation Act, 2017
+
+<a id="motion-7-3" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -673,15 +693,7 @@ Unanimous (6-0)
 ### 8. Tax Adjustment
   Agenda
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 8. Tax Adjustment
-  Agenda
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -692,6 +704,20 @@ Unanimous (6-0)
 
 ### 8. Tax Adjustment
   Agenda
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 8. Tax Adjustment
+  Agenda
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -703,6 +729,8 @@ Unanimous (6-0)
 ### 9. Ontario Good Roads
   Association Campaign Expenses
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -712,6 +740,8 @@ Unanimous (6-0)
 
 ### 10. Council and
   Standing Committee Meetings - Daytime
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -730,6 +760,8 @@ Unanimous (6-0)
 ### 11. Confirmation of
   Appointment to the Cycling Advisory Committee
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -739,6 +771,8 @@ Unanimous (6-0)
 
 ### 12. Consideration of
   Appointments to the Accessibility Advisory Committee
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -750,6 +784,8 @@ Unanimous (4-0)
 ### 12. Consideration of
   Appointments to the Accessibility Advisory Committee
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -759,6 +795,8 @@ Unanimous (5-0)
 
 ### 12. Consideration of
   Appointments to the Accessibility Advisory Committee
+
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

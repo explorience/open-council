@@ -1377,6 +1377,8 @@ The meeting adjourned at 7:26 PM.
 ### 2. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1386,6 +1388,8 @@ Unanimous (4-0)
 
 ### 3. Million Tree
   Challenge Status Update
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1397,6 +1401,8 @@ Unanimous (4-0)
 ### 4. Properties located
   at 1776-1896 Sumac Way (HZ-7745)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1406,6 +1412,8 @@ Unanimous (4-0)
 
 ### 5. Building Division
   Monthly Report for November 2013
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1417,25 +1425,7 @@ Unanimous (4-0)
 ### 6. 1st and 2nd Reports
   of the London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. Property located at
-  1221 Dundas Street (Z-8277)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Property located at
-  1221 Dundas Street (Z-8277)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1447,6 +1437,32 @@ Unanimous (4-0)
 ### 7. Property located at
   1221 Dundas Street (Z-8277)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Property located at
+  1221 Dundas Street (Z-8277)
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Property located at
+  1221 Dundas Street (Z-8277)
+
+<a id="motion-7-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1457,15 +1473,7 @@ Unanimous (4-0)
 ### 8. Property located at
   797 York Street (Z-8208)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  797 York Street (Z-8208)
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1476,6 +1484,20 @@ Unanimous (5-0)
 
 ### 8. Property located at
   797 York Street (Z-8208)
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  797 York Street (Z-8208)
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1486,6 +1508,8 @@ Unanimous (5-0)
 
 ### 9. Property located at
   193 Clarke Road (Z-8143)
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1504,6 +1528,8 @@ Unanimous (5-0)
 ### 9. Property located at
   193 Clarke Road (Z-8143)
 
+<a id="motion-9-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1514,6 +1540,8 @@ Unanimous (4-0)
 ### 9. Property located at
   193 Clarke Road (Z-8143)
 
+<a id="motion-9-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1523,6 +1551,8 @@ Unanimous (4-0)
 
 ### 10. Property located at
   122 Wortley Road (Z-8183)
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1541,6 +1571,8 @@ Unanimous (4-0)
 ### 10. Property located at
   122 Wortley Road (Z-8183)
 
+<a id="motion-10-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1551,16 +1583,7 @@ Unanimous (5-0)
 ### 10. Property located at
   122 Wortley Road (Z-8183)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Properties located
-  at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
-  1653 Richmond Street (OZ-7965)
+<a id="motion-10-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1573,6 +1596,8 @@ Unanimous (5-0)
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street (OZ-7965)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1583,6 +1608,21 @@ Unanimous (5-0)
 ### 11. Properties located
   at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
   1653 Richmond Street (OZ-7965)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Properties located
+  at 1607, 1609, 1611, 1615, 1619, 1623, 1627, 1631, 1635, 1639, 1643, 1649 and
+  1653 Richmond Street (OZ-7965)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1594,6 +1634,8 @@ Unanimous (5-0)
 ### 12. 1st and 2nd Reports
   of the Advisory Committee on the Environment
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1603,6 +1645,8 @@ Unanimous (5-0)
 
 ### 13. 1st Report of the
   Agricultural Advisory Committee
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1614,6 +1658,8 @@ Unanimous (5-0)
 ### 14. Trees on Private
   Property
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1622,6 +1668,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 15. Infill
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

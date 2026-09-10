@@ -1015,6 +1015,8 @@ We are adjourned.
 
 ### 2.1. 2026 Annual Budget Update Process
 
+<a id="motion-2-1-3" class="motion-anchor"></a>
+
 > That the amendment be amended to include a new part iii) to read as follows: iii)  the Mayor BE REQUESTED to advocate to the Provincial government to provide funding to help offset the London Police Service’s operating budget, not dissimilar to financial supports provided in 2024 to 330 small and...
 
 **✅ Motion Passed (15 to 0)**
@@ -1022,6 +1024,8 @@ We are adjourned.
 Unanimous (15-0)
 
 ### 2.1. 2026 Annual Budget Update Process
+
+<a id="motion-2-1-4" class="motion-anchor"></a>
 
 > That the motion be amended to read as follows: the Mayor and the London Police Services Board BE REQUESTED to advocate to the Provincial government with regards to the London Police Services budget on the following items: i)    contribute Provincial funding to the Emergency Services training cent...
 
@@ -1031,6 +1035,8 @@ Unanimous (15-0)
 
 ### 2.1. 2026 Annual Budget Update Process
 
+<a id="motion-2-1-5" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1039,6 +1045,8 @@ Unanimous (15-0)
 
 ### 2.2. Surplus/Deficit Policy Update
 
+<a id="motion-2-2-2" class="motion-anchor"></a>
+
 > That the delegation request from C. Butler BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -1046,6 +1054,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 2.2. Surplus/Deficit Policy Update
+
+<a id="motion-2-2-3" class="motion-anchor"></a>
 
 > The motion be amended to include a new part that reads as follows: That the proposed By-law No. CPOL.-46-242 being “Surplus/Deficit Policy” BE FURTHER AMENDED to reduce the contribution to the Unfunded Liability Reserve Fund to 17% and dedicate 3% to the Community Investment Reserve Fund
 
@@ -1061,6 +1071,8 @@ Unanimous (15-0)
 </details>
 
 ### 2.2. Surplus/Deficit Policy Update
+
+<a id="motion-2-2-4" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 

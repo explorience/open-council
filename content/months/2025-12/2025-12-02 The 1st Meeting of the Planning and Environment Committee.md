@@ -2089,6 +2089,8 @@ Councillor Stevenson, seconded by Deputy Mayor Lewis. Call the vote. Motion carr
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -2096,6 +2098,8 @@ Councillor Stevenson, seconded by Deputy Mayor Lewis. Call the vote. Motion carr
 Unanimous (5-0)
 
 ### 2.3. 455 Highbury Avenue North - OZ-9739
+
+<a id="motion-2-3-2" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to include a new part that reads as follows: That the Civic Administration BE DIRECTED to report back on the possible removal of the Tree Protection area.
 
@@ -2105,6 +2109,8 @@ Unanimous (5-0)
 
 ### 2.3. 455 Highbury Avenue North - OZ-9739
 
+<a id="motion-2-3-3" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -2112,6 +2118,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.3. 455 Highbury Avenue North - OZ-9739
+
+<a id="motion-2-3-4" class="motion-anchor"></a>
 
 > That the delegation request from D. Hannam, Zelinka Priamo Ltd. and T. Pearson, Malleum Partner, as appended to the Agenda, BE APPROVED to be heard at this time.
 
@@ -2121,6 +2129,8 @@ Unanimous (5-0)
 
 ### 3.1. 8th Report of the Community Advisory Committee on Planning
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That the 8th Report of the Community Advisory Committee on Planning, from its meeting held on November 20, 2025, was received;     it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
 
 **✅ Motion Passed (5 to 0)**
@@ -2129,6 +2139,8 @@ Unanimous (5-0)
 
 ### 3.2. 63 Byron Avenue East, Wortley Village – Old South Heritage  Conservation District - HAP25-084-L
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, with respect to the application by the Owners, K. Ojukwu & P. Doelman, under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a new building using salvaged ma...
 
 **✅ Motion Passed (4 to 0)**
@@ -2136,6 +2148,8 @@ Unanimous (5-0)
 Unanimous (4-0)
 
 ### 3.5. Public Participation Meeting - Not to be heard before 1:00 PM - 1164-1170 Richmond Street - OZ-25117
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kap Holdings Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 1164-1170 Richmond Street: a)    the request to amend The London Plan by ADDING ...
 
@@ -2152,6 +2166,8 @@ Unanimous (4-0)
 
 ### 3.7. Public Participation Meeting - Not to be heard before 1:00 PM - 129 Meadowlily Road South - OZ-25118
 
+<a id="motion-3-7-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Damas Development Inc. & CHAM Ltd. (c/o Zelinka Primo Ltd.) relating to the property located at 129 Meadowlily Road South: a)    the request to amend The Offici...
 
 **✅ Motion Passed (5 to 0)**
@@ -2159,6 +2175,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
+
+<a id="motion-3-8-2" class="motion-anchor"></a>
 
 > That Schedule 1 to Appendix “A” of the proposed by-law as appended to the staff report dated December 2, 2025, to adopt the Urban Growth Boundary for The London Plan as part of the Section 26 Official Plan Review, BE AMENDED as follows: i.    Schedule 1 to Appendix "A" – Northwest Urban Growth Bo...
 
@@ -2174,6 +2192,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.8. Public Participation Meeting - Not to be heard before 1:15 PM - Official Plan Review: Final Urban Growth Boundary Review - O-9595
+
+<a id="motion-3-8-3" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 

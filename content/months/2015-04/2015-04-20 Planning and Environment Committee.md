@@ -794,6 +794,8 @@ The
 ### 2. 4th Report of the
   Advisory Committee on the Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -805,6 +807,8 @@ Unanimous (5-0)
   878 Hellmuth Avenue - Committee of Adjustment Decision on Minor Variance
   Application (A.009/15)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -814,6 +818,8 @@ Unanimous (3-0)
 
 ### 4. Properties located
   at 2179 and 2201 Hyde Park Road (H-8442)
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -825,15 +831,7 @@ Unanimous (5-0)
 ### 5. 6th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Properties located
-  at 85 and 91 Meg Drive (Z-8451)
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -845,6 +843,8 @@ Unanimous (5-0)
 ### 6. Properties located
   at 85 and 91 Meg Drive (Z-8451)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -855,16 +855,7 @@ Unanimous (5-0)
 ### 6. Properties located
   at 85 and 91 Meg Drive (Z-8451)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Properties located
-  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
-  (Z-8452)
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -873,20 +864,10 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
-### 7. Properties located
-  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
-  (Z-8452)
+### 6. Properties located
+  at 85 and 91 Meg Drive (Z-8451)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Properties located
-  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
-  (Z-8452)
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -899,16 +880,7 @@ Unanimous (5-0)
   at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
   (Z-8452)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Properties located
-  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
-  (Z-8452)
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -920,6 +892,60 @@ Unanimous (5-0)
 ### 7. Properties located
   at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
   (Z-8452)
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Properties located
+  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
+  (Z-8452)
+
+<a id="motion-7-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Properties located
+  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
+  (Z-8452)
+
+<a id="motion-7-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Properties located
+  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
+  (Z-8452)
+
+<a id="motion-7-4" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Properties located
+  at 1070, 1072, 1080 and 1088 Adelaide Street North and 621-623 Huron Street
+  (Z-8452)
+
+<a id="motion-7-5" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -932,6 +958,8 @@ Unanimous (5-0)
   Design Competition
   – London Community Foundation
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -942,6 +970,8 @@ Unanimous (5-0)
 ### 10. Property located at
   3804 Southwinds Drive
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -951,6 +981,8 @@ Unanimous (5-0)
 
 ### 11. Planning and
   Environment Committee Deferred Matters List
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -1622,6 +1622,8 @@ Have a great evening.
 
 ### 2.4. Strategic Plan Implementation Update: Mid-Year 2026
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Manager, the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for information; it being noted that the Strategic Priorities and Policy Committee received a communication...
 
 **✅ Motion Passed (12 to 1)**
@@ -1638,6 +1640,8 @@ Have a great evening.
 </details>
 
 ### 2.6. Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
+
+<a id="motion-2-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 28, 2026, titled “Review of RFPQ 2025-056 – Redevelopment of City Hall Campus Procurement and Related Information” BE RECEIVED for information.
 
@@ -1656,6 +1660,8 @@ Have a great evening.
 
 ### 3.4. Delegation - Paul Chisholm, Chief Executive Officer and Phil Squire, Board Chair, London & Middlesex Community Housing - LMCH Master Regeneration Plan
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE RECEIVED; it being noted that the Strategic Priorities and Policy Committee received a presentation from P. Chisholm, Chief Executive Officer and P. Squire, Board Chair, London & Middlesex Community Housing with respect ...
 
 **✅ Motion Passed (13 to 2)**
@@ -1670,6 +1676,8 @@ Have a great evening.
 </details>
 
 ### 4.1. Review of the London & Middlesex Community Housing Master Regeneration Plan
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Housing and Community Growth, the report on the London and Middlesex Community Housing Master Regeneration Plan BE RECEIVED for information.
 

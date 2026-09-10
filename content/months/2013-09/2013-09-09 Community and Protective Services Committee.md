@@ -381,6 +381,8 @@ Motion
 ### 6. By-law No.
   L.-129-51 – Taxi and Limousine Licensing By-law
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -390,6 +392,8 @@ Unanimous (4-0)
 
 ### 7. A. Wilson, Licious
   Festivals Inc. – Request for Delegation Status - LondonLicious
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -401,6 +405,8 @@ Unanimous (5-0)
 ### 8. Registry of Vacant
   Buildings By-law and Cost Recovery
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -410,6 +416,8 @@ Unanimous (6-0)
 
 ### 9. Request for Exemption
   from the City's Noise By-law PW-12
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -428,6 +436,8 @@ Unanimous (6-0)
 ### 10. RFP 12-28 Animal
   Welfare Services
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -438,6 +448,8 @@ Unanimous (6-0)
 ### 11. Proposed
   Enhancements for Animal Welfare Services
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -446,6 +458,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 12. Update on Taxi Business Transfers
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

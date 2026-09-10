@@ -292,6 +292,8 @@ The meeting adjourned at 1:16 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -299,6 +301,8 @@ The meeting adjourned at 1:16 PM.
 Unanimous (5-0)
 
 ### 4.1. Request for Delegation Status - Public Notice Policy - AnnaMaria Valastro
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to report back, as a part of the scheduled Council Policy review, with respect to the addition of a notice provision related to the establishment of city-management of newly created private parking lots in the Public Notice Policy; it being noted that the...
 
@@ -315,6 +319,8 @@ Unanimous (5-0)
 
 ### 4.1. Request for Delegation Status - Public Notice Policy - AnnaMaria Valastro
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to Approve the delegation request to be heard at this time.
 
 **✅ Motion Passed (6 to 0)**
@@ -323,6 +329,8 @@ Unanimous (6-0)
 
 ### 4.2. Application – Issuance of Proclamation – Guillain-Barré Syndrome (GBS) and Chronic Inflammatory
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That Items 4.2 to 4.4 BE APPROVED. 4.2 Application – Issuance of Proclamation – Guillain-Barré Syndrome (GBS) and Chronic Inflammatory     That based on the application dated March 1, 2021, from GBS-CIDP Foundation of Canada, the month of May, 2021 BE PROCLAIMED Guillain-Barré Syndrome (GBS) and ...
 
 **✅ Motion Passed (6 to 0)**
@@ -330,6 +338,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.5. Application - Issuance of Proclamation - World Press Freedom Day 2021
+
+<a id="motion-4-5-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to World Press Freedom Day:    a)      based on the application dated March 17, 2021, from ink-stainedwretches.org, May 3, 2021 BE PROCLAIMED World Press Freedom Day;     b)      the London City Council RECOGNIZE that a healthy, professional news m...
 

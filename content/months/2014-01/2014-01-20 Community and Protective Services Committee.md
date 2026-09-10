@@ -215,6 +215,8 @@ Motion
 ### 3. Labour Market
   Agreements and the Canada Job Grant
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -224,6 +226,8 @@ Unanimous (4-0)
 
 ### 4. Service Manager Consortium Agreement –
   Housing Collaborative Initiative
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -235,6 +239,8 @@ Unanimous (4-0)
 ### 5. London Housing
   Registry - Update
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -244,6 +250,8 @@ Unanimous (4-0)
 
 ### 6. Contract Award RFP
   13-48 London CAReS
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -372,6 +372,8 @@ The Corporate Services Committee convened
   Amelia Lucy Ronalds Little Trust Fund from Museum London to The Corporation
   of the City of London
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -381,6 +383,8 @@ Unanimous (5-0)
 
 ### 3. Industrial Land
   Development Strategy - Annual Monitoring and Pricing Report - City of London
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -392,6 +396,8 @@ Unanimous (5-0)
 ### 4. 2015 Investment
   Report
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -401,6 +407,8 @@ Unanimous (5-0)
 
 ### 5. Update of Council
   Policies
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -413,15 +421,7 @@ Unanimous (5-0)
   Ridley - Executive Summary of the Ontario Good Roads Association Board of
   Directors Meeting
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Public Participation
-  Meeting - Council Procedure By-law
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -433,6 +433,8 @@ Unanimous (5-0)
 ### 7. Public Participation
   Meeting - Council Procedure By-law
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -442,6 +444,20 @@ Unanimous (5-0)
 
 ### 7. Public Participation
   Meeting - Council Procedure By-law
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Public Participation
+  Meeting - Council Procedure By-law
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -453,6 +469,8 @@ Unanimous (5-0)
 ### 8. Standing Committee
   Agendas
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -462,6 +480,8 @@ Unanimous (4-0)
 
 ### 9. Councillor J.
   Zaifman - Board of Directors - Association of Municipalities of Ontario
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

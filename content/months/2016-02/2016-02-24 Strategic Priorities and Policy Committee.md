@@ -145,6 +145,8 @@ That the communication dated February 10,
 ### 2. Assessment Growth
   Policy and Allocation of 2016 Assessment Growth Funding
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -161,14 +163,7 @@ That the communication dated February 10,
 ### 3. 2016-2019
   Multi-Year Budget - Public Participation Meeting
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. 2016-2019
-  Multi-Year Budget - Public Participation Meeting
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -178,6 +173,19 @@ Unanimous (15-0)
 
 ### 3. 2016-2019
   Multi-Year Budget - Public Participation Meeting
+
+<a id="motion-3-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. 2016-2019
+  Multi-Year Budget - Public Participation Meeting
+
+<a id="motion-3-2" class="motion-anchor"></a>
 
 > Motion Passed
 

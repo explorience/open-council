@@ -2281,6 +2281,8 @@ Motion Passed
 ### 1#8. Disclosures of
   Pecuniary Interest
 
+<a id="motion-1-8-1" class="motion-anchor"></a>
+
 > Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and Chief Human ...
 
 **✅ Motion Passed**
@@ -2290,6 +2292,8 @@ Unanimous (14-0)
 ### 10#2. Property located at
   259 Sunningdale Road West (OZ-8094) (Relates to Bill No. 186 and Bill No.
   197))
+
+<a id="motion-10-2-0" class="motion-anchor"></a>
 
 > Approve that, on the recommendation of the Senior Planner, Development   Planning, the following action be taken with respect to the request from   Sunningdale Golf and Country Club Limited, relating to the property located   at 259 Sunningdale Road West:   a)        the   proposed by-law appende...
 
@@ -2307,6 +2311,8 @@ Unanimous (14-0)
 ### 10#3. Tourism London Bid
   – 2018 Ontario Summer Games
 
+<a id="motion-10-3-0" class="motion-anchor"></a>
+
 > That the bid by Tourism London to host the   2018 Ontario Summer Games in London, Ontario, to be held August 3 to 5, 2018,   BE SUPPORTED.
 
 **✅ Motion Passed**
@@ -2314,6 +2320,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 13#2. Green Roofs
+
+<a id="motion-13-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to report back at a future meeting of the Planning and Environment Committee   with respect to potential policy and/or by-law changes that would provide a   mechanism by which green roofs could be included in the calculation of   required landscape ope...
 
@@ -2325,6 +2333,8 @@ Unanimous (14-0)
   River" - Master Plan Environmental Assessment (Refer to the Civic Works
   Committee stage for consideration with clause 7 of the 8th Report of the
   Civic Works Committee.)
+
+<a id="motion-2-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2342,6 +2352,8 @@ Unanimous (14-0)
 ### 2#4. Shift Rapid Transit
   - Business Case
 
+<a id="motion-2-4-2" class="motion-anchor"></a>
+
 > Approve part c) of clause 2.   c)        the   communication dated May 3, 2016, from Jim Kennedy, President, London   Development Institute, in support of a full Bus Rapid Transit System, BE   RECEIVED;   it being noted that the Strategic   Priorities and Policy Committee heard the attached prese...
 
 **✅ Motion Passed**
@@ -2350,6 +2362,8 @@ Unanimous (15-0)
 
 ### 2#5. Closing of Part of Cedarpark
   Crescent and Kilcrest Way
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the closing part of Cedarpark   Crescent and Kilcrest Way:   a)        the   closing of Cedarpark Crescent lying south of Lot 44 and a...
 
@@ -2360,6 +2374,8 @@ Unanimous (12-0)
 ### 5#2. Properties located
   at 776-802 Killarney Road (Relates to Bill No. 189)
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Senior   Planner, Development Services, the following actions be taken with respect to   the application of Auburn Developments Inc. and the Thames Valley District   School Board, relating to the properties located at 776-802 Killarney Road:   a)        the   pr...
 
 **✅ Motion Passed**
@@ -2368,6 +2384,8 @@ Unanimous (12-0)
 
 ### 7#2. Property located at
   3300 Castle Rock Place (H-8559) (Relates to Bill No. 194)
+
+<a id="motion-7-2-0" class="motion-anchor"></a>
 
 > Approve that clause 7 be amended to read   as follows:   “That, based on the application of Kirkness   Consulting Inc., relating to the property located 3400 Castle Rock Place, the   proposed attached by-law BE INTRODUCED at the Municipal Council   meeting to be held on May 17, 2016 to amend Zoni...
 
@@ -2378,6 +2396,8 @@ Unanimous (14-0)
 ### 7#2. Property located at
   3300 Castle Rock Place (H-8559) (Relates to Bill No. 194)
 
+<a id="motion-7-2-1" class="motion-anchor"></a>
+
 > Approve clause 7, as amended.
 
 **✅ Motion Passed**
@@ -2386,6 +2406,8 @@ Unanimous (14-0)
 
 ### 8#2. Property located at
   1602 Sunningdale Road West (Z-8587) (Relates to Bill No. 195)
+
+<a id="motion-8-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Services, based on the application of Foxwood   Development (London) Inc., relating to the property located at 1602   Sunningdale Road West, the proposed by-law appended to the staff report dated   May 9, 2016, BE INTRODUCED at the ...
 
@@ -2403,6 +2425,8 @@ Unanimous (14-0)
 ### 9#2. Property located at
   195 Dundas Street (TZ-8592) (Relates to Bill No. 196)
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, based on the application of Ayerswood   Development Corp., relating to the property located at 195 Dundas Street, the   attached, revised, by-law BE INTRODUCED at the Municipal   Council meeting to be held on May 1...
 
 **❌ Motion Failed 🔥**
@@ -2419,6 +2443,8 @@ Unanimous (14-0)
 ### 9#2. Property located at
   195 Dundas Street (TZ-8592) (Relates to Bill No. 196)
 
+<a id="motion-9-2-1" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of   the Managing Director, Planning and City Planner, based on the application of   Ayerswood Development Corp., relating to the property located at 195 Dundas   Street, the attached, revised, by-law BE INTRODUCED at the Municipal   Council meeting to be held ...
 
 **✅ Motion Passed**
@@ -2434,6 +2460,8 @@ Unanimous (14-0)
 
 ### IX. REPORTS
 
+<a id="motion-ix-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 2 of the 13th Report of the Strategic Priorities and   Policy Committee, having to do with the Shift Rapid Transit Business Case, to   be considered at this...
 
 **✅ Motion Passed**
@@ -2442,6 +2470,8 @@ Unanimous (14-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into Committee   of the Whole, in camera, for the purpose of considering the following:
 
@@ -2452,6 +2482,8 @@ Unanimous (14-0)
 ### V#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (CONTINUED)
 
+<a id="motion-v-2-0" class="motion-anchor"></a>
+
 > MOTION FOR IN CAMERA SESSION
 
 **✅ Motion Passed**
@@ -2460,6 +2492,8 @@ Unanimous (14-0)
 
 ### V#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (CONTINUED)
+
+<a id="motion-v-2-1" class="motion-anchor"></a>
 
 > Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasur...
 
@@ -2470,6 +2504,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON MAY 3, 2016
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve that the Minutes of the Eleventh   Meeting held on May 3, 2016 BE APPROVED.
 
 **✅ Motion Passed**
@@ -2479,6 +2515,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 19.2 of the   Council Procedure By-law, leave be given for the introduction of an emergent   motion to request support for the reimbursement of out-of-pocket travel costs   for the five London Professional Fire Fighters’ Association members who have   travelled to...
 
 **✅ Motion Passed**
@@ -2487,6 +2525,8 @@ Unanimous (14-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 11.14   of the Council Procedure By-law, that the question be put.
 
@@ -2504,6 +2544,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-2" class="motion-anchor"></a>
+
 > The motion to Approve the above-noted   emergent motion is put.
 
 **✅ Motion Passed**
@@ -2519,6 +2561,8 @@ Unanimous (14-0)
 
 ### XIII#2. BY-LAWS
   (Continued)
+
+<a id="motion-xiii-2-9" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of    Bill No. 196, as revised.
 
@@ -2536,6 +2580,8 @@ Unanimous (14-0)
 ### XIII#2. BY-LAWS
   (Continued)
 
+<a id="motion-xiii-2-10" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 196,   as revised.
 
 **✅ Motion Passed**
@@ -2551,6 +2597,8 @@ Unanimous (14-0)
 
 ### XIII#2. BY-LAWS
   (Continued)
+
+<a id="motion-xiii-2-11" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment Bill   No. 196, as revised.
 
@@ -2568,6 +2616,8 @@ Unanimous (14-0)
 ### 5. Options for
   Collection and Diversions of Christmas Trees
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Approve that part c) of clause 5 be   amended to read as follows:   “c)    the   Civic Administration BE DIRECTED to prepare amendments to the Municipal Waste   & Resource Materials Collection By-law (WM-12) to allow for the separate   collection of Christmas trees as a pilot project and deem Chr...
 
 **✅ Motion Passed**
@@ -2577,6 +2627,8 @@ Unanimous (14-0)
 ### 5. Options for
   Collection and Diversions of Christmas Trees
 
+<a id="motion-5-1" class="motion-anchor"></a>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -2585,6 +2637,8 @@ Unanimous (14-0)
 
 ### 6. Garbage Container
   Limits (Waste Diversion)
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the   Director, Environment, Fleet and Solid Waste, the following actions be taken   with respect to the garbage container limits (waste diversion):    a)        the   Civic Administration BE AUTHORIZED to undertake a community information and   engagement process t...
 
@@ -2602,6 +2656,8 @@ Unanimous (14-0)
 ### 7. "One
   River" - Master Plan Environmental Assessment
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Approve that clause 7 be amended as   follows:   a)       by   adding the following words after the words “Official Plan”:   “Species at Risk, endangered species and   any other relevant data and report back to the Civic Works Committee with the   draft Terms of Reference, including time lines an...
 
 **✅ Motion Passed**
@@ -2610,6 +2666,8 @@ Unanimous (14-0)
 
 ### 7. "One
   River" - Master Plan Environmental Assessment
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Approve clause 7, as amended.
 

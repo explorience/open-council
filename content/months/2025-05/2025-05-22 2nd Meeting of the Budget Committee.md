@@ -1496,6 +1496,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > c)    the Civic Administration BE DIRECTED to proceed with implementing the user fee changes for the revenue generation opportunity identified in Appendix "A", as appended to the staff report dated May 22, 2025, and to bring forward the corresponding business case for inclusion in the Mayor’s pro...
 
 **✅ Motion Passed (10 to 4)**
@@ -1512,6 +1514,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-3" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 1    Roadway Maintenance – Reduced Summer Sidewalk Maintenance
 
@@ -1530,6 +1534,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-4" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 2    Roadway Planning & Design – Reduced Road Network Improvements
 
 **✅ Motion Passed (9 to 5)**
@@ -1546,6 +1552,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-5" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 3    Urban Forestry - Reduction in Pathway and Trail Edge Brush Mulching
 
@@ -1564,6 +1572,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-6" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 4    Urban Forestry – Tree Planting Grants & Non-replacement Tree Planting
 
 **❌ Motion Failed (7 to 7) 🔥**
@@ -1580,6 +1590,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-7" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 5    Aquatics – Closure of 5 Wading Pools
 
@@ -1598,6 +1610,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-8" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 6    Corporate Management – Resident Satisfaction Survey
 
 **❌ Motion Failed (4 to 10)**
@@ -1614,6 +1628,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-9" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 7    Human Resources – Internships
 
@@ -1632,6 +1648,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-10" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix B, Ref # - 8    Information Technology – Digital Transformation
 
 **❌ Motion Failed (1 to 13)**
@@ -1648,6 +1666,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-11" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 1    Traffic Control & Street Lighting - Eliminate Full Funding of New Streetlight Installations
 
@@ -1666,6 +1686,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-12" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 2    Recycling & Composting - Stop Multi-Residential Green Bin Cart Pilot Project and Future Expansion
 
 **✅ Motion Passed (9 to 5)**
@@ -1682,6 +1704,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-13" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 3    Recycling & Composting - Stop Collecting Blue Box Materials from Non-eligible Sources (NES)
 
@@ -1700,6 +1724,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.1. 2026 Annual Budget Update - Status Update
 
+<a id="motion-4-1-14" class="motion-anchor"></a>
+
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 4    Parks & Horticulture - Maintenance of Local Road Traffic Circles, Gateway Features and Cul-de-sac Islands
 
 **✅ Motion Passed (8 to 6) 🔥**
@@ -1716,6 +1742,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.1. 2026 Annual Budget Update - Status Update
+
+<a id="motion-4-1-15" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to exclude the following business case in the 2026 Budget Update: Appendix C, Ref # - 5    Capital Financing – Climate Change Reserve Fund Contribution
 
@@ -1734,6 +1762,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 
 ### 4.2. Budget 2026 Cost Savings Opportunities - London Economic Development Corporation (LEDC) Review - Councillor S. Stevenson
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the communication dated May 11, 2025 from Councillor S. Stevenson regarding the budget 2026 cost saving opportunities regarding London Economic Development Corporation (LEDC) review BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee at which the LEDC is schedule...
 
 **❌ Motion Failed (4 to 10)**
@@ -1750,6 +1780,8 @@ Motion to adjourn moved by Councillor Ferris. Seconded by Councillor Cady, a hel
 </details>
 
 ### 4.3. Budget 2026 Cost Savings Opportunities - Cycling Lane Projects - Councillor S. Stevenson
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Budget Committee with a list of all approved future cycling lane projects, their location, timeline, budgeted capital costs, source of funding and estimated annual maintenance costs;
 

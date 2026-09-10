@@ -1334,6 +1334,8 @@ Passed
 ### 10#2. "Our Move
   Forward" London's Downtown Plan (O-8385)
 
+<a id="motion-10-2-0" class="motion-anchor"></a>
+
 > Approve referral of the “Our Move Forward”   London’s Downtown Plan back to staff to undertake wording and graphics   refinements.
 
 **✅ Motion Passed**
@@ -1350,6 +1352,8 @@ Passed
 ### 14#2. Old East Village
   Community Incentive Plan's Tax Grant Program
 
+<a id="motion-14-2-0" class="motion-anchor"></a>
+
 > That, the communication from Councillor M.   Van Holst, with respect to the request for a Community Improvement Plan for   the Hamilton Road area, BE REFERRED to the Civic Administration for   incorporation into the Planning Departments Work Plan and Budget and to   report back at a future Planni...
 
 **✅ Motion
@@ -1360,6 +1364,8 @@ Unanimous (13-0)
 ### 2#5. Strategic
   Plan - Discussion of Strategy
 
+<a id="motion-2-5-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1367,6 +1373,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### IX. REPORTS
+
+<a id="motion-ix-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.4   of the Council Procedure By-law, the order of business be changed to permit   consideration clause 15, of the 3rd Report of the Civic Works Committee, at   this time.
 
@@ -1377,6 +1385,8 @@ Unanimous (12-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:     a)              A   matter pertaining to advice that is subject to solicitor-client privilege,   including communications necessary for that purpose, with respect to Nort...
 
 **✅ Motion Passed**
@@ -1385,6 +1395,8 @@ Unanimous (11-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD ON JANUARY 27, 2015
+
+<a id="motion-vi-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the Fifth Meeting   held on January 27, 2015.
 
@@ -1397,6 +1409,8 @@ Unanimous (12-0)
   Colborne Street (Refer to the Civic Works Committee stage for consideration
   with clause 10 of the 3rd Report of the Civic Works Committee.)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1405,6 +1419,8 @@ Unanimous (12-0)
 
 ### 6. Standing Committee
   Membership - Federation of Canadian Municipalities
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That Councillor M. Cassidy BE AUTHORIZED to   attend the FCM Board of Directors Meeting to be held in Burnaby, B.C. from   March 3 to 6, 2015 and to attend the FCM Annual Conference and AGM to be held   in Edmonton, AB from June 5 to 8, 2015; and that she BE REIMBURSED for her   associated expens...
 
@@ -1415,6 +1431,8 @@ Unanimous (13-0)
 
 ### 10. Commercial
   Boulevard Parking Application, 552 Colborne Street
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Approve That clause 10 be amended by deleting   the clause in its entirety and by replacing it with the following new clause   10:   “That,   on the recommendation of the Managing Director, Environmental and Engineering   Services and City Engineer, the following actions be taken with respect to ...
 
@@ -1432,6 +1450,8 @@ Unanimous (13-0)
 ### 14. Update to City of
   London Entrance Signs
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -1440,6 +1460,8 @@ Passed**
 Unanimous (13-0)
 
 ### 15. Canada Post Community Mailbox Program
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Approve that clause 15 be amended by   deleting the clause in its entirety and by replacing it with the following   new clause:   “15.      That, the following actions be   taken with respect to Canada Post’s Community Mailbox Program:   a)         the   Civic Administration BE DIRECTED to invest...
 
@@ -1455,6 +1477,8 @@ Unanimous (13-0)
 </details>
 
 ### 15. Canada Post Community Mailbox Program
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Approve clause 15, as amended.
 

@@ -348,6 +348,8 @@ The
 ### 2. 1st Report of the
   Cycling Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -357,6 +359,8 @@ Unanimous (4-0)
 
 ### 3. 2015 Burbrook Trunk
   Storm Sewer Project Initiation
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -368,6 +372,8 @@ Unanimous (4-0)
 ### 4. SS12-27 Single
   Source Contract of the Supply and Delivery of Chemical Lime
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -377,6 +383,8 @@ Unanimous (4-0)
 
 ### 5. London Cycling
   Master Plan - Appointment of Consulting Engineer
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -389,6 +397,8 @@ Unanimous (4-0)
   Sarnia Road / Philip Aziz Avenue Environmental Assessment - Appointment of
   Consulting Engineer
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -399,6 +409,8 @@ Unanimous (4-0)
 ### 7. Accessible
   Pedestrian Signals Single Source
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -408,6 +420,8 @@ Unanimous (4-0)
 
 ### 8. Parking Application
   Renewal
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

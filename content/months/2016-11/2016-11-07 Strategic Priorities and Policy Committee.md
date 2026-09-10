@@ -465,6 +465,8 @@ The
 ### 2. STAFF REPORT - 2015
   Annual Report – Development Charges Reserve Funds
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -473,6 +475,8 @@ Unanimous (14-0)
 
 ### 3. STAFF REPORT -
   Development Charges Rate Monitoring - 2016 Review
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -483,6 +487,8 @@ Unanimous (14-0)
 ### 4. Tabling of the 2017
   Budget (Tax Supported Operating, Capital, Water and Waste Water Treatment)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -492,13 +498,7 @@ Unanimous (14-0)
 ### 5. London Music
   Strategy – A Year in Review
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 6. Standing Committee Appointments
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -508,13 +508,7 @@ Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 6. Standing Committee Appointments
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -523,6 +517,28 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6. Standing Committee Appointments
+
+<a id="motion-6-2" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 6. Standing Committee Appointments
+
+<a id="motion-6-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -539,6 +555,8 @@ Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
 
+<a id="motion-6-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -546,6 +564,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -562,6 +582,8 @@ Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
 
+<a id="motion-6-6" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -569,6 +591,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-7" class="motion-anchor"></a>
 
 > Motion Passed
 

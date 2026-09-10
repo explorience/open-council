@@ -403,6 +403,8 @@ We are adjourned and thank you to everyone in the gallery for joining us and hav
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -410,6 +412,8 @@ We are adjourned and thank you to everyone in the gallery for joining us and hav
 Unanimous (6-0)
 
 ### 4.1. Byron Legion Monument Donation to Springbank Park
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated January 8, 2024, related to the proposed donation of Byron Monument to the City of London for Springbank Park per Sections 4.1a...
 

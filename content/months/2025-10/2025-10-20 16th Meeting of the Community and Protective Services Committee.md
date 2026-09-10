@@ -1361,6 +1361,8 @@ That motion carries. We're adjourned.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3 and 2.5 BE APPROVED
 
 **✅ Motion Passed (5 to 0)**
@@ -1368,6 +1370,8 @@ That motion carries. We're adjourned.
 Unanimous (5-0)
 
 ### 2.4. 2025 Parkland Dedication By-law CP-25 Update
+
+<a id="motion-2-4-1" class="motion-anchor"></a>
 
 > That part b) of the motion BE AMENDED to read “January 1 2028” instead of “January 1 2027”.
 
@@ -1377,6 +1381,8 @@ Unanimous (5-0)
 
 ### 2.4. 2025 Parkland Dedication By-law CP-25 Update
 
+<a id="motion-2-4-2" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1384,6 +1390,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
+
+<a id="motion-3-1-3" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to add the following parts: c)  the proposed change to impose a cap of one million dollars (Appendix “A” #6 “Community Mitigative Measures Fund”) BE REMOVED; d)  the proposed change to reduce the number of meetings per year (Appendix “A” #8 “W12A Landfill Public Liaison...
 
@@ -1393,6 +1401,8 @@ Unanimous (5-0)
 
 ### 3.1. Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
 
+<a id="motion-3-1-4" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to add a new part g), to read as follows: the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to enforcement actions related to vehicle speeds, weights, and containment of loads, includi...
 
 **✅ Motion Passed (5 to 0)**
@@ -1400,6 +1410,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
+
+<a id="motion-3-1-5" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to add a new part h), to read as follows: the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to the enforcement of odour regulations, including whether the City of London has the jurisd...
 
@@ -1409,6 +1421,8 @@ Unanimous (5-0)
 
 ### 3.1. Proposed Changes to the W12A Landfill Community Enhancement and Mitigative Measures Program
 
+<a id="motion-3-1-6" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1417,6 +1431,8 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Councillor S. Trosow and Councillor J. Pribil - Improving By-law Compliance Communications
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > The Civic Administration BE DIRECTED to conduct an environmental scan of selected Ontario cities with respect to different approaches undertaken to communicate the status of by-law enforcement complaints and report the results back to the Community and Protective Services Committee by Q2 2026; it...
 
 **✅ Motion Passed (5 to 0)**
@@ -1424,6 +1440,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.2. (ADDED) Councillor D. Ferreira - Street Parking in the Core Area
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to continue 1-hour free on street parking in the Core Area through the parking services HONK app funded using the existing approved funding from the Economic Development Reserve Fund until the end of 2025; it being noted that communications, as appended t...
 

@@ -691,6 +691,8 @@ Motion's carried. Meeting adjourned at 526. Thank you all.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -698,6 +700,8 @@ Motion's carried. Meeting adjourned at 526. Thank you all.
 Unanimous (14-0)
 
 ### 2.1. London Small Business Centre – Board Governance Structure Updates
+
+<a id="motion-2-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, City Planning and City Planner, and as requested by the Small Business Centre, Councillors S. Hillier and P. Van Meerbergen BE APPOINTED to the Small Business Centre for a special meeting (date to be determined) to undertake the actions required to ame...
 
@@ -707,6 +711,8 @@ Unanimous (15-0)
 
 ### 4.1. Nomination of a New Budget Chair
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That Councillor E. Peloza BE APPOINTED as the Council lead for the Budget process, acting as Budget Chair with duties including coordination of all Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and consi...
 
 **✅ Motion Passed (15 to 0)**
@@ -715,6 +721,8 @@ Unanimous (15-0)
 
 ### 4.2. Kettle Creek Conservation Authority Membership
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the current membership of the Kettle Creek Conservation Authority allocating one (1) member each to the Municipality of Central Elgin, the Municipality of Middlesex Centre, the Municipality of Thames Centre, the Township of Malahide, and the Township of Southwold; and two (2) members to the ...
 
 **✅ Motion Passed (15 to 0)**
@@ -722,6 +730,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Operation of City Council
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with the corporate reorganization, while better serving London, including but not limited to: hours of...
 

@@ -275,6 +275,8 @@ All right, thank you. We're adjourned.
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Third Reading and Enactment of Bill No. 333 BE APPROVED.
 
 **✅ Motion Passed (13 to 1)**

@@ -299,6 +299,8 @@ The Corporate Services Committee convened
   Corporate Services and City Treasurer, Chief Financial Officer - Single
   Source Debt Management System
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -311,6 +313,8 @@ Unanimous (3-0)
   Pre-Authorized Tax Payment Plan By-law and Collection of Property Taxes
   By-law
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -321,6 +325,8 @@ Unanimous (3-0)
 ### 4. Managing Director,
   Corporate Services and Chief Human Resources Officer - Employee Absenteeism -
   2013 Mid-Year Review Update
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -333,6 +339,8 @@ Unanimous (3-0)
   General Manager, Covent Garden Market - Expenditure Above Market Threshold – Final Phase LED
   Lighting System
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -342,6 +350,8 @@ Unanimous (3-0)
 
 ### 6. Appointment to the
   Childcare Advisory Committee
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -353,6 +363,8 @@ Unanimous (3-0)
 ### 7. Appointments to the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -362,6 +374,8 @@ Unanimous (3-0)
 
 ### 8. Appointment to the
   Town and Gown Committee
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -374,6 +388,8 @@ Unanimous (3-0)
   Director, Corporate Services and City Treasurer, Chief Financial Officer -
   City of London's Credit Rating
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -383,6 +399,8 @@ Unanimous (3-0)
 
 ### 10. ADDED – Request for Expense Authorization –
   Councillor J.L. Baechler
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -280,16 +280,7 @@ Motion
   Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to
   Add a Fee for the Retrieval of Abandoned Shopping Carts
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Amendments to
-  Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to
-  Add a Fee for the Retrieval of Abandoned Shopping Carts
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -301,6 +292,21 @@ Unanimous (5-0)
 ### 6. Amendments to
   Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to
   Add a Fee for the Retrieval of Abandoned Shopping Carts
+
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Amendments to
+  Various Fees and Charges By-law and the Yard and Lot Maintenance By-law to
+  Add a Fee for the Retrieval of Abandoned Shopping Carts
+
+<a id="motion-6-3" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -320,6 +326,8 @@ Unanimous (5-0)
   Amendments to Business Licensing By-law L-6, Including General Provisions
   Report
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -331,6 +339,8 @@ Unanimous (5-0)
   Amendments to Business Licensing By-law L-6, Including General Provisions
   Report
 
+<a id="motion-7-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -341,6 +351,8 @@ Unanimous (5-0)
 ### 8. Old East Village
   BIA Request for Signage within the Community Improvement Plan Area
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -350,6 +362,8 @@ Unanimous (5-0)
 
 ### 9. Need for Public
   Elementary School in the Summerside Neighbourhood
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

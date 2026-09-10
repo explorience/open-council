@@ -539,15 +539,7 @@ The
 ### 2. 8th Report of the
   Cycling Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 3. Single Source
-  Purchase of Turbo Blowers for the Greenway Wastewater Treatment Plant
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -558,6 +550,20 @@ Unanimous (5-0)
 
 ### 3. Single Source
   Purchase of Turbo Blowers for the Greenway Wastewater Treatment Plant
+
+<a id="motion-3-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 3. Single Source
+  Purchase of Turbo Blowers for the Greenway Wastewater Treatment Plant
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -568,6 +574,8 @@ Unanimous (5-0)
 
 ### 5. Contract Award
   Tender No. 16-60 - Hyde Park Pumping Station-Electrical and Pump Upgrades
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -580,6 +588,8 @@ Unanimous (5-0)
   Control Infrastructure (WECI) Program: 2016 Provincially Approved Project
   Funding  - Sole Sourced
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -589,6 +599,8 @@ Unanimous (5-0)
 
 ### 7. Rapid Transit
   Environmental Assessment Study Consulting Fees Amendment
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -600,6 +612,8 @@ Unanimous (5-0)
 ### 8. Provincial
   Maintenance Standards for Municipal Highways - Proposed Amendments 2016
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -609,6 +623,8 @@ Unanimous (5-0)
 
 ### 9. Amendments to the
   Traffic and Parking By-law
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -620,6 +636,8 @@ Unanimous (5-0)
 ### 10. Draft Coloured
   Crosswalk Policy
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -629,6 +647,8 @@ Unanimous (5-0)
 
 ### 11. Street Boundary
   Feature Ownership and Maintenance Policy
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -640,6 +660,8 @@ Unanimous (5-0)
 ### 12. Amendment to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -649,6 +671,8 @@ Unanimous (5-0)
 
 ### 13. Corporate Energy
   Management Program Update
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -661,6 +685,8 @@ Unanimous (5-0)
   Change Action Plan - Initial Impact and Alignment with London's Current
   Plans, Programs and Projects
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -671,6 +697,8 @@ Unanimous (5-0)
 ### 15. Unlidded Garbage
   Bins
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -680,6 +708,8 @@ Unanimous (5-0)
 
 ### 17. (Added) Amendments to the Traffic and Parking
     By-law
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion     Passed
 

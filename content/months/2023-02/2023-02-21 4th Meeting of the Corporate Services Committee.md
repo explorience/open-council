@@ -550,6 +550,8 @@ We stand adjourned. And for those who haven't had enough committee work today, p
 
 ### 4. Items for Direction
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > That Items for Direction 4.1 to 4.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

@@ -327,6 +327,8 @@ Thank you for those looking for more committee excitement, planning and environm
 
 ### 2.1. Integrity Commissioner Appointment and Agreement
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Clerk, the proposed by-law as appended to the staff report dated May 1, 2023 as Appendix “B” BE INTRODUCED at the Municipal Council meeting on May 16, 2023 to:    a) approve an Agreement to appoint Principles Integrity as the Integrity Commissioner for The ...
 
 **✅ Motion Passed (5 to 0)**
@@ -334,6 +336,8 @@ Thank you for those looking for more committee excitement, planning and environm
 Unanimous (5-0)
 
 ### 2.2. Procurement of Goods & Services Policy Revisions
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the proposed by-law as appended to the staff report dated May 1, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2023 to amend By-law No. A.-6151-17, as amended, being “A by-law to ...
 
@@ -343,6 +347,8 @@ Unanimous (5-0)
 
 ### 4. Items for Direction
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > That Items 4.2 and 4.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -350,6 +356,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Application - Issuance of Proclamation - Longest Day of SMILES
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the application dated April 9, 2023 from Operation Smile Canada for "Longest Day of SMILES", BE REFERRED back to staff for further information regarding the organization's connection to London.
 

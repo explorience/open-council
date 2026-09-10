@@ -1488,6 +1488,8 @@ Thanks, Mr. Chair.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 to 2.8, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1495,6 +1497,8 @@ Thanks, Mr. Chair.
 Unanimous (5-0)
 
 ### 3.1. 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street (TZ-9316)
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, with respect to the application of Farhi Holdings Corporation relating to the properties located at 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street, the proposed by-law appended to the staff report dated May ...
 
@@ -1511,6 +1515,8 @@ Unanimous (5-0)
 
 ### 3.2. 2631 Hyde Park Road and 1521 Sunningdale Road West – (O-9190)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a) the proposed by-law appended to the staff repor...
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -1525,6 +1531,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.2. 2631 Hyde Park Road and 1521 Sunningdale Road West – (O-9190)
+
+<a id="motion-3-2-3" class="motion-anchor"></a>
 
 > That, notwithstanding the recommendation of the Director, Development Services, the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West BE REFERRED back to the Civic Administration to accept an application by Auburn Devel...
 
@@ -1541,6 +1549,8 @@ Unanimous (5-0)
 
 ### 3.3. 3557 Colonel Talbot Road (SPA20-063)
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2749282 Ontario Inc., relating to the property located at 3557 Colonel Talbot Road: a) the Approval Authority BE ADVISED that the following issues were raised at th...
 
 **✅ Motion Passed (5 to 1)**
@@ -1555,6 +1565,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. (ADDED) 3rd Report of the Trees and Forests Advisory Committee
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 3rd Report of the Trees and Forests Advisory Committee from its meeting held on April 28, 2021: a)  Municipal Council BE ADVISED that the Trees and Forests Advisory Committee recommends that road narrowing be a priority for the Neighbourhoo...
 

@@ -490,6 +490,8 @@ The meeting adjourned at 5:40 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That all items except 2.2, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -498,6 +500,8 @@ Unanimous (5-0)
 
 ### 2.2. Amendments to the Traffic and Parking By-law
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated April 16, 2019, BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019, for the purpose of amending the T...
 
 **✅ Motion Passed (5 to 0)**
@@ -505,6 +509,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Public Lane Policy Review
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the Redan Public lane: a)      the Civic Administration BE DIRECTED to survey the impacted property owners, with the intent to close the lane and divest the property, at the cost of $1 to each of the property owners and with all other land trans...
 

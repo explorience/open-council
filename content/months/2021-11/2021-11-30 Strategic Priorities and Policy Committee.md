@@ -2331,6 +2331,8 @@ Screen is on, all in favor. Councillor Palose, I'm guessing. Yes, that motion's 
 
 ### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2021 to November 14, 2022:    a) Planning and Environment Committee     Councillor A. Hopkins (Chair)  Councillor S. Lehman  Councillor S. Lewis  Councillor S. Hillier  Councillor ...
 
 **✅ Motion Passed (15 to 0)**
@@ -2338,6 +2340,8 @@ Screen is on, all in favor. Councillor Palose, I'm guessing. Yes, that motion's 
 Unanimous (15-0)
 
 ### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > Appointment to the Planning and Environment Committee
 
@@ -2350,6 +2354,8 @@ Unanimous (15-0)
 
 ### 4.1. (ADDED) - REVISED - Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > Selection of Chair for the Civic Works Committee
 
 **❌ Majority Winner: Councillor E. Peloza 🔥**
@@ -2361,6 +2367,8 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Council Member)
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That Councillor J. Fyfe-Millar BE APPOINTED to the Covent Garden Market Board of Directors for the term ending November 14, 2022.
 
 **✅ Motion Passed (15 to 0)**
@@ -2368,6 +2376,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the London & Middlesex Community Housing (Requires 1 Council Member)
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken:    a)  Councillor S. Lewis BE APPOINTED to the London and Middlesex Community Housing for the term ending November 14, 2022; and,    b) the City Clerk BE DIRECTED to bring forward applications to be considered to fill the tenant vacancy at a future meeting of ...
 
@@ -2377,6 +2387,8 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That Councillor A. Hopkins BE APPOINTED to the London Transit Commission for the term ending November 14, 2022.
 
 **✅ Motion Passed (15 to 0)**
@@ -2384,6 +2396,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the London Transit Commission (Requires 1 Council Member)
+
+<a id="motion-4-4-1" class="motion-anchor"></a>
 
 > Councillor appointment to the London Transit Commission
 
@@ -2396,6 +2410,8 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
 
+<a id="motion-4-5-0" class="motion-anchor"></a>
+
 > That Councillor M. Hamou BE APPOINTED to the Middlesex-London Health Unit Board of Directors for the term ending November 14, 2022.
 
 **✅ Motion Passed (15 to 0)**
@@ -2403,6 +2419,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.5. Consideration of Appointment to the Middlesex-London Health Unit Board of Directors (Requires 1 Council Member)
+
+<a id="motion-4-5-1" class="motion-anchor"></a>
 
 > Councillor appointment to the Middlesex-London Health Unit
 
@@ -2415,6 +2433,8 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
 
+<a id="motion-4-6-0" class="motion-anchor"></a>
+
 > That Councillor S. Hillier BE APPOINTED to the Tourism London Board of Directors for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated September 23, 2021 from C. Finn, General Manager, Tourism London regarding this ...
 
 **✅ Motion Passed (15 to 0)**
@@ -2422,6 +2442,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
+
+<a id="motion-4-6-1" class="motion-anchor"></a>
 
 > Appointment of a Councillor to the Tourism London Board of Directors
 
@@ -2434,6 +2456,8 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Appointment to the Tourism London Board of Directors (Requires 1 Council Member)
 
+<a id="motion-4-6-2" class="motion-anchor"></a>
+
 > Appointment of a Councillor to the Tourism London Board of Directors
 
 **❌ Majority Winner: Councillor S. Hillier 🔥**
@@ -2445,6 +2469,8 @@ Unanimous (15-0)
 
 ### 4.7. Consideration of Appointment to the Western Fair Association Programming Council (Requires 1 Council Member)
 
+<a id="motion-4-7-0" class="motion-anchor"></a>
+
 > That Councillor S. Hillier BE APPOINTED to the Western Fair Association Programming Council for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated October 14, 2021 from R. Ash, CEO, Western Fair District with respect...
 
 **✅ Motion Passed (15 to 0)**
@@ -2452,6 +2478,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
+
+<a id="motion-4-8-0" class="motion-anchor"></a>
 
 > That Antonio D. Santiago BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2022.
 
@@ -2468,6 +2496,8 @@ Unanimous (15-0)
 
 ### 4.8. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member at Large)
 
+<a id="motion-4-8-1" class="motion-anchor"></a>
+
 > Appointment to the Committee of Adjustment
 
 **❌ Majority Winner: No majority 🔥**
@@ -2478,6 +2508,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
+
+<a id="motion-4-9-1" class="motion-anchor"></a>
 
 > Motion to approve the 4th Report of the Governance Working Group - excluding clause 3.2 - Operations of Municipal Council: That the following actions be taken with respect to the 4th and 5th Reports of the Governance Working Group from its meetings held on November 8 and 15, 2021, respectively:  ...
 
@@ -2494,6 +2526,8 @@ Unanimous (15-0)
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
 
+<a id="motion-4-9-2" class="motion-anchor"></a>
+
 > Motion that clause 3.2 a) of the 4th Report of the Governance Working Group BE APPROVED. b) the following actions be taken with respect to the general operations of Municipal Council: i)     the Civic Administration BE DIRECTED to make the necessary changes to facilitate Council meetings to be he...
 
 **✅ Motion Passed (11 to 4)**
@@ -2509,6 +2543,8 @@ Unanimous (15-0)
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
 
+<a id="motion-4-9-4" class="motion-anchor"></a>
+
 > Motion that clause 3.2 b) of the 4th Report of the Governance Working Group, BE APPROVED: ii)      the Civic Administration BE DIRECTED to report back to the GWG with respect to recommendations related to the survey results and other feedback related to the staff support model in the Councillors’...
 
 **✅ Motion Passed (15 to 0)**
@@ -2516,6 +2552,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
+
+<a id="motion-4-9-6" class="motion-anchor"></a>
 
 > That consideration of clause 3.1 of the 5th Report of the Governance Working Group, related to the Advisory Committee Review Final Report BE REFERRED to a future meeting of the Governance Working Group (GWG) in order to invite all members of the current advisory committees to have a discussion wi...
 
@@ -2532,6 +2570,8 @@ Unanimous (15-0)
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
 
+<a id="motion-4-9-7" class="motion-anchor"></a>
+
 > That section 4.2 c) vii) of the Draft Council Members' Expense Account Policy BE AMENDED by deleting the following:  "but excluding home internet costs, services or equipment;"
 
 **✅ Motion Passed (12 to 3)**
@@ -2546,6 +2586,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
+
+<a id="motion-4-9-8" class="motion-anchor"></a>
 
 > That Clause 4.1 of the 5th Report of the Governance Working Group BE APPROVED: d)    the attached revised Council Members' Expense Account Policy BE FORWARDED to the Strategic Priorities and Policy Committee for approval; it being noted that the proposed changes would come into effect for the nex...
 
@@ -2564,6 +2606,8 @@ Unanimous (15-0)
 
 ### 4.9. 4th and 5th Reports of the Governance Working Group
 
+<a id="motion-4-9-9" class="motion-anchor"></a>
+
 > That the balance of the 5th Report of the GWG and the relate correspondence from the Urban League of London, dated November 25, 2021, BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -2572,6 +2616,8 @@ Unanimous (14-0)
 
 ### 4.10. London Public Library Board of Directors Vacancy
 
+<a id="motion-4-10-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the Library Board of Directors vacancy notification:    a)  contact current applications on file, to confirm that those individuals remain interested in consideration for appointment; b) seek additional applications to fill the vacancy on the Bo...
 
 **✅ Motion Passed (13 to 0)**
@@ -2579,6 +2625,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 5.1. Governance Working Group Membership
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That members who may be interested in an appointment to the Governance Working Group BE INVITED to submit a communication for the December 7, 2021 Council meeting for consideration along with the 18th Report of the Strategic Priorities and Policy Committee.
 

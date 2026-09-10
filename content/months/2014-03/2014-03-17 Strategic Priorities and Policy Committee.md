@@ -268,15 +268,7 @@ The Strategic Priorities and Policy
 ### 2. Cycling Advisory
   Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (13-0)
-
-### 2. Cycling Advisory
-  Committee
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -287,6 +279,20 @@ Unanimous (13-0)
 
 ### 2. Cycling Advisory
   Committee
+
+<a id="motion-2-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (13-0)
+
+### 2. Cycling Advisory
+  Committee
+
+<a id="motion-2-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -305,6 +311,8 @@ Unanimous (13-0)
 ### 4. Industrial Land
   Development Strategy
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -322,6 +330,8 @@ Unanimous (13-0)
 ### 5. Request for
   Nominees for Appointment to the Greater London International Airport
   Authority Board of Directors (One Upcoming Vacancy)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

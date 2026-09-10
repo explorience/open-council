@@ -386,6 +386,8 @@ Motion
 ### 2. Election of Vice
   Chair for the Term Ending November 30, 2018
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -395,6 +397,8 @@ Unanimous (3-0)
 
 ### 3. Veterans Memorial
   Parkway – Community Program for Landscape Enhancements - Final Report
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -407,6 +411,8 @@ Unanimous (3-0)
   Food and Organic Waste Framework - Blue Box Program Plan Amendment and Waste
   Free Ontario Act - Update
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -416,6 +422,8 @@ Unanimous (3-0)
 
 ### 5. Amendments to the
   Traffic And Parking By-Law
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -427,6 +435,8 @@ Unanimous (3-0)
 ### 6. Public Education
   And Communication Program: Toilets Are Not Garbage Cans
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -437,6 +447,8 @@ Unanimous (3-0)
 ### 7. Flooding Matters
   Weeping Tile Connection Charge Feasibility Analysis
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -446,6 +458,8 @@ Unanimous (3-0)
 
 ### 8. Local Improvement
   Policy Review
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -458,6 +472,8 @@ Unanimous (3-0)
   of London’s Drinking Water Quality Management System and 2017 Management
   Review
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -467,6 +483,8 @@ Unanimous (3-0)
 
 ### 10. 11th Report of the
   Cycling Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -480,6 +498,8 @@ Unanimous (3-0)
 the
   Transportation Network
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -490,6 +510,8 @@ Unanimous (3-0)
 ### 12. 10th Report of the
   Transportation Advisory Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -499,6 +521,8 @@ Unanimous (3-0)
 
 ### 13. Deferred Matters
   List
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

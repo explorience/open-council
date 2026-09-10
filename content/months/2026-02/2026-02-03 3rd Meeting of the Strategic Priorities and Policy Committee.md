@@ -2159,6 +2159,8 @@ Motion carries. And we are adjourned. Thank you everyone.
 
 ### 2.3. Secondary School Transit Pass Pilot Program Update
 
+<a id="motion-2-3-1" class="motion-anchor"></a>
+
 > That the motion be amended in part c) to read as follows: c)   the Civic Administration BE DIRECTED to apply the required financing to a limit of 1.04 million from the Community Investment Reserve Fund for the costs of the Secondary School Transit Pass Pilot Program for September 2026 to August 2...
 
 **✅ Motion Passed (10 to 3)**
@@ -2176,6 +2178,8 @@ Motion carries. And we are adjourned. Thank you everyone.
 
 ### 2.3. Secondary School Transit Pass Pilot Program Update
 
+<a id="motion-2-3-2" class="motion-anchor"></a>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor C. Rahman BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
 **✅ Motion Passed (12 to 0)**
@@ -2184,6 +2188,8 @@ Unanimous (12-0)
 
 ### 2.3. Secondary School Transit Pass Pilot Program Update
 
+<a id="motion-2-3-3" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to include a new part d) to read as follows: d)   the Civic Administration BE DIRECTED to remove the summer months of July and August from the program.
 
 **✅ Motion Passed (12 to 0)**
@@ -2191,6 +2197,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 2.3. Secondary School Transit Pass Pilot Program Update
+
+<a id="motion-2-3-4" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -2209,6 +2217,8 @@ Unanimous (12-0)
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
+<a id="motion-2-4-1" class="motion-anchor"></a>
+
 > That the delegation request from J. Zaifman, CEO, London Home Builders Association, BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -2216,6 +2226,8 @@ Unanimous (12-0)
 Unanimous (14-0)
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+<a id="motion-2-4-2" class="motion-anchor"></a>
 
 > That Mayoral Directive 2026-001: Creation of an Affordable Home Ownership Incentive Program BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for a report back on the following matters: a) if the program can be expanded to existing housing stock (previously lived in...
 
@@ -2234,6 +2246,8 @@ Unanimous (14-0)
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
+<a id="motion-2-4-3" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to direct Civic Administration to restrict the program eligibility to first-time home buyers.
 
 **✅ Motion Passed (12 to 2)**
@@ -2250,6 +2264,8 @@ Unanimous (14-0)
 </details>
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+<a id="motion-2-4-4" class="motion-anchor"></a>
 
 > That the motion BE FURTHER AMENDED to extend the term of the loan from five years to ten years.
 
@@ -2268,6 +2284,8 @@ Unanimous (14-0)
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
 
+<a id="motion-2-4-5" class="motion-anchor"></a>
+
 > That the motion BE FURTHER AMENDED to restrict the program eligibility to current residents of the City of London.
 
 **✅ Motion Passed (14 to 0)**
@@ -2275,6 +2293,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 2.4. Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program
+
+<a id="motion-2-4-6" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED; it being noted that Civic Administration will bring forward a revised by-law to the February 10, 2026 meeting of Municipal Council.
 
@@ -2293,6 +2313,8 @@ Unanimous (14-0)
 
 ### 4.1. Consideration of Appointments to the London Transit Commission (Requires 5 Council Members)
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following Council Members BE APPOINTED to the London Transit Commission: - Councillor S. Franke - Councillor C. Rahman - Councillor S. Lehman - Councillor S. Trosow - Mayor J. Morgan
 
 **✅ Motion Passed (14 to 0)**
@@ -2300,6 +2322,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction: a)    the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community...
 
@@ -2318,6 +2342,8 @@ Unanimous (14-0)
 
 ### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the report dated February 3, 2026, titled “Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) – Request for Direction” BE REFERRED to Civic Administration to consult further with DIACAC.
 
 **❌ Motion Failed (4 to 10)**
@@ -2335,6 +2361,8 @@ Unanimous (14-0)
 
 ### 4.2. Diversity, Inclusion and Anti-Oppression Community Advisory Committee (DIACAC) - Request for Direction
 
+<a id="motion-4-2-2" class="motion-anchor"></a>
+
 > That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (14 to 0)**
@@ -2342,6 +2370,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 6. Confidential
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That the Strategic Priorities and Policy Committee convenes In Closed session to consider the following: 6.1    Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, with respect to the Affordable Housing Community Improvement Plan Financial Incen...
 

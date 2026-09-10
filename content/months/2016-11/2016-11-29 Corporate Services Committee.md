@@ -139,6 +139,8 @@ The Corporate Services Committee convened
 ### 3. 12:30 PM - Tax
   Adjustment Agenda
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -148,6 +150,8 @@ Unanimous (6-0)
 
 ### 5. ADDED - STAFF
   REPORT - Amending Agreement - London Community Players Loan Agreement
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

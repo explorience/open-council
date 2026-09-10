@@ -304,15 +304,7 @@ The Corporate Services Committee convened
 ### 1. Disclosures of
   Pecuniary Interest
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 1. Disclosures of
-  Pecuniary Interest
+<a id="motion-1-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -324,15 +316,7 @@ Unanimous (5-0)
 ### 1. Disclosures of
   Pecuniary Interest
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 1. Disclosures of
-  Pecuniary Interest
+<a id="motion-1-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -343,6 +327,32 @@ Unanimous (5-0)
 
 ### 1. Disclosures of
   Pecuniary Interest
+
+<a id="motion-1-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 1. Disclosures of
+  Pecuniary Interest
+
+<a id="motion-1-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 1. Disclosures of
+  Pecuniary Interest
+
+<a id="motion-1-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -354,15 +364,7 @@ Unanimous (5-0)
 ### 7. Canada Caribbean
   Local Economic Development Program (CARILED)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Canada Caribbean
-  Local Economic Development Program (CARILED)
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -373,6 +375,20 @@ Unanimous (5-0)
 
 ### 7. Canada Caribbean
   Local Economic Development Program (CARILED)
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Canada Caribbean
+  Local Economic Development Program (CARILED)
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -384,15 +400,7 @@ Unanimous (5-0)
 ### 11. London Youth
   Advisory Council - Advisory Committee Appointments
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Board of Directors
-  - Federation of Canadian Municipalities
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -404,15 +412,7 @@ Unanimous (5-0)
 ### 12. Board of Directors
   - Federation of Canadian Municipalities
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Board of Directors
-  - Federation of Canadian Municipalities
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -424,6 +424,8 @@ Unanimous (5-0)
 ### 12. Board of Directors
   - Federation of Canadian Municipalities
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -433,6 +435,32 @@ Unanimous (5-0)
 
 ### 12. Board of Directors
   - Federation of Canadian Municipalities
+
+<a id="motion-12-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Board of Directors
+  - Federation of Canadian Municipalities
+
+<a id="motion-12-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Board of Directors
+  - Federation of Canadian Municipalities
+
+<a id="motion-12-4" class="motion-anchor"></a>
 
 > Motion   Passed
 

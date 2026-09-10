@@ -246,6 +246,8 @@ Motion
 ### 2. STAFF REPORT - Year
   2017 Tax Policy
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -256,17 +258,7 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - Year
   2017 Education Tax Rates
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 4. Not to be heard
-  before 12:30 PM - PUBLIC PARTICIPATION MEETING - Proposed Amendment to
-  Council Procedure By-law - Change in Start Time - Corporate Services
-  Committee
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -280,6 +272,8 @@ Unanimous (5-0)
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -291,6 +285,22 @@ Unanimous (5-0)
   before 12:30 PM - PUBLIC PARTICIPATION MEETING - Proposed Amendment to
   Council Procedure By-law - Change in Start Time - Corporate Services
   Committee
+
+<a id="motion-4-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 4. Not to be heard
+  before 12:30 PM - PUBLIC PARTICIPATION MEETING - Proposed Amendment to
+  Council Procedure By-law - Change in Start Time - Corporate Services
+  Committee
+
+<a id="motion-4-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

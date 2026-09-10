@@ -1906,6 +1906,8 @@ Motion carries. Thank you, we are adjourned. Maybe mine, although they're defini
 
 ### 2.1. 2024-2027 Multi-Year Budget Reconciliation to the Public Sector Accounting Board (PSAB) Financial Statement Budget
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the “Public Sector Accounting Board Reconciliation” (Reconciliation) regarding expenses excluded from the Mayor’s proposed 2024-2027 Multi-Year Budget, as appended to the staff report d...
 
 **✅ Motion Passed (14 to 0)**
@@ -1914,6 +1916,8 @@ Unanimous (14-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Budget
 
+<a id="motion-3-1-2" class="motion-anchor"></a>
+
 > That pursuant to section 33.8 of the Council Procedure By-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (14 to 0)**
@@ -1921,6 +1925,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Budget
+
+<a id="motion-3-1-3" class="motion-anchor"></a>
 
 > That Committee RECESS at this time, for 20 minutes.
 

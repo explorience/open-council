@@ -432,6 +432,8 @@ The meeting adjourned at 8:18 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -439,6 +441,8 @@ The meeting adjourned at 8:18 PM.
 Unanimous (4-0)
 
 ### 3.1. Public Participation Meeting - Short Term Accommodations
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the proposed by-laws, as appended to the staff report, dated March 29, 2022, related to Short Term Accommodations, BE RECEIVED; it being pointed out that the following individuals made verbal presentations ...
 
@@ -457,6 +461,8 @@ Unanimous (4-0)
 
 ### 4.1. A. Valastro - Light Pollution By-law - REQUEST FOR DELEGATION STATUS
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the request for delegation from A.M. Valastro, with respect to a light pollution by-law BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that the communications, dated December 7, 2021 and March 18, 2022, from A.M. Valastro, with respect to ...
 
 **✅ Motion Passed (4 to 0)**
@@ -464,6 +470,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.2. 2022 Rock the Park One-Time Policy Exemption Request
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the proposed by-law, as appended to the staff report, dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, to amend By-law No. CPOL-142-394 being a by-law for a Council policy entitled Special Events Policies and Procedures Manual, to provide for...
 

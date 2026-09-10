@@ -505,6 +505,8 @@ The meeting adjourned at 8:31 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.5 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -513,6 +515,8 @@ Unanimous (6-0)
 
 ### 2. Consent
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > That items 2.2, 2.3 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -520,6 +524,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 3.1. 1055 Fanshawe Park Road West (OZ-9444)
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, notwithstanding the Civic Administration's recommendation, the application by Quincy Developments, relating to the property located at 1055 Fanshawe Park Road West, the application BE APPROVED; a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on May ...
 
@@ -538,6 +544,8 @@ Unanimous (5-0)
 
 ### 3.3. 84-86 St. George Street and 175-197 Anne Street (OZ-9127)
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, the following actions be taken with respect to the application by St. George and Ann Block Limited, relating to the property located at 84-86 St. George Street and175-197 Ann Street: a)  the application BE REFERRED back to the Civic Administration in order to meet with the Applicant/Agent w...
 
 **✅ Motion Passed (5 to 0)**
@@ -546,6 +554,8 @@ Unanimous (5-0)
 
 ### 4.1. Heritage Alteration Permit – 18 Byron Avenue East (HAP22-016-L)
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act seeking approval for the proposed addition and alterations to the heritage designated property at 18 Byron Avenue East, with...
 
 **✅ Motion Passed (5 to 0)**
@@ -553,6 +563,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. 183 Ann Street and 197 Ann Street under Part IV of the Ontario Heritage Act - Designation
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidate parcel legally described as – LOTS 4, 5, 6 & 7 AN...
 
@@ -571,6 +583,8 @@ Unanimous (5-0)
 
 ### 4.2. 183 Ann Street and 197 Ann Street under Part IV of the Ontario Heritage Act - Designation
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > Change order to hear 4.2 at this time.
 
 **✅ Motion Passed (5 to 0)**
@@ -578,6 +592,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.3. 4th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 4th Report of the London Advisory Committee on Heritage, from its meeting held on April 13, 2022: a) on the recommendation of the Director, Planning and Development, the properties located at 147-149 Wellington Street BE REMOVED from the Re...
 

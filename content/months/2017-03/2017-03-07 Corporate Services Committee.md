@@ -367,6 +367,8 @@ Motion Passed
 ### 3. STAFF REPORT -
   Mayors of Southwest Ontario (MOSO) Update
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -375,6 +377,8 @@ Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   Asset Review: Sale of Major Assets Policy and Future Asset Review Timelines
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -385,6 +389,8 @@ Unanimous (4-0)
 ### 8. STAFF REPORT -
   Reserve Funds Housekeeping - Woodland Acquisition and Management Reserve Fund
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -393,6 +399,8 @@ Unanimous (4-0)
 
 ### 10. STAFF REPORT -
   Reserve Fund Housekeeping - Community Investment Reserve Fund
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -403,6 +411,8 @@ Unanimous (4-0)
 ### 14. STAFF REPORT -
   Audio Recording of Municipal Council and Standing Committee In Closed Session
   Meetings
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -420,6 +430,8 @@ Unanimous (4-0)
 ### 15. ADDED - PUBLIC
   SUBMISSION - Ombudsman Investigation Letter
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -430,6 +442,8 @@ Unanimous (4-0)
   MEMBER SUBMISSION - Canadian Coalition of Municipalities Against Racism and
   Discrimination
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -438,6 +452,8 @@ Unanimous (4-0)
 
 ### 17. ADDED – COUNCIL MEMBER SUBMISSION - VERBAL
   – Start Time of Corporate Services Committee Meetings
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion Passed
 

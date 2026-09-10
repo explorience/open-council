@@ -409,6 +409,8 @@ The meeting adjourned at 7:00 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -417,6 +419,8 @@ Unanimous (6-0)
 
 ### 3.1. Delegation - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That the delegation by R. Sidhu, Executive Director, Argyle Business Improvement Area, with respect to their request for a Community Improvement Plan study to be undertaken for the Argyle Business Improvement Area and surrounding areas BE POSTPONED to a future Planning and Environment Committee m...
 
 **✅ Motion Passed (6 to 0)**
@@ -424,6 +428,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.3. Public Participation Meeting - Victoria Park Secondary Plan - Status Update and Draft Secondary Plan Principles (O-8978)
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the Draft Principles for the Victoria Park Secondary Plan be ENDORSED; it being noted that staff will continue to work with consultants, stakeholders, property owners, and other interested parties to develop the Seco...
 
@@ -441,6 +447,8 @@ Unanimous (6-0)
 </details>
 
 ### 3.3. Public Participation Meeting - Victoria Park Secondary Plan - Status Update and Draft Secondary Plan Principles (O-8978)
+
+<a id="motion-3-3-1" class="motion-anchor"></a>
 
 > That the draft Victoria Park Secondary Plan BE RECEIVED for information; it being noted that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: a communication dated April 11, 2019, from T. Squire-Smith, Chief Operating Officer, ...
 

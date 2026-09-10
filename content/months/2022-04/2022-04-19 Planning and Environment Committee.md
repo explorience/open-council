@@ -1845,6 +1845,8 @@ Thank you. The motion carries 4 to 0. Thanks, everyone.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.8, inclusive,  BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1853,6 +1855,8 @@ Unanimous (6-0)
 
 ### 3.1. 520 Sarnia Road (OZ-9432)
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Horizen Developments LP, relating to the property located at 520 Sarnia Road: a) the proposed by-law appended to the staff report dated April 19, 2022 as Append...
 
 **✅ Motion Passed (6 to 0)**
@@ -1860,6 +1864,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.4. 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056)
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, further to the direction from Municipal Council on October 5, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential and Environmental Review designation and to amend The London Plan to change the Place Type...
 
@@ -1878,6 +1884,8 @@ Unanimous (6-0)
 
 ### 3.4. 1521 Sunningdale Road West and 2631 Hyde Park Road (39T-21056)
 
+<a id="motion-3-4-3" class="motion-anchor"></a>
+
 > That an extension of time for the delegation of L. Regnier BE GIVEN.
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -1892,6 +1900,8 @@ Unanimous (6-0)
 </details>
 
 ### 3.5. 1284 Sunningdale Road West (Z-9548)
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, with respect to the application of Thames Valley District School Board relating to lands located at 1284 Sunningdale Road West, the attached, revised, proposed by-law (Appendix ‘A’) BE INTRODUCED at the Municipal Council meeti...
 
@@ -1910,6 +1920,8 @@ Unanimous (6-0)
 
 ### 4.1. Urban Agriculture Strategy - 2021 Annual Report
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, the Civic Administration BE REQUESTED to report back at a future meeting of the appropriate Standing Committee, including but not limited to, the following related to the Urban Agriculture Strategy, : a)    a clear process to apply to use city-owned land for urban agriculture; b)    an inve...
 
 **✅ Motion Passed (5 to 0)**
@@ -1918,6 +1930,8 @@ Unanimous (5-0)
 
 ### 4.1. Urban Agriculture Strategy - 2021 Annual Report
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve the delegation request for L. Thorne, Urban Agriculture Steering Committee.
 
 **✅ Motion Passed (5 to 0)**
@@ -1925,6 +1939,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Mayor Holder - UNESCO Designation - London is Canada's 'City of Music'
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to London's UNESCO designation as Canada's 'City of Music': a)  the Civic Administration BE DIRECTED to report back, in a timely manner, on specific geographical borders for a Core Area Entertainment District, while also defining what such a Distri...
 

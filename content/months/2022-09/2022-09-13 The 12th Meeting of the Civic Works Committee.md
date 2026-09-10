@@ -551,6 +551,8 @@ Thank you very much, and I wish you a wonderful week.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.4, 2.5, 2.7 and 2.8 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -559,6 +561,8 @@ Unanimous (6-0)
 
 ### 2.3. Windermere Road Improvements - Environmental Study Report
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated September 13, 2022, related to the Windermere Road Improvements Municipal Class Schedule C Environmental Assessment: a)    the Windermere ...
 
 **✅ Motion Passed (6 to 0)**
@@ -566,6 +570,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.6. Oxford Street West Improvements - Environmental Assessment Study
+
+<a id="motion-2-6-0" class="motion-anchor"></a>
 
 > That the staff report, dated September 13, 2022, with respect to an Environmental Assessment Study related to the Oxford Street West Improvements, BE REFERRED back to the Civic Administration to determine how to proceed with the matter. (2022-E05)
 

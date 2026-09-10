@@ -456,6 +456,8 @@ The Corporate Services Committee convened
 ### 2. Argyle Business
   Improvement Area 2015 Proposed Budget - Municipal Special Levy
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -465,6 +467,8 @@ Unanimous (5-0)
 
 ### 3. London Downtown
   Business Association 2015 Proposed Budget - Municipal Special Levy
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -476,6 +480,8 @@ Unanimous (5-0)
 ### 4. Old East Village
   Business Improvement Area 2015 Proposed Budget - Municipal Special Levy
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -485,6 +491,8 @@ Unanimous (5-0)
 
 ### 5. Outstanding London
   Ambassador Award
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -497,6 +505,8 @@ Unanimous (5-0)
   Discussions with a Greenhouse Operator That May Be Located on City-Owned Land
   in the Vicinity of the W12A Landfill and Resource Recovery Area
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -506,6 +516,8 @@ Unanimous (5-0)
 
 ### 7. Request for
   Designation of the Forest City Beer Fest as a Municipally Significant Event
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -517,6 +529,8 @@ Unanimous (5-0)
 ### 8. 2014 London
   Convention Centre Operational Results
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -527,15 +541,7 @@ Unanimous (5-0)
 ### 9. London Convention
   Centre Naming Rights Policy
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Confirmation of
-  Appointment to the Cycling Advisory Committee
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -546,6 +552,20 @@ Unanimous (5-0)
 
 ### 10. Confirmation of
   Appointment to the Cycling Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Confirmation of
+  Appointment to the Cycling Advisory Committee
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -558,6 +578,8 @@ Unanimous (5-0)
   Debenture Issue Update - Delegation - Karen Yeung, Director, Government Finance-Debt
   Capital Markets, CIBC World Markets Inc.
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -567,6 +589,8 @@ Unanimous (5-0)
 
 ### 13. ADDED - Council
   Policy 28(2) - Council Members' Expense Account
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -583,6 +607,8 @@ Unanimous (5-0)
 </details>
 
 ### 14. ADDED – Potential Youth Award
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

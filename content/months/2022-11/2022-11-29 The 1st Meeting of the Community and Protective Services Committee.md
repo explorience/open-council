@@ -1315,6 +1315,8 @@ Thank you to everyone in the gallery who stayed to the very end and for everyone
 
 ### 1.2. Election of Vice-Chair
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That Councillor D. Ferreira BE APPOINTED Vice Chair of the Community and Protective Services Committee for the term ending November 14, 2023.
 
 **✅ Motion Passed (5 to 0)**
@@ -1322,6 +1324,8 @@ Thank you to everyone in the gallery who stayed to the very end and for everyone
 Unanimous (5-0)
 
 ### 2. Consent
+
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > That Items 2.1 to 2.4 BE APPROVED.
 
@@ -1331,6 +1335,8 @@ Unanimous (5-0)
 
 ### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve the delegation requests, as appended to the Agenda and the Added Agenda, to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -1338,6 +1344,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > Motion that the delegations and communications BE RECEIVED and NO ACTION BE TAKEN with respect to this matter.
 
@@ -1356,6 +1364,8 @@ Unanimous (5-0)
 
 ### 4.1. REQUESTS FOR DELEGATION STATUS - Animal Control By-Law
 
+<a id="motion-4-1-4" class="motion-anchor"></a>
+
 > That the above clause be amended to read: That the Civic Administration BE DIRECTED to prepare a staff report to be brought forward to the January 2023 Community and Protective Services Committee meeting with respect to a potential amendment to By-law PH-3, the Animal Control By-law, to permit th...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1373,6 +1383,8 @@ Unanimous (5-0)
 
 ### 4.2. Councillor E. Peloza - Renaming of Paul Haggis Park
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the communication, dated November 21, 2022, from Councillor E. Peloza and Mayor J. Morgan, related to the Renaming of Paul Haggis Park: a)    the Civic Administration BE DIRECTED to begin removing Paul Haggis’ name from the city park located at ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1380,6 +1392,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.3. 2022 Parkland Conveyance and Levy By-Law CP-9 Update
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken, with respect to the staff report, dated November 29, 2022, related to an update on the 2022 Parkland Conveyance and Levy By-law CP-9: a)    the proposed by-law, as appended to t...
 

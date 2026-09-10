@@ -229,6 +229,8 @@ The meeting adjourned at 1:24 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.3 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -236,6 +238,8 @@ The meeting adjourned at 1:24 PM.
 Unanimous (5-0)
 
 ### 5.1. ADDED - Request for Designation of the 1st Annual Poutine Festival
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the 1st Annual Poutine Festival, to be held on May 24 to 26, 2018 from 11:00 AM to 9:00 PM and May 27, 2018 from 11:00 AM to 8:00 PM, at Victoria Park, BE DESIGNATED as an event of municipal significance in the City of London.
 

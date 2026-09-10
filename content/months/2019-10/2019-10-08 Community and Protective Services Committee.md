@@ -399,6 +399,8 @@ The meeting adjourned at 5:21 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -406,6 +408,8 @@ The meeting adjourned at 5:21 PM.
 Unanimous (5-0)
 
 ### 4.2. Short Term Accommodations - Councillor A. Hopkins
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee with respect to potential regulatory options that could be put in place to address short term rental accommodations in London; it being noted that the communication dated September 26, 201...
 

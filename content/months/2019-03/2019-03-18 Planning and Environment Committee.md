@@ -683,6 +683,8 @@ The meeting adjourned at 7:01 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6, inclusive, 2.8 to 2.10, inclusive, and 2.12 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -690,6 +692,8 @@ The meeting adjourned at 7:01 PM.
 Unanimous (5-0)
 
 ### 3.3. Public Participation Meeting - Not to heard before 4:00 PM - Demolition Request for Heritage Listed Property - 1588 Clarke Road
+
+<a id="motion-3-3-3" class="motion-anchor"></a>
 
 > Motion to move part a), which reads as follows: "a)    the Chief Building Official BE ADVISED that the Municipal Council consents to the demolition of the barn on this property; and,"
 
@@ -708,6 +712,8 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 
 **✅ Motion Passed (5 to 0)**
@@ -716,6 +722,8 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) 4th Report of the London Advisory Committee on Heritage
 
+<a id="motion-5-2-1" class="motion-anchor"></a>
+
 > Motion to grant delegation status to G. Priamo
 
 **✅ Motion Passed (5 to 0)**
@@ -723,6 +731,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.3. (ADDED)  195 Dundas Street
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the application made under Section 42 of the Ontario Heritage Act to construct a new apartment building and associated site development on the property located at 195 Dundas Street, within the Downtown Heritage Conservation District, BE PERMITTED as proposed in the drawings appended to the p...
 

@@ -1253,6 +1253,8 @@ Motion carries four to zero. Thank you, we're adjourned to December 16th at coun
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.7 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1260,6 +1262,8 @@ Motion carries four to zero. Thank you, we're adjourned to December 16th at coun
 Unanimous (4-0)
 
 ### 2.6. Housing Stability Services Procurement Framework
+
+<a id="motion-2-6-2" class="motion-anchor"></a>
 
 > That the delegation request from S. Campbell BE APPROVED to be heard at this meeting.
 
@@ -1269,6 +1273,8 @@ Unanimous (4-0)
 
 ### 2.6. Housing Stability Services Procurement Framework
 
+<a id="motion-2-6-3" class="motion-anchor"></a>
+
 > That the motion BE AMENDED in part b) to remove the word “outdoor” before the words “basic needs”.
 
 **✅ Motion Passed (4 to 0)**
@@ -1276,6 +1282,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 2.6. Housing Stability Services Procurement Framework
+
+<a id="motion-2-6-4" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1285,6 +1293,8 @@ Unanimous (4-0)
 
 ### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the delegation requests from G. Harrison, M. Davies, B. Grossman, D. Barnes and J. Smith BE APPROVED to be heard at this meeting.
 
 **✅ Motion Passed (4 to 0)**
@@ -1292,6 +1302,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Enhancing Municipal Options to Prevent the Unnecessary Loss of Affordable Housing
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with recommendations on a spectrum of municipal options to limit or prevent “bad-faith” tenancy evictions for reasons of demolitions and conversion to use for a purpose other than a ...
 
@@ -1309,6 +1321,8 @@ Unanimous (4-0)
 </details>
 
 ### 5.1. (ADDED) Endorsement of the One Voice Memorandum of Understanding - MOU Between The Corporation of the City of London and the London Police Service Board
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Enterprise Supports, the following actions be taken with respect to the staff report dated December 1, 2025 related to the Endorsement of the One Voice Memorandum of Understanding – MOU Between The Corporation of the City of London and the L...
 

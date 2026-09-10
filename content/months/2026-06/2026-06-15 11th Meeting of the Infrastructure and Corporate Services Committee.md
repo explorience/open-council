@@ -581,6 +581,8 @@ Thank you everyone have a good day.
 
 ### 2.3. Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the proposed by-law, as appended to the staff report dated June 15, 2026 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2026, to: a)    APPROVE the Revised Green Municipal ...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -595,6 +597,8 @@ Thank you everyone have a good day.
 </details>
 
 ### 2.4. Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
+
+<a id="motion-2-4-0" class="motion-anchor"></a>
 
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street; it being noted that in accordance...
 
@@ -611,6 +615,8 @@ Thank you everyone have a good day.
 
 ### 2.7. Appointment of Consulting Engineers for Construction Administration
 
+<a id="motion-2-7-0" class="motion-anchor"></a>
+
 > That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the appointment of consulting engineers: a)     the following consulting engineers BE APPOINTED to carry out consulting services for the identified projects, at the ...
 
 **✅ Motion Passed (5 to 0)**
@@ -618,6 +624,8 @@ Thank you everyone have a good day.
 Unanimous (5-0)
 
 ### 2.10. 2025 Portfolio Investments Report
+
+<a id="motion-2-10-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the 2025 Portfolio Investments Report, providing a summary of the performance of the City of London’s investments, BE RECEIVED for information.
 

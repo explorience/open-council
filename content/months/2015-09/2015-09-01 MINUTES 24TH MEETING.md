@@ -2589,6 +2589,8 @@ Passed
 ### 10#3. Permitting
   Overnight Parking Additional Months of the Year
 
+<a id="motion-10-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to a pilot project  to extend the permissible period for overnight   parking up to and including November 1, 2015:   a)         the   attached proposed revised by-law (Appendix “A”) BE INTRODUCED at the   Municipal Council meeting to be held on S...
 
 **✅ Motion Passed**
@@ -2605,6 +2607,8 @@ Passed
 ### 12#2. Ranked Ballot
   Process – Appointments by Municipal Council
 
+<a id="motion-12-2-0" class="motion-anchor"></a>
+
 > That Councillor J. Morgan BE REQUESTED to   report back, in conjunction with the City Clerk, on alternative options for   counting ranked ballots which would incorporate technology to assist in the   tabulating process, particularly when there are multiple vacancies to fill.
 
 **✅ Motion Passed**
@@ -2614,6 +2618,8 @@ Unanimous (15-0)
 ### 2#4. London Community
   Garden Program Strategic Plan (2015-2019)
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the London Community Gardens Program Strategic Plan (2015 – 2019):   a)         on   the recommendation of the Managing Directors of Neighbourhood, Children and   Fire Services and of Parks and Recreation, the London Community Gardens   Progra...
 
 **✅ Motion Passed**
@@ -2622,6 +2628,8 @@ Unanimous (15-0)
 
 ### 2#4. London Community
   Garden Program Strategic Plan (2015-2019)
+
+<a id="motion-2-4-2" class="motion-anchor"></a>
 
 > Approve an amendment to clause 7, by   adding a new part f) as follows:   f)         the   City Clerk BE DIRECTED to report back with respect to potential inclusions   within the policy to allow for funding of community ward initiatives, within   specific parameters, including a potential annual ...
 
@@ -2639,6 +2647,8 @@ Unanimous (15-0)
 ### 2#6. Burbrook Trunk
   Storm Sewer Project Award
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > Approve that clause 2 of the 12th Report   of the Civic Works Committee be amended in part d) by adding the words “the   agreements required for obtaining the necessary temporary working easements   being in place to allow the construction and”, after the words “BE   CONDITIONAL upon”.
 
 **✅ Motion Passed**
@@ -2647,6 +2657,8 @@ Unanimous (15-0)
 
 ### 2#6. Burbrook Trunk
   Storm Sewer Project Award
+
+<a id="motion-2-6-1" class="motion-anchor"></a>
 
 > Approve clause 2, as amended.
 
@@ -2657,6 +2669,8 @@ Unanimous (15-0)
 ### 3#6. Canada Post
   Community Mailbox Program
 
+<a id="motion-3-6-1" class="motion-anchor"></a>
+
 > Approve clause 3 as amended.
 
 **✅ Motion Passed**
@@ -2665,6 +2679,8 @@ Unanimous (14-0)
 
 ### 3#6. Canada Post
   Community Mailbox Program
+
+<a id="motion-3-6-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2675,6 +2691,8 @@ Unanimous (14-0)
 ### 3#6. Canada Post
   Community Mailbox Program
 
+<a id="motion-3-6-3" class="motion-anchor"></a>
+
 > Approve:   1.         That, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendation be forwarded to City Council for deliberation and a vote in   public session:   That, on the recommendation of the Managing   Director, Corporate Services an...
 
 **✅ Motion Passed**
@@ -2684,6 +2702,8 @@ Unanimous (15-0)
 ### 4#2. Meadowlily
   Subdivision (33M-603)
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Manager,   Development Services and Planning Liaison, the following actions be taken   with respect to the subdivision agreement between The Corporation of the City   of London and Jackson Summerside Land Corp., for the subdivision of land over   Registered Plan...
 
 **✅ Motion Passed**
@@ -2692,6 +2712,8 @@ Unanimous (13-0)
 
 ### 7#4. Local Improvement
   Initiation Franklinway Crescent and Franklinway Gate
+
+<a id="motion-7-4-0" class="motion-anchor"></a>
 
 > The motion to Approve parts a), b) and c)   of clause 7 is put.
 
@@ -2709,6 +2731,8 @@ Unanimous (13-0)
 ### 7#4. Local Improvement
   Initiation Franklinway Crescent and Franklinway Gate
 
+<a id="motion-7-4-1" class="motion-anchor"></a>
+
 > The motion to Approve parts d), e) and f)   of clause 7 is put.
 
 **✅ Motion Passed**
@@ -2717,6 +2741,8 @@ Unanimous (15-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into the   Committee of the Whole, in camera, for the purpose of considering the following:
 
@@ -2727,6 +2753,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON JULY 28, 2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 23rd   Meeting held on July 28, 2015.
 
 **✅ Motion Passed**
@@ -2734,6 +2762,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-7" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of   Bill No. 303.
 
@@ -2750,6 +2780,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-8" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 303.
 
 **✅ Motion Passed**
@@ -2764,6 +2796,8 @@ Unanimous (15-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-9" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of   Bill No. 303.
 
@@ -2780,6 +2814,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-10" class="motion-anchor"></a>
+
 > Approve Introduction and First Reading   of Bill No. 306.
 
 **✅ Motion Passed**
@@ -2795,6 +2831,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-11" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 306.
 
 **✅ Motion Passed**
@@ -2809,6 +2847,8 @@ Unanimous (15-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-12" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Bill   No. 306.
 
@@ -2827,6 +2867,8 @@ Unanimous (15-0)
   Community and Economic Innovation - Revised City of London Candidate Questionnaire
   - 2015 Canadian Federal Election (3/20/CSC)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2835,6 +2877,8 @@ Unanimous (15-0)
 
 ### 9. Property located at
   3100 Colonel Talbot Road (OZ-8486)
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Speyside East Corporation, relating to a   portion the property located at 3100 Colonel Talbot Road:   a)         the   proposed by-law appended t...
 
@@ -2851,6 +2895,8 @@ Unanimous (15-0)
 
 ### 14. Properties located
   at 505, 507 and 511 Talbot Street and 94 Dufferin Avenue (Z-8490)
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of 505 Talbot Limited, relating to the properties   located at 505, 507 and 511 Talbot Street and 94 Dufferin Avenue:   a)         the   Chief Buildi...
 

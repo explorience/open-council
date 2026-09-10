@@ -470,6 +470,8 @@ Motion Passed
 ### 2. STAFF REPORT - 2017
   Citizen Satisfaction Survey
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -479,6 +481,8 @@ Unanimous (12-0)
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -487,6 +491,8 @@ Unanimous (14-0)
 
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -504,6 +510,8 @@ Unanimous (14-0)
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
 
+<a id="motion-3-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -520,6 +528,8 @@ Unanimous (14-0)
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
 
+<a id="motion-3-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -528,6 +538,8 @@ Unanimous (14-0)
 
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
+
+<a id="motion-3-4" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -545,6 +557,8 @@ Unanimous (14-0)
 ### 3. Final Report of the
   2016 Council Compensation Review Task Force
 
+<a id="motion-3-5" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -553,6 +567,8 @@ Unanimous (14-0)
 
 ### 4. 3rd Report of the
   Governance Working Group
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 

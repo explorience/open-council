@@ -553,6 +553,8 @@ Have a great day.
 
 ### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
 
+<a id="motion-2-10-1" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
 
 **✅ Motion Passed (5 to 0)**
@@ -560,6 +562,8 @@ Have a great day.
 Unanimous (5-0)
 
 ### 2.10. City/County Cost Apportionment Agreements for Land Ambulance, Ontario Works, Housing and Child Care - Amending Agreement
+
+<a id="motion-2-10-2" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: d)    the proposed by-law, as appended to the staff report dated June 16, 2025 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025 to approve the Amendi...
 

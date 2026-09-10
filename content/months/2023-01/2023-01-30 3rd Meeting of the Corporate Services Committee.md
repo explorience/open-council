@@ -287,6 +287,8 @@ The meeting adjourned at 1:33 PM.
 
 ### 2.4. Declare Surplus - City-Owned Property - Part of 641 Queens Avenue
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That the matter of the declaration of the property located at Part of 641 Queens Avenue as surplus, BE REFERRED back to the Civic Administration in order to provide notice to agencies within the City that have not been notified about the potential disposition, with a report back to a future meeti...
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -303,6 +305,8 @@ The meeting adjourned at 1:33 PM.
 </details>
 
 ### 4. Items for Direction
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > That Items 4.1 and 4.2 BE APPROVED.
 

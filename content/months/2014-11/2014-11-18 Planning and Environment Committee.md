@@ -1224,6 +1224,8 @@ The
 ### 2. 11th Report of the
   Advisory Committee on the Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1234,15 +1236,7 @@ Unanimous (6-0)
 ### 3. Property located at
   2070 Shore Road (H-8406)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 4. Property located at
-  2031 Pennyroyal Street (39CD-14513)
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1254,6 +1248,8 @@ Unanimous (6-0)
 ### 4. Property located at
   2031 Pennyroyal Street (39CD-14513)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1264,6 +1260,20 @@ Unanimous (6-0)
 ### 4. Property located at
   2031 Pennyroyal Street (39CD-14513)
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 4. Property located at
+  2031 Pennyroyal Street (39CD-14513)
+
+<a id="motion-4-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1274,15 +1284,7 @@ Unanimous (6-0)
 ### 5. Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 5. Properties located
-  at 3550-3590 Singleton Avenue (39CD-14521)
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1293,6 +1295,20 @@ Unanimous (6-0)
 
 ### 5. Properties located
   at 3550-3590 Singleton Avenue (39CD-14521)
+
+<a id="motion-5-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 5. Properties located
+  at 3550-3590 Singleton Avenue (39CD-14521)
+
+<a id="motion-5-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1304,15 +1320,7 @@ Unanimous (6-0)
 ### 6. Property located at
   710 Proudfoot Lane (OZ-8423)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 6. Property located at
-  710 Proudfoot Lane (OZ-8423)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1324,6 +1332,20 @@ Unanimous (6-0)
 ### 6. Property located at
   710 Proudfoot Lane (OZ-8423)
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 6. Property located at
+  710 Proudfoot Lane (OZ-8423)
+
+<a id="motion-6-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1334,15 +1356,7 @@ Unanimous (6-0)
 ### 7. Proposed Amendments
   to the Site Plan Control Area By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 7. Proposed Amendments
-  to the Site Plan Control Area By-law
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1353,6 +1367,20 @@ Unanimous (6-0)
 
 ### 7. Proposed Amendments
   to the Site Plan Control Area By-law
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 7. Proposed Amendments
+  to the Site Plan Control Area By-law
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1364,15 +1392,7 @@ Unanimous (6-0)
 ### 8. Properties located
   at 445-447-449 Dundas Street - Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 8. Properties located
-  at 445-447-449 Dundas Street - Demolition Request
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1384,6 +1404,20 @@ Unanimous (6-0)
 ### 8. Properties located
   at 445-447-449 Dundas Street - Demolition Request
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 8. Properties located
+  at 445-447-449 Dundas Street - Demolition Request
+
+<a id="motion-8-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1394,15 +1428,7 @@ Unanimous (6-0)
 ### 9. Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 9. Properties located
-  at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1413,6 +1439,20 @@ Unanimous (6-0)
 
 ### 9. Properties located
   at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. Properties located
+  at 321 Central Avenue and 581 Waterloo Street - Demolition Requests (OZ-8371)
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1423,6 +1463,8 @@ Unanimous (6-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1441,15 +1483,7 @@ Unanimous (6-0)
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Properties located
-  at 510 Central Avenue and 609 William Street (Z-8141)
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1460,6 +1494,20 @@ Unanimous (6-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
+
+<a id="motion-10-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Properties located
+  at 510 Central Avenue and 609 William Street (Z-8141)
+
+<a id="motion-10-3" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1478,15 +1526,7 @@ Unanimous (6-0)
 ### 11. Standard
   Subdivision Agreement Template - Updated General Provisions
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Standard
-  Subdivision Agreement Template - Updated General Provisions
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1498,6 +1538,20 @@ Unanimous (6-0)
 ### 11. Standard
   Subdivision Agreement Template - Updated General Provisions
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Standard
+  Subdivision Agreement Template - Updated General Provisions
+
+<a id="motion-11-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1508,15 +1562,7 @@ Unanimous (6-0)
 ### 12. Property located at
   161 Windermere Road (39CD-14501/Z-8167)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Property located at
-  161 Windermere Road (39CD-14501/Z-8167)
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1527,6 +1573,20 @@ Unanimous (5-0)
 
 ### 12. Property located at
   161 Windermere Road (39CD-14501/Z-8167)
+
+<a id="motion-12-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Property located at
+  161 Windermere Road (39CD-14501/Z-8167)
+
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1537,6 +1597,8 @@ Unanimous (5-0)
 
 ### 13. 12th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

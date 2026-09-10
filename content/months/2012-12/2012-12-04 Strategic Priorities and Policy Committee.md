@@ -674,6 +674,8 @@ Motion
   Neighbourhood, Children's and Fire Services - Service London Value
   Proposition
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -690,6 +692,8 @@ Motion
 ### 3. DELEGATION - City
   Manager - Verbal- 2012 Report to the Community
 
+<a id="motion-3-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -699,6 +703,8 @@ Unanimous (14-0)
 ### 4. Tabling of the 2013
   Draft Budget
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -707,6 +713,8 @@ Unanimous (14-0)
 
 ### 5. PUBLIC PARTICIPATION
   MEETING - City Clerk - Amendments to Consolidated Fees and Charges By-law
+
+<a id="motion-5-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -724,6 +732,8 @@ Unanimous (14-0)
 ### 6. Director, Corporate
   Communications - Community Engagement Task Force - Phase ll Report
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -733,6 +743,8 @@ Unanimous (14-0)
 ### 7. DELEGATION -
   Managing Director, Planning & City Planner - Status of Rethink London
   Community Engagement Report Draft Values, Vision and Direction
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -744,6 +756,8 @@ Unanimous (13-0)
   Managing Director, Corporate Services and City Treasurer, Chief Financial
   Officer - Growth Management Implementation Strategy (GMIS): 2013 Annual
   Review and Update
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Approve part a).   Motion Passed
 
@@ -763,6 +777,8 @@ Unanimous (13-0)
   Officer - Growth Management Implementation Strategy (GMIS): 2013 Annual
   Review and Update
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Approve part b).   Motion Passed
 
 **✅ Motion Passed**
@@ -779,6 +795,8 @@ Unanimous (13-0)
 ### 9. DELEGATION -
   Managing Director, Planning and City Planner - Industrial Lands Review O-8014
 
+<a id="motion-9-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -788,6 +806,8 @@ Unanimous (13-0)
 
 ### 10. Consideration of
   Appointments to the Argyle BIA Board of Management
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -800,6 +820,8 @@ Unanimous (13-0)
   Centre Board of Directors - Appointment Recommendations for the London
   Convention Centre Board of Directors
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -810,6 +832,8 @@ Unanimous (13-0)
 ### 12. London Police
   Services Board
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -818,6 +842,8 @@ Unanimous (13-0)
 
 ### 12. London Police
   Services Board
+
+<a id="motion-12-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -835,6 +861,8 @@ Unanimous (13-0)
 ### 13. ADDED - M. Seabrook,
   President and C.E.O, London International Airport - Extension of Term for
   Jeff Brown to the London International Airport Board of Directors
+
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

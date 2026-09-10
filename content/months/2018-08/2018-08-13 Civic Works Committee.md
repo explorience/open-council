@@ -431,6 +431,8 @@ The meeting adjourned at 1:54PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Approve items 2.1 to 2.13
 
 **✅ Motion Passed (5 to 0)**
@@ -438,6 +440,8 @@ The meeting adjourned at 1:54PM.
 Unanimous (5-0)
 
 ### 3.1. Complete Streets Design Manual
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the City of London Complete Streets Design Manual: (a)  the Complete Streets Design Manual, as summarized in the Executive Summary included ...
 
@@ -447,6 +451,8 @@ Unanimous (5-0)
 
 ### 3.2. Adelaide Street North - Canadian Pacific Railway Grade Separation - Environmental Study Report
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions BE TAKEN with respect to the Adelaide Street North/Canadian Pacific Railway Grade Separation Municipal Class Environmental Assessment: a)  the Adelaide Street North/...
 
 **✅ Motion Passed (5 to 0)**
@@ -454,6 +460,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Springhill Flowers Street Renaming Portion of Pleasantview Drive (From South Weinge Drive to Rollingacres) and Pleasantview Drive (South of Waterwheel Road) to Pleasantview Court
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services,  a public meeting for the proposed renaming of the portion of Pleasantview Drive (between South Wenige Drive and Rollingacres Drive) to Rollingacres Drive and the portion of Pleasantview Drive (south of Waterwheel Drive) to Pleasa...
 

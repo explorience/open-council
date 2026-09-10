@@ -1389,6 +1389,8 @@ But thank you very much, committee. Good work.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.3 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1397,6 +1399,8 @@ Unanimous (4-0)
 
 ### 3.5. 1140 Fanshawe Park Road East (39T-07502 / OZ-9473)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc, relating to the property located at 1140 Fanshawe Park Road East: a)  the request to amend the 1989 Official Plan to change the designation...
 
 **✅ Motion Passed (4 to 0)**
@@ -1404,6 +1408,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 3.6. Revised Victoria Park Secondary Plan (O-8978)
+
+<a id="motion-3-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Victoria Park Secondary Plan: a) the proposed by-law appended to the staff report dated May 9, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held o...
 

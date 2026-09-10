@@ -185,14 +185,7 @@ Motion Passed
 ### 2. Strategic Plan -
   Initial Discussions
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 2. Strategic Plan -
-  Initial Discussions
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -203,14 +196,7 @@ Unanimous (14-0)
 ### 2. Strategic Plan -
   Initial Discussions
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 2. Strategic Plan -
-  Initial Discussions
+<a id="motion-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -220,6 +206,30 @@ Unanimous (14-0)
 
 ### 2. Strategic Plan -
   Initial Discussions
+
+<a id="motion-2-2" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. Strategic Plan -
+  Initial Discussions
+
+<a id="motion-2-3" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. Strategic Plan -
+  Initial Discussions
+
+<a id="motion-2-4" class="motion-anchor"></a>
 
 > Motion Passed
 

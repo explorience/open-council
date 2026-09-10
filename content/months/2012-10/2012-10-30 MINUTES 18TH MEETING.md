@@ -4460,6 +4460,8 @@ Motion Passed
 ### 1#11. Disclosures
   of Pecuniary Interest
 
+<a id="motion-1-11-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4468,6 +4470,8 @@ Unanimous (13-0)
 
 ### 11#2. Repeal and
   Replacement of By-law No. A-41 - Council Procedure By-law
+
+<a id="motion-11-2-0" class="motion-anchor"></a>
 
 > Approve that, on the recommendation of the City Clerk, the attached   revised proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council   meeting on October 30, 2012 for the purpose of repealing and replacing By-law   No. A-41, the Council Procedure By-law, with a new Council Procedur...
 
@@ -4478,6 +4482,8 @@ Unanimous (13-0)
 ### 11#3. Economic
   Development Opportunities for London
 
+<a id="motion-11-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the communication dated October 5, 2012, from H. Brown, President,   Brown and Cohen Communications and Public Affairs Inc., requesting delegation   status for G. Mulhern, Executive Director, Ontario Concrete Pipe Association   and B. Brown, P...
 
 **✅ Motion
@@ -4487,6 +4493,8 @@ Unanimous (13-0)
 
 ### 11#5. Banner Signs
 
+<a id="motion-11-5-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to report back to the appropriate standing committee with respect to a review   of temporary real estate banner signs for the Downtown area including the   potential removal of the 210 day restriction within that area; it being noted   that the Public ...
 
 **✅ Motion Passed**
@@ -4494,6 +4502,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 11#5. Banner Signs
+
+<a id="motion-11-5-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4503,6 +4513,8 @@ Passed**
 Unanimous (13-0)
 
 ### 11#5. Banner Signs
+
+<a id="motion-11-5-2" class="motion-anchor"></a>
 
 > The   motion to Approve clauses 10 and 11 is put.
 
@@ -4514,6 +4526,8 @@ Unanimous (10-0)
 ### 16#2. Property located at
   1476 Aldersbrook Road (OZ-8069)
 
+<a id="motion-16-2-1" class="motion-anchor"></a>
+
 > Amend part b), by adding an additional part   vii) as follows: “restrict access to a left-in from Gainsborough Road (in   addition to the right-in/right-out) and a left-out onto Aldersbrook Road (in   addition to the right-in/right-out) using raised concrete medians and   following the City Acces...
 
 **✅ Motion Passed**
@@ -4522,6 +4536,8 @@ Unanimous (13-0)
 
 ### 16#2. Property located at
   1476 Aldersbrook Road (OZ-8069)
+
+<a id="motion-16-2-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4532,6 +4548,8 @@ Unanimous (13-0)
 
 ### 2#3. Property located at
   425 Wharncliffe Road South (Z-8063)
+
+<a id="motion-2-3-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering  a matter pertaining   to advice that is subject to solicitor-client privilege, including   communications necessary for that purpose, and litigation or potential   litigation, with respect t...
 
@@ -4549,6 +4567,8 @@ Unanimous (13-0)
 ### 2#3. Property located at
   425 Wharncliffe Road South (Z-8063)
 
+<a id="motion-2-3-2" class="motion-anchor"></a>
+
 > At 6:22 PM, His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
 **❌ Motion Failed**
@@ -4564,6 +4584,8 @@ Unanimous (13-0)
 
 ### 2#3. Property located at
   425 Wharncliffe Road South (Z-8063)
+
+<a id="motion-2-3-3" class="motion-anchor"></a>
 
 > The motion to adopt clause 2 is put.   Motion Passed
 
@@ -4581,6 +4603,8 @@ Unanimous (13-0)
 ### 2#3. Property located at
   425 Wharncliffe Road South (Z-8063)
 
+<a id="motion-2-3-4" class="motion-anchor"></a>
+
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the emergent motion at this time.
 
 **✅ Motion Passed**
@@ -4596,6 +4620,8 @@ Unanimous (13-0)
 
 ### 2#3. Property located at
   425 Wharncliffe Road South (Z-8063)
+
+<a id="motion-2-3-5" class="motion-anchor"></a>
 
 > Approve that, pursuant to section 18.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to a leave of absence for the Mayor.
 
@@ -4615,6 +4641,8 @@ Unanimous (13-0)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
 
+<a id="motion-2-8-0" class="motion-anchor"></a>
+
 > Motion Passed to sustain the ruling Chair.
 
 **✅ Motion Passed 🔥**
@@ -4632,6 +4660,8 @@ Unanimous (13-0)
   Secondary Plan (O-7609)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
+
+<a id="motion-2-8-1" class="motion-anchor"></a>
 
 > Approve that part a) ii) of Clause 2   of the 27th Report of the Planning and Environment Committee be amended by   deleting the part in its entirety and replacing it with the following new   part a) ii):   “ii)        amend   Chapter 20-Secondary Plans, BY ADDING the attached revised Section   2...
 
@@ -4651,6 +4681,8 @@ Unanimous (13-0)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
 
+<a id="motion-2-8-2" class="motion-anchor"></a>
+
 > Approve that clause 2 BE REFERRED back   to the Planning and Environment Committee in order for staff to bring forward   high level cost estimates for expanding the Enterprise Zone, timing and how   this will integrate with the GMIS and the Development Charges Study.
 
 **❌ Motion Failed 🔥**
@@ -4669,6 +4701,8 @@ Unanimous (13-0)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
 
+<a id="motion-2-8-3" class="motion-anchor"></a>
+
 > Approve  an amendment to part a) iii) of   clause 2, by adding the words, "subject Council approval".
 
 **✅ Motion Passed**
@@ -4679,6 +4713,8 @@ Unanimous (13-0)
   Secondary Plan (O-7609)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
+
+<a id="motion-2-8-4" class="motion-anchor"></a>
 
 > Approve an amendment to part a) ii)   by deleting the part in its entirety and by replacing it with the following   new part a) ii):   a)  ii) amend Chapter   20-Secondary Plans, BY ADDING the attached revised section 20.5 –   Southwest Area Secondary Plan to the Official Plan for the City of Lon...
 
@@ -4698,6 +4734,8 @@ Unanimous (13-0)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
 
+<a id="motion-2-8-5" class="motion-anchor"></a>
+
 > Approve part a) iii) of clause 2.
 
 **✅ Motion Passed**
@@ -4716,6 +4754,8 @@ Unanimous (13-0)
 (Secretary's Note: a copy of the revised Southwest Area
   Plan is available for viewing in the City Clerk's Office.)
 
+<a id="motion-2-8-6" class="motion-anchor"></a>
+
 > Approve the remainder of clause 2, as   amended.
 
 **✅ Motion Passed**
@@ -4732,6 +4772,8 @@ Unanimous (13-0)
 ### 20#2. Southwest Area
   Secondary Plan (O-7609)
 
+<a id="motion-20-2-1" class="motion-anchor"></a>
+
 > Amend clause 21 to add the following   wording, “to the Aspen Valley Wildlife Sanctuary for the winter months, then   subsequently move them” after the words “Stanton Drain” in the third line.
 
 **✅ Motion Passed**
@@ -4740,6 +4782,8 @@ Unanimous (13-0)
 
 ### 20#2. Southwest Area
   Secondary Plan (O-7609)
+
+<a id="motion-20-2-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4751,6 +4795,8 @@ Unanimous (13-0)
 ### 6#5. Cancellation of the
   Eldon House Service Agreement with Museum London
 
+<a id="motion-6-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director   of Corporate Investments and Partnerships, the City Clerk BE AUTHORIZED to   give notice to Museum London that the Eldon House Service Agreement dated   December 22, 2010 between the City and Museum London for the operation of   Eldon House will be te...
 
 **✅ Motion
@@ -4760,6 +4806,8 @@ Unanimous (13-0)
 
 ### 7#3. New "Value
   Based" Funding Model for Water and Wastewater Services
+
+<a id="motion-7-3-0" class="motion-anchor"></a>
 
 > Approve that the following actions be taken with respect to the new   "Value Based" funding model for Water and Wastewater Services:   a)         the   report dated October 22, 2012, from the Managing Director of Engineering and   City Engineer BE RECEIVED for information;    b)         a   Publi...
 
@@ -4777,6 +4825,8 @@ Unanimous (13-0)
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
 
+<a id="motion-7-6-0" class="motion-anchor"></a>
+
 > a)         That   the membership of the Civic Works Committee for the term December 1, 2012 to   November 30, 2013 BE ESTABLISHED as follows:                                       Councillor   P. Van Meerbergen(Chair)                                     Mayor   J. Fontana (ex-officio)            ...
 
 **✅ Motion
@@ -4786,6 +4836,8 @@ Unanimous (13-0)
 
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
+
+<a id="motion-7-6-1" class="motion-anchor"></a>
 
 > The   motion to adopt clause 7 a) is put.
 
@@ -4803,6 +4855,8 @@ Unanimous (13-0)
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
 
+<a id="motion-7-6-2" class="motion-anchor"></a>
+
 > The   motion to adopt clause 7 b) is put.
 
 **✅ Motion Passed**
@@ -4818,6 +4872,8 @@ Unanimous (13-0)
 
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
+
+<a id="motion-7-6-3" class="motion-anchor"></a>
 
 > The   motion to adopt clause 7 c) is put.
 
@@ -4835,6 +4891,8 @@ Unanimous (13-0)
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
 
+<a id="motion-7-6-4" class="motion-anchor"></a>
+
 > The   motion to adopt clause 7 d) is put.
 
 **✅ Motion Passed**
@@ -4850,6 +4908,8 @@ Unanimous (13-0)
 
 ### 7#6. Committee
   Appointment Preferences submitted by Council Members
+
+<a id="motion-7-6-5" class="motion-anchor"></a>
 
 > The   motion to adopt clause 7 e) is put.
 
@@ -4867,6 +4927,8 @@ Unanimous (13-0)
 ### 8#4. Property located at
   199 Queens Avenue
 
+<a id="motion-8-4-1" class="motion-anchor"></a>
+
 > Amend Clause   8 by adding a new part d) as follows:  “d)      the applicant BE ADVISED that a private   party has expressed an interest with respect to the applicant’s offer to   provide $25,000 to assist in the costs of the possible relocation of the   heritage structure.”
 
 **✅ Motion Passed**
@@ -4880,6 +4942,8 @@ Unanimous (13-0)
 
 ### 8#4. Property located at
   199 Queens Avenue
+
+<a id="motion-8-4-2" class="motion-anchor"></a>
 
 > Approve referral of consideration of   clause 8 to a future meeting of the Planning and Environment Committee.
 
@@ -4897,6 +4961,8 @@ Unanimous (13-0)
 ### 8#4. Property located at
   199 Queens Avenue
 
+<a id="motion-8-4-3" class="motion-anchor"></a>
+
 > Approve clause 8, as amended.
 
 **✅ Motion Passed**
@@ -4907,6 +4973,8 @@ Unanimous (10-0)
   Ontario Limited to Purchase 2.87 Acres Identified as Part Lot 27, Plan
   33M-251 - Trafalgar Industrial Park - Phase lll
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of the Manager, Realty Services, with   respect to the offer submitted by 1803302 Ontario Limited to purchase   approximately 2.87 acres of land located on the west side of Sovereign Road,   described as Part Lot 27, Plan 33M-251, as shown on Appendix “B”, the ...
 
 **✅ Motion Passed**
@@ -4915,6 +4983,8 @@ Unanimous (11-0)
 
 ### III. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTEENTH MEETING HELD ON OCTOBER 9, 2012
+
+<a id="motion-iii-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the Seventeenth   Meeting held on October 9, 2012.
 
@@ -4925,6 +4995,8 @@ Unanimous (13-0)
 ### VII. ADDED
   REPORTS
 
+<a id="motion-vii-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 2 of the 26th Report of the Planning and Environment   Committee, having to do with a Zoning By-law Amendment application relating   to the property located...
 
 **✅ Motion Passed**
@@ -4932,6 +5004,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<a id="motion-xii-0" class="motion-anchor"></a>
 
 > Approve the 1st Reading of Bill   No. 425.
 
@@ -4941,6 +5015,8 @@ Unanimous (11-0)
 
 ### XII. BY-LAWS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve the 2nd Reading of Bill   No. 425.
 
 **✅ Motion Passed**
@@ -4948,6 +5024,8 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XII. BY-LAWS
+
+<a id="motion-xii-2" class="motion-anchor"></a>
 
 > Approve the 3rd Reading of Bill No. 425.
 
@@ -4957,6 +5035,8 @@ Unanimous (11-0)
 
 ### XII. BY-LAWS
 
+<a id="motion-xii-3" class="motion-anchor"></a>
+
 > Approve the 1st Reading of Bills   No.s 419 to 442, except Bill No.s 425 and 443.
 
 **✅ Motion Passed**
@@ -4964,6 +5044,8 @@ Unanimous (11-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<a id="motion-xii-4" class="motion-anchor"></a>
 
 > Approve the 2nd Reading of Bills No.s 419 to 442, except Bill No.s 425 and   443.
 
@@ -4973,6 +5055,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<a id="motion-xii-5" class="motion-anchor"></a>
+
 > Approve the 3rd Reading of Bills No.s 419 to 442, except Bill No.s 425 and   443.
 
 **✅ Motion Passed**
@@ -4981,6 +5065,8 @@ Unanimous (13-0)
 
 ### XIII. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-xiii-0" class="motion-anchor"></a>
 
 > Approve Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -4993,6 +5079,8 @@ Unanimous (12-0)
   consideration with clause 21 of the 25th Report of the Planning and
   Environment Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -5003,6 +5091,8 @@ Unanimous (13-0)
 ### 9. City of London
   Thames Valley District School Board Liaison Committee
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5011,6 +5101,8 @@ Unanimous (11-0)
 
 ### 13. Make your
   Municipality more Cardiac Safe
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > That the request for delegation status from   M. Holland, Director, Health Promotion and Public Affairs, Heart & Stroke   Foundation of Ontario, with respect to a presentation regarding how to make   your municipality more cardiac safe, BE APPROVED; it being noted that   delegation status for M. ...
 
@@ -5022,6 +5114,8 @@ Unanimous (12-0)
 ### 20. Resignation from
   the Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > That the communication dated September 25,   2012, from Bill Urquhart, resigning his appointment to the Community Safety   and Crime Prevention Advisory Committee, BE ACCEPTED and Bill Urquhart BE   THANKED for participating on the Community Safety and Crime Prevention   Advisory Committee.
 
 **✅ Motion
@@ -5031,6 +5125,8 @@ Unanimous (13-0)
 
 ### 21. Resignation of
   Emily Marcoccia from the Town and Gown Committee
+
+<a id="motion-21-0" class="motion-anchor"></a>
 
 > Approve that the communication dated September 11, 2012, from Sabina Di   Loreto, resigning the appointment of Emily Marcoccia to the Town and Gown   Committee, BE ACCEPTED and Emily Marcoccia BE THANKED for participating on   the Town and Gown Committee.
 

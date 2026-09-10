@@ -593,6 +593,8 @@ The meeting adjourned at 5:04 PM.
 
 ### 2.2. Investing in Canada Infrastructure Program Public Transit Stream (ICIP-PTS) - London Transit Commission Highbury Avenue Facility
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Environment and Infrastructure, the Civic Administration BE DIRECTED to work with London Transit Commission (LTC) staff to develop a joint application to the Investing in Canada Infrastructure Pr...
 
 **✅ Motion Passed (14 to 1)**
@@ -607,6 +609,8 @@ The meeting adjourned at 5:04 PM.
 </details>
 
 ### 4.1. London Community Recovery Network – Recovery Funding Business Cases
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases:    a)     the LCRN Business Cas...
 
@@ -623,6 +627,8 @@ The meeting adjourned at 5:04 PM.
 
 ### 4.1. London Community Recovery Network – Recovery Funding Business Cases
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases: b) the following funding reques...
 
 **✅ Motion Passed (15 to 0)**
@@ -630,6 +636,8 @@ The meeting adjourned at 5:04 PM.
 Unanimous (15-0)
 
 ### 4.1. London Community Recovery Network – Recovery Funding Business Cases
+
+<a id="motion-4-1-3" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases: b) the following funding reques...
 
@@ -645,6 +653,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. London Community Recovery Network – Recovery Funding Business Cases
+
+<a id="motion-4-1-4" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report dated July 27, 2022 related to the London Community Recovery Network (LCRN) – Recovery Funding Business Cases:    b) the following funding req...
 

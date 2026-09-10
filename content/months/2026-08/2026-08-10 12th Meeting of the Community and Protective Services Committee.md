@@ -327,6 +327,8 @@ The meeting adjourned at 3:44 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -334,6 +336,8 @@ The meeting adjourned at 3:44 PM.
 Unanimous (6-0)
 
 ### 2.3. Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+<a id="motion-2-3-1" class="motion-anchor"></a>
 
 > That the delegation request from C. Lazenby, Unity Project, with respect to this matter, BE APPROVED.
 
@@ -343,6 +347,8 @@ Unanimous (6-0)
 
 ### 4.1. Extension of Interim Bridge Funding for Outreach Services
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the interim bridge funding for organizations delivering basic needs, outreach and diversion services: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with recommend...
 
 **✅ Motion Passed (6 to 0)**
@@ -350,6 +356,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Extension of Interim Bridge Funding for Outreach Services
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That the delegation request from S. Campbell, Ark Aid Street Mission Inc., with respect to this matter, BE APPROVED.
 

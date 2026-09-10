@@ -1868,6 +1868,8 @@ Passed.
   Planning and Environment Committee stage for consideration with clause 8 of
   the 7th Report of the Planning and Environment Committee.)
 
+<a id="motion-1-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1876,6 +1878,8 @@ Unanimous (12-0)
 
 ### 2#5. RFP Process for
   Internal and External Audit Services
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > The motion to Approve part a) of clause 2   is put.
 
@@ -1893,6 +1897,8 @@ Unanimous (12-0)
 ### 2#5. RFP Process for
   Internal and External Audit Services
 
+<a id="motion-2-5-2" class="motion-anchor"></a>
+
 > Approve parts b) and c).
 
 **✅ Motion Passed**
@@ -1901,6 +1907,8 @@ Unanimous (12-0)
 
 ### 2#5. RFP Process for
   Internal and External Audit Services
+
+<a id="motion-2-5-3" class="motion-anchor"></a>
 
 > Approve a new part d) as follows:   d)       a further additional meeting of the Audit Committee BE SCHEDULED for a time   in advance of the June 14, 2016 Municipal Council meeting.
 
@@ -1918,6 +1926,8 @@ Unanimous (12-0)
 ### 2#5. RFP Process for
   Internal and External Audit Services
 
+<a id="motion-2-5-4" class="motion-anchor"></a>
+
 > Approve clause 1 and clause 2, as   amended.
 
 **✅ Motion Passed**
@@ -1926,6 +1936,8 @@ Unanimous (11-0)
 
 ### 4#3. Follow-Up on
   Municipal Implications of the Truth and Reconciliation Commission Report
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > Approve  that:   1.         That   the Committee of the Whole made progress with respect to the following   matters:   a)         A   matter pertaining to the purpose of instructions and directions to officers   and employees of the Corporation pertaining to a lease of office space;   advice that...
 
@@ -1936,6 +1948,8 @@ Unanimous (10-0)
 ### 8#3. Properties located
   on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road (Cedarhollow
   Subdivision) (Z-8596) (Relates to Bill No. 157)
+
+<a id="motion-8-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Services, the following actions be taken with respect to   the application of the Thames Valley District School Board, relating to the   property located on a portion of 1800 Cedarhollow Boulevard and 776 to 802   Killarney Road:   ...
 
@@ -1953,6 +1967,8 @@ Unanimous (10-0)
 ### 9#3. Community Urban
   Agriculture Opportunities
 
+<a id="motion-9-3-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1961,6 +1977,8 @@ Unanimous (12-0)
 
 ### 9#3. Community Urban
   Agriculture Opportunities
+
+<a id="motion-9-3-2" class="motion-anchor"></a>
 
 > Approve clause 9, as amended.
 
@@ -1971,6 +1989,8 @@ Unanimous (12-0)
 ### 9#4. Greater London
   International Airport Authority Board of Directors –  Nominations
 
+<a id="motion-9-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to determining the Municipal Council’s nominees to the Greater London   International Airport Authority:   a)         the   candidate names to form a ballot BE DETERMINED by the Strategic Priorities   and Policy Committee (SPPC); it being noted t...
 
 **✅ Motion Passed**
@@ -1979,6 +1999,8 @@ Unanimous (10-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that   Council rise and go into Committee of the Whole, in camera, for the purpose   of considering the following matters:
 
@@ -1989,6 +2011,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON APRIL 5, 2016
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve that the Minutes of the Ninth   Meeting held on April 5, 2016 BE APPROVED.
 
 **✅ Motion Passed**
@@ -1996,6 +2020,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### XII. EMERGENT MOTIONS
+
+<a id="motion-xii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion from Councillor S. Turner to request support for a temporary   leave of absence from sitting on the Board of the Middlesex-London Health   Unit.
 
@@ -2005,6 +2031,8 @@ Unanimous (10-0)
 
 ### XII. EMERGENT MOTIONS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve that the request from Councillor   S. Turner for a temporary leave of absence from sitting on the Board of the   Middlesex-London Health Unit BE SUPPORTED.
 
 **✅ Motion Passed**
@@ -2012,6 +2040,8 @@ Unanimous (10-0)
 Unanimous (10-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of   Bill No. 157.
 
@@ -2028,6 +2058,8 @@ Unanimous (10-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-4" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 157.
 
 **✅ Motion Passed**
@@ -2042,6 +2074,8 @@ Unanimous (10-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Bill   No. 157.
 

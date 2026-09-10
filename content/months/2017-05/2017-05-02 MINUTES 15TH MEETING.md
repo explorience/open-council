@@ -2210,6 +2210,8 @@ Motion Passed
 
 ### 10#2. Open Air Burning
 
+<a id="motion-10-2-0" class="motion-anchor"></a>
+
 > That it BE NOTED that the Community and   Protective Services Committee (CPSC) heard delegations from the following,   requesting the enactment of a City of London by-law to prohibit outdoor open   air burning:   -           A.   Kytka, representing C. Oglan, and presenting the submission include...
 
 **✅ Motion Passed**
@@ -2226,6 +2228,8 @@ Motion Passed
 ### 13#3. Deferred Matters
   List
 
+<a id="motion-13-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -2236,6 +2240,8 @@ Unanimous (13-0)
 ### 2#5. Year 2017 Tax
   Policy
 
+<a id="motion-2-5-0" class="motion-anchor"></a>
+
 > Approve that clause 2 be amended, in   parts d) and e) by deleting the words “meeting to be held on May 2, 2017” and   by inserting the words “a future meeting of” after the word “at” in line 2 of   parts d) and e).
 
 **✅ Motion Passed**
@@ -2244,6 +2250,8 @@ Unanimous (12-0)
 
 ### 2#5. Year 2017 Tax
   Policy
+
+<a id="motion-2-5-1" class="motion-anchor"></a>
 
 > Approve clause 2, as amended.
 
@@ -2254,6 +2262,8 @@ Unanimous (13-0)
 ### 3#3. Year 2017 Education
   Tax Rates
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > Approve that clause 3 be amended by   deleting the words “the Council meeting of May 2, 2017 assuming by that date   the appropriate regulation has been issued by the Minister of Finance” and by   replacing them with the words “a future meeting of the Municipal Council.”
 
 **✅ Motion Passed**
@@ -2262,6 +2272,8 @@ Unanimous (13-0)
 
 ### 3#3. Year 2017 Education
   Tax Rates
+
+<a id="motion-3-3-1" class="motion-anchor"></a>
 
 > Approve clause 3, as amended.
 
@@ -2272,6 +2284,8 @@ Unanimous (13-0)
 ### 4#2. Lead Agency to
   Oversee the Implementation of London For All:  A Roadmap to End Poverty
   Request for Proposal 17-10
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children and Fire Services and the Managing   Director of Housing, Social Services and Dearness Home, the following actions   be taken with respect to the award of the contract for the Request for   Proposal (RFP) 17-10 Lead...
 
@@ -2290,6 +2304,8 @@ Unanimous (13-0)
   to Council Procedure By-law - Change in Start Time - Corporate Services
   Committee (Relates to Bill No. 187)
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City   Clerk, the proposed by-law appended to the staff report dated April 25, 2017   BE INTRODUCED at the Municipal Council meeting to be held on May 2, 2017 to   amend the start time for future regularly scheduled meetings of the Corporate   Services Committee...
 
 **✅ Motion
@@ -2299,6 +2315,8 @@ Unanimous (13-0)
 
 ### 7#2. Short Term
   Accommodations
+
+<a id="motion-7-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director of Development and Compliance Services and Chief Building Official,   the report related to short term accommodations, dated April 25, 2017, BE   RECEIVED; it being noted that Civic Administration will undertake a work   program to address sh...
 
@@ -2317,6 +2335,8 @@ Unanimous (13-0)
   Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
   Tobacco Control Measures
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > The motion to Approve part c) i) of clause   8 is put.
 
 **❌ Motion Failed**
@@ -2334,6 +2354,8 @@ Unanimous (13-0)
   Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
   Tobacco Control Measures
 
+<a id="motion-8-2-1" class="motion-anchor"></a>
+
 > The motion to Approve part c) ii) of clause   8 is put.
 
 **✅ Motion Passed**
@@ -2343,6 +2365,8 @@ Unanimous (11-0)
 ### 8#2. Anti-Contraband
   Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
   Tobacco Control Measures
+
+<a id="motion-8-2-2" class="motion-anchor"></a>
 
 > Approve a revised part c) i) as follows:   c)i)  the City of London acknowledges   recent increases in tobacco taxation; and,
 
@@ -2354,6 +2378,8 @@ Unanimous (11-0)
   Tobacco Campaign Funded by Tobacco Industry Front Groups Intend to Block
   Tobacco Control Measures
 
+<a id="motion-8-2-3" class="motion-anchor"></a>
+
 > The motion to Approve parts a) and b) of   clause 8 is put.
 
 **✅ Motion Passed**
@@ -2363,6 +2389,8 @@ Unanimous (11-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH , THIRTEENTH and fourteenth
   MEETINGS HELD ON APRIL 18, APRIL 21 and May 1 2017 RESPECTIVELY
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the Twelfth,   Thirteenth and Fourteenth meetings held on April 18 and 21, and May 1, 2017,   respectively.
 
@@ -2378,6 +2406,8 @@ Unanimous (12-0)
   Stage for Consideration with Clause 10 of the 8th Report of the Planning and
   Environment Committee)
 
+<a id="motion-1-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2386,6 +2416,8 @@ Unanimous (13-0)
 
 ### 13. Public Engagement
   Process for the Evaluation of Community Improvement Plan Incentives
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the service review of the City’s Community Improvement Plans   (CIPs) and associated incentive programs:   a)         the   Residential Development Charges Programs ...
 
@@ -2396,6 +2428,8 @@ Unanimous (13-0)
 ### 14. Property located at
   1156 Dundas Street - Brownfield CIP Incentives
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application made under the Community Improvement Plan for   Brownfield Incentives and the business case submission received from McCormick   Villages Inc. (“McCo...
 
 **✅ Motion Passed**
@@ -2405,6 +2439,8 @@ Unanimous (13-0)
 ### 15. Property located at
   100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave - 
   Brownfield Incentives
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > The motion to Approve part a) of clause 15   is put.
 
@@ -2423,6 +2459,8 @@ Unanimous (13-0)
   100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Ave - 
   Brownfield Incentives
 
+<a id="motion-15-1" class="motion-anchor"></a>
+
 > The motion to Approve remainder of clause   15 is put.
 
 **✅ Motion Passed**
@@ -2438,6 +2476,8 @@ Unanimous (13-0)
 
 ### 16. Withdrawal Renaming
   Proposal - Mildred Barons Park to Vimy Ridge Park
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the submission by Councillor B. Armstrong related to the   establishment of a permanent Vimy Ridge memorial:   a)         clause   18 of the 3rd Report of the Community and Protective Services Committee which   referred to a request by Council...
 

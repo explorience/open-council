@@ -446,6 +446,8 @@ The Strategic Priorities and Policy Committee recesses at 4:12 PM.
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That Operating Budget Amendment - Case #7 (London Children's Museum - Funding Request), BE AMENDED, to revise the source of funding of the Case with $1,500,000 being funded from the Economic Development Reserve Fund, and $500,000 being funded from the Tourism Infrastructure Reserve Fund.
 
 **✅ Motion Passed (12 to 3)**
@@ -460,6 +462,8 @@ The Strategic Priorities and Policy Committee recesses at 4:12 PM.
 </details>
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > That the motion to allocate $330,000 from Assessment Growth Revenue to the 2019 Budget BE AMENDED to be $1,000,000 to the 2019 Budget amount.
 
@@ -476,6 +480,8 @@ The Strategic Priorities and Policy Committee recesses at 4:12 PM.
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-3" class="motion-anchor"></a>
+
 > That Operating Budget Amendments included in Business Cases #1 (Adjustments to reduce the Tax Levy), #3 (Confidential - Labour Relations),  and #5 (Additional Land Ambulance Resources), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -483,6 +489,8 @@ The Strategic Priorities and Policy Committee recesses at 4:12 PM.
 Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-4" class="motion-anchor"></a>
 
 > That Operating Budget Amendments included in Case #2 (Cancellation of Planned 2019 Minimum wage Increase), BE APPROVED.
 
@@ -498,6 +506,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-5" class="motion-anchor"></a>
 
 > That Operating Budget Amendments included in Case #4 (Bicycle Lane Maintenance), BE APPROVED.
 
@@ -516,6 +526,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-6" class="motion-anchor"></a>
+
 > That Operating Budget Amendments included in Case #6 (Safeguard Program - London Police Service), BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -531,6 +543,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-7" class="motion-anchor"></a>
+
 > That Operating Budget Amendments included in Case #7 (London Children's Museum - Funding Request), BE APPROVED, as amended.
 
 **✅ Motion Passed (15 to 0)**
@@ -538,6 +552,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-8" class="motion-anchor"></a>
 
 > That Business Case #13 Subsidized Transit for Seniors, BE REFERRED to the next multi-year budget process, in order for all transit subsidies and fares to be reviewed in a comprehensive way.
 
@@ -554,6 +570,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-9" class="motion-anchor"></a>
+
 > That Operating Budget Amendments included in Case #13 (Subsidized Transit for Seniors), BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -569,6 +587,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
 
+<a id="motion-4-1-10" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to bring forward for Municipal Council’s consideration options that would result in a reduction of the proposed tax levy increase for 2019 to 2.4%; it being noted that Municipal Council will review the said options presented and all other budget matters t...
 
 **❌ Motion Failed (5 to 10)**
@@ -583,6 +603,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-11" class="motion-anchor"></a>
 
 > That the Hamilton Road Business Improvement Area (BIA) BE GIVEN a grant of $50,000 for 2019 to assist the BIA in their activities; it being noted that this is a 4km, low assessment area with a 4.9% levy totaling only $70,000; it being further noted that the grant would be funded from the Communit...
 
@@ -600,6 +622,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Review of Operating Budget Amendments (rounded to the closest $1,000)
+
+<a id="motion-4-1-12" class="motion-anchor"></a>
 
 > That $330,000 from Assessment Growth revenue BE ALLOCATED to the 2019 Budget in order to off-set the tax levy.
 

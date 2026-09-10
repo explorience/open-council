@@ -398,6 +398,8 @@ Motion
 ### 2. 1st Report of the
   London Housing Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -407,6 +409,8 @@ Unanimous (6-0)
 
 ### 4. Single Source
   Supply and Delivery of Motorized Riding Golf Carts
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -419,6 +423,8 @@ Unanimous (6-0)
   of the Dearness Home Regarding the Orientation Conducted with the Dearness
   Home Committee of Management - January 7, 2015
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -428,6 +434,8 @@ Unanimous (6-0)
 
 ### 6. General Orientation
   – Key Committee Matters
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -439,14 +447,7 @@ Unanimous (6-0)
 ### 7. 1st Report of the
   London Diversity and Race Relations Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 8. Food Trucks
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -456,6 +457,19 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 8. Food Trucks
+
+<a id="motion-8-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 8. Food Trucks
+
+<a id="motion-8-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -466,6 +480,8 @@ Unanimous (6-0)
 
 ### 10. 2nd Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

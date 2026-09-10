@@ -1173,6 +1173,8 @@ Councillor Turner, Councillor Cassidy, we're allowed to do a hand vote of all in
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.16, 2.17, and 2.18 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1180,6 +1182,8 @@ Councillor Turner, Councillor Cassidy, we're allowed to do a hand vote of all in
 Unanimous (6-0)
 
 ### 2.14. Outcome of Climate Lens Screening Applied to Major Transportation Projects
+
+<a id="motion-2-14-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated August 31, 2021, related to the initial Climate Emergency screening of current major transportation projects: a)        Civic Administratio...
 
@@ -1197,6 +1201,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.2. Commercial E-scooters in the City of London
+
+<a id="motion-4-2-1" class="motion-anchor"></a>
 
 > That the request for delegation status from the following individuals BE APPROVED: - S. Besseau; - C. Schafer; and, - D. Lepofsky.
 

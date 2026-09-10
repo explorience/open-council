@@ -577,6 +577,8 @@ The meeting adjourned at 8:43 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.10 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -584,6 +586,8 @@ The meeting adjourned at 8:43 PM.
 Unanimous (6-0)
 
 ### 3.3. Property Standards By-law Review
+
+<a id="motion-3-3-3" class="motion-anchor"></a>
 
 > Motion to approve parts a), b) and c) of the clause.
 
@@ -593,6 +597,8 @@ Unanimous (5-0)
 
 ### 3.3. Property Standards By-law Review
 
+<a id="motion-3-3-4" class="motion-anchor"></a>
+
 > Motion to approve part d) of the clause.
 
 **✅ Motion Passed (5 to 0)**
@@ -600,6 +606,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.3. Property Standards By-law Review
+
+<a id="motion-3-3-5" class="motion-anchor"></a>
 
 > Motion to approve part e) of the clause.
 

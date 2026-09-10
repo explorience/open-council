@@ -783,6 +783,8 @@ Mayor, you don't say anything to put up your hand? Excellent. All right, where a
 
 ### 2.1. 995 Fanshawe Park Road West - Request for Extension of Draft Plan Approval (39T-05512)
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, based on the application by Landea Developments Inc., relating to the property located at 995 Fanshawe Park Road West, the Approval Authority BE REQUESTED to approve a three (3) year extension to Draft Plan Approval for the re...
 
 **✅ Motion Passed (4 to 0)**
@@ -791,6 +793,8 @@ Unanimous (4-0)
 
 ### 3.2. 1938 & 1964 Commissioners Road East (39T-19501/Z-9015)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the properties located at 1938 and 1964 Commissioners Road East:     a)    the Approval Authority BE ADVISED that no issue...
 
 **✅ Motion Passed (5 to 0)**
@@ -798,6 +802,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 4.1. 2631 Hyde Park Road and 1521 Sunningdale Road West
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, the following updated instructions be given to Civic Administration relating to the properties located at 2631 Hyde Park Road and 1521 Sunningdale Road West: a)    the Civic Administration BE REQUESTED to work with the Applicant to facilitate the necessary zoning by-law amendment(s) within ...
 

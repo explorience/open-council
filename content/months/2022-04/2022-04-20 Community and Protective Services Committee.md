@@ -919,6 +919,8 @@ All those in favor, I'm seeing everybody clerk. That motion carries, we are adjo
 
 ### 2.1. Request for Proposal 2022-054 - New Play Equipment at Gibbons Park and Greenway Park
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated April 20, 2022, related to a Request for Proposal 2022-054 for New Play Equipment at Gibbons Park and Greenway Park: a)    the bid submitt...
 
 **✅ Motion Passed (5 to 0)**
@@ -927,6 +929,8 @@ Unanimous (5-0)
 
 ### 2.3. Irregular Result RFP 21-74: Dental Program Administration Single Bid Award Recommendation
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development and with the concurrence of the Director, Financial Services, the following actions be taken with respect to the staff report, dated April 20, 2022, related to an Irregular Result RFP 21-74 Dental Program Admini...
 
 **✅ Motion Passed (5 to 0)**
@@ -934,6 +938,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. DELEGATION - A. Valastro - Light Pollution By-law
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the verbal delegation from A.M. Valastro, with respect to a potential Light Pollution By-law, BE RECEIVED; it being noted that the communications, as appended to the Agenda, with respect to this matter, were received at the previous Community and Protective Services Committee meeting on Marc...
 
@@ -952,6 +958,8 @@ Unanimous (5-0)
 
 ### 5.2. Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee
 
+<a id="motion-5-2-1" class="motion-anchor"></a>
+
 > Motion to approve the delegation requests, as appended to the Added Agenda, from M. Hamer, R. Murphy and B. Child to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -959,6 +967,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.2. Clause 4.2 of the 2nd Report of the Animal Welfare Advisory Committee
+
+<a id="motion-5-2-2" class="motion-anchor"></a>
 
 > Motion to receive the verbal delegations from R. Laidlaw, W. Brown, M. Lerner, J. Van-Daele, F. Morrison, M. Hamer, R. Murphy and B. Child.
 
@@ -968,6 +978,8 @@ Unanimous (5-0)
 
 ### 5.3. "Graphic" Flyer Deliveries to Residential Properties
 
+<a id="motion-5-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the staff report, dated April 20, 2022, with respect to “Graphic” Flyer Deliveries to Residential Properties: a)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on Ma...
 
 **✅ Motion Passed (5 to 0)**
@@ -976,6 +988,8 @@ Unanimous (5-0)
 
 ### 5.4. Deferred Matters List
 
+<a id="motion-5-4-1" class="motion-anchor"></a>
+
 > Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at April 11, 2022, with the exception of item 2.
 
 **✅ Motion Passed (5 to 0)**
@@ -983,6 +997,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.4. Deferred Matters List
+
+<a id="motion-5-4-2" class="motion-anchor"></a>
 
 > Motion to receive Item number 2 on the Deferred Matters List for the Community and Protective Services Committee, as at April 11, 2022.
 

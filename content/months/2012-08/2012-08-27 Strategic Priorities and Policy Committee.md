@@ -194,6 +194,8 @@ The
 ### 5. London Hydro Inc.
   Board of Directors Compensation
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Recommendation:  That the following actions   be taken with respect to compensation for the Board of Directors for London   Hydro Inc.:   a)              the   communication dated August 17, 2012 from V. Sharma, Chief Executive Officer,   and the consultant’s report entitled “London Hydro Board o...
 
 **❌  🔥**

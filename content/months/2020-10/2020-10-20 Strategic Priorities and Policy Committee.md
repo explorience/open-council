@@ -1061,6 +1061,8 @@ The meeting adjourned at 8:46 PM.
 
 ### 2.1. 2021 Development Charges Update Covering Report and Proposed By-law
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer, the following actions be taken with respect to the 2021 Development Charges Update: a)      the 2021 Development Charges Background Study Update BE APPROVED; b)      the proposed by...
 
 **✅ Motion Passed (15 to 0)**
@@ -1069,6 +1071,8 @@ Unanimous (15-0)
 
 ### 2.4. Amendment - Terms of Reference Committee of Management for the Dearness Home
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Clerk, the proposed by-law appended to the staff report dated October 20, 2020 as Appendix “A", being “A by-law to amend By-law No. A.-6582-255 being “A By-law to establish a Committee of Management for the Dearness Home in accordance with section 132 of th...
 
 **✅ Motion Passed (15 to 0)**
@@ -1076,6 +1080,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 2.5. Rapid Transit Implementation Working Group
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer and the City Clerk, the “Rapid Transit Implementation Working Group” (RTIWG) BE DISSOLVED as the mandate of the RTIWG has been completed; it being noted that the Terms of Reference of the ...
 
@@ -1092,6 +1098,8 @@ Unanimous (15-0)
 
 ### 3.2. 2021-2023 Water and Wastewater Rates
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services & City Engineer, and the Managing Director, Corporate Services & City Treasurer, Chief Financial Officer the following actions be taken with respect to the 2021-2023 Water and Wastewater rates and charges...
 
 **✅ Motion Passed (12 to 3)**
@@ -1107,6 +1115,8 @@ Unanimous (15-0)
 
 ### 4.2. Appointment of Deputy Mayor
 
+<a id="motion-4-2-2" class="motion-anchor"></a>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, permission for Councillor A. Hopkins to speak for longer than 5 minutes BE GRANTED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1114,6 +1124,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.2. Appointment of Deputy Mayor
+
+<a id="motion-4-2-3" class="motion-anchor"></a>
 
 > That the amendment, BE AMENDED, by deleting the following from part c) of the proposed amendment, “that would limit the appointment period of the Deputy Mayor to a maximum of one year and”, with part c) reading as follows: c)      the City Clerk BE DIRECTED to bring forward to a future meeting of...
 
@@ -1130,6 +1142,8 @@ Unanimous (15-0)
 
 ### 4.2. Appointment of Deputy Mayor
 
+<a id="motion-4-2-4" class="motion-anchor"></a>
+
 > That the proposed new part c), as amended, BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -1144,6 +1158,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.2. Appointment of Deputy Mayor
+
+<a id="motion-4-2-5" class="motion-anchor"></a>
 
 > Motion to approve the following amended parts a) and b) as follows:    That, the following actions be taken with respect to the appointment of the Deputy Mayor: a)      the appointment of Councillor Josh Morgan, as Deputy Mayor for the City of London, for a term commencing on December 1, 2020 and...
 
@@ -1160,6 +1176,8 @@ Unanimous (15-0)
 
 ### 4.2. Appointment of Deputy Mayor
 
+<a id="motion-4-2-6" class="motion-anchor"></a>
+
 > Motion to approve the original parts a) and b) as follows: That, on the recommendation of the Mayor, the following actions be taken with respect to the appointment of the Deputy Mayor: a)      the appointment of Councillor Josh Morgan as Deputy Mayor for the City of London, for a term commencing ...
 
 **✅ Motion Passed (14 to 1)**
@@ -1175,6 +1193,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-1" class="motion-anchor"></a>
+
 > Appointment to the Planning and Environment Committee - Ballot #1
 
 **❌ Majority Winner: P. Squire; S. Hillier; S. Lehman; S. Lewis; A. Hopkins 🔥**
@@ -1186,6 +1206,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-2" class="motion-anchor"></a>
+
 > Appointment to the Planning and Environment Committee - Ballot #2
 
 **❌ Majority Winner: Hopkins; Squire; Hillier; Lehman; Lewis 🔥**
@@ -1196,6 +1218,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
+
+<a id="motion-4-3-3" class="motion-anchor"></a>
 
 > That the following BE APPOINTED to the Planning and Environment Committee for the term December 1, 2020 to November 30, 2021:    Councillors: P. Squire, S. Hillier, A. Hopkins, S. Lehman and S. Lewis.
 
@@ -1212,6 +1236,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-4" class="motion-anchor"></a>
+
 > That Councillor P. Squire BE APPOINTED as Chair of the Planning and Environment Committee for the term December 1, 2020 to November 30, 2021.
 
 **✅ Motion Passed (14 to 1)**
@@ -1227,6 +1253,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-5" class="motion-anchor"></a>
+
 > That the following BE APPOINTED to the Corporate Services Committee for the term December 1, 2020 to November 30, 2021: Councillors Morgan, van Holst, Cassidy, Kayabaga and Peloza.
 
 **✅ Motion Passed (15 to 0)**
@@ -1234,6 +1262,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
+
+<a id="motion-4-3-6" class="motion-anchor"></a>
 
 > Appointment of Chair to the Corporate Services Committee
 
@@ -1246,6 +1276,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-7" class="motion-anchor"></a>
+
 > That Councillor M. Cassidy BE APPOINTED as Chair of the Corporate Services Committee for the term December 1, 2020 to November 30, 2021.
 
 **✅ Motion Passed (15 to 0)**
@@ -1253,6 +1285,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
+
+<a id="motion-4-3-8" class="motion-anchor"></a>
 
 > That the following BE APPOINTED to the Civic Works Committee for the term December 1, 2020 to November 30, 2021: Councillors: E. Peloza, J. Helmer, P. Van Meerbergen, S. Turner and M. Cassidy.
 
@@ -1262,6 +1296,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-9" class="motion-anchor"></a>
+
 > That Councillor E. Peloza BE APPOINTED Chair of the Civic Works Committee for the term December 1, 2020 to November 30, 2021.
 
 **✅ Motion Passed (15 to 0)**
@@ -1269,6 +1305,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
+
+<a id="motion-4-3-10" class="motion-anchor"></a>
 
 > That the following BE APPOINTED to the Community and Protective Services Committee for the term December 1, 2020 to November 30, 2021: Councillors: S. Lewis, M. Salih, S. Hillier, A. Kayabaga and J. Helmer.
 
@@ -1278,6 +1316,8 @@ Unanimous (15-0)
 
 ### 4.3. Committee Appointment Preferences submitted by Council Members
 
+<a id="motion-4-3-11" class="motion-anchor"></a>
+
 > That Councillor J. Helmer BE APPOINTED as Chair of the Community and Protective Services Committee for the term December 1, 2020 to November 30, 2021.
 
 **✅ Motion Passed (15 to 0)**
@@ -1285,6 +1325,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Master Accommodation Plan - Councillors Morgan and Salih
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to initiate an update of the Master Accommodation Plan taking into account the potential for alternate work strategies and long term impacts on work space requirements resulting from the COVID-19 Pandemic.
 

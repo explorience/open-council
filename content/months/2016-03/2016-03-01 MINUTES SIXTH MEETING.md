@@ -2428,6 +2428,8 @@ Passed
 ### 16#2. 1st Report of the
   Accessibility Advisory Committee
 
+<a id="motion-16-2-0" class="motion-anchor"></a>
+
 > Approve that part b) of clause 16 be   amended to read as follows:   “b)       the   following matters with respect to the Terms of Reference for the   Accessibility Advisory Committee (ACCAC) BE REFERRED to the City Clerk to   review and report back to a future meeting of the Community and Prote...
 
 **✅ Motion Passed**
@@ -2436,6 +2438,8 @@ Unanimous (13-0)
 
 ### 16#2. 1st Report of the
   Accessibility Advisory Committee
+
+<a id="motion-16-2-1" class="motion-anchor"></a>
 
 > Approve clause 16, as amended.
 
@@ -2448,6 +2452,8 @@ Unanimous (13-0)
   for consideration with clause 12 of the 3rd Report of the Community and
   Protective Services Committee.)
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2456,6 +2462,8 @@ Unanimous (13-0)
 
 ### 2#9. 2016 Debenture
   Issue Update
+
+<a id="motion-2-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken with respect to the 2016 debenture issue:   a)         the   issue of instalment debentures for a total of $27,000,000 BE APPROVED; it   being n...
 
@@ -2466,6 +2474,8 @@ Unanimous (13-0)
 ### 3#5. Workplace and
   Community Diversity and Inclusion Update
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > Approve a new part, as follows:   “the Civic Administration BE DIRECTED to   report back within one year, and on a regular basis thereafter, with respect   to metrics and results of the new initiatives;   it being noted that the Municipal Council   received a verbal update from the City Manager w...
 
 **✅ Motion Passed**
@@ -2475,6 +2485,8 @@ Unanimous (13-0)
 ### 3#5. Workplace and
   Community Diversity and Inclusion Update
 
+<a id="motion-3-5-1" class="motion-anchor"></a>
+
 > Approve a new part as follows   “the following three-pronged approach   identified by the City Manager BE APPROVED, which would include:   i)          expedited   efforts within the Human Resources Division for the implementation of the   City of London’s corporate plan for workplace diversity an...
 
 **✅ Motion Passed**
@@ -2483,6 +2495,8 @@ Unanimous (13-0)
 
 ### 3#5. Workplace and
   Community Diversity and Inclusion Update
+
+<a id="motion-3-5-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2500,6 +2514,8 @@ Unanimous (13-0)
 ### 3#5. Workplace and
   Community Diversity and Inclusion Update
 
+<a id="motion-3-5-3" class="motion-anchor"></a>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -2508,6 +2524,8 @@ Unanimous (13-0)
 
 ### 4#5. Outstanding London
   Ambassador Award
+
+<a id="motion-4-5-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the Outstanding London Ambassador Award:   a)         the   City Clerk BE DIRECTED to proceed with the 1.25” green and red design for the   London Ambassador Award Pin; and,   b)         a budget of $1,067 for the   purchase of a plaque and pi...
 
@@ -2518,6 +2536,8 @@ Unanimous (13-0)
 ### 5#5. Anderson Craft Ales
   Ltd. Manufacturer's Limited Liquor Sales Licence Application
 
+<a id="motion-5-5-0" class="motion-anchor"></a>
+
 > Approve that clause 5 of the 6th Report   of the Corporate Services Committee (CSC) be amended by deleting the following   words from the end of the clause:  “subject to it being granted a minor   variance for its manufacturing site; it being noted that the appeal process   for its minor variance...
 
 **✅ Motion Passed**
@@ -2526,6 +2546,8 @@ Unanimous (13-0)
 
 ### 5#5. Anderson Craft Ales
   Ltd. Manufacturer's Limited Liquor Sales Licence Application
+
+<a id="motion-5-5-1" class="motion-anchor"></a>
 
 > Approve clause 5, as amended.
 
@@ -2536,6 +2558,8 @@ Unanimous (13-0)
 ### 6#3. Discussion –
   Outsourced Internal Audit RFP Process
 
+<a id="motion-6-3-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED   to continue to develop a process for the outsourced internal audit RFP, and   report back to the Audit Committee at the meeting to be held on April 13,   2016 with respect to this matter.
 
 **✅ Motion Passed**
@@ -2544,6 +2568,8 @@ Unanimous (13-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the matters:
 
@@ -2554,6 +2580,8 @@ Unanimous (12-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTH MEETING HELD ON FEBRUARY 16, 2016
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Fifth Meeting   held on February 16, 2016.
 
 **✅ Motion Passed**
@@ -2561,6 +2589,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading   of Bill No. 98.
 
@@ -2577,6 +2607,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-4" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 98.
 
 **✅ Motion Passed**
@@ -2591,6 +2623,8 @@ Unanimous (13-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Bill   No. 98.
 
@@ -2608,6 +2642,8 @@ Unanimous (13-0)
 ### 2. 10th Report of the
   Strategic Priorities and Policy Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law the order of business be changed to provide for   the 6th and 7th Reports of the Corporate Services Committee to be presented   as the last matters prior to the presentation of the 6th Report of the   Committee of the Whole, i...
 
 **✅ Motion Passed**
@@ -2617,6 +2653,8 @@ Unanimous (12-0)
 ### 13. Properties located
   at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503) (Relates to Bill No.
   98)
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Planning, the following actions be taken with respect to   the application of Colonel Talbot Developments Inc., relating to the   properties located at 3924 and 4138 Colonel Talbot Road:   a)         the   Ontario Municipal Board BE...
 
@@ -2635,6 +2673,8 @@ Unanimous (12-0)
   a portion of 530 Sunningdale Road East (north of Superior Drive) - Powell
   Phase 3 (39T-15504/Z-8539) (Relates to Bill No. 99)
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Senior   Planner, Development Planning, the following actions be taken with respect to   the Draft Plan of Subdivision and Zoning By-law Amendment applications   relating to a portion of 530 Sunningdale Road East, north of Superior Drive,   legally described as ...
 
 **✅ Motion Passed**
@@ -2643,6 +2683,8 @@ Unanimous (11-0)
 
 ### 16. Property located at
   2946 Bateman Trail (Z-8537) (Relates to Bill No. 100)
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of LGA Holdings Ltd., relating to the property   located at 2946 Bateman Trail:   a)         the   proposed by-law appended to the staff report dated...
 

@@ -4677,6 +4677,8 @@ Motion Passed
   Usher and Councillor P. Van Meerbergen - Motion of Which Notice is Given -
   Cancellation of September 8, 2014 Civic Works Committee Meeting
 
+<a id="motion-1-3-0" class="motion-anchor"></a>
+
 > Approve that the Civic Works Committee   meeting originally scheduled for September 8, 2014 BE CANCELLED.
 
 **✅ Motion Passed**
@@ -4686,6 +4688,8 @@ Unanimous (15-0)
 ### 1#3. Councillor H.L.
   Usher and Councillor P. Van Meerbergen - Motion of Which Notice is Given -
   Cancellation of September 8, 2014 Civic Works Committee Meeting
+
+<a id="motion-1-3-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 17.4 of   the Council Procedure By-law leave be given for discussion and debate and   making of a substantive motion with respect to the cancellation of the   September 8, 2014 Community and Protective Services Committee meeting.
 
@@ -4697,6 +4701,8 @@ Unanimous (15-0)
   Usher and Councillor P. Van Meerbergen - Motion of Which Notice is Given -
   Cancellation of September 8, 2014 Civic Works Committee Meeting
 
+<a id="motion-1-3-2" class="motion-anchor"></a>
+
 > Approve that the September 8, 2014 Community   and Protective Services Committee meeting BE CANCELLED.
 
 **✅ Motion Passed**
@@ -4705,6 +4711,8 @@ Unanimous (15-0)
 
 ### 10#2. J. Kukurudiak,
   President, London Taxi Association - Fare Increase Request
+
+<a id="motion-10-2-0" class="motion-anchor"></a>
 
 > Approve that clause 10 be amended to   read as follows:   “That the communication dated July 14,   2014, from J. Kukurudiak, President, London Taxi Association, with respect to   a request for a fare increase, BE REFERRED to the Civic Administration for   consideration and a report back to the Co...
 
@@ -4715,6 +4723,8 @@ Unanimous (15-0)
 ### 10#2. J. Kukurudiak,
   President, London Taxi Association - Fare Increase Request
 
+<a id="motion-10-2-1" class="motion-anchor"></a>
+
 > Approve clause 10, as amended.
 
 **✅ Motion Passed**
@@ -4723,6 +4733,8 @@ Unanimous (15-0)
 
 ### 10#3. Offer to Purchase
   Industrial Lands - IO Industries Inc. - Skyway Industrial Park, Phase ll
+
+<a id="motion-10-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services the following actions be taken:   a)         the   offer submitted by IO Industries Inc. to purchase 3 acres, on the southwest ...
 
@@ -4733,6 +4745,8 @@ Unanimous (13-0)
 ### 13#2. Diversecity Onboard
   Program
 
+<a id="motion-13-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City   Clerk, the City Clerk BE DIRECTED to investigate and report back on the   possible enhancement of the City of London’s recruitment process for   appointments to Advisory Committees by providing for voluntary disclosure of   diversity at the time of applic...
 
 **✅ Motion Passed**
@@ -4741,6 +4755,8 @@ Unanimous (15-0)
 
 ### 14#2. Integrity
   Commissioner
+
+<a id="motion-14-2-0" class="motion-anchor"></a>
 
 > Approve that clause 14 BE REFERRED to   the next term of Council Council for the consideration.
 
@@ -4757,6 +4773,8 @@ Unanimous (15-0)
 
 ### 14#2. Integrity
   Commissioner
+
+<a id="motion-14-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4775,6 +4793,8 @@ Unanimous (15-0)
   Federation of Canadian Municipalities to Host the 2015 FCM Sustainable
   Communities Conference
 
+<a id="motion-18-2-0" class="motion-anchor"></a>
+
 > Approve that clause 18 be amended to read   as follows:    “That, on the recommendation of the   Director of Intergovernmental and Community Liaison, the proposed by-law   appended as Appendix 1 to the staff report dated August 26, 2014, BE   INTRODUCED at the Municipal Council meeting of Septemb...
 
 **✅ Motion Passed**
@@ -4785,6 +4805,8 @@ Unanimous (15-0)
   Federation of Canadian Municipalities to Host the 2015 FCM Sustainable
   Communities Conference
 
+<a id="motion-18-2-1" class="motion-anchor"></a>
+
 > Approve clause 18, as amended.
 
 **✅ Motion Passed**
@@ -4794,6 +4816,8 @@ Unanimous (14-0)
 ### 2#6. Employment Program
   Support Year End Update and Grant Agreement
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of   the City Manager the following actions be taken with respect to the extension   of the Employment Program Support proposal:   a)              the Employment Program Support, previously approved for one year   on a pilot basis, BE APPROVED for one (1) additional ye...
 
 **✅ Motion Passed**
@@ -4802,6 +4826,8 @@ Unanimous (13-0)
 
 ### 22#3. Installation of
   Sidewalks on Shavian Blvd.
+
+<a id="motion-22-3-0" class="motion-anchor"></a>
 
 > Approve that clause 22 be amended to read   as follows:   “That the following actions be taken with   respect to the installation of sidewalks on Shavian Boulevard:   a)              the   matter BE REFERRED to the Civic Administration to permit further consultation   with the affected residents,...
 
@@ -4819,6 +4845,8 @@ Unanimous (13-0)
 ### 22#3. Installation of
   Sidewalks on Shavian Blvd.
 
+<a id="motion-22-3-1" class="motion-anchor"></a>
+
 > The motion to Approve the proposed   amendment to part b) of clause 22 is put.
 
 **✅ Motion Passed**
@@ -4834,6 +4862,8 @@ Unanimous (13-0)
 
 ### 22#3. Installation of
   Sidewalks on Shavian Blvd.
+
+<a id="motion-22-3-2" class="motion-anchor"></a>
 
 > Approve that pursuant section 13.6 of the   Council Procedure By-law that the proposed amendment to part a) of clause 22   BE RECONSIDERED to provide all Members of Council an opportunity to vote on the   matter.
 
@@ -4851,6 +4881,8 @@ Unanimous (13-0)
 ### 27#2. RFP14-20 Customer
   Relationship Management Software Implementation Partner
 
+<a id="motion-27-2-0" class="motion-anchor"></a>
+
 > That on the recommendation of the Managing   Director, Neighbourhood, Children and Fire Services, the following actions be   taken with respect to the Customer Relationship Management Software   Implementation Partner:   a)         the   proposal submitted by PricewaterhouseCoopers LLP for the pr...
 
 **✅ Motion Passed**
@@ -4859,6 +4891,8 @@ Unanimous (15-0)
 
 ### 3#2. Property located at
   122 Wortley Road (H-8383)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Services, based on the application of Zelinka Priamo   Ltd., relating to the property located at 122 Wortley Road, the proposed   by-law, as appended to the staff report dated August 26, 2014, BE INTRODUCED   at the Municipal Counci...
 
@@ -4870,6 +4904,8 @@ Unanimous (13-0)
   Adelaide Street North Thames Valley Parkway Environmental Assessment Study -
   Appointment of Consulting Engineer
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning & City Planner, the following actions be taken with   respect to the appointment of a consultant for the Richmond to Adelaide   Street North Thames Valley Parkway Municipal Class Environmental Assessment:   a)         Dillon   Consu...
 
 **✅ Motion Passed**
@@ -4879,6 +4915,8 @@ Unanimous (15-0)
 ### 4#3. Recommendations for
   Proposals Under Investment in Affordable Housing (IAH) Program Year 4 and IAH
   2014 Extension
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > Approve that clause 4 be amended by   deleting part a) in its entirety and by replacing it with the following new   part a):   “a)         Ironstone Building Company BE ALLOCTED a municipal allocation of $43,252   per unit for thirty (30) IAH units, for a total municipal allocation of   $1,297,56...
 
@@ -4890,6 +4928,8 @@ Unanimous (15-0)
   Proposals Under Investment in Affordable Housing (IAH) Program Year 4 and IAH
   2014 Extension
 
+<a id="motion-4-3-1" class="motion-anchor"></a>
+
 > Approve clause 4, as amended.
 
 **✅ Motion Passed**
@@ -4900,6 +4940,8 @@ Unanimous (15-0)
   before 4:00 PM - Public Participation Meeting - Proposed Establishment of a
   Housing Development Corporation
 
+<a id="motion-5-5-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the establishment of a Housing Development Corporation for the   City of London:   a)         the   attached proposed by-law (Schedule “A”) BE INTRODUCED at the   Municipal Council meeting to be held on September 2, 2014 to:   i)          auth...
 
 **✅ Motion Passed**
@@ -4908,6 +4950,8 @@ Unanimous (15-0)
 
 ### 5#6. Deputy City
   Treasurer - Orchestra London Credit Guarantee
+
+<a id="motion-5-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy   City Treasurer, the following actions be taken with respect to funding   assistance for Orchestra London:   a)         the   cash flow funding for the months of September to December from the approved   2014 budgeted amount for Orchestra London BE APPRO...
 
@@ -4924,6 +4968,8 @@ Unanimous (15-0)
 
 ### 5#6. Deputy City
   Treasurer - Orchestra London Credit Guarantee
+
+<a id="motion-5-6-1" class="motion-anchor"></a>
 
 > The motion to Approve clauses 4 and 5 is   put.
 
@@ -4942,6 +4988,8 @@ Unanimous (15-0)
   Group - Community Connections Project, Ecological Studies and Conservation
   Master Plan Funding
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the request for funding to complete   ecological studies for the Westminster Ponds/Pond Mills ESA BE APPROVED as   per the Source of Financing Report appended to the staff report dated August   25, 2014.  (2014-F11)
 
 **✅ Motion Passed**
@@ -4950,6 +4998,8 @@ Unanimous (15-0)
 
 ### III. ADDED
   REPORTS
+
+<a id="motion-iii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the clause 25 of the 20th Report of the Corporate Services   Committee, having to do with a request for support for Fanshawe College   London Downtown Campus, Phas...
 
@@ -4967,6 +5017,8 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-0" class="motion-anchor"></a>
+
 > Approve that Council rise and go into   Committee of the Whole, in camera, for purposes of considering the following:
 
 **✅ Motion Passed**
@@ -4976,6 +5028,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTIETH MEETING HELD ON JULY 29, 2014
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 20th   Meeting held on July 29, 2014.
 
 **✅ Motion Passed**
@@ -4983,6 +5037,8 @@ Unanimous (13-0)
 Unanimous (15-0)
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-0" class="motion-anchor"></a>
 
 > pursuant to section 17.4 of the   Council Procedure By-law leave be given for discussion and debate and the   making of a substantive motion with respect to tenant matters at the   Budweiser Gardens.
 
@@ -4992,6 +5048,8 @@ Unanimous (14-0)
 
 ### XI. ENQUIRIES
 
+<a id="motion-xi-1" class="motion-anchor"></a>
+
 > Approve that the administration of the   Budweiser Gardens BE ADVISED that the City of London Municipal Council   supports the continuation of the engagement of both the London Knights and   the London Lightning organizations as tenants at the Budweiser Gardens.
 
 **✅ Motion Passed**
@@ -4999,6 +5057,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-2" class="motion-anchor"></a>
 
 > 1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services a...
 
@@ -5008,6 +5068,8 @@ Unanimous (14-0)
 
 ### XI. ENQUIRIES
 
+<a id="motion-xi-3" class="motion-anchor"></a>
+
 > Approve clause 3.   3.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That the following actions be taken with   respect to th...
 
 **✅ Motion Passed**
@@ -5015,6 +5077,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First   Reading of Bill No. 430.
 
@@ -5031,6 +5095,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-4" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No.   430.
 
 **✅ Motion Passed**
@@ -5045,6 +5111,8 @@ Unanimous (12-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of   Bill No. 430.
 
@@ -5061,6 +5129,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-9" class="motion-anchor"></a>
+
 > Approve Introduction and First   Reading of Bill No. 402.
 
 **✅ Motion Passed**
@@ -5073,6 +5143,8 @@ Unanimous (12-0)
   stage for consideration with clause 25 of the 20th Report of the Corporate
   Services Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5082,6 +5154,8 @@ Unanimous (15-0)
 ### 10. Urban Forest
   Strategy and Implementation Plan Update
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Approve that part a) of clause 10 be   amended by adding the following words at the end of part a) “, subject to   annual budget approval".
 
 **✅ Motion Passed**
@@ -5090,6 +5164,8 @@ Unanimous (15-0)
 
 ### 10. Urban Forest
   Strategy and Implementation Plan Update
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > approve part e) of clause 10.
 
@@ -5107,6 +5183,8 @@ Unanimous (15-0)
 ### 10. Urban Forest
   Strategy and Implementation Plan Update
 
+<a id="motion-10-2" class="motion-anchor"></a>
+
 > Approve parts a), b), c) and d),   as amended of clause 10.
 
 **✅ Motion Passed**
@@ -5115,6 +5193,8 @@ Unanimous (15-0)
 
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
+
+<a id="motion-25-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -5132,6 +5212,8 @@ Unanimous (15-0)
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
+<a id="motion-25-2" class="motion-anchor"></a>
+
 > Approve part b) of clause 25, as amended.
 
 **✅ Motion Passed 🔥**
@@ -5147,6 +5229,8 @@ Unanimous (15-0)
 
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
+
+<a id="motion-25-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -5164,6 +5248,8 @@ Unanimous (15-0)
 ### 25. Request for
   Delegation Status re New Deal for an Expanded Fanshawe Downtown Campus
 
+<a id="motion-25-4" class="motion-anchor"></a>
+
 > Approve parts c), d) and e) of clause 25,   as amended.
 
 **✅ Motion Passed**
@@ -5180,6 +5266,8 @@ Unanimous (15-0)
 ### 27. Property located at
   164 Sherwood Forest Square (Z-8327)
 
+<a id="motion-27-1" class="motion-anchor"></a>
+
 > Approve clause 27, as amended.
 
 **✅ Motion Passed**
@@ -5187,6 +5275,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 29. Properties located at 51 and 99 Exeter Road
+
+<a id="motion-29-0" class="motion-anchor"></a>
 
 > Motion Passed
 

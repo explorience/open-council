@@ -277,6 +277,8 @@ The meeting adjourned at 5:29 PM.
 
 ### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That Stephanie Marentette BE APPOINTED to the London Transit Commission for the term ending November 15, 2022.
 
 **✅ Motion Passed (12 to 2)**
@@ -294,6 +296,8 @@ The meeting adjourned at 5:29 PM.
 
 ### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Appointment of a Member to the London Transit Commission - 1st selection
 
 **❌ Majority Winner: No majority 🔥**
@@ -306,6 +310,8 @@ The meeting adjourned at 5:29 PM.
 </details>
 
 ### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > Appointment of a Member to the London Transit Commission - 2nd selection
 
@@ -320,6 +326,8 @@ The meeting adjourned at 5:29 PM.
 
 ### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
 
+<a id="motion-4-1-3" class="motion-anchor"></a>
+
 > Appointment of a Member to the London Transit Commission - 3rd selection
 
 **❌ Majority Winner: No majority 🔥**
@@ -333,6 +341,8 @@ The meeting adjourned at 5:29 PM.
 
 ### 4.1. Consideration of Appointment to the London Transit Commission (Requires 1 Member)
 
+<a id="motion-4-1-4" class="motion-anchor"></a>
+
 > Appointment of a Member to the London Transit Commission - 4th selection
 
 **❌ Majority Winner: Stephanie Marentette 🔥**
@@ -345,6 +355,8 @@ The meeting adjourned at 5:29 PM.
 </details>
 
 ### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
+
+<a id="motion-5-1-1" class="motion-anchor"></a>
 
 > That part b) BE REFERRED to the multi-year budget process for consideration; it being noted that part b) reads as follows: b)       the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.
 
@@ -363,6 +375,8 @@ The meeting adjourned at 5:29 PM.
 
 ### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
 
+<a id="motion-5-1-2" class="motion-anchor"></a>
+
 > Motion to approve part a) That the following actions be taken with respect to the deferral of incentive loan repayments and forgiving interest-free loan to the London Community Players:    a)  the Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement P...
 
 **✅ Motion Passed (14 to 0)**
@@ -370,6 +384,8 @@ The meeting adjourned at 5:29 PM.
 Unanimous (14-0)
 
 ### 5.1. (ADDED) Deferral of Incentive Loan Repayments and Forgiving Interest-Free Loan to London Community Players - Councillor J. Helmer
+
+<a id="motion-5-1-3" class="motion-anchor"></a>
 
 > Motion to approve part b) b)  the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83.
 

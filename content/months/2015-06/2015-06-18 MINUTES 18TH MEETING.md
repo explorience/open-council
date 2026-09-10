@@ -288,6 +288,8 @@ Passed
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-0" class="motion-anchor"></a>
+
 > Approve Introduction and 1st Reading of Bill   No. 259.
 
 **✅ Motion Passed**
@@ -296,6 +298,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-1" class="motion-anchor"></a>
+
 > Approve 2nd Reading of Bill 259.
 
 **✅ Motion Passed**
@@ -303,6 +307,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-2" class="motion-anchor"></a>
 
 > Approve 3rd Reading and Enactment of   Bill 259.
 

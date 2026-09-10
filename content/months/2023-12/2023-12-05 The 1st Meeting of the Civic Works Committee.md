@@ -339,6 +339,8 @@ Thank you. And members with that, I'm looking for a German, Councillor Pribble, 
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

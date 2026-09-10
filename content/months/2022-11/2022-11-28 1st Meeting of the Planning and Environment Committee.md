@@ -1227,6 +1227,8 @@ The meeting adjourned at 9:50 PM.
 
 ### 1.2. Election of Vice-Chair
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That  Deputy Mayor Lewis BE APPOINTED Vice Chair for the term ending November 14, 2023.
 
 **✅ Motion Passed (5 to 0)**
@@ -1234,6 +1236,8 @@ The meeting adjourned at 9:50 PM.
 Unanimous (5-0)
 
 ### 1.2. Election of Vice-Chair
+
+<a id="motion-1-2-1" class="motion-anchor"></a>
 
 > Election of Vice Chair
 
@@ -1248,6 +1252,8 @@ Unanimous (5-0)
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1256,6 +1262,8 @@ Unanimous (5-0)
 
 ### 3.8. 307 Sunningdale Road East (Z-9498)
 
+<a id="motion-3-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by Margrit Johnson, relating to the property located at 307 Sunningdale Road East: a) the proposed, attached, revised, by-law (Appendix "A") BE INTRODUCED a...
 
 **✅ Motion Passed (5 to 0)**
@@ -1263,6 +1271,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.9. 4452 Wellington Road South (OZ-9497)
+
+<a id="motion-3-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Acting Director, Planning and Development, the following actions be taken with respect to the application by MHBC Planning on behalf of 2858637 Ontario Inc., relating to the property located at 4452 Wellington Road South: a) the proposed by-law appended to the s...
 
@@ -1281,6 +1291,8 @@ Unanimous (5-0)
 
 ### 3.10. 952 Southdale Road West (OZ-9431)
 
+<a id="motion-3-10-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the application by 1739626 Ontario Limited, relating to the property located at 952 Southdale Road West: a) the proposed by-law appended to the staff report dated November 28, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting t...
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -1295,6 +1307,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. Planning Application Process Changes Due to Bill 109, the More Homes For Everyone Act, 2022
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to the planning application process changes due to Bill 109, the More Homes for Everyone Act, 2022.
 

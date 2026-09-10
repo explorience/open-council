@@ -1058,6 +1058,8 @@ The meeting adjourned at 9:01 PM.
 ### 2. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1067,6 +1069,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT - Properties
   located in Talbot Village Subdivision (Phase 5) (39T-14506)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1078,6 +1082,8 @@ Unanimous (5-0)
 ### 4. STAFF REPORT - Properties
   located at 2244, 2252 and 2258 Wateroak Drive (H-8337)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1087,6 +1093,8 @@ Unanimous (5-0)
 
 ### 5. STAFF REPORT - Property
   located at 200 Villagewalk Boulevard (H-8439)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1098,6 +1106,8 @@ Unanimous (5-0)
 ### 6. STAFF REPORT - Properties
   located at 3924-4138 Colonel Talbot Road (39T-12503)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1108,6 +1118,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -  Property
   located at 3493 Colonel Talbot Road (39T-14504)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1117,6 +1129,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Properties
   located at 185 and 199 Commissioners Road West
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1129,6 +1143,8 @@ Unanimous (5-0)
   Designation of an Improvement Area Under Section 204 of the Municipal Act
   2001 - Hyde Park BIA
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1139,15 +1155,7 @@ Unanimous (5-0)
 ### 10. DELEGATION - 5th
   Report of London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. PUBLIC
-  PARTICIPATION MEETING - Property located at 855 Trafalgar Street (OZ-8662)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1159,6 +1167,8 @@ Unanimous (5-0)
 ### 11. PUBLIC
   PARTICIPATION MEETING - Property located at 855 Trafalgar Street (OZ-8662)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1168,6 +1178,20 @@ Unanimous (5-0)
 
 ### 11. PUBLIC
   PARTICIPATION MEETING - Property located at 855 Trafalgar Street (OZ-8662)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Property located at 855 Trafalgar Street (OZ-8662)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1179,6 +1203,8 @@ Unanimous (5-0)
 ### 12. PUBLIC
   PARTICIPATION MEETING - Property located at 1992 Fanshawe Park Road West
   (TZ-8734)
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1198,6 +1224,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1992 Fanshawe Park Road West
   (TZ-8734)
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1209,15 +1237,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 1992 Fanshawe Park Road West
   (TZ-8734)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. PUBLIC
-  PARTICIPATION MEETING - Property located at 515 Richmond Street (Z-8704)
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1229,6 +1249,8 @@ Unanimous (5-0)
 ### 13. PUBLIC
   PARTICIPATION MEETING - Property located at 515 Richmond Street (Z-8704)
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1238,6 +1260,20 @@ Unanimous (5-0)
 
 ### 13. PUBLIC
   PARTICIPATION MEETING - Property located at 515 Richmond Street (Z-8704)
+
+<a id="motion-13-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. PUBLIC
+  PARTICIPATION MEETING - Property located at 515 Richmond Street (Z-8704)
+
+<a id="motion-13-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1249,6 +1285,8 @@ Unanimous (5-0)
 ### 14. PUBLIC
   PARTICIPATION MEETING - Properties located at 560 and 562 Wellington Street
   (OZ-8462)
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1268,6 +1306,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 560 and 562 Wellington Street
   (OZ-8462)
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1278,6 +1318,8 @@ Unanimous (5-0)
 ### 14. PUBLIC
   PARTICIPATION MEETING - Properties located at 560 and 562 Wellington Street
   (OZ-8462)
+
+<a id="motion-14-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1289,6 +1331,8 @@ Unanimous (5-0)
 ### 15. 5th Report of the
   Trees and Forests Advisory Committee
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1298,6 +1342,8 @@ Unanimous (5-0)
 
 ### 16. (ADDED) PUBLIC
   SUBMISSION - Request for Rescheduling of June 15 Public Participation Meeting
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

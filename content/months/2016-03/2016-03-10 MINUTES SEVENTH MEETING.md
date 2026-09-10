@@ -1156,6 +1156,8 @@ Passed
 ### 5#2. 2016-2019
   Multi-Year Budget - Environmentally Significant Areas - A. Caveney
 
+<a id="motion-5-2-1" class="motion-anchor"></a>
+
 > the Committee of the Whole, meeting in camera, made progress with   respect to the following matters:   a)         A   matter pertaining to advice subject to solicitor-client privilege, including   communications necessary for that purpose, as it relates to the Municipal   Council’s authority res...
 
 **✅ Motion Passed**
@@ -1165,6 +1167,8 @@ Unanimous (14-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1172,6 +1176,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### VIII. REPORTS
+
+<a id="motion-viii-0" class="motion-anchor"></a>
 
 > 8th Report of the   Strategic Priorities and Policy Committee
 
@@ -1186,6 +1192,8 @@ Unanimous (15-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1194,6 +1202,8 @@ Unanimous (12-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1201,6 +1211,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### VIII. REPORTS
+
+<a id="motion-viii-3" class="motion-anchor"></a>
 
 > Approve that the Strategic Investment related to  Business Case #14 – Ontario   Works Service Plan – Low Income Support Enhancement (clause 3h)xiv)) in the   amount of $2,080,000 BE ADOPTED; it being noted that $500,000 will be from   the Levy and $1,580,000 from other sources.
 
@@ -1215,6 +1227,8 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1222,6 +1236,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### VIII. REPORTS
+
+<a id="motion-viii-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1231,6 +1247,8 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-6" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1239,6 +1257,8 @@ Unanimous (13-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-7" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1246,6 +1266,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### VIII. REPORTS
+
+<a id="motion-viii-8" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1262,6 +1284,8 @@ Unanimous (14-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-9" class="motion-anchor"></a>
+
 > Approve that the portion of the net 2016-2019 Multi-Year Operating Budget for   Protective Services (clause 2g)iii)) as it pertains to Corporate Security and   Emergency Management in the amount of $7,213,000 BE ADOPTED.
 
 **✅ Motion Passed**
@@ -1276,6 +1300,8 @@ Unanimous (14-0)
 </details>
 
 ### VIII. REPORTS
+
+<a id="motion-viii-10" class="motion-anchor"></a>
 
 > Approve that the portion of the Service Improvement Capital Forecast for   2020-2025 as it pertains to Protective Services (clause 3 g) v)) in the   amount of $47,500,000 BE ADOPTED.
 
@@ -1292,6 +1318,8 @@ Unanimous (14-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-11" class="motion-anchor"></a>
+
 > Approve that the Strategic Investments Budget as it pertains to Business Case   #25 – Brownfields Community Improvement Program (Reinstate Brownfield   Contamination Assessment Study Grant Program) (clause 3h)xxv)) in the total   amount of $80,000 as submitted BE ADOPTED; it being noted that the ...
 
 **✅ Motion Passed**
@@ -1306,6 +1334,8 @@ Unanimous (14-0)
 </details>
 
 ### VIII. REPORTS
+
+<a id="motion-viii-12" class="motion-anchor"></a>
 
 > Approve that portion of the net 2016-2019 Multi-Year Operating Budget for   Corporate, Operation and Council Services (clause 2 j)ii)) in the amount of   ($104,000 BE ADOPTED; it being noted that $500,000 in savings has been moved   from 2019 to 2018; it being further noted that the overall reduc...
 
@@ -1322,6 +1352,8 @@ Unanimous (14-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-13" class="motion-anchor"></a>
+
 > Approve that the Strategic Investments Budget as it pertains to Business Case   #18 – “Back to the River Project” (clause 3h)xviii) BE ADOPTED in the amount   of $700,000 in 2016 to complete the necessary environment assessment to be   funded by the London Hydro dividend; and $5,000,000 to be ide...
 
 **✅ Motion Passed**
@@ -1336,6 +1368,8 @@ Unanimous (14-0)
 </details>
 
 ### VIII. REPORTS
+
+<a id="motion-viii-15" class="motion-anchor"></a>
 
 > Approve an amendment to clause 3h)   xxiv), by adding the following words to the end of the clause:   "and to approve in principle, the   Green Bin Business case upon finalization of the Environmental Assessment and   contingent upon Green Bins as the identified as the preferred option, and   wit...
 
@@ -1352,6 +1386,8 @@ Unanimous (14-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-16" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1366,6 +1402,8 @@ Unanimous (14-0)
 </details>
 
 ### VIII. REPORTS
+
+<a id="motion-viii-17" class="motion-anchor"></a>
 
 > Approve that the following actions be taken:
 
@@ -1382,6 +1420,8 @@ Unanimous (14-0)
 
 ### VIII. REPORTS
 
+<a id="motion-viii-18" class="motion-anchor"></a>
+
 > Approve that clause 3c)iv) BE AMENDED by   deleting the amount of $56,143,000 and by replacing it with the amount of   $56,443,000; it being noted that $1,200,000 of this total was previously   approved through a separate motion.
 
 **✅ Motion Passed**
@@ -1389,6 +1429,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### VIII. REPORTS
+
+<a id="motion-viii-19" class="motion-anchor"></a>
 
 > Approve clause 3c)iv), as amended.
 
@@ -1398,6 +1440,8 @@ Unanimous (15-0)
 
 ### 13. Unlicensed Group
   Home Problems
+
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the corporate tax levy:   a)         the   2016-2019 forecasted tax levy BE ADOPTED in the amount of $2,240,735,912,   which represents an approximate average annual increase of 2.8% from rates;   b)         the   2016 tax levy BE ADOPTED in t...
 

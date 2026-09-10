@@ -955,6 +955,8 @@ Councillor Cutty, seconded by Councillor Hilliard and a hand vote on that. closi
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -962,6 +964,8 @@ Councillor Cutty, seconded by Councillor Hilliard and a hand vote on that. closi
 Unanimous (5-0)
 
 ### 3.3. 945 Bluegrass Drive - OZ-26019
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Bluegrass Long Term Care Centre – Division of “Meadow Park” (London) Inc. (c/o Zelinka Priamo Ltd.) relating to the property located at 945 Bluegrass Drive: a) ...
 

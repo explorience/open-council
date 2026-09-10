@@ -144,6 +144,8 @@ Moved by Councilor Preble, seconded by Councilor Ferreira. A hand vote or a verb
 
 ### 4.1. Building Safer Communities Fund (BSCF) Multi-Year Contribution Agreement
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed By-law, as appended to the staff report dated June 22, 2023, BE INTRODUCED at the Municipal Council meeting to be held on June 27, 2023, to: a)    repeal Schedule “A” to By-law No. A.-8...
 
 **✅ Motion Passed (5 to 0)**

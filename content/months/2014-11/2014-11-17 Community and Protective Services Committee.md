@@ -202,6 +202,8 @@ Motion
 ### 2. 5th Report of the
   Child Care Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -212,6 +214,8 @@ Unanimous (4-0)
 ### 5. 12th Report of the
   Animal Welfare Advisory Committee
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -221,6 +225,8 @@ Unanimous (4-0)
 
 ### 6. Humane Wildlife
   Conflict Policy
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

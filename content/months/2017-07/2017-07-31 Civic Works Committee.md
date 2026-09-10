@@ -387,6 +387,8 @@ The
 ### 2. STAFF REPORT -
   Department of Fisheries and Oceans Canada Habitat Banking Arrangement
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -398,6 +400,8 @@ Unanimous (3-0)
   Elgin Middlesex Pumping Station Pump Upgrades -  Project Increase in
   Engineering Fees
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -407,6 +411,8 @@ Unanimous (3-0)
 
 ### 4. STAFF REPORT -
   38-16 Forbes Street Development Agreement Claimable Works
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -418,6 +424,8 @@ Unanimous (3-0)
 ### 5. STAFF REPORT -
   Corporate Energy Management Program Update
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -428,15 +436,7 @@ Unanimous (3-0)
 ### 6. STAFF REPORT -
   Strategic Plan Progress Variance
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 7. Changes to the
-  Wastewater and Stormwater By-Law WM-28
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -448,6 +448,8 @@ Unanimous (3-0)
 ### 7. Changes to the
   Wastewater and Stormwater By-Law WM-28
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -457,6 +459,20 @@ Unanimous (3-0)
 
 ### 7. Changes to the
   Wastewater and Stormwater By-Law WM-28
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 7. Changes to the
+  Wastewater and Stormwater By-Law WM-28
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -468,6 +484,8 @@ Unanimous (3-0)
 ### 8. PUBLIC SUBMISSION -
   F. Fernandez - Ontario Power Generation's Proposed Nuclear Waste Repository
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -477,6 +495,8 @@ Unanimous (1-0)
 
 ### 9. 8th Report of the
   Cycling Advisory Committee
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -488,6 +508,8 @@ Unanimous (3-0)
 ### 10. COUNCIL MEMBER
   SUBMISSION - Notification Process - Tree Planting on City-Owned Property
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -497,6 +519,8 @@ Unanimous (3-0)
 
 ### 11. Deferred Matters
   List
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

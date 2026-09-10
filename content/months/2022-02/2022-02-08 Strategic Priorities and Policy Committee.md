@@ -1917,6 +1917,8 @@ We're adjourned. Thank you for a great evening.
 
 ### 4.4. London and Middlesex Community Housing
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That Anne-Marie Mitchell BE APPOINTED to the London & Middlesex Community Housing Board of Directors for the term ending December 31, 2025 (Third Class); it being noted that the Strategic Priorities and Policy Committee received a communication from A. Anderson, Board of Directors, London & Middl...
 
 **✅ Motion Passed (14 to 0)**
@@ -1924,6 +1926,8 @@ We're adjourned. Thank you for a great evening.
 Unanimous (14-0)
 
 ### 4.5. Consideration of Appointment to the Waste Management Working Group (Requires a Minimum of 3 Council Members)
+
+<a id="motion-4-5-0" class="motion-anchor"></a>
 
 > That the following BE APPOINTED to the Waste Management Working Group for the term ending November 14, 2022 or when the City's Resource Recovery Plan and Residual Waste Disposal Plan are approved by Council, whichever comes first:    Councillor S. Turner  Councillor M. van Holst  Councillor E. Pe...
 
@@ -1933,6 +1937,8 @@ Unanimous (13-0)
 
 ### 4.6. Appointment to the London Downtown Business Association
 
+<a id="motion-4-6-0" class="motion-anchor"></a>
+
 > That Councillor J. Fyfe-Millar BE APPOINTED to the London Downtown Business Association for the term ending November 14, 2022; it being noted that the Strategic Priorities and Policy Committee received a communication dated January 20, 2022 from Councillor J. Helmer with respect to this matter.
 
 **✅ Motion Passed (13 to 0)**
@@ -1940,6 +1946,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.9. 7th Report of the Governance Working Group
+
+<a id="motion-4-9-1" class="motion-anchor"></a>
 
 > That Part a) vi) BE APPROVED as follows: the Childcare Advisory Committee BE DISSOLVED and no new related committee be established BE APPROVED.
 
@@ -1958,6 +1966,8 @@ Unanimous (13-0)
 
 ### 4.9. 7th Report of the Governance Working Group
 
+<a id="motion-4-9-2" class="motion-anchor"></a>
+
 > That Part a) i) BE APPROVED as follows: the attached revised Terms of Reference for the London Community Advisory Committees (LCAC) BE APPROVED for enactment; and    ii)    the Civic Administration BE DIRECTED to recruit for the membership appointments for all of the LCACs, included in part a) ab...
 
 **✅ Motion Passed (11 to 3)**
@@ -1975,6 +1985,8 @@ Unanimous (13-0)
 
 ### 4.10. Unique Part-Time Role of Council
 
+<a id="motion-4-10-0" class="motion-anchor"></a>
+
 > That the Governance Working Group BE REQUESTED to discuss and report back to the Strategic Priorities and Policy Committee with their recommendations about Council continuing as a unique-part-time-role versus transitioning to a unique-full-time-role.
 
 **✅ Motion Passed (10 to 4)**
@@ -1991,6 +2003,8 @@ Unanimous (13-0)
 </details>
 
 ### 5.1. (ADDED) Audit and Accountability Fund - Intake 3 - Transfer Payment Agreement and Single Source Contract Award
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken:    a)    the proposed by-law as appended to the staff report dated February 8, 2022 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on February 15, 2022, to:  ...
 

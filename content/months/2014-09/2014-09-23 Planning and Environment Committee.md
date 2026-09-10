@@ -1357,6 +1357,8 @@ The
 ### 2. 9th Report of the
   Advisory Committee on the Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1366,6 +1368,8 @@ Unanimous (5-0)
 
 ### 3. Property located at
   1040 Coronation Drive (H-8376)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1377,6 +1381,8 @@ Unanimous (5-0)
 ### 4. Building Division
   Monthly Report for August 2014
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1386,6 +1392,8 @@ Unanimous (5-0)
 
 ### 5. Potential Special
   Policy Area (SPA): West London
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1397,15 +1405,7 @@ Unanimous (5-0)
 ### 6. 10th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Properties located
-  at 322-324 York Street (Z-8382)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1417,6 +1417,8 @@ Unanimous (5-0)
 ### 7. Properties located
   at 322-324 York Street (Z-8382)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1427,6 +1429,20 @@ Unanimous (5-0)
 ### 7. Properties located
   at 322-324 York Street (Z-8382)
 
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Properties located
+  at 322-324 York Street (Z-8382)
+
+<a id="motion-7-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1437,15 +1453,7 @@ Unanimous (5-0)
 ### 8. Property located at
   1959 Mallard Road (Z-8377)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  1959 Mallard Road (Z-8377)
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1456,6 +1464,20 @@ Unanimous (5-0)
 
 ### 8. Property located at
   1959 Mallard Road (Z-8377)
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  1959 Mallard Road (Z-8377)
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1467,15 +1489,7 @@ Unanimous (5-0)
 ### 9. Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Sanitary Sewage
-  Servicing Policies for Southwest London (O-7971)
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1487,6 +1501,20 @@ Unanimous (5-0)
 ### 9. Sanitary Sewage
   Servicing Policies for Southwest London (O-7971)
 
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Sanitary Sewage
+  Servicing Policies for Southwest London (O-7971)
+
+<a id="motion-9-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1497,15 +1525,7 @@ Unanimous (5-0)
 ### 10. Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Properties located
-  on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1516,6 +1536,20 @@ Unanimous (5-0)
 
 ### 10. Properties located
   on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
+
+<a id="motion-10-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Properties located
+  on part of 3080 Bostwick Road and 491 and 499 Southdale Road West (Z-8386)
+
+<a id="motion-10-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1526,6 +1560,8 @@ Unanimous (5-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1544,15 +1580,7 @@ Unanimous (5-0)
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Property located at
-  1300 Fanshawe Park Road East (OZ-8358)
+<a id="motion-11-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1563,6 +1591,20 @@ Unanimous (5-0)
 
 ### 11. Property located at
   1300 Fanshawe Park Road East (OZ-8358)
+
+<a id="motion-11-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Property located at
+  1300 Fanshawe Park Road East (OZ-8358)
+
+<a id="motion-11-3" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1581,15 +1623,7 @@ Unanimous (5-0)
 ### 12. Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Properties located
-  at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1601,6 +1635,8 @@ Unanimous (5-0)
 ### 12. Properties located
   at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1608,18 +1644,10 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
-### 13. Properties located
-  at 471-473 Elizabeth Street
+### 12. Properties located
+  at 321 Central Avenue and 585 and 581 Waterloo Street (OZ-8371)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 13. Properties located
-  at 471-473 Elizabeth Street
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1631,6 +1659,32 @@ Unanimous (5-0)
 ### 13. Properties located
   at 471-473 Elizabeth Street
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 13. Properties located
+  at 471-473 Elizabeth Street
+
+<a id="motion-13-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Properties located
+  at 471-473 Elizabeth Street
+
+<a id="motion-13-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1641,15 +1695,7 @@ Unanimous (6-0)
 ### 14. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 14. Blackfriars/Petersville
-  Official Plan/Zoning Study (OZ-8373)
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1660,6 +1706,20 @@ Unanimous (6-0)
 
 ### 14. Blackfriars/Petersville
   Official Plan/Zoning Study (OZ-8373)
+
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 14. Blackfriars/Petersville
+  Official Plan/Zoning Study (OZ-8373)
+
+<a id="motion-14-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1672,16 +1732,7 @@ Unanimous (6-0)
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
   Growth and Official Plan Amendment (O-8014)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 15. Industrial Land
-  Review: Recommended Urban Growth Boundary Expansion for Future Industrial
-  Growth and Official Plan Amendment (O-8014)
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1693,6 +1744,21 @@ Unanimous (6-0)
 ### 15. Industrial Land
   Review: Recommended Urban Growth Boundary Expansion for Future Industrial
   Growth and Official Plan Amendment (O-8014)
+
+<a id="motion-15-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 15. Industrial Land
+  Review: Recommended Urban Growth Boundary Expansion for Future Industrial
+  Growth and Official Plan Amendment (O-8014)
+
+<a id="motion-15-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1704,6 +1770,8 @@ Unanimous (6-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1713,6 +1781,8 @@ Unanimous (6-0)
 
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
+
+<a id="motion-16-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1731,6 +1801,8 @@ Unanimous (6-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
+<a id="motion-16-2" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -1748,6 +1820,8 @@ Unanimous (6-0)
 ### 16. Property located at
   2118 Richmond Street (OZ-7890)
 
+<a id="motion-16-3" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -1764,6 +1838,8 @@ Unanimous (6-0)
 
 ### 17. Application of Bonusing Regulations
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1773,6 +1849,8 @@ Unanimous (6-0)
 
 ### 18. Regulations limiting greenhouses
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1780,6 +1858,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 18. Regulations limiting greenhouses
+
+<a id="motion-18-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

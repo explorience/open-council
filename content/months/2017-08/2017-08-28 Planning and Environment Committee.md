@@ -2496,6 +2496,8 @@ The meeting adjourned at 1:51 AM.
   Development Charges (DC) Claimable Works for 3080 Bostwick Road - Amend
   Consent Agreement
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2507,6 +2509,8 @@ Unanimous (5-0)
   located at 1647 Fanshawe Park Road East (O' Hanlan Subdivision - 39T-10503) 
   (H-8806)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2516,6 +2520,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT - Property
   located at 2603 Holbrook Drive (H-8772)
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2528,6 +2534,8 @@ Unanimous (5-0)
   located at Silverleaf Subdivision - Subdivision Special Provisions
   (39T-14504)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2537,6 +2545,8 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT - Properties
   Located at 1237, 1241, 1249, 1254 and 1258 Thornley Street (H-8634)
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2548,6 +2558,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT - Property
   located at 2810 Sheffield Place (H-8767)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2557,6 +2569,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Property
   located at 58 Sunningdale Road West (39T-16503/OZ-8637)
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2574,6 +2588,8 @@ Unanimous (5-0)
 ### 8. STAFF REPORT - Property
   located at 58 Sunningdale Road West (39T-16503/OZ-8637)
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2583,6 +2599,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Property
   located at 58 Sunningdale Road West (39T-16503/OZ-8637)
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -2602,6 +2620,8 @@ Unanimous (5-0)
   Dudek, Chair, London advisory Committee on Heritage - 9th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2613,15 +2633,7 @@ Unanimous (5-0)
   Levin, Chair, Environmental and Ecological Planning Advisory Committee - 7th
   Report of the Environmental and Ecological Planning Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. PUBLIC
-  PARTICIPATION MEETING - Property located at 2426 Wickerson Road (OZ-8783)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2633,6 +2645,8 @@ Unanimous (5-0)
 ### 11. PUBLIC
   PARTICIPATION MEETING - Property located at 2426 Wickerson Road (OZ-8783)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2642,6 +2656,20 @@ Unanimous (5-0)
 
 ### 11. PUBLIC
   PARTICIPATION MEETING - Property located at 2426 Wickerson Road (OZ-8783)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING - Property located at 2426 Wickerson Road (OZ-8783)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2653,6 +2681,8 @@ Unanimous (5-0)
 ### 12. PUBLIC
   PARTICIPATION MEETING - Property located at 2603 Holbrook Drive - Application
   for Vacant Land Condominium  (39CD-17504/SPA17-013)
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2664,6 +2694,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2603 Holbrook Drive - Application
   for Vacant Land Condominium  (39CD-17504/SPA17-013)
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2675,16 +2707,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2603 Holbrook Drive - Application
   for Vacant Land Condominium  (39CD-17504/SPA17-013)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. PUBLIC
-  PARTICIPATION MEETING - Property located at 2810 Sheffield Place -
-  Application for Vacant Land Condominium  (39CD-17503/SPA17-026)
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2697,6 +2720,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2810 Sheffield Place -
   Application for Vacant Land Condominium  (39CD-17503/SPA17-026)
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2708,16 +2733,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 2810 Sheffield Place -
   Application for Vacant Land Condominium  (39CD-17503/SPA17-026)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. PUBLIC
-  PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
-  Lands Located West of Hamilton Road and North of Commissioners Road East
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2726,9 +2742,11 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
-### 14. PUBLIC
-  PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
-  Lands Located West of Hamilton Road and North of Commissioners Road East
+### 13. PUBLIC
+  PARTICIPATION MEETING - Property located at 2810 Sheffield Place -
+  Application for Vacant Land Condominium  (39CD-17503/SPA17-026)
+
+<a id="motion-13-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2741,6 +2759,34 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
   Lands Located West of Hamilton Road and North of Commissioners Road East
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
+  Lands Located West of Hamilton Road and North of Commissioners Road East
+
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. PUBLIC
+  PARTICIPATION MEETING - Amendments to the Official Plan and Zoning By-law -
+  Lands Located West of Hamilton Road and North of Commissioners Road East
+
+<a id="motion-14-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2751,15 +2797,7 @@ Unanimous (5-0)
 ### 15. PUBLIC
   PARTICIPATION MEETING - Property located at 639 York Street (Z-8787)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. PUBLIC
-  PARTICIPATION MEETING - Property located at 639 York Street (Z-8787)
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2770,6 +2808,20 @@ Unanimous (5-0)
 
 ### 15. PUBLIC
   PARTICIPATION MEETING - Property located at 639 York Street (Z-8787)
+
+<a id="motion-15-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. PUBLIC
+  PARTICIPATION MEETING - Property located at 639 York Street (Z-8787)
+
+<a id="motion-15-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2782,16 +2834,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Review of Impacts from Industrial Sources (Focus on
   Odour) and Potential Municipal Actions (Primarily South of Highway 401)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (3-0)
-
-### 16. PUBLIC
-  PARTICIPATION MEETING - Review of Impacts from Industrial Sources (Focus on
-  Odour) and Potential Municipal Actions (Primarily South of Highway 401)
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2804,6 +2847,21 @@ Unanimous (3-0)
   PARTICIPATION MEETING - Review of Impacts from Industrial Sources (Focus on
   Odour) and Potential Municipal Actions (Primarily South of Highway 401)
 
+<a id="motion-16-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (3-0)
+
+### 16. PUBLIC
+  PARTICIPATION MEETING - Review of Impacts from Industrial Sources (Focus on
+  Odour) and Potential Municipal Actions (Primarily South of Highway 401)
+
+<a id="motion-16-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2815,16 +2873,7 @@ Unanimous (3-0)
   PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
   Public School) - Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 17. PUBLIC
-  PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
-  Public School) - Demolition Request
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2837,16 +2886,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
   Public School) - Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 17. PUBLIC
-  PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
-  Public School) - Demolition Request
+<a id="motion-17-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2858,6 +2898,34 @@ Unanimous (5-0)
 ### 17. PUBLIC
   PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
   Public School) - Demolition Request
+
+<a id="motion-17-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. PUBLIC
+  PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
+  Public School) - Demolition Request
+
+<a id="motion-17-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. PUBLIC
+  PARTICIPATION MEETING - Property located at 723 Lorne Ave. (Lorne Avenue
+  Public School) - Demolition Request
+
+<a id="motion-17-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2870,16 +2938,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 36 and 40 York Street -
   Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 18. PUBLIC
-  PARTICIPATION MEETING - Properties located at 36 and 40 York Street -
-  Demolition Request
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2892,6 +2951,21 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 36 and 40 York Street -
   Demolition Request
 
+<a id="motion-18-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 18. PUBLIC
+  PARTICIPATION MEETING - Properties located at 36 and 40 York Street -
+  Demolition Request
+
+<a id="motion-18-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2903,16 +2977,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Property located at 440 Grey Street - Demolition
   Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 19. PUBLIC
-  PARTICIPATION MEETING - Property located at 440 Grey Street - Demolition
-  Request
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2924,6 +2989,21 @@ Unanimous (5-0)
 ### 19. PUBLIC
   PARTICIPATION MEETING - Property located at 440 Grey Street - Demolition
   Request
+
+<a id="motion-19-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 19. PUBLIC
+  PARTICIPATION MEETING - Property located at 440 Grey Street - Demolition
+  Request
+
+<a id="motion-19-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2936,16 +3016,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 598, 600, 604 and 608
   Springbank Drive (SPA17-028)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 20. PUBLIC
-  PARTICIPATION MEETING - Properties located at 598, 600, 604 and 608
-  Springbank Drive (SPA17-028)
+<a id="motion-20-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2957,6 +3028,21 @@ Unanimous (5-0)
 ### 20. PUBLIC
   PARTICIPATION MEETING - Properties located at 598, 600, 604 and 608
   Springbank Drive (SPA17-028)
+
+<a id="motion-20-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 20. PUBLIC
+  PARTICIPATION MEETING - Properties located at 598, 600, 604 and 608
+  Springbank Drive (SPA17-028)
+
+<a id="motion-20-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2968,6 +3054,8 @@ Unanimous (5-0)
 ### 21. PUBLIC
   PARTICIPATION MEETING - Properties located at 32, 36 and 40 York Street and
   Part of 330 Thames Street (Z-8789)
+
+<a id="motion-21-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -2987,6 +3075,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 32, 36 and 40 York Street and
   Part of 330 Thames Street (Z-8789)
 
+<a id="motion-21-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -2998,6 +3088,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 32, 36 and 40 York Street and
   Part of 330 Thames Street (Z-8789)
 
+<a id="motion-21-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3007,6 +3099,8 @@ Unanimous (5-0)
 
 ### 22. COUNCILOR MEMBER
   SUBMISSION – Enforcement in Unassumed Subdivisions
+
+<a id="motion-22-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -3018,6 +3112,8 @@ Unanimous (5-0)
 ### 23. PUBLIC SUBMISSION -
   Definition of Supervised Injection Sites
 
+<a id="motion-23-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -3027,6 +3123,8 @@ Unanimous (3-0)
 
 ### 24. 8th Report of the
   Trees and Forests Advisory Committee
+
+<a id="motion-24-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

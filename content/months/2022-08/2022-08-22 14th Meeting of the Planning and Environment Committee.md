@@ -3039,6 +3039,8 @@ Through the chair, the reason for going in camera tonight is a matter pertaining
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.3 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -3046,6 +3048,8 @@ Through the chair, the reason for going in camera tonight is a matter pertaining
 Unanimous (5-0)
 
 ### 2.2. 3493 Colonel Talbot Road - Request for Extension of Draft Plan Approval (39T-14504)
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, based on the application by 2219008 Ontario Limited (York Developments), relating to the lands located at 3493 Colonel Talbot Road, the Approval Authority BE ADVISED that the Municipal Council supports issuing a three (3) year...
 
@@ -3055,6 +3059,8 @@ Unanimous (5-0)
 
 ### 3.2. 3700 Colonel Talbot Road and 3645 Bostwick Road (Z-9521)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the application by MHBC Planning (Scott Allen, Partner), relating to lands located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)    the proposed revised, attached, by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to ...
 
 **✅ Motion Passed (5 to 0)**
@@ -3062,6 +3068,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.5. 767 Fanshawe Park Road East (Z-9499)
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, based on the application by Phuc Minh Tran, relating to the property located at 767 Fanshawe Park Road East, the proposed by-law appended to the staff report dated August 22, 2022 as Appendix "A" BE INTRODUCED at the Municipal...
 
@@ -3071,6 +3079,8 @@ Unanimous (5-0)
 
 ### 3.6. A Portion of 4519, 4535 & 4557 Colonel Talbot Road (Z-9433)
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Farhi Holdings Corp., relating to a portion of the properties located at 4519, 4535 and 4557 Colonel Talbot Road: a)    the proposed revised, attached, by-law (...
 
 **✅ Motion Passed (5 to 0)**
@@ -3078,6 +3088,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.7. 604 Beaverbrook Avenue (OZ-9483)
+
+<a id="motion-3-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 604 Beaverbrook Developments Inc. relating to the property located at 604 Beaverbrook Avenue: a)    the proposed by-law appended to the staff report dated Augus...
 
@@ -3087,6 +3099,8 @@ Unanimous (5-0)
 
 ### 3.8. 712 Base Line Road East (Z-9474)
 
+<a id="motion-3-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Wellington Gate Inc., c/o Westdell Development Corporation, relating to the property located at 712 Base Line Road East: a)    the proposed by-law appended to t...
 
 **✅ Motion Passed (5 to 0)**
@@ -3094,6 +3108,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.9. 1737 Richmond Street (Z-9470)
+
+<a id="motion-3-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Richmond Hyland Inc., c/o Westdell Development Corporation, relating to the property located at 1737 Richmond Street: a)    the proposed by-law appended to the ...
 
@@ -3103,6 +3119,8 @@ Unanimous (5-0)
 
 ### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue (OZ-9500)
 
+<a id="motion-3-10-0" class="motion-anchor"></a>
+
 > hat, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Royal Premier Homes, relating to properties located at 21-41 Meadowlily Road North and 20 Norlan Avenue: a)    the proposed by-law appended to the staff report d...
 
 **✅ Motion Passed (5 to 0)**
@@ -3110,6 +3128,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.10. 21-41 Meadowlily Road North and 20 Norlan Avenue (OZ-9500)
+
+<a id="motion-3-10-2" class="motion-anchor"></a>
 
 > Motion to close the public participation meeting.
 
@@ -3128,6 +3148,8 @@ Unanimous (5-0)
 
 ### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, with the advice of the Heritage Planner, with respect to the designation of built resources located at municipal addresses 183 Ann Street and 197 Ann Street, located on the consolidated parcel legally described as – LOTS 4, 5,...
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -3145,6 +3167,8 @@ Unanimous (5-0)
 
 ### 4.1. 183 and 197 Ann Street - Proposed Designation By-laws Under Part IV, Section 29 of the Ontario Heritage Act - Consideration of Objections
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That A. Soufan, York Developments, BE GRANTED delegation status with respect to the proposed designation of the properties located at 183 and 197 Ann Street.
 
 **✅ Motion Passed (5 to 0)**
@@ -3152,6 +3176,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. 1067, 1069 and 1071 Wellington Road (OZ-9263 / Z-9264)
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the application by Century Centre Development Inc., relating to the properties located at 1067, 1069 and 1071 Wellington Road: a)  the proposed, attached, by-laws BE INTRODUCED at the Municipal Council meeting to be held on September 6, 2022; an...
 

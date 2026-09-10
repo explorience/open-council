@@ -421,6 +421,8 @@ The meeting adjourned at  2:43 PM.
 ### 2. Single Source Award
   of Contract for Phase 6 Facility Renewal and Energy Retrofit Program
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -430,6 +432,8 @@ Unanimous (6-0)
 
 ### 3. City of London 2018
   Provincial and Federal Budget Submissions
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -442,6 +446,8 @@ Unanimous (6-0)
   Portion of Oxford Street West - Operations Centre at 1410-1450 Oxford Street
   West
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -452,6 +458,8 @@ Unanimous (6-0)
 ### 5. Annual Report Risk
   Management Services
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -461,6 +469,8 @@ Unanimous (6-0)
 
 ### 6. City of London -
   Experience with New Hours of Service
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -473,6 +483,8 @@ Unanimous (6-0)
   Federation of Canadian Municipalities Board of Directors Meeting  - Wood
   Buffalo, AB, September 12-15, 2017
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -482,6 +494,8 @@ Unanimous (6-0)
 
 ### 8. Review of Code of
   Conduct for Employees
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -494,6 +508,8 @@ Unanimous (6-0)
   Policy - Concerns of Potential Fraud, Waste and Misuse of Assets and
   Resources of the Municipality
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -503,6 +519,8 @@ Unanimous (6-0)
 
 ### 10. Tequila Expo Show
   2017 - Request for Designation as a Municipally Significant Event
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -523,6 +541,8 @@ Unanimous (6-0)
   from 1 of Westerns University's Affiliated Colleges and 1 Voting
   Representative from Fanshawe Student Union)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -536,6 +556,8 @@ Unanimous (6-0)
   Home & School Associations and 1 Alternate Voting Member from the Thames
   Valley District School Board)
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -545,6 +567,8 @@ Unanimous (6-0)
 
 ### 13. Request for Bus
   Rapid Transit to be put on the 2018 Municipal Election Ballot
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

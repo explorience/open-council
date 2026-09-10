@@ -2476,6 +2476,8 @@ Passed
 
 ### 12#2. Rainbow Crosswalks
 
+<a id="motion-12-2-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED   to create a rainbow crosswalk in advance of the 2016 Pride London festival,   the location of which will be determined in consultation with Pride London;   it being noted that the Municipal  Council received the attached   communication from the Managin...
 
 **✅ Motion Passed**
@@ -2483,6 +2485,8 @@ Passed
 Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
+
+<a id="motion-2-4-0" class="motion-anchor"></a>
 
 > Approve that clause 2 be amended in part   c) by deleting the word "future" and by replacing it with the word   "potential".
 
@@ -2499,6 +2503,8 @@ Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
 
+<a id="motion-2-4-1" class="motion-anchor"></a>
+
 > Approve that   clause 2 be amended by adding the following words at the end of the clause,   “it being further noted that members of the Municipal Council present at the   Council meeting held on May 31, 2016, unanimously supported rapid transit”.
 
 **✅ Motion Passed**
@@ -2506,6 +2512,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
+
+<a id="motion-2-4-2" class="motion-anchor"></a>
 
 > Approve that clause 2 be further amended   in part e) by adding the following works to the end of part e):  "subject   to the increase of the per unit cost of buses and stations by $100,000   each."
 
@@ -2522,6 +2530,8 @@ Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
 
+<a id="motion-2-4-3" class="motion-anchor"></a>
+
 > Approve part a) of clause 2.
 
 **✅ Motion Passed**
@@ -2536,6 +2546,8 @@ Unanimous (13-0)
 </details>
 
 ### 2#4. Shift Rapid Transit – Business Case
+
+<a id="motion-2-4-4" class="motion-anchor"></a>
 
 > Approve part b) of clause 2.
 
@@ -2552,6 +2564,8 @@ Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
 
+<a id="motion-2-4-5" class="motion-anchor"></a>
+
 > Approve the balance of clause 2, as   amended.
 
 **✅ Motion Passed**
@@ -2559,6 +2573,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 2#4. Shift Rapid Transit – Business Case
+
+<a id="motion-2-4-6" class="motion-anchor"></a>
 
 > Motion made by Councillor H.L. Usher   Approve clause 1.
 
@@ -2569,6 +2585,8 @@ Unanimous (13-0)
 ### 9#2. Councillor J.
   Zaifman - Board of Directors - Association of Municipalities of Ontario
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the Association of Municipalities of Ontario (AMO) Board of   Directors:   a)         Councillor   Zaifman BE ENDORSED to stand for election to the Association of   Municipalities of Ontario (AMO) Board of Directors, Large Urban Caucus, for   ...
 
 **✅ Motion Passed**
@@ -2576,6 +2594,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### IV. RECOGNITIONS
+
+<a id="motion-iv-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of an in camera enquiry during the Committee of the Whole in   camera session.
 
@@ -2586,6 +2606,8 @@ Unanimous (12-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
 **✅ Motion Passed**
@@ -2595,6 +2617,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON MAY 17, 2016
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve that the Minutes of the Twelfth   Meeting held on May 17, 2016 BE APPROVED.
 
 **✅ Motion Passed**
@@ -2602,6 +2626,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 17 of   the Council Procedure By-law, leave be given for discussion and debate and   the making of a substantive motion to go in camera for the purpose of dealing   with an in camera matter pertaining to an employment-related matter, labour relations   and employe...
 
@@ -2612,6 +2638,8 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to accept Councillor Cassidy’s withdrawal from standing for   election to the Federation of Canadian Municipalities’ (FCM) Board of   Directors and her request for ...
 
 **✅ Motion Passed**
@@ -2620,6 +2648,8 @@ Unanimous (12-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-1" class="motion-anchor"></a>
 
 > Approve that the following actions be taken   with respect to the Federation of Canadian Municipalities’ Board of   Directors:   a)         the   attached communication dated May 30, 2016, from Councillor M.   Cassidy, requesting  Municipal Council’s acceptance of her withdrawal from   standing f...
 
@@ -2630,6 +2660,8 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-2" class="motion-anchor"></a>
+
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to receive the May 31, 2016 letter from Councillor S. Turner   advising of his resignation from the Board of the Middlesex-London Health   Unit.
 
 **✅ Motion Passed**
@@ -2638,6 +2670,8 @@ Unanimous (12-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-3" class="motion-anchor"></a>
 
 > Approve that the attached   letter from Councillor S. Turner, dated May 31, 2016, advising of his   resignation from the Board of the Middlesex-London Health Unit, BE ACCEPTED.
 
@@ -2651,6 +2685,8 @@ Unanimous (12-0)
   for consideration with clause 19 of the 7th Report of the Community and
   Protective Services Committee.)
 
+<a id="motion-1-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2661,6 +2697,8 @@ Unanimous (12-0)
   Director of Culture & Entertainment Tourism, Tourism London - Country
   Music Week 2016
 
+<a id="motion-19-0" class="motion-anchor"></a>
+
 > Approve that clause 19 be amended to read   as follows:   That the following actions be taken with   respect to the request of Tourism London for exemptions from the Special   Events Policies and Procedures related to the Canadian Country Music Awards   events:   a)         the   Civic Administra...
 
 **✅ Motion Passed**
@@ -2670,6 +2708,8 @@ Unanimous (13-0)
 ### 19. C. Campbell,
   Director of Culture & Entertainment Tourism, Tourism London - Country
   Music Week 2016
+
+<a id="motion-19-1" class="motion-anchor"></a>
 
 > Approve clause 19, as amended.
 

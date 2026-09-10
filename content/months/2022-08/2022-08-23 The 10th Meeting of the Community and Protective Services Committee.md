@@ -1214,6 +1214,8 @@ All those in favor, and that motion carries. Thanks everybody. Have a good after
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1221,6 +1223,8 @@ All those in favor, and that motion carries. Thanks everybody. Have a good after
 Unanimous (5-0)
 
 ### 3.1. Adult Live Entertainment Parlour - Relocation Request (from 2010 Dundas Street to 238 Dundas Street)
+
+<a id="motion-3-1-1" class="motion-anchor"></a>
 
 > Motion to approve parts a) and b) of the clause.
 
@@ -1230,6 +1234,8 @@ Unanimous (5-0)
 
 ### 3.1. Adult Live Entertainment Parlour - Relocation Request (from 2010 Dundas Street to 238 Dundas Street)
 
+<a id="motion-3-1-2" class="motion-anchor"></a>
+
 > Motion to approve part c) of the clause.
 
 **✅ Motion Passed (5 to 0)**
@@ -1238,6 +1244,8 @@ Unanimous (5-0)
 
 ### 3.2. Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
 
+<a id="motion-3-2-1" class="motion-anchor"></a>
+
 > Motion to approve part a) of the clause.
 
 **✅ Motion Passed (5 to 0)**
@@ -1245,6 +1253,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.2. Adult Entertainment Body-Rub Parlour - Relocation Request (from 802 Exeter Road to 232 Dundas Street)
+
+<a id="motion-3-2-2" class="motion-anchor"></a>
 
 > Motion to approve part b) of the clause.
 
@@ -1263,6 +1273,8 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
+<a id="motion-5-1-1" class="motion-anchor"></a>
+
 > Motion to receive the Deferred Matters List for the Community and Protective Services Committee, as at August 15, 2022, with the exception of Item Number 1.
 
 **✅ Motion Passed (5 to 0)**
@@ -1270,6 +1282,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
+
+<a id="motion-5-1-2" class="motion-anchor"></a>
 
 > Motion to receive Item Number 1 on the Deferred Matters List for the Community and Protective Services Committee, as at August 15, 2022.
 

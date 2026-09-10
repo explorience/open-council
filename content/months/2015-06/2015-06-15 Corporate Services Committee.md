@@ -133,15 +133,7 @@ The Corporate Services Committee convened
 ### 2. Signing Authority
   for Computer Lease Renewals
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 2. Signing Authority
-  for Computer Lease Renewals
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -152,6 +144,20 @@ Unanimous (4-0)
 
 ### 2. Signing Authority
   for Computer Lease Renewals
+
+<a id="motion-2-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 2. Signing Authority
+  for Computer Lease Renewals
+
+<a id="motion-2-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -163,6 +169,8 @@ Unanimous (4-0)
 ### 6. Ranked Ballots for
   Municipal Elections in Ontario
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -173,6 +181,8 @@ Unanimous (4-0)
 ### 8. ADDED - Request for
   Proposals Process for Land Leases for City-Owned Land in the Vicinity of the
   W12A Landfill and Resource Recovery Area
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -2202,6 +2202,8 @@ Motion carries. Thank you, folks.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -2210,6 +2212,8 @@ Unanimous (6-0)
 
 ### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
 
+<a id="motion-2-4-2" class="motion-anchor"></a>
+
 > Motion to approve part a) and c)
 
 **✅ Motion Passed (5 to 0)**
@@ -2217,6 +2221,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
+
+<a id="motion-2-4-3" class="motion-anchor"></a>
 
 > Motion to approve part b) i)
 
@@ -2235,6 +2241,8 @@ Unanimous (5-0)
 
 ### 2.4. Updating the Program Guidelines for the Transit Oriented Development Community Improvement Plan Per-Unit Forgivable Loan Program
 
+<a id="motion-2-4-4" class="motion-anchor"></a>
+
 > Motion to approve part b) ii)
 
 **✅ Motion Passed (5 to 0)**
@@ -2242,6 +2250,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. 5th Report of the Community Advisory Committee on Planning
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 5th Report of the Community Advisory Committee on Planning Report (CACP), from the meeting held on August 21st, 2025: a)    the expenditure of up to $750.00 for the remainder of 2025 and up to $1,500.00 for 2026 to allow the Community Advis...
 
@@ -2251,6 +2261,8 @@ Unanimous (6-0)
 
 ### 3.3. 825 Wharncliffe Road South - Z-25089
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Hafiz Qaddafi c/o Hashim Imtiaz relating to the property located at 825 Wharncliffe Road South, the revised attached by-law, BE INTRODUCED at the Municipal Coun...
 
 **✅ Motion Passed (5 to 0)**
@@ -2259,6 +2271,8 @@ Unanimous (5-0)
 
 ### 3.5. 1911 North Routledge Park  - OZ-25080
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of HLH Investments (c/o Zelinka Priamo) relating to the property located at 1911 North Routledge Park: a)    consistent with Policy 43_ of the Official Plan for th...
 
 **✅ Motion Passed (5 to 0)**
@@ -2266,6 +2280,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.8. 767 Southdale Road East - Z-25083
+
+<a id="motion-3-8-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1000077448 Ontario Inc. (c/o Siv-ik Planning & Design Inc.) relating to the property located at 767 Southdale Road East: a)    the proposed by-law as appended t...
 
@@ -2284,6 +2300,8 @@ Unanimous (5-0)
 
 ### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
 
+<a id="motion-3-9-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1803299 Ontario Inc. (c/o City Planning Solutions Inc.) relating to the property located at 100 Kellogg Lane, 1080-1108 & 1097-1127 Dundas Street, 420 Burbrook ...
 
 **✅ Motion Passed (6 to 0)**
@@ -2291,6 +2309,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 3.9. 100 Kellogg Lane, 1080-1108 & 1079-1127 Dundas Street, 420 Burbrook Place, 351 Eleanor Street & 1101 King Street and 1151 York Street - OZ-25070
+
+<a id="motion-3-9-3" class="motion-anchor"></a>
 
 > That part j) iii) a motion BE AMMENDED to reads as follows:     Implement the recommendations from the Path Loss Study to ensure acceptable service levels.
 
@@ -2306,6 +2326,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following action be taken with respect to the staff report dated September 9, 2025, related to the request from the Hyde Park BIA to expand its boundaries: a)    the Civic Administration BE DIRECTED to proce...
 
@@ -2323,6 +2345,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.1. Hyde Park BIA Expansion Project - Additional Consultation Reporting
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That the delegation request from D. Szpakowski, HPBIA, as appended to the Agenda, to be heard at this time.
 

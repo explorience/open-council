@@ -1609,6 +1609,8 @@ Motion Passed
   Protective Services Committee stage for consideration with clause 12 of the
   3rd Report of the Community and Protective Services Committee.)
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -1621,6 +1623,8 @@ Unanimous (14-0)
   between The City of London and The YMCA of Western Ontario and The London
   Public Library Board
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Parks and Recreation and the Managing Director, Neighbourhood,   Children and Fire Services, with the advice of legal counsel, the following   actions be taken with respect to the Memorandum of Understanding for the   proposed joint venture ...
 
 **✅ Motion Passed**
@@ -1630,6 +1634,8 @@ Unanimous (14-0)
 ### 4#4. Quarterly Report on
   Internal Audit Results - Development and Compliance Services - By-law
   Enforcement and Licensing
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of   PricewaterhouseCoopers (PwC), the Action Plans identified in PwC's report   dated February 18, 2015 BE IMPLEMENTED with respect to the Quarterly Reports   on Internal Audit Results – Development and Compliance Services - By-law Enforcement   and Licensing; it bein...
 
@@ -1642,6 +1648,8 @@ Unanimous (15-0)
   Internal Audit Results - Development and Compliance Services - By-law
   Enforcement and Licensing
 
+<a id="motion-4-4-1" class="motion-anchor"></a>
+
 > 20, inclusive.
 
 **✅ Motion Passed**
@@ -1651,6 +1659,8 @@ Unanimous (15-0)
 ### 4#4. Quarterly Report on
   Internal Audit Results - Development and Compliance Services - By-law
   Enforcement and Licensing
+
+<a id="motion-4-4-2" class="motion-anchor"></a>
 
 > Approve:   1.  That, as a procedural matter pursuant   to Section 239 (6) of the Municipal Act, 2001, the following recommendation   be forwarded to City Council for deliberation and a vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Tr...
 
@@ -1662,6 +1672,8 @@ Unanimous (15-0)
   as  Prime Consultant for the Southwest Multi-Purposed Recreation Centre (RFP
   14-61) (Project # RC2755)
 
+<a id="motion-5-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Parks and Recreation and the Managing Director, Neighbourhood,   Children and Fire Services, the following actions be taken with respect to   Southwest Multi-Purpose Recreation Centre (RFP 14-61, Project # RC2755):   a)         the   proposa...
 
 **✅ Motion Passed**
@@ -1670,6 +1682,8 @@ Unanimous (14-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following:
 
@@ -1680,6 +1694,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SIXTH MEETING HELD ON FEBRUARY 9, 2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Sixth Meeting   held on February 9, 2015.
 
 **✅ Motion Passed**
@@ -1688,6 +1704,8 @@ Unanimous (14-0)
 
 ### 10. Request for
   Designation of the London Rib Fest as a Municipally Significant Event
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > That the London Rib Fest, to be held July   30, 2015 to August 3, 2015, in Victoria Park, BE DESIGNATED as an event of   municipal significance in the City of London.
 
@@ -1699,6 +1717,8 @@ Unanimous (14-0)
 ### 11. General Orientation
   - Key Committee Matters - Development Financing
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > That, the Director, Development Finance BE   DIRECTED to present an orientation presentation relating to development charges   and development finance, at a future Strategic Priorities and Policy   Committee meeting.
 
 **✅ Motion
@@ -1707,6 +1727,8 @@ Passed**
 Unanimous (14-0)
 
 ### 12. Food Trucks
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1723,6 +1745,8 @@ Unanimous (14-0)
 
 ### 12. Food Trucks
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > pursuant to section 13.6 of the   Council Procedure By-law clause 12 of the 3rd Report of the Community and   Protective Services Committee BE RECONSIDERED, as there was a   misunderstanding of the question that was put.
 
 **✅ Motion Passed**
@@ -1731,6 +1755,8 @@ Unanimous (15-0)
 
 ### 16. 2nd Report of the
   London Housing Advisory Committee
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the 2nd Report of the London Housing Advisory Committee from its   meeting held on January 14, 2015:   a)          the   following actions be taken with respect to licensing and policy   considerations related to the operation and management o...
 
@@ -1741,6 +1767,8 @@ Unanimous (14-0)
 
 ### 17. 1st Report of the
   Town and Gown Committee
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the 1st Report of the Town and Gown Committee from its meeting   held on January 28, 2015:   a)         clause   2 of the 1st Report of the Town and Gown Committee BE REFERRED back to the   Town and Gown Committee for the election of a Vice-Ch...
 
@@ -1757,6 +1785,8 @@ Unanimous (14-0)
 
 ### 17. 1st Report of the
   Town and Gown Committee
+
+<a id="motion-17-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 13.8 of   the Council Procedure By-law, the actions of the Municipal Council taken at   its meeting of December 9, 2014 with respect to clause 32 of the 3rd Report   of the Strategic Priorities and Policy Committee related to the appointment   of Councillor M. Cas...
 

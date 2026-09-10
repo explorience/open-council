@@ -549,6 +549,8 @@ The meeting adjourned at 5:59 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Item 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -557,6 +559,8 @@ Unanimous (5-0)
 
 ### 2.1. Draft City-Wide Urban Design Guidelines
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status at the October 21, 2019 Planning and Environment Committee meeting with respect to the draft City-Wide Urban Design Guidelines.
 
 **✅ Motion Passed (5 to 0)**
@@ -564,6 +568,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting – Not to be heard before 5:30 PM – 676-700 Beaverbrook Avenue and 356 Oxford Street West (OZ-9041)
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of Summit Properties Ltd., relating to the property located at 676-700 Beaverbrook Avenue and 356 Oxford Street West: a)         the proposed by-law appended to the st...
 

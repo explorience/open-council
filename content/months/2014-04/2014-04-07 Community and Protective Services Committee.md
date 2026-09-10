@@ -309,15 +309,7 @@ Motion
   PARTICIPATION MEETING - Extension of Hours for Amplified Sound at the
   Memorial Cup
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. 3rd Report of the
-  Accessibility Advisory Committee
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -329,6 +321,8 @@ Unanimous (5-0)
 ### 9. 3rd Report of the
   Accessibility Advisory Committee
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -338,6 +332,20 @@ Unanimous (5-0)
 
 ### 9. 3rd Report of the
   Accessibility Advisory Committee
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. 3rd Report of the
+  Accessibility Advisory Committee
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -1085,6 +1085,8 @@ The meeting adjourned at 8:30 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.10 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1092,6 +1094,8 @@ The meeting adjourned at 8:30 PM.
 Unanimous (6-0)
 
 ### 3.2. Application - 355 Marconi Boulevard - Draft Plan of Subdivision and Zoning By-law Amendments 39T-20501 (Z-9210)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by JNF Group Inc., relating to the property located at 355 Marconi Boulevard:    a) the proposed by-law appended to the staff report dated October 19, 2020 as Appendix...
 
@@ -1108,6 +1112,8 @@ Unanimous (6-0)
 
 ### 3.4. Meadowlily Environmentally Significant Area - Conservation Master Plan (Z-9245)
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to the Meadowlily Woods Environmentally Significant Area: a)  the proposed revised, attached by-law (Appen...
 
 **✅ Motion Passed (6 to 0)**
@@ -1115,6 +1121,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 7th Report of the London Advisory Committee on Heritage, from its meeting held on October 14, 2020: a)  clause 4.1 c) and d) of the 7th Report of the LACH BE REFERRED to the Civic Administration to prepare a report for the November 30, 2020...
 
@@ -1130,6 +1138,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.1. (ADDED) 7th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > Motion to grant delegation status to S. Allen, MHBC Planning, Urban Design and Landscape Architecture; A.M. Valastro and M. Tovey, with respect to the 7th Report of the London Advisory Committee on Heritage, specifically relating to the properties located at 183 and 197 Ann Street.
 

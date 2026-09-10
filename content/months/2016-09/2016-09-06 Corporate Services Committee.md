@@ -114,6 +114,8 @@ The Corporate Services Committee convened
   Expropriation of Land - Western Road Widening and Improvements Project
   (TS1489-1)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -124,6 +126,8 @@ Unanimous (3-0)
 ### 3. STAFF REPORT -
   Employee Absenteeism 2016 Mid-Year Review Update
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -133,6 +137,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT -
   Employee Absenteeism 2016 Mid-Year Review Update
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

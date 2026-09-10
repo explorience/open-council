@@ -829,6 +829,8 @@ The
   Traffic and Parking By-law PS-111 with Respect to Off Street Accessible
   Parking Stalls
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -838,6 +840,8 @@ Unanimous (5-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -856,6 +860,8 @@ Unanimous (5-0)
 ### 3. Amendments to the
   Traffic and Parking By-law
 
+<a id="motion-3-1" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -873,6 +879,8 @@ Unanimous (5-0)
 ### 4. Leasing of Highway
   Tractors for Sludge Hauling
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -883,6 +891,8 @@ Unanimous (5-0)
 ### 5. Contract Award:
   Tender No. 16-02 - 2016 Infrastructure Renewal Program - South, Waterloo and
   Hill Streets Reconstruction Project
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -895,6 +905,8 @@ Unanimous (5-0)
   Tender No. 16-37 - 2016 Infrastructure Lifecycle Renewal Program Contract 5:
   Landor Street
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -904,6 +916,8 @@ Unanimous (5-0)
 
 ### 7. 2016 Renew London
   Infrastructure Construction Project
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -915,6 +929,8 @@ Unanimous (5-0)
 ### 8. 2016 Annual
   Warranted Sidewalk Program
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -925,6 +941,8 @@ Unanimous (5-0)
 ### 9. Transport Canada -
   Grade Crossing Regulations
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -934,6 +952,8 @@ Unanimous (5-0)
 
 ### 10. Contract Award:
   Tender No. 16-14 - Veterans Memorial Parkway Resurfacing
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -946,6 +966,8 @@ Unanimous (5-0)
   Contractor to Complete Maintenance on Dingman Creek Municipal Drain
   (ES4834-14)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -956,16 +978,7 @@ Unanimous (5-0)
 ### 12. Update on Community
   Carshare in London
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Responding to the
-  Provincial Public Electric Vehicle (EV) Charging Stations Application Process
-  and Related Updates
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -977,6 +990,21 @@ Unanimous (5-0)
 ### 13. Responding to the
   Provincial Public Electric Vehicle (EV) Charging Stations Application Process
   and Related Updates
+
+<a id="motion-13-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Responding to the
+  Provincial Public Electric Vehicle (EV) Charging Stations Application Process
+  and Related Updates
+
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -988,6 +1016,8 @@ Unanimous (5-0)
 ### 15. Veterans Memorial
   Parkway Community Program - 2015 Summary and 2016 Planning Report
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -998,6 +1028,8 @@ Unanimous (5-0)
 ### 16. Landfill Gas
   Utilization - Status of Opportunities and Next Steps
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1006,6 +1038,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 17. Kindness Meters
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1017,6 +1051,8 @@ Unanimous (5-0)
 ### 18. 2nd Report of the
   Transportation Advisory Committee
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1026,6 +1062,8 @@ Unanimous (5-0)
 
 ### 19. 4th Report of the
   Cycling Advisory Committee
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1037,6 +1075,8 @@ Unanimous (5-0)
 ### 20. Field Marshal
   Wolseley Bridge (Quebec Street)
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1046,6 +1086,8 @@ Unanimous (6-0)
 
 ### 21. Deferred Matter List
 
+<a id="motion-21-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1054,6 +1096,8 @@ Unanimous (6-0)
 Unanimous (4-0)
 
 ### 22. Canada Post Community Mail Box Program
+
+<a id="motion-22-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -725,6 +725,8 @@ Everyone have a great day. Recording stopped.
 
 ### 2.1. Update on Tourism Infrastructure Reserve Fund
 
+<a id="motion-2-1-2" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to include a new part that reads as follows: b)   the Civic Administration BE DIRECTED to report annually to the Infrastructure and Corporate Services Committee on any draws of up to $100,000.00 from the Tourism Infrastructure Reserve Fund.
 
 **✅ Motion Passed (5 to 0)**
@@ -733,6 +735,8 @@ Unanimous (5-0)
 
 ### 2.1. Update on Tourism Infrastructure Reserve Fund
 
+<a id="motion-2-1-3" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -740,6 +744,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.2. Green Municipal Fund Grant Agreement - CBR-23-0154 Establishing a Roadmap to Net Zero Emissions for Nine Community Facilities in London, Ontario
+
+<a id="motion-2-2-2" class="motion-anchor"></a>
 
 > that the motion BE AMENDED to add a new part that reads as follows: c)   the Civic Administration BE DIRECTED to bring forward to the Infrastructure and Corporate Services Committee the feasibility report as soon as it is received.
 
@@ -756,6 +762,8 @@ Unanimous (5-0)
 
 ### 2.2. Green Municipal Fund Grant Agreement - CBR-23-0154 Establishing a Roadmap to Net Zero Emissions for Nine Community Facilities in London, Ontario
 
+<a id="motion-2-2-3" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -763,6 +771,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.3. Sunningdale Road West Improvements – Pipeline Decommissioning and New Pipeline Agreement
+
+<a id="motion-2-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to an oil pipeline relocation agreement with Imperial Oil for the Sunningdale Road Improvements from Wonderland Road to Blackwater Road: a)    the financing for this...
 
@@ -778,6 +788,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.6. Smart Commute Association Memorandum of Understanding Extension
+
+<a id="motion-2-6-0" class="motion-anchor"></a>
 
 > That the staff report dated February 2, 2026 - Smart Commute MOU Extension, BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee to allow Civic Administration to provide more information to the Committee with respect to this program.
 

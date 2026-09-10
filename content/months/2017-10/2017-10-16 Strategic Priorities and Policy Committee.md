@@ -375,6 +375,8 @@ The meeting adjourned at 6:33 PM.
 ### 2. Establishment of
   Indigenous Relations Working Group
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -383,13 +385,7 @@ Unanimous (14-0)
 
 ### 3. Standing Committee Appointments
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. Standing Committee Appointments
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -399,13 +395,7 @@ Unanimous (15-0)
 
 ### 3. Standing Committee Appointments
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. Standing Committee Appointments
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -414,6 +404,28 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3. Standing Committee Appointments
+
+<a id="motion-3-2" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. Standing Committee Appointments
+
+<a id="motion-3-3" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. Standing Committee Appointments
+
+<a id="motion-3-4" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -424,6 +436,8 @@ Unanimous (15-0)
 ### 4. Resignation from
   the Rapid Transit Implementation Working Group
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -432,6 +446,8 @@ Unanimous (15-0)
 
 ### 5. Support of Hosting
   Request - International Plowing Match
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -448,6 +464,8 @@ Unanimous (15-0)
 
 ### 5. Support of Hosting
   Request - International Plowing Match
+
+<a id="motion-5-1" class="motion-anchor"></a>
 
 > Motion Passed
 

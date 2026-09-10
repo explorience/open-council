@@ -1308,6 +1308,8 @@ Thank you everyone for your time today. I appreciate it.
 
 ### 4.1. Appointments to the Greater London International Airport Authority Board of Directors
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That Gus Kotsiomitis and Maureen O'Leary-Pickard BE RE-APPOINTED for a third and final term ending July 31, 2025, as Directors of the Greater London International Airport Authority;    it being noted that the third Director position will remain vacant until further notice;     it being further no...
 
 **✅ Motion Passed (13 to 0)**
@@ -1315,6 +1317,8 @@ Thank you everyone for your time today. I appreciate it.
 Unanimous (13-0)
 
 ### 4.2. Request for a Shareholder's Meeting - London & Middlesex Community Housing
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the 2021 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing: a)      the 2021 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priori...
 
@@ -1324,6 +1328,8 @@ Unanimous (13-0)
 
 ### 4.3. Request for a Shareholder's Meeting - London Hydro Inc.
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 2021 Annual General Meeting of the Shareholder for London Hydro Inc.: a)      the 2021 Annual General Meeting of the Shareholder for London Hydro Inc. BE HELD at a meeting of the Strategic Priorities and Policy Committee on June 7, 2022, for...
 
 **✅ Motion Passed (13 to 0)**
@@ -1331,6 +1337,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.4. Request for a Shareholders Meeting - HDC
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the 2021 Annual General Meeting of the Shareholder for the Housing Development Corporation, London:    a)      the 2021 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
 
@@ -1340,6 +1348,8 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
 
+<a id="motion-4-5-1" class="motion-anchor"></a>
+
 > b) the following individuals BE APPOINTED as Voting Members to the Accessibility Community Advisory Committee for the term ending on or before February 2024: Mason Bruner-Moore*      Alejandro Garcia Castillo*       Umair Iqbal*      Natalie Judges*      Susan Mahipaul*  Alicia McGaw*  Jay Menard...
 
 **✅ Motion Passed (13 to 0)**
@@ -1347,6 +1357,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
+
+<a id="motion-4-5-2" class="motion-anchor"></a>
 
 > c) the following individuals BE APPOINTED as Voting Members to the Animal Welfare Community Advisory Committee for the term ending on or before February 2024: Marie Blosh  Wendy Brown  Kendra Coulter  Hubert Duhamel  Alexandria Hames  Gloria Leckie  Eric Prendergast  Michelle Toplack
 
@@ -1356,6 +1368,8 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
 
+<a id="motion-4-5-3" class="motion-anchor"></a>
+
 > d) the following individuals BE APPOINTED as Voting Members to the Community Advisory Committee on Planning for the term ending on or before February 2024: Sarah Ashman  Stephanie Bergman  Mike Bloxam  Ingrid Connidis  Gabriel de Souza Barbosa  Joshua Dent  Angus Johnson  Susan Jory  Jean Marc Me...
 
 **✅ Motion Passed (13 to 0)**
@@ -1363,6 +1377,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
+
+<a id="motion-4-5-4" class="motion-anchor"></a>
 
 > e) the following individuals BE APPOINTED as Voting Members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee for the term ending on or before February 2024: Sue Brooks  Kymberley-Ann Burke  Michaela Hazel Castillo  Stacey Evoy  Nadia Fahd  Niko Fragis  Prabh Singh Gill...
 
@@ -1372,6 +1388,8 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
 
+<a id="motion-4-5-5" class="motion-anchor"></a>
+
 > f) the following individuals BE APPOINTED as Voting Members to the Ecological Community Advisory Committee for the term ending on or before February 2024: Peter Baker  Steve Evans  Tim Hain   Susan Hall  Berta Bella Krichker  Kiana Lee  Sandy Levin  Matheus Sanita Lima  Rob McGarry  Simone Nicole...
 
 **✅ Motion Passed (13 to 0)**
@@ -1379,6 +1397,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
+
+<a id="motion-4-5-6" class="motion-anchor"></a>
 
 > g) the following individuals BE APPOINTED as Voting Members to the Environmental Stewardship and Action Community Advisory Committee for the term ending on or before February 2024: Danita Allick  Patricia Almost  Marianne Griffith  Alexandria Hames  Carol Hunsberger  Rob McGarry   Christine Mettl...
 
@@ -1388,6 +1408,8 @@ Unanimous (12-0)
 
 ### 4.5. Consideration of Community Advisory Committees Appointments
 
+<a id="motion-4-5-7" class="motion-anchor"></a>
+
 > h) the following individuals BE APPOINTED as Voting Members to the Integrated Transportation Community Advisory Committee for the term ending on or before February 2024: Ralph Buchal  Rachel Cabunoc  James Collie  Ernest Eady  Dan Foster  Trevor Kerr  Tariq Khan  Scott Leitch  Vincent Lubrano lll...
 
 **✅ Motion Passed (12 to 0)**
@@ -1395,6 +1417,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 4.5.b. Consideration of Appointment to the Accessibility Community Advisory Committee (Requires up to 15 Members, the majority must be persons with a disability and 1 must be a parent representing children with disabilities)
+
+<a id="motion-4-5-b-0" class="motion-anchor"></a>
 
 > Consideration of Appointment to the Accessibility Community Advisory Committee
 
@@ -1409,6 +1433,8 @@ Unanimous (12-0)
 
 ### 4.5.c. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 15 Members)
 
+<a id="motion-4-5-c-0" class="motion-anchor"></a>
+
 > Consideration for appointment to the Animal Welfare Community Advisory Committee
 
 **❌ Majority Winner: Alexandria Hames; Eric Prendergast; Gloria Leckie; Kendra Coulter; Marie Blosh; Wendy Brown; Hubert Duhamel; Michelle Toplack 🔥**
@@ -1421,6 +1447,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.d. Consideration of Appointment to the  Community Advisory Committee on Planning (Requires up to 15 Members)
+
+<a id="motion-4-5-d-0" class="motion-anchor"></a>
 
 > Consideration of appointment to the Community Advisory Committee on Planning
 
@@ -1435,6 +1463,8 @@ Unanimous (12-0)
 
 ### 4.5.d. Consideration of Appointment to the  Community Advisory Committee on Planning (Requires up to 15 Members)
 
+<a id="motion-4-5-d-1" class="motion-anchor"></a>
+
 > Consideration of appointment to the Community Advisory Committee on Planning - Round 2
 
 **❌ Majority Winner: No majority 🔥**
@@ -1447,6 +1477,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.d. Consideration of Appointment to the  Community Advisory Committee on Planning (Requires up to 15 Members)
+
+<a id="motion-4-5-d-2" class="motion-anchor"></a>
 
 > Consideration of appointment to the Community Advisory Committee on Planning - Round 3
 
@@ -1461,6 +1493,8 @@ Unanimous (12-0)
 
 ### 4.5.d. Consideration of Appointment to the  Community Advisory Committee on Planning (Requires up to 15 Members)
 
+<a id="motion-4-5-d-3" class="motion-anchor"></a>
+
 > Consideration of appointment to the Community Advisory Committee on Planning - Round 4
 
 **❌ Majority Winner: No majority 🔥**
@@ -1473,6 +1507,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.e. Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (Requires up to 15 Members)
+
+<a id="motion-4-5-e-0" class="motion-anchor"></a>
 
 > Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee
 
@@ -1487,6 +1523,8 @@ Unanimous (12-0)
 
 ### 4.5.e. Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (Requires up to 15 Members)
 
+<a id="motion-4-5-e-1" class="motion-anchor"></a>
+
 > Consideration of appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee - Round 2
 
 **❌ Majority Winner: ; Prabh Singh Gill; Lissette Ochoa; Michaela Hazel Castillo; Mphatso Mlotha; Nadia Fahd; Brian Hill; Hetham Hani Abu Karky; Rupinder Kaur Gill; Sue Brooks; Kymberley Ann Burke; Audra Stonefish; Niko Fragis; Ryan O'Hagan; Stacey Evoy 🔥**
@@ -1497,6 +1535,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.f. Consideration of Appointment to the Ecological Community Advisory Committee (Requires up to 15 Members)
+
+<a id="motion-4-5-f-0" class="motion-anchor"></a>
 
 > Consideration of appointment to the Ecological Community Advisory Committee
 
@@ -1511,6 +1551,8 @@ Unanimous (12-0)
 
 ### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
 
+<a id="motion-4-5-g-0" class="motion-anchor"></a>
+
 > Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee
 
 **❌ Majority Winner: No majority 🔥**
@@ -1523,6 +1565,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
+
+<a id="motion-4-5-g-1" class="motion-anchor"></a>
 
 > Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 2
 
@@ -1537,6 +1581,8 @@ Unanimous (12-0)
 
 ### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
 
+<a id="motion-4-5-g-2" class="motion-anchor"></a>
+
 > Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 3
 
 **❌ Majority Winner: No majority 🔥**
@@ -1549,6 +1595,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
+
+<a id="motion-4-5-g-3" class="motion-anchor"></a>
 
 > Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 4
 
@@ -1563,6 +1611,8 @@ Unanimous (12-0)
 
 ### 4.5.g. Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee (Requires up to 15 Members)
 
+<a id="motion-4-5-g-4" class="motion-anchor"></a>
+
 > Consideration of appointment to the Environmental Stewardship and Action Community Advisory Committee - Round 5
 
 **❌ Majority Winner: No majority 🔥**
@@ -1575,6 +1625,8 @@ Unanimous (12-0)
 </details>
 
 ### 4.5.h. Consideration of Appointment to the Integrated Transportation Community Advisory Committee (Requires up to 15 Members)
+
+<a id="motion-4-5-h-0" class="motion-anchor"></a>
 
 > Consideration of appointment to the Integrated Transportation Community Advisory Committee
 

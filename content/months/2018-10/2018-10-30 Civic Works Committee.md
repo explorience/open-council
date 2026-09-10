@@ -296,6 +296,8 @@ The meeting adjourned at 5:46 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -304,6 +306,8 @@ Unanimous (4-0)
 
 ### 4.1. Request for Delegation - K. Miller and C. Gupta, Safe Water London
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the request for delegation from K. Miller and C. Gupta with respect to Safe Water London BE REFERRED to incoming council for consideration. (2018-E13)
 
 **✅ Motion Passed (4 to 0)**
@@ -311,6 +315,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.2. Sanitary and Stormwater Flooding
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > The City Solicitor BE REQUESTED to provide the Civic Works Committee with an opinion as to the appropriated ownership of the Pine Valley Condominium, sewer taking into consideration the previous decision to divest the sewer back to the Condominium Corporation and the properties previous history o...
 

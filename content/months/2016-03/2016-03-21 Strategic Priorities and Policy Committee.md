@@ -267,6 +267,8 @@ The Strategic Priorities and Policy
 ### 2. Music,
   Entertainment and Culture Districts Background Study Status Report
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -275,6 +277,8 @@ Unanimous (15-0)
 
 ### 3. Repeal Financial
   Services Policies
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -285,6 +289,8 @@ Unanimous (12-0)
 ### 4. Creating a Vibrant
   and Competitive Downtown
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -293,6 +299,8 @@ Unanimous (15-0)
 
 ### 4. Creating a Vibrant
   and Competitive Downtown
+
+<a id="motion-4-1" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -310,6 +318,8 @@ Unanimous (15-0)
 ### 4. Creating a Vibrant
   and Competitive Downtown
 
+<a id="motion-4-2" class="motion-anchor"></a>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -325,6 +335,8 @@ Unanimous (15-0)
 
 ### 5. 10th Report of the
   Governance Working Group
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 

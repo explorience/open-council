@@ -937,6 +937,8 @@ Thank you, we are adjourned. Thank you everyone for your cooperation today, than
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -944,6 +946,8 @@ Thank you, we are adjourned. Thank you everyone for your cooperation today, than
 Unanimous (4-0)
 
 ### 3.1. Northridge Neighbourhood Connectivity Plan
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
 
@@ -962,6 +966,8 @@ Unanimous (4-0)
 
 ### 3.2. Huron Heights Neighbourhood Connectivity Plan
 
+<a id="motion-3-2-3" class="motion-anchor"></a>
+
 > Motion to amend the staff recommendation by adding the words “excluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.”
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -978,6 +984,8 @@ Unanimous (4-0)
 </details>
 
 ### 3.2. Huron Heights Neighbourhood Connectivity Plan
+
+<a id="motion-3-2-4" class="motion-anchor"></a>
 
 > Motion to approve the motion as amended.
 

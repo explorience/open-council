@@ -425,6 +425,8 @@ The meeting adjourned at 5:57 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.3, 2.4 and 2.5 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -432,6 +434,8 @@ The meeting adjourned at 5:57 PM.
 Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
+
+<a id="motion-2-2-1" class="motion-anchor"></a>
 
 > Motion to approve the implementation plans for Items for Action #1.1, #2.4, #3.2, #4.1, #4.7, #5.5 and #5.8.
 
@@ -441,6 +445,8 @@ Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
+<a id="motion-2-2-2" class="motion-anchor"></a>
+
 > Motion to refer the implementation plan for Item for Action #2.3, related to transit initiatives, back to the Civic Administration.
 
 **✅ Motion Passed (6 to 0)**
@@ -448,6 +454,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
+
+<a id="motion-2-2-3" class="motion-anchor"></a>
 
 > Motion to refer the implementation plan for Item for Action #2.3, related to parking initiatives, back to the Civic Administration.
 
@@ -457,6 +465,8 @@ Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
+<a id="motion-2-2-4" class="motion-anchor"></a>
+
 > Motion to approve the implementation plan for Item for Action #4.4.
 
 **✅ Motion Passed (6 to 0)**
@@ -465,6 +475,8 @@ Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
+<a id="motion-2-2-5" class="motion-anchor"></a>
+
 > Motion to approve the implementation plans for Items for Action #5.2 and #5.3.
 
 **✅ Motion Passed (6 to 0)**
@@ -472,6 +484,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
+
+<a id="motion-2-2-6" class="motion-anchor"></a>
 
 > Motion to refer the implementation plan for Item for Action #5.4 back to the Civic Administration.
 
@@ -488,6 +502,8 @@ Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
+<a id="motion-2-2-7" class="motion-anchor"></a>
+
 > Motion to approve the implementation plan for Item for Action #5.4.
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -502,6 +518,8 @@ Unanimous (6-0)
 </details>
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
+
+<a id="motion-2-2-8" class="motion-anchor"></a>
 
 > Motion to approve the implementation plan for Item for Action #5.6.
 
@@ -518,6 +536,8 @@ Unanimous (6-0)
 
 ### 2.2. London Community Recovery Network - Ideas for Action by Municipal Council
 
+<a id="motion-2-2-9" class="motion-anchor"></a>
+
 > Motion to approve the balance of the staff recommendation.
 
 **✅ Motion Passed (6 to 0)**
@@ -525,6 +545,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.2. (ADDED) Residential Rental Units Licensing By-law Review - Councillor A. Kayabaga and Councillor M. Salih
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That the communication, dated February 8, 2021, from Councillors A. Kayabaga and M. Salih, with respect to a review of the Residential Rental Units Licensing By-law, BE REFERRED to the March 2, 2021 meeting of the Community and Protective Services Committee for consideration.
 

@@ -309,6 +309,8 @@ The meeting adjourned at 4:35 PM.
 
 ### 1.2. Election of Vice Chair for the Term Ending November 30, 2019
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That Councillor S. Lehman BE ELECTED Vice Chair of the Civic Works Committee for the term ending November 30, 2019.
 
 **✅ Motion Passed (5 to 0)**
@@ -316,6 +318,8 @@ The meeting adjourned at 4:35 PM.
 Unanimous (5-0)
 
 ### 2. Consent
+
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Approve items 2.1 to 2.2.
 
@@ -325,6 +329,8 @@ Unanimous (5-0)
 
 ### 4.2. Senior's Bus Ticket Discount
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the proposed reinstatement of reduced cost of Senior's Bus Tickets BE REFERRED to 2019 Budget Process and the Civic Administration BE DIRECTED to establish a source of financing.  (2018-C12)
 
 **✅ Motion Passed (5 to 0)**
@@ -333,6 +339,8 @@ Unanimous (5-0)
 
 ### 4.3. Autonomous Vehicles - Presentation Request
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That an expert in the field of autonomous vehicles and ride sharing BE INVITED to provide a presentation to the Rapid Transit Implementation Working Group in the first quarter of 2019. (2018-C12)
 
 **✅ Motion Passed (5 to 0)**
@@ -340,6 +348,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.3. (ADDED) Resubmission - Delegation Request - K. Miller and C. Gupta
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the request for delegation from K. Miller and C. Gupta with respect to Safe Water London BE GRANTED at the Civic Works Committee meeting to be held February 5, 2019; it being noted that the Middlesex London Health Unit will be advised of this schedule.
 

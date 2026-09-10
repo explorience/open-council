@@ -254,6 +254,8 @@ Motion
   Corporate Human Rights and Code of Conduct Inquiries, Requests, Complaints
   and Training Initiatives 2016
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -263,6 +265,8 @@ Unanimous (6-0)
 
 ### 3. STAFF REPORT -
   Employee Absenteeism 2016
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -274,6 +278,8 @@ Unanimous (6-0)
 ### 4. STAFF REPORT -
   Workplace Diversity and Inclusion Activities
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -284,6 +290,8 @@ Unanimous (6-0)
 ### 5. ADDED - PUBLIC
   SUBMISSION - Appleseed Cider Festival - Request for Designation as a
   Municipally Significant Event
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -302,6 +310,8 @@ Unanimous (6-0)
 ### 6. ADDED - COUNCIL
   SUBMISSION - Canada 150 Celebrations
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -318,6 +328,8 @@ Unanimous (6-0)
 
 ### 6. ADDED - COUNCIL
   SUBMISSION - Canada 150 Celebrations
+
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -336,6 +348,8 @@ Unanimous (6-0)
 ### 6. ADDED - COUNCIL
   SUBMISSION - Canada 150 Celebrations
 
+<a id="motion-6-2" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -352,6 +366,8 @@ Unanimous (6-0)
 
 ### 6. ADDED - COUNCIL
   SUBMISSION - Canada 150 Celebrations
+
+<a id="motion-6-3" class="motion-anchor"></a>
 
 > Motion   Passed
 

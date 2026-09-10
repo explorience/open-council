@@ -1324,6 +1324,8 @@ That motion's passed. Thanks very much colleagues. We will see you soon again. m
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:05 PM - Climate Emergency Action Plan
 
+<a id="motion-3-1-4" class="motion-anchor"></a>
+
 > Motion to approve part d) d)    the attached proposed by-law (Appendix “C”) BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022 to: i)    authorize and approve a Memorandum of Understanding with the University of Western Ontario to advance joint climate change mitigation a...
 
 **✅ Motion Passed (13 to 0)**
@@ -1331,6 +1333,8 @@ That motion's passed. Thanks very much colleagues. We will see you soon again. m
 Unanimous (13-0)
 
 ### 4.1. 2021 Council Compensation Review Task Force Final Report
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to Council compensation: a)    consistent with current practice, and effective with the commencement of the next term of Council, the annual compensation for serving as a Ward Councillor BE SET at the 2020 median full-time employment income for Lon...
 
@@ -1340,6 +1344,8 @@ Unanimous (15-0)
 
 ### 4.2. Confirmation of Appointment to the Argyle Business Improvement Association
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That Deborah Haroun, Supervisor at Children's Place, BE APPOINTED to the Argyle Business Improvement Association Board of Management for the term ending November 14, 2022.
 
 **✅ Motion Passed (15 to 0)**
@@ -1347,6 +1353,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. City Appointees to Western University's Board of Governors
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to Western University's Board of Governors:    a)  the term of Harold Usher BE ADJUSTED to end as of June 30, 2022, and that he be thanked for his services on the board recognizing he completed his full term;     b)  all future appointments by the ...
 

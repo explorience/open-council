@@ -663,6 +663,8 @@ The
 ### 2. 2nd Report of the
   Cycling Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -674,6 +676,8 @@ Unanimous (5-0)
   Trunk Sanitary Sewer Detailed Design - Appointment of Consulting Engineer:
   Phase 2 - Campbell Street (Hamlyn Street to Lambeth Optimist Park)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -683,6 +687,8 @@ Unanimous (5-0)
 
 ### 4. Preliminary Concept
   for a London Waste to Resources Innovation Centre
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -695,6 +701,8 @@ Unanimous (5-0)
   Understanding with Green Shields Energy (Examining the Role of Waste
   Conservation Technology)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -704,6 +712,8 @@ Unanimous (5-0)
 
 ### 6. 2014 Drinking Water
   Annual Report and Summary Report for the City of London Distribution Centre
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -716,6 +726,8 @@ Unanimous (5-0)
   Environment and Climate Change Inspection Report for the City of London Water
   Distribution System 2014
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -725,6 +737,8 @@ Unanimous (5-0)
 
 ### 8. Roadway Winter
   Maintenance Program
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -736,6 +750,8 @@ Unanimous (5-0)
 ### 9. Beaverbrook Avenue
   and Proudfoot Lane Safety Concerns
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -745,6 +761,8 @@ Unanimous (5-0)
 
 ### 10. Commercial
   Boulevard Parking Application - 552 Colborne Street
+
+<a id="motion-10-2" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -763,6 +781,8 @@ Unanimous (5-0)
 ### 10. Commercial
   Boulevard Parking Application - 552 Colborne Street
 
+<a id="motion-10-3" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -780,6 +800,8 @@ Unanimous (5-0)
 ### 11. Dundas Place -
   Dundas Flexible Street Scoping Study
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -789,6 +811,8 @@ Unanimous (4-0)
 
 ### 12. Environmental
   Assessments - An Overview for Civic Works Committee
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -801,6 +825,8 @@ Unanimous (4-0)
   to By-law W-8 -  A By-law for the Regulation of Water Supply as it Relates to
   Use of Water Restrictions for the Months of June, July and August
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -811,6 +837,8 @@ Unanimous (5-0)
 ### 14. Update to City of
   London Entrance Signs
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -821,6 +849,8 @@ Unanimous (5-0)
 ### 15. Canada Post
   Community Mailbox Program
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -830,6 +860,8 @@ Unanimous (4-0)
 
 ### 15. Canada Post
   Community Mailbox Program
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

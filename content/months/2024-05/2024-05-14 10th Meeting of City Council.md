@@ -2680,6 +2680,8 @@ Great, we're adjourned. Thank you.
 
 ### 8.1. 9th Report of the Corporate Services Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 9th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -2688,6 +2690,8 @@ Unanimous (14-0)
 
 ### 8.2. 6th Report of the Community and Protective Services Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the 6th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 7(2.5).
 
 **✅ Motion Passed (14 to 0)**
@@ -2695,6 +2699,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.7. (2.5) Core Area Parking Incentives Extension
+
+<a id="motion-8-2-7-1" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to include the following new parts: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amo...
 
@@ -2713,6 +2719,8 @@ Unanimous (14-0)
 
 ### 8.2.7. (2.5) Core Area Parking Incentives Extension
 
+<a id="motion-8-2-7-3" class="motion-anchor"></a>
+
 > That parts c), d), e) and f) BE APPROVED to read as follows: c) the Civic Administration BE DIRECTED to implement a free 1-hour on-street parking program for the Core Area until the end of 2024; d) the financing for a free 1-hour on-street parking program for the Core Area, in the estimated amoun...
 
 **✅ Motion Passed (11 to 3)**
@@ -2730,6 +2738,8 @@ Unanimous (14-0)
 
 ### 8.3. 7th Report of the Civic Works Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 7th Report of the Civic Works Committee BE APPROVED with the exception of items 6 (2.5), 7 (2.6 ), 8 (2.7) and 11 (4.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -2737,6 +2747,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.6. (2.5) Contract Award: Tender No. RFT-2024-094 - Wellington Gateway and Municipal Infrastructure Improvements Phase 4 - Harlech Gate to Wellington Commons Entrance
+
+<a id="motion-8-3-6-0" class="motion-anchor"></a>
 
 > That items 6 (2.5), 7 (2.6) and 8 (2.7) BE APPROVED 6 (2.5)   That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated April 30, 2024, related to a Contract Award: Tender No. RFT-2024-094 for Well...
 
@@ -2755,6 +2767,8 @@ Unanimous (14-0)
 
 ### 8.3.11. (4.1)	Tree Planting Plan for Harris Park
 
+<a id="motion-8-3-11-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the communication, as appended to the Agenda, from A.M. Valastro, with respect to a Tree Planting Plan for Harris Park:  a)    the above-noted communication and the verbal delegation from A.M. Valastro, with respect to this matter, BE RECEIVED; ...
 
 **❌ Motion Failed (6 to 8) 🔥**
@@ -2772,6 +2786,8 @@ Unanimous (14-0)
 
 ### 8.4. 9th Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 9th Report of the Strategic Priorities and Policy Committee BE APPROVED with exception of item 8(5.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -2780,6 +2796,8 @@ Unanimous (14-0)
 
 ### 8.4.8. (5.1) Request for One-Time Funding for Ark Aid
 
+<a id="motion-8-4-8-1" class="motion-anchor"></a>
+
 > That part a) of the motion BE APPROVED to read as follows: a)  Civic Administration BE DIRECTED to extend one-time funding in the amount of $687,000 to Ark Aid Street Mission Inc. for an additional 61 days until July 31, 2024 to be funded through the Community Investment Reserve Fund and for staf...
 
 **✅ Motion Passed (14 to 0)**
@@ -2787,6 +2805,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.8. (5.1) Request for One-Time Funding for Ark Aid
+
+<a id="motion-8-4-8-2" class="motion-anchor"></a>
 
 > That part b) of the motion BE APPROVED to read as follows: b)   that consideration of the existing Municipal Purchase of Service Agreement with Safe Space London for a total estimated increase of up to $130,000 (excluding HST) for the period of June 1, 2024 to July 31, 2024, to continue temporary...
 
@@ -2805,6 +2825,8 @@ Unanimous (14-0)
 
 ### 8.5. 7th Report of the Planning and Environment Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 7th Report of the Planning and Environment Committee BE APPROVED with the exception of item 11 (3.5)
 
 **✅ Motion Passed (14 to 0)**
@@ -2812,6 +2834,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
+
+<a id="motion-8-5-11-1" class="motion-anchor"></a>
 
 > That the motion BE AMENDED to include the following: It being further noted, that as SPA23-097 for parking lot works has been received by the city, and should the applicant enter into a signed development agreement and demonstrate progress on the parking lot improvements before the expiration of ...
 
@@ -2830,6 +2854,8 @@ Unanimous (14-0)
 
 ### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
 
+<a id="motion-8-5-11-2" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (12 to 2)**
@@ -2846,6 +2872,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.5.11. (3.5) 379-390 Hewitt Street and 748 King Street (Z-9718) (Relates to Bill No. 164)
+
+<a id="motion-8-5-11-3" class="motion-anchor"></a>
 
 > That the motion, as amended, BE REFERRED to a future meeting of the Planning and Environment Committee to consider an amendment to the by-law to read as follows: the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting to be held on May 14, 2024, to amend...
 
@@ -2864,6 +2892,8 @@ Unanimous (14-0)
 
 ### 9. Added Reports
 
+<a id="motion-9-2" class="motion-anchor"></a>
+
 > That part 3 and 4 of the 10th Report of the Council in Closed Session BE APPROVED
 
 **✅ Motion Passed (13 to 1)**
@@ -2880,6 +2910,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-3" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Added Bill No.’s 168 and 169, BE APPROVED.
 
@@ -2898,6 +2930,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Second Reading of Added Bill No.’s 168 and 169, BE APPROVED.
 
 **✅ Motion Passed (12 to 1)**
@@ -2914,6 +2948,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-5" class="motion-anchor"></a>
 
 > That Third Reading of Added Bill No.’s 168 and 169, BE APPROVED.
 
@@ -2932,6 +2968,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-6" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Bill No. 164 BE APPROVED
 
 **✅ Motion Passed (11 to 2)**
@@ -2949,6 +2987,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-7" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 164 BE APPROVED
 
 **✅ Motion Passed (11 to 2)**
@@ -2965,6 +3005,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-8" class="motion-anchor"></a>
 
 > That Third Reading of Bill No. 164 BE APPROVED
 

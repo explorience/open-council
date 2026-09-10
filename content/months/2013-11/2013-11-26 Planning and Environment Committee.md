@@ -1249,6 +1249,8 @@ The meeting adjourned at 8:10 PM
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1259,6 +1261,8 @@ Unanimous (5-0)
 ### 3. Property located at
   982 Gainsborough Road (Z-8178)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1268,6 +1272,8 @@ Unanimous (5-0)
 
 ### 4. Contract Renewal
   for the Management of Environmentally Significant Areas
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1286,6 +1292,8 @@ Unanimous (5-0)
 ### 4. Contract Renewal
   for the Management of Environmentally Significant Areas
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1303,6 +1311,8 @@ Unanimous (5-0)
 ### 4. Contract Renewal
   for the Management of Environmentally Significant Areas
 
+<a id="motion-4-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1312,6 +1322,8 @@ Unanimous (5-0)
 
 ### 6. Property located at
   3493 Colonel Talbot Road
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1323,122 +1335,7 @@ Unanimous (6-0)
 ### 7. Building Division
   Monthly Report for October 2013
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  1420 Global Drive (Z-8232)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (6-0)
-
-### 8. Property located at
-  1420 Global Drive (Z-8232)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (6-0)
-
-### 8. Property located at
-  1420 Global Drive (Z-8232)
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (6-0)
-
-### 9. Properties located
-  at 595 and 607 Industrial Road (Z-8272)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. Properties located
-  at 595 and 607 Industrial Road (Z-8272)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. Properties located
-  at 595 and 607 Industrial Road (Z-8272)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. Property located at
-  1193 Sunningdale Road East (Z-8231)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Property located at
-  1193 Sunningdale Road East (Z-8231)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Property located at
-  1193 Sunningdale Road East (Z-8231)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Property located at
-  3804 South Winds Drive (39T-09503/OZ-7698)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Property located at
-  3804 South Winds Drive (39T-09503/OZ-7698)
-
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Property located at
-  3804 South Winds Drive (39T-09503/OZ-7698)
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1447,8 +1344,151 @@ Unanimous (6-0)
 
 Unanimous (5-0)
 
+### 8. Property located at
+  1420 Global Drive (Z-8232)
+
+<a id="motion-8-0" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 8. Property located at
+  1420 Global Drive (Z-8232)
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 8. Property located at
+  1420 Global Drive (Z-8232)
+
+<a id="motion-8-2" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 9. Properties located
+  at 595 and 607 Industrial Road (Z-8272)
+
+<a id="motion-9-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 595 and 607 Industrial Road (Z-8272)
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 595 and 607 Industrial Road (Z-8272)
+
+<a id="motion-9-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Property located at
+  1193 Sunningdale Road East (Z-8231)
+
+<a id="motion-10-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Property located at
+  1193 Sunningdale Road East (Z-8231)
+
+<a id="motion-10-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Property located at
+  1193 Sunningdale Road East (Z-8231)
+
+<a id="motion-10-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Property located at
+  3804 South Winds Drive (39T-09503/OZ-7698)
+
+<a id="motion-11-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Property located at
+  3804 South Winds Drive (39T-09503/OZ-7698)
+
+<a id="motion-11-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Property located at
+  3804 South Winds Drive (39T-09503/OZ-7698)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1460,6 +1500,8 @@ Unanimous (4-0)
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1
 
+<a id="motion-12-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1470,6 +1512,8 @@ Unanimous (4-0)
 ### 12. Review of Holding
   Provision Requirements in Zoning By-law Z-1
 
+<a id="motion-12-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1480,15 +1524,7 @@ Unanimous (4-0)
 ### 13. Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 13. Land Needs
-  Background Study for the 2011 Official Plan Review (O-7938)
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1500,6 +1536,20 @@ Unanimous (6-0)
 ### 13. Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
+<a id="motion-13-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 13. Land Needs
+  Background Study for the 2011 Official Plan Review (O-7938)
+
+<a id="motion-13-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1510,15 +1560,7 @@ Unanimous (6-0)
 ### 14. Secondary Dwelling
   Units (OZ-8053)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 14. Secondary Dwelling
-  Units (OZ-8053)
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1530,6 +1572,8 @@ Unanimous (6-0)
 ### 14. Secondary Dwelling
   Units (OZ-8053)
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1539,6 +1583,20 @@ Unanimous (6-0)
 
 ### 14. Secondary Dwelling
   Units (OZ-8053)
+
+<a id="motion-14-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 14. Secondary Dwelling
+  Units (OZ-8053)
+
+<a id="motion-14-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1550,6 +1608,8 @@ Unanimous (6-0)
 ### 16. 11th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1559,6 +1619,8 @@ Unanimous (6-0)
 
 ### 17. Review of Planning
   Application Fees
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

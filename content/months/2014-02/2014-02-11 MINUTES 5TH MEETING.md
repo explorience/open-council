@@ -1871,6 +1871,8 @@ Passed
   J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
   Community Flag Pole for the Duration of the Olympics
 
+<a id="motion-1-7-0" class="motion-anchor"></a>
+
 > Approve leave to introduce an   emergent motion related to the raising of the Rainbow Flag on the Community   Flag Pole in support of the diversity of our Olympic athletes.
 
 **✅ Motion Passed**
@@ -1888,6 +1890,8 @@ Passed
   J. Baechler and Councillor N. Branscombe - Raising the Rainbow Flag on the
   Community Flag Pole for the Duration of the Olympics
 
+<a id="motion-1-7-1" class="motion-anchor"></a>
+
 > Approve that notwithstanding Council   Policy 16(21) Flags at City Hall, the City Clerk BE DIRECTED to make the   necessary arrangements to raise the Rainbow Flag on the Community Flag Pole   for the duration of the 2014 Winter Olympics as a show of support for the   diversity of our Olympic athl...
 
 **✅ Motion Passed**
@@ -1904,6 +1908,8 @@ Passed
 ### 11#2. Property located at
   77 Tecumseh Avenue West (Z-8274)
 
+<a id="motion-11-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -1914,6 +1920,8 @@ Unanimous (15-0)
 ### 12#2. Boundary Expansion
   Request and By-law Amendment
 
+<a id="motion-12-2-0" class="motion-anchor"></a>
+
 > That the communication dated January 21,   2014, from the London Downtown Business Association Improvement Area, with   respect to a boundary expansion request and a review of the current Downtown   Business Improvement Area By-law (CP-2) BE REFERRED to the Civic Administration   for consideratio...
 
 **✅ Motion Passed**
@@ -1922,6 +1930,8 @@ Unanimous (13-0)
 
 ### 2#6. A Community Cultural Investment Proposal
   for a Downtown Arts and Entertainment District
+
+<a id="motion-2-6-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1937,6 +1947,8 @@ Unanimous (13-0)
 ### 2#6. A Community Cultural Investment Proposal
   for a Downtown Arts and Entertainment District
 
+<a id="motion-2-6-1" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, with respect to the property   located at 165 Elmwood Avenue East, being the former London Normal School,   the following acti...
 
 **✅ Motion Passed**
@@ -1946,6 +1958,8 @@ Unanimous (13-0)
 ### 5#4. A Community
   Cultural Investment Proposal for a Downtown Arts and Entertainment District
 
+<a id="motion-5-4-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.6 of   the Council Procedure By-law that clause 5 be reconsidered, due to a misunderstanding   of the question that was put.
 
 **✅ Motion Passed**
@@ -1954,6 +1968,8 @@ Unanimous (13-0)
 
 ### 6#4. Strategic Funding
   Framework: Revised Grant Agreement
+
+<a id="motion-6-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children & Fire Services, the  proposed   by-law, as appended to the staff report dated February 3, 2014, BE INTRODUCED   at the Municipal Council Meeting of February 11, 2014 to:   a)         approve   the standard form for...
 
@@ -1965,6 +1981,8 @@ Unanimous (15-0)
 ### 8#2. Proposed Waste
   Reduction Act and Related Matters for Financing the Blue Box Program
 
+<a id="motion-8-2-1" class="motion-anchor"></a>
+
 > Approve clauses 1 to 7 and clause 8, as amended.
 
 **✅ Motion Passed**
@@ -1973,6 +1991,8 @@ Unanimous (15-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-iv-0" class="motion-anchor"></a>
 
 > Approve that the Council rise and go   into Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -1983,6 +2003,8 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FOURTH MEETING HELD ON JANUARY 28, 2014
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 4th   Meeting held on January 28, 2014.
 
 **✅ Motion Passed**
@@ -1990,6 +2012,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First   Reading of Bill No. 111.
 
@@ -1999,6 +2023,8 @@ Unanimous (13-0)
 
 ### 12. Disposition of
   City-Owned Lands Adjacent to 25 to 57 Stoneycreek Crescent
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the disposition of City-owned lands adjacent to 25 to 57   Stoneycreek Crescent:   a)              clause   7b) of the 2nd Report of the Corporate Services Committee, as adopted by the   Municipal Council at its meeting held on December 17, 20...
 

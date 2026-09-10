@@ -1937,6 +1937,8 @@ Motion carries. No one, can you even give me a chance to say opposed? All right,
 
 ### 2. Consent
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > That, notwithstanding the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Items 2.4, 2.5, 2.6 in Stage 2, Consent, to be considered before Stage 3, Schedule Items.
 
 **✅ Motion Passed (13 to 2)**
@@ -1952,6 +1954,8 @@ Motion carries. No one, can you even give me a chance to say opposed? All right,
 
 ### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, in accordance with the City of London Procurement of Goods and Services Policy, Section 14.4 Single Source, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE...
 
 **✅ Motion Passed (15 to 0)**
@@ -1959,6 +1963,8 @@ Motion carries. No one, can you even give me a chance to say opposed? All right,
 Unanimous (15-0)
 
 ### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
+
+<a id="motion-2-4-1" class="motion-anchor"></a>
 
 > That, with respect to the London Economic Development Corporation Purchase of Services Agreement 2024-2027, the following actions be taken: c) the 2024-2027 Purchase of Services Agreement BE REFERRED to Civic Administration to negotiate the following changes:  i) all references to Deputy City Man...
 
@@ -1975,6 +1981,8 @@ Unanimous (15-0)
 
 ### 2.4. London Economic Development Corporation Purchase of Services Agreement 2024-2027
 
+<a id="motion-2-4-2" class="motion-anchor"></a>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
 
 **✅ Motion Passed (12 to 3)**
@@ -1990,6 +1998,8 @@ Unanimous (15-0)
 
 ### 2.5. Small Business Centre 2024-2027 Grant Agreement
 
+<a id="motion-2-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)   the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 20...
 
 **✅ Motion Passed (15 to 0)**
@@ -1998,6 +2008,8 @@ Unanimous (15-0)
 
 ### 2.6. TechAlliance 2024-2027 Grant Agreement
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken: a)    the proposed by-law as appended to the staff report dated December 12, 2023 as Appendix "A", BE INTRODUCED at the Municipal Council meeting to be held on December 19, 2...
 
 **✅ Motion Passed (15 to 0)**
@@ -2005,6 +2017,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That with respect to the matter of Health and Homelessness Whole of Community System Response the following actions be taken: a) pursuant to section 35.2 of the Council Procedure By-law, the March 7, 2023 Council decision directing Civic Administration to report back monthly to future standing co...
 
@@ -2021,6 +2035,8 @@ Unanimous (15-0)
 
 ### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
 
+<a id="motion-4-1-3" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to reflect the frequency of the overall comprehensive "Progress Update - Health & Homelessness Whole of Community System Response” from "twice annually" to "quarterly".
 
 **✅ Motion Passed (13 to 2)**
@@ -2035,6 +2051,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Deputy Mayor S. Lewis and Councillor S. Franke - Submission Regarding Progress Update - Health and Homelessness Whole of Community System Response
+
+<a id="motion-4-1-4" class="motion-anchor"></a>
 
 > b) pursuant to section 35.7 of the Council Procedure By-law should reconsideration pass, that Council consider the following alternate recommendation: That Civic Administration BE DIRECTED to adjust the frequency of the overall comprehensive “Progress Update - Health & Homelessness Whole of Commu...
 

@@ -1053,6 +1053,8 @@ That's carried, thanks everyone.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.11 and 2.13 to 2.14 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1061,6 +1063,8 @@ Unanimous (5-0)
 
 ### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
 
+<a id="motion-2-12-1" class="motion-anchor"></a>
+
 > Motion to approve parts a), b) and c) of the clause.
 
 **✅ Motion Passed (4 to 0)**
@@ -1068,6 +1072,8 @@ Unanimous (5-0)
 Unanimous (4-0)
 
 ### 2.12. Update and Next Steps for Gasoline Powered Lawn and Garden Equipment
+
+<a id="motion-2-12-2" class="motion-anchor"></a>
 
 > Motion to approve part d) of the clause.
 
@@ -1085,6 +1091,8 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Transit, Road Network and Active Transportation Planning for West London – Councillor S. Trosow
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to Road Network and Active Transportation Planning in West London: a)    the Civic Administration BE DIRECTED to report back to the Civic Works Committee on transit, road network and active transportation planning for West London; b)    the Civic A...
 

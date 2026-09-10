@@ -1773,6 +1773,8 @@ Mayor-Elect M. Brown recognizes the
 ### 1#6. Proposed Change of
   Date - December 23, 2014 Council Meeting
 
+<a id="motion-1-6-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 19.2 of the Council Procedure By-law, leave   be given for the introduction of an emergent motion regarding changing the   date of the December 23, 2014 Council meeting.
 
 **✅ Motion Passed**
@@ -1781,6 +1783,8 @@ Unanimous (15-0)
 
 ### 1#6. Proposed Change of
   Date - December 23, 2014 Council Meeting
+
+<a id="motion-1-6-1" class="motion-anchor"></a>
 
 > Approve that the December 23, 2014   Municipal Council meeting BE CHANGED to be held instead on December 18, 2014,   commencing at 5:00 PM, in order to ensure that the members of the public have   sufficient time to review and ask questions of the Civic Administration   regarding Council matters ...
 
@@ -1791,6 +1795,8 @@ Unanimous (15-0)
 ### 10#2. Striking Committee Review of Citizen
   Applications to Boards and Commissions
 
+<a id="motion-10-2-0" class="motion-anchor"></a>
+
 > That, notwithstanding the applicable   policy/terms of reference, the Striking Committee BE REQUESTED to review   citizen applications to Boards and Commissions and provide a short list of   citizen candidates for the Municipal Council’s consideration; it being noted   that the short listing proc...
 
 **✅ Motion Passed**
@@ -1799,6 +1805,8 @@ Unanimous (15-0)
 
 ### 2#5. Woodburning
   Appliances
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion regarding a nuisance smoke by-law.
 
@@ -1809,6 +1817,8 @@ Unanimous (15-0)
 ### 2#5. Woodburning
   Appliances
 
+<a id="motion-2-5-1" class="motion-anchor"></a>
+
 > Approve that the Civic Administration BE REQUESTED to review and report back   to the Community and Protective Services Committee, in early 2015, with   respect to wood burning stoves; it being noted that the review may include   the provision of a draft Nuisance Smoke By-law.
 
 **✅ Motion Passed**
@@ -1817,6 +1827,8 @@ Unanimous (15-0)
 
 ### 5#3. 2015 Water and
   Wastewater Rates
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services & City Engineer, and the   Managing Director, Corporate Services & City Treasurer, Chief Financial   Officer, the following actions be taken with respect to the 2015 water and   wastewater rates:   a)  ...
 
@@ -1834,6 +1846,8 @@ Unanimous (15-0)
 ### 7#2. Office Reallocation
   - 2014 - 2018 Council Term
 
+<a id="motion-7-2-0" class="motion-anchor"></a>
+
 > That, at the request of Councillor H.L.   Usher, NO ACTION BE TAKEN to relocate his office.
 
 **✅ Motion Passed**
@@ -1849,6 +1863,8 @@ Unanimous (15-0)
 
 ### 8#2. Council Benefits
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and Chief Human Resources Officer, the Civic   Administration BE DIRECTED to amend the long term disability benefit for   Council members in accordance with the recommendation outlined in the staff   report dated November ...
 
 **✅ Motion Passed**
@@ -1857,6 +1873,8 @@ Unanimous (13-0)
 
 ### VI. CONFIRMATION AND SIGNING OF
   THE MINUTES OF the 25TH MEETING HELD ON dECEMBER 17, 2013
+
+<a id="motion-vi-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the 25th Meeting   held on November 25, 2014.
 
@@ -1870,6 +1888,8 @@ Unanimous (15-0)
   for consideration with clause 12 of the 22nd Report of the Planning and
   Environment Committee.)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1879,6 +1899,8 @@ Unanimous (15-0)
 ### 6. Humane Wildlife
   Conflict Policy
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner and the Managing Director, Environmental   and Engineering Services and City Engineer, the following actions BE TAKEN   with respect to the Humane Urban Wildlife Conflict Policy:   a)         the   attached Humane U...
 
 **✅ Motion Passed**
@@ -1887,6 +1909,8 @@ Unanimous (15-0)
 
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Approve that a new part b) ii) J) BE   ADDED to provide for all parking at the rear, with one driveway off of   William Street and one driveway off of Central Avenue.
 
@@ -1904,6 +1928,8 @@ Unanimous (15-0)
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
+<a id="motion-10-1" class="motion-anchor"></a>
+
 > Approve that a new part b)ii)J) be added   as follows:   “J)       providing a landscape feature   within the front yard to ensure that vehicles cannot be driven over or parked   on the front lawn; it being noted that 27 parking spaces will be provided on   the site;”.
 
 **✅ Motion Passed**
@@ -1913,6 +1939,8 @@ Unanimous (15-0)
 ### 10. Properties located
   at 510 Central Avenue and 609 William Street (Z-8141)
 
+<a id="motion-10-2" class="motion-anchor"></a>
+
 > Approve clause 10, as amended.
 
 **✅ Motion Passed**
@@ -1921,6 +1949,8 @@ Unanimous (15-0)
 
 ### 13. 12th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with   respect to the 12th Report of the London Advisory Committee on Heritage from   its meeting held on November 12, 2014:   a)         the   following actions be taken with respect to the building located at   445/447/449 Dundas Street:   i)          the   ...
 

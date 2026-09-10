@@ -575,6 +575,8 @@ Approve Introduction and First Reading of
   (EMERGENCY) FOURTEENTH MEETING AND THE SPECIAL (EMERGENCY) FIFTEENTH MEETING
   HELD ON MAY 12, 22 AND 24, 2015, RESPECTIVELY.
 
+<a id="motion-vi-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -582,6 +584,8 @@ Approve Introduction and First Reading of
 Unanimous (15-0)
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -592,6 +596,8 @@ Unanimous (14-0)
 ### 3. Employee
   Absenteeism 2014 Update
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -600,6 +606,8 @@ Unanimous (12-0)
 
 ### 8. School Zone Speed
   Limit Policy
+
+<a id="motion-8-1" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -617,6 +625,8 @@ Unanimous (12-0)
 ### 8. School Zone Speed
   Limit Policy
 
+<a id="motion-8-2" class="motion-anchor"></a>
+
 > 
 
 **✅ Motion Passed**
@@ -624,6 +634,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### 14. Reg Cooper Square
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > 
 

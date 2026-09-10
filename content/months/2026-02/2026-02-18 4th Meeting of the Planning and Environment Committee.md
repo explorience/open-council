@@ -1991,6 +1991,8 @@ Motion carries. Thanks everyone.
 
 ### 2.1. Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That the matter of the Pack Road Sewer Extension, as identified in the staff report titled Update on Implementation Potential for Servicing Improvements using Housing Accelerator Funding, BE REFERRED back to the Civic Administration to undertake further consultation with the affected landowner an...
 
 **✅ Motion Passed (4 to 0)**
@@ -1998,6 +2000,8 @@ Motion carries. Thanks everyone.
 Unanimous (4-0)
 
 ### 3.5. 550 Ridout Street North & 82-90 Kent Street - OZ-25152
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Ridout and Kent Block Inc. relating to the property located at 550 Ridout Street North & 82-90 Kent Street: a)    the attached by-law BE INTRODUCED at th...
 
@@ -2016,6 +2020,8 @@ Unanimous (4-0)
 
 ### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to bring forward a zoning by-law amendment that includes the following: a)    make all necessary zoning by-law changes to establish an updated minimum parking requirement for all residential developments to a minimum of 1 parking space for each residentia...
 
 **✅ Motion Passed (4 to 0)**
@@ -2023,6 +2029,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That the delegation request from M. Wallace, as appended to the added agenda, to be heard at this time.
 
@@ -2032,6 +2040,8 @@ Unanimous (4-0)
 
 ### 4.1. Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > That a delegation from M.A. Hodge, be heard at this time.
 
 **✅ Motion Passed (4 to 0)**
@@ -2039,6 +2049,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.2. Budget Chair E. Peloza - Notice Distribution - South of Highway 401
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to expand public notice circulation south of Highway 401, including but not limited to, construction notices, applications pursuant to the Planning Act, or studies pursuant to the Environmental Assessment Act, to include the three residential hamlets, loc...
 

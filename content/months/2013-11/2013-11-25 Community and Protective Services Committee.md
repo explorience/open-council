@@ -276,6 +276,8 @@ Motion
 ### 5. Animal Welfare Services
   Funding
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -285,6 +287,8 @@ Unanimous (5-0)
 
 ### 6. Provincial Social
   Assistance Service and Rate Structure Reviews
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -297,6 +301,8 @@ Unanimous (5-0)
   Chair, London Homeless Coalition - London Homeless Coalition Advocacy
   Campaign
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -306,6 +312,8 @@ Unanimous (5-0)
 
 ### 11. 5th Report of the
   Council Housing Leadership Committee
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

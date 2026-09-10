@@ -374,6 +374,8 @@ Looking for a mover, moved by Councillor Ferreira, seconded by Councillor McAlli
 
 ### 2.1. Council Policy Review - Flags at City Hall and Illumination of City of London Buildings and Amenities
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That the proposed Illumination of City of London Buildings and Amenities Policy BE AMENDED by adding the remainder of the month of June to be allocated for national Pride month, with part j), as amended to read as follows: “j)    Notwithstanding the above, City of London buildings and amenities w...
 
 **✅ Motion Passed (3 to 0)**
@@ -382,6 +384,8 @@ Unanimous (3-0)
 
 ### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
 
 **✅ Motion Passed (3 to 0)**
@@ -389,6 +393,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
 

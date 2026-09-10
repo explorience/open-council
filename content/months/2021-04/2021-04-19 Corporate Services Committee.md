@@ -652,6 +652,8 @@ Closing the vote, the motion's passed, five to zero. We'll just get things set u
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5 BE APPROVED, excluding Items 2.2 and 2.3.
 
 **✅ Motion Passed (5 to 0)**
@@ -659,6 +661,8 @@ Closing the vote, the motion's passed, five to zero. We'll just get things set u
 Unanimous (5-0)
 
 ### 2.2. Year 2021 Tax Policy
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to property taxation for 2021: a)      the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A” being a by...
 
@@ -668,6 +672,8 @@ Unanimous (5-0)
 
 ### 2.3. Year 2021 Education Tax Rates
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated April 19, 2021 as Appendix “A”, being a by-law to levy education tax rates for 2021 BE INTRODUCED at the Municipal Council m...
 
 **✅ Motion Passed (5 to 0)**
@@ -675,6 +681,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Application – Issuance of Proclamation – World Migratory Bird Day
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That based on the application dated March 30, 2021 from London’s Bird Friendly City Team, May 8, 2021 BE PROCLAIMED World Migratory Bird Day.
 
@@ -684,6 +692,8 @@ Unanimous (5-0)
 
 ### 4.2. Advisory Committees
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to the current Advisory Committee appointments:    a)      the current term for the City of London Advisory Committee appointments BE EXTENDED, until December 31, 2021;    b)      additional appointments BE...
 
 **✅ Motion Passed (5 to 0)**
@@ -691,6 +701,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Advisory Committees
+
+<a id="motion-4-2-1" class="motion-anchor"></a>
 
 > Appointment to the Accessibility Advisory Committee
 
@@ -705,6 +717,8 @@ Unanimous (5-0)
 
 ### 4.2. Advisory Committees
 
+<a id="motion-4-2-2" class="motion-anchor"></a>
+
 > Appointment to the Accessibility Advisory Committee - 2nd Ballot
 
 **❌ Majority Winner: No majority 🔥**
@@ -715,6 +729,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.2. Advisory Committees
+
+<a id="motion-4-2-3" class="motion-anchor"></a>
 
 > Appointment to the Cycling Advisory Committee
 
@@ -729,6 +745,8 @@ Unanimous (5-0)
 
 ### 4.2. Advisory Committees
 
+<a id="motion-4-2-4" class="motion-anchor"></a>
+
 > Appointment to the Cycling Advisory Committee  - 2nd Ballot
 
 **❌ Majority Winner: No majority 🔥**
@@ -741,6 +759,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.2. Advisory Committees
+
+<a id="motion-4-2-5" class="motion-anchor"></a>
 
 > Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
@@ -755,6 +775,8 @@ Unanimous (5-0)
 
 ### 5.2. (ADDED) Application – Issuance of Proclamation – Apraxia Awareness Day
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That based on the application dated April 14, 2021 from Apraxia Kids, May 14, 2021 BE PROCLAIMED Apraxia Awareness Day.
 
 **✅ Motion Passed (5 to 0)**
@@ -762,6 +784,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.3. (ADDED) Board of Directors – Federation of Canadian Municipalities
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the communication dated April 15, 2020 from Councillor J. Morgan regarding standing for re-election to the Federation of Canadian Municipalities’ Board of Directors and his associated expenses: WHEREAS the Federation of Canadian Municipalities (...
 

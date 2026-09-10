@@ -2707,6 +2707,8 @@ Everybody make it home safely for the Blue Jays game.
 
 ### 2.1. London Hydro Inc. Amended and Restated Shareholder Declaration
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports and the Deputy City Manager, Legal Services with the concurrence of the City Manager, the following actions be taken with respect to the London Hydro Inc. Amended and Restated Shareholder Declaration: a)    the proposed by-l...
 
 **✅ Motion Passed (14 to 0)**
@@ -2715,6 +2717,8 @@ Unanimous (14-0)
 
 ### 2.1. London Hydro Inc. Amended and Restated Shareholder Declaration
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 2, Consent.
 
 **✅ Motion Passed (15 to 0)**
@@ -2722,6 +2726,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 3.4. Delegation - Kapil Lakhotia, President and Chief Executive Officer - London Economic Development Corporation
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation.
 
@@ -2738,6 +2744,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Lehman BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
 **✅ Motion Passed (15 to 0)**
@@ -2745,6 +2753,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > Motion to approve part a): a) recognizing London’s growth and the public expectation of full-time hours for this role, the annual compensation for Councillors BE INDEXED to the 70th percentile 2020 median full-time employment income for Londoners, as reported in the 2021 Census, it being noted th...
 
@@ -2761,6 +2771,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-3" class="motion-anchor"></a>
+
 > Motion to approve part b): b) the current annual adjustment formula in the Remuneration for Elected Officials and Appointed Citizen Members Policy BE MAINTAINED;
 
 **✅ Motion Passed (14 to 1)**
@@ -2776,6 +2788,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-4" class="motion-anchor"></a>
+
 > Motion to approve part c): c) the annual adjustment in Councillor compensation BE AUTOMATIC and administered by the Civic Administration;
 
 **✅ Motion Passed (15 to 0)**
@@ -2783,6 +2797,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-5" class="motion-anchor"></a>
 
 > Motion to approve part d): d) the Council base compensation and the annual adjustment formula BE UPDATED in 2027 to reflect data from the 2021 – 2026 census period, and that the new data be used to calculate Council compensation starting in 2028, such that 2028 base compensation will equal 70th p...
 
@@ -2799,6 +2815,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-6" class="motion-anchor"></a>
+
 > Motion to approve part e): e) the Mayor’s current compensation BE MAINTAINED, and the alignment between Council and Mayoral base compensation BE REVIEWED at the next Council Resourcing Review, scheduled to take place in four years;
 
 **✅ Motion Passed (15 to 0)**
@@ -2806,6 +2824,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-7" class="motion-anchor"></a>
 
 > Motion to approve part f): f) the current practice of not providing additional compensation or stipends to the Mayor and Councillors for sitting on agencies, boards, and commissions BE CONTINUED;
 
@@ -2822,6 +2842,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-8" class="motion-anchor"></a>
+
 > Motion to approve part g): g) a mechanism to compensate Standing Committee Chairs for their additional responsibilities BE IMPLEMENTED, with compensation to be set at 4% of the base annual Councillor salary, limited to one application per Councillor at any given time, and not applicable to indivi...
 
 **✅ Motion Passed (9 to 6) 🔥**
@@ -2836,6 +2858,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-9" class="motion-anchor"></a>
 
 > Motion to approve part h): h) Council undertake the following actions with respect to additional compensation and related matters for the Deputy Mayor and Budget Chair positions, and that they BE CODIFIED in Council Policy:   i) a mechanism to compensate the Deputy Mayor and the Budget Chair BE F...
 
@@ -2852,6 +2876,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-10" class="motion-anchor"></a>
+
 > Motion to approve part i): i) the expectation that a Councillor’s role constitutes full-time service BE CLARIFIED AND REINFORCED through the development and inclusion of appropriate language to this effect in Council documents;
 
 **✅ Motion Passed (15 to 0)**
@@ -2859,6 +2885,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-11" class="motion-anchor"></a>
 
 > Motion to approve part j): j) language in the Council Procedure By-law regarding Councillor service on Standing Committees BE AMENDED to further promote balanced Councillor representation across Standing Committees;
 
@@ -2868,6 +2896,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-12" class="motion-anchor"></a>
+
 > Motion to approve part k): k) an expectation BE ESTABLISHED that each Councillor serve on a minimum of three Agency, Board, or Commission positions at any given time, and that this expectation BE CODIFIED in the appropriate Council documents;
 
 **✅ Motion Passed (15 to 0)**
@@ -2876,6 +2906,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-13" class="motion-anchor"></a>
+
 > Motion to approve parts l) and m): l) and m) of the 2025 Council Resourcing Review Task Force recommendations, relating to the Councillor Office support staff complement, the reduction to Council Member general expense accounts, and the increase to the contract assistant expense allotment, BE REF...
 
 **✅ Motion Passed (15 to 0)**
@@ -2883,6 +2915,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
+
+<a id="motion-4-1-14" class="motion-anchor"></a>
 
 > Motion to approve part n): n) the Civic Administration BE DIRECTED to take the necessary steps to establish a severance package for Members of Council who are unsuccessful in re-election, calculated at one (1) week of pay per year of service, to a maximum of four (4) weeks;
 
@@ -2899,6 +2933,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-15" class="motion-anchor"></a>
+
 > Motion to approve part o): o) a ‘continuous learning’ model of Councillor training BE ENDORSED and supported with resources, and that both new and returning Council Members BE REQUIRED to attend post-election training and onboarding sessions; and
 
 **✅ Motion Passed (14 to 1)**
@@ -2914,6 +2950,8 @@ Unanimous (15-0)
 
 ### 4.1. 2025 Council Resourcing Review Task Force Final Report
 
+<a id="motion-4-1-16" class="motion-anchor"></a>
+
 > Motion to approve part p): p) the relationship between Council resourcing and the composition of Council BE CONSIDERED in the next Ward Boundary Review process; it being noted that the verbal delegation from M. Horak, Chair, 2025 Council Resourcing Review Task Force was received.
 
 **✅ Motion Passed (15 to 0)**
@@ -2921,6 +2959,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.2. Committee Appointment Preferences Submitted by Council Members
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2025 to November 15, 2026: a)      Planning and Environment Committee Deputy Mayor S. Lewis  Councillor P. Cuddy  Councillor S. Stevenson  Councillor S. Hillier b)    Community and...
 
@@ -2930,6 +2970,8 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That David Little BE APPOINTED to the Covent Garden Market Board of Directors for the term ending November 14, 2026.
 
 **✅ Motion Passed (15 to 0)**
@@ -2937,6 +2979,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > Appointment to the Covent Garden Market Board of Directors
 
@@ -2949,6 +2993,8 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
+<a id="motion-4-3-2" class="motion-anchor"></a>
+
 > Appointment to the Covent Garden Market Board of Directors
 
 **❌ Majority Winner: No majority 🔥**
@@ -2960,6 +3006,8 @@ Unanimous (15-0)
 
 ### 4.3. Consideration of Appointment to the Covent Garden Market Board of Directors (Requires 1 Member)
 
+<a id="motion-4-3-3" class="motion-anchor"></a>
+
 > Appointment to the Covent Garden Market Board of Directors
 
 **❌ Majority Winner: David Little 🔥**
@@ -2970,6 +3018,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.4. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That Jeff Gard BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026.
 
@@ -2986,6 +3036,8 @@ Unanimous (15-0)
 
 ### 4.4. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
 
+<a id="motion-4-4-1" class="motion-anchor"></a>
+
 > Appointment to the Committee of Adjustment
 
 **❌ Majority Winner: Jeff Gard 🔥**
@@ -2996,6 +3048,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.5. Consideration of City Appointees to Western University's Board of Governors
+
+<a id="motion-4-5-0" class="motion-anchor"></a>
 
 > That the motion to appoint Lori Higgs and Marlene McGrath to the Western University's Board of Governors BE REFERRED to the next meeting of Strategic Priorities and Policy Committee to allow for more information to be gathered with respect to the candidates and the appointment process.
 
@@ -3012,6 +3066,8 @@ Unanimous (15-0)
 
 ### 4.5. Consideration of City Appointees to Western University's Board of Governors
 
+<a id="motion-4-5-2" class="motion-anchor"></a>
+
 > That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (14 to 1)**
@@ -3026,6 +3082,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.5. Consideration of City Appointees to Western University's Board of Governors
+
+<a id="motion-4-5-3" class="motion-anchor"></a>
 
 > That, pursuant to section 32.5 of the Council Procedure By-law, “shall the ruling of the Chair BE SUSTAINED?”
 
@@ -3042,6 +3100,8 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Amendments to the Council Procedure By-law A-61 - Councillor C. Rahman, Deputy Mayor S. Lewis and Councillor D. Ferreira
 
+<a id="motion-4-6-1" class="motion-anchor"></a>
+
 > Motion to approve part a) and part b): a)    the Infrastructure and Corporate Services Committee mandate BE AMENDED to include “Sidewalks and Bike lanes – Planning, Design (retrofitting into established neighbourhoods) and Maintenance, Snow Control, Street Lighting (retrofitting into existing nei...
 
 **✅ Motion Passed (14 to 1)**
@@ -3057,6 +3117,8 @@ Unanimous (15-0)
 
 ### 4.6. Consideration of Amendments to the Council Procedure By-law A-61 - Councillor C. Rahman, Deputy Mayor S. Lewis and Councillor D. Ferreira
 
+<a id="motion-4-6-2" class="motion-anchor"></a>
+
 > Motion to approve part c): c)    the Strategic Priorities and Policy Committee BE AMENDED to include “Items related to Strong Mayor Decisions and Directions”.
 
 **✅ Motion Passed (15 to 0)**
@@ -3064,6 +3126,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.7. Request for Change of Council Meeting Date - Councillor S. Franke
+
+<a id="motion-4-7-0" class="motion-anchor"></a>
 
 > That, with respect to the Annual Calendar for Standing Committee and Council Meetings, the following actions be taken: a)    the Civic Administration BE DIRECTED to amend the 2026 Standing Committee and Council Meeting Calendar to reschedule the meeting of Council currently set for Tuesday, Octob...
 

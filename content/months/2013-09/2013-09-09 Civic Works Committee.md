@@ -613,6 +613,8 @@ The meeting adjourned at 6:59 PM.
 ### 2. Request for Naming
   of the Quebec Street Bridge to Field Marshal of Wolseley Bridge
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -623,6 +625,8 @@ Unanimous (6-0)
 ### 3. By-law for the
   Execution of the Revised Occupancy Agreement with London Hydro for Ground-
   Mounted Solar Photovoltaic Energy Systems
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -635,6 +639,8 @@ Unanimous (6-0)
   Widening Phase 2 North of CP Railway to North of Fanshawe Park Road Detailed Design
   and Tendering Appointment of Consulting Engineer
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -646,6 +652,8 @@ Unanimous (6-0)
   and Wonderland Road North Roundabout Detailed Design and Tendering
   Appointment of Consulting Engineer
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -655,6 +663,8 @@ Unanimous (6-0)
 
 ### 6. Thames River Reach
   Study - Appointment of Consulting Engineer
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -667,6 +677,8 @@ Unanimous (6-0)
   Pump, Sewage Ejector and Storm Private Drain Connection By-law - Proposed
   Amendment
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -676,6 +688,8 @@ Unanimous (6-0)
 
 ### 8. Blackfriars Bridge
   - Structural Repairs and Temporary Closure
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -694,6 +708,8 @@ Unanimous (6-0)
 ### 8. Blackfriars Bridge
   - Structural Repairs and Temporary Closure
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -703,6 +719,8 @@ Unanimous (6-0)
 
 ### 9. Fanshawe Park Road
   West and Dalmagarry Road Traffic Signal
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -716,6 +734,8 @@ Unanimous (6-0)
   Exemption - Trowbridge Avenue, Mary Avenue and Pinewood Drive and Traffic and
   Parking By-law PS-111
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -725,6 +745,8 @@ Unanimous (6-0)
 
 ### 11. Biosolids Disposal
   Assessment
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

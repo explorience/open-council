@@ -3757,6 +3757,8 @@ Passed
 
 ### 1#8. Disclosures of Pecuniary Interest
 
+<a id="motion-1-8-1" class="motion-anchor"></a>
+
 > Approve;   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the Managing   Director, Corporate...
 
 **✅ Motion Passed**
@@ -3765,6 +3767,8 @@ Unanimous (13-0)
 
 ### 12#2. 3rd Report of the
   Transportation Advisory Committee
+
+<a id="motion-12-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the 3rd Report of the Transportation Advisory Committee (TAC),   from its meeting held on March 4, 2014:   a)         the   concept of car sharing BE ENDORSED and the Civic Administration BE REQUESTED   to continue to liaison with the Communit...
 
@@ -3775,6 +3779,8 @@ Unanimous (14-0)
 ### 20#2. Development Charges
   Grant Program for Downtown, Old East Village and SoHo CIP Areas
 
+<a id="motion-20-2-0" class="motion-anchor"></a>
+
 > Approve the referral of parts a) and   b) of clause 20 back to the Civic Administration, for further consideration.
 
 **✅ Motion Passed**
@@ -3783,6 +3789,8 @@ Unanimous (14-0)
 
 ### 20#2. Development Charges
   Grant Program for Downtown, Old East Village and SoHo CIP Areas
+
+<a id="motion-20-2-1" class="motion-anchor"></a>
 
 > Approve that part c) of clause 20, be   deleted and replaced with the following new part c):   “c)         the Civic Administration BE DIRECTED to maintain the current incentive   program within the Downtown and Old East Village Community Improvement   Project Areas, whereby residential developme...
 
@@ -3800,6 +3808,8 @@ Unanimous (14-0)
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
+<a id="motion-21-2-0" class="motion-anchor"></a>
+
 > Approve that part b) of clause 13 be   amended by deleting the words “the proposed by-law, as appended to the staff   report dated March 25, 2014,” and by replacing them with the words “the attached   revised proposed by-law”.
 
 **✅ Motion Passed**
@@ -3808,6 +3818,8 @@ Unanimous (14-0)
 
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
+
+<a id="motion-21-2-1" class="motion-anchor"></a>
 
 > Approve that clause 13 be further   amended by adding a new part d) to direct the Civic Administration to   consider an exemption for the properties at 85 and 91 Meg Drive from the   above-noted policy, should a related application come forward.
 
@@ -3818,6 +3830,8 @@ Unanimous (14-0)
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
+<a id="motion-21-2-2" class="motion-anchor"></a>
+
 > Approve clause 13, as amended.
 
 **✅ Motion Passed**
@@ -3826,6 +3840,8 @@ Unanimous (14-0)
 
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
+
+<a id="motion-21-2-3" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken as a   result of the City-wide Official Plan/Zoning By-law review of the   non-industrial uses in industrial areas in the City of London:   a)         the   proposed by-law, as append...
 
@@ -3843,6 +3859,8 @@ Unanimous (14-0)
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
 
+<a id="motion-21-2-4" class="motion-anchor"></a>
+
 > At 8:20 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair and takes a seat at the Council Board.     At 8:36 PM, His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
 **✅ Motion Passed**
@@ -3858,6 +3876,8 @@ Unanimous (14-0)
 
 ### 21#2. Property located at
   3100 Colonel Talbot Road (39T-13504/Z-8243)
+
+<a id="motion-21-2-5" class="motion-anchor"></a>
 
 > Approve that   clause 19 be referred back to the Planning and Environment Committee for   further discussion and consideration with respect to the draft Community   Improvement Plan for Industrial Land Uses.
 
@@ -3875,6 +3895,8 @@ Unanimous (14-0)
 ### 22#2. Property located at
   447 Old Wonderland Road (Z-8228)
 
+<a id="motion-22-2-0" class="motion-anchor"></a>
+
 > Approve that a new part d) be added to   clause 22 as follows:   “d)        the   Civic Administration BE DIRECTED to give consideration to the following, in   addition to the above-noted matters:   i)          increasing   the width of the landscaping border to 6 metres along the property line, ...
 
 **✅ Motion Passed**
@@ -3883,6 +3905,8 @@ Unanimous (15-0)
 
 ### 22#2. Property located at
   447 Old Wonderland Road (Z-8228)
+
+<a id="motion-22-2-1" class="motion-anchor"></a>
 
 > Approve clause 22, as amended.
 
@@ -3900,6 +3924,8 @@ Unanimous (15-0)
 ### 23#2. Property located at
   545 Fanshawe Park Road West (OZ-8286)
 
+<a id="motion-23-2-0" class="motion-anchor"></a>
+
 > Approve that clause 23 be amended by adding   a new part d), as follows:   “d)       the   Staff BE DIRECTED to ensure, throughout the construction process, that a safe   and accessible pedestrian access is maintained between the Amica building and   the shopping area to the west, at the intersec...
 
 **✅ Motion Passed**
@@ -3908,6 +3934,8 @@ Unanimous (14-0)
 
 ### 23#2. Property located at
   545 Fanshawe Park Road West (OZ-8286)
+
+<a id="motion-23-2-1" class="motion-anchor"></a>
 
 > Approve clause 23, as amended.
 
@@ -3921,6 +3949,8 @@ Unanimous (14-0)
   Environment Committee Stage for Consideration with Clause 16 of the 6th
   Report of the Planning and Environment Committee.)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3929,6 +3959,8 @@ Unanimous (13-0)
 
 ### 3#4. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer and   the City Clerk, the 2014 remuneration for elected officials and appointed   citizen members of local boards and commissions where stipends are paid BE   ADJUSTED by 1.0% ov...
 
@@ -3946,6 +3978,8 @@ Unanimous (13-0)
 ### 3#4. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
 
+<a id="motion-3-4-1" class="motion-anchor"></a>
+
 > Approve that   pursuant to section 13.10   of the Council Procedure By-law, the matter of 2014 remuneration for Elected   Officials and appointed citizen members BE RECONSIDERED
 
 **✅ Motion Passed**
@@ -3961,6 +3995,8 @@ Unanimous (13-0)
 
 ### 3#4. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
+
+<a id="motion-3-4-2" class="motion-anchor"></a>
 
 > Approve that the Council policy for   calculating the annual remuneration for citizen appointees to local boards   and commissions BE CONTINUED.
 
@@ -3978,6 +4014,8 @@ Unanimous (13-0)
 ### 3#4. Elected Officials
   and Appointed Citizen Members - 2014 Remuneration
 
+<a id="motion-3-4-3" class="motion-anchor"></a>
+
 > Approve   that NO ACTION BE TAKEN to increase the Council Members’ remuneration for   2014 and the Civic Administration BE DIRECTED to take all required actions to   implement the remuneration policy changes with respect to Council Members and   citizen appointees to local boards and commissions.
 
 **✅ Motion Passed**
@@ -3986,6 +4024,8 @@ Unanimous (15-0)
 
 ### 3#5. Granular Materials
   - Area "A" and Area "B" (Tender No. 13-113)
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That clause 3 of the 4th Report of the Civic   Works Committee, from its meeting held February 3, 2014, BE REVISED to   correct the addresses for both Demar Aggregates and AAROC Aggregates Ltd., as   noted below, with respect to Tender 13-113 Granular Materials; it being noted   that the original...
 
@@ -3996,6 +4036,8 @@ Unanimous (14-0)
 ### 3#5. Granular Materials
   - Area "A" and Area "B" (Tender No. 13-113)
 
+<a id="motion-3-5-1" class="motion-anchor"></a>
+
 > Approve that the following actions be   taken with respect to clause 3 of the 4th Report of the Civic Works Committee:   a)         clause 3 of the 4th Report of   the Civic Works Committee BE RESCINDED; and   b)         clause   3 of the 4th Report of the Civic Works Committee BE AMENDED to read...
 
 **✅ Motion Passed**
@@ -4005,6 +4047,8 @@ Unanimous (14-0)
 ### 3#5. Granular Materials
   - Area "A" and Area "B" (Tender No. 13-113)
 
+<a id="motion-3-5-2" class="motion-anchor"></a>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -4013,6 +4057,8 @@ Unanimous (14-0)
 
 ### 5#2. Amendment to
   Council Policy 28(2) - Council Members' Expense Account
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > Approve referral of clause 5 back to   the City Clerk for review and report back with suggested changes to provide   more clarity and control with respect to allowable expenses.
 
@@ -4030,6 +4076,8 @@ Unanimous (14-0)
 ### 5#2. Amendment to
   Council Policy 28(2) - Council Members' Expense Account
 
+<a id="motion-5-2-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4038,6 +4086,8 @@ Unanimous (15-0)
 
 ### 8#5. Music Task Force
   Update
+
+<a id="motion-8-5-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4055,6 +4105,8 @@ Unanimous (15-0)
 ### 8#5. Music Task Force
   Update
 
+<a id="motion-8-5-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4063,6 +4115,8 @@ Unanimous (12-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-iv-0" class="motion-anchor"></a>
 
 > Approve that the Council rise and   go into Committee of the Whole, in camera, at 4:29 PM, for the following reasons:
 
@@ -4073,6 +4127,8 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 18, 2014
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 9th   Meeting held on March 18, 2014.
 
 **✅ Motion Passed**
@@ -4080,6 +4136,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of   Bill No. 159, Bill No.160, Bill No.s 162 to 172, Bill No.s 174 to 189,   revised Bill No. 190, Bill No.s 191 to 197, revised Bill No. 198, and Bill   No.s 199 and 200.
 
@@ -4099,6 +4157,8 @@ Unanimous (15-0)
   the Planning and Environment Committee Stage for Consideration with Clause 22
   of the 6th Report of the Planning and Environment Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4108,6 +4168,8 @@ Unanimous (15-0)
 ### 9. Neighbourhood Family
   Centre - Thames Valley District School Board - Lord Nelson Public School
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Neighbourhood, Children and Fire Services, the following actions be   taken with respect to the Neighbourhood Family Centre, Lord Nelson Public   School:    a)         the   proposed by-law, as appended to the staff report dated March 24, 20...
 
 **✅ Motion Passed**
@@ -4116,6 +4178,8 @@ Unanimous (13-0)
 
 ### 23. Consideration for
   Appointment to the Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-23-0" class="motion-anchor"></a>
 
 > That Jeff Smith BE APPOINTED as a Voting   Member-at-Large on the Environmental and Ecological Planning Advisory Committee   for the term ending February 28, 2015.
 

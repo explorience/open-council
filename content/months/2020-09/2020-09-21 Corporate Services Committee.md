@@ -128,6 +128,8 @@ The meeting adjourned at 12:17 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -136,6 +138,8 @@ Unanimous (5-0)
 
 ### 4. Items for Direction
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Approve items 4.1 and 4.2.
 
 **✅ Motion Passed (5 to 0)**
@@ -143,6 +147,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 6. Adjournment
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That the meeting adjourn.
 

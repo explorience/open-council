@@ -884,6 +884,8 @@ The
 ### 2. 3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -894,6 +896,8 @@ Unanimous (5-0)
 ### 3. 3rd Report of the
   Advisory Committee on the Environment
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -903,6 +907,8 @@ Unanimous (5-0)
 
 ### 4. "Our Move
   Forward" London's Downtown Plan
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -922,6 +928,8 @@ Unanimous (5-0)
   2054 Adelaide Street North - Appeal of Official Plan and Zoning By-law
   Amendments to the Ontario Municipal Board (OZ-7921)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -932,15 +940,7 @@ Unanimous (6-0)
 ### 6. Property located at
   8477 Longwoods Road (Z-8111)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Property located at
-  8477 Longwoods Road (Z-8111)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -952,6 +952,20 @@ Unanimous (5-0)
 ### 6. Property located at
   8477 Longwoods Road (Z-8111)
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Property located at
+  8477 Longwoods Road (Z-8111)
+
+<a id="motion-6-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -962,15 +976,7 @@ Unanimous (5-0)
 ### 7. Property located at
   3446 Gore Road (Z-8428)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Property located at
-  3446 Gore Road (Z-8428)
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -981,6 +987,20 @@ Unanimous (5-0)
 
 ### 7. Property located at
   3446 Gore Road (Z-8428)
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Property located at
+  3446 Gore Road (Z-8428)
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -992,15 +1012,7 @@ Unanimous (5-0)
 ### 8. Property located at
   2040 Shore Road (39CD-14522)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  2040 Shore Road (39CD-14522)
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1011,6 +1023,20 @@ Unanimous (5-0)
 
 ### 8. Property located at
   2040 Shore Road (39CD-14522)
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  2040 Shore Road (39CD-14522)
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1023,16 +1049,7 @@ Unanimous (5-0)
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Development Charges
-  Grant Program for Downtown and Old East Village Community Improvement Plan
-  (CIP) Areas
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1044,6 +1061,21 @@ Unanimous (5-0)
 ### 9. Development Charges
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Development Charges
+  Grant Program for Downtown and Old East Village Community Improvement Plan
+  (CIP) Areas
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1055,15 +1087,7 @@ Unanimous (5-0)
 ### 10. 3rd Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Heritage Building
-  Retention - Old Victoria Hospital Lands
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1075,6 +1099,8 @@ Unanimous (6-0)
 ### 11. Heritage Building
   Retention - Old Victoria Hospital Lands
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1084,6 +1110,20 @@ Unanimous (6-0)
 
 ### 11. Heritage Building
   Retention - Old Victoria Hospital Lands
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1095,15 +1135,7 @@ Unanimous (5-0)
 ### 11. Heritage Building
   Retention - Old Victoria Hospital Lands
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Heritage Building
-  Retention - Old Victoria Hospital Lands
+<a id="motion-11-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1115,6 +1147,20 @@ Unanimous (6-0)
 ### 11. Heritage Building
   Retention - Old Victoria Hospital Lands
 
+<a id="motion-11-4" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Heritage Building
+  Retention - Old Victoria Hospital Lands
+
+<a id="motion-11-5" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1125,6 +1171,8 @@ Unanimous (6-0)
 ### 12. Property located at
   161 Windermere Road (Z-8167)
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1134,6 +1182,8 @@ Unanimous (6-0)
 
 ### 12. Property located at
   161 Windermere Road (Z-8167)
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1144,6 +1194,8 @@ Unanimous (6-0)
 
 ### 13. Commercial Corridor
   Along Commissioners Road East
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

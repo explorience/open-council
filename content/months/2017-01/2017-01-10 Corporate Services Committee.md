@@ -508,6 +508,8 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Proposed Election Sign By-law
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -518,6 +520,8 @@ Unanimous (6-0)
 ### 3. STAFF REPORT -
   RFP16-52 Microsoft Dynamics CRM Implementation Partner 2017 – 2019
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -526,6 +530,8 @@ Unanimous (6-0)
 
 ### 4. STAFF REPORT - Biannual
   Meetings with MPs and MPPs - Proposal and Update
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -536,6 +542,8 @@ Unanimous (6-0)
 ### 5. STAFF REPORT - City
   of London Representation on Various Municipal Associations
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -545,6 +553,8 @@ Unanimous (6-0)
 
 ### 6. STAFF REPORT -
   Corporate Asset Management Plan 2016 Review
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -557,6 +567,8 @@ Unanimous (6-0)
   Assessment Growth for 2017, Changes in Taxable Phase-In Values, and Shifts in
   Taxation as a Result of Reassessment
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -566,6 +578,8 @@ Unanimous (6-0)
 
 ### 8. STAFF REPORT -
   Provincial Dedicated Gas Tax Funds for Public Transportation Program
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -578,15 +592,7 @@ Unanimous (6-0)
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Ottawa, ON, November 21-25, 2016
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. PUBLIC PARTICIPATION MEETING - Review of
-  City of London Ward Boundaries
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -598,6 +604,8 @@ Unanimous (6-0)
 ### 10. PUBLIC PARTICIPATION MEETING - Review of
   City of London Ward Boundaries
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -607,6 +615,20 @@ Unanimous (6-0)
 
 ### 10. PUBLIC PARTICIPATION MEETING - Review of
   City of London Ward Boundaries
+
+<a id="motion-10-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. PUBLIC PARTICIPATION MEETING - Review of
+  City of London Ward Boundaries
+
+<a id="motion-10-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -617,6 +639,8 @@ Unanimous (6-0)
 
 ### 11. Consideration of
   Appointment to the Agricultural Advisory Committee
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -629,6 +653,8 @@ Unanimous (4-0)
   Forest City Beer Fest Winter Pop Up - Request for Designation as a
   Municipally Significant Event
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -639,6 +665,8 @@ Unanimous (6-0)
 ### 13. ADDED - STAFF
   REPORT - Leasehold Improvements Update - Citi Plaza 355 Wellington Street
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -648,6 +676,8 @@ Unanimous (6-0)
 
 ### 14. ADDED - COUNCIL
   MEMBER SUBMISSION - Holocaust Remembrance Day Banners
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

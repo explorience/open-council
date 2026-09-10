@@ -641,6 +641,8 @@ Thank you.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -649,6 +651,8 @@ Unanimous (5-0)
 
 ### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
 
+<a id="motion-2-4-1" class="motion-anchor"></a>
+
 > Motion to amend the staff recommendation to add the following: "d)    the Civic Administration BE DIRECTED to report back on the financial costs (by municipality and the total cost); and, e)    the Civic Administration BE DIRECTED to report back on monies collected and the details on any that rem...
 
 **✅ Motion Passed (5 to 0)**
@@ -656,6 +660,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.4. Housing Collaborative Initiative Follow-Up and Next Steps
+
+<a id="motion-2-4-2" class="motion-anchor"></a>
 
 > Motion to approve the motion, as amended.
 

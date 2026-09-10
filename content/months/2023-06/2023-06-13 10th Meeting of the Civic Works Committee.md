@@ -420,6 +420,8 @@ The meeting adjourned at 3:00 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6 BE APPROVED; it being noted that clause 5.1 of the 6th Report of the Integrated Transportation Community Advisory Committee (ITCAC), was noted to require additional review by the Civic Administration with the ITCAC.
 
 **✅ Motion Passed (5 to 0)**
@@ -427,6 +429,8 @@ The meeting adjourned at 3:00 PM.
 Unanimous (5-0)
 
 ### 3.1. Blackfriars Bridge - Long Term Use
+
+<a id="motion-3-1-1" class="motion-anchor"></a>
 
 > Motion to open the public participation meeting.
 
@@ -444,6 +448,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.1. Blackfriars Bridge - Long Term Use
+
+<a id="motion-3-1-3" class="motion-anchor"></a>
 
 > Motion to approve parts a) and b) of the motion.
 

@@ -164,6 +164,8 @@ The meeting adjourned at 12:14 PM.
 
 ### 2.1. Appointments and Updates to the Joint Venture Management Committee for the 4-Pad Arena Complex
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the Joint Venture Management Committee for the 4-Pad Arena Complex:    a)    the proposed by-law as appended to the staff report dated October 3, 2022 as Appendix “A” BE INTROD...
 
 **✅ Motion Passed (5 to 0)**
@@ -171,6 +173,8 @@ The meeting adjourned at 12:14 PM.
 Unanimous (5-0)
 
 ### 4. Items for Direction
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > That Items 4.1 and 4.2 BE APPROVED.
 
@@ -188,6 +192,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. (ADDED) Application - Issuance of Proclamation - Treaties Recognition Week
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That based on the application dated September 22, 2022 from Oneida Nation of the Thames, November 6 - 12, 2022 BE PROCLAIMED Treaties Recognition Week.
 

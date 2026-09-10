@@ -1037,6 +1037,8 @@ The meeting adjourned at 7:11 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5, inclusive and 2.7 to 2.12, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1044,6 +1046,8 @@ The meeting adjourned at 7:11 PM.
 Unanimous (5-0)
 
 ### 2.6. Application - 1615 North Routledge Park 39T-78066
+
+<a id="motion-2-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, based on the application by Doman Development Inc., relating to the property located on the north side of North Routledge Park, west of Hyde Park Road (1615 North Routledge Park), the Approval Authority BE REQUESTED to approve a t...
 
@@ -1053,6 +1057,8 @@ Unanimous (5-0)
 
 ### 3.1. Delegation - A. Cantell, Vice-Chair,Trees and Forests Advisory Committee - 8th Report of the Trees and Forests Advisory Committee
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That, the following actions be taken with respect to the 8th Report of the Trees and Forests Advisory Committee, from its meeting held on August 28, 2019: a)         the following actions be taken with respect to the draft Tree Protection By-law: i)          that the Civic Administration BE ADVIS...
 
 **✅ Motion Passed (5 to 0)**
@@ -1060,6 +1066,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 3493 Colonel  Talbot Road (OZ-9049)
+
+<a id="motion-3-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2219008 Ontario Ltd, relating to the property located at 3493 Colonel Talbot Road: a)         the proposed by-law appended to the staff report dated September 9, 20...
 
@@ -1076,6 +1084,8 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 3493 Colonel  Talbot Road (OZ-9049)
 
+<a id="motion-3-6-1" class="motion-anchor"></a>
+
 > Motion to refer the application back to the Civic Administration to further consider the following: a)         noise mitigation measures be put in place to mitigate potential noise impacts to all neighbouring properties; b)         the siting of the proposed uses on the site to appropriately miti...
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -1091,6 +1101,8 @@ Unanimous (5-0)
 
 ### 3.8. Public Participation Meeting - Application - 475 and 480 Edgevalley Road (Z-9068)
 
+<a id="motion-3-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the proposed by-law appended to the staff report dated September 9, 2019 BE INTRODUCED at the Municipal Council meeting to be held on September 17, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to: ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1098,6 +1110,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. 8th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 8th Report of the London Advisory Committee on Heritage, from its meeting held on August 15, 2019: a)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the appli...
 

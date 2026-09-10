@@ -599,6 +599,8 @@ Motion
 ### 6. STAFF REPORT - Age
   Friendly London Year Three Progress Report and Impact Assessment
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -608,6 +610,8 @@ Unanimous (6-0)
 
 ### 8. STAFF REPORT -
   Putting Consumers First Act
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -619,6 +623,8 @@ Unanimous (6-0)
 ### 9. DELEGATION - S. Hubbard
   Krimmer, CEO & Chief Librarian, London Public Library
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -628,6 +634,8 @@ Unanimous (6-0)
 
 ### 11. 1st Report of
   Diversity, Inclusion and Anti-Oppression Advisory Committee
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -639,16 +647,7 @@ Unanimous (6-0)
 ### 13. 6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. REQUEST FOR
-  DELEGATION - R. Rowland, 120 Chesterfield Avenue - Amend By-law for Visiting
-  Dogs
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -660,6 +659,21 @@ Unanimous (5-0)
 ### 15. REQUEST FOR
   DELEGATION - R. Rowland, 120 Chesterfield Avenue - Amend By-law for Visiting
   Dogs
+
+<a id="motion-15-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. REQUEST FOR
+  DELEGATION - R. Rowland, 120 Chesterfield Avenue - Amend By-law for Visiting
+  Dogs
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -671,6 +685,8 @@ Unanimous (6-0)
 ### 16. Deferred Matters
   List
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -680,6 +696,8 @@ Unanimous (5-0)
 
 ### 17. (ADDED) 11th Report
   of the Animal Welfare Advisory Committee
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -691,6 +709,8 @@ Unanimous (5-0)
 ### 18. (ADDED) 10th Report
   of the London Housing Advisory Committee
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -700,6 +720,8 @@ Unanimous (5-0)
 
 ### 19. (ADDED) STAFF
   REPORT - Community Diversity and Inclusion Strategy Update
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

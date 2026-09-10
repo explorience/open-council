@@ -534,6 +534,8 @@ The meeting adjourned at 5:42 PM.
 ### 2. 2nd Report of the
   Agricultural Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -544,6 +546,8 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Fibre Optic Grant Program for Downtown London
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -553,6 +557,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT - 
   Asian Long Horned Beetle - Status Update
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -565,6 +571,8 @@ Unanimous (5-0)
   Properties located at 2577, 2583, 2589, 2595, 2599, 2611, 2617, 2621, 2625,
   2629, 2633, 2637, 2641, 2645, 2649, 2653 and 2661 Tokala Trail (H-8742)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -574,6 +582,8 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT - Property
   located at 1198-1212 Commissioners Road West (H-8747)
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -585,6 +595,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT - Property
   located at 905 Sarnia Road (H-8642)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -594,6 +606,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Property
   located at 2946 Bateman Trail (H-8722)
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -606,6 +620,8 @@ Unanimous (5-0)
   located at  2605-2651 Tokala Trail and 1055 and 1075 Fanshawe Park Road West
   (H-8732)
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -616,15 +632,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Proposed Sign By-law and Amendments to Current Sign and Canopy By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. PUBLIC PARTICIPATION
-  MEETING - Southwest Area Secondary Plan Parking Regulations (O-8741)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -636,6 +644,8 @@ Unanimous (5-0)
 ### 11. PUBLIC PARTICIPATION
   MEETING - Southwest Area Secondary Plan Parking Regulations (O-8741)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -645,6 +655,20 @@ Unanimous (5-0)
 
 ### 11. PUBLIC PARTICIPATION
   MEETING - Southwest Area Secondary Plan Parking Regulations (O-8741)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. PUBLIC PARTICIPATION
+  MEETING - Southwest Area Secondary Plan Parking Regulations (O-8741)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -657,16 +681,7 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (SP15-019249)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. PUBLIC
-  PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
-  (SP15-019249)
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -678,6 +693,21 @@ Unanimous (5-0)
 ### 12. PUBLIC
   PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
   (SP15-019249)
+
+<a id="motion-12-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. PUBLIC
+  PARTICIPATION MEETING - Property located at 545 Fanshawe Park Road West
+  (SP15-019249)
+
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

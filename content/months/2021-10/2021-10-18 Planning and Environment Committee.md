@@ -1727,6 +1727,8 @@ Have a nice evening.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3, 2.4 and 2.7 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1734,6 +1736,8 @@ Have a nice evening.
 Unanimous (4-0)
 
 ### 3.2. 1 Commissioners Road East (O-9339/Z-9340)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning & Development, the following actions be taken with respect to the application of One Commissioners Road Inc., relating to the property located at 1 Commissioners Road East: a)    the  proposed by-law appended to the staff report dated October ...
 
@@ -1743,6 +1747,8 @@ Unanimous (5-0)
 
 ### 3.3. 14 Gideon Drive and 2012 Oxford Street West (39T-21501/OZ-9295)
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2515060 & 2539427 Ontario Inc., relating to the property located at 14 Gideon Drive and 2012 Oxford Street West: a)    the proposed by-law appended to the staff...
 
 **✅ Motion Passed (5 to 0)**
@@ -1751,6 +1757,8 @@ Unanimous (5-0)
 
 ### 3.5. Masonville (Final) Secondary Plan (O-8991)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the draft Masonville Secondary Plan: a)    the proposed by-law appended to the staff report dated October 18, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting t...
 
 **✅ Motion Passed (5 to 0)**
@@ -1758,6 +1766,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. 250-272 Springbank Drive (Application for Brownfield CIP Incentives)
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Economic Services and Supports, the following actions be taken with respect to the application by 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    a total expenditure of up to a maximum of $2,895,020 in municipa...
 

@@ -684,6 +684,8 @@ I've been advised that the motion passed. Thank you, everybody. Have a wonderful
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -692,6 +694,8 @@ Unanimous (6-0)
 
 ### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated February 1, 2022, related to a Single Source Award Recommendation for Housing Stability Service Programs including Outreach, Emergency Shelt...
 
 **✅ Motion Passed (6 to 0)**
@@ -699,6 +703,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.1. Single Source Award Recommendation for Housing Stability Service Programs Including Outreach, Emergency Shelter and Housing Stability Bank
+
+<a id="motion-2-1-1" class="motion-anchor"></a>
 
 > Motion to approve the delegation requests from P. Rozeluk, Executive Director, Mission Services of London and J. DeActis, Executive Director, Centre of Hope London.
 

@@ -1173,6 +1173,8 @@ Thank you, everyone, have a great. Motion carries. Thank you, have a great day, 
 
 ### 2.2. Commemorative Naming of Streets and City Assets - Status Update
 
+<a id="motion-2-2-2" class="motion-anchor"></a>
+
 > That the motion be amended to add a new part d) and amend part c) to read as follows: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper Mark Wilson Park and; d)    the Civic Adminis...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1190,6 +1192,8 @@ Thank you, everyone, have a great. Motion carries. Thank you, have a great day, 
 
 ### 2.2. Commemorative Naming of Streets and City Assets - Status Update
 
+<a id="motion-2-2-4" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: c)    the Civic Administration BE DIRECTED to initiate public engagement with the impacted neighbourhood to rename the (former) Paul Haggis Park and (former) Trooper ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1197,6 +1201,8 @@ Thank you, everyone, have a great. Motion carries. Thank you, have a great day, 
 Unanimous (5-0)
 
 ### 2.2. Commemorative Naming of Streets and City Assets - Status Update
+
+<a id="motion-2-2-5" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the report on Commemorative Naming of Streets and City Assets – Status Update: d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.
 
@@ -1214,6 +1220,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.7. Delegation of Authority By-law Update
+
+<a id="motion-2-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated April 30, 2025 as Appendix ‘B’, BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to amend By-law A.-8386-153, being “A by-la...
 

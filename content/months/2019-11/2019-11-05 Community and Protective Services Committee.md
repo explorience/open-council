@@ -302,6 +302,8 @@ The meeting adjourned at 4:43 PM.
 
 ### 4.1. Maintenance of Vacant Properties - Councillor A. Kayabaga
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee, as part of the planned report back in Q1 of 2020, with respect to potential options that may be available to make sure vacant properties, including properties designated under the Ontario...
 
 **✅ Motion Passed (5 to 0)**
@@ -309,6 +311,8 @@ The meeting adjourned at 4:43 PM.
 Unanimous (5-0)
 
 ### 4.2. Request for Support of the Canadian Urban Libraries Council (CULC) e-Content Campaign
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the Mayor BE REQUESTED to call on the Federal Government to: a)            investigate the barriers faced by public libraries in acquiring digital publications and the problems these barriers pose for vulnerable demographic groups in Canada; and, b)            develop a solution that increas...
 

@@ -1086,6 +1086,8 @@ Have a wonderful evening.
 
 ### 3.2. Vehicle for Hire By-law - Amendments/Information Report
 
+<a id="motion-3-2-3" class="motion-anchor"></a>
+
 > Motion to refer the staff report, dated September 12, 2023, with respect to the Vehicle for Hire By-law, back to the Civic Administration.
 
 **❌ Motion Failed (0 to 5)**
@@ -1100,6 +1102,8 @@ Have a wonderful evening.
 </details>
 
 ### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > Motion to approve part c) of the clause.
 
@@ -1118,6 +1122,8 @@ Have a wonderful evening.
 
 ### 4.1. Community and Neighbourhood Safety and Security Concerns Options for Agencies, Staff, Volunteers and those Accessing Services
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > Motion to approve parts a) b) d) and e) of the clause.
 
 **✅ Motion Passed (5 to 0)**
@@ -1126,6 +1132,8 @@ Unanimous (5-0)
 
 ### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the request from members of the Vision SOHO Alliance for funding for soil remediation; it being noted that a conditional grant of $13,876,000 was approved by Council on August 3, 2022 for the Vision SOHO Alliance to provide up to 400 affordable ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1133,6 +1141,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. (ADDED) Request for Funding for Soil Remediation - Vision SoHo (West Block)
+
+<a id="motion-5-1-1" class="motion-anchor"></a>
 
 > Motion to move in camera for advice that is subject to solicitor-client privilege, including communications necessary for that purpose, related to this matter.
 

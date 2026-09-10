@@ -2004,6 +2004,8 @@ passed
 ### 10#2. Length of Council
   and Standing Committee Meetings
 
+<a id="motion-10-2-0" class="motion-anchor"></a>
+
 > At 6:34 PM, Mayor M. Brown places   Councillor A. Hopkins in the Chair and takes a seat at the Council Board.    At 6:39 PM, Mayor M. Brown resumes the   Chair, and Councillor A. Hopkins takes her seat at the Council Board.
 
 **✅ Motion Passed**
@@ -2020,6 +2022,8 @@ passed
 ### 13#2. Extended Leaves of
   Absence
 
+<a id="motion-13-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion
@@ -2030,6 +2034,8 @@ Unanimous (13-0)
 ### 17#2. Oakridge Area New
   Sidewalks 2017 and 2018 - East Mile Road, Oban Crescent, West Mile Road,
   North Mile Road and Green Lane
+
+<a id="motion-17-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the installation of sidewalks on East Mile Road, Oban Crescent,   West Mile Road, North Mile Road, and Green Lane:   a)         curbface   sidewalks BE IMPLEMENTED throughout the Oakridge Acres community,   specifically on East Mile Road, Nort...
 
@@ -2047,6 +2053,8 @@ Unanimous (13-0)
 ### 19#2. Basement Flood
   Grant Program By-law
 
+<a id="motion-19-2-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED   to:   a)         report   back to the Civic Works Committee with a draft proposed by-law to amend By-law   No. A.-7015-285 entitled “A by-law to repeal and replace By-law No.   A.-6403-272 being “A By-law to provide for a City of London Sump Pump, Sewag...
 
 **✅ Motion
@@ -2055,6 +2063,8 @@ Passed**
 Unanimous (13-0)
 
 ### 2#7. 2017 Debenture Issue Update
+
+<a id="motion-2-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer   & Acting City Manager, the following actions be taken with respect to the   2017 debenture issue:   a)         the   issue of serial debentures for a total of $41,000,000 BE AP...
 
@@ -2065,6 +2075,8 @@ Unanimous (13-0)
 ### 3#5. Corporation of The
   City of London - Audit Planning Report for the Year Ending December 31, 2016
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That the KPMG LLP Audit Planning Report,   for the year ending December 31, 2016, BE APPROVED.
 
 **✅ Motion
@@ -2074,6 +2086,8 @@ Unanimous (13-0)
 
 ### 6#3. 2017 Annual
   Warranted Sidewalk Program
+
+<a id="motion-6-3-0" class="motion-anchor"></a>
 
 > Pursuant to section 12.3 of the Council   Procedure Bylaw, Councillor J. Helmer calls for a separate vote on part b) of   clause 6.    The motion to approve parts a) and c) of   clause 6 is put.
 
@@ -2091,6 +2105,8 @@ Unanimous (13-0)
 ### 6#3. 2017 Annual
   Warranted Sidewalk Program
 
+<a id="motion-6-3-1" class="motion-anchor"></a>
+
 > The motion to approve part b) of clause 6 is   put.
 
 **✅ Motion Passed**
@@ -2107,6 +2123,8 @@ Unanimous (13-0)
 ### 6#4. Request for Continuance of the Housing
   Development Corporation, London (HDC) Board Member V. Lui for a Second Term
 
+<a id="motion-6-4-0" class="motion-anchor"></a>
+
 > That on the recommendation of the Housing   Development Corporation, London (HDC) board of Directors, the appointment of   Vivian Lui, for a second term Board Member, Class 3, BE APPROVED, with the   term ending December 31, 2019; it being noted that the information related to   Board application...
 
 **✅ Motion Passed**
@@ -2115,6 +2133,8 @@ Unanimous (13-0)
 
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTH MEETING HELD ON FEBRUARY 14, 2017.
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the Eighth meeting   held on February 14, 2017.
 
@@ -2129,6 +2149,8 @@ Unanimous (12-0)
   Consideration with Clause 2 of the 9th Report of the Corporate Services
   Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2137,6 +2159,8 @@ Unanimous (13-0)
 
 ### 6. 2nd Report of the
   Diversity Inclusivity and Anti-Oppression Advisory Committee
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Approve that clause 6 be amended by   deleting the word "Hate" and by replacing it with the words   "Racial Discrimination".
 
@@ -2147,6 +2171,8 @@ Unanimous (13-0)
 ### 6. 2nd Report of the
   Diversity Inclusivity and Anti-Oppression Advisory Committee
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > Approve clause 6, as amended.
 
 **✅ Motion Passed**
@@ -2156,6 +2182,8 @@ Unanimous (13-0)
 ### 8. Immigration
   Strategy Update
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Housing, Social Services and Dearness Home, the Civic   Administration BE DIRECTED to develop the London Immigration Strategy to   attract and retain newcomers, including international students, foreign   trained professionals, and multigene...
 
 **✅ Motion Passed**
@@ -2164,6 +2192,8 @@ Unanimous (13-0)
 
 ### 17. Request for Naming
   of Vimy Ridge Park
+
+<a id="motion-17-1" class="motion-anchor"></a>
 
 > At 5:41 PM Mayor M. Brown resumes the   Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2181,6 +2211,8 @@ Unanimous (13-0)
 ### 17. Request for Naming
   of Vimy Ridge Park
 
+<a id="motion-17-2" class="motion-anchor"></a>
+
 > The motion to Approve parts a) and b) of   clause 17 is put.
 
 **✅ Motion Passed**
@@ -2189,6 +2221,8 @@ Unanimous (13-0)
 
 ### 17. Request for Naming
   of Vimy Ridge Park
+
+<a id="motion-17-3" class="motion-anchor"></a>
 
 > Approve clause 17, as amended.
 
@@ -2205,6 +2239,8 @@ Unanimous (13-0)
 
 ### 18. Request for
   Renaming Mildred Barons Park to "Vimy Ridge Park"
+
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Motion Passed
 

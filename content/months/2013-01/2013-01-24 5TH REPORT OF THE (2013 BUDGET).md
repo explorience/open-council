@@ -1421,6 +1421,8 @@ The
 ### 2. 2013 Budget -
   Summary of Public Input.
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Voting   Record:   Motion   Passed
 
 **✅ Motion
@@ -1430,20 +1432,7 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
-> 
-
-**❌ **
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 3. Corporate Operating Budget
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > 
 
@@ -1459,6 +1448,25 @@ Unanimous (14-0)
 </details>
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-2" class="motion-anchor"></a>
+
+> 
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Stephen Orser](/councillors/former/s-orser), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Judy Bryant](/councillors/former/j-p-bryant), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 3. Corporate Operating Budget
+
+<a id="motion-3-3" class="motion-anchor"></a>
 
 > 
 
@@ -1475,13 +1483,7 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
-> 
-
-**❌ **
-
-Unanimous (14-0)
-
-### 3. Corporate Operating Budget
+<a id="motion-3-4" class="motion-anchor"></a>
 
 > 
 
@@ -1490,6 +1492,18 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-6" class="motion-anchor"></a>
+
+> 
+
+**❌ **
+
+Unanimous (14-0)
+
+### 3. Corporate Operating Budget
+
+<a id="motion-3-7" class="motion-anchor"></a>
 
 > 
 
@@ -1499,6 +1513,8 @@ Unanimous (15-0)
 
 ### 3. Corporate Operating Budget
 
+<a id="motion-3-8" class="motion-anchor"></a>
+
 > 
 
 **❌ **
@@ -1507,13 +1523,7 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
-> 
-
-**❌ **
-
-Unanimous (12-0)
-
-### 3. Corporate Operating Budget
+<a id="motion-3-9" class="motion-anchor"></a>
 
 > 
 
@@ -1522,6 +1532,18 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-10" class="motion-anchor"></a>
+
+> 
+
+**❌ **
+
+Unanimous (12-0)
+
+### 3. Corporate Operating Budget
+
+<a id="motion-3-11" class="motion-anchor"></a>
 
 > 
 
@@ -1531,6 +1553,8 @@ Unanimous (15-0)
 
 ### 3. Corporate Operating Budget
 
+<a id="motion-3-12" class="motion-anchor"></a>
+
 > 
 
 **❌ **
@@ -1538,6 +1562,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-13" class="motion-anchor"></a>
 
 > 
 
@@ -1554,6 +1580,8 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
+<a id="motion-3-14" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1569,20 +1597,7 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
-> 
-
-**❌ **
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
-
-**Nay (4):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Judy Bryant](/councillors/former/j-p-bryant)
-
-</details>
-
-### 3. Corporate Operating Budget
+<a id="motion-3-15" class="motion-anchor"></a>
 
 > 
 
@@ -1598,6 +1613,25 @@ Unanimous (14-0)
 </details>
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-16" class="motion-anchor"></a>
+
+> 
+
+**❌ **
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Joni Baechler](/councillors/former/j-l-baechler), [Nancy Branscombe](/councillors/former/n-branscombe), [Dale Henderson](/councillors/former/d-g-henderson), [Bud Polhill](/councillors/former/b-polhill), [Sandy White](/councillors/former/s-white), [Denise Brown](/councillors/former/d-brown)
+
+**Nay (4):** [Harold Usher](/councillors/former/h-l-usher), [Joe Fontana](/councillors/former/j-f-fontana), [Joe Swan](/councillors/former/j-b-swan), [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 3. Corporate Operating Budget
+
+<a id="motion-3-17" class="motion-anchor"></a>
 
 > 
 
@@ -1614,6 +1648,8 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
+<a id="motion-3-18" class="motion-anchor"></a>
+
 > 
 
 **❌ **
@@ -1629,13 +1665,7 @@ Unanimous (14-0)
 
 ### 3. Corporate Operating Budget
 
-> 
-
-**❌ **
-
-Unanimous (15-0)
-
-### 3. Corporate Operating Budget
+<a id="motion-3-19" class="motion-anchor"></a>
 
 > 
 
@@ -1644,6 +1674,18 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 3. Corporate Operating Budget
+
+<a id="motion-3-20" class="motion-anchor"></a>
+
+> 
+
+**❌ **
+
+Unanimous (15-0)
+
+### 3. Corporate Operating Budget
+
+<a id="motion-3-21" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1660,6 +1702,8 @@ Unanimous (15-0)
 
 ### 3. Corporate Operating Budget
 
+<a id="motion-3-5" class="motion-anchor"></a>
+
 > 
 
 **❌ **
@@ -1668,6 +1712,8 @@ Unanimous (12-0)
 
 ### 4. CORPORATE CAPITAL
   BUDGET
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > 
 
@@ -1685,6 +1731,8 @@ Unanimous (12-0)
 ### 4. CORPORATE CAPITAL
   BUDGET
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1694,6 +1742,8 @@ Unanimous (15-0)
 ### 4. CORPORATE CAPITAL
   BUDGET
 
+<a id="motion-4-2" class="motion-anchor"></a>
+
 > Voting Record:   Motion Passed
 
 **✅ Motion Passed**
@@ -1702,6 +1752,8 @@ Unanimous (13-0)
 
 ### 4. CORPORATE CAPITAL
   BUDGET
+
+<a id="motion-4-3" class="motion-anchor"></a>
 
 > Voting Record:   Motion Passed
 
@@ -1718,6 +1770,8 @@ Unanimous (13-0)
 
 ### 4. CORPORATE CAPITAL
   BUDGET
+
+<a id="motion-4-4" class="motion-anchor"></a>
 
 > Voting   Record:   Motion   Passed
 
@@ -1736,6 +1790,8 @@ Unanimous (13-0)
 ### 4. CORPORATE CAPITAL
   BUDGET
 
+<a id="motion-4-5" class="motion-anchor"></a>
+
 > Voting Record:   Motion Passed
 
 **✅ Motion Passed**
@@ -1751,6 +1807,8 @@ Unanimous (13-0)
 
 ### 4. CORPORATE CAPITAL
   BUDGET
+
+<a id="motion-4-6" class="motion-anchor"></a>
 
 > Voting Record:   Motion Passed
 
@@ -1768,6 +1826,8 @@ Unanimous (13-0)
 ### 4. CORPORATE CAPITAL
   BUDGET
 
+<a id="motion-4-7" class="motion-anchor"></a>
+
 > Voting Record   Motion   Passed
 
 **✅ Motion
@@ -1784,6 +1844,8 @@ Unanimous (13-0)
 
 ### 4. CORPORATE CAPITAL
   BUDGET
+
+<a id="motion-4-8" class="motion-anchor"></a>
 
 > Motion Passed
 

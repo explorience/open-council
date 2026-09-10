@@ -493,6 +493,8 @@ Motion carries. Thank you everyone and have a wonderful day.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

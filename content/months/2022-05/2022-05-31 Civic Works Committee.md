@@ -199,6 +199,8 @@ Congratulations Chair. Couldn't do it without you. Wow.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, and 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

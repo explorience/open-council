@@ -250,15 +250,7 @@ The Corporate Services Committee convened
 ### 2. City-Initiated
   Assessment Appeals
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 3. Tax Adjustment
-  Agenda
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -270,6 +262,8 @@ Unanimous (4-0)
 ### 3. Tax Adjustment
   Agenda
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -279,6 +273,20 @@ Unanimous (4-0)
 
 ### 3. Tax Adjustment
   Agenda
+
+<a id="motion-3-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 3. Tax Adjustment
+  Agenda
+
+<a id="motion-3-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -290,6 +298,8 @@ Unanimous (4-0)
 ### 4. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 extra Members at Large)
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -303,6 +313,8 @@ Unanimous (3-0)
   Committee (Requires 1 Voting Representative from Neighbourhood Watch
   London)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -313,6 +325,8 @@ Unanimous (4-0)
 ### 6. Standing Committees
   and Forums - Federation of Canadian Municipalities - Councillor T. Park
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -322,6 +336,8 @@ Unanimous (4-0)
 
 ### 7. Standing Committees
   and Forums - Federation of Canadian Municipalities - Councillor J. Helmer
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -523,6 +523,8 @@ The meeting adjourned at 6:56 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That all items except items 2.6, 2.7 and 2.10, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -530,6 +532,8 @@ The meeting adjourned at 6:56 PM.
 Unanimous (5-0)
 
 ### 2.6. Area Speed Limit
+
+<a id="motion-2-6-1" class="motion-anchor"></a>
 
 > That, the Civic Administration BE REQUESTED to report back at a future meeting of the Civic Works Committee no later then the end of Q3 of 2019 with respect to enacting tools now provided by the Province through Bill 65, specifically: a)      reducing the speed limit in community safety zones in ...
 
@@ -546,6 +550,8 @@ Unanimous (5-0)
 
 ### 2.10. Greenway Wastewater Treatment Plant Organic Rankine Cycle Equipment Installation Budget Allocation
 
+<a id="motion-2-10-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director of Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the installation of an Organic Rankine Cycle system (ORC) at Greenway Wastewater Treatment Plant: a)    a capital project BE APPROVED to...
 
 **✅ Motion Passed (6 to 0)**
@@ -554,6 +560,8 @@ Unanimous (6-0)
 
 ### 3.1. One River Master Plan Environmental Assessment - Notice of Completion
 
+<a id="motion-3-1-1" class="motion-anchor"></a>
+
 > That R. Huber BE GRANTED delegation status with respect to the One River Master Plan Environmental Assessment-Notice of Completion.
 
 **✅ Motion Passed (6 to 0)**
@@ -561,6 +569,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.1. One River Master Plan Environmental Assessment - Notice of Completion
+
+<a id="motion-3-1-2" class="motion-anchor"></a>
 
 > c) the following actions be taken with respect to preferred Alternative 2, Back to the River as outlined in the staff report dated May 14, 2019: i)       the Alternative 2 for the Back to the River inaugural project at the Forks of the Thames, as included in the staff report dated May 14, 2019 BE...
 
@@ -577,6 +587,8 @@ Unanimous (6-0)
 
 ### 3.1. One River Master Plan Environmental Assessment - Notice of Completion
 
+<a id="motion-3-1-3" class="motion-anchor"></a>
+
 > part a)  the following action be taken with respect to the preferred Alternative 3 for the One River Master Plan: i)          the above-noted alternative BE ACCEPTED in accordance with the Master Plan Environmental Assessment process requirements;
 
 **✅ Motion Passed (4 to 2) 🔥**
@@ -592,6 +604,8 @@ Unanimous (6-0)
 
 ### 3.1. One River Master Plan Environmental Assessment - Notice of Completion
 
+<a id="motion-3-1-4" class="motion-anchor"></a>
+
 > part a) ii)            the Civic Administration BE DIRECTED to bring forward, as part of the multi-year budget process, an additional business case(s) that will provide for options related to full removal or partial removal related to the Springbank Dam
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -606,6 +620,8 @@ Unanimous (6-0)
 </details>
 
 ### 3.1. One River Master Plan Environmental Assessment - Notice of Completion
+
+<a id="motion-3-1-5" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the One River Master Plan Environmental Assessment: b)       the preferred Alternative 2 for the decommissioning of Springbank Dam BE ACCE...
 

@@ -1036,15 +1036,7 @@ Motion
 ### 2. City Manager -
   Strategic Plan Progress Report
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 3. 2013 Council
-  Compensation Review Task Force
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1055,6 +1047,20 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 3. 2013 Council
+  Compensation Review Task Force
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion Failed, thereby making the related   recommendations to adjust the Mayor’s and Council Members’ stipends to a   level to reflect the elimination of the 1/3 tax free allowance with   maintaining the equivalent after tax annual income redundant.
 
@@ -1072,6 +1078,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-2" class="motion-anchor"></a>
+
 > Recommendation:  That the Councillors’   annual stipend in effect on November 30, 2014 BE INCREASED on December 1,   2014 by $1,249 to reflect the recommended elimination of the standing   committee chair stipend, with the increase to be applied after the adjustment   to compensate for the elimin...
 
 **❌ Motion Failed 🔥**
@@ -1087,6 +1095,8 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-3" class="motion-anchor"></a>
 
 > Motion Failed, thereby making the   recommendation to increase the Council Members’ annual stipend in effect on   November 30, 2014 by $1,249 to reflect the elimination of the additional   stipend to Standing Committee Chairs redundant.
 
@@ -1104,6 +1114,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1120,6 +1132,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-5" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1129,6 +1143,8 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-6" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1147,6 +1163,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-7" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1164,6 +1182,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-8" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1173,6 +1193,8 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-9" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1191,6 +1213,8 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
+<a id="motion-3-10" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1207,6 +1231,8 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-11" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1225,15 +1251,7 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 3. 2013 Council
-  Compensation Review Task Force
+<a id="motion-3-12" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1245,15 +1263,7 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 3. 2013 Council
-  Compensation Review Task Force
+<a id="motion-3-13" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1265,15 +1275,7 @@ Unanimous (15-0)
 ### 3. 2013 Council
   Compensation Review Task Force
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 3. 2013 Council
-  Compensation Review Task Force
+<a id="motion-3-14" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1284,6 +1286,44 @@ Unanimous (15-0)
 
 ### 3. 2013 Council
   Compensation Review Task Force
+
+<a id="motion-3-15" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 3. 2013 Council
+  Compensation Review Task Force
+
+<a id="motion-3-16" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 3. 2013 Council
+  Compensation Review Task Force
+
+<a id="motion-3-17" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 3. 2013 Council
+  Compensation Review Task Force
+
+<a id="motion-3-18" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1296,6 +1336,8 @@ Unanimous (15-0)
   Environmental and Engineering Services and City Engineer - Tabling of the
   2014 Water and Wastewater Budgets
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1307,6 +1349,8 @@ Unanimous (14-0)
   Corporate Services and City Treasurer, Chief Financial Officer - Proposed
   Public Education, Dialogue and Consultation Plan for Future of London Hydro
   Inc.
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1327,6 +1371,8 @@ Unanimous (14-0)
   Public Education, Dialogue and Consultation Plan for Future of London Hydro
   Inc.
 
+<a id="motion-5-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1345,6 +1391,8 @@ Unanimous (14-0)
   Corporate Services and City Treasurer, Chief Financial Officer - Proposed
   Public Education, Dialogue and Consultation Plan for Future of London Hydro
   Inc.
+
+<a id="motion-5-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1365,6 +1413,8 @@ Unanimous (14-0)
   Development Charges Study: Proposed Changes to Development Charges
   Non-Residential Building Conversion and Demolition Policies
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1376,6 +1426,8 @@ Unanimous (14-0)
   Centre Board of Directors - Appointment Recommendations for the London
   Convention Centre Board of Directors
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1386,6 +1438,8 @@ Unanimous (14-0)
 ### 8. S. Pineda -
   Resignation from the Covent Garden Market Corporation Board of Directors
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1395,6 +1449,8 @@ Unanimous (14-0)
 
 ### 9. Shine the Light Purple for the Month of
   November 2014
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -812,6 +812,8 @@ The meeting adjourned at 8:07 PM
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2019
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That Councillor M. Cassidy BE ELECTED Vice-Chair of the Planning and Environment Committee for the term ending November 30, 2019.
 
 **✅ Motion Passed (5 to 0)**
@@ -819,6 +821,8 @@ The meeting adjourned at 8:07 PM
 Unanimous (5-0)
 
 ### 2. Consent
+
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > That Items 2.2 to 2.9, inclusive, BE APPROVED.
 
@@ -828,6 +832,8 @@ Unanimous (5-0)
 
 ### 2.1. Application - 800 Sunningdale Road West - Request for a Three (3) Year Extension of Draft Plan of Subdivision Approval 39T-05508
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Senior Planner, Development Services, the following actions be taken with respect to the request from Sunningdale Golf Club Limited, for the property located at 800 Sunningdale Road West: a)            the Approval Authority BE ADVISED that  the Municipal Counci...
 
 **✅ Motion Passed (4 to 0)**
@@ -835,6 +841,8 @@ Unanimous (5-0)
 Unanimous (4-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 12th Report of the Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 12th Report of the Environmental and Ecological Planning Advisory Committee from its meeting held on November 15, 2018: a)            that the following actions be taken with respect to Wilton Grove Road reconstruction, from Commerce Road t...
 
@@ -844,6 +852,8 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - 446 York Street (Z-8971)
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by the Middlesex-London Health Unit/Regional HIV/AIDS Connection, relating to the property located at 446 York Street, the proposed by-law appended to the staff report dated December 10, 2018...
 
 **✅ Motion Passed (4 to 0)**
@@ -851,6 +861,8 @@ Unanimous (5-0)
 Unanimous (4-0)
 
 ### 4.1. Request for Delegation Status - J. P. Plutino, Mainline Planning Services Inc. - 6188 Colonal Talbot Road
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That J. Plutino, Mainline Planning Services, Inc., BE GRANTED delegation status at the January 21, 2019 Planning and Environment Committee meeting with respect to the property located at 6188 Colonel Talbot Road.
 
@@ -860,6 +872,8 @@ Unanimous (5-0)
 
 ### 5. Deferred Matters/Additional Business
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Approve Items 5.2 and 5.3.
 
 **✅ Motion Passed (5 to 0)**
@@ -867,6 +881,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. PEC Deferred Matters List
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

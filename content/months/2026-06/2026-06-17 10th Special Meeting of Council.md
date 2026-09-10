@@ -727,6 +727,8 @@ Okay, that concludes the confirmation by-law. I only have a motion to adjourn la
 
 ### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
 
+<a id="motion-6-1-1" class="motion-anchor"></a>
+
 > That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17, 2026, to permit members to speak more than once to a motion.
 
 **❌ Motion Failed (9 to 4)**
@@ -743,6 +745,8 @@ Okay, that concludes the confirmation by-law. I only have a motion to adjourn la
 </details>
 
 ### 6.1. Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+
+<a id="motion-6-1-3" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program: b)    the Civic Administration BE DIRECTED to submit an application for t...
 

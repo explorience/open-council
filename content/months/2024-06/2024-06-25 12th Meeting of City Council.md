@@ -3428,6 +3428,8 @@ All those in favor of adjournment? Motion carries. All right we're adjourned tha
 
 ### 8.1. 9th Report of the Civic Works Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 9th Report of the Civic Works Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3436,6 +3438,8 @@ Unanimous (14-0)
 
 ### 8.2. 11th Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 3 (2.2) and 7 (4.1).
 
 **✅ Motion Passed (14 to 0)**
@@ -3443,6 +3447,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.2.3. (2.2) Master Accommodation Plan - Redevelopment of City Hall Campus
+
+<a id="motion-8-2-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports with the concurrence of the City Manager, the following actions be taken with respect to the Master Accommodation Plan: a)    the report dated June 18, 2024, titled “Master Accommodation Plan – Redevelopment of City Hall Cam...
 
@@ -3461,6 +3467,8 @@ Unanimous (14-0)
 
 ### 8.2.3. (2.2) Master Accommodation Plan - Redevelopment of City Hall Campus
 
+<a id="motion-8-2-3-2" class="motion-anchor"></a>
+
 > That Council rise and go into Council, In Closed Session, for the purpose of considering the following: (ADDED) Solicitor-Client Privilege A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose with respect to the Master Ac...
 
 **✅ Motion Passed (10 to 4)**
@@ -3477,6 +3485,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.3. (2.2) Master Accommodation Plan - Redevelopment of City Hall Campus
+
+<a id="motion-8-2-3-3" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the report dated June 18, 2024, titled “Master Accommodation Plan – Redevelopment of City Hall Campus:  a)  items b) and c) BE REFERRED to the September 17, 2024 meeting of the Strategic Priorities and Policy Committee meeting for consideration:...
 
@@ -3495,6 +3505,8 @@ Unanimous (14-0)
 
 ### 8.2.3. (2.2) Master Accommodation Plan - Redevelopment of City Hall Campus
 
+<a id="motion-8-2-3-4" class="motion-anchor"></a>
+
 > Motion to approve the following: b)    that any further action relating to expanding the existing City Hall onto the adjacent campus lands BE DEFERRED until: ii)    any unsolicited proposals that have been formally received by the City prior to this Council meeting of June 25, 2024 are evaluated ...
 
 **❌ Motion Failed (4 to 10)**
@@ -3511,6 +3523,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.2.7. (4.1) London's Health & Homelessness Whole of Community System Response - Proposed Community Encampment Response Plan
+
+<a id="motion-8-2-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, that the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Community Encampment Response Plan report:    a)   the “The Saving Lives, Allev...
 
@@ -3529,6 +3543,8 @@ Unanimous (14-0)
 
 ### 8.3. 10th Report of the Planning and Environment Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Planning and Environment Committee BE APPROVED with the exception of items 3 (2.2), 6 (2.4), 13 (3.7), 14 (3.8), and 15 (3.9).
 
 **✅ Motion Passed (14 to 0)**
@@ -3536,6 +3552,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.6. (2.4) Heritage Alteration Permit Application – 332 St. James Street – Bishop Hellmuth Heritage Conservation District (HAP23-107-L)
+
+<a id="motion-8-3-6-0" class="motion-anchor"></a>
 
 > That the Heritage Alteration Permit application under Section 42 of the Ontario Heritage Act relating to the property located at 332 St. James Street BE APPROVED; it being noted that the Planning and Environment Committee heard a verbal delegation from G. Keene, with respect to these matters; it ...
 
@@ -3554,6 +3572,8 @@ Unanimous (14-0)
 
 ### 8.3.13. (3.7) 735 Southdale Road West (OZ-9567) (Relates to Bills No. 218 and 234)
 
+<a id="motion-8-3-13-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 735 Southdale Road West: a)    the proposed attached, revised by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2024,  to amen...
 
 **✅ Motion Passed (12 to 2)**
@@ -3570,6 +3590,8 @@ Unanimous (14-0)
 </details>
 
 ### 8.3.14. (3.8) 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416) (Relates to Bills No. 219 and 235)
+
+<a id="motion-8-3-14-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sam Katz Holdings Inc., relating to the properties located at 323 Oxford Street West, 92 and 825 Proudfoot Lane: a)    the proposed by-law appended to the staff...
 
@@ -3588,6 +3610,8 @@ Unanimous (14-0)
 
 ### 8.3.15. (3.9) Draft Land Needs Assessment of The London Plan (O-9595) (Relates to Bill No. 220)
 
+<a id="motion-8-3-15-0" class="motion-anchor"></a>
+
 > That, the following actions be taken with respect to the Sections 17(22) of the Planning Act, R.S.O. 1990, c. P.13 and section 26 Official Plan Review of The London Plan and Land Needs Assessment, as amended: a)    the proposed attached, revised by-law as Schedules 3 to 10, in Appendix "A" and re...
 
 **✅ Motion Passed (13 to 1)**
@@ -3605,6 +3629,8 @@ Unanimous (14-0)
 
 ### 8.3.15. (3.9) Draft Land Needs Assessment of The London Plan (O-9595) (Relates to Bill No. 220)
 
+<a id="motion-8-3-15-1" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to include reference to section 17(22) of the of the Planning Act, R.S.O. 1990, c. P.13.
 
 **✅ Motion Passed (14 to 0)**
@@ -3612,6 +3638,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.15. (3.9) Draft Land Needs Assessment of The London Plan (O-9595) (Relates to Bill No. 220)
+
+<a id="motion-8-3-15-2" class="motion-anchor"></a>
 
 > Motion to approve the following: e)    the Civic Administration BE DIRECTED to engage a third -party economic consultant to undertake a housing supply marketplace analysis, including engagement with the Housing Supply Reference Group and a review of the Vacant Lands Inventory, and provide recomme...
 
@@ -3630,6 +3658,8 @@ Unanimous (14-0)
 
 ### 8.3.15. (3.9) Draft Land Needs Assessment of The London Plan (O-9595) (Relates to Bill No. 220)
 
+<a id="motion-8-3-15-3" class="motion-anchor"></a>
+
 > That pursuant to section 11.10 of the Council Procedure By-law, Council BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (14 to 0)**
@@ -3637,6 +3667,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.15. (3.9) Draft Land Needs Assessment of The London Plan (O-9595) (Relates to Bill No. 220)
+
+<a id="motion-8-3-15-4" class="motion-anchor"></a>
 
 > Motion to approve the following: d)    notwithstanding the Council-approved corporate growth projections for 2021-2051, the 2023 Ministry of Finance population projections BE ENDORSED for use as the basis for the Land Needs Assessment of The London Plan and Urban Growth Boundary Review, subject t...
 
@@ -3655,6 +3687,8 @@ Unanimous (14-0)
 
 ### 8.4. 11th Report of the Corporate Services Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Corporate Services Committee BE APPROVED with the exception of item 5 (2.1)
 
 **✅ Motion Passed (14 to 0)**
@@ -3662,6 +3696,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.4.5. (2.1) Declare Surplus - City-Owned Property - Part of Pine Street
+
+<a id="motion-8-4-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to City-owned property, the following actions be taken:    a)    the subject property being a portion of Pine Street, in the City of London, legally described as ...
 
@@ -3671,6 +3707,8 @@ Unanimous (13-0)
 
 ### 8.5. 8th Report of the Community and Protective Services Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 8th Report of the Community and Protective Services Committee BE APPROVED with the exception of item 5 (2.4)
 
 **✅ Motion Passed (14 to 0)**
@@ -3678,6 +3716,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 8.5.5. (2.4) Housing Stability for All Plan 2023 Update
+
+<a id="motion-8-5-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, and with the concurrence of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated June 10, 2024, related to the Housing Stability for...
 
@@ -3687,6 +3727,8 @@ Unanimous (14-0)
 
 ### 8.6. 2nd Report of the Audit Committee
 
+<a id="motion-8-6-0" class="motion-anchor"></a>
+
 > That the 2nd Report of the Audit Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3694,6 +3736,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 13. By-laws
+
+<a id="motion-13-3" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No.'s 219, 234, and 235 BE APPROVED
 
@@ -3712,6 +3756,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Second Reading of Bill No.'s 219, 234, and 235 BE APPROVED
 
 **✅ Motion Passed (11 to 1)**
@@ -3728,6 +3774,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-5" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No.'s 219, 234, and 235 BE APPROVED
 

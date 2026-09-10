@@ -698,6 +698,8 @@ The
 ### 2. Election of Vice
   Chair for the term ending November 30, 2015
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -707,6 +709,8 @@ Unanimous (5-0)
 
 ### 3. 11th Report of the
   Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -718,6 +722,8 @@ Unanimous (5-0)
 ### 4. 9th Report of the
   Trees and Forests Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -727,6 +733,8 @@ Unanimous (5-0)
 
 ### 5. 1st Report of the
   Advisory Committee on the Environment
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -738,6 +746,8 @@ Unanimous (5-0)
 ### 6. Byron Pits
   Secondary Plan - Terms of Reference (O-8434)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -747,6 +757,8 @@ Unanimous (5-0)
 
 ### 7. Candidate Approval
   for the Urban Design Peer Review Panel
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -758,6 +770,8 @@ Unanimous (5-0)
 ### 8. Property located at
   1235 Eagletrace Drive (H-8415)
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -767,6 +781,8 @@ Unanimous (5-0)
 
 ### 9. Amendment to By-law
   CP-2 - Expansion of London Downtown Business Association Improvement Area
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -779,6 +795,8 @@ Unanimous (3-0)
   at 1400 & 1440 North Wenige Drive (Portion of Blocks 112 and 113 in Plan
   33M-631) (P-8205)
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -788,6 +806,8 @@ Unanimous (5-0)
 
 ### 11. Building Division
   Monthly Report for October 2014
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -799,15 +819,7 @@ Unanimous (5-0)
 ### 12. General Orientation
   - Key Committee Matters
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Property located on
-  a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -819,6 +831,8 @@ Unanimous (5-0)
 ### 13. Property located on
   a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -829,6 +843,20 @@ Unanimous (5-0)
 ### 13. Property located on
   a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
 
+<a id="motion-13-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Property located on
+  a portion of 530 Sunningdale Road East (Lot 99, 39T-05510) (Z-8429)
+
+<a id="motion-13-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -839,15 +867,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Properties located
-  at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -858,6 +878,20 @@ Unanimous (5-0)
 
 ### 14. Properties located
   at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
+
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Properties located
+  at 300 Colborne Street and 405-411 Bathurst Street (Z-8411)
+
+<a id="motion-14-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -869,15 +903,7 @@ Unanimous (5-0)
 ### 15. Property located at
   711 Oxford Street West (Z-8414)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Property located at
-  711 Oxford Street West (Z-8414)
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -889,6 +915,20 @@ Unanimous (5-0)
 ### 15. Property located at
   711 Oxford Street West (Z-8414)
 
+<a id="motion-15-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Property located at
+  711 Oxford Street West (Z-8414)
+
+<a id="motion-15-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -899,15 +939,7 @@ Unanimous (5-0)
 ### 16. Property located on
   a portion of 120 Gideon Drive (OZ-8365)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 16. Property located on
-  a portion of 120 Gideon Drive (OZ-8365)
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -918,6 +950,20 @@ Unanimous (5-0)
 
 ### 16. Property located on
   a portion of 120 Gideon Drive (OZ-8365)
+
+<a id="motion-16-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 16. Property located on
+  a portion of 120 Gideon Drive (OZ-8365)
+
+<a id="motion-16-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

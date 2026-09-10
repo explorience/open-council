@@ -2064,6 +2064,8 @@ Motion carries.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -2071,6 +2073,8 @@ Motion carries.
 Unanimous (6-0)
 
 ### 3.1. 15 Capulet Walk (O-25061)
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Paul Kitson relating to the property located at 15 Capulet Walk, the proposed by-law as appended to the staff report dated July 15, 2025, as Appendix "A" BE INTR...
 
@@ -2087,6 +2091,8 @@ Unanimous (6-0)
 
 ### 3.2. 555 - 559 & 567 Commissioners Road West (Z-25058)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Tricar Properties Ltd. (c/o Siv-ik Planning and Design) relating to the properties located at 555-559 & 567 Commissioners Rd W: a)    the proposed by-law as app...
 
 **✅ Motion Passed (6 to 0)**
@@ -2094,6 +2100,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.3. 1658-1678 Evangeline Street (Z-25049)
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following action be taken with respect to the application of Younger Homes Holding Inc. (c/o Monteith Brown Planning Consultants) relating to the properties located at 1658-1678 Evangeline Street, the proposed by-law as ap...
 
@@ -2103,6 +2111,8 @@ Unanimous (6-0)
 
 ### 3.7. 1225 Wonderland Road North (OZ-25050)
 
+<a id="motion-3-7-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Canadian Commercial Development (c/o Zelinka Priamo Ltd.) relating to the property located at 1225 Wonderland Road North: a)    the proposed by-law as appended ...
 
 **✅ Motion Passed (6 to 0)**
@@ -2111,6 +2121,8 @@ Unanimous (6-0)
 
 ### 3.8. 6309 Pack Road (39T-25502/OZ-25023)
 
+<a id="motion-3-8-3" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to include a new part d) iv) that reads as follows:     iv) an updated shadow study for each block as it develops to assess and further minimize potential impacts on surrounding properties.
 
 **✅ Motion Passed (6 to 0)**
@@ -2118,6 +2130,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.8. 6309 Pack Road (39T-25502/OZ-25023)
+
+<a id="motion-3-8-4" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 

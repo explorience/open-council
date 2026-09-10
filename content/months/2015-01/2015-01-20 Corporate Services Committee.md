@@ -215,6 +215,8 @@ The Corporate Services Committee convened
   for 2015, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -227,6 +229,8 @@ Unanimous (5-0)
   Organization, Ontario Ministry of Government and Consumer Services Smart
   Consumption Agreement #OSS - 00419472)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -237,6 +241,8 @@ Unanimous (5-0)
 ### 4. Residential Tax
   By-law for New Affordable Housing Program - Project at 753 Dundas Street
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -246,6 +252,8 @@ Unanimous (5-0)
 
 ### 5. 2015 General
   Insurance Renewal
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -258,6 +266,8 @@ Unanimous (5-0)
   Designation of the "I Heart Reggae" Celebration as a Municipally Significant
   Event
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -267,6 +277,8 @@ Unanimous (5-0)
 
 ### 7. City-Owned
   Billboards
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -3459,6 +3459,8 @@ The meeting adjourns at 9:59 PM.
 
 ### 8.2. 11th Report of the Planning and Environment Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Planning & Environment Committee BE APPROVED, excluding items 8 (2.2), 13 (3.2) and 23 (5.1).
 
 **✅ Motion Passed (13 to 0)**
@@ -3467,6 +3469,8 @@ Unanimous (13-0)
 
 ### 8.3. 10th Report of the Community and Protective Services Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 14 (2.1), 17 (4.1) and 18 (4.2).
 
 **✅ Motion Passed (12 to 0)**
@@ -3474,6 +3478,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 8.3.17. (4.1) 5th Report of the Accessibility Advisory Committee
+
+<a id="motion-8-3-17-0" class="motion-anchor"></a>
 
 > The motion to approve part e) of Item 17, relating to the 5th Report of the ACCAC is put. e)            the following recommendation of the ACCAC BE REFERRED to the next meeting of the CPSC for consideration: "the Managing Director, Corporate Services and City Solicitor BE REQUESTED to seek a leg...
 
@@ -3490,6 +3496,8 @@ Unanimous (12-0)
 
 ### 8.3.17. (4.1) 5th Report of the Accessibility Advisory Committee
 
+<a id="motion-8-3-17-1" class="motion-anchor"></a>
+
 > That the following part e), BE RECEIVED, with no further action to be taken: e)            the following recommendation of the ACCAC BE RECEIVED and NO FURTHER ACTION TAKEN with respect to this matter: "the Managing Director, Corporate Services and City Solicitor BE REQUESTED to seek a legal opin...
 
 **✅ Motion Passed (10 to 3)**
@@ -3505,6 +3513,8 @@ Unanimous (12-0)
 
 ### 8.3.18. (4.2) Middlesex-London Health Unit Office Space Fit-up Funding Request
 
+<a id="motion-8-3-18-0" class="motion-anchor"></a>
+
 > That the communication, dated June 18, 2018, from Dr. C. Mackie, Medical Officer of Heath/CEO from the Middlesex-London Heath Unit, with respect to the Middlesex-London Heath Unit office space fit-up funding request, BE REFERRED to the next meeting of the Community and Protective Services Committ...
 
 **✅ Motion Passed (12 to 0)**
@@ -3512,6 +3522,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 8.4. 13th Report of the Corporate Services Committee
+
+<a id="motion-8-4-0" class="motion-anchor"></a>
 
 > That the 13th Report of the Corporate Services Committee BE APPROVED.
 
@@ -3521,6 +3533,8 @@ Unanimous (13-0)
 
 ### 9.1. 13th Report of Council In Closed Session
 
+<a id="motion-9-1-0" class="motion-anchor"></a>
+
 > 1.            Property Acquisition – Bus Rapid Transit Project – 78 Oxford Street West That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, with the concurrence of the Managing Director of Environmental and Engineering Services and ...
 
 **✅ Motion Passed (10 to 0)**
@@ -3529,6 +3543,8 @@ Unanimous (10-0)
 
 ### 9.2. 2nd Report of the Audit Committee
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > Approve the 2nd Report of the Audit Committee.
 
 **✅ Motion Passed (13 to 0)**
@@ -3536,6 +3552,8 @@ Unanimous (10-0)
 Unanimous (13-0)
 
 ### 9.3. 8th Report of the Strategic Priorities and Policy Committee
+
+<a id="motion-9-3-0" class="motion-anchor"></a>
 
 > That the following items from the 8th Report of the Strategic Priorities and Policy Committee BE REFERRED to the July 24, 2018 meeting of the Municipal Council to provide the members of the public an opportunity to review the items prior to Municipal Council's consideration: 2.1 - 2019 Budget Sch...
 
@@ -3552,6 +3570,8 @@ Unanimous (13-0)
 
 ### 9.3.4. (2.3)  Free of Fear Services for All Policy
 
+<a id="motion-9-3-4-1" class="motion-anchor"></a>
+
 > 
 
 **✅ Motion Passed (13 to 0)**
@@ -3560,6 +3580,8 @@ Unanimous (13-0)
 
 ### 9.3.4. (2.3)  Free of Fear Services for All Policy
 
+<a id="motion-9-3-4-2" class="motion-anchor"></a>
+
 > That parts a), b) and c), as amended, BE APPROVED: That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to London adopting a Free of Fear Services for All Policy: a)            the commitment to ensuring acce...
 
 **✅ Motion Passed (13 to 0)**
@@ -3567,6 +3589,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 9.3.4. (2.3)  Free of Fear Services for All Policy
+
+<a id="motion-9-3-4-3" class="motion-anchor"></a>
 
 > That part d) BE APPROVED: d)            the Civic Administration BE DIRECTED to implement Option #2 as outlined in the staff report date June 25, 2018; it being noted that the cost of this option will be accommodated within the approved operating budget; and,
 
@@ -3583,6 +3607,8 @@ Unanimous (13-0)
 
 ### 9.3.4. (2.3)  Free of Fear Services for All Policy
 
+<a id="motion-9-3-4-4" class="motion-anchor"></a>
+
 > That part e) BE APPROVED: e)            the Civic Administration BE DIRECTED to report back on the results of research and any anticipated long-term program costs as a result of implementing this policy.
 
 **✅ Motion Passed (9 to 4)**
@@ -3598,6 +3624,8 @@ Unanimous (13-0)
 
 ### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
+<a id="motion-9-3-6-0" class="motion-anchor"></a>
+
 > Motion to approve clause 3.3, excluding parts c) and e). That the following actions be taken with respect to the 2017 Annual Meeting of the Shareholder for the London & Middlesex Housing Corporation: a)    the proposed by-law appended to the staff report dated June 25, 2018, BE INTRODUCED at the ...
 
 **✅ Motion Passed (13 to 0)**
@@ -3606,6 +3634,8 @@ Unanimous (13-0)
 
 ### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
 
+<a id="motion-9-3-6-1" class="motion-anchor"></a>
+
 > Motion to approve part c) of clause 3.3: c)      the attached proposed changes to the LMHC Articles of Incorporation to provide expanded flexibility required to better serve their clients, BE REFERRED to the Civic Administration to work with the LMHC and report back to a future meeting of the Str...
 
 **✅ Motion Passed (11 to 0)**
@@ -3613,6 +3643,8 @@ Unanimous (13-0)
 Unanimous (11-0)
 
 ### 9.3.6. (3.3) London & Middlesex Housing Corporation - 2017 Annual Meeting of the Shareholder Annual Resolutions
+
+<a id="motion-9-3-6-2" class="motion-anchor"></a>
 
 > Motion to approve part e). e)      the delegation request of Ashton Forrest BE REFERRED to the Board of the London Middlesex Housing Corporation for consideration.
 
@@ -3629,6 +3661,8 @@ Unanimous (11-0)
 
 ### 9.3.8. (4.1) 9th Report of the Governance Working Group
 
+<a id="motion-9-3-8-0" class="motion-anchor"></a>
+
 > Motion to approve clause 4.1, the 9th Report of the Governance Working Group, excluding: part a)i)10 - Child Care Policies; and, part c) Annual meeting Calendar That the following actions be taken with respect to the 9th Report of the Governance Working Group from its meeting held on May 28, 2018...
 
 **✅ Motion Passed (13 to 0)**
@@ -3637,6 +3671,8 @@ Unanimous (13-0)
 
 ### 9.3.8. (4.1) 9th Report of the Governance Working Group
 
+<a id="motion-9-3-8-1" class="motion-anchor"></a>
+
 > Motion to approve part a)I) 10. Child Care Policies.
 
 **✅ Motion Passed (12 to 0)**
@@ -3644,6 +3680,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 9.3.8. (4.1) 9th Report of the Governance Working Group
+
+<a id="motion-9-3-8-2" class="motion-anchor"></a>
 
 > Motion to approve part c) Draft Annual Meeting Calendar: c)         the following actions be taken with respect to the draft annual meeting calendar for the period January 1, 2019 to December 31, 2019, as appended to the Governance Working Group Report dated May 28, 2018: i)         the City Cler...
 
@@ -3660,6 +3698,8 @@ Unanimous (12-0)
 
 ### 9.3.9. (4.2)  10th Report of the Governance Working Group
 
+<a id="motion-9-3-9-0" class="motion-anchor"></a>
+
 > That clause 4.2, the 10th Report of the Governance Working Group, excluding parts a) i) 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London), and clauses 4.3, Review of the Function of the Public Utility C...
 
 **✅ Motion Passed (13 to 0)**
@@ -3667,6 +3707,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### 9.3.9. (4.2)  10th Report of the Governance Working Group
+
+<a id="motion-9-3-9-1" class="motion-anchor"></a>
 
 > Motion to approve clause 4.2 parts a) i 44 (Siting of Cannabis Retail Stores in London) and 45 (Siting of Safe Consumption Facilities and Temporary Overdose Prevention Sites in London), as well as the disclosures of pecuniary interest from the 8th Report of the Strategic Priorities and Policy Com...
 

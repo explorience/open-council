@@ -1235,6 +1235,8 @@ Mayor Lewis thank you chair uh if you'll allow i just want to um through you see
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Item 2.1 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1242,6 +1244,8 @@ Mayor Lewis thank you chair uh if you'll allow i just want to um through you see
 Unanimous (6-0)
 
 ### 3.3. 455 Highbury Avenue North - (OZ-9739)
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highbury Self Storage Equities Limited, (c/o Zelinka Priamo Ltd.), relating to the property located at 455 Highbury Avenue North: a)    the request to amend the...
 
@@ -1251,6 +1255,8 @@ Unanimous (5-0)
 
 ### 3.5. 757 Southdale Road East (OZ-9742)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Judy Kojlak, c/o Zelinka Priamo Ltd. (c/o Matt Campbell) relating to the property located at 757 Southdale Road East: a) the proposed by-law appended to the sta...
 
 **✅ Motion Passed (5 to 0)**
@@ -1258,6 +1264,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.6. 267 York Street (OZ-9736)
+
+<a id="motion-3-6-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Citi Plaza London Inc., (c/o Zelinka Priamo Ltd.), relating to the property located at 267 York Street: a) the proposed by-law appended to the staff report date...
 
@@ -1267,6 +1275,8 @@ Unanimous (5-0)
 
 ### 3.8. 539 and 543 Topping Lane (OZ-9737)
 
+<a id="motion-3-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by South London Investments Inc., (c/o Siv-ik Planning & Design Inc.), relating to the property located at 539 & 543 Topping Lane: a) the proposed by-law appended ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1274,6 +1284,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.9. Not to be heard before 1:30 PM – 2060 Dundas Street (Z-9547)
+
+<a id="motion-3-9-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the application by 2783142 Ontario Inc., (c/o Zelinka Priamo Ltd.), relating to a portion of the property located at 2060 Dundas Street: a)    the proposed revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on Au...
 
@@ -1292,6 +1304,8 @@ Unanimous (5-0)
 
 ### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the Mayor BE ASKED to write a letter requesting the decision of the Minister of Natural Resources and Forestry of Ontario, Graydon Smith, to reverse the decision to freeze the fees conservation authorities can charge in regard to planning, development, and permitting fees; it being noted tha...
 
 **✅ Motion Passed (5 to 0)**
@@ -1300,6 +1314,8 @@ Unanimous (5-0)
 
 ### 4.1. Communication from the Upper Thames River Conservation Authority Board of Directors – Extension of Minister’s Direction for Conservation Authorities Regarding Fee Changes Associated with Planning, Development and Permitting Fees
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve delegation status to B. Petrie, Mayor, Town of Ingersoll, with respect to these matters.
 
 **✅ Motion Passed (5 to 0)**
@@ -1307,6 +1323,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 7. Adjournment
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > The meeting adjourned at 3:42 PM.
 

@@ -244,6 +244,8 @@ Motion
 ### 2. 2014 Budget -
   Public Participation Meeting
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -254,6 +256,8 @@ Unanimous (15-0)
 ### 3. London Chamber of
   Commerce - 2014 Budget
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -263,6 +267,8 @@ Unanimous (15-0)
 
 ### 4. Downtown London -
   2014 Budget
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

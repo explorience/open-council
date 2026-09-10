@@ -1542,6 +1542,8 @@ All in favor, opposed? That motion carries. We're adjourned.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5, 2.7, 2.8 and 2.10 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1549,6 +1551,8 @@ All in favor, opposed? That motion carries. We're adjourned.
 Unanimous (4-0)
 
 ### 2.6. Subsidized Transit Program Update
+
+<a id="motion-2-6-1" class="motion-anchor"></a>
 
 > Motion to approve the request for delegation from J. Salisbury to be heard at this meeting.
 
@@ -1558,6 +1562,8 @@ Unanimous (4-0)
 
 ### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
 
+<a id="motion-2-9-1" class="motion-anchor"></a>
+
 > Motion to add an additional part e) which reads as follows: e)    the Civic Administration BE DIRECTED to assess the existing affordable unit bonus zones in Z-1 to consider a cash-in-lieu policy or other similar programs to enable the construction of new affordable units in London, and report bac...
 
 **✅ Motion Passed (4 to 0)**
@@ -1566,6 +1572,8 @@ Unanimous (4-0)
 
 ### 2.9. Update to the Roadmap to 3,000 Affordable Units - "Roadmap 2.0"
 
+<a id="motion-2-9-2" class="motion-anchor"></a>
+
 > Motion to approve the main motion, as amended.
 
 **✅ Motion Passed (4 to 0)**
@@ -1573,6 +1581,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 2.11. Draft Advocacy Message Sign By-law
+
+<a id="motion-2-11-2" class="motion-anchor"></a>
 
 > That the motion be amended to add a new part: That the draft Advocacy Message Sign By-law BE AMENDED to include additional wording under section 5.1, additional regulations, fourth bullet to read “with respect to a warning sign must be displayed alongside signage that shows images of deceased hum...
 
@@ -1591,6 +1601,8 @@ Unanimous (4-0)
 
 ### 2.11. Draft Advocacy Message Sign By-law
 
+<a id="motion-2-11-3" class="motion-anchor"></a>
+
 > Motion to approve the main motion as amended.
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -1608,6 +1620,8 @@ Unanimous (4-0)
 
 ### 3.1. PUBLIC PARTICIPATION MEETING - Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
 
+<a id="motion-3-1-3" class="motion-anchor"></a>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Community and Protective Services Committee Agenda BE APPROVED, to provide for Items 6.1 to 6.3 in Stage 6, Confidential, to be considered after Stage 3, Scheduled Items.
 
 **✅ Motion Passed (4 to 0)**
@@ -1615,6 +1629,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the communication, dated May 28, 2024, from Councillors H. McAlister and D. Ferreira, with respect to the City-Operated Long Term Care Facility (Dearness Home): a)    the Civic Administration BE DIRECTED to explore options for expanding the faci...
 

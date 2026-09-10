@@ -333,6 +333,8 @@ The meeting adjourned at 8:30 PM.
 
 ### 4.1. Enhanced Transit Services - Richmond Street and Western Road
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the transit routes along Richmond Street and Western Road between the Masonville Transit Hub, Western University and the Downtown:    a)      the Civic Administration BE DIRECTED to work with London Transit Commission to identify:          i)   ...
 
 **✅ Motion Passed (15 to 0)**
@@ -341,6 +343,8 @@ Unanimous (15-0)
 
 ### 5.1. (ADDED) Appointment to the London Police Services Board
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That consideration of an appointment to the Police Services Board BE REFERRED to the Council meeting of January 14, 2020, for consideration.
 
 **✅ Motion Passed (15 to 0)**
@@ -348,6 +352,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.1. (ADDED) Appointment to the London Police Services Board
+
+<a id="motion-5-1-2" class="motion-anchor"></a>
 
 > That the resignation of Councillor Salih, from the Police Services Board BE ACCEPTED, effective January 16, 2020.
 
@@ -364,6 +370,8 @@ Unanimous (15-0)
 
 ### 5.2. (ADDED) Confirmation of Appointment to the Argyle BIA
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That Melanie O'Brien, Owner of Madison's Boutique & Consignment, BE APPOINTED to the Argyle BIA for the term ending November 15, 2022.
 
 **✅ Motion Passed (15 to 0)**
@@ -371,6 +379,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 5.3. (ADDED) RBC Place London Board Appointment Recommendations
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the appointments to the RBC Place London Board of Directors:    a)      Murphy Pettypiece (digital/business) and Susan Judd (agriculture/agrifoods/tourism), Class 1, BE APPOINTED for the term ending November 15, 2023; and,    b)      Garret Vand...
 

@@ -231,6 +231,8 @@ The meeting adjourned at 1:07 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -238,6 +240,8 @@ The meeting adjourned at 1:07 PM.
 Unanimous (5-0)
 
 ### 4.1. Parkinson Society Southwestern Ontario - Request for Exemption and Policy Amendment - City of London Days at Budweiser Gardens
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the request of the Parkinson Society Southwestern Ontario for an additional City of London day at the Budweiser Gardens: a)     notwithstanding the existing policy, the request for the Parkinson Society of Southwestern Ontario for a City of Lond...
 

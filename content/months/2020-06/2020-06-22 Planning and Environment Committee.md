@@ -594,6 +594,8 @@ The meeting adjourned at 6:08 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 to 2.4, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -601,6 +603,8 @@ The meeting adjourned at 6:08 PM.
 Unanimous (6-0)
 
 ### 2.1. ReThink Zoning Phase One Update
+
+<a id="motion-2-1-0" class="motion-anchor"></a>
 
 > That the staff report dated June 22, 2020 entitled "ReThink Zoning Phase One Update" BE REFERRED back to the Civic Administration to report back at a future Planning and Environment Committee meeting.
 
@@ -610,6 +614,8 @@ Unanimous (6-0)
 
 ### 3.4. Application - 754-760 Baseline Road (OZ-9148)
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Canadian Commercial Management Inc. relating to the property located at 754-760 Base Line Road East: a) the proposed by-law appended to the staff report dated June ...
 
 **✅ Motion Passed (6 to 0)**
@@ -617,6 +623,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.5. Application 1992 Fanshawe Park Road West (TZ-9177)
+
+<a id="motion-3-5-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, based on the application by Southside Construction Management Limited, relating to the property located at 1992 Fanshawe Park Road West, the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council me...
 

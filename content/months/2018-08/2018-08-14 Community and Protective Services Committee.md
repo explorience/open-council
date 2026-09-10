@@ -359,6 +359,8 @@ The meeting adjourned at 5:16 PM.
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
 
+<a id="motion-3-2-1" class="motion-anchor"></a>
+
 > Motion to approve part a).
 
 **✅ Motion Passed (6 to 0)**
@@ -366,6 +368,8 @@ The meeting adjourned at 5:16 PM.
 Unanimous (6-0)
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
+
+<a id="motion-3-2-2" class="motion-anchor"></a>
 
 > Motion to approve part b).
 
@@ -375,6 +379,8 @@ Unanimous (6-0)
 
 ### 3.2. 7th Report of the Accessibility Advisory Committee
 
+<a id="motion-3-2-3" class="motion-anchor"></a>
+
 > Motion to approve the remainder of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -383,6 +389,8 @@ Unanimous (6-0)
 
 ### 3.4. (ADDED) 8th Report of the Animal Welfare Advisory Committee
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 8th Report of the Animal Welfare Advisory Committee from its meeting held on August 2, 2018: a)            the following actions be taken with respect to the proposed amendments to the London Animal Control By-law PH-3: i)             the Ci...
 
 **✅ Motion Passed (6 to 0)**
@@ -390,6 +398,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.2. (ADDED) Mayor’s Meeting With the Accessibility Advisory Committee – Update
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the correspondence from Mayor M. Brown regarding his meeting on June 28, 2018 with members of the Accessibility Advisory Committee: a)            the first two action items on the correspondence, listed below, BE IMPLEMENTED as soon as possible:...
 

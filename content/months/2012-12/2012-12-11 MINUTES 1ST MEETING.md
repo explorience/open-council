@@ -4504,6 +4504,8 @@ Motion Passed
   to the Planning and Environment Committee Stage for Consideration with Clause
   29 of the 30th Report of the Planning and Environment Committee.)
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4512,6 +4514,8 @@ Unanimous (12-0)
 
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+<a id="motion-1-4-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to options for dealing with those situations where a Council Member   is charged and/or convicted of a criminal offence:   a)         legal   advice BE PROVIDED as to what options might be available, under current   legislation, for dealing with ...
 
@@ -4522,6 +4526,8 @@ Unanimous (13-0)
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
 
+<a id="motion-1-4-1" class="motion-anchor"></a>
+
 > Amend part b) of the Motion of Which   Notice is Given by deleting part b) in its entirety and by replacing it with   the following new part b):    “b)    the Civic Administration BE DIRECTED to report back with alternatives for   proposed amendments to the Council policy related to the appointme...
 
 **✅ Motion Passed**
@@ -4531,6 +4537,8 @@ Unanimous (13-0)
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
 
+<a id="motion-1-4-2" class="motion-anchor"></a>
+
 > Approve the Notice of Which Notice was   Given, as amended.
 
 **✅ Motion Passed**
@@ -4539,6 +4547,8 @@ Unanimous (13-0)
 
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+<a id="motion-1-4-3" class="motion-anchor"></a>
 
 > The Chair rules that the motion made by   Councillor P. Hubert is not in order.      Councillor J.L.     Baechler appeals the decision of the Chair.  The City Clerk put the     question “shall the ruling of the Chair be sustained?”         Motion Failed
 
@@ -4556,6 +4566,8 @@ Unanimous (13-0)
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
 
+<a id="motion-1-4-4" class="motion-anchor"></a>
+
 > Councillor J.L.     Baechler appeals the decision of the Chair.  The City Clerk put the     question “shall the ruling of the Chair be sustained?”
 
 **❌ Motion Failed 🔥**
@@ -4571,6 +4583,8 @@ Unanimous (13-0)
 
 ### 1#4. Councillor S. White - Motion of Which
   Notice is Given - Options - Criminally Charged or Convicted Elected Officials
+
+<a id="motion-1-4-5" class="motion-anchor"></a>
 
 > Approve that pursuant to section   9.6 of the Council Procedure By-law, Councillor P. Hubert be permitted to   speak longer than 5 minutes with respect to clause 15.   Motion Passed
 
@@ -4588,6 +4602,8 @@ Unanimous (13-0)
 ### 11#4. Licensing Issues
   and By-law Enforcement
 
+<a id="motion-11-4-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4597,6 +4613,8 @@ Unanimous (13-0)
 ### 11#6. Appointment Recommendations for the London
   Convention Centre Board of Directors
 
+<a id="motion-11-6-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to appointments to the London Convention Centre (LCC) Board of   Directors:   a)         a   second 3-year term for Jeannine Cookson, Fanshawe College and Dr. Ted Hewitt,   UWO for the first two-years of the second term to run until November 30, ...
 
 **✅ Motion Passed**
@@ -4605,6 +4623,8 @@ Unanimous (13-0)
 
 ### 13#2. 3rd Report of the LTC Long Term Growth Working
   Group
+
+<a id="motion-13-2-0" class="motion-anchor"></a>
 
 > Amend clause 13 in line 5 of part a) i)   by deleting the fraction “1/2” and by replacing it with the fraction   “1/3"
 
@@ -4622,6 +4642,8 @@ Unanimous (13-0)
 ### 13#2. 3rd Report of the LTC Long Term Growth Working
   Group
 
+<a id="motion-13-2-1" class="motion-anchor"></a>
+
 > The motion to Approve clause 13, as amended,   is put.
 
 **✅ Motion Passed**
@@ -4638,6 +4660,8 @@ Unanimous (13-0)
 ### 13#4. Extension of Term
   for Jeff Brown to the London International Airport Board of Directors
 
+<a id="motion-13-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the London   International Airport Board of Directors, the current appointment of Jeff   Brown BE EXTENDED for two years effective August, 2014.
 
 **✅ Motion Passed**
@@ -4645,6 +4669,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 2#10. Update Dearness Matters
+
+<a id="motion-2-10-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -4655,6 +4681,8 @@ Unanimous (14-0)
 ### 4#4. Property located at 754 Maitland Street -
   Notice of Appeal to the Ontario Municipal Board (Z-8065)
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken in   response to the letter of appeal to the Ontario Municipal Board, dated   October 31, 2012 and submitted by Arnon Kaplansky (Kapland Inc.), relating to   Zoning By-law application...
 
 **✅ Motion Passed**
@@ -4663,6 +4691,8 @@ Unanimous (14-0)
 
 ### 4#4. Property located at 754 Maitland Street -
   Notice of Appeal to the Ontario Municipal Board (Z-8065)
+
+<a id="motion-4-4-1" class="motion-anchor"></a>
 
 > The motion to Approve part b) of clause 4   is put
 
@@ -4680,6 +4710,8 @@ Unanimous (14-0)
 ### 4#9. Minutes of the 1st
   Meeting of the County/City Liaison Committee
 
+<a id="motion-4-9-0" class="motion-anchor"></a>
+
 > That the following   actions be taken with respect to the Minutes of the 1st Meeting of the   County/City Liaison Committee:    a)         the   following actions be taken with respect to cost apportionment arrangements   for social housing and land ambulance, renewal of agreements for the delive...
 
 **✅ Motion Passed**
@@ -4688,6 +4720,8 @@ Unanimous (14-0)
 
 ### 5#5. Amendments to Consolidated Fees and Charges
   By-law
+
+<a id="motion-5-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the City   Clerk, with the concurrence of the Managing Director, Corporate Services and   City Treasurer, Chief Financial Officer, the attached proposed   by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting on   December 11, 2012 for the purpose of ...
 
@@ -4705,6 +4739,8 @@ Unanimous (14-0)
 ### 5#7. Audit Planning
   Report for the year ending December 31, 2012
 
+<a id="motion-5-7-0" class="motion-anchor"></a>
+
 > That the attached KPMG LLP   Audit Planning Report, for the year ending December 31, 2012, BE APPROVED; it   being noted that, as required, the Members of the Audit Committee noted no   instances of, actual, suspected or alleged fraud or non-compliance with laws   and regulations, including misco...
 
 **✅ Motion Passed**
@@ -4720,6 +4756,8 @@ Unanimous (14-0)
 
 ### 6#6. Ontario Concrete Pipe Association
 
+<a id="motion-6-6-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4727,6 +4765,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8#2. Planning Division 18 Month Work Program
+
+<a id="motion-8-2-0" class="motion-anchor"></a>
 
 > That, notwithstanding the recommendation of   the Managing Director, Planning and City Planner, the Planning Division Work   Program Priorities BE REFERRED to the Strategic Planning and Priorities   Committee for consideration.
 
@@ -4743,6 +4783,8 @@ Unanimous (14-0)
 
 ### 8#5. Music London Initiative
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the communication dated November 22,   2012, with respect to Orchestra London’s proposal for a Downtown concert   hall, BE REFERRED to the Civic Administration for review and assessment in   developing its report back on the various investment and economic prosperity   proposals.
 
 **✅ Motion Passed**
@@ -4751,6 +4793,8 @@ Unanimous (13-0)
 
 ### 9#3. Member Composition for the Urban Design
   Peer Review Panel
+
+<a id="motion-9-3-0" class="motion-anchor"></a>
 
 > Amend clause 9, in line 4 of part ii), by   removing all the words following the word "Planning".
 
@@ -4768,6 +4812,8 @@ Unanimous (13-0)
 ### 9#3. Member Composition for the Urban Design
   Peer Review Panel
 
+<a id="motion-9-3-1" class="motion-anchor"></a>
+
 > The motion to Approve clause 9, as amended,   is put.
 
 **✅ Motion Passed**
@@ -4784,6 +4830,8 @@ Unanimous (13-0)
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
 
+<a id="motion-i-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business BE CHANGED to permit   consideration of clause 13 of the 32nd Report of the Finance and   Administrative Services Committee, having to do with a financial plan for the   acquisition of the London Normal ...
 
 **✅ Motion Passed**
@@ -4792,6 +4840,8 @@ Unanimous (14-0)
 
 ### I. DISCLOSURES
   OF PECUNIARY INTEREST
+
+<a id="motion-i-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business BE CHANGED in order to   consider the Motion of Which Notice is Given with clause 15 of the 32nd   Report of the Finance and Administrative Services Committee; and   that pursuant to section 7.4 of the C...
 
@@ -4802,6 +4852,8 @@ Unanimous (14-0)
 ### III. ADDED
   REPORTS
 
+<a id="motion-iii-0" class="motion-anchor"></a>
+
 > Approve the following additional reason   to the in camera session:   “A matter pertaining to litigation or potential   litigation affecting the municipality; advice subject to solicitor-client   privilege, including communications necessary for that purpose, as it relates   to leave of absence f...
 
 **✅ Motion Passed**
@@ -4810,6 +4862,8 @@ Unanimous (12-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-iv-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -4821,6 +4875,8 @@ Unanimous (14-0)
   AND SIGNING OF THE MINUTES OF THE NINETEENTH MEETING HELD ON NOVEMBER 20,
   2012
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Nineteenth   Meeting held on November 20, 2012.
 
 **✅ Motion Passed**
@@ -4829,6 +4885,8 @@ Unanimous (14-0)
 
 ### VIII. MOTIONS OF WHICH NOTICE IS
   GIVEN
+
+<a id="motion-viii-0" class="motion-anchor"></a>
 
 > Approve that, pursuant to section 18.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to dealing with those situations where a Council   Member is charged and/or convicted of a criminal offence.
 
@@ -4839,6 +4897,8 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-0" class="motion-anchor"></a>
+
 > Approve leave to introduce a   motion related to a reception for the presentation of the Queen's Diamond   Jubilee medals pursuant to section 11.4 of the Council Procedure By-law.
 
 **✅ Motion Passed**
@@ -4848,6 +4908,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve that the City Clerk BE DIRECTED to   make the necessary arrangements to hold a reception, prior to February 28,   2013, to present Queen’s Diamond Jubilee medals to all recipients nominated   by by Municipal Council.
 
 **✅ Motion Passed**
@@ -4855,6 +4917,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-0" class="motion-anchor"></a>
 
 > Approve 1st reading of Bill No. 31.
 
@@ -4864,6 +4928,8 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-1" class="motion-anchor"></a>
+
 > Approve 2nd reading of Bill No. 31.
 
 **✅ Motion Passed**
@@ -4871,6 +4937,8 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-2" class="motion-anchor"></a>
 
 > Approve 3rd reading and enactment of Bill   No. 31.
 
@@ -4880,6 +4948,8 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-3" class="motion-anchor"></a>
+
 > Approve 1st reading of Bill No. 3.
 
 **✅ Motion Passed**
@@ -4887,6 +4957,8 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-4" class="motion-anchor"></a>
 
 > Approve 2nd reading of Bill No. 3.
 
@@ -4896,6 +4968,8 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-5" class="motion-anchor"></a>
+
 > Approve 3rd reading and enactment of Bill   No. 3.
 
 **✅ Motion Passed**
@@ -4903,6 +4977,8 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-6" class="motion-anchor"></a>
 
 > Approve leave to introduce the added   by-laws.
 
@@ -4912,6 +4988,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-7" class="motion-anchor"></a>
+
 > Approve 1st reading of Bill Nos. 1, 2, 4   to 30, inclusive, and Bill Nos. 32 to 34.
 
 **✅ Motion Passed**
@@ -4920,6 +4998,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-8" class="motion-anchor"></a>
+
 > Approve 2nd reading of Bill Nos. 1, 2,   4 to 30, inclusive, and Bill Nos. 32 to 34.
 
 **✅ Motion Passed**
@@ -4927,6 +5007,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-9" class="motion-anchor"></a>
 
 > Approve 3rd reading of Bill Nos. 1, 2, 4   to 30, inclusive, and Bill Nos. 32 to 34.
 
@@ -4947,6 +5029,8 @@ Unanimous (13-0)
   Clause 15 of the 32nd Report of the Finance and Administrative Services
   Committee.)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4959,6 +5043,8 @@ Unanimous (12-0)
   Consideration with Clause 25 of the 30th Report of the Planning and
   Environment Committee.)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4967,6 +5053,8 @@ Unanimous (14-0)
 
 ### 13. London Normal School - 165 Elmwood Avenue
   East
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Amend  clause 13 by adding the following   new part b) as follows:   “b)    representatives of the London Economic Development Corporation, Tech Alliance   and the London Technology Development Centre BE REQUESTED to meet and explore   options to encourage and support the start up of technology-b...
 
@@ -4977,6 +5065,8 @@ Unanimous (14-0)
 ### 14. Nomination for the Queen Elizabeth ll
   Diamond Jubilee Medal
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > That the following individuals BE NOMINATED   to receive the Queen Elizabeth II Diamond Jubilee Medal and the City Clerk BE   DIRECTED to contact the Council Members to seek any further nominations for   consideration at the Council Meeting to be held on December 11, 2012:   -           Josh Morg...
 
 **✅ Motion Passed**
@@ -4986,6 +5076,8 @@ Unanimous (14-0)
 ### 14. Nomination for the Queen Elizabeth ll
   Diamond Jubilee Medal
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4995,6 +5087,8 @@ Unanimous (14-0)
 ### 14. Nomination for the Queen Elizabeth ll
   Diamond Jubilee Medal
 
+<a id="motion-14-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5004,6 +5098,8 @@ Unanimous (14-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director   – Environmental Programs & Solid Waste, the following actions be taken   with respect to providing Blue Box processing services:     a)         the   attached proposed by-law (Appendix A), BE INTRODUCED at the   Municipal Council meeting on December 1...
 
 **✅ Motion Passed**
@@ -5012,6 +5108,8 @@ Unanimous (13-0)
 
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
+
+<a id="motion-17-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -5029,6 +5127,8 @@ Unanimous (13-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-2" class="motion-anchor"></a>
+
 > Amend clause 6, in the fourth   line, by inserting the word “expanded” after the words “with respect   to".
 
 **✅ Motion Passed**
@@ -5044,6 +5144,8 @@ Unanimous (13-0)
 
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
+
+<a id="motion-17-3" class="motion-anchor"></a>
 
 > Refer clause 6, as amended, to the   Civic Works Committee to hold a Public Participation Meeting to receive   additional public input.
 
@@ -5061,6 +5163,8 @@ Unanimous (13-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5077,6 +5181,8 @@ Unanimous (13-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-5" class="motion-anchor"></a>
+
 > Amend clause 7 by adding the   following new part b), and renumbering the remaining parts:   “b)    the scope of Phase 1 (Tender 12-60), noted in part a) above, BE EXPANDED to   include the culvert replacement on the Shaw lands, previously scheduled to be   a part of Phase 2.”
 
 **✅ Motion Passed**
@@ -5086,6 +5192,8 @@ Unanimous (14-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-6" class="motion-anchor"></a>
+
 > The motion to Approve clause 7, as amended,   is put.
 
 **✅ Motion Passed**
@@ -5094,6 +5202,8 @@ Unanimous (14-0)
 
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
+
+<a id="motion-17-7" class="motion-anchor"></a>
 
 > Amend clause 16 by adding the following   new part b):   “b)    the Civic Administration BE DIRECTED to implement an immediate allowance for   the affected residents, and their guests, to park on Trowbridge Avenue, until   such time as the above-noted report comes back to the Committee.”
 
@@ -5111,6 +5221,8 @@ Unanimous (14-0)
 ### 17. Material Recovery
   Facility Processing Blue Box Recyclables
 
+<a id="motion-17-8" class="motion-anchor"></a>
+
 > The motion to Approve clause 16, as amended,   is put.
 
 **✅ Motion Passed**
@@ -5119,6 +5231,8 @@ Unanimous (14-0)
 
 ### 21. Property located at 124 St. James Street
 
+<a id="motion-21-0" class="motion-anchor"></a>
+
 > Amend clause 21, in line 1 of part b), by   deleting the word “fulfilling” and by replacing it with the words   “addressing”.
 
 **✅ Motion Passed**
@@ -5126,6 +5240,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 21. Property located at 124 St. James Street
+
+<a id="motion-21-1" class="motion-anchor"></a>
 
 > The motion to Approve clause 21, as amended,   is put.
 
@@ -5141,6 +5257,8 @@ Unanimous (12-0)
 ### 25. Properties located at 510, 518 and 526
   Southdale Road East (Z-8092)
 
+<a id="motion-25-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Dr. Afzal Mohammed, relating to the properties   located at 510, 518 and 526 Southdale Road East:   a)              the   attached proposed by-law...
 
 **✅ Motion Passed**
@@ -5149,6 +5267,8 @@ Unanimous (14-0)
 
 ### 26. Property located at 1205 Riverside Drive
   (39CD-12512/Z-8099)
+
+<a id="motion-26-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -5159,6 +5279,8 @@ Unanimous (14-0)
 ### 29. Property located at 2095 Coronation Drive
   (Z-8076)
 
+<a id="motion-29-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5166,6 +5288,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 32. Dalmagarry Road
+
+<a id="motion-32-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to report to a future meeting of the Planning and Environment Committee with   respect to an update on the status of the completion of Dalmagarry Road and   the reason for the delay.
 

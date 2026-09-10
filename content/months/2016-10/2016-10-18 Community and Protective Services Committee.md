@@ -594,6 +594,8 @@ The Community and Protective Services
 ### 2. 9th Report of the
   Accessibility Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -603,6 +605,8 @@ Unanimous (5-0)
 
 ### 3. 3rd Report of the
   Town and Gown Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -614,6 +618,8 @@ Unanimous (5-0)
 ### 4. 8th Report of
   London Housing Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -623,6 +629,8 @@ Unanimous (5-0)
 
 ### 5. 9th Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -634,6 +642,8 @@ Unanimous (5-0)
 ### 6. 5th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -643,6 +653,8 @@ Unanimous (5-0)
 
 ### 7. 10th Report of the
   Animal Welfare Advisory Committee
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -655,6 +667,8 @@ Unanimous (5-0)
   London's Homelessness Prevention System Enumeration Results and London's
   Emergency Shelters Progress Report - 2011-2015
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -666,6 +680,8 @@ Unanimous (4-0)
   Recommendations for Construction-Ready Proposals Under the Investment in
   Affordable Housing for Ontario 2016 Social Infrastructure Fund
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -675,6 +691,8 @@ Unanimous (5-0)
 
 ### 10. STAFF REPORT - City
   of London Cat Adoption Centre
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -687,6 +705,8 @@ Unanimous (5-0)
   Meehan, Executive Director, Museum London - Share New Innovations or Ways to
   Improve Collaboration with Council
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -696,6 +716,8 @@ Unanimous (5-0)
 
 ### 12. PUBLIC SUBMISSION -
   Petition - "Nature Restoration Site" Berkshire Court
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -708,16 +730,7 @@ Unanimous (5-0)
   DELEGATION - M. Tahir, London Youth Advisory Council - London Transit
   Commission Discounted Buss Pass Petition and Plan
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. PUBLIC SUBMISSION -
-  I. Mathyssen, Member of Parliament for London-Fanshawe - Poverty Reduction
-  Strategies in Canada.
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -730,6 +743,8 @@ Unanimous (5-0)
   I. Mathyssen, Member of Parliament for London-Fanshawe - Poverty Reduction
   Strategies in Canada.
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -740,6 +755,21 @@ Unanimous (5-0)
 ### 14. PUBLIC SUBMISSION -
   I. Mathyssen, Member of Parliament for London-Fanshawe - Poverty Reduction
   Strategies in Canada.
+
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. PUBLIC SUBMISSION -
+  I. Mathyssen, Member of Parliament for London-Fanshawe - Poverty Reduction
+  Strategies in Canada.
+
+<a id="motion-14-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -749,6 +779,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 15. ADDED – Workplace Diversity
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

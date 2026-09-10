@@ -139,6 +139,8 @@ The meeting adjourned at 6:44 PM.
 
 ### 3.1. Council’s Strategic Plan 2019-2023: Setting the Vision, Mission, and Values
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts an...
 
 **✅ Motion Passed (10 to 5)**
@@ -153,6 +155,8 @@ The meeting adjourned at 6:44 PM.
 </details>
 
 ### 4.1. 2019 Budget Process
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That Councillor J. Morgan BE APPOINTED as the Council lead for the 2019 Budget process, acting as Budget Chair with duties including coordination of 2019 Budget activities with the Civic Administration and the Chairing of the Strategic Priorities and Policy Committee meetings where discussion and...
 

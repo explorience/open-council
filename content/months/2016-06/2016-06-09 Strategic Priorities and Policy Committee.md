@@ -460,15 +460,7 @@ Motion Passed
   Participation Meeting - Growth Management Implementation Strategy (GMIS): 
   2017 Annual Review and Update
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 2. Public
-  Participation Meeting - Growth Management Implementation Strategy (GMIS): 
-  2017 Annual Review and Update
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -479,6 +471,20 @@ Unanimous (13-0)
 ### 2. Public
   Participation Meeting - Growth Management Implementation Strategy (GMIS): 
   2017 Annual Review and Update
+
+<a id="motion-2-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 2. Public
+  Participation Meeting - Growth Management Implementation Strategy (GMIS): 
+  2017 Annual Review and Update
+
+<a id="motion-2-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -489,6 +495,8 @@ Unanimous (13-0)
 ### 3. London Hydro Inc.
   Board of Director Appointment
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -497,6 +505,8 @@ Unanimous (13-0)
 
 ### 4. Request for a
   Shareholder's Meeting for the Housing Development Corporation, London (HDC)
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -507,14 +517,7 @@ Unanimous (13-0)
 ### 5. ADDED - 3rd Report
   of the Outstanding London Ambassador Award Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6. ADDED - 11th Report
-  of the Governance Working Group
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -524,6 +527,19 @@ Unanimous (13-0)
 
 ### 6. ADDED - 11th Report
   of the Governance Working Group
+
+<a id="motion-6-0" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. ADDED - 11th Report
+  of the Governance Working Group
+
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion Passed
 

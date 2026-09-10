@@ -483,6 +483,8 @@ Motion
 ### 2. 2nd Report of the
   Accessibility Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -492,6 +494,8 @@ Unanimous (5-0)
 
 ### 3. 1st Report of the
   Childcare Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -503,6 +507,8 @@ Unanimous (5-0)
 ### 4. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -512,6 +518,8 @@ Unanimous (5-0)
 
 ### 5. 3rd Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -523,6 +531,8 @@ Unanimous (5-0)
 ### 6. Homemakers Program
   Update
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -532,6 +542,8 @@ Unanimous (5-0)
 
 ### 7. Municipal Golf
   System - 2013/2014 Performance Update
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -543,6 +555,8 @@ Unanimous (5-0)
 ### 8. Annual Review -
   2015 Special Events Policies and Procedures Manual
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -552,6 +566,8 @@ Unanimous (5-0)
 
 ### 9. Transfer of Farm
   Animals from Storybook Gardens and Go-Forward Business Strategy
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -564,6 +580,8 @@ Unanimous (5-0)
   Federation of London and Area - Level of Unemployment of Local African
   Immigrants
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -573,6 +591,8 @@ Unanimous (5-0)
 
 ### 11. Social Services:
   Supporting Employment, Workforce Development and Inclusion
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -584,6 +604,8 @@ Unanimous (5-0)
 ### 12. Business Licensing
   By-law L-6 Fees
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -594,6 +616,8 @@ Unanimous (5-0)
 ### 13. 2nd Report of the
   Town and Gown Committee
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -603,6 +627,8 @@ Unanimous (5-0)
 
 ### 14. London Diversity
   and Race Relations Advisory Committee
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -621,6 +647,8 @@ Unanimous (5-0)
 ### 15. Humane Urban
   Wildlife Conflict Policy: Beaver Protocol
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -631,6 +659,8 @@ Unanimous (5-0)
 ### 16. Request For
   Delegation Status
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -640,6 +670,8 @@ Unanimous (5-0)
 
 ### 17. Community and Protective Services Committee
   Meeting – April 21, 2015
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

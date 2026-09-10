@@ -88,6 +88,8 @@ Motion Passed
 
 ### 2. Council Orientation
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -95,6 +97,8 @@ Motion Passed
 Unanimous (15-0)
 
 ### 3. (ADDED) Council Orientation
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 

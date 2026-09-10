@@ -301,6 +301,8 @@ The meeting that you're, I think you're planning on being here for is the SPPC m
 
 ### 8.1. 5th Report of the Special Community and Protective Services Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That items 1 to 2 (2.1) of 5th Report of the Special Community and Protective Services Committee, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**

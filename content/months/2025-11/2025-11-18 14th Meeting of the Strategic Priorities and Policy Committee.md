@@ -876,6 +876,8 @@ I sort of hear but I just wanted to say there's a couple significant birthdays i
 
 ### 2.1. Strategic Plan Implementation Update: November 2025
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Manager, the report regarding the Strategic Plan Implementation Update BE RECEIVED for information.
 
 **✅ Motion Passed (14 to 1)**
@@ -891,6 +893,8 @@ I sort of hear but I just wanted to say there's a couple significant birthdays i
 
 ### 4.1. Downtown Plan - Phase l Background Study
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the delegation requests from G. Henderson, CEO, London Chamber of Commerce and V. Smith, Interim Executive Director, London Downtown Business Association, BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -898,6 +902,8 @@ I sort of hear but I just wanted to say there's a couple significant birthdays i
 Unanimous (15-0)
 
 ### 4.2. Consideration of Appointments to Western University Board of Governors
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That Lori Higgs and Marlene McGrath BE APPOINTED to Western University’s Board of Governors for the term July 1, 2026 to June 30, 2030; it being noted that the Strategic Priorities and Policy Committee received a communication dated November 7, 2025 from A. Bryson, University Secretary, Western w...
 
@@ -914,6 +920,8 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointments to Western University Board of Governors
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the communication dated November 7, 2025 from A. Bryson, University Secretary, Western with respect to appointment to the Western University Board of Governors BE RECEIVED and that Civic Administration BE DIRECTED to proceed with a recruitment for community members and to bring forward the a...
 
 **❌ Motion Failed (5 to 10)**
@@ -928,6 +936,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.4. Request for Support for Elect Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project - Councillor A. Hopkins and Mayor J. Morgan
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That the following actions BE ADOPTED with respect to the communication dated November 4, 2025 from Councillor A. Hopkins and Mayor J. Morgan regarding support for the Elected Respect Campaign and the Association of Municipalities of Ontario's Healthy Democracy Project: WHEREAS democracy is healt...
 
@@ -945,6 +955,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.5. Request for Support for Membership in the Great Lakes and St. Lawrence Cities Initiative - Mayor J. Morgan
+
+<a id="motion-4-5-0" class="motion-anchor"></a>
 
 > That Mayor J. Morgan BE ENDORSED to seek membership on the Great Lakes and St. Lawrence Cities Initiative (GLSCLCI); it being noted that the Strategic Priorities and Policy Committee received a communication dated November 3, 2025 from Mayor J. Morgan with respect to this matter.
 

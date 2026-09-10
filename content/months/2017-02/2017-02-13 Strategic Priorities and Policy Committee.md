@@ -130,6 +130,8 @@ The Strategic Priorities and Policy
 ### 2. STAFF REPORT -
   Strategic Plan Progress Variance
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -138,6 +140,8 @@ Unanimous (13-0)
 
 ### 3. STAFF REPORT -
   Asset Review: London Hydro Inc. - Discussion Paper
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -154,6 +158,8 @@ Unanimous (13-0)
 
 ### 4. Consideration of
   Appointment to the Economic Partnership Advisory Panel
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 

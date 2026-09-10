@@ -879,6 +879,8 @@ We are adjourned. Thank you.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -887,6 +889,8 @@ Unanimous (5-0)
 
 ### 3.5. 614 Westmount Crescent (Z-9553)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, based on the application by LA-Rosa Community Ltd., relating to the property located at 614 Westmount Crescent, the Site Plan Approval Authority BE REQUESTED to consider adding clauses relating to the access alignment across f...
 
 **✅ Motion Passed (5 to 0)**
@@ -894,6 +898,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 6. Confidential
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion to go in camera at 453
 

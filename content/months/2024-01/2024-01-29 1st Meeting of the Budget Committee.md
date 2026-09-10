@@ -1093,6 +1093,8 @@ Motion carries. Okay good night everyone. Look forward to my email coming to you
 
 ### 3.1. Public Participation Meeting - Not to be heard before 4:00 PM - Budget
 
+<a id="motion-3-1-2" class="motion-anchor"></a>
+
 > That pursuant to section 33.8 of the Council Procedure By-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
 
 **✅ Motion Passed (14 to 0)**

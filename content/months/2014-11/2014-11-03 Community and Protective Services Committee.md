@@ -208,6 +208,8 @@ The Community and Protective Services
 ### 7. 6th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -218,6 +220,8 @@ Unanimous (4-0)
 ### 8. 6th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -226,6 +230,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 10. Decision of the Ontario College of Veterinarians
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

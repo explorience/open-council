@@ -188,16 +188,7 @@ The Corporate Services Committee convened
   Construction Contract for the Renovations to the Normal School Project
   #GG1558
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 2. Phase ll - Award of
-  Construction Contract for the Renovations to the Normal School Project
-  #GG1558
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -210,6 +201,8 @@ Unanimous (5-0)
   Construction Contract for the Renovations to the Normal School Project
   #GG1558
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -220,6 +213,21 @@ Unanimous (5-0)
 ### 2. Phase ll - Award of
   Construction Contract for the Renovations to the Normal School Project
   #GG1558
+
+<a id="motion-2-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 2. Phase ll - Award of
+  Construction Contract for the Renovations to the Normal School Project
+  #GG1558
+
+<a id="motion-2-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -231,6 +239,8 @@ Unanimous (5-0)
 ### 7. Apportionment of
   Taxes
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -240,6 +250,8 @@ Unanimous (5-0)
 
 ### 7. Apportionment of
   Taxes
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

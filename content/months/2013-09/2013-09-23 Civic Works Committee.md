@@ -245,6 +245,8 @@ The meeting adjourned at 5:20 PM.
 ### 2. Leak Detection
   Through District Metered Areas EW3772-13
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -254,6 +256,8 @@ Unanimous (5-0)
 
 ### 3. Contract Award:
   Elgin Middlesex Pumping Station Upgrades (Tender No. T13-73)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -265,6 +269,8 @@ Unanimous (5-0)
 ### 4. 6th Report of the
   Transportation Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -274,6 +280,8 @@ Unanimous (3-0)
 
 ### 5. Southwest Economic
   Alliance Regional Transportation Advocacy Initiative
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

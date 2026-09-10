@@ -2872,6 +2872,8 @@ Passed.
   for consideration with clause 11 of the 8th Report of the Planning and
   Environment Committee.)
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2881,6 +2883,8 @@ Unanimous (14-0)
 ### 10#2. African Canadian
   Federation of London and Area - Level of Unemployment of Local African
   Immigrants
+
+<a id="motion-10-2-0" class="motion-anchor"></a>
 
 > Approve that clause 10 be amended by   adding the following wording to the end of the clause, " and the   presentation and information provided by the African Canadian Federation of   London and Area - Level of Unemployment of Local African Immigrants, BE   FORWARDED to the London Diversity and R...
 
@@ -2892,6 +2896,8 @@ Unanimous (12-0)
   Federation of London and Area - Level of Unemployment of Local African
   Immigrants
 
+<a id="motion-10-2-1" class="motion-anchor"></a>
+
 > Approve clause 10, as amended.
 
 **✅ Motion Passed**
@@ -2900,6 +2906,8 @@ Unanimous (12-0)
 
 ### 12#2. Business Licensing
   By-law L-6 Fees
+
+<a id="motion-12-2-0" class="motion-anchor"></a>
 
 > Approve to amend clause 12 by deleting   the word "young/" from the beginning of the clause.
 
@@ -2917,6 +2925,8 @@ Unanimous (12-0)
 ### 12#2. Business Licensing
   By-law L-6 Fees
 
+<a id="motion-12-2-1" class="motion-anchor"></a>
+
 > Approve clause 12, as amended.
 
 **✅ Motion Passed**
@@ -2933,6 +2943,8 @@ Unanimous (12-0)
 ### 12#3. Lorne Avenue Public
   School Update
 
+<a id="motion-12-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the acquisition of Lorne Avenue Public School:   a)         the   proposed process for satisfying the terms and conditions of the Agreement of   Purchase and Sale re...
 
 **✅ Motion Passed**
@@ -2941,6 +2953,8 @@ Unanimous (14-0)
 
 ### 15#3. Consideration of
   Appointment to the London Diversity and Race Relations Advisory Committee
+
+<a id="motion-15-3-0" class="motion-anchor"></a>
 
 > That the following individuals BE APPOINTED   to the London Diversity and Race Relations Advisory Committee for the term   ending February 28, 2019:   Voting:   Forrest Bivens    Non-Voting:   Nathaniel Sukhdeo - Aboriginal Community   Groups/Agencies Rifat Hussain - Immigrant Settlement   Servic...
 
@@ -2958,6 +2972,8 @@ Unanimous (14-0)
 ### 15#3. Consideration of
   Appointment to the London Diversity and Race Relations Advisory Committee
 
+<a id="motion-15-3-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2966,6 +2982,8 @@ Unanimous (14-0)
 
 ### 15#4. Canada Post Community
   Mailboxes
+
+<a id="motion-15-4-1" class="motion-anchor"></a>
 
 > Approve progress with respect to the following matters:
 
@@ -2976,6 +2994,8 @@ Unanimous (14-0)
 ### 18#2. Speed Limits on
   School Zones
 
+<a id="motion-18-2-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to report back at a future meeting of the Civic Works Committee with respect   to reducing the speed limit in school zones in order to improve pedestrian   safety.
 
 **✅ Motion
@@ -2985,6 +3005,8 @@ Unanimous (14-0)
 
 ### 4#3. Information About
   the Use of Credit Cards for Property Tax Payments on the City Website
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   staff report dated March 24, 2015 regarding the use of credit cards for   property tax payments on the City’s website BE RECEIVED for information.
 
@@ -3002,6 +3024,8 @@ Unanimous (14-0)
 ### 9#2. Transfer of Farm
   Animals from Storybook Gardens and Go-Forward Business Strategy
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > Approve that clause 9, of the 4th Report of   the Community and Protective Services Committee be amended in part b) by   adding the words “including, where practical, appropriate sanctuaries,” after   the words “suitable facilities”.
 
 **✅ Motion Passed**
@@ -3011,6 +3035,8 @@ Unanimous (14-0)
 ### 9#2. Transfer of Farm
   Animals from Storybook Gardens and Go-Forward Business Strategy
 
+<a id="motion-9-2-1" class="motion-anchor"></a>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -3019,6 +3045,8 @@ Unanimous (14-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   the Committee of the Whole, in camera, for the purpose of considering the   following:
 
@@ -3030,6 +3058,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE NINTH MEETING HELD ON MARCH 10, 2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Ninth Meeting,   held on March 10, 2015.
 
 **✅ Motion Passed**
@@ -3039,6 +3069,8 @@ Unanimous (14-0)
 ### 2. His Worship the
   Mayor accepts the "Best Feature Award" received by the City of
   London, for the interactive exhibit at the Lifestyle Home Show.
+
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of Stage XI Enquiries to be dealt with prior to Stage V   Committee of the Whole, In Camera, to permit the potential consideration of   two additional In Camera matte...
 
@@ -3050,6 +3082,8 @@ Unanimous (14-0)
   Mayor accepts the "Best Feature Award" received by the City of
   London, for the interactive exhibit at the Lifestyle Home Show.
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 17 of   the Council Procedure By-law, leave be given for discussion and debate and   the making of a substantive motion to provide for an additional Committee of   the Whole, In Camera matter related to the security of the municipality or   local board.
 
 **✅ Motion Passed**
@@ -3059,6 +3093,8 @@ Unanimous (14-0)
 ### 2. His Worship the
   Mayor accepts the "Best Feature Award" received by the City of
   London, for the interactive exhibit at the Lifestyle Home Show.
+
+<a id="motion-2-2" class="motion-anchor"></a>
 
 > Approve an additional in camera reason as   follows:   A matter pertaining to the security of the   property of the municipality or local board relating to an enquiry concerning   the status of security measures that have been put in place for Council   Members.
 
@@ -3070,6 +3106,8 @@ Unanimous (14-0)
   Mayor accepts the "Best Feature Award" received by the City of
   London, for the interactive exhibit at the Lifestyle Home Show.
 
+<a id="motion-2-3" class="motion-anchor"></a>
+
 > Approve that pursuant to section 17 of   the Council Procedure By-law, leave be given for discussion and debate and   the making of a substantive motion to provide for an additional Committee of   the Whole, In Camera matter related to a matter subject to solicitor-client   privilege regarding th...
 
 **✅ Motion Passed**
@@ -3078,6 +3116,8 @@ Unanimous (14-0)
 
 ### 9. Property located at
   2081 Wallingford Avenue (SP14-038425)
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with   respect to the amended site plan application of Rembrandt Developments   (London) Inc., with respect to the property located at 2081 Wallingford   Avenue:   a)          the   Approval Authority BE ADVISED that the Municipal Council supports the   Approv...
 
@@ -3097,6 +3137,8 @@ Unanimous (14-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth (O-8014/O-8362)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Approve referral of the entire clause   11 to a future meeting of the Planning and Environment Committee, in order to   provide an opportunity for further research of the proposal.
 
 **❌ Motion Failed**
@@ -3115,6 +3157,8 @@ Unanimous (14-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth (O-8014/O-8362)
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3125,6 +3169,8 @@ Unanimous (14-0)
   Exeter Road, North of Dingman Drive, east of White Oak Road and west of the
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth (O-8014/O-8362)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > The motion to Approve part b), subsections   i) and ii) of clause 11 is put.
 
@@ -3144,6 +3190,8 @@ Unanimous (14-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth (O-8014/O-8362)
 
+<a id="motion-11-3" class="motion-anchor"></a>
+
 > Approve that clause 11, part b)   subsection iii), BE REFERRED back to staff to consider future options for   urban growth boundary expansion for industrial uses, given the new information   that has emerged since the Planning and Environment Committee meeting.
 
 **✅ Motion Passed**
@@ -3155,6 +3203,8 @@ Unanimous (14-0)
   Marr Drain - Recommended Urban Growth Boundary Expansion for Future
   Industrial Growth (O-8014/O-8362)
 
+<a id="motion-11-4" class="motion-anchor"></a>
+
 > The motion to Approve remainder of clause   11 is put.
 
 **✅ Motion Passed**
@@ -3164,6 +3214,8 @@ Unanimous (14-0)
 ### 15. Riverbend South
   Secondary Plan - Application for Approval of Draft Plan of Subdivision -
   Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Amend clause 15 in the second line of   part a) by adding the words “BE INTRODUCED at the Municipal Council meeting   to be held on March 31, 2015”, after the words “March 23, 2015”.
 
@@ -3175,6 +3227,8 @@ Unanimous (14-0)
   Secondary Plan - Application for Approval of Draft Plan of Subdivision -
   Official Plan and Zoning By-law Amendments (39T-14505/OZ-8426)
 
+<a id="motion-15-1" class="motion-anchor"></a>
+
 > Approve clause 15, as amended.
 
 **✅ Motion Passed**
@@ -3183,6 +3237,8 @@ Unanimous (14-0)
 
 ### 16. 5th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with   respect to the 3rd Report of the London Advisory Committee on Heritage, from   its meeting held on February 11, 2015:   a)         the   following actions be taken with respect to the Stewardship Sub-committee   minutes from its meeting held on February...
 
@@ -3194,6 +3250,8 @@ Unanimous (14-0)
 ### 17. Community and
   Protective Services Committee Meeting – April 21, 2015
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > That the April 21, 2015 meeting of the   Community and Protective Services Committee BE HELD at an offsite venue large   enough to accommodate the anticipated attendance.
 
 **✅ Motion Passed**
@@ -3203,6 +3261,8 @@ Unanimous (13-0)
 ### 19. Confirmation of
   Appointment to the London Advisory Committee on Heritage
 
+<a id="motion-19-0" class="motion-anchor"></a>
+
 > That the following individuals BE CONFIRMED   to the London Advisory Committee on Heritage for the term ending February 28,   2019:   Voting:   Maggie Whalley - Built Heritage-London   Branch of the Architectural Conservancy of Ontario   Non-Voting:    Joshua Dent - London Heritage Council
 
 **✅ Motion
@@ -3211,6 +3271,8 @@ Passed**
 Unanimous (14-0)
 
 ### 20. Lobbyist Registry
+
+<a id="motion-20-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to bring forward its earlier report on the potential for implementing a   Lobbyist Registry, for the consideration of the Municipal Council.
 

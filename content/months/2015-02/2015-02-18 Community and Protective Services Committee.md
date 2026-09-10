@@ -883,6 +883,8 @@ Motion
 ### 2. 1st Report of the
   Accessibility Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -893,6 +895,8 @@ Unanimous (6-0)
 ### 3. London's Child and
   Youth Network 2014 Progress Report and Child and Youth Network Impact
   Assessment Update
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -906,6 +910,8 @@ Unanimous (6-0)
   between The City of London and The YMCA of Western Ontario and The London
   Public Library Board
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -917,6 +923,8 @@ Unanimous (5-0)
   Prime Consultant for the Southwest Multi-Purpose Recreation Centre (RFP
   14-61) (Project # RC2755)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -926,6 +934,8 @@ Unanimous (5-0)
 
 ### 6. Recreation Activity
   Management System (RFP 14-48)
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -939,6 +949,8 @@ Unanimous (5-0)
   Day Program Management Consulting and Administrator Services Contract for the
   Dearness Homes
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -949,6 +961,8 @@ Unanimous (6-0)
 ### 8. Housing
   Collaborative Initiative (HCI) Update
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -958,6 +972,8 @@ Unanimous (6-0)
 
 ### 9. Changes to
   Proposals Under Investment in Affordable Housing (IAH) Program (RFP14-36)
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -970,6 +986,8 @@ Unanimous (6-0)
   Affordable Housing (IAH) Program (2014 Extension) Funding Years 2 to 6 and
   Recommendation for Additional Proposal Under (RFP 14-36)
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -980,14 +998,7 @@ Unanimous (6-0)
 ### 11. End of Operation
   Agreement (EOA) for Social Housing Providers in London and Middlesex County
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 12. Food Trucks
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -998,14 +1009,7 @@ Unanimous (6-0)
 
 ### 12. Food Trucks
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 12. Food Trucks
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1015,6 +1019,30 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 12. Food Trucks
+
+<a id="motion-12-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 12. Food Trucks
+
+<a id="motion-12-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 12. Food Trucks
+
+<a id="motion-12-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1032,6 +1060,8 @@ Unanimous (6-0)
 
 ### 12. Food Trucks
 
+<a id="motion-12-4" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1047,6 +1077,8 @@ Unanimous (6-0)
 </details>
 
 ### 12. Food Trucks
+
+<a id="motion-12-5" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1064,6 +1096,8 @@ Unanimous (6-0)
 
 ### 12. Food Trucks
 
+<a id="motion-12-6" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1073,6 +1107,8 @@ Unanimous (6-0)
 
 ### 13. General Orientation
   – Key Committee Matters
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1084,6 +1120,8 @@ Unanimous (5-0)
 ### 14. 2nd Report of the
   Animal Welfare Advisory Committee
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1093,6 +1131,8 @@ Unanimous (5-0)
 
 ### 15. 1st Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1104,6 +1144,8 @@ Unanimous (5-0)
 ### 16. 2nd Report of the
   London Housing Advisory Committee
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1113,6 +1155,8 @@ Unanimous (5-0)
 
 ### 17. 1st Report of the
   Town and Gown Committee
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

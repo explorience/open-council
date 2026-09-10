@@ -360,6 +360,8 @@ The meeting adjourned at 6:25 PM.
 
 ### 2.1. London Community Grants Program Policy Update
 
+<a id="motion-2-1-2" class="motion-anchor"></a>
+
 > Motion to approve part c): c)     the Civic Administration BE DIRECTED to bring back recommendations for the potential introduction of an anonymized application process for the London Community Grants Program that could be implemented for 2022 funding allocations and be used going forward.
 
 **✅ Motion Passed (12 to 2)**
@@ -377,6 +379,8 @@ The meeting adjourned at 6:25 PM.
 
 ### 4.1. Comparison of Proposed London Hydro Restructuring Options
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > Motion to approve part c): c)      the Civic Administration BE DIRECTED to advise the Board of London Hydro Inc. that the Municipal Council will not be proceeding with the proposed "Holdco Option"; and,
 
 **✅ Motion Passed (13 to 1)**
@@ -393,6 +397,8 @@ The meeting adjourned at 6:25 PM.
 </details>
 
 ### 4.2. Confirmation of Appointments to Downtown London
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the following BE APPOINTED to the London Downtown Business Association for the term ending November 15, 2022:    Jerry Pribil - Marienbad Restaurant  Scott Collyer - Empyrean Communication Resources.
 

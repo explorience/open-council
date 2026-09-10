@@ -727,6 +727,8 @@ The meeting adjourned at 9:37 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -734,6 +736,8 @@ The meeting adjourned at 9:37 PM.
 Unanimous (5-0)
 
 ### 3.3. Public Participation Meeting - Application - 307 Fanshawe Park Road East (Z-9006)
+
+<a id="motion-3-3-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, with respect to the application of Royal Premier Homes, relating to the property located at 307 Fanshawe Park Road East, the proposed by-law attached hereto as Appendix "A" BE INTRODUCED at the Municipal Council meeting on October...
 
@@ -752,6 +756,8 @@ Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 3700 Colonel Talbot Road and 3645 Bostwick Road 39T-17503 (OZ-8838)
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by W-3 Lambeth Farms Inc., relating to the properties located at 3700 Colonel Talbot Road and 3645 Bostwick Road: a)         the proposed by-law appended to the staff ...
 
 **✅ Motion Passed (5 to 0)**
@@ -759,6 +765,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. 9th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 11, 2019: a)         on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the ap...
 
@@ -768,6 +776,8 @@ Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 
 **✅ Motion Passed (5 to 0)**
@@ -775,6 +785,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 7. Adjournment
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > The meeting adjourned at 9:37 PM.
 

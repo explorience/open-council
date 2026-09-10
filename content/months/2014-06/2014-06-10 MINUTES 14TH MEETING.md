@@ -2819,6 +2819,8 @@ Passed
 
 ### 1#11. Disclosures of Pecuniary Interest
 
+<a id="motion-1-11-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2833,6 +2835,8 @@ Passed
 </details>
 
 ### 1#11. Disclosures of Pecuniary Interest
+
+<a id="motion-1-11-2" class="motion-anchor"></a>
 
 > The motion to Approve part c) of clause 2   is put.
 
@@ -2849,6 +2853,8 @@ Passed
 
 ### 1#11. Disclosures of Pecuniary Interest
 
+<a id="motion-1-11-3" class="motion-anchor"></a>
+
 > Approve clause 1.   1.               That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the recommendation of the Manager   of Realty Service...
 
 **✅ Motion Passed**
@@ -2858,6 +2864,8 @@ Unanimous (13-0)
 ### 1#12. (ADDED) Councillor
   D. Brown - Emergent Motion - Application to Serve on FCM Standing
   Committee(s)
+
+<a id="motion-1-12-0" class="motion-anchor"></a>
 
 > Approve that that pursuant to section 18.2 of the   Council Procedure By-law, leave be given for the introduction of an emergent   motion with respect to serving on the Federation of Canadian Municipalities   Standing Committee(s) and meeting attendance.
 
@@ -2869,6 +2877,8 @@ Unanimous (13-0)
   D. Brown - Emergent Motion - Application to Serve on FCM Standing
   Committee(s)
 
+<a id="motion-1-12-1" class="motion-anchor"></a>
+
 > Approve that, subject to the approval of the application of Councillor D.   Brown to serve on the Federation of Canadian Municipalities (FCM) Standing   Committee(s), the following actions be taken:   a)              Councillor D. Brown BE AUTHORIZED to attend:    i)                the FCM Standi...
 
 **✅ Motion Passed**
@@ -2878,6 +2888,8 @@ Unanimous (13-0)
 ### 1#12. (ADDED) Councillor
   D. Brown - Emergent Motion - Application to Serve on FCM Standing
   Committee(s)
+
+<a id="motion-1-12-2" class="motion-anchor"></a>
 
 > Approve that pursuant to section 18.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to Councillor Baechler's request to attend   September FCM meeting.
 
@@ -2889,6 +2901,8 @@ Unanimous (13-0)
   D. Brown - Emergent Motion - Application to Serve on FCM Standing
   Committee(s)
 
+<a id="motion-1-12-3" class="motion-anchor"></a>
+
 > Approve that the request of Councillor   J.L. Baechler to attend the September 3 - 6, 2014 FCM Standing Committee meeting   in Saguenay, QC, BE APPROVED and that Councillor J.L. Baechler BE REIMBURSED   for the associated expenses outside of annual expense allocation subject to   the annual budge...
 
 **✅ Motion Passed**
@@ -2897,6 +2911,8 @@ Unanimous (13-0)
 
 ### 11#2. Mud Creek
   Subwatershed
+
+<a id="motion-11-2-0" class="motion-anchor"></a>
 
 > Approve That clause 11 be deleted in its   entirety and be replaced with the following new clause 11:   That, on the recommendation of the Managing   Director Environmental & Engineering Services and City Engineer, the   following actions be taken with respect to the Mud Creek Subwatershed Study ...
 
@@ -2914,6 +2930,8 @@ Unanimous (13-0)
 ### 11#2. Mud Creek
   Subwatershed
 
+<a id="motion-11-2-1" class="motion-anchor"></a>
+
 > Approve clause 11, as amended.
 
 **✅ Motion Passed**
@@ -2930,6 +2948,8 @@ Unanimous (13-0)
 ### 2#4. School Crossing
   Guard Program
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > The motion to Approve parts a) and b) of   clause 2 is put.
 
 **✅ Motion Passed**
@@ -2938,6 +2958,8 @@ Unanimous (14-0)
 
 ### 2#4. School Crossing
   Guard Program
+
+<a id="motion-2-4-1" class="motion-anchor"></a>
 
 > Approve that pursuant to section 13.8 of   the Council Procedure By-law, the actions of the Municipal Council taken at   its meeting of May 20, 2014, with respect to part c) of clause 6 of the 9th   Report of the Civic Works Committee, related to no action being taken to   changed the current Cou...
 
@@ -2948,6 +2970,8 @@ Unanimous (14-0)
 ### 2#4. School Crossing
   Guard Program
 
+<a id="motion-2-4-2" class="motion-anchor"></a>
+
 > Approve:   ii)         that   notwithstanding part 11(e)(iii) of clause 5(16) of the Policy Manual, which   indicates that financial grants/contributions or awards to third party   individuals, organizations or groups shall be directed to the appropriate   Civic Department to be addressed through...
 
 **✅ Motion Passed**
@@ -2956,6 +2980,8 @@ Unanimous (14-0)
 
 ### 3#5. Fox Hollow SWM
   Facility No. 1 - Increase in Contract Value (ES3020-FH1)
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Fox Hollow SWM Facility No. 1   – South Cell and Woodlot Berm clay cut-off wall works:   a)         the   Fox Hollow No. 1 SWM Fac...
 
@@ -2973,6 +2999,8 @@ Unanimous (14-0)
 ### 7#2. Consideration of
   Appointment to the Cycling Advisory Committee
 
+<a id="motion-7-2-0" class="motion-anchor"></a>
+
 > That Diane Szoller, representative of   London Middlesex Road Safety Committee, BE APPOINTED as a Voting Member on   the Cycling Advisory Committee for the term ending February 28, 2015.
 
 **✅ Motion
@@ -2983,6 +3011,8 @@ Unanimous (14-0)
 ### 8#4. Chelsea Green
   Subdivision (formerly Terrace Street Subdivision) (39T-02511)
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > Approve Clause 8 BE REFERRED back to the   Civic Administration for further discussion with the applicant and a report   back at a future meeting of the Planning and Environment Committee. Clause 8   reads as follows:   “That, on the recommendation of the Senior   Planner, Development Services, t...
 
 **✅ Motion Passed**
@@ -2991,6 +3021,8 @@ Unanimous (14-0)
 
 ### 9#4. Storage Units and
   Non-Permanent Structures
+
+<a id="motion-9-4-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to investigate and report back to the Planning and Environment Committee on   the banning of storage containers and non-permanent structures in residential   rear yards.
 
@@ -3002,6 +3034,8 @@ Unanimous (14-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-0" class="motion-anchor"></a>
+
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the   following:     a)         A   matter pertaining to instructions and directions to officers and employees of   the Corporation pertaining to a proposed acquisition of land; advice that i...
 
 **✅ Motion Passed**
@@ -3010,6 +3044,8 @@ Unanimous (13-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON MAY 20, 2014
+
+<a id="motion-vi-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the 13th   Meeting held on May 20, 2014.
 
@@ -3021,6 +3057,8 @@ Unanimous (14-0)
   Strategy and Implementation Plan - Keeping the Forest in the Forest City
   (Refer to the Planning and Environment Committee Stage for Consideration with
   Clause 5 of the 11th Report of the Planning and Environment Committee.)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -3038,6 +3076,8 @@ Unanimous (14-0)
 ### 7. By-law Amendments
   for Expanding Animal Welfare Initiatives
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Approve referral of clause 7 to a public   participation meeting to be held at the July meeting of the Community and   Protective Services Committee, in order to receive additional information,   including legal advice, related to comments provided by the public and the   Animal Welfare Advisory ...
 
 **✅ Motion Passed**
@@ -3054,6 +3094,8 @@ Unanimous (14-0)
 ### 11. H. Hussein, Project
   Coordinator, London and Middlesex Local Immigration Partnership Project
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > That the request of H. Hussein, Project   Coordinator, London and Middlesex Local immigration Partnership Project, for   delegation status before the Community and Protective Services Committee with   respect to the London & Middlesex Local Immigration Partnership, BE   APPROVED.
 
 **✅ Motion
@@ -3065,6 +3107,8 @@ Unanimous (14-0)
   Contribution Amending Agreements with Each of the Government of Canada and
   the Government of Ontario for the HELP Clean Water Intiative
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   proposed by-law appended to the staff report dated May 26, 2014 BE INTRODUCED   at the Municipal Council meeting of June 10, 2014, to authorize the execution   of a Contribution...
 
 **✅ Motion
@@ -3074,6 +3118,8 @@ Unanimous (14-0)
 
 ### 16. Property located at
   69 Trevithen Street
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to determine the feasibility of saving the trees on the property located at   69 Trevithen Street.
 

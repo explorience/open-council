@@ -718,6 +718,8 @@ The meeting adjourned at 9:44 PM.
 
 ### 2. Consent
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -726,6 +728,8 @@ Unanimous (6-0)
 
 ### 4.1. 3rd Report of the London Advisory Committee on Heritage
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, the following actions be taken with respect to the 3rd Report of the London Advisory Committee on Heritage from its meeting held on March 9, 2022: a)  the Civic Administration BE ADVISED that the London Advisory Committee on Heritage (LACH) is not satisfied with the conclusions of the Revis...
 
 **✅ Motion Passed (4 to 0)**
@@ -733,6 +737,8 @@ Unanimous (6-0)
 Unanimous (4-0)
 
 ### 4.2. Proposed Outdoor Patio Capacity Limit Extension - Councillors Fyfe-Millar and Lewis
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That Civic Administration BE DIRECTED to investigate options to amend the current capacity restrictions for outdoor patios associated with a restaurant or tavern to allow greater flexibility for restauranteurs in meeting their AGCO capacity limits and report back with options for Council’s consid...
 

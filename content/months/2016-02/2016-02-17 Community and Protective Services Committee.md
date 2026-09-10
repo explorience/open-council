@@ -676,6 +676,8 @@ The meeting adjourned at 6:14 PM.
 ### 2. 1st Report of the
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -685,6 +687,8 @@ Unanimous (6-0)
 
 ### 3. 1st Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -696,6 +700,8 @@ Unanimous (6-0)
 ### 4. Supporting the
   Community Response to Syrian Newcomers
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -705,6 +711,8 @@ Unanimous (6-0)
 
 ### 5. 2016-2019 Long-Term
   Care Home Accountability Planning Submission (LAPS)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -716,6 +724,8 @@ Unanimous (6-0)
 ### 6. Contract Extension:
   C14-046 Advertising Services at the City's Arenas
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -725,6 +735,8 @@ Unanimous (6-0)
 
 ### 7. Springbank Park Playground Upgrade
   Sponsored by Jenny Jones – London Hometown Hero Project
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -737,6 +749,8 @@ Unanimous (5-0)
   Family Centre: Thames Valley District School Board, Northwest London New
   Public School
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -748,6 +762,8 @@ Unanimous (6-0)
   Family Centre: Thames Valley District School Board, Northeast London New
   Public School
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -756,6 +772,8 @@ Unanimous (6-0)
 
 ### 10. Request for
   Proposal 15- 53 - Self-Contained Breathing Apparatus Life Cycle Replacement
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -767,6 +785,8 @@ Unanimous (5-0)
 ### 11. Homelessness
   Partnering Strategy Funding Agreement - Data Sharing Agreement
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -776,6 +796,8 @@ Unanimous (5-0)
 
 ### 12. Noise By-law
   Complaints
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -789,6 +811,8 @@ Unanimous (5-0)
   the City of London (Dearness Home) and the South West Local Health
   Integration Network (LHIN) – Declaration of Compliance 2015
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -798,6 +822,8 @@ Unanimous (6-0)
 
 ### 15. 1st Report of the
   Town and Gown Committee
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -809,6 +835,8 @@ Unanimous (5-0)
 ### 16. 1st Report of the
   Accessibility Advisory Committee
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -819,6 +847,8 @@ Unanimous (5-0)
 ### 17. Update on Parks for
   Londoners with Dogs
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -827,6 +857,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 18. Deferred Matters List
+
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

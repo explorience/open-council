@@ -400,6 +400,8 @@ The
 
 ### 15. Downtown Office Guidelines
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion

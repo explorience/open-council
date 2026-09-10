@@ -538,6 +538,8 @@ The Corporate Services Committee convened
 ### 2. City-Initiated
   Assessment Appeals
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -547,6 +549,8 @@ Unanimous (5-0)
 
 ### 3. Vehicle Lease
   Agreement - Fleet Services and London Animal Care Centre
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -558,6 +562,8 @@ Unanimous (5-0)
 ### 4. 2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -568,6 +574,8 @@ Unanimous (5-0)
 ### 5. Transfer of Donated
   Funds to Mayor's Sustainable Energy Council
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -577,6 +585,8 @@ Unanimous (5-0)
 
 ### 6. 2014 Ontario
   Provincial General Election Candidate Questionnaire
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -589,6 +599,8 @@ Unanimous (3-0)
   Federation of Canadian Municipalities (FCM) 2015 Sustainable Communities
   Conference and Trade Show
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -599,6 +611,8 @@ Unanimous (5-0)
 ### 8. Appeal - Request
   for Tender 14-08: 2014 Infrastructure Lifecycle Renewal Program Contract #1,
   Simcoe Street and Henry Street
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -617,6 +631,8 @@ Unanimous (5-0)
 ### 9. Required
   Expenditure for HVAC Unit – Covent Garden Market Corporation
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -626,6 +642,8 @@ Unanimous (5-0)
 
 ### 10. Appointment to the
   Animal Welfare Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -637,6 +655,8 @@ Unanimous (4-0)
 ### 11. Appointment to the
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -646,6 +666,8 @@ Unanimous (4-0)
 
 ### 12. Appointments to the
   Transportation Advisory Committee
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -657,6 +679,8 @@ Unanimous (4-0)
 ### 13. Appointment to the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -667,22 +691,7 @@ Unanimous (4-0)
 ### 14. Consideration of
   Appointments to the Cycling Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill)
-
-**Nay (1):** [Judy Bryant](/councillors/former/j-p-bryant)
-
-</details>
-
-### 14. Consideration of
-  Appointments to the Cycling Advisory Committee
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -700,6 +709,27 @@ Unanimous (4-0)
 
 ### 14. Consideration of
   Appointments to the Cycling Advisory Committee
+
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Harold Usher](/councillors/former/h-l-usher), [Joe Swan](/councillors/former/j-b-swan), [Bud Polhill](/councillors/former/b-polhill)
+
+**Nay (1):** [Judy Bryant](/councillors/former/j-p-bryant)
+
+</details>
+
+### 14. Consideration of
+  Appointments to the Cycling Advisory Committee
+
+<a id="motion-14-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -711,6 +741,8 @@ Unanimous (4-0)
 ### 15. ADDED - 2014
   Debenture Issue Update
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -721,6 +753,8 @@ Unanimous (5-0)
 ### 16. ADDED - Ombudsman
   Ontario - Closed Meeting - Industrial Land Strategy
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -730,6 +764,8 @@ Unanimous (4-0)
 
 ### 17. ADDED - Ombudsman
   Ontario - Closed Meeting - Fire Services
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -2522,6 +2522,8 @@ Motion Passed
 ### 10#3. Committee Appointment Preferences submitted
   by Council Members
 
+<a id="motion-10-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2529,6 +2531,8 @@ Motion Passed
 Unanimous (15-0)
 
 ### 11#2. 7th Report of the Governance Working Group
+
+<a id="motion-11-2-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2545,6 +2549,8 @@ Unanimous (15-0)
 
 ### 12#2. Additional “As Needed” SPPC Meeting Dates
 
+<a id="motion-12-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2553,6 +2559,8 @@ Unanimous (15-0)
 
 ### 2#2. Joining the Compact
   of Mayors
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director   of Community and Economic Innovation, the City of London’s participation in   the Compact of Mayors BE APPROVED.
 
@@ -2570,6 +2578,8 @@ Unanimous (15-0)
 ### 2#4. Property located at
   275 Thames Street
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Heritage Planner,   notice of Municipal Council's intention to pass a by-law to repeal By-law No.   L.S.P. 3432-10, being "A by-law to designate 275 Thames Street to be of   historical and co...
 
 **✅ Motion Passed**
@@ -2578,6 +2588,8 @@ Unanimous (15-0)
 
 ### 3#3. Property located at
   510 Central Avenue (SP15-005948)
+
+<a id="motion-3-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Manager,   Development Planning, in response to the letter of appeal to the Ontario   Municipal Board, dated August 4, 2015, as submitted by Donald deJong,   relating to the Site Plan Approval application for the property located at   510 Central Avenue, the Cit...
 
@@ -2595,6 +2607,8 @@ Unanimous (15-0)
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-4-3-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.6   of the Council Procedure By-law, part a) of clause 4 of the 24th Report of   the Planning and Environment Committee, regarding the 12th Report of the   London Advisory Committee on Heritage be reconsidered in order to permit part   a) of the clause to be vo...
 
 **✅ Motion Passed**
@@ -2604,6 +2618,8 @@ Unanimous (15-0)
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-4-3-2" class="motion-anchor"></a>
+
 > Approve part a) of clause 4.
 
 **✅ Motion Passed**
@@ -2612,6 +2628,8 @@ Unanimous (13-0)
 
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-4-3-3" class="motion-anchor"></a>
 
 > Approve that pursuant section 2.4 of the   Council Procedure By-law, the rules be suspended to permit a second   reconsideration of clause 4 of the 24th Report of the Planning and Environment   Committee regarding the 12th Report of the London Advisory Committee on   Heritage.
 
@@ -2622,6 +2640,8 @@ Unanimous (15-0)
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-4-3-4" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.6 of   the Council Procedure By-law, clause 4 of the 24th Report of the Planning and   Environment Committee regarding the 12th Report of the London Advisory   Committee on Heritage be reconsidered, in order to provide for part a) of the   clause to be voted on...
 
 **✅ Motion Passed**
@@ -2630,6 +2650,8 @@ Unanimous (15-0)
 
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-4-3-5" class="motion-anchor"></a>
 
 > Approve part a) of clause 4.
 
@@ -2640,6 +2662,8 @@ Unanimous (13-0)
 ### 4#3. 12th Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-4-3-6" class="motion-anchor"></a>
+
 > Approve parts b) to e), inclusive, of clause   4.
 
 **✅ Motion Passed**
@@ -2649,6 +2673,8 @@ Unanimous (15-0)
 ### 5#3. Properties located
   at 2095 Coronation Drive and 955 Gainsborough Road (39T-15502/Z-8477)
   (Related to Bill No. 386)
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Planner   II, Development Services, the following actions be taken with respect to the   application of Banman Developments (West) Inc., relating to the properties   located at 2065 Coronation Drive and 955 Gainsborough Road:   a)              the   Site Plan Ap...
 
@@ -2666,6 +2692,8 @@ Unanimous (15-0)
 ### 5#4. Public Participation Meeting – Amendments
   to Consolidated Fees and Charges By-law
 
+<a id="motion-5-4-0" class="motion-anchor"></a>
+
 > Amend clause 5 by deleting it in its   entirety and by replacing it with the following new clause:   “That,   on the recommendation of the City Clerk, with the concurrence of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   proposed revised by-law, wi...
 
 **✅ Motion Passed**
@@ -2675,6 +2703,8 @@ Unanimous (15-0)
 ### 5#4. Public Participation Meeting – Amendments
   to Consolidated Fees and Charges By-law
 
+<a id="motion-5-4-1" class="motion-anchor"></a>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -2683,6 +2713,8 @@ Unanimous (15-0)
 
 ### 6#3. Property located at
   2170 Wharncliffe Road South (TZ-8520) (Related to Bill No. 387)
+
+<a id="motion-6-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, based on the application of Cedar Auto,   relating to the property located at 2170 Wharncliffe Road South, the proposed   by-law appended to the staff report dated November 2, 2015 BE INTRODUCED at   the Municipal ...
 
@@ -2700,6 +2732,8 @@ Unanimous (15-0)
 ### 7#3. Property located at
   759 Elizabeth Street - Request for Demolition
 
+<a id="motion-7-3-0" class="motion-anchor"></a>
+
 > Approve that clause 7 be amended by   adding the following new part c):   “c)        photographic documentation of the interior and exterior of   the subject building BE COMPLETED prior to any demolition activity, to   ensure archival records exist to allow for future research.”
 
 **✅ Motion Passed**
@@ -2708,6 +2742,8 @@ Unanimous (15-0)
 
 ### 7#3. Property located at
   759 Elizabeth Street - Request for Demolition
+
+<a id="motion-7-3-1" class="motion-anchor"></a>
 
 > Approve clause 7, as amended
 
@@ -2725,6 +2761,8 @@ Unanimous (15-0)
 ### 7#3. Property located at
   759 Elizabeth Street - Request for Demolition
 
+<a id="motion-7-3-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2735,6 +2773,8 @@ Unanimous (15-0)
   Consulting Engineer for Design and Construction of Stormwater Management
   Facilities
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the appointment of Consulting   Engineers for the 2015 Stormwater Management Facility (SWMF) Design and   Construction program in acco...
 
 **✅ Motion Passed**
@@ -2743,6 +2783,8 @@ Unanimous (15-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   the Committee of the Whole, in camera, for the purpose of considering the   following matters::
 
@@ -2754,6 +2796,8 @@ Unanimous (15-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-EIGHTH MEETING HELD ON OCTOBER 27,
   2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 28th Meeting   held on October 27, 2015.
 
 **✅ Motion Passed**
@@ -2762,6 +2806,8 @@ Unanimous (15-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 19.2   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to a request for support from Councillor V.   Ridley related to a nomination to the Ontario Good Roads Association Board of   Directors.
 
@@ -2772,6 +2818,8 @@ Unanimous (15-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve that the Ontario Good Roads   Association (OGRA) BE ADVISED that the Municipal Council of the City of   London endorses the nomination of Councillor Virginia Ridley to the OGRA   Board.
 
 **✅ Motion Passed**
@@ -2779,6 +2827,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-7" class="motion-anchor"></a>
 
 > Approve Second Reading of Bill No.   386.
 
@@ -2795,6 +2845,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-8" class="motion-anchor"></a>
+
 > Approve Third Reading and Enactment of   Bill No. 386.
 
 **✅ Motion Passed**
@@ -2809,6 +2861,8 @@ Unanimous (15-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-9" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading   of Bill No. 387.
 
@@ -2825,6 +2879,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-10" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No.   387.
 
 **✅ Motion Passed**
@@ -2839,6 +2895,8 @@ Unanimous (15-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-11" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Bill   No. 387.
 
@@ -2858,6 +2916,8 @@ Unanimous (15-0)
   December (Refer to the Civic Works Committee stage for consideration with
   clause 19 of the 15th Report of the Civic Works Committee.)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2867,6 +2927,8 @@ Unanimous (15-0)
 ### 3. Customer
   Relationship Management (CRM) Software Implementation Partner - Phase Two
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Neighbourhood, Children and Fire Services, the following actions be   taken with respect to the Customer Relationship Management Software   Implementation Partner:   a)         the   price of $350,399 (HST extra) negotiated with Pricewaterho...
 
 **✅ Motion Passed**
@@ -2875,6 +2937,8 @@ Unanimous (15-0)
 
 ### 6. Request for
   Approval of an Expense on an Exception Basis
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That, notwithstanding Council Policy 28(2)   – Council Members’ Expense Account, the request by Councillor P. Hubert to   provide up to $175.00 from his annual expense allocation, to mitigate   security costs for the Hyde Park Santa Clause Parade, BE APPROVED.
 
@@ -2892,6 +2956,8 @@ Unanimous (15-0)
 ### 8. Advisory Committee
   Review
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to scope out the potential parameters for a comprehensive review of the Advisory   Committee structure, and report back to the appropriate Standing Committee,   in order for the Municipal Council to make an informed decision with respect   to next step...
 
 **✅ Motion Passed**
@@ -2900,6 +2966,8 @@ Unanimous (15-0)
 
 ### 10. FCM – Women in
   Local Government  - Diverse Voices for Change Initiative
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > That the Federation of Canadian   Municipalities (FCM) BE ADVISED that the City of London would like to be a   program participant in FCM’s Standing Committee on Increasing Women’s   Participation in Municipal Government’s new three-year Women in Local   Government program entitled Diverse Voices...
 
@@ -2910,6 +2978,8 @@ Unanimous (15-0)
 ### 12. Establishment of
   W12A Landfill Public Liaison Committee - Point of Source Water Treatment
   Program
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > That the Point of Source Water Treatment   Program BE REFERRED back to the Civic Administration to report back on the   legal and other implications of a two-tier subsidy system.  (2015-E07)
 
@@ -2927,6 +2997,8 @@ Unanimous (15-0)
 ### 13. Parking Strategy
   for Downtown London: Appointment of Consulting Engineer
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Parking Strategy project for   Downtown London:   a)         BA   Consulting Group Ltd. BE APPOINTED Consulting Engineers for the ...
 
 **✅ Motion Passed**
@@ -2935,6 +3007,8 @@ Unanimous (15-0)
 
 ### 14. RFP-15-42 Yard
   Material Waste Composting - Irregular Bid
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer the   following actions be taken with respect to the award of the work outlined in   Request for Proposals (RFP) 15-42 - Yard Material Composting:   a)         the   proposal submitted...
 
@@ -2945,6 +3019,8 @@ Unanimous (15-0)
 ### 15. Winter Maintenance
   Program Enhancements
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer and the   Managing Director, Parks and Recreation, the following actions be taken with   respect to the proposed Winter Maintenance Program Enhancements:   a)         the   Winter Main...
 
 **✅ Motion Passed**
@@ -2954,6 +3030,8 @@ Unanimous (15-0)
 ### 18. Renewal of the Lead
   Service Extension Replacement Loan Program (Related to Bill No. 376)
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   proposed by-law to amend the “By-law to provide for a Lead Service Extension   Replacement Loan Program Pilot Project for owner-occupied dwellings of three   or less dwelling un...
 
 **✅ Motion Passed**
@@ -2962,6 +3040,8 @@ Unanimous (15-0)
 
 ### 19. Free Parking in
   December
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Development and Compliance Services and the Managing Director,   Environmental and Engineering Services and City Engineer;   a)          the   removal of free parking in Downtown and Richmond Row in December BE APPROVED;   it being noted tha...
 

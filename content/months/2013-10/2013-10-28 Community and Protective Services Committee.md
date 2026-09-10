@@ -511,6 +511,8 @@ That the Community and Protective Services
 ### 5. June Callwood
   Outstanding Achievement Award for Voluntarism in Ontario
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -520,6 +522,8 @@ Unanimous (4-0)
 
 ### 6. Ontario Works
   Decentralization
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -531,6 +535,8 @@ Unanimous (4-0)
 ### 7. Ontario Works
   Participant Profile, July 2013
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -541,6 +547,8 @@ Unanimous (4-0)
 ### 10. Single Source -
   Advertising Services in the City Arena Facilities
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -550,6 +558,8 @@ Unanimous (4-0)
 
 ### 11. Sign and Canopy
   By-law - Gateway Sign Feature Request
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -568,6 +578,8 @@ Unanimous (4-0)
 ### 12. 11th Report of the
   Animal Welfare Advisory Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -578,6 +590,8 @@ Unanimous (4-0)
 ### 13. 8th Report of the
   Accessibility Advisory Committee
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -587,6 +601,8 @@ Unanimous (4-0)
 
 ### 14. 9th Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed    Voting   Record:   Part   a) of clause 14:
 
@@ -605,6 +621,8 @@ Unanimous (4-0)
 ### 14. 9th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
 > Parts   b) and c) of clause 14:
 
 **❌ **
@@ -613,6 +631,8 @@ Unanimous (4-0)
 
 ### 17. S. Cordes,
   Executive Director, Youth Opportunities Unlimited - Update on the Cornerstone
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

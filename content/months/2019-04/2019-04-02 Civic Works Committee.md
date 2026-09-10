@@ -277,6 +277,8 @@ The meeting adjourned at 4:22 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1-2.6, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -284,6 +286,8 @@ The meeting adjourned at 4:22 PM.
 Unanimous (5-0)
 
 ### 5.3. (ADDED) High-Occupancy Vehicle (HOV) in Next Transportation Master Plan (TMP) Update
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization; it being further noted that the communication dated March 30, 2019 from Councillor M. van Holst with respect to t...
 

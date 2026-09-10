@@ -224,6 +224,8 @@ The meeting adjourned at 4:37 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5, inclusive, and 2.7 and 2.8, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -232,6 +234,8 @@ Unanimous (6-0)
 
 ### 2.6. Application - 130, 136, 146 and 164 Pond Mills Road - Pond Mills Subdivision Special Provisions 39T-12501
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Drewlo Holdings Inc., for the subdivision of land over Lot 1, Lot 7 and Lot 8 Registered Plan N...
 
 **✅ Motion Passed (6 to 0)**
@@ -239,6 +243,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the Deferred Matters List: a)   Item 4 BE AMENDED to read Q4 2020; b)  the Civic Administration BE REQUESTED to update the Expected Reply Dates and to report back at a future Planning and Environment Committee meeting; and, c)  the Managing Dir...
 

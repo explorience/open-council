@@ -422,6 +422,8 @@ Thank you and with that we're on item 7 adjournment looking for mover and second
 
 ### 2.7. Expropriation of Lands - Wellington Gateway Project - Civil Works - Phase 2
 
+<a id="motion-2-7-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
 **✅ Motion Passed (4 to 1) 🔥**

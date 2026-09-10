@@ -510,6 +510,8 @@ The meeting adjourned at 5:37 PM
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -517,6 +519,8 @@ The meeting adjourned at 5:37 PM
 Unanimous (4-0)
 
 ### 3.1. Lot 66, 1738 Hamilton Road
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the property located at Lot 66, 1738 Hamilton Road: a)            on the recommendation of the City Clerk, the report dated August 12, 2019 and entitled “Request for Council Resolution, under section 45(1.4) of the Planning Act, 1990 – Lot 66, ...
 
@@ -534,6 +538,8 @@ Unanimous (4-0)
 </details>
 
 ### 5.1. Minor Variances Submitted Under Section 45(1.4) of the Planning Act
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to report back with potential process options in response to applications for minor variances submitted under section 45.1.4) of the Planning Act.
 

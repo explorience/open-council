@@ -2208,6 +2208,8 @@ Motion carries. Thank you, folks, for adjourned. (muffled speaking)
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED
 
 **✅ Motion Passed (5 to 0)**
@@ -2215,6 +2217,8 @@ Motion carries. Thank you, folks, for adjourned. (muffled speaking)
 Unanimous (5-0)
 
 ### 3.4. 900 Jalna Boulevard (Z-9697)
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 900 Jalna GP Ltd, c/o MHBC Planning, relating to the property located at 900 Jalna Boulevard: a)    the proposed by-law appended to the staff report dated March...
 
@@ -2224,6 +2228,8 @@ Unanimous (5-0)
 
 ### 3.6. 3010-3050 Yorkville Street (Z-9692)
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 731675 Ontario Limited, (c/o York Developments), relating to the properties located at 3010-3050 Yorkville Street: a)    the proposed by-law appended to the sta...
 
 **✅ Motion Passed (5 to 0)**
@@ -2232,6 +2238,8 @@ Unanimous (5-0)
 
 ### 3.7. 460 Asher Crescent (Z-9701)
 
+<a id="motion-3-7-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Drewlo Holdings Inc., relating to the property located at 460 Asher Crescent, known legally as Block 231, 33M-826: a)    the proposed by-law appended to the sta...
 
 **✅ Motion Passed (5 to 0)**
@@ -2239,6 +2247,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.9. 613 Superior Drive (Z-9691)
+
+<a id="motion-3-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by The Ironstone Building Company Inc., relating to the property located at 613 Superior Drive: a)    the proposed by-law appended to the staff report dated March ...
 
@@ -2255,6 +2265,8 @@ Unanimous (5-0)
 
 ### 3.9. 613 Superior Drive (Z-9691)
 
+<a id="motion-3-9-1" class="motion-anchor"></a>
+
 > Motion to add part b) ii) which reads as follows: “b) ii)    work with the applicant for park enhancements or onsite amenity that may serve the neighbourhood, including play structures etc.;”
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -2269,6 +2281,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.9. 613 Superior Drive (Z-9691)
+
+<a id="motion-3-9-2" class="motion-anchor"></a>
 
 > Motion to add clause c) i) which reads as follows: “c) i)    to ensure the road conditions in the adjacent plan of subdivision are improved and communicate with developer on paving the unassumed streets (Kleinburg Drive and Appletree Gate) in the near term to ensure an accessible vehicular access...
 
@@ -2285,6 +2299,8 @@ Unanimous (5-0)
 
 ### 3.9. 613 Superior Drive (Z-9691)
 
+<a id="motion-3-9-3" class="motion-anchor"></a>
+
 > Motion to add part c) ii), which reads as follows: “c) ii)    Phase 4 of the subdivision to establish the east/west access on Superior with the connection to Adelaide Street;”
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -2299,6 +2315,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.9. 613 Superior Drive (Z-9691)
+
+<a id="motion-3-9-4" class="motion-anchor"></a>
 
 > Motion to approve the recommendation, as amended.
 
@@ -2315,6 +2333,8 @@ Unanimous (5-0)
 
 ### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
 
+<a id="motion-5-5-2-0" class="motion-anchor"></a>
+
 > That the 3rd Report of the Community Advisory Committee on Planning, from its meeting held on March 13, 2024 BE RECIEVED for information; it being noted that the Planning and Environment Committee heard a verbal delegation from S. Bergman, Chair, Community Advisory Committee, with respect to thes...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -2329,6 +2349,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.5.2. (ADDED) 3rd Report of the Community Advisory Committee on Planning - 1:00 PM, S. Bergman, Chair, Community Advisory Committee on Planning
+
+<a id="motion-5-5-2-1" class="motion-anchor"></a>
 
 > Pursuant to Section 27.6 of the Council Procedure By-law, the 3rd Report of the Community Advisory Committee on Planning BE MOVED to the first order of business after Consent.
 

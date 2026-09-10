@@ -1428,6 +1428,8 @@ Okay, we have a motion to adjourn, a hand vote. Thank you. Motion carries.
 
 ### 2.1. Delegation of Authority - Part Lot Control
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the proposed by-law appended to the staff report dated October 3, 2023 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on October 17, 2023 to amend By-law CP-17 being “A by-law to delegate certain por...
 
 **✅ Motion Passed (3 to 0)**
@@ -1435,6 +1437,8 @@ Okay, we have a motion to adjourn, a hand vote. Thank you. Motion carries.
 Unanimous (3-0)
 
 ### 3.2. 3480 Morgan Avenue (OZ-9100 / 39T-22503)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sifton Properties Limited, relating to the property located at 3480 Morgan Avenue: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the...
 
@@ -1444,6 +1448,8 @@ Unanimous (3-0)
 
 ### 3.4. Amendment to Increase Additional Residential Unit Permissions (OZ-9651)
 
+<a id="motion-3-4-3" class="motion-anchor"></a>
+
 > Motion to direct staff to remove the bedroom limit city-wide, except Near Campus Neighbourhoods, and report back on possible limits to Near Campus Neighbourhoods (NCN); it being noted that the Civic Administration has been directed to undertake a review of the current five-bedroom limit and to re...
 
 **✅ Motion Passed (4 to 0)**
@@ -1452,6 +1458,8 @@ Unanimous (4-0)
 
 ### 3.5. 50 King Street and 399 Ridout Street (OZ-9622)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 50 King Street London Limited, relating to the property located at 50 King Street & 399 Ridout Street North: a)    the proposed by-law appended to the staff rep...
 
 **✅ Motion Passed (4 to 0)**
@@ -1459,6 +1467,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Urban Design Peer Review Panel
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the communication from Deputy Mayor S. Lewis and Councillor S. Lehman with respect to the Urban Design Peer Review Panel BE REFERRED to the October 17, 2023 Council meeting for a decision; it being noted that the Planning and Environment Committee received the following communications with r...
 
@@ -1477,6 +1487,8 @@ Unanimous (4-0)
 
 ### 4.1. Urban Design Peer Review Panel
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.
 
 **❌ Motion Failed (2 to 2) 🔥**
@@ -1494,6 +1506,8 @@ Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the Deferred Matters List dated September 26, 2023 BE REFERRED to the October 17, 2023 Council meeting for a decision.
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -1509,6 +1523,8 @@ Unanimous (4-0)
 
 ### 5.1. Deferred Matters List
 
+<a id="motion-5-1-1" class="motion-anchor"></a>
+
 > That the communication related to the Urban Design Peer Review Panel (4.1) and the Deferred Matters List dated September 28, 2023 (5.1) BE REFERRED to the October 23, 2023 Planning and Environment Committee meeting for a decision.
 
 **❌ Motion Failed (2 to 2) 🔥**
@@ -1523,6 +1539,8 @@ Unanimous (4-0)
 </details>
 
 ### 6.1. 689 Oxford Street West - OLT Appeal and Instructions
+
+<a id="motion-6-1-0" class="motion-anchor"></a>
 
 > That the item relating to 689 Oxford Street West BE REFERRED to the October 17, 2023 Council meeting for a decision. A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose from the solicitor and officers and employees of th...
 

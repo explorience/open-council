@@ -1056,6 +1056,8 @@ The
 ### 2. Property located at
   160 Sunningdale Road West (H-8230)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1065,6 +1067,8 @@ Unanimous (6-0)
 
 ### 3. Property located at
   613 Sovereign Road (H-8234)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1076,6 +1080,8 @@ Unanimous (4-0)
 ### 4. Property located at
   1331 Hyde Park Road (H-8226)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1085,6 +1091,8 @@ Unanimous (6-0)
 
 ### 5. Building Division
   Monthly Report for August 2013
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1096,6 +1104,8 @@ Unanimous (6-0)
 ### 6. Urban Growth
   Boundary Inclusion Requests (O-7938)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1105,6 +1115,8 @@ Unanimous (6-0)
 
 ### 7. Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1116,6 +1128,8 @@ Unanimous (6-0)
 ### 8. 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1126,15 +1140,7 @@ Unanimous (6-0)
 ### 9. 3rd Report of the
   Agricultural Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 10. Property located at
-  660 Sunningdale Road East   (39T-09501/OZ-7638)
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1145,6 +1151,20 @@ Unanimous (6-0)
 
 ### 10. Property located at
   660 Sunningdale Road East   (39T-09501/OZ-7638)
+
+<a id="motion-10-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 10. Property located at
+  660 Sunningdale Road East   (39T-09501/OZ-7638)
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1163,6 +1183,8 @@ Unanimous (6-0)
 ### 10. Property located at
   660 Sunningdale Road East   (39T-09501/OZ-7638)
 
+<a id="motion-10-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1180,6 +1202,8 @@ Unanimous (6-0)
 ### 10. Property located at
   660 Sunningdale Road East   (39T-09501/OZ-7638)
 
+<a id="motion-10-3" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1189,6 +1213,8 @@ Unanimous (6-0)
 
 ### 11. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1207,15 +1233,7 @@ Unanimous (6-0)
 ### 11. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 11. Properties located
-  at 1057, 1059 and 1061 Richmond Street (Z-8106)
+<a id="motion-11-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1226,6 +1244,20 @@ Unanimous (6-0)
 
 ### 11. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+<a id="motion-11-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 11. Properties located
+  at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+<a id="motion-11-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1243,6 +1275,8 @@ Unanimous (6-0)
 
 ### 11. Properties located
   at 1057, 1059 and 1061 Richmond Street (Z-8106)
+
+<a id="motion-11-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1261,6 +1295,8 @@ Unanimous (6-0)
 ### 12. Property located at
   3493 Colonel Talbot Road
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1270,6 +1306,8 @@ Unanimous (6-0)
 
 ### 12. Property located at
   3493 Colonel Talbot Road
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1280,6 +1318,8 @@ Unanimous (6-0)
 
 ### 13. Planning and Environment Committee Meeting
   – October 29, 2013
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

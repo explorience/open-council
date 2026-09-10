@@ -1329,6 +1329,8 @@ All in favor of adjournment via a show of hands. That motion is carried. We are 
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.3, 2.5, 2.8, 2.9 and 2.10 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1337,6 +1339,8 @@ Unanimous (5-0)
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
 
+<a id="motion-2-6-1" class="motion-anchor"></a>
+
 > Motion to approve that the delegation request from B. Amendola, to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -1344,6 +1348,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+<a id="motion-2-6-2" class="motion-anchor"></a>
 
 > Motion to approve: "That the matter be referred to staff for further work on licensing issues, including: a)    limiting the allowable days for firework sales preceding days permitting allowable discharge of fireworks to (3) three; b)    applying the licensing fee on a per-day and per-vending-sit...
 
@@ -1360,6 +1366,8 @@ Unanimous (5-0)
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
 
+<a id="motion-2-6-3" class="motion-anchor"></a>
+
 > Motion to approve that: "a)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Business Licensing By-law by adding a new Schedule for Consumer Fireworks Sales;"
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -1374,6 +1382,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+<a id="motion-2-6-4" class="motion-anchor"></a>
 
 > Motion to approve that: "b)    the revised proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend Schedule “A-5”, being the Administrative Monetary Penalty System (AMPs) By-law and adding new penalties for Consumer Fi...
 
@@ -1390,6 +1400,8 @@ Unanimous (5-0)
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
 
+<a id="motion-2-6-5" class="motion-anchor"></a>
+
 > Motion to approve that: "c)    the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on April 2, 2024, to amend the Fireworks By-law PW-11 by allowing for consumer and display fireworks to be discharged on four specific days;"
 
 **❌ Motion Failed (2 to 3) 🔥**
@@ -1404,6 +1416,8 @@ Unanimous (5-0)
 </details>
 
 ### 2.6. Business Licensing By-law and Fireworks By-law – Amendments
+
+<a id="motion-2-6-6" class="motion-anchor"></a>
 
 > Motion to approve that: "d)    the proposed by-law, as appended to the Added Agenda, BE INTRODUCED at the Municipal   Council meeting to be held on April 2, 2024, to amend By-law A-59 being “A by-law to provide for Various Fees and Charges” to add Consumer Fireworks Sales Business Licence Fees;"
 
@@ -1420,6 +1434,8 @@ Unanimous (5-0)
 
 ### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve the request for delegation status from A.M. Valastro, to be heard at this meeting.
 
 **✅ Motion Passed (5 to 0)**
@@ -1428,6 +1444,8 @@ Unanimous (5-0)
 
 ### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
 
+<a id="motion-4-1-2" class="motion-anchor"></a>
+
 > Motion to approve part a) of the motion.
 
 **✅ Motion Passed (5 to 0)**
@@ -1435,6 +1453,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. 2024 Rock the Park One-Time Policy Exemption Request
+
+<a id="motion-4-1-3" class="motion-anchor"></a>
 
 > Motion to approve part b) of the motion
 
@@ -1450,6 +1470,8 @@ Unanimous (5-0)
 </details>
 
 ### 5.1. (ADDED) Reduced Parking Incentive Pilot Project
+
+<a id="motion-5-1-1" class="motion-anchor"></a>
 
 > Motion to approve that the Civic Administration BE DIRECTED to implement a reduced parking incentive as a pilot project until the end of Q3 2024 for Municipal Lots 1 & 2 utilizing the existing HONK mobile application; it being noted that Municipal Lots 1 & 2 have a lower hourly and daily revenue ...
 

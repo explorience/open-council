@@ -851,6 +851,8 @@ The
 ### 2. Properties located
   at 2290 Torrey Pines Way and 159-285 Castlehill Close (H-8177)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -861,6 +863,8 @@ Unanimous (6-0)
 ### 3. Property located at
   160 Sunningdale Road West (H-8084)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -870,6 +874,8 @@ Unanimous (6-0)
 
 ### 4. Property located at
   275 Callaway Road (H-8217)
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -882,6 +888,8 @@ Unanimous (6-0)
   1300 Fanshawe Park Road East - Extension to Draft Plan of Subdivision
   Approval (39T-04512)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -893,6 +901,8 @@ Unanimous (6-0)
   of Meadowgate Boulevard and East of Highbury Avenue South - Extension of
   Draft Approval (39T-92020-D)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -902,6 +912,8 @@ Unanimous (6-0)
 
 ### 7. Property located at
   940 Springbank Drive
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -913,6 +925,8 @@ Unanimous (6-0)
 ### 8. Building Division
   Monthly Report for July 2013
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -922,6 +936,8 @@ Unanimous (6-0)
 
 ### 9. Property located at
   1140 Southdale Road West
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -933,6 +949,8 @@ Unanimous (6-0)
 ### 10. City-Wide Official
   Plan/Zoning By-law Review - City of London (OZ-7783)
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -943,6 +961,8 @@ Unanimous (6-0)
 ### 11. Property located at
   1603 Hamilton Road (39T-09502)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -952,6 +972,8 @@ Unanimous (6-0)
 
 ### 12. Property located at
   450 Oxford Street West (OZ-8003)
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

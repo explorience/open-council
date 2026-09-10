@@ -358,6 +358,8 @@ Motion
 ### 2. Lease Agreement -
   London Police Services Board - 42 St. Julien Street
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -367,6 +369,8 @@ Unanimous (5-0)
 
 ### 3. Extension of Realty
   Services - Agency of Record Agreement
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -378,6 +382,8 @@ Unanimous (5-0)
 ### 4. City of London
   Community Suite
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -388,6 +394,8 @@ Unanimous (5-0)
 ### 5. City of London Days
   - Budweiser Gardens
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -397,6 +405,8 @@ Unanimous (5-0)
 
 ### 6. Council Service
   London Team
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -415,6 +425,8 @@ Unanimous (5-0)
 ### 7. RFP 13-09 - Network
   Modernization
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -432,6 +444,8 @@ Unanimous (5-0)
 ### 8. RFP 13-14 - Storage
   Area Network, Back-Up and Recovery Renewal
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -449,6 +463,8 @@ Unanimous (5-0)
 ### 9. Apportionment of
   Taxes
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -459,6 +475,8 @@ Unanimous (5-0)
 ### 9. Apportionment of
   Taxes
 
+<a id="motion-9-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -468,6 +486,8 @@ Unanimous (5-0)
 
 ### 10. Appointment to the
   Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -248,6 +248,8 @@ The committee clerk has said, we're good to go. I wish you a wonderful day and s
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -255,6 +257,8 @@ The committee clerk has said, we're good to go. I wish you a wonderful day and s
 Unanimous (5-0)
 
 ### 5.2. (ADDED) Councillor M. van Holst - Roadway Improvements at Hamilton Road and Highbury Avenue
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That, prior to the end of Q1 of 2023, the Civic Administration BE DIRECTED to report back to the Civic Works Committee with respect to options to advance the timing of improvements to the intersection of Hamilton Road and Highbury Avenue, along with potential measures to reduce the number of seve...
 

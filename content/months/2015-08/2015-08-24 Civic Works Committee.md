@@ -307,6 +307,8 @@ The
 ### 2. Burbrook Trunk
   Storm Sewer Project Award
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -316,6 +318,8 @@ Unanimous (5-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law to Address Safety Issues during the Western Fair
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -327,6 +331,8 @@ Unanimous (5-0)
 ### 4. Transportation
   Energy Optimization Plan (TEOP) Phase 1 Contract Award
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -336,6 +342,8 @@ Unanimous (5-0)
 
 ### 5. Shift Rapid Transit
   Initiative Appointment of Survey Consultants
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -347,6 +355,8 @@ Unanimous (5-0)
 ### 6. Veterans Memorial
   Parkway Noise Attenuation Wall Current Noise Levels
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -356,6 +366,8 @@ Unanimous (5-0)
 
 ### 7. Local Improvement
   Initiation-Franklinway Crescent and Franklinway Gate
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -374,6 +386,8 @@ Unanimous (5-0)
 ### 8. London Transit
   Commission 2014 Annual Report
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -384,6 +398,8 @@ Unanimous (5-0)
 ### 9. Deferred Matters
   List
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -393,6 +409,8 @@ Unanimous (5-0)
 
 ### 10. (ADDED) Permitting
   Overnight Parking Additional Months of the Year
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

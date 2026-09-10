@@ -500,6 +500,8 @@ sumpcedini uh in our initial research i think we found that there was only one u
 
 ### 2.1. Micro-Modular Shelter Site Update
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Manager, the report on the Micro-Modular Shelter Site Update BE RECEIVED for information; it being noted that the Strategic Priorities and Policy Committee heard delegations from C. Lazenby, Executive Director, Unity Project, G. Brumitt and R. Klemm with re...
 
 **✅ Motion Passed (11 to 1)**
@@ -517,6 +519,8 @@ sumpcedini uh in our initial research i think we found that there was only one u
 
 ### 2.1. Micro-Modular Shelter Site Update
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That the delegation requests from C. Lazenby, Executive Director, Unity Project, G. Brumitt and R. Klemm BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (13 to 0)**
@@ -524,6 +528,8 @@ sumpcedini uh in our initial research i think we found that there was only one u
 Unanimous (13-0)
 
 ### 2.1. Micro-Modular Shelter Site Update
+
+<a id="motion-2-1-3" class="motion-anchor"></a>
 
 > That part b) of the motion be approved: b)    the Civic Administration BE DIRECTED to consult with the London Transit Commission and report back to a future meeting of the Strategic Priorities and Policy Committee regarding the improvement of transit options serving the MicroModular Shelter Site ...
 
@@ -542,6 +548,8 @@ Unanimous (13-0)
 
 ### 2.1. Micro-Modular Shelter Site Update
 
+<a id="motion-2-1-4" class="motion-anchor"></a>
+
 > That part c) of the motion be approved: c)    the Civic Administration BE DIRECTED to consult with all service providers who will be providing services to the MicroModular Shelter Site (either on-site or off-site) regarding their roles, responsibilities and associated costs and report back to a f...
 
 **❌ Motion Failed (5 to 9)**
@@ -558,6 +566,8 @@ Unanimous (13-0)
 </details>
 
 ### 2.1. Micro-Modular Shelter Site Update
+
+<a id="motion-2-1-5" class="motion-anchor"></a>
 
 > That part d) of the motion be approved: d)    the Civic Administration BE DIRECTED to consult with first responders including Middlesex-London Paramedic Services, London Police Services and the London Fire Department regarding the provision of emergency services to the MicroModular Shelter Site a...
 
@@ -576,6 +586,8 @@ Unanimous (13-0)
 
 ### 4.2. Request to Explore Opportunities for Committee of Adjustment Meetings - Councillor S. Franke
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to exploring opportunities for Committee of Adjustment meetings: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Strategic Priorities and Policy Committee on the feasibility of livestreaming the video recording ...
 
 **✅ Motion Passed (12 to 0)**
@@ -584,6 +596,8 @@ Unanimous (12-0)
 
 ### 4.4. Confirmation of Appointments to London Downtown Business Association (LDBA)
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the London Downtown Business Association (LDBA): a)  the resignations from K. Brett – ANN Dining, M. Vecchio – Farhi Holdings, M. Giroux – Fanshawe College, M. Hathaway – Stache Fabric & Notions and S. Pellarin – London Small Business Centre, fr...
 
 **✅ Motion Passed (12 to 0)**
@@ -591,6 +605,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 5.1. (ADDED) Request to Declare State of Emergency regarding the Community Safety and Humanitarian Crisis - Councillor C. Rahman
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the following actions BE ADOPTED with respect to the communication dated December 8, 2025, from Councillor C. Rahman regarding support for the Ontario's Big City Mayors Update on their Solve the Crisis Campaign and Request that the Government of Ontario Declare a State of Emergency: Whereas ...
 

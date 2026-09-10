@@ -250,6 +250,8 @@ The meeting adjourned at 12:23 PM.
 
 ### 4. Items for Direction
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > That items 4.1, 4.3 and 4.4 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**

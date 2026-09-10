@@ -480,6 +480,8 @@ The
 ### 2. STAFF REPORT -
   Patio Design Guidelines for On-Street Municipal Parking Spaces
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -489,6 +491,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT - Rail
   Safety Week
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -502,6 +506,8 @@ Unanimous (5-0)
   (AMO) to Undertake Work Associated with the Resource Recovery and Circular
   Economy Act 2016
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -512,6 +518,8 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Contract Award: Tender No. 17-40 - 2017 Infrastructure Renewal Program - 
   Beachwood Avenue Reconstruction Project
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -524,6 +532,8 @@ Unanimous (5-0)
   Contract Award: Tender No. 17-32 -  Replacement of Sidewalks, Curb and Gutter
   And Hot Mix Asphalt -  Contract #1
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -533,6 +543,8 @@ Unanimous (5-0)
 
 ### 7. STAFF REPORT -
   Contract Award: Tender No. 17-57 - 2017 Bradley Avenue West Extension
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -546,6 +558,8 @@ Unanimous (5-0)
   Improvements - Phase 1 - Canadian Pacific Railway Grade Separation
   Reconstruction
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -557,6 +571,8 @@ Unanimous (5-0)
   Partnering in Phosphorus Control: Achieving Phosphorous Reductions in Lake
   Erie From Canadian Sources (EBR Registry Number: 012-9971)
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -566,6 +582,8 @@ Unanimous (5-0)
 
 ### 10. STAFF REPORT -
   Environmental Programs Annual Update
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -577,6 +595,8 @@ Unanimous (5-0)
 ### 11. PUBLIC SUBMISSION
   -  London Transit Commission - Buses Off Dundas Street - Update
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -587,6 +607,8 @@ Unanimous (5-0)
 ### 12. 4th Report of the
   Transportation Advisory Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -596,6 +618,8 @@ Unanimous (5-0)
 
 ### 13. Deferred Matters
   List
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

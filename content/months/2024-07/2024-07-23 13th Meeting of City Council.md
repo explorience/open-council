@@ -4561,6 +4561,8 @@ All those in favor of adjournment. That motion carries. We're adjourned. Thank y
 
 ### 8.1. 12th Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 12th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of items 3 (2.1), 4 (2.3), 6 (4.2) and 8 (4.4)
 
 **✅ Motion Passed (15 to 0)**
@@ -4569,6 +4571,8 @@ Unanimous (15-0)
 
 ### 8.1.4. (2.3) 11th Report of the Governance Working Group (Relates to Bill No. 242)
 
+<a id="motion-8-1-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 11th Report of the Governance Working Group from its meeting held on June 24, 2024: a) the following actions be taken with respect to the report dated June 24, 2024, Councillor Role Description, as amended: i) the document BE REVISED to incl...
 
 **✅ Motion Passed (15 to 0)**
@@ -4576,6 +4580,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.4. (2.3) 11th Report of the Governance Working Group (Relates to Bill No. 242)
+
+<a id="motion-8-1-4-1" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend CPOL.-228-480, as amended, to amend the Council Members’ Expense Policy to reduce the annual budget allocation in section 4.1 from $15,000 to $13,500 commencing in 2025;
 
@@ -4592,6 +4598,8 @@ Unanimous (15-0)
 
 ### 8.1.6. (4.2) 1st Report of the Strategic Opportunities Review Working Group
 
+<a id="motion-8-1-6-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 1st Report of the Strategic Opportunities Review Working from its meeting held on June 26, 2024: a) the following actions be taken with respect to the Community Grants - Neighbourhood Decision Making communication received from Deputy Mayor ...
 
 **✅ Motion Passed (10 to 5)**
@@ -4606,6 +4614,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.6. (4.2) 1st Report of the Strategic Opportunities Review Working Group
+
+<a id="motion-8-1-6-1" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to report back on the potential to eliminate snow plowing of sidewalks on residential class streets by passing a by-law requiring property owners to clear the sidewalk along their property;
 
@@ -4622,6 +4632,8 @@ Unanimous (15-0)
 
 ### 8.1.6. (4.2) 1st Report of the Strategic Opportunities Review Working Group
 
+<a id="motion-8-1-6-2" class="motion-anchor"></a>
+
 > That in lieu of the current Neighbourhood Decision Making Program, the Civic Administration BE DIRECTED to explore options to fund parks improvements through a participatory decision-making model through the Get Involved program while a parks improvement project moves forward. This initiative is ...
 
 **❌ Motion Failed (3 to 12)**
@@ -4636,6 +4648,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.6. (4.2) 1st Report of the Strategic Opportunities Review Working Group
+
+<a id="motion-8-1-6-3" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to bring forward a Business Case to the Annual Budget Update for the Mayor's consideration to pause funding for the Neighbourhood Decision Making program for the remainder of the 2025-2027 Multi-Year Budget.
 
@@ -4652,6 +4666,8 @@ Unanimous (15-0)
 
 ### 8.1.8. (4.4) SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<a id="motion-8-1-8-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the July 18, 2024, SS-2024-237 Single Source Award for Year-Round Ark Aid Street Mission Inc. Strategy report; a)    a single source award to Ark Aid Street Missio...
 
 **✅ Motion Passed (12 to 3)**
@@ -4667,6 +4683,8 @@ Unanimous (15-0)
 
 ### 8.1.8. (4.4) SS-2024-237 Single Source Award for Year-Round Ark Aid Mission Strategy
 
+<a id="motion-8-1-8-1" class="motion-anchor"></a>
+
 > That the following motion BE APPROVED f)     the Mayor BE REQUESTED to advocate the Provincial and Federal governments to offset the costs that could be incurred related to the award to the Ark Aid Street Mission Inc. Year-Round Stable Responsive Services strategy in the 2025 budget year and beyo...
 
 **✅ Motion Passed (15 to 0)**
@@ -4675,6 +4693,8 @@ Unanimous (15-0)
 
 ### 8.2. 11th Report of the Planning and Environment Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the11th Report of the Planning and Environment Committee BE APPROVED with the exception of item 4 (2.3) and 10 (3.3)
 
 **✅ Motion Passed (15 to 0)**
@@ -4682,6 +4702,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.4. (2.3) The London Plan Heights Review
+
+<a id="motion-8-2-4-0" class="motion-anchor"></a>
 
 > That the staff report dated July 16, 2024 entitled "The London Plan Heights Review" BE RECEIVED for information. (2024-D22)
 
@@ -4698,6 +4720,8 @@ Unanimous (15-0)
 
 ### 8.3. 12th Report of the Corporate Services Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 12th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -4705,6 +4729,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4. 9th Report of the Community and Protective Services Committee
+
+<a id="motion-8-4-0" class="motion-anchor"></a>
 
 > That the 9th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 8 (2.8), 12 (2.11), 13 (3.1) and 14 (4.1)
 
@@ -4714,6 +4740,8 @@ Unanimous (15-0)
 
 ### 8.4. 9th Report of the Community and Protective Services Committee
 
+<a id="motion-8-4-1" class="motion-anchor"></a>
+
 > That the Council recess at this time, for 10 minutes.
 
 **✅ Motion Passed (15 to 0)**
@@ -4721,6 +4749,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.8. (2.8) Vision SOHO - Amendment to Contribution Agreement with Chelsea Green Community Homes Society
+
+<a id="motion-8-4-8-1" class="motion-anchor"></a>
 
 > That the motion be amended to read as follows: That with respect to the Vision SoHo Amendment to the Contribution Agreement with Chelsea Green Community Homes Society, the following actions be taken: a)    the Civic Administration BE AUTHORIZED to release funds attributed to the Roadmap grant and...
 
@@ -4730,6 +4760,8 @@ Unanimous (15-0)
 
 ### 8.4.8. (2.8) Vision SOHO - Amendment to Contribution Agreement with Chelsea Green Community Homes Society
 
+<a id="motion-8-4-8-2" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED
 
 **✅ Motion Passed (15 to 0)**
@@ -4737,6 +4769,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.12. (2.11) Draft Advocacy Message Sign By-law
+
+<a id="motion-8-4-12-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the staff report, dated July 15, 2024, related to a Draft Advocacy Message Sign By-law: a)    a public participation meeting BE HELD at a future meeting of the Community and Protective Services Committee with respect to the draft Advocacy Messag...
 
@@ -4753,6 +4787,8 @@ Unanimous (15-0)
 
 ### 8.4.13. (3.1) Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
 
+<a id="motion-8-4-13-2" class="motion-anchor"></a>
+
 > That part c) BE APPROVED and reads as follows: c)    the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on draft language that would apply the protection in the by-law to residents who have already received the N13 Notice;
 
 **❌ Motion Failed (5 to 10)**
@@ -4767,6 +4803,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.4.13. (3.1) Renovictions - Renovation License and Relocation By-law Changes - Public Comments Received (To Date)
+
+<a id="motion-8-4-13-3" class="motion-anchor"></a>
 
 > That part b) BE APPROVED and reads as follows: b)    the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on possible temporary alternate accommodations for displaced tenants or short-term rental top up; and,
 
@@ -4783,6 +4821,8 @@ Unanimous (15-0)
 
 ### 8.4.14. (4.1) Councillors H. McAlister and D. Ferreira - City-Operated Long Term Care Facility (Dearness Home)
 
+<a id="motion-8-4-14-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the communication, dated May 28, 2024, from Councillors H. McAlister and D. Ferreira, with respect to the City-Operated Long Term Care Facility (Dearness Home): a)    the Civic Administration BE DIRECTED to explore options for expanding the faci...
 
 **❌ Motion Failed (4 to 11)**
@@ -4798,6 +4838,8 @@ Unanimous (15-0)
 
 ### 8.5. 10th Report of the Civic Works Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Civic Works Committee BE APPROVED with the exception of items 8 (2.7) and 11 (5.2)
 
 **✅ Motion Passed (14 to 0)**
@@ -4805,6 +4847,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.5.8. (2.7) School Zone Speed Limit Reductions on Major Streets Amendments to the Traffic and Parking By-law (Relates to Bill No. 247)
+
+<a id="motion-8-5-8-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the proposed by-law, as appended to the staff report dated July 16, 2024, BE INTRODUCED at the Municipal Council meeting to be held on July 23, 2024 for the purpose of amending the Traffic and Parking By-law (...
 
@@ -4823,6 +4867,8 @@ Unanimous (14-0)
 
 ### 8.5.11. (5.2) Service London Portal Request
 
+<a id="motion-8-5-11-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee on the feasibility of having a request button on the Service London Portal to report property standards violations and/or property naturalization violations.
 
 **❌ Motion Failed (0 to 14)**
@@ -4838,6 +4884,8 @@ Unanimous (14-0)
 
 ### 8.5.11. (5.2) Service London Portal Request
 
+<a id="motion-8-5-11-1" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to setup a request button on the Service London Portal to report possible violations of the Yard and Lot Maintenance By-law including but not limited to: lawns, vegetative growth (natural gardens), graffiti, inoperative vehicles and refuse.
 
 **✅ Motion Passed (14 to 0)**
@@ -4845,6 +4893,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 9.1. 13th Report of Council in Closed Session
+
+<a id="motion-9-1-1" class="motion-anchor"></a>
 
 > That Clause 3 of the Report of Council in Closed Session BE APPROVED.
 
@@ -4863,6 +4913,8 @@ Unanimous (14-0)
 
 ### 9.1. 13th Report of Council in Closed Session
 
+<a id="motion-9-1-3" class="motion-anchor"></a>
+
 > That Clauses 4 and 7 of the 13th Report of Council in Closed Session BE APPROVED.
 
 **✅ Motion Passed (11 to 2)**
@@ -4879,6 +4931,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-6" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Added Bill No. 265 BE APPROVED
 
@@ -4897,6 +4951,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-7" class="motion-anchor"></a>
+
 > That Second Reading of Added Bill No. 265 BE APPROVED
 
 **✅ Motion Passed (11 to 1)**
@@ -4913,6 +4969,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-8" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Added Bill No. 265 BE APPROVED
 
@@ -4931,6 +4989,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-9" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Added Bill No. 266 and 269 BE APPROVED
 
 **✅ Motion Passed (11 to 2)**
@@ -4948,6 +5008,8 @@ Unanimous (14-0)
 
 ### 13. By-laws
 
+<a id="motion-13-10" class="motion-anchor"></a>
+
 > That Second Reading of Added Bill No. 266 and 269 BE APPROVED
 
 **✅ Motion Passed (11 to 2)**
@@ -4964,6 +5026,8 @@ Unanimous (14-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-11" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Added Bill No. 266 and 269 BE APPROVED
 

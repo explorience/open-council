@@ -1203,6 +1203,8 @@ Thanks, folks.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1211,6 +1213,8 @@ Unanimous (5-0)
 
 ### 2.4. 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street (Z-9576)
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, notwithstanding the recommendation of the Director, Planning and Development and on the direction of Planning and Environment Committee, based on the application by East Village Holdings Limited, relating to the property located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King St...
 
 **✅ Motion Passed (5 to 0)**
@@ -1218,6 +1222,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.5. Zoning By-law Amendment - 300-320 King Street (Z-9570)
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo Ltd., on behalf of Royal Host GP Inc. and Holloway Lodging, relating to the property located at 300-320 King Street: a)    the proposed by-law ap...
 

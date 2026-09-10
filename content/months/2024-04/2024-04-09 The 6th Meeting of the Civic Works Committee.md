@@ -391,6 +391,8 @@ We can do this as a hand vote. That's carried. Have a great day, everyone.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**

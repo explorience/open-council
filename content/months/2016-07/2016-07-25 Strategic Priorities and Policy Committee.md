@@ -653,6 +653,8 @@ Motion Passed
 ### 2. STAFF REPORT - RFP
   16-27 Smart City Strategy
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -669,6 +671,8 @@ Motion Passed
 ### 3. STAFF REPORT -
   London Community Grants Program Multi-Year Funding Allocations (2017 - 2019)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -677,6 +681,8 @@ Unanimous (13-0)
 
 ### 4. STAFF REPORT - 2016
   Annual Community Survey
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -688,14 +694,7 @@ Unanimous (13-0)
   Housing Development Corporation, London - Number and Composition of Directors
   for the Corporation
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6. Housing Development
-  Corporation, London - 2015 Annual Meeting of the Shareholder Annual Resolutions
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -705,6 +704,19 @@ Unanimous (13-0)
 
 ### 6. Housing Development
   Corporation, London - 2015 Annual Meeting of the Shareholder Annual Resolutions
+
+<a id="motion-6-0" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Housing Development
+  Corporation, London - 2015 Annual Meeting of the Shareholder Annual Resolutions
+
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -723,6 +735,8 @@ Unanimous (13-0)
   Delegation Status at the August 29, 2016 Strategic Priorities and Policy
   Committee Meeting - London Police Services Board
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -739,6 +753,8 @@ Unanimous (13-0)
 ### 7. Request for
   Delegation Status at the August 29, 2016 Strategic Priorities and Policy
   Committee Meeting - London Police Services Board
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -758,6 +774,8 @@ Unanimous (13-0)
   Member for the term ending November 30, 2016 and 1 Member for the term ending
   November 30, 2017)
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -769,6 +787,8 @@ Unanimous (13-0)
   Member for the term ending November 30, 2016 and 1 Member for the term ending
   November 30, 2017)
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -778,6 +798,8 @@ Unanimous (13-0)
 ### 9. COUNCIL RESOLUTION
   - Municipal Council Resolution Adopted at its Meeting Held on June 23, 2016 with
   Respect to the Appointment of a Deputy Mayor
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -795,6 +817,8 @@ Unanimous (13-0)
 ### 10. Annual Meeting
   Calendar
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -810,6 +834,8 @@ Unanimous (13-0)
 
 ### 10. Annual Meeting
   Calendar
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -827,6 +853,8 @@ Unanimous (13-0)
 ### 10. Annual Meeting
   Calendar
 
+<a id="motion-10-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -843,6 +871,8 @@ Unanimous (13-0)
 ### 10. Annual Meeting
   Calendar
 
+<a id="motion-10-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -853,6 +883,8 @@ Unanimous (13-0)
   MEMBER SUBMISSION - Consideration of Appointment to the Middlesex London Food
   Policy Council
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -862,6 +894,8 @@ Unanimous (11-0)
 ### 12. ADDED –Appointment to the Corporate
   Services Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -870,6 +904,8 @@ Unanimous (13-0)
 
 ### 13. ADDED – Potential Policy for Addressing
   Temporary Standing Committee Vacancies
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion Passed
 

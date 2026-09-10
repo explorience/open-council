@@ -3108,6 +3108,8 @@ Passed
 
 ### 1#8. Disclosure of Pecuniary Interest
 
+<a id="motion-1-8-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3116,6 +3118,8 @@ Unanimous (13-0)
 
 ### 11#3. Procurement of
   Goods and Services Policy Revisions (Relates to Bill No. 35)
+
+<a id="motion-11-3-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   attached revised by-law BE INTRODUCED at the Municipal Council meeting   to be held on December 19, 2016 to amend Schedule “C” - Procurement of Goods   and Services Policy...
 
@@ -3126,6 +3130,8 @@ Unanimous (11-0)
 ### 11#4. Rapid Transit
   Corridor Traffic Flow
 
+<a id="motion-11-4-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED   to report back to the Civic Works Committee on the feasibility of   implementing specific pick-up and drop-off times for services, such as   deliveries and curbside pick-up of recycling and waste collection to local   businesses in the Downtown area and...
 
 **✅ Motion Passed**
@@ -3135,6 +3141,8 @@ Unanimous (13-0)
 ### 17#2. Repeal and Amendment of Financial Services
   Policies (Relates to Bill Nos. 41 and 42)
 
+<a id="motion-17-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken:   a)         the   attached proposed revised by-law BE INTRODUCED at the Municipal   Council meeting to be held on December 19, 2016 for the pu...
 
 **✅ Motion Passed**
@@ -3143,6 +3151,8 @@ Unanimous (13-0)
 
 ### 17#2. Repeal and Amendment of Financial Services
   Policies (Relates to Bill Nos. 41 and 42)
+
+<a id="motion-17-2-1" class="motion-anchor"></a>
 
 > Approve clause 7, clause 10 and clause   17, as amended.
 
@@ -3154,6 +3164,8 @@ Unanimous (13-0)
   Street/Canadian Pacific Railway Grade Separation Environmental Assessment
   Update
 
+<a id="motion-5-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the staff   report dated December 12, 2016, with respect to the Adelaide Street /   Canadian Pacific Railway Grade Separation Environmental Assessment Update, BE   RECEIVED for inform...
 
 **✅ Motion Passed**
@@ -3164,6 +3176,8 @@ Unanimous (13-0)
   Ministry of Energy's Discussion Paper on Ontario's Long-Term Energy Plan for
   Submission to the Environmental Bill of Rights (EBR) Registry
 
+<a id="motion-7-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director   of Environment, Fleet and Solid Waste, the following actions be taken with   respect to the comments on the Ministry of Energy's Discussion Paper on   Ontario's Long-Term Energy Plan:   a)       the   comments and discussion on the Ministry of Energy'...
 
 **✅ Motion Passed**
@@ -3171,6 +3185,8 @@ Unanimous (13-0)
 Unanimous (11-0)
 
 ### 8#2. Open Air Burning By-law - Education Plan
+
+<a id="motion-8-2-0" class="motion-anchor"></a>
 
 > Approve that clause 8 BE REFERRED back   to the Community and Protective Services Committee (CPSC),to allow those who   wished to have delegation status to do so at the January meeting of the CPSC;   it being noted that several Council Members have received notice from   residents of their intent...
 
@@ -3187,6 +3203,8 @@ Unanimous (11-0)
 
 ### 8#2. Open Air Burning By-law - Education Plan
 
+<a id="motion-8-2-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3197,6 +3215,8 @@ Unanimous (12-0)
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 6, 2016 AND
   THE SECOND MEETING HELD ON DECEMBER 13, 2016
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the First and   Second Meetings held on December 6 and December 13, 2016, respectively.
 
 **✅ Motion Passed**
@@ -3205,6 +3225,8 @@ Unanimous (14-0)
 
 ### XI. ENQUIRIES
 
+<a id="motion-xi-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information related to a matter pertaining to   personal matters, including information regarding identifiable individuals,   with respect to employment-...
 
 **✅ Motion Passed**
@@ -3212,6 +3234,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-9" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading   of Added Bill No. 51.
 
@@ -3228,6 +3252,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-10" class="motion-anchor"></a>
+
 > Approve Second Reading of Added Bill No.   51.
 
 **✅ Motion Passed**
@@ -3242,6 +3268,8 @@ Unanimous (13-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-11" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Added   Bill No.51.
 
@@ -3261,6 +3289,8 @@ Unanimous (13-0)
   Community and Protective Services Committee stage for consideration with clause
   18 of the 1st Report of the Community and Protective Services Committee.)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3269,6 +3299,8 @@ Unanimous (14-0)
 
 ### 7. Property located at
   1448 Adelaide Street North (OZ-8684)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Kim Nguyen, relating to the property located at   1448 Adelaide Street North:   a)         the   proposed by-law appended to the staff report date...
 
@@ -3286,6 +3318,8 @@ Unanimous (14-0)
 ### 12. Property located at
   132, 146 and 184 Exeter Road  (39T-15501/Z-8470 ) (Relates to Bill No. 50)
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Approve that part e) of clause 12 be   amended to read as follows:
 
 **✅ Motion Passed**
@@ -3294,6 +3328,8 @@ Unanimous (14-0)
 
 ### 12. Property located at
   132, 146 and 184 Exeter Road  (39T-15501/Z-8470 ) (Relates to Bill No. 50)
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Approve clause 12, as amended.
 
@@ -3304,6 +3340,8 @@ Unanimous (14-0)
 ### 15. CPR Right-of-Way
   Between the Heritage Sarnia Road Bridge and the Sarnia Road Railway Underpass
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > The Civic Administration BE DIRECTED to   advise the Canadian Pacific Railway (CPR) of the Municipal Council’s desire   to have those lands located along the CPR right-of-way between the heritage   Sarnia Road bridge and the Sarnia Road railway underpass be reforested.
 
 **✅ Motion Passed**
@@ -3313,6 +3351,8 @@ Unanimous (14-0)
 ### 16. Annual Emergency Management Program Update
   (Relates to Bill No. 31)
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Human Resources and Corporate Services and Chief Human Resources   Officer, the proposed by-law, as appended to the staff report dated December 13,   2016, BE INTRODUCED at the Municipal Council meeting to be held on December   19, 2016, to:...
 
 **✅ Motion Passed**
@@ -3320,6 +3360,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Approve that in accordance with section   11.14 of the Council Procedure By-law, the question on the referral be put.
 
@@ -3336,6 +3378,8 @@ Unanimous (12-0)
 
 ### 18. Subsidized Transit
 
+<a id="motion-18-1" class="motion-anchor"></a>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -3350,6 +3394,8 @@ Unanimous (12-0)
 </details>
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-2" class="motion-anchor"></a>
 
 > The motion to amend part b), as   subsequently modified by the mover and seconder, is put as follows:
 
@@ -3366,6 +3412,8 @@ Unanimous (12-0)
 
 ### 18. Subsidized Transit
 
+<a id="motion-18-3" class="motion-anchor"></a>
+
 > Approve part b) of clause 18, as amended.
 
 **✅ Motion Passed**
@@ -3380,6 +3428,8 @@ Unanimous (12-0)
 </details>
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-4" class="motion-anchor"></a>
 
 > Approve part a).
 
@@ -3396,6 +3446,8 @@ Unanimous (12-0)
 
 ### 18. Subsidized Transit
 
+<a id="motion-18-5" class="motion-anchor"></a>
+
 > Approve the following new part h):
 
 **✅ Motion Passed**
@@ -3403,6 +3455,8 @@ Unanimous (12-0)
 Unanimous (13-0)
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-6" class="motion-anchor"></a>
 
 > Approve the following new part i):
 
@@ -3419,6 +3473,8 @@ Unanimous (13-0)
 
 ### 18. Subsidized Transit
 
+<a id="motion-18-7" class="motion-anchor"></a>
+
 > Approve parts c),  e),  f) and g).
 
 **✅ Motion Passed**
@@ -3426,6 +3482,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-8" class="motion-anchor"></a>
 
 > Approve part d).
 
@@ -3441,6 +3499,8 @@ Unanimous (13-0)
 </details>
 
 ### 18. Subsidized Transit
+
+<a id="motion-18-9" class="motion-anchor"></a>
 
 > Approve clause 18, as amended.
 
@@ -3458,6 +3518,8 @@ Unanimous (13-0)
 ### 19. Hate Related
   Graffiti
 
+<a id="motion-19-0" class="motion-anchor"></a>
+
 > The Civic Administration BE REQUESTED to   review and report back at a future meeting of the Community and Protective   Services Committee setting out measures that could be undertaken to address   the increase in hate related graffiti, including, but not limited to the   following:   a)         ...
 
 **✅ Motion Passed**
@@ -3467,6 +3529,8 @@ Unanimous (11-0)
 ### 20. Affordable Access to City-Owned Community
   Centres and Recreation Facilities
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3475,6 +3539,8 @@ Unanimous (13-0)
 
 ### 20. Affordable Access to City-Owned Community
   Centres and Recreation Facilities
+
+<a id="motion-20-1" class="motion-anchor"></a>
 
 > Motion Passed
 

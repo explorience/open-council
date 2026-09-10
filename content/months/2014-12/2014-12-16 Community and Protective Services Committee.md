@@ -379,6 +379,8 @@ Motion
 ### 2. Election of
   Vice-Chair
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -388,6 +390,8 @@ Unanimous (5-0)
 
 ### 3. 10th Report of the
   Accessibility Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -399,6 +403,8 @@ Unanimous (5-0)
 ### 4. 7th Report of
   Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -409,6 +415,8 @@ Unanimous (5-0)
 ### 5. 7th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -418,6 +426,8 @@ Unanimous (5-0)
 
 ### 6. 1st Report of the
   Animal Welfare Advisory Committee
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -430,6 +440,8 @@ Unanimous (5-0)
   Municipal Contribution Agreement Canada-Ontario New Affordable Housing
   Program (2003)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -439,6 +451,8 @@ Unanimous (5-0)
 
 ### 8. Veterinary Services
   (RFP 14-17)
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -450,6 +464,8 @@ Unanimous (5-0)
 ### 9. 2013 Emergency
   Management Program Update
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -459,6 +475,8 @@ Unanimous (5-0)
 
 ### 10. Single Source
   Procurement of Lifesaving and Literature
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -470,6 +488,8 @@ Unanimous (5-0)
 ### 11. Ontario's Volunteer
   Recognition Programs for 2015
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -479,6 +499,8 @@ Unanimous (5-0)
 
 ### 12. General Orientation
   – Key Committee Matters
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

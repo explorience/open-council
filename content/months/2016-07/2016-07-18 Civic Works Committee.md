@@ -699,6 +699,8 @@ The
 ### 2. 6th and 7th Reports
   of the Transportation Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -708,6 +710,8 @@ Unanimous (4-0)
 
 ### 3. 7th Report of the
   Cycling Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -719,6 +723,8 @@ Unanimous (4-0)
 ### 4. Engineering Fees
   Contract Amendment: Uplands Pumping Station Upgrades - Project No. EW3590
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -729,6 +735,8 @@ Unanimous (4-0)
 ### 5. Advancing a 760kW
   Renewable Energy Project at the Greenway Wastewater Treatment Plant
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -738,6 +746,8 @@ Unanimous (4-0)
 
 ### 6. Burbrook Trunk
   Sewer Completion Tunnelling Project
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -750,6 +760,8 @@ Unanimous (4-0)
   Traffic and Parking By-law with Respect to the Implementation of Pedestrian
   Crossovers
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -759,6 +771,8 @@ Unanimous (4-0)
 
 ### 8. Amendments to the
   Traffic and Parking By-law to Address Safety Issues During the Western Fair
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -770,6 +784,8 @@ Unanimous (4-0)
 ### 9. Overnight Parking
   Pass Program
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -779,6 +795,8 @@ Unanimous (4-0)
 
 ### 10. Amendments to the
   Traffic and Parking By-law
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -790,6 +808,8 @@ Unanimous (4-0)
 ### 11. Customer Engagement
   Upgrade to MyLondonHydro Web Portal - Water Usage Tool
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -799,6 +819,8 @@ Unanimous (4-0)
 
 ### 12. Flooding Matters
   Phase ll
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -811,6 +833,8 @@ Unanimous (4-0)
   Consulting Engineer for the Design of the Forest City South Industrial Park
   and Stormwater Management Solution
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -820,6 +844,8 @@ Unanimous (4-0)
 
 ### 14. Richmond Street
   Recreational Pathway Crossing Environmental Study Report
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -832,6 +858,8 @@ Unanimous (4-0)
   Environmental Assessment - Boler Road to Wickerson Road - Appointment of
   Consulting Engineer
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -841,6 +869,8 @@ Unanimous (4-0)
 
 ### 16. Transportation
   Network Forecast Model Update - Appointment of Consulting Engineer
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -853,6 +883,8 @@ Unanimous (4-0)
   Consulting Engineer for Detailed Design of the Fox Hollow SWM Facility No. 3
   (ES3020-FH3) and Trunk Sanitary Sewer (ES5236-16)
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -862,6 +894,8 @@ Unanimous (4-0)
 
 ### 18. Draft School Zone
   Speed Limit Policy - Resubmitted Report
+
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -880,6 +914,8 @@ Unanimous (4-0)
 ### 18. Draft School Zone
   Speed Limit Policy - Resubmitted Report
 
+<a id="motion-18-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -890,6 +926,8 @@ Unanimous (4-0)
 ### 18. Draft School Zone
   Speed Limit Policy - Resubmitted Report
 
+<a id="motion-18-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -899,6 +937,8 @@ Unanimous (4-0)
 
 ### 19. Deferred Matters
   List
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -141,6 +141,8 @@ Motion
 ### 2. Vehicle for Hire
   By-law - Action Items From Public Participation Meeting
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed    Voting   Record:   Motion   to Approve part a) i).   Motion   Passed
 
 **✅ Motion

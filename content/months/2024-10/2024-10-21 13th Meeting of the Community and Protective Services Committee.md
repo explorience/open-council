@@ -846,6 +846,8 @@ We're adjourned.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -853,6 +855,8 @@ We're adjourned.
 Unanimous (5-0)
 
 ### 2.1. 10th Report of the Animal Welfare Community Advisory Committee
+
+<a id="motion-2-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the 10th Report of the Animal Welfare Community Advisory Committee, from the meeting held on October 3, 2024: a)    the Civic Administration BE REQUESTED to provide resource materials that can be displayed by the Animal Welfare Community Advisor...
 
@@ -869,6 +873,8 @@ Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
 
+<a id="motion-3-1-1" class="motion-anchor"></a>
+
 > That pursuant to section 36.3 of the Council Procedure By-law, the delegate BE PERMITTED to speak an additional 5 minutes with respect to this matter.
 
 **✅ Motion Passed (5 to 0)**
@@ -876,6 +882,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
+
+<a id="motion-3-1-2" class="motion-anchor"></a>
 
 > That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
 
@@ -885,6 +893,8 @@ Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
 
+<a id="motion-3-1-3" class="motion-anchor"></a>
+
 > Motion to approve part a) i) of the main motion.
 
 **✅ Motion Passed (5 to 0)**
@@ -892,6 +902,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
+
+<a id="motion-3-1-4" class="motion-anchor"></a>
 
 > Motion to approve part a) ii) of the main motion.
 
@@ -908,6 +920,8 @@ Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
 
+<a id="motion-3-1-5" class="motion-anchor"></a>
+
 > Motion to approve part a) iii) of the main motion.
 
 **✅ Motion Passed (3 to 2) 🔥**
@@ -922,6 +936,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
+
+<a id="motion-3-1-6" class="motion-anchor"></a>
 
 > Motion to approve part b) of the main motion.
 
@@ -938,6 +954,8 @@ Unanimous (5-0)
 
 ### 3.1. Life*Spin - Property Standards and Tenant Support
 
+<a id="motion-3-1-7" class="motion-anchor"></a>
+
 > Motion to approve that: it being noted that the Community and Protective Services Committee received a communication from Life-Spin entitled “Property Standards and Tenant Support,” and heard a delegation from representatives of Life*Spin in support of their recommendations; it being further note...
 
 **✅ Motion Passed (5 to 0)**
@@ -945,6 +963,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Councillor E. Peloza and Deputy Mayor S. Lewis - Concessions at City Facilities
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > The Civic Administration BE DIRECTED to initiate a review of current arena concession operations and report back in Q1 of 2025 on the current operations across city arenas pertaining to food and beverage (including healthy options) concessions including revenue, current vendors and weekly hours o...
 

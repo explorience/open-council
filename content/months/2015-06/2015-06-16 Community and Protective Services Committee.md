@@ -265,15 +265,7 @@ The Community and Protective Services
 ### 2. Interpretation
   Services and Written Translation Services RFP
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 2. Interpretation
-  Services and Written Translation Services RFP
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -285,6 +277,8 @@ Unanimous (5-0)
 ### 2. Interpretation
   Services and Written Translation Services RFP
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -294,6 +288,20 @@ Unanimous (5-0)
 
 ### 2. Interpretation
   Services and Written Translation Services RFP
+
+<a id="motion-2-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 2. Interpretation
+  Services and Written Translation Services RFP
+
+<a id="motion-2-4" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -312,6 +320,8 @@ Unanimous (5-0)
 ### 2. Interpretation
   Services and Written Translation Services RFP
 
+<a id="motion-2-6" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -321,6 +331,8 @@ Unanimous (5-0)
 
 ### 2. Interpretation
   Services and Written Translation Services RFP
+
+<a id="motion-2-8" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -332,6 +344,8 @@ Unanimous (5-0)
 ### 7. D. Abdi, African
   Community Council - Request for Delegation Status, Re: Immigrants and the
   Labour Market, A London Perspective
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion Passed
 

@@ -380,6 +380,8 @@ Motion
 ### 2. Natural Resources
   Gas Franchise Agreement
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -389,6 +391,8 @@ Unanimous (4-0)
 
 ### 3. 2014 Watermain
   Cleaning and Structural Lining Contract Award (Tender No 13-115)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -400,6 +404,8 @@ Unanimous (4-0)
 ### 4. City of London 2013
   Drinking Water Annual Report and Summary Report
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -409,6 +415,8 @@ Unanimous (4-0)
 
 ### 5. Single Source
   Purchase of a Replacement Pump at Springbank Pumping Station (EW3409-13)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -420,6 +428,8 @@ Unanimous (4-0)
 ### 6. Local Improvements
   Charges for Energy and Water Efficiency Improvements Update
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -429,6 +439,8 @@ Unanimous (4-0)
 
 ### 7. 2nd Report of the
   Transportation Advisory Committee
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -440,6 +452,8 @@ Unanimous (4-0)
 ### 8. Share the Road
   Project
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -449,6 +463,8 @@ Unanimous (4-0)
 
 ### 9. London Road Safety
   Strategy
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -460,6 +476,8 @@ Unanimous (4-0)
 ### 10. Red Light Camera
   Program
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -468,6 +486,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 12. (ADDED) Winter Maintenance Update
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

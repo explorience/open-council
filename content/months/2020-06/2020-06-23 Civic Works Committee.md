@@ -218,6 +218,8 @@ The meeting adjourned at 12:18 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -226,6 +228,8 @@ Unanimous (6-0)
 
 ### 4.1. (ADDED) Active Transportation Manager - Councillors E. Peloza and S. Lewis
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the upcoming review of the City's Cycling Master Plan in 2021: a)       the Civic Administration BE DIRECTED to develop a plan for the creation of an Active Transportation Manager under Environmental and Engineering Services and the City Enginee...
 
 **✅ Motion Passed (6 to 0)**
@@ -233,6 +237,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.2. (ADDED) Removal of Trees on Lambeth Avenue - H. Sanderson - Request for Delegation Status
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the request for delegation status made by H. Sanderson, dated June 22, 2020, with respect to the Lambeth Avenue infrastructure renewal project and associated tree removal, BE APPROVED for the July 14, 2020 Civic Works Committee meeting.
 

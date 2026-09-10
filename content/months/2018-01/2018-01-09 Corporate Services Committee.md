@@ -163,6 +163,8 @@ The meeting adjourned at 12:46 PM.
 ### 2. Customer
   Relationship Management Software Implementation Partner - Phase Four
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -177,6 +179,8 @@ The meeting adjourned at 12:46 PM.
 
 ### 3. Provincial
   Dedicated Gas Tax Funds for Public Transportation Program
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -194,6 +198,8 @@ The meeting adjourned at 12:46 PM.
   Federation of Canadian Municipalities Board of Directors Meeting - Ottawa,
   ON, November 20-24, 2017
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -208,6 +214,8 @@ The meeting adjourned at 12:46 PM.
 
 ### 5. ADDED - Memorial –
   Quebec Mosque Shooting – January 29, 2018
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

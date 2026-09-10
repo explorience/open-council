@@ -1710,6 +1710,8 @@ Motion carries. Means adjourned. Thank you.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 to 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -1717,6 +1719,8 @@ Motion carries. Means adjourned. Thank you.
 Unanimous (5-0)
 
 ### 2.1. Heritage Designation of the Property at 1511 Clarke Road
+
+<a id="motion-2-1-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, with respect to the property at 1511 Clarke Road, the following actions be taken: a)    notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act R.S.O 1990, c. O. 18, of the Municipal Council’s intenti...
 
@@ -1733,6 +1737,8 @@ Unanimous (5-0)
 
 ### 3.1. 6th Report of the Community Advisory Committee on Planning
 
+<a id="motion-3-1-2" class="motion-anchor"></a>
+
 > That the motion be amended to add a new part that reads as follows: the Civic Administration BE DIRECTED to prioritize the Priority Listed Properties identified in the Report of the Community Advisory Committee on Planning (CACP).
 
 **✅ Motion Passed (5 to 0)**
@@ -1740,6 +1746,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.1. 6th Report of the Community Advisory Committee on Planning
+
+<a id="motion-3-1-3" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -1749,6 +1757,8 @@ Unanimous (5-0)
 
 ### 3.3. 590 Gainsborough Road - Z-25093
 
+<a id="motion-3-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Heikal Group Inc. – Mostafa Heikal (c/o Monteith Brown Planning Consultants) relating to the property located at 590 Gainsborough Road: a)    the proposed by-la...
 
 **✅ Motion Passed (5 to 0)**
@@ -1757,6 +1767,8 @@ Unanimous (5-0)
 
 ### 3.4. 3317 White Oak Road - OZ-25088
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 3317 White Oak Rd Inc. c/o KLM Planning Partners Inc. relating to the property located at 3317 White Oak Road: a)    the request to amend The Official Plan for ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1764,6 +1776,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.5. 1511 Clarke Road - 39T-24505
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property located at 1511 Clarke Road (Caverhill West): a)    The proposed attached by-law BE INTRODUCED at the ...
 
@@ -1780,6 +1794,8 @@ Unanimous (5-0)
 
 ### 3.7. Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
 
+<a id="motion-3-7-4" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to include a new part that reads as follows: the Civic Administration BE DIRECTED to include in the final Official Plan Review of The London Plan: Urban Growth Boundary Review report a summary table of the net developable land area for landowner submissions received in ...
 
 **✅ Motion Passed (5 to 0)**
@@ -1787,6 +1803,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.7. Official Plan Review of The London Plan: Final Industrial Land Needs Assessment, Urban Growth Boundary Review Update, and Process Updates
+
+<a id="motion-3-7-5" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 

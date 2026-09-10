@@ -649,6 +649,8 @@ The meeting adjourned at 6:18 PM
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -657,6 +659,8 @@ Unanimous (5-0)
 
 ### 3.1. D. Dudek, Chair, London Advisory Committee on Heritage - 6th Report of the London Advisory Committee on Heritage
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That, the following actions be taken with respect to the 6th Report of the London Advisory Committee on Heritage from its meeting held on May 9, 2018: a)            the Heritage Planners BE REQUESTED to prepare a Statement of Cultural Heritage Value or Interest for the Fugitive Slave Chapel at it...
 
 **✅ Motion Passed (5 to 0)**
@@ -664,6 +668,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1055-1075 Fanshawe Park Road West (Z-8903)
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by North London Medical Centre, relating to the property located at 1055-1075 Fanshawe Park Road West, the proposed by-law appended to the staff report dated May 28, 2018, BE INTRODUCED at th...
 
@@ -680,6 +686,8 @@ Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Application - 3234, 3263 and 3274 Wonderland Road South (OZ-8590)
 
+<a id="motion-3-5-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by Southside Group, relating to the properties located at 3234, 3263 and 3274 Wonderland Road South: a)            Municipal Council BE ADVISED that the ...
 
 **✅ Motion Passed (5 to 0)**
@@ -688,6 +696,8 @@ Unanimous (5-0)
 
 ### 3.5. Public Participation Meeting - Application - 3234, 3263 and 3274 Wonderland Road South (OZ-8590)
 
+<a id="motion-3-5-3" class="motion-anchor"></a>
+
 > Motion to grant an extension of time beyond five minutes to R. Zelinka, Zelinka Priamo Ltd.
 
 **✅ Motion Passed (5 to 0)**
@@ -695,6 +705,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Deferred Matters List
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the Managing Director, Development and Compliance Services & Chief Building Official and the Managing Director, Planning and City Planner, BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
 

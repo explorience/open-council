@@ -939,6 +939,8 @@ Mr. Van Hosta verbal motion carries five to zero. Thank you everyone.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -946,6 +948,8 @@ Mr. Van Hosta verbal motion carries five to zero. Thank you everyone.
 Unanimous (5-0)
 
 ### 2.2. Participation in Canadian Home Builders’ Association Project - Towards Cost-Effective Net-Zero Energy Ready Residential Renovations
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Planning and Economic Development, the proposed by-law, as appended to the staff report dated June 21, 2022, BE INTRODUCED at the Municipal Council meeting to be held on July 5, 202...
 
@@ -955,6 +959,8 @@ Unanimous (5-0)
 
 ### 4.2. Participation in Provincial E-scooter Pilot
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the request for delegation status from the following individuals BE APPROVED: - D. Lepofsky; - C. Schafer; - A. Husain; and, - T. Nolan; it being noted that W. Antle withdrew their request for delegation status as per the attached communication.
 
 **✅ Motion Passed (5 to 0)**
@@ -962,6 +968,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Participation in Provincial E-scooter Pilot
+
+<a id="motion-4-2-3" class="motion-anchor"></a>
 
 > That part c) BE AMENDED by adding the following, "the Civic Administration be directed to consider suggestions from the communications and comments from the delegations heard by the Civic Works Committee, with respect to the Participation in Provincial E-scooter Pilot, as they prepare the appropr...
 

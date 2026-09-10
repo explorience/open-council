@@ -1270,6 +1270,8 @@ Okay, thank you everyone. Have a great night.
 
 ### 4.1. Development Charge Area Rating Policy Review – Recommended Approach
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would better recognize true cost discrepancies between new infrastructure costs inside and outside of th...
 
 **✅ Motion Passed (10 to 4)**
@@ -1287,6 +1289,8 @@ Okay, thank you everyone. Have a great night.
 
 ### 4.2. Confirmation of Appointments to the Old East Village BIA
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the Old East Village BIA:    a)  the resignations of Jamie Sinden, Love Alchemy Hair Salon, Ellie Cook, The Root Cellar and Heather Blackwell, Western Fair District BE ACCEPTED; and,    b) Kelli Gough, The Palace Theatre Arts Commons and Michell...
 
 **✅ Motion Passed (14 to 0)**
@@ -1294,6 +1298,8 @@ Okay, thank you everyone. Have a great night.
 Unanimous (14-0)
 
 ### 4.3. Including a Carbon Offset Strategy - Councillor M. van Holst
+
+<a id="motion-4-3-1" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in order for inclusion in the public consultation of the Plan.
 
@@ -1312,6 +1318,8 @@ Unanimous (14-0)
 
 ### 4.4. 3rd Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee
 
+<a id="motion-4-4-1" class="motion-anchor"></a>
+
 > That the Committee BE RECESSED at this time.
 
 **✅ Motion Passed (12 to 1)**
@@ -1329,6 +1337,8 @@ Unanimous (14-0)
 
 ### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
 
+<a id="motion-5-1-1" class="motion-anchor"></a>
+
 > Motion to approve part a) That the following actions be taken with respect to the Palace Theatre Arts Commons loan forgiveness:    a) the Civic Administration BE AUTHORIZED to further extend the deferral period, on Community Improvement Plan loan repayments, on an interest-free basis for a furthe...
 
 **✅ Motion Passed (12 to 0)**
@@ -1336,6 +1346,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 5.1. (ADDED) Palace Theatre Arts Commons Loan Forgiveness Business Case
+
+<a id="motion-5-1-2" class="motion-anchor"></a>
 
 > Motion to approve part b) b) the Business Case from the Palace Theatre Arts Commons BE APPROVED and the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83, with the previously allocated London ...
 

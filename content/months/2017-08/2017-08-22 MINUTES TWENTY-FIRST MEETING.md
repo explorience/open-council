@@ -1894,6 +1894,8 @@ Motion passed.
   for Consideration with Clause 8 of the 13th Report of the Civic Works
   Committee )
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1908,6 +1910,8 @@ Unanimous (14-0)
   for Consideration with Clause 8 of the 13th Report of the Civic Works
   Committee )
 
+<a id="motion-1-2-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration Stage XII Emergent Motions to be dealt with at this time.
 
 **✅ Motion Passed**
@@ -1916,6 +1920,8 @@ Unanimous (14-0)
 
 ### 1#3. Flying the Flag -
   September 7th Recognition of "London Township Treaty"
+
+<a id="motion-1-3-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 11.3 of   the Council Procedure By-law, leave BE GIVEN to bring forward a motion to   reconsider clause 8 of the 20th Report of the Corporate Services Committee,   adopted by Municipal Council on September 13, 2016, having to do with the   raising of the First Nat...
 
@@ -1926,6 +1932,8 @@ Unanimous (14-0)
 ### 1#3. Flying the Flag -
   September 7th Recognition of "London Township Treaty"
 
+<a id="motion-1-3-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.3 of   the Council Procedure By-law, clause 8 of the 20th Report of the Corporate   Services Committee, adopted by Municipal Council on September 13, 2016,   having to do with the raising of the First Nations Flag to recognize the   anniversary of the “London T...
 
 **✅ Motion Passed**
@@ -1935,6 +1943,8 @@ Unanimous (14-0)
 ### 1#3. Flying the Flag -
   September 7th Recognition of "London Township Treaty"
 
+<a id="motion-1-3-2" class="motion-anchor"></a>
+
 > Approve that the City Clerk BE DIRECTED   to undertake the following actions with respect to recognition of the   anniversary of the “London Township Treaty”:   a)         to   invite the following First Nations to have their flags displayed in City Hall   on September 7th of each year, if they s...
 
 **✅ Motion Passed**
@@ -1942,6 +1952,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 13#2. PEC Deferred List
+
+<a id="motion-13-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED   to update the Deferred Matters List to remove any items that have been   addressed by the Civic Administration.
 
@@ -1952,6 +1964,8 @@ Unanimous (13-0)
 ### 2#3. Department of
   Fisheries and Oceans Canada Habitat Banking Arrangement
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > Approve that clause 2 be amended to add   a new part b), read as follows:   That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to initiating the process to create a   habitat banking arran...
 
 **✅ Motion Passed**
@@ -1961,6 +1975,8 @@ Unanimous (14-0)
 ### 2#3. Department of
   Fisheries and Oceans Canada Habitat Banking Arrangement
 
+<a id="motion-2-3-1" class="motion-anchor"></a>
+
 > Approve clause 2 as amended.
 
 **✅ Motion Passed**
@@ -1969,6 +1985,8 @@ Unanimous (14-0)
 
 ### 4#3. Establishment of
   Opioid Crisis Working Group
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > Approve that the request of the Mayor   with respect to the establishment of an Opioid Crisis Working Group, BE   REFERRED to the Strategic Priorities and Policy Committee in order for   additional information and detail with respect to the proposed Working Group   to be clarified and confirmed, ...
 
@@ -1987,6 +2005,8 @@ Unanimous (14-0)
   at 150 Dundas Street  and 153 Carling Street - Request for Demolition of
   Heritage Designated Property
 
+<a id="motion-9-2-1" class="motion-anchor"></a>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -1996,6 +2016,8 @@ Unanimous (14-0)
 ### IX. ADDED
   REPORTS
 
+<a id="motion-ix-0" class="motion-anchor"></a>
+
 > Approve clauses 1, 2 and 4.
 
 **✅ Motion Passed**
@@ -2004,6 +2026,8 @@ Unanimous (14-0)
 
 ### IX. ADDED
   REPORTS
+
+<a id="motion-ix-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2021,6 +2045,8 @@ Unanimous (14-0)
 ### IX. ADDED
   REPORTS
 
+<a id="motion-ix-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2029,6 +2055,8 @@ Unanimous (14-0)
 
 ### IX. ADDED
   REPORTS
+
+<a id="motion-ix-3" class="motion-anchor"></a>
 
 > 1.         That the Council in Closed   Session met, in camera, for the purpose of considering the following:   a)         A   matter pertaining to personal matters about an identifiable individual,   including communications necessary for that purpose, as it relates to   interviews for nominatio...
 
@@ -2039,6 +2067,8 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTIETH MEETING HELD ON JULY  25, 2017
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Twentieth Meeting   held on July 25, 2017.
 
 **✅ Motion Passed**
@@ -2047,6 +2077,8 @@ Unanimous (14-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 20.1 of   the Council Procedure By-law, leave BE GIVEN for the introduction of an   emergent motion pertaining to a rally that is to be held on August 26, 2017.
 
@@ -2057,6 +2089,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve that the Municipal Council and the City of   London stand against all forms of racism, bigotry and hatred, including white   supremacy/nationalist groups whose ideologies threaten the security of our   community and undermines our commitment to foster a safe and inclusive   environment fo...
 
 **✅ Motion Passed**
@@ -2065,6 +2099,8 @@ Unanimous (14-0)
 
 ### 3. Confirmation of
   Appointment to the Cycling Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken in   connection with the Cycling Advisory Committee:   a)         Ben   Goodge BE APPOINTED to the Cycling Advisory Committee, as a Voting   Representative from London Cycle Link, for the term ending February 28, 2019;   and   b)         the   Civic Administrat...
 
@@ -2075,6 +2111,8 @@ Unanimous (14-0)
 
 ### 8. Ontario Power
   Generation's Proposed Nuclear Waste Repository
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Approve that the matter of the submission   from F. Fernandez, with respect to opposition to Ontario Power Generation's   proposed nuclear waste repository at the Bruce Nuclear Generating Station BE   REFERRED back to the Civic Works Committee for additional consideration.
 
@@ -2091,6 +2129,8 @@ Unanimous (14-0)
 
 ### 8. Ontario Power
   Generation's Proposed Nuclear Waste Repository
+
+<a id="motion-8-1" class="motion-anchor"></a>
 
 > Motion Failed
 

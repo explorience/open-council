@@ -105,6 +105,8 @@ The meeting adjourned at 6:11 PM.
 
 ### 2.1. London & Middlesex Community Housing Inc. Meeting of the Shareholder Resolutions Regarding Interim Board Appointments
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the City Manager, with concurrence of the Managing Director, Housing, Social Services and Dearness Home the following actions be taken with respect to London & Middlesex Community Housing Inc.: a)      the “Terms of Reference Interim Board of Directors London & Midd...
 
 **✅ Motion Passed (15 to 0)**
@@ -112,6 +114,8 @@ The meeting adjourned at 6:11 PM.
 Unanimous (15-0)
 
 ### 2.1. London & Middlesex Community Housing Inc. Meeting of the Shareholder Resolutions Regarding Interim Board Appointments
+
+<a id="motion-2-1-1" class="motion-anchor"></a>
 
 > That the proposed composition of the interim Board for the London & Middlesex Community Housing Inc. include a Member of City of London Council and a Member of Middlesex County Council.
 

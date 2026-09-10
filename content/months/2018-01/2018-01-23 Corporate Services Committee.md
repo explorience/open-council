@@ -536,6 +536,8 @@ The meeting adjourned at 1:44 PM.
   Rights and Code of Conduct Inquiries, Requests, Complaints and Related
   Training Initiatives 2017
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -550,6 +552,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 3. Changes to the
   Employment Standards Act, 2000 and the Labour Relations Act, 1995 - Bill 148
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -566,6 +570,8 @@ The meeting adjourned at 1:44 PM.
 ### 4. Workforce Census
   and Community Comparators
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -580,6 +586,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 5. Update: Workplace
   Diversity and Inclusion Activities
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -597,6 +605,8 @@ The meeting adjourned at 1:44 PM.
   Services to Migrate Existing Microsoft Reports to Microsoft Business
   Intelligence (BI) Reporting Services
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -613,6 +623,8 @@ The meeting adjourned at 1:44 PM.
   for 2018, Changes in Taxable Phase-In Values and Shifts in Taxation as a
   Result of Reassessment
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -627,6 +639,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 8. Authorization for
   Temporary Borrowing
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -643,6 +657,8 @@ The meeting adjourned at 1:44 PM.
 ### 9. 2018 Debenture
   Issuance
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -657,6 +673,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 10. FCM Municipal Asset
   Management Program Grant Application
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -673,6 +691,8 @@ The meeting adjourned at 1:44 PM.
 ### 11. Corporate Asset
   Management Plan 2017 Review
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -687,6 +707,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 12. Declare Surplus -
   City-Owned Land Abutting 740 Dundas Street
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -703,6 +725,8 @@ The meeting adjourned at 1:44 PM.
 ### 13. Award of
   Construction Contract to Demolish 280 York Street/340 Wellington Street
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -718,6 +742,8 @@ The meeting adjourned at 1:44 PM.
 ### 14. LGBTQ2 Community
   Apology
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -732,6 +758,8 @@ The meeting adjourned at 1:44 PM.
 
 ### 14. LGBTQ2 Community
   Apology
+
+<a id="motion-14-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -748,6 +776,8 @@ The meeting adjourned at 1:44 PM.
 ### 15. Request for
   Designation of the Latin Gastronomy Festival as a Municipally Significant
   Event
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -766,6 +796,8 @@ The meeting adjourned at 1:44 PM.
   America Conference of Mayors 86th Winter Meeting - January 23 -27, 2018 –
   Washington
   DC
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

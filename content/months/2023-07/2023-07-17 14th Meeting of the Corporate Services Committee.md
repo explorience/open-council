@@ -2949,6 +2949,8 @@ And folks, I believe that's it. Motion to adjourn. Acting Mayor Lewis, seconded 
 
 ### 2.5. Council Policy Manual Review 2023
 
+<a id="motion-2-5-4" class="motion-anchor"></a>
+
 > Motion to approve part c) of the above-noted referral motion: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 , to repeal the following Council Policies: 1.    Athletic Travel Grants 4.    Enforcement of City Personnel Policy 7.    Landing of ...
 
 **❌ Motion Failed (2 to 2) 🔥**
@@ -2966,6 +2968,8 @@ And folks, I believe that's it. Motion to adjourn. Acting Mayor Lewis, seconded 
 
 ### 2.5. Council Policy Manual Review 2023
 
+<a id="motion-2-5-5" class="motion-anchor"></a>
+
 > Motion to approve part a) of the report recommendation: That, on the recommendation of the City Clerk, the following actions be taken with respect to the “Policy for the Establishment and Maintenance of Council Polices”:    a)    the proposed by-laws as appended to the staff report dated July 17,...
 
 **✅ Motion Passed (4 to 0)**
@@ -2973,6 +2977,8 @@ And folks, I believe that's it. Motion to adjourn. Acting Mayor Lewis, seconded 
 Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
+
+<a id="motion-2-5-6" class="motion-anchor"></a>
 
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies:    2.    City of London Race Rel...
 
@@ -2982,6 +2988,8 @@ Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
 
+<a id="motion-2-5-7" class="motion-anchor"></a>
+
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies:    1.    Athletic Travel Grants
 
 **✅ Motion Passed (4 to 0)**
@@ -2989,6 +2997,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
+
+<a id="motion-2-5-8" class="motion-anchor"></a>
 
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies:    4.    Enforcement of City Per...
 
@@ -2998,6 +3008,8 @@ Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
 
+<a id="motion-2-5-9" class="motion-anchor"></a>
+
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies:    7.    Landing of Helicopters ...
 
 **✅ Motion Passed (4 to 0)**
@@ -3005,6 +3017,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
+
+<a id="motion-2-5-10" class="motion-anchor"></a>
 
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies:    8.    Protocol for Unapproved...
 
@@ -3014,6 +3028,8 @@ Unanimous (4-0)
 
 ### 2.5. Council Policy Manual Review 2023
 
+<a id="motion-2-5-11" class="motion-anchor"></a>
+
 > That the following from part c) BE APPROVED: c)    the proposed by-laws as appended to the staff report dated July 17, 2023 as Appendices D1 to D9 BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to repeal the following Council Policies: 9.    Siting of Cannabis Retail ...
 
 **✅ Motion Passed (4 to 0)**
@@ -3022,6 +3038,8 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the Community Advisory Committees: a)  the following individuals BE APPOINTED as Voting Members to the Animal Welfare Community Advisory Committee for the term ending February 2024: - Nicole Karsch - Steve Ryall and b)  the City Clerk BE DIRECTE...
 
 **✅ Motion Passed (4 to 0)**
@@ -3029,6 +3047,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > Consideration of appointment to the Community Advisory Committee on Planning.
 
@@ -3043,18 +3063,7 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
-> Second selection round - Community Advisory Committee on Planning
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 4.1. Consideration of Appointments to the London Community Advisory Committees
+<a id="motion-4-1-3" class="motion-anchor"></a>
 
 > Second selection round - Community Advisory Committee on Planning
 
@@ -3068,6 +3077,23 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-4" class="motion-anchor"></a>
+
+> Second selection round - Community Advisory Committee on Planning
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-5" class="motion-anchor"></a>
 
 > That the consideration of appointments to the Community Advisory Committee on Planning BE FORWARDED to the Municipal Council for a decision; it being noted of the following voting record from the Corporate Services Committee: Ambrogio - 4 votes Dohil - 4 votes Danalynn - 2 votes Gard - 2 votes
 
@@ -3076,6 +3102,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-6" class="motion-anchor"></a>
 
 > Consideration of Appointment to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.
 
@@ -3089,6 +3117,8 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-7" class="motion-anchor"></a>
 
 > That the following individuals BE APPOINTED as Voting Members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee for the term ending February 2024: - Saleme Atieh - David Godwin - Margot Stothers - Nandini Syed
 
@@ -3107,6 +3137,8 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
+<a id="motion-4-1-8" class="motion-anchor"></a>
+
 > Consideration of Appointment to the Environmental Stewardship and Action Community Advisory Committee.
 
 **❌ Majority Winner: Allison Pert; Becca Amendola; Mary Ann Hodge; Amy Ford; Russell Duvernoy 🔥**
@@ -3120,6 +3152,8 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
+<a id="motion-4-1-9" class="motion-anchor"></a>
+
 > That the following individuals BE APPOINTED as Voting Members to the Environmental Stewardship and Action Community Advisory Committee for the term ending February 2024: - Becca Amendola - Russell Duvernoy - Amy Ford - Mary Ann Hodge - Allison Pert
 
 **✅ Motion Passed (4 to 0)**
@@ -3128,18 +3162,7 @@ Unanimous (4-0)
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
 
-> Consideration of Appointment to the Integrated Transportation Community Advisory Committee.
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
-
-</details>
-
-### 4.1. Consideration of Appointments to the London Community Advisory Committees
+<a id="motion-4-1-10" class="motion-anchor"></a>
 
 > Consideration of Appointment to the Integrated Transportation Community Advisory Committee.
 
@@ -3153,6 +3176,23 @@ Unanimous (4-0)
 </details>
 
 ### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-11" class="motion-anchor"></a>
+
+> Consideration of Appointment to the Integrated Transportation Community Advisory Committee.
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (2):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister)
+
+</details>
+
+### 4.1. Consideration of Appointments to the London Community Advisory Committees
+
+<a id="motion-4-1-12" class="motion-anchor"></a>
 
 > That the consideration of appointments to the Integrated Transportation Community Advisory CommitteeBE FORWARDED to the Municipal Council for a decision; it being noted of the following voting record from the Corporate Services Committee: Poirer - 4 votes Issa - 3 votes DeGroot - 2 votes Pfeffer ...
 
@@ -3161,6 +3201,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.2. Application - Issuance of Proclamation - Blood Cancer Awareness Month - Leukemia and Lymphoma Society of Canada
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That items 4.2 to 4.4 BE APPROVED. 4.2       Application – Issuance of Proclamation – Blood Cancer Awareness Month – Leukemia and Lymphoma Society of Canada That based on the application dated June 30, 2023 from Leukemia and Lymphoma Society of Canada-London Ontario, the month of September 2023 B...
 

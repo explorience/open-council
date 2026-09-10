@@ -2505,6 +2505,8 @@ Motion Passed
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2512,6 +2514,8 @@ Motion Passed
 Unanimous (14-0)
 
 ### IX. REPORTS
+
+<a id="motion-ix-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2522,6 +2526,8 @@ Unanimous (15-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE ELEVENTH MEETING HELD ON JUNE 11, 2013
 
+<a id="motion-vi-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2530,13 +2536,7 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### XIII. BY-LAWS
+<a id="motion-xiii-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2546,13 +2546,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### XIII. BY-LAWS
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2562,13 +2556,7 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### XIII. BY-LAWS
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2578,6 +2566,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-7" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2585,6 +2575,38 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-9" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-11" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-13" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-15" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2594,6 +2616,8 @@ Unanimous (13-0)
 
 ### 2. Orchestra London Business Plan
 
+<a id="motion-2-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2602,6 +2626,8 @@ Unanimous (15-0)
 
 ### 3. Properties located at 3313-3405
       Wonderland Road South and 1789 Wharncliffe Road South (OZ-7072/OZ-7073)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2617,6 +2643,8 @@ Unanimous (15-0)
 ### 5. Status of ReThink
   London Key Directions and Discussion Papers
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Councillor J.L. Baechler enquired about the   status of the City’s defense of the Municipal Council’s position regarding   “Near Campus Neighbourhoods”.  J. Page, Solicitor II, advised that the   Municipal Council’s position was successfully defended before the Ontario   Municipal Board.  Motion ...
 
 **✅ Motion Passed**
@@ -2625,6 +2653,8 @@ Unanimous (15-0)
 
 ### 9. Draft Old Victoria
   Hospital Lands Secondary Plan
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2636,6 +2666,8 @@ Unanimous (15-0)
   at 3313-3405 Wonderland Road South and 1789 Wharncliffe Road South
   (OZ-7072/OZ-7073)
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2645,6 +2677,8 @@ Unanimous (13-0)
 ### 17. Properties located
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
+
+<a id="motion-17-2" class="motion-anchor"></a>
 
 > Motion Failed
 
@@ -2663,6 +2697,8 @@ Unanimous (13-0)
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
+<a id="motion-17-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2680,15 +2716,7 @@ Unanimous (13-0)
   at 56-82 Wellington Street, 283-323 South Street and 69-77 Waterloo Street
   (OZ-8114)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 18. Properties located
-  at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
-  Wellington Road South (OZ-8120)
+<a id="motion-17-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2700,6 +2728,8 @@ Unanimous (15-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
   Wellington Road South (OZ-8120)
 
+<a id="motion-18-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2709,6 +2739,20 @@ Unanimous (15-0)
 ### 18. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
   Wellington Road South (OZ-8120)
+
+<a id="motion-18-3" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 18. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
+  Wellington Road South (OZ-8120)
+
+<a id="motion-18-5" class="motion-anchor"></a>
 
 > The ruling of the Chair is not sustained.
 
@@ -2727,6 +2771,8 @@ Unanimous (15-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397 and 4407
   Wellington Road South (OZ-8120)
 
+<a id="motion-18-6" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -2742,6 +2788,8 @@ Unanimous (15-0)
 
 ### 19. Draft Downtown
   Master Plan
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion Passed
 

@@ -2341,6 +2341,8 @@ Motion Passed
   City of London Buildings and Amenities – September 21, 2017 – International
   Day of Peace
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 11.3 of   the Council Procedure By-law, leave BE GIVEN to bring forward a motion having   to do with a request to have City of London buildings and amenities   illuminated blue and white on September 21, 2017 to recognize the   International Day of Peace.
 
 **✅ Motion Passed**
@@ -2350,6 +2352,8 @@ Unanimous (14-0)
 ### 1#2. Request to Illuminate
   City of London Buildings and Amenities – September 21, 2017 – International
   Day of Peace
+
+<a id="motion-1-2-1" class="motion-anchor"></a>
 
 > Approve that notwithstanding Council   Policy – “Illumination of City of London Buildings and Amenities” the City   Clerk BE DIRECTED to make the necessary arrangements to have City of London   buildings and amenities illuminated blue and white on September 21, 2017 to   recognize the Internation...
 
@@ -2361,6 +2365,8 @@ Unanimous (14-0)
   By-law Review – Adult Live Entertainment Parlour, Adult Entertainment
   Body-Rub Parlour, Unsolicited Motor Vehicle Towing and Storage.
 
+<a id="motion-10-2-1" class="motion-anchor"></a>
+
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 13 of the 12th Report of the Community and Protective   Services Committee not before 5:50 PM.
 
 **✅ Motion Passed**
@@ -2371,6 +2377,8 @@ Unanimous (14-0)
   Second Term Appointment to the University of Western Ontario's Board of
   Governors - Michael Lerner
 
+<a id="motion-11-3-0" class="motion-anchor"></a>
+
 > That Michael Lerner BE REAPPOINTED for a   second term to the University of Western Ontario Board of Governors for the   term December 1, 2017 to November 30, 2021.
 
 **✅ Motion Passed**
@@ -2379,6 +2387,8 @@ Unanimous (11-0)
 
 ### 13#3. Partnership to
   Establish London as a UN Women’s Safe City
+
+<a id="motion-13-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to A Partnership to Establish London as a UN Women’s Safe City:   a)         ANOVA   BE APPOINTED as the lead organization in developing a five-year Safe Cities   plan for London;   b)         a   Steering Committee of sexual assault and research...
 
@@ -2389,6 +2399,8 @@ Unanimous (12-0)
 ### 15#2. Establishment of Working
   Group - Strengthening Relationships with Indigenous Peoples
 
+<a id="motion-15-2-0" class="motion-anchor"></a>
+
 > That a Working Group comprised of Members   of Council interested in serving on the Working Group and appointed by the   Municipal Council to do so, BE ESTABLISHED to review and provide recommendations   to Municipal Council with implementing recommendations contained in the Truth   and Reconcili...
 
 **✅ Motion Passed**
@@ -2397,6 +2409,8 @@ Unanimous (13-0)
 
 ### 2#6. London Community
   Grants Program Innovation and Capital Funding Allocations (2018)
+
+<a id="motion-2-6-1" class="motion-anchor"></a>
 
 > The motion to Approve part b) of clause 2   is put.
 
@@ -2414,6 +2428,8 @@ Unanimous (13-0)
 ### 5#3. Declare Surplus -
   39 Redwood Lane
 
+<a id="motion-5-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, on   the advice of the Manager of Realty Services, the following actions be taken   with respect to the City-owned land located at 39 Redwood Lane, described as   Block 96, Plan...
 
 **✅ Motion
@@ -2425,6 +2441,8 @@ Unanimous (14-0)
   Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
   Opioid Crisis in London
 
+<a id="motion-5-4-0" class="motion-anchor"></a>
+
 > That the following actions be taken with   respect to the use of supervised consumption sites and other harm reduction   measures:   a)         the   Opioid Crisis Working Group, comprised of the Mayor, as well as other   community stakeholders, under the leadership of the Medical Officer of   He...
 
 **✅ Motion Passed**
@@ -2434,6 +2452,8 @@ Unanimous (11-0)
 ### 7#3. Shift Rapid Transit
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
+
+<a id="motion-7-3-2" class="motion-anchor"></a>
 
 > The motion to Approve part c) of clause 7   is put.
 
@@ -2452,6 +2472,8 @@ Unanimous (11-0)
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
 
+<a id="motion-7-3-1" class="motion-anchor"></a>
+
 > The motion to Approve part a) of clause 7   is put.
 
 **✅ Motion Passed**
@@ -2460,6 +2482,8 @@ Unanimous (11-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<a id="motion-iv-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   Stage XI Enquiries to be considered prior to Stage IV Council, In Closed   Session.
 
@@ -2470,6 +2494,8 @@ Unanimous (13-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<a id="motion-iv-1" class="motion-anchor"></a>
+
 > Approve that  pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information related to a matter pertaining to   personal matters, including information regarding identifiable individuals,   with respect to employment...
 
 **✅ Motion Passed**
@@ -2478,6 +2504,8 @@ Unanimous (13-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<a id="motion-iv-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2489,6 +2517,8 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-SECOND MEETING HELD ON SEPTEMBER 4,
   2017
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve the Minutes of the Twenty-Second Meeting   held on September 4, 2017.
 
@@ -2503,6 +2533,8 @@ Unanimous (14-0)
   Services Committee Stage for Consideration with Clause 10 of the 12th Report
   of the Community and Protective Services Committee )
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2512,6 +2544,8 @@ Unanimous (14-0)
 ### 11. Conservation Review
   Board Recommendation - Notice of Intent to Designated 4402 Colonel Talbot
   Road
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > At 5:07 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:09 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -2530,6 +2564,8 @@ Unanimous (14-0)
   Board Recommendation - Notice of Intent to Designated 4402 Colonel Talbot
   Road
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of   the Managing Director, Planning and City Planner, with the advice of the   Heritage Planner, the following actions be taken:   a)         the   staff report, dated September 11, 2017, and the report from the Conservation   Review Board, appended to the rep...
 
 **✅ Motion Passed**
@@ -2546,6 +2582,8 @@ Unanimous (14-0)
 ### 16. Amazon HQ2 Request
   for Proposal
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to work with the London Economic Development Corporation and other relevant   community stakeholders to investigate the feasibility of submitting a   response to the Amazon HQ2 Request for Proposal to have the headquarters   located in London, Ontario ...
 
 **✅ Motion Passed**
@@ -2561,6 +2599,8 @@ Unanimous (14-0)
 
 ### 16. Amazon HQ2 Request
   for Proposal
+
+<a id="motion-16-1" class="motion-anchor"></a>
 
 > 1.         Industrial   Land Exchange Pertaining to an Access for the 23.9 Acre Parcel (C5) at Huron   Industrial Park   That, as a procedural matter pursuant to   Section 239(6) of the Municipal Act, 2001, the following recommendation be   forwarded to Council for deliberation and a vote in publ...
 

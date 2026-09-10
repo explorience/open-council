@@ -97,6 +97,8 @@ The meeting adjourned at 5:37 PM.
 
 ### 4.1. History of London's Rapid Transit Initiative
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve part a).
 
 **✅ Motion Passed (6 to 0)**
@@ -104,6 +106,8 @@ The meeting adjourned at 5:37 PM.
 Unanimous (6-0)
 
 ### 4.1. History of London's Rapid Transit Initiative
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > Motion to approve part b).
 

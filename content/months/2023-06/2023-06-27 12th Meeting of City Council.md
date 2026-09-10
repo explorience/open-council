@@ -3870,6 +3870,8 @@ Councillor Ferreira and Councillor van Neerbergen as a reminder this is on 1080 
 
 ### 6. Communications and Petitions
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > That NO ACTION BE TAKEN with respect to communication 6.1, item 4, as noted on the Council Agenda.
 
 **✅ Motion Passed (14 to 1)**
@@ -3885,6 +3887,8 @@ Councillor Ferreira and Councillor van Neerbergen as a reminder this is on 1080 
 
 ### 8.1. 10th Meeting of the Civic Works Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Civic Works Committee BE APPROVED, excluding items 8 (3.1) and 9 (4.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -3892,6 +3896,8 @@ Councillor Ferreira and Councillor van Neerbergen as a reminder this is on 1080 
 Unanimous (15-0)
 
 ### 8.1.8. (3.1) Blackfriars Bridge - Long Term Use
+
+<a id="motion-8-1-8-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the long-term use of the Blackfriars Bridge:  a)    the Option 1 – to continue with the current bridge configuration – as outlined in the staff report dated June 13, 2023 BE APPROVED;  b)    the above-noted recommendation from the Long Term Use ...
 
@@ -3908,6 +3914,8 @@ Unanimous (15-0)
 
 ### 8.2. 17th Meeting of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That pursuant to section 2.3 of the Council Procedure By-law, the rules of the by-law BE SUSPENDED for the purpose of permitting members to speak more than once to this matter.
 
 **✅ Motion Passed (12 to 3)**
@@ -3923,6 +3931,8 @@ Unanimous (15-0)
 
 ### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
 
+<a id="motion-8-2-2-0" class="motion-anchor"></a>
+
 > Consideration of appointment to the London Police Services Board
 
 **❌ Majority Winner: No majority 🔥**
@@ -3933,6 +3943,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+<a id="motion-8-2-2-1" class="motion-anchor"></a>
 
 > Consideration of Selection to the London Police Services Board - run off (round 2)
 
@@ -3946,6 +3958,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+<a id="motion-8-2-2-2" class="motion-anchor"></a>
 
 > Consideration of Selection to the London Police Services Board - run off (round 2)
 
@@ -3959,6 +3973,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.2. (5.1) Consideration of Appointment to the London Police Services Board
+
+<a id="motion-8-2-2-3" class="motion-anchor"></a>
 
 > That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
 
@@ -3975,6 +3991,8 @@ Unanimous (15-0)
 
 ### 8.3. 18th Meeting of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That Items 1 to 10 (3.4) the 18th Report of the Strategic Priorities and Policy Committee BE APPROVED.
 
 **✅ Motion Passed (14 to 0)**
@@ -3982,6 +4000,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+<a id="motion-8-3-11-2" class="motion-anchor"></a>
 
 > Motion to approve part c) c)  Councillors J. Pribil and P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
 
@@ -4000,6 +4020,8 @@ Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
+<a id="motion-8-3-11-3" class="motion-anchor"></a>
+
 > That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority for the term ending November 14, 2026.
 
 **✅ Motion Passed (14 to 0)**
@@ -4008,6 +4030,8 @@ Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
+<a id="motion-8-3-11-4" class="motion-anchor"></a>
+
 > That part b) of the motion approving the appointment of Councillor H. McAlister to the Lower Thames Valley Conservation Authority for the term ending November 14, 2023 BE RECONSIDERED.
 
 **✅ Motion Passed (14 to 0)**
@@ -4015,6 +4039,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+<a id="motion-8-3-11-5" class="motion-anchor"></a>
 
 > Following the approval of reconsideration, the following motion is put b)  Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026; and,
 
@@ -4031,6 +4057,8 @@ Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
+<a id="motion-8-3-11-6" class="motion-anchor"></a>
+
 > That Councillor P. Van Meerbergen BE APPOINTED to the Lower Thames Valley Conservation Authority for the term ending November 14, 2026
 
 **✅ Motion Passed (14 to 0)**
@@ -4039,6 +4067,8 @@ Unanimous (14-0)
 
 ### 8.3.11. (4.1) Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
 
+<a id="motion-8-3-11-7" class="motion-anchor"></a>
+
 > That the Minister of Natural Resources and Forestry BE PETITIONED to provide for the appointment of one citizen for the final vacancy for membership on the Kettle Creek Conservation Authority Board of Directors; it being noted that two Council members are appointed as members of the Board of Dire...
 
 **✅ Motion Passed (14 to 0)**
@@ -4046,6 +4076,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 8.3.12. (2.1) June Progress Update - Health and Homelessness Whole of Community System Response
+
+<a id="motion-8-3-12-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.
 
@@ -4064,6 +4096,8 @@ Unanimous (14-0)
 
 ### 8.3.13. (2.2) Core Area Action Plan 2022 Review
 
+<a id="motion-8-3-13-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Environment & Infrastructure, the Deputy City Manager, Planning & Economic Development, and the Deputy City Manager, Social & Health Development, the following actions be taken: a)    the staff report dated June 20, 2023 entitled “Core Area ...
 
 **✅ Motion Passed (12 to 1)**
@@ -4081,6 +4115,8 @@ Unanimous (14-0)
 
 ### 8.4. 10th Meeting of the Planning and Environment Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Planning and Environment Committee BE APPROVED, excluding items 4 (3.1) and 5 (3.2);  it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of its deli...
 
 **✅ Motion Passed (13 to 0)**
@@ -4088,6 +4124,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 8.4.4. (3.1) 221 Queens Avenue (TZ-9598) (Relates to Bill No. 201)
+
+<a id="motion-8-4-4-1" class="motion-anchor"></a>
 
 > That the application related to 221 Queens Avenue, BE REFERRED back to the Planning and Environment for additional discussion with the applicant including the incorporation of an enhanced landscaping plan and the consideration of a three (3) year extension for the temporary use.
 
@@ -4106,6 +4144,8 @@ Unanimous (13-0)
 
 ### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
 
+<a id="motion-8-4-5-1" class="motion-anchor"></a>
+
 > That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE AMENDED by adding a new part e), as follows: “e)     that the Civic Administration BE DIRECTED to review existing (and consider in future) housing-related CIPs opportunities to include and incentivize the cre...
 
 **✅ Motion Passed (13 to 0)**
@@ -4113,6 +4153,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
+
+<a id="motion-8-4-5-3" class="motion-anchor"></a>
 
 > That Item 5 (clause 3.2) of the 10th Report of the Planning and Environment Committee BE FURTHER AMENDED by adding a new part d) xxi): "xxi) that 206 Piccadilly be added to the Downtown Community Improvement Plan Project Area"
 
@@ -4122,6 +4164,8 @@ Unanimous (13-0)
 
 ### 8.4.5. (3.2) 5 Year Review - Community Improvement Plans and Financial Incentive Programs (Final)
 
+<a id="motion-8-4-5-4" class="motion-anchor"></a>
+
 > That the motion as further amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4130,6 +4174,8 @@ Unanimous (13-0)
 
 ### 8.5. 11th Meeting of the Planning and Environment Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Planning and Environment Committee BE APPROVED, excluding items 6 (2.3), 7 (3.1) and 10 (3.4); it being noted that any and all oral and written submissions from the public related to this application have been, on balance, taken into consideration by Council as part of...
 
 **✅ Motion Passed (13 to 0)**
@@ -4137,6 +4183,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.5.6. (2.3) Request for Heritage Designation - 599-601 Richmond Street
+
+<a id="motion-8-5-6-0" class="motion-anchor"></a>
 
 > That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated June 19, 2023 entitled "Designation of the Property at 599-601 Richmond street pursuant to Part IV, Ontario Heritage Act, Ward 13" BE RECEIVED for information.  (2023-R01)
 
@@ -4155,6 +4203,8 @@ Unanimous (13-0)
 
 ### 8.5.6. (2.3) Request for Heritage Designation - 599-601 Richmond Street
 
+<a id="motion-8-5-6-1" class="motion-anchor"></a>
+
 > That notwithstanding the Council Procedure By-law, Councillor A. Hopkins BE PERMITTED to speak twice with respect to this matter.
 
 **✅ Motion Passed (8 to 5) 🔥**
@@ -4172,6 +4222,8 @@ Unanimous (13-0)
 
 ### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
 
+<a id="motion-8-5-7-1" class="motion-anchor"></a>
+
 > That Item 7 (3.1) BE AMENDED to read as follows: That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Parkit Enterprises relating to the property located at 568 Second Street: a)    the revised, attac...
 
 **✅ Motion Passed (13 to 0)**
@@ -4180,6 +4232,8 @@ Unanimous (13-0)
 
 ### 8.5.7. (3.1) 568 Second Street Zoning By-law Amendment (Z-9522) (Relates to Bill No. 202)
 
+<a id="motion-8-5-7-2" class="motion-anchor"></a>
+
 > Item 7 clause 3.1, as amended, BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4187,6 +4241,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
+
+<a id="motion-8-5-10-1" class="motion-anchor"></a>
 
 > That Clause 3.4 BE AMENDED by adding the following at the end of the clause: It being noted that the following Site Plan matters have been raised through the application review process for consideration by the Site Plan Approval Authority:  a)    Submission of a noise and vibration study certifie...
 
@@ -4205,6 +4261,8 @@ Unanimous (13-0)
 
 ### 8.5.10. (3.4) 755, 785 & 815 Wonderland Road South (OZ-9565)
 
+<a id="motion-8-5-10-3" class="motion-anchor"></a>
+
 > That item 10, clause 3.4, as amended, BE APPROVED.
 
 **❌ Motion Failed (6 to 7) 🔥**
@@ -4222,6 +4280,8 @@ Unanimous (13-0)
 
 ### 8.6. 12th Report of the Corporate Services Committee
 
+<a id="motion-8-6-0" class="motion-anchor"></a>
+
 > That the 12th Report of the Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4229,6 +4289,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.7. 13th Report of the Corporate Services Committee
+
+<a id="motion-8-7-0" class="motion-anchor"></a>
 
 > That the 13th Report of the Corporate Services Committee BE APPROVED.
 
@@ -4238,6 +4300,8 @@ Unanimous (13-0)
 
 ### 8.8. 10th Report of the Community and Protective Services Committee
 
+<a id="motion-8-8-0" class="motion-anchor"></a>
+
 > That the 10th Report of the Community and Protective Services Committee BE APPROVED, excluding items 15 (4.3) and 16 (4.4).
 
 **✅ Motion Passed (13 to 0)**
@@ -4245,6 +4309,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8.8.15. (4.3) Encampment Response Update
+
+<a id="motion-8-8-15-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated June 13, 2023, related to the Encampment Response Update:  a)    the funding allocation, from the Social Services Reserve Fund, for the tot...
 
@@ -4263,6 +4329,8 @@ Unanimous (13-0)
 
 ### 8.8.16. (4.4) Councillor J. Pribil - Winter Response Program
 
+<a id="motion-8-8-16-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE DIRECTED to include a year over year comparison, for the past three years (2020-2021, 2021-2022, 2022-2023), on the number of bed days available/occupied, number of bed nights available/occupied, number of hours service bed facility, number of hours service non-be...
 
 **✅ Motion Passed (12 to 1)**
@@ -4280,6 +4348,8 @@ Unanimous (13-0)
 
 ### 8.9. (ADDED) 11th Meeting of the Community and Protective Services Committee
 
+<a id="motion-8-9-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Community and Protective Services Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4288,6 +4358,8 @@ Unanimous (13-0)
 
 ### 8.10. 2nd Report of the Audit Committee
 
+<a id="motion-8-10-0" class="motion-anchor"></a>
+
 > That the 2nd Report of the Audit Committee BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -4295,6 +4367,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 9.1. 10th Report of Council in Closed Session
+
+<a id="motion-9-1-0" class="motion-anchor"></a>
 
 > 1.    Partial Property Acquisition – 1080 Dundas Street – East London Link Project That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the property located at 1080 Dundas Street, further described as Part of Lot...
 
@@ -4313,6 +4387,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<a id="motion-13-3" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Added Bill No. 207, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -4330,6 +4406,8 @@ Unanimous (13-0)
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Second Reading of Added Bill No. 207, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -4346,6 +4424,8 @@ Unanimous (13-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-5" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Added Bill No. 207, BE APPROVED.
 

@@ -286,6 +286,8 @@ Deputy Mayor, this afternoon. I will not rise to that challenge.
 
 ### 9.1. 6th Special Report of the Community and Protective Services Committee
 
+<a id="motion-9-1-0" class="motion-anchor"></a>
+
 > That the 6th Report of the Community and Protective Services Committee BE APPROVED
 
 **✅ Motion Passed (14 to 0)**

@@ -714,6 +714,8 @@ All those in favor, adjourned.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2, 2.4, 2.5 and 2.9 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -721,6 +723,8 @@ All those in favor, adjourned.
 Unanimous (6-0)
 
 ### 2.3. Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada
+
+<a id="motion-2-3-0" class="motion-anchor"></a>
 
 > That the staff report, dated November 23, 2021, with respect to an Agreement for London and Middlesex Local Immigration Partnership with Immigration, Refugees and Citizenship Canada BE DEFERRED to the next meeting of the Community and Protective Services Committee. (2021-S15)
 
@@ -730,6 +734,8 @@ Unanimous (5-0)
 
 ### 2.6. Housing Stability Services- Social Services Relief Fund Phase Four Allocations
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report, dated November 23, 2021, related to Housing Stability Services and Social Services Relief Fund Phase Four Allocations: a)    for COVID-19 operati...
 
 **✅ Motion Passed (6 to 0)**
@@ -737,6 +743,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 2.7. Proposed Implementation of the "Roadmap to 3,000 Affordable Units" (Roadmap) Action Plan
+
+<a id="motion-2-7-1" class="motion-anchor"></a>
 
 > Motion to approve the delegation request by M. Wallace, London Development Institute, with respect to this matter.
 
@@ -746,6 +754,8 @@ Unanimous (6-0)
 
 ### 2.7. Proposed Implementation of the "Roadmap to 3,000 Affordable Units" (Roadmap) Action Plan
 
+<a id="motion-2-7-2" class="motion-anchor"></a>
+
 > Motion to receive the verbal delegation from M. Wallace, London Development Institute, with respect to this matter.
 
 **✅ Motion Passed (6 to 0)**
@@ -753,6 +763,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.8. Request for Funding from Vision SoHo Alliance for the Housing Development Project at the Old Victoria Hospital Lands
+
+<a id="motion-2-8-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated November 23, 2021, related to the Request for Funding from Vision SoHo Alliance for the Housing Development Project at the Old Victoria...
 
@@ -762,6 +774,8 @@ Unanimous (6-0)
 
 ### 2.8. Request for Funding from Vision SoHo Alliance for the Housing Development Project at the Old Victoria Hospital Lands
 
+<a id="motion-2-8-1" class="motion-anchor"></a>
+
 > Motion to approve the delegation request from S. Harris, Indwell/Vision SoHo Alliance, with respect to this matter.
 
 **✅ Motion Passed (6 to 0)**
@@ -769,6 +783,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.8. Request for Funding from Vision SoHo Alliance for the Housing Development Project at the Old Victoria Hospital Lands
+
+<a id="motion-2-8-2" class="motion-anchor"></a>
 
 > Motion to receive the verbal delegation from S. Harris, Indwell/Vision SoHo Alliance, with respect to this matter.
 

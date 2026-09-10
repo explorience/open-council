@@ -4605,6 +4605,8 @@ All those in favor? Motion carries. All right, we're adjourned. Thank you.
 
 ### 8.1. 12th Report of Infrastructure and Corporate Services Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 12th Report of the Infrastructure and Corporate Services Committee BE APPROVED with the exception of items 8 (2.1), 9 (2.8), and 10 (4.1).
 
 **✅ Motion Passed (15 to 0)**
@@ -4613,6 +4615,8 @@ Unanimous (15-0)
 
 ### 8.1.8. (2.1) Biosolids Management Master Plan - Notice of Completion
 
+<a id="motion-8-1-8-1" class="motion-anchor"></a>
+
 > That the Biosolids Management Master Plan - Notice of Completion BE REFERRED to a future meeting of the Infrastructure and Corporate Services Committee to allow Civic Administration to host an additional Public Information Center (PIC) for the Biosolids Management Master Plan; it being noted that...
 
 **✅ Motion Passed (15 to 0)**
@@ -4620,6 +4624,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.9. (2.8) Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works (Relates to Bill No. 287)
+
+<a id="motion-8-1-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
 
@@ -4636,6 +4642,8 @@ Unanimous (15-0)
 
 ### 8.1.10. (4.1) London Emergency Services Campus
 
+<a id="motion-8-1-10-1" class="motion-anchor"></a>
+
 > That pursuant to section 9.6 of the Council Procedure By-law, Councillor E. Peloza BE PERMITTED to speak an additional two minutes with respect to this matter.
 
 **✅ Motion Passed (15 to 0)**
@@ -4644,6 +4652,8 @@ Unanimous (15-0)
 
 ### 8.1.10. (4.1) London Emergency Services Campus
 
+<a id="motion-8-1-10-2" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to add a new part that reads as follows: the Civic Administration BE DIRECTED, in consultation with London Police Services, to submit to a future meeting of the Infrastructure and Corporate Services Committee an Executive Summary regarding the Emergency Services Campus.
 
 **✅ Motion Passed (15 to 0)**
@@ -4651,6 +4661,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.1.10. (4.1) London Emergency Services Campus
+
+<a id="motion-8-1-10-3" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED At 2:06 PM, His Worship Mayor J. Morgan, places Deputy Mayor S. Lewis in the Chair. At 2:10 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -4667,6 +4679,8 @@ Unanimous (15-0)
 
 ### 8.2. 11th Report of the Community and Protective Services Committee
 
+<a id="motion-8-2-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Community and Protective Services Committee BE APPROVED with the exception of items 3 (2.3), 7 (2.7), 8 (2.8), 11 (2.11), 12 (2.12), 14 (5.1), and 15 (5.2)
 
 **✅ Motion Passed (15 to 0)**
@@ -4674,6 +4688,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.3. (2.3) Affordable Homeownership Program Relaunch (Relates to Bill No.'s 277 and 281)
+
+<a id="motion-8-2-3-0" class="motion-anchor"></a>
 
 > That the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch BE REFERRED to a future meeting of the Community and Protective Services Committee to allow the Civic Administration to come back with a business case for the Province requesting reallocation of the...
 
@@ -4690,6 +4706,8 @@ Unanimous (15-0)
 
 ### 8.2.3. (2.3) Affordable Homeownership Program Relaunch (Relates to Bill No.'s 277 and 281)
 
+<a id="motion-8-2-3-1" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report dated July 14, 2025 related to the Affordable Homeownership Program Relaunch: a)    the proposed by-law, as appended to the above-noted staff repor...
 
 **✅ Motion Passed (13 to 2)**
@@ -4704,6 +4722,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.7. (2.7) Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London (Relates to Bill No.'s 278 and 279)
+
+<a id="motion-8-2-7-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the staff report dated July 14, 2025 related to the Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes:     a)    the staff report dated July 14, 2025 related to the Federation of Canadian Municipaliti...
 
@@ -4720,6 +4740,8 @@ Unanimous (15-0)
 
 ### 8.2.7. (2.7) Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London (Relates to Bill No.'s 278 and 279)
 
+<a id="motion-8-2-7-1" class="motion-anchor"></a>
+
 > That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated July 14, 2025 related to the Federation of Canadian Municipalities Community Efficiency Financing Agreement for BetterHomes London: a)    th...
 
 **✅ Motion Passed (12 to 3)**
@@ -4734,6 +4756,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.11. (2.11) Municipal Rental Assistance Program Allocation for Indigenous Led Housing Supports
+
+<a id="motion-8-2-11-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Health and Social Development, the following actions be taken with respect to the staff report dated July 14, 2025, related to Municipal Rental Assistance Program Allocation for Indigenous Led Housing Supports: a)    the Civic Administration...
 
@@ -4750,6 +4774,8 @@ Unanimous (15-0)
 
 ### 8.2.12. (2.12) Update to Contribution Agreement with Chelsea Green Community Homes Society
 
+<a id="motion-8-2-12-1" class="motion-anchor"></a>
+
 > That the staff report dated July 14, 2025 related to an Update to the Contribution Agreement with Chelsea Green Community Homes Society BE REFERRED to a future meeting of the Community and Protective Services Committee in order for Civic Administration to continue to work with Chelsea Green Commu...
 
 **✅ Motion Passed (15 to 0)**
@@ -4757,6 +4783,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.14. (5.1) Request to Review the School Crossing Guard Program
+
+<a id="motion-8-2-14-1" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the communication from Councillor S. Franke, dated July 14, 2025, related to a Request to Review the School Crossing Guard Program: a)    the Civic Administration BE DIRECTED to include a budget business case to increase the School Crossing Guar...
 
@@ -4773,6 +4801,8 @@ Unanimous (15-0)
 
 ### 8.2.14. (5.1) Request to Review the School Crossing Guard Program
 
+<a id="motion-8-2-14-2" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the communication from Councillor S. Franke, dated July 14, 2025, related to a Request to Review the School Crossing Guard Program: b)    the Civic Administration BE DIRECTED to review the School Crossing Guard policy and report back at a future...
 
 **✅ Motion Passed (13 to 2)**
@@ -4787,6 +4817,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.14. (5.1) Request to Review the School Crossing Guard Program
+
+<a id="motion-8-2-14-3" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the communication from Councillor S. Franke, dated July 14, 2025, related to a Request to Review the School Crossing Guard Program: c)    the Civic Administration BE DIRECTED to engage on the review of the standards of the School Guard Crossing ...
 
@@ -4803,6 +4835,8 @@ Unanimous (15-0)
 
 ### 8.2.15. (5.2) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
+<a id="motion-8-2-15-1" class="motion-anchor"></a>
+
 > That the motion BE AMENDED to add a new part b) that reads as follows: b)  the Downtown London BIA BE REQUESTED provide a list of expenditures from their portion of the Covid 19 Relief Funding
 
 **✅ Motion Passed (8 to 6) 🔥**
@@ -4817,6 +4851,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.15. (5.2) Funding Request for Hamilton Road BIA and the Old East Village BIA
+
+<a id="motion-8-2-15-2" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED.
 
@@ -4833,6 +4869,8 @@ Unanimous (15-0)
 
 ### 8.2.15. (5.2) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
+<a id="motion-8-2-15-3" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the communication from Councillor H. McAlister, dated July 7, 2025, with respect to a Funding Request for the Hamilton Road BIA and the Old East Village BIA: a)    the Civic Administration BE DIRECTED to allocate one-time funding of $62,500.00 f...
 
 **✅ Motion Passed (12 to 3)**
@@ -4847,6 +4885,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.2.15. (5.2) Funding Request for Hamilton Road BIA and the Old East Village BIA
+
+<a id="motion-8-2-15-4" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the communication from Councillor H. McAlister, dated July 7, 2025, with respect to a Funding Request for the Hamilton Road BIA and the Old East Village BIA: b)    the Civic Administration BE DIRECTED to immediately reimburse the Old East Villag...
 
@@ -4863,6 +4903,8 @@ Unanimous (15-0)
 
 ### 8.2.15. (5.2) Funding Request for Hamilton Road BIA and the Old East Village BIA
 
+<a id="motion-8-2-15-5" class="motion-anchor"></a>
+
 > That, pursuant to section 6.4 of the Council Procedure By-law, a change in order of the Council Agenda BE APPROVED, to provide for the 12th Report of the Planning and Environment Committee to be considered before the 11th Report of the Planning and Environment Committee.
 
 **✅ Motion Passed (14 to 1)**
@@ -4878,6 +4920,8 @@ Unanimous (15-0)
 
 ### 8.3. 11th Report of the Planning and Environment Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 11th Report of the Planning and Environment Committee BE APPROVED with the exception of item 6 (3.3) At 6:45 PM, Councillors P. Cuddy and S. Hillier leave the meeting.
 
 **✅ Motion Passed (12 to 0)**
@@ -4885,6 +4929,8 @@ Unanimous (15-0)
 Unanimous (12-0)
 
 ### 8.3.6. (3.3) Environmental Management Guidelines Update (Relates to Bill No. 282)
+
+<a id="motion-8-3-6-1" class="motion-anchor"></a>
 
 > That part b) of the motion BE AMENDED to read as follows: b)    the revised, attached by-law, (Appendix “A”), BE INTRODUCED at the Municipal Council meeting to be held on July 22, 2025, to adopt the Environmental Management Guidelines and to repeal By-law No. A.-8202-30 being “A by-law to adopt E...
 
@@ -4894,6 +4940,8 @@ Unanimous (12-0)
 
 ### 8.3.6. (3.3) Environmental Management Guidelines Update (Relates to Bill No. 282)
 
+<a id="motion-8-3-6-2" class="motion-anchor"></a>
+
 > That the motion, as amended, BE APPROVED.
 
 **✅ Motion Passed (12 to 0)**
@@ -4902,6 +4950,8 @@ Unanimous (12-0)
 
 ### 8.4. 12th Report of the Planning and Environment Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 12th Report of the Planning and Environment Committee BE APPROVED with the exception of item 11 (3.8).
 
 **✅ Motion Passed (15 to 0)**
@@ -4909,6 +4959,8 @@ Unanimous (12-0)
 Unanimous (15-0)
 
 ### 8.4. 12th Report of the Planning and Environment Committee
+
+<a id="motion-8-4-1" class="motion-anchor"></a>
 
 > That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
 
@@ -4925,6 +4977,8 @@ Unanimous (15-0)
 
 ### 8.4.11. (3.8) 6309 Pack Road (39T-25502/OZ-25023) (Relates to Bill No.'s 286 and 302)
 
+<a id="motion-8-4-11-0" class="motion-anchor"></a>
+
 > That the application of Southside Construction Ltd. relating to the property located at 6309 Pack Road BE REFERRED to a future meeting of the Planning and Environment Committee to allow Civic Administration time to work with the Applicant to review opportunities to reduce the proposed building he...
 
 **❌ Motion Failed (5 to 10)**
@@ -4939,6 +4993,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.4.11. (3.8) 6309 Pack Road (39T-25502/OZ-25023) (Relates to Bill No.'s 286 and 302)
+
+<a id="motion-8-4-11-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Southside Construction Ltd. relating to the property located at 6309 Pack Road: a)    the proposed by-law as appended to the staff report dated July 15, 2025, a...
 
@@ -4957,6 +5013,8 @@ Unanimous (15-0)
 
 ### 8.5. 9th Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 9th Report of the Strategic Priorities and Policy Committee BE APPROVED with the exception of item 4 (2.1), 7( 4.3) and 8 (4.4)
 
 **✅ Motion Passed (12 to 0)**
@@ -4964,6 +5022,8 @@ Unanimous (15-0)
 Unanimous (12-0)
 
 ### 8.5.4. (2.1) 2nd Report of the Governance Working Group
+
+<a id="motion-8-5-4-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the 2nd Report of the Governance Working Group from its meeting held on June 26, 2025:    a)    the following actions be taken with respect to this matter:    i)    the MNP – London Housing Development Project – Lessons Learned Review report, BE...
 
@@ -4982,6 +5042,8 @@ Unanimous (12-0)
 
 ### 8.5.7. (4.3) Mobility Master Plan Notice of Completion
 
+<a id="motion-8-5-7-0" class="motion-anchor"></a>
+
 > That, the followings actions be taken with respect to the Mobility Master Plan Report:    a)    the Mobility Master Plan Report BE APPROVED;    b)    the Civic Administration BE DIRECTED to file a Notice of Completion and make the Report available for the statutory 30-day public review and commen...
 
 **✅ Motion Passed (10 to 2)**
@@ -4999,6 +5061,8 @@ Unanimous (12-0)
 
 ### 8.5.7. (4.3) Mobility Master Plan Notice of Completion
 
+<a id="motion-8-5-7-1" class="motion-anchor"></a>
+
 > That, the followings actions be taken with respect to the Mobility Master Plan Report: c)    the Civic Administration BE DIRECTED to undertake a traffic study to evaluate the need to widen Pack Road to four lanes, if by the time Bradley Ave West is extended from Wonderland Road South to Bostwick ...
 
 **✅ Motion Passed (12 to 0)**
@@ -5006,6 +5070,8 @@ Unanimous (12-0)
 Unanimous (12-0)
 
 ### 8.5.8. (4.4) 2024 Climate Emergency Action Plan Progress Report
+
+<a id="motion-8-5-8-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken:    a)    the presentation and staff report, providing a summary of progress and policy implications and opportunities pertaining to the Climate Emergency Action Plan (CEAP) as w...
 
@@ -5024,6 +5090,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Bill No.’s 277 and 281, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -5040,6 +5108,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > That Second Reading of Bill No.’s 277 and 281, BE APPROVED.
 
@@ -5058,6 +5128,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-2" class="motion-anchor"></a>
+
 > That Third Reading and Enactment of Bill No.’s 277 and 281, BE APPROVED.
 
 **✅ Motion Passed (11 to 1)**
@@ -5074,6 +5146,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-3" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No.’s 278 and 279, BE APPROVED.
 
@@ -5092,6 +5166,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Second Reading of Bill No.’s 278 and 279, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -5108,6 +5184,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-5" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No.’s 278 and 279, BE APPROVED.
 
@@ -5126,6 +5204,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-6" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Bill No.’s 286 and 302, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -5142,6 +5222,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-7" class="motion-anchor"></a>
 
 > That Second Reading of Bill No.’s 286 and 302, BE APPROVED.
 
@@ -5160,6 +5242,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-8" class="motion-anchor"></a>
+
 > That Third Reading and Enactment of Bill No.’s 286 and 302, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -5176,6 +5260,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-9" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No. 287, BE APPROVED.
 
@@ -5194,6 +5280,8 @@ Unanimous (12-0)
 
 ### 13. By-laws
 
+<a id="motion-13-10" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 287, BE APPROVED.
 
 **✅ Motion Passed (10 to 2)**
@@ -5210,6 +5298,8 @@ Unanimous (12-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-11" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No. 287, BE APPROVED.
 

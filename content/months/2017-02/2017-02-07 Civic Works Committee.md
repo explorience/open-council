@@ -500,6 +500,8 @@ The meeting adjourned at 5:22 PM.
 ### 2. 3rd Report of the
   Rapid Transit Implementation Working Group
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -511,6 +513,8 @@ Unanimous (4-0)
   Contract Award: Tender No. T16-57 Tributary "C", Stormwater
   Management Facilities A, F and G (ES3020-RVBTC)
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -520,6 +524,8 @@ Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   By-law of Abandonment of Anguish Municipal Drain
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -531,6 +537,8 @@ Unanimous (4-0)
 ### 5. STAFF REPORT -
   Transportation Energy Optimization Plan (TEOP) Phase 2 Contract Award
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -541,6 +549,8 @@ Unanimous (4-0)
 ### 6. STAFF REPORT -
   Dundas Place Detailed Design and Tendering - Appointment of Consulting
   Engineer
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -559,6 +569,8 @@ Unanimous (4-0)
 ### 7. STAFF REPORT -
   Riverside Drive Closing
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -569,6 +581,8 @@ Unanimous (4-0)
 ### 8. STAFF REPORT - 2016
   Ministry of the Environment and Climate Change Inspection Report for the City
   of London Water Distribution System
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -581,16 +595,7 @@ Unanimous (4-0)
   Drinking Water Annual Report and Summary Report for the City of London
   Distribution System
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. STAFF DELEGATION -
-  Update and Next Steps - Resource Recovery Strategy and Residual Waste
-  Disposal Strategy as Part of the Environmental Assessment Process
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -602,6 +607,21 @@ Unanimous (4-0)
 ### 10. STAFF DELEGATION -
   Update and Next Steps - Resource Recovery Strategy and Residual Waste
   Disposal Strategy as Part of the Environmental Assessment Process
+
+<a id="motion-10-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. STAFF DELEGATION -
+  Update and Next Steps - Resource Recovery Strategy and Residual Waste
+  Disposal Strategy as Part of the Environmental Assessment Process
+
+<a id="motion-10-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -613,6 +633,8 @@ Unanimous (4-0)
 ### 11. 2nd Report of the
   Cycling Advisory Committee
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -623,6 +645,8 @@ Unanimous (4-0)
 ### 12. COUNCILLOR
   SUBMISSION - Wastewater Management
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -632,6 +656,8 @@ Unanimous (4-0)
 
 ### 13. Deferred Matters
   List
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

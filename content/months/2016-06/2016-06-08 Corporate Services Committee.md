@@ -279,6 +279,8 @@ The Corporate Services Committee convened
 ### 2. Corporate Asset
   Management System Acquisition - Assetic Canada Holdings
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -287,6 +289,8 @@ Unanimous (4-0)
 
 ### 4. Appointments to the
   Animal Welfare Advisory Committee
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -297,14 +301,7 @@ Unanimous (3-0)
 ### 4. Appointments to the
   Animal Welfare Advisory Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (4-0)
-
-### 6. Consideration of
-  Appointments to the London Housing Advisory Committee
+<a id="motion-4-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -315,6 +312,8 @@ Unanimous (4-0)
 ### 6. Consideration of
   Appointments to the London Housing Advisory Committee
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -323,6 +322,19 @@ Unanimous (4-0)
 
 ### 6. Consideration of
   Appointments to the London Housing Advisory Committee
+
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 6. Consideration of
+  Appointments to the London Housing Advisory Committee
+
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -340,14 +352,7 @@ Unanimous (4-0)
 ### 6. Consideration of
   Appointments to the London Housing Advisory Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (4-0)
-
-### 11. ADDED - Picaro
-  Enterprises Inc. - Request for Designation as a Municipally Significant Event
+<a id="motion-6-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -358,6 +363,8 @@ Unanimous (4-0)
 ### 11. ADDED - Picaro
   Enterprises Inc. - Request for Designation as a Municipally Significant Event
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -366,6 +373,19 @@ Unanimous (4-0)
 
 ### 11. ADDED - Picaro
   Enterprises Inc. - Request for Designation as a Municipally Significant Event
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (4-0)
+
+### 11. ADDED - Picaro
+  Enterprises Inc. - Request for Designation as a Municipally Significant Event
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

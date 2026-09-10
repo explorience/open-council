@@ -148,6 +148,8 @@ b)           
 ### 2. 4th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > 
 
 **❌ **
@@ -156,6 +158,8 @@ Unanimous (5-0)
 
 ### 7. Request for Delegation Status – Youth
   Create Healthy Communities
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > 
 

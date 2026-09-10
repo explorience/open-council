@@ -577,6 +577,8 @@ The meeting adjourned at 7:12 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -584,6 +586,8 @@ The meeting adjourned at 7:12 PM.
 Unanimous (5-0)
 
 ### 3.1. 4th Report of the Accessibility Advisory Committee
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the delegation of members of the Accessibility Advisory Committee: a)            the Mayor BE REQUESTED to organize an initial meeting with representatives from the Accessibility Advisory Committee (ACCAC) and members of council to discuss the c...
 

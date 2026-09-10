@@ -577,6 +577,8 @@ The meeting adjourned at 11:57 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.4, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -585,6 +587,8 @@ Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, the Civic Administration BE DIRECTED to report back on the following matters with respect to the Medway Valley Heritage Forest Environmentally Significant Area (south) Conservation Master Plan: a)            ways to improve the public consultation process for any Environmentally Significant...
 
 **✅ Motion Passed (6 to 0)**
@@ -592,6 +596,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
+
+<a id="motion-3-2-3" class="motion-anchor"></a>
 
 > Motion to consult with the following agencies: a)            Upper Thames River Conservation Authority; b)            the Ministry of Natural Resources and Forestry; c)            other stakeholder agencies as to the environmental impacts of trail implementation in the ESA; d)            neighbou...
 
@@ -608,6 +614,8 @@ Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
+<a id="motion-3-2-4" class="motion-anchor"></a>
+
 > Motion to go past 11:00 PM.
 
 **✅ Motion Passed (6 to 0)**
@@ -615,6 +623,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
+
+<a id="motion-3-2-5" class="motion-anchor"></a>
 
 > Motion to remove the proposed Bridge D from the Conservation Master Plan.
 
@@ -631,6 +641,8 @@ Unanimous (6-0)
 
 ### 3.2. Public Participation Meeting - Medway Valley Heritage Forest Environmentally Significant Area (South) - Conservation Master Plan
 
+<a id="motion-3-2-6" class="motion-anchor"></a>
+
 > Motion to refer the matter back for staff to undertake further consultation with the Upper Thames River Conservation Authority, the Ministry of Natural Resources and Forestry, about the presence of Species at Risk and about the probability of approvals for permits necessary to construct the bridge.
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -646,6 +658,8 @@ Unanimous (6-0)
 
 ### 4.2. Request for Delegation Status - Dr. C. Mackie, Middlesex London Health Unit - Supervised Consumption Facility Location
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That Dr. C. Mackie BE GRANTED delegation status at a future Planning and Environment Committee meeting; it being noted that the Planning and Environment Committee reviewed and received the following communications with respect to this matter: -                     a communication dated April 12, ...
 
 **✅ Motion Passed (5 to 0)**
@@ -653,6 +667,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 5.1. (ADDED) 5th Report of the London Advisory Committee on Heritage
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage, from its meeting held on April 11, 2018: a)            the Heritage Planners BE REQUESTED to prepare a Statement of Cultural Heritage Value or Interest for the Fugitive Slave Chapel a...
 

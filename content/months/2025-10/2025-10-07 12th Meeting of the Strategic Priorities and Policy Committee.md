@@ -508,6 +508,8 @@ All those in favor? Motion carries. And we are adjourned. Enjoy the rest of your
 
 ### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That the delegation requests from S. Merritt, F. Filice and K. Morrison, Executive Director, Old East Village Business Improvement Area BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (15 to 0)**
@@ -515,6 +517,8 @@ All those in favor? Motion carries. And we are adjourned. Enjoy the rest of your
 Unanimous (15-0)
 
 ### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment in Old East Village
+
+<a id="motion-2-1-2" class="motion-anchor"></a>
 
 > That part d) be approved: d)    the Civic Administration BE DIRECTED to implement a free parking pilot for the 641 Queens Avenue and 434 Elizabeth Street parking lots until the end of Q1 2027.
 

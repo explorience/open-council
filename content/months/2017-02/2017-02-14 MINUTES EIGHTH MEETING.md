@@ -1761,6 +1761,8 @@ Motion Passed
 ### 11#2. Ministers
   Modifications to the London Plan - Secondary Dwelling Units
 
+<a id="motion-11-2-0" class="motion-anchor"></a>
+
 > The motion to Approve part a) of clause 11   is put.
 
 **✅ Motion Passed**
@@ -1769,6 +1771,8 @@ Unanimous (9-0)
 
 ### 11#2. Ministers
   Modifications to the London Plan - Secondary Dwelling Units
+
+<a id="motion-11-2-1" class="motion-anchor"></a>
 
 > The motion to Approve part b) of clause 11   is put.
 
@@ -1786,6 +1790,8 @@ Unanimous (9-0)
 ### 12#3. Canada 150 London -
   Proposed Community Celebration Event and Promotion
 
+<a id="motion-12-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the   Director, Community and Economic Innovation, the following actions be taken   with respect to the proposed community celebration event and promotion:   a)         funding   of $75,000 to the City’s Culture Office BE APPROVED for the development of a   communit...
 
 **✅ Motion Passed**
@@ -1799,6 +1805,8 @@ Unanimous (12-0)
 (Refer Stage 8 By-laws for Consideration of
   Bill No.)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1808,6 +1816,8 @@ Unanimous (13-0)
 ### 3#6. Asset Review of London Hydro Inc. –
   Discussion Paper
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1816,6 +1826,8 @@ Unanimous (12-0)
 
 ### 3#6. Asset Review of London Hydro Inc. –
   Discussion Paper
+
+<a id="motion-3-6-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1833,14 +1845,7 @@ Unanimous (12-0)
 ### 4#4. Consideration of Appointment to the
   Economic Partnership Advisory Panel
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### IV#2. COUNCIL, IN CLOSED SESSION
-  (Continued)
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1850,6 +1855,19 @@ Unanimous (12-0)
 
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (Continued)
+
+<a id="motion-iv-2-0" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### IV#2. COUNCIL, IN CLOSED SESSION
+  (Continued)
+
+<a id="motion-iv-2-1" class="motion-anchor"></a>
 
 > Approve that the meeting proceed beyond 11:00   PM.
 
@@ -1866,6 +1884,8 @@ Unanimous (12-0)
 
 ### IV#3. COUNCIL, IN CLOSED SESSION
   (Continued)
+
+<a id="motion-iv-3-0" class="motion-anchor"></a>
 
 > Approve Council rise and go into   Council, In Closed Session for the purpose of considering the following   matters:
 
@@ -1884,6 +1904,8 @@ Unanimous (12-0)
   AND SIGNING OF THE MINUTES OF THE SIXTH AND SEVENTH meetings HELD JANUARY 31,
   2017 AND FEBRUARY 3, 2017
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Sixth and   Seventh meetings held on January 31, 2017 and February 3, 2017, respectively.
 
 **✅ Motion Passed**
@@ -1893,6 +1915,8 @@ Unanimous (13-0)
 ### VII. MOTIONS OF
   WHICH NOTICE IS GIVEN
 
+<a id="motion-vii-0" class="motion-anchor"></a>
+
 > Approve that pursuant to section 6.4   of the Council Procedure By-law, the order of business be changed to permit   consideration of Bill No. 92 contained in Stage XIII – By-laws, having to do   with the Proposed Vehicle for Hire By-law, at this time.
 
 **✅ Motion Passed**
@@ -1900,6 +1924,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-0" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of   Bill No. 92.
 
@@ -1916,6 +1942,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-2" class="motion-anchor"></a>
+
 > Approve the following amendments to Bill   No. 92 that would result in cameras only being required in those vehicles for   hire that accept street hails, specifically cabs, accessible cabs and   limousines:
 
 **✅ Motion Passed 🔥**
@@ -1930,6 +1958,8 @@ Unanimous (13-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-4" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1946,6 +1976,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-5" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -1961,6 +1993,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-6" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 92
 
 **✅ Motion Passed 🔥**
@@ -1975,6 +2009,8 @@ Unanimous (13-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-7" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of   Bill No. 92, as amended.
 
@@ -1992,6 +2028,8 @@ Unanimous (13-0)
 ### 6. Dundas Place
   Detailed Design and Tendering - Appointment of Consulting Engineer
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the appointment of a Consulting   Engineer for the Dundas Place Project:    a)         Dillon   Consulting Limited, BE APPOINTED Consu...
 
 **✅ Motion Passed**
@@ -2007,6 +2045,8 @@ Unanimous (13-0)
 
 ### 12. Wastewater Management
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Approve that part b) of clause 12 be   amended by adding the following words "and other wastewater   infrastructure" after the words "pollution control plants" and   to add the words "and other waterways" following the words   "the Thames".
 
 **✅ Motion Passed**
@@ -2014,6 +2054,8 @@ Unanimous (13-0)
 Unanimous (11-0)
 
 ### 12. Wastewater Management
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Approve clause 12, as amended.
 
@@ -2024,6 +2066,8 @@ Unanimous (11-0)
 ### 14. Minimum Distance
   Separation (MDS) Zoning Review (Z-8718) (Relates to Bill No. 96)
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Approve that the proposed by-law be   amended by replacing the word “regulations” with the word “guidelines”.
 
 **✅ Motion Passed**
@@ -2033,6 +2077,8 @@ Unanimous (12-0)
 ### 14. Minimum Distance
   Separation (MDS) Zoning Review (Z-8718) (Relates to Bill No. 96)
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
 > Approve clause 14, as amended.
 
 **✅ Motion Passed**
@@ -2041,6 +2087,8 @@ Unanimous (12-0)
 
 ### 18. 1st Report of the
   Agricultural Advisory Committee
+
+<a id="motion-18-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the 1st Report of the Agricultural Advisory Committee from its   meeting held on January 18, 2017:   a)         the   Civic Administration BE ADVISED that the Agricultural Advisory Committee   (AAC) supports the Farm Property Class Tax Ratio f...
 

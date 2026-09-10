@@ -1178,6 +1178,8 @@ The meeting adjourned at 10:23 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.3 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1185,6 +1187,8 @@ The meeting adjourned at 10:23 PM.
 Unanimous (6-0)
 
 ### 3.4. Application - 122 Base Line Road West (OZ-9200)
+
+<a id="motion-3-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, City Planning and City Planner, the following actions be taken with respect to the application by Housing Development Corporation London, relating to the property located at 122 Base Line Road West: a) the proposed by-law appended to the staff report d...
 
@@ -1194,6 +1198,8 @@ Unanimous (6-0)
 
 ### 3.6. Application - 799 Southdale Road West (OZ-9188)
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Speyside East Corporation, relating to the property located at 799 Southdale Road West: a) the proposed by-law appended to the staff report dated September 21, 2020...
 
 **✅ Motion Passed (6 to 0)**
@@ -1201,6 +1207,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.7. Application - Demolition Request for Heritage Designated Property - 120 York Street
+
+<a id="motion-3-7-1" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the request to demolish the building on the heritage designated property at 120 York Street, within the Downtown Heritage Conservation District, BE PERMITTED, and the following actions BE T...
 
@@ -1217,6 +1225,8 @@ Unanimous (6-0)
 
 ### 3.9. Application - Old Victoria Hospital Lands Secondary Plan (O-9223) and 124 Colborne Street and the Block Bounded by Hill Street, Colborne Street, South Street and Waterloo Street (Z-9224)
 
+<a id="motion-3-9-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the applications by The Corporation of the City of London relating to The Old Victoria Hospital Lands Secondary Plan Area and the properties located at 124 Colborne Street and the Blo...
 
 **✅ Motion Passed (6 to 0)**
@@ -1225,6 +1235,8 @@ Unanimous (6-0)
 
 ### 4.1. 6th Report of the London Advisory Committee on Heritage
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 6th Report of the London Advisory Committee on Heritage from its meeting held on September 10, 2020: a)  on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the application under Section 42 o...
 
 **✅ Motion Passed (6 to 0)**
@@ -1232,6 +1244,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. 6th Report of the London Advisory Committee on Heritage
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > Motion to approve part a), which reads as follows: a)  on the recommendation of the Director, Development Services, with the advice of the Heritage Planner, the application under Section 42 of the Ontario Heritage Act to construct two high-rise buildings on the property located at 556 Wellington ...
 

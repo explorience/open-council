@@ -302,6 +302,8 @@ Motion
 ### 2. Growth Management
   Implementation Strategy (GMIS) - 2014 Annual Review and Update
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -311,6 +313,8 @@ Unanimous (11-0)
 
 ### 3. Development Charges
   Review 2014 - Draft Rate Calculations
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -329,6 +333,8 @@ Unanimous (11-0)
 ### 3. Development Charges
   Review 2014 - Draft Rate Calculations
 
+<a id="motion-3-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -338,6 +344,8 @@ Unanimous (12-0)
 
 ### 3. Development Charges
   Review 2014 - Draft Rate Calculations
+
+<a id="motion-3-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -355,6 +363,8 @@ Unanimous (12-0)
 
 ### 4. London Convention
   Centre Corporation Board Appointment
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

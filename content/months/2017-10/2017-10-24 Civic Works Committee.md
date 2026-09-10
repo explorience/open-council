@@ -1219,6 +1219,8 @@ The
 ### 2. Veterans Memorial
   Parkway Community Program for Landscape Enhancements Final Report
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1228,6 +1230,8 @@ Unanimous (6-0)
 
 ### 3. Highway 401
   Overpass at Pond Mills Road -  Structure Expansion Agreement
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1240,6 +1244,8 @@ Unanimous (6-0)
   Improvements -  Detailed Design and Tendering -  Appointment of Consulting
   Engineer
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1249,6 +1255,8 @@ Unanimous (6-0)
 
 ### 5. Public Transit
   Infrastructure Fund -  Project Modifications
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1260,6 +1268,8 @@ Unanimous (6-0)
 ### 6. Amendments to the
   Traffic and Parking By-law
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1269,6 +1279,8 @@ Unanimous (6-0)
 
 ### 7. Clean Water and
   Wastewater Fund - 2017 Grosvenor Street Infrastructure Renewal Project Update
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1280,6 +1292,8 @@ Unanimous (4-0)
 ### 8. Clean Water and
   Wastewater Fund - Large Diameter Watermain Inspection - Elgin Pipeline
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1290,6 +1304,8 @@ Unanimous (6-0)
 ### 9. Intelligent
   Transportation System - Appointment of Consulting Engineer
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1299,6 +1315,8 @@ Unanimous (6-0)
 
 ### 10. Bulk Water Station
   Access Terminal Upgrades
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1311,6 +1329,8 @@ Unanimous (6-0)
   Implementation of Cityworks CMMS Solution For Water, Sewer and Stormwater
   Infrastructure
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1321,6 +1341,8 @@ Unanimous (6-0)
 ### 12. Updates – Proposed Blue
   Box Program Plan Amendment and Waste Free Ontario Act
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1330,6 +1352,8 @@ Unanimous (6-0)
 
 ### 13. Guiding Principles
   – Resource Recovery and Residual Waste Disposal Strategies
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1342,6 +1366,8 @@ Unanimous (6-0)
   Disposal Strategy Scope of Work as Part of the Environmental Assessment
   Process
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1352,6 +1378,8 @@ Unanimous (6-0)
 ### 15. Municipal
   Greenhouse Gas (GHG) Challenge Fund Applications
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1361,6 +1389,8 @@ Unanimous (3-0)
 
 ### 15. Municipal
   Greenhouse Gas (GHG) Challenge Fund Applications
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1374,6 +1404,8 @@ Unanimous (5-0)
   Landfill Gas Power Plant & Request for Authorization to Execute Feed in
   Tariff (FIT) Contract
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1385,6 +1417,8 @@ Unanimous (6-0)
   Consulting Engineer - Mornington Area Storm Drainage Servicing Environmental
   Assessment
 
+<a id="motion-17-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1395,6 +1429,8 @@ Unanimous (6-0)
 ### 18. Vauxhall Wastewater
   Treatment Plant Flood Protection Construction Tender Award
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1404,6 +1440,8 @@ Unanimous (5-0)
 
 ### 19. Basement Flooding
   Grant Program By-Law Amendment
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1416,6 +1454,8 @@ Unanimous (5-0)
   Birchwood Drive & Meadowvale Drive - Sanitary Sewer and Private Drain
   Connection Failures
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1426,6 +1466,8 @@ Unanimous (3-0)
 ### 22. National Zero Waste
   Council
 
+<a id="motion-22-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1435,6 +1477,8 @@ Unanimous (4-0)
 
 ### 23. Motion to Lift
   Watering Restrictions
+
+<a id="motion-23-0" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -1453,6 +1497,8 @@ Unanimous (4-0)
 ### 24. 8th Report of the
   Transportation Advisory Committee
 
+<a id="motion-24-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1462,6 +1508,8 @@ Unanimous (5-0)
 
 ### 25. 3rd Report of the
   Waste Management Working Group
+
+<a id="motion-25-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1473,6 +1521,8 @@ Unanimous (5-0)
 ### 26. 9th Report of the
   Cycling Advisory Committee
 
+<a id="motion-26-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1483,6 +1533,8 @@ Unanimous (5-0)
 ### 27. Deferred Matters
   List
 
+<a id="motion-27-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1492,6 +1544,8 @@ Unanimous (5-0)
 
 ### 28. (ADDED) Springbank
   Dam: Status of Funding  and Legal Settlement Money
+
+<a id="motion-28-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

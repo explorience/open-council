@@ -585,6 +585,8 @@ The
 ### 2. Irregular Result for
   Tree Pruning/Removal Services (Tender No. 14-10)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -594,6 +596,8 @@ Unanimous (5-0)
 
 ### 3. Granular Materials
   - Area "A" and Area "B" (Tender No. 13-113)
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -606,6 +610,8 @@ Unanimous (5-0)
   2014 Growth Management Implementation Strategy (GMIS) Hyde Park Road Widening
   Phase 1 North of Oxford Street to North of CPR (Tender N0. T14-12)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -616,6 +622,8 @@ Unanimous (5-0)
 ### 5. Contract Award:
   2014 Infrastructure Lifecycle Renewal Program Contract 7: Fairview Avenue and
   Weston Street Reconstruction (Tender No. 14-04)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -628,6 +636,8 @@ Unanimous (5-0)
   2014 Infrastructure Lifecycle Renewal Program Contract 8: Trafalgar Street
   Reconstruction (Tender No. 14-01)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -637,6 +647,8 @@ Unanimous (5-0)
 
 ### 7. Permanent Sewer
   Flow Monitoring Equipment Selection and Purchase (ES4422)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -649,6 +661,8 @@ Unanimous (5-0)
   Stormwater Management Facility Transitional Project - Engineering Consulting
   Fees
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -658,6 +672,8 @@ Unanimous (5-0)
 
 ### 9. 2014 Annual
   Warranted Sidewalk Program (TS1165-14)
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -669,6 +685,8 @@ Unanimous (5-0)
 ### 10. 2014 Major
   Infrastructure Construction Program
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -679,15 +697,7 @@ Unanimous (5-0)
 ### 11. Appointment of
   Consulting Engineer - Gordon Sanitary Trunk Sewer Rehabilitation Project No. ES2473
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. 3rd Report of the
-  Transportation Advisory Committee
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -699,6 +709,8 @@ Unanimous (5-0)
 ### 12. 3rd Report of the
   Transportation Advisory Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -708,6 +720,20 @@ Unanimous (5-0)
 
 ### 12. 3rd Report of the
   Transportation Advisory Committee
+
+<a id="motion-12-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. 3rd Report of the
+  Transportation Advisory Committee
+
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

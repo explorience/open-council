@@ -708,6 +708,8 @@ Vierbalm mentioned Legacy Village is going to be home to almost 15,000 Londoners
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -715,6 +717,8 @@ Vierbalm mentioned Legacy Village is going to be home to almost 15,000 Londoners
 Unanimous (5-0)
 
 ### 3.1. 9th Report of the Community Advisory Committee on Planning
+
+<a id="motion-3-1-0" class="motion-anchor"></a>
 
 > That the 9th Report of the Community Advisory Committee on Planning, from its meeting held on September 11, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN relating to the request to consider designating the City Hall building located at 300 Dufferin Avenue; it being noted that the Planning and E...
 
@@ -731,6 +735,8 @@ Unanimous (5-0)
 
 ### 3.1. 9th Report of the Community Advisory Committee on Planning
 
+<a id="motion-3-1-1" class="motion-anchor"></a>
+
 > That S. Miller, BE GRANTED delegation status with respect to these matters.
 
 **✅ Motion Passed (5 to 0)**
@@ -739,6 +745,8 @@ Unanimous (5-0)
 
 ### 3.4. 850 Highbury Avenue - London Psychiatric Hospital Lands (Z-9577/O-9766)
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Old Oak Properties Inc., relating to the property located at 850 Highbury Avenue: a)    the proposed by-law appended to the staff report dated October 2, 2024 a...
 
 **✅ Motion Passed (5 to 0)**
@@ -746,6 +754,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 7. Adjournment
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > The meeting adjourned at 3:15 PM.
 

@@ -152,6 +152,8 @@ Motion Passed
 ### 2. City of London and
   Thames Valley District School Board Liaison Committee
 
+<a id="motion-2-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -166,6 +168,8 @@ Motion Passed
 ### 2. City of London and
   Thames Valley District School Board Liaison Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -174,6 +178,8 @@ Unanimous (11-0)
 
 ### 4. London Transit
   Commission
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -191,6 +197,8 @@ Unanimous (11-0)
 
 ### 4. London Transit
   Commission
+
+<a id="motion-4-1" class="motion-anchor"></a>
 
 > Motion Passed
 

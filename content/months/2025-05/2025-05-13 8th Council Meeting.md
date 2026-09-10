@@ -3624,6 +3624,8 @@ Thank you. We're adjourned.
 
 ### 8.1. 8th Report of the Community and Protective Services Committee
 
+<a id="motion-8-1-0" class="motion-anchor"></a>
+
 > That the 8th Report of the Community and Protective Services Committee BE APPROVED, with the exception of items 2 (2.1), 4 (2.4), 5 (2.2), and 6 (2.5).
 
 **✅ Motion Passed (15 to 0)**
@@ -3632,6 +3634,8 @@ Unanimous (15-0)
 
 ### 8.1.2. (2.1) Child Care and Early Years Master Funding Agreement (Relates to Bill No. 156)
 
+<a id="motion-8-1-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Social and Health Development, the proposed by-law, as appended to the staff report dated April 28, 2025, BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025, to: a)    authorize and approve the standard form Child Care...
 
 **✅ Motion Passed (14 to 0)**
@@ -3639,6 +3643,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 8.1.4. (2.4) Program Changes to the Ontario Renovates Program (Relates to Bill No. 157)
+
+<a id="motion-8-1-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated April 28, 2025, related to Program Changes to the Ontario Renovates Program: a)    the Civic Administration BE AUTHORIZED to increase the ma...
 
@@ -3655,6 +3661,8 @@ Unanimous (14-0)
 
 ### 8.1.5. (2.2) Whole of Community System Response Q1 2025 Quarterly Report
 
+<a id="motion-8-1-5-1" class="motion-anchor"></a>
+
 > That part b) of the motion be amended to read as follows: b)     the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee in Q2 of 2025 with an overview of the content and roll out plan of a new online dashboard which would include detailed reports on...
 
 **✅ Motion Passed (14 to 1)**
@@ -3670,6 +3678,8 @@ Unanimous (14-0)
 
 ### 8.1.5. (2.2) Whole of Community System Response Q1 2025 Quarterly Report
 
+<a id="motion-8-1-5-2" class="motion-anchor"></a>
+
 > That part b) of the motion be further amended to read as follows: b)     the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee in Q2 of 2025 with an overview of the content and roll out plan of a new online dashboard which would include detailed re...
 
 **✅ Motion Passed (15 to 0)**
@@ -3677,6 +3687,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 8.1.5. (2.2) Whole of Community System Response Q1 2025 Quarterly Report
+
+<a id="motion-8-1-5-3" class="motion-anchor"></a>
 
 > That part a) of item 5, clause 2.2, as amended, BE APPROVED: That the following actions be taken with respect to the staff report, dated April 28, 2025, related to the Whole of Community System Response Q1 of 2025 Quarterly Report: a)    the Civic Administration BE DIRECTED to discontinue the Who...
 
@@ -3693,6 +3705,8 @@ Unanimous (15-0)
 
 ### 8.1.6. (2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
 
+<a id="motion-8-1-6-1" class="motion-anchor"></a>
+
 > That part a) ii) be amended to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects;
 
 **✅ Motion Passed (12 to 3)**
@@ -3707,6 +3721,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.6. (2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
+
+<a id="motion-8-1-6-3" class="motion-anchor"></a>
 
 > That the motion be further amended in part a) ii) to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of any changes to tenanc...
 
@@ -3723,6 +3739,8 @@ Unanimous (15-0)
 
 ### 8.1.6. (2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
 
+<a id="motion-8-1-6-4" class="motion-anchor"></a>
+
 > That the motion be further amended in part a) ii) to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of supportive or highly ...
 
 **✅ Motion Passed (14 to 1)**
@@ -3737,6 +3755,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.1.6. (2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
+
+<a id="motion-8-1-6-5" class="motion-anchor"></a>
 
 > That part a) ii) to read as follows: ii)    authorize the Deputy City Manager, Housing and Community Growth, or their written designate, to approve amendments to the Contribution Agreement for Affordable Housing Projects with the exception of highly supportive housing;
 
@@ -3753,6 +3773,8 @@ Unanimous (15-0)
 
 ### 8.1.6. (2.5) Approval of the Template Contribution Agreement for Affordable Housing Projects (Relates to Bill No. 158)
 
+<a id="motion-8-1-6-6" class="motion-anchor"></a>
+
 > That item 6, clause 2.5, as amended BE REFERRED to the next meeting of Community and Protective Services Committee with the amended by-law.
 
 **✅ Motion Passed (15 to 0)**
@@ -3760,6 +3782,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2. 7th Report of the Planning and Environment Committee
+
+<a id="motion-8-2-0" class="motion-anchor"></a>
 
 > That the 7th Report of the Planning and Environment Committee BE APPROVED, with the exception of items 4 (2.3) and 12 (3.5).
 
@@ -3769,6 +3793,8 @@ Unanimous (15-0)
 
 ### 8.2.4. (2.3) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
+<a id="motion-8-2-4-1" class="motion-anchor"></a>
+
 > that part b) BE AMENDED to read as follows: b)         the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee with respect to the existing traffic calming policy standards through the design specification guidelines through Plans of Subdi...
 
 **✅ Motion Passed (15 to 0)**
@@ -3777,6 +3803,8 @@ Unanimous (15-0)
 
 ### 8.2.4. (2.3) Communication - D. R. Schmidt - Referred to PEC (SPPC/4/4.1)
 
+<a id="motion-8-2-4-2" class="motion-anchor"></a>
+
 > That item 4, clause 2.3, as amended BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3784,6 +3812,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.2.12. (3.5) 3849 Campbell Street North (Z-9614) (Relates to Bill No. 179)
+
+<a id="motion-8-2-12-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Colonel Talbot Developments relating to the property located at 3849 Campbell Street North: a)    the proposed by-law as appended to the staff report dated Apri...
 
@@ -3800,6 +3830,8 @@ Unanimous (15-0)
 
 ### 8.3. 6th Report of the Strategic Priorities and Policy Committee
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > That the 6th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of item 8 (5.2).
 
 **✅ Motion Passed (15 to 0)**
@@ -3807,6 +3839,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.3.8. (5.2) Municipal Diversity Plan for Appointments to the London Police Service Board (Relates to Bill No. 163)
+
+<a id="motion-8-3-8-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Legal Services, the following actions be taken: a)    the report entitled “Municipal Diversity Plan for Appointments to the London Police Services Board” BE RECEIVED for information; and b)    the proposed by-law, as appended to the staff re...
 
@@ -3823,6 +3857,8 @@ Unanimous (15-0)
 
 ### 8.4. 8th Report of the Infrastructure and Corporate Services Committee
 
+<a id="motion-8-4-0" class="motion-anchor"></a>
+
 > That the 8th Report of the Infrastructure and Corporate Services Committee BE APPROVED, with the exception of items 7 (2.2) and 8 (2.4).
 
 **✅ Motion Passed (15 to 0)**
@@ -3830,6 +3866,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 8.4.7. (2.2) Commemorative Naming of Streets and City Assets - Status Update
+
+<a id="motion-8-4-7-1" class="motion-anchor"></a>
 
 > That the motion be amended to include a new part e) to read as follows: e) the Civic Administration BE DIRECTED to rename Plantation Road to Larch Road, noting that the proposed name is included on the City’s pre-approved list of street names, aligns with the existing policy framework, and has be...
 
@@ -3846,6 +3884,8 @@ Unanimous (15-0)
 
 ### 8.4.7. (2.2) Commemorative Naming of Streets and City Assets - Status Update
 
+<a id="motion-8-4-7-2" class="motion-anchor"></a>
+
 > Motion to amend with a new part e) to read as follows: e) Civic Administration BE DIRECTED to commence public engagement with the impacted neighbourhood to consider the renaming of Plantation Road.
 
 **❌ Motion Failed (6 to 9) 🔥**
@@ -3860,6 +3900,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.4.7. (2.2) Commemorative Naming of Streets and City Assets - Status Update
+
+<a id="motion-8-4-7-3" class="motion-anchor"></a>
 
 > Motion to approve part b): b)    the Civic Administration BE DIRECTED to apply the Ontario Human Rights Commission’s “Ontario Human Rights Based Approach Framework” (as appended to the staff report dated April 30, 2025 as Appendix ‘B’) for commemorative naming requests for new Streets and City As...
 
@@ -3876,6 +3918,8 @@ Unanimous (15-0)
 
 ### 8.4.7. (2.2) Commemorative Naming of Streets and City Assets - Status Update
 
+<a id="motion-8-4-7-4" class="motion-anchor"></a>
+
 > Motion to approve part d): d)    the Civic Administration BE DIRECTED to rename Trooper Wilson Place to Peacekeeper Place.
 
 **✅ Motion Passed (13 to 2)**
@@ -3890,6 +3934,8 @@ Unanimous (15-0)
 </details>
 
 ### 8.4.8. (2.4) 2024 Year-End Operating Budget Monitoring Report
+
+<a id="motion-8-4-8-1" class="motion-anchor"></a>
 
 > Motion to approve part a) iv) 3: iv)   Notwithstanding the Surplus/Deficit Policy, Civic Administration BE DIRECTED to allocate the Property Tax Supported Budget surplus as follows: 3.    Remaining $16.9 million to be retained in the Operating Budget Contingency Reserve, to be applied evenly as t...
 
@@ -3906,6 +3952,8 @@ Unanimous (15-0)
 
 ### 8.5. 9th Report of the Infrastructure and Corporate Services Committee
 
+<a id="motion-8-5-0" class="motion-anchor"></a>
+
 > That the 9th Report of the Infrastructure and Corporate Services Committee BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -3913,6 +3961,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 13. By-laws
+
+<a id="motion-13-3" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No. 157 BE APPROVED.
 
@@ -3929,6 +3979,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<a id="motion-13-4" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 157 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -3943,6 +3995,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-5" class="motion-anchor"></a>
 
 > That Third Reading and Enactment of Bill No. 157 BE APPROVED.
 
@@ -3959,6 +4013,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<a id="motion-13-6" class="motion-anchor"></a>
+
 > That Introduction and First Reading of Bill No. 163 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -3973,6 +4029,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-7" class="motion-anchor"></a>
 
 > That Second Reading of Bill No. 163 BE APPROVED.
 
@@ -3989,6 +4047,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<a id="motion-13-8" class="motion-anchor"></a>
+
 > That Third Reading and Enactment of Bill No. 163 BE APPROVED.
 
 **✅ Motion Passed (14 to 1)**
@@ -4003,6 +4063,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-9" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No. 179 BE APPROVED.
 
@@ -4019,6 +4081,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<a id="motion-13-10" class="motion-anchor"></a>
+
 > That Second Reading of Bill No. 179 BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -4034,6 +4098,8 @@ Unanimous (15-0)
 
 ### 13. By-laws
 
+<a id="motion-13-11" class="motion-anchor"></a>
+
 > That Third Reading and Enactment of Bill No. 179 BE APPROVED.
 
 **✅ Motion Passed (13 to 2)**
@@ -4048,6 +4114,8 @@ Unanimous (15-0)
 </details>
 
 ### 13. By-laws
+
+<a id="motion-13-12" class="motion-anchor"></a>
 
 > That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED.
 

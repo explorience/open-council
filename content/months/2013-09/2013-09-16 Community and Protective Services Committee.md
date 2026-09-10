@@ -96,6 +96,8 @@ Motion
 ### 2. Taxicab and
   Limousine Licensing By-law Related Issues
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -111,6 +113,8 @@ Motion
 
 ### 2. Taxicab and
   Limousine Licensing By-law Related Issues
+
+<a id="motion-2-1" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -128,6 +132,8 @@ Motion
 
 ### 2. Taxicab and
   Limousine Licensing By-law Related Issues
+
+<a id="motion-2-2" class="motion-anchor"></a>
 
 > Motion   to approve recommendation   Motion   Passed
 

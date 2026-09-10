@@ -420,6 +420,8 @@ The meeting adjourned at 2:37 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Corporate Services Committee Agenda BE APPROVED, to provide for Items 6.1 and 6.2 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -436,6 +438,8 @@ The meeting adjourned at 2:37 PM.
 </details>
 
 ### 2.5. Expropriation of Lands - East London Link Project Phase 3
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
 
@@ -454,6 +458,8 @@ The meeting adjourned at 2:37 PM.
 
 ### 4.1. Budweiser Gardens Expansion and Renovation Proposal
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the delegation requests from P. Luukko, Co-Chairman OVG360, B. Ohl, General Manager, Budweiser Gardens and C. Finn, Tourism London, BE APPROVED to be heard at this time. ADDITIONAL VOTES:
 
 **✅ Motion Passed (5 to 0)**
@@ -461,6 +467,8 @@ The meeting adjourned at 2:37 PM.
 Unanimous (5-0)
 
 ### 4.1. Budweiser Gardens Expansion and Renovation Proposal
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > That the following actions be taken with respect to the Budweiser Gardens Expansion and Renovation Proposal: a)   the Budweiser Gardens Expansion Proposal BE RECEIVED for information; b)   that Civic Administration BE DIRECTED to bring forward a confirmed source of financing and further financial...
 
@@ -479,6 +487,8 @@ Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - Azerbajian Democratic Republican
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That based on the application dated April 28, 2023 from Network of Azerbaijani Canadians, June 7, 2023 BE PROCLAIMED Azerbaijan Democratic Republic.
 
 **✅ Motion Passed (4 to 0)**
@@ -487,6 +497,8 @@ Unanimous (4-0)
 
 ### 4.3. Application - Issuance of Proclamation - Action Anxiety Day
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That based on the application dated April 7, 2023 from Anxiety Canada, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
 
 **✅ Motion Passed (4 to 0)**
@@ -494,6 +506,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.4. Application - Issuance of Proclamation - World Sickle Cell Day 2023
+
+<a id="motion-4-4-0" class="motion-anchor"></a>
 
 > That based on the application dated May 10, 2023 from Sickle Cell Awareness Group of Ontario, BE REFERRED back to the Civic Administration for further information regarding the organization's connection to London.
 

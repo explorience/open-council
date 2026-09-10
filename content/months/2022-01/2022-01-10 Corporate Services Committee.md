@@ -700,6 +700,8 @@ chair you use it that it's it's like a hard hat and safety boots but uh when we 
 
 ### 2.8. Election Sign By-law Update
 
+<a id="motion-2-8-0" class="motion-anchor"></a>
+
 > That the draft by-law BE REFERRED back to the Civic Administration in order to consider the following changes to the draft by-law: a)    maintaining the setback distance at the current at 3metres (section 4.5 b); b)    maintaining the current removal period at 96hrs (section 3.4); c)    incorpora...
 
 **✅ Motion Passed (6 to 0)**
@@ -707,6 +709,8 @@ chair you use it that it's it's like a hard hat and safety boots but uh when we 
 Unanimous (6-0)
 
 ### 4.2. Application – Issuance of Proclamation - Black History Month
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That based on the application dated December 20, 2021 from Community Diversity and Inclusion Strategy (CDIS) Implementation Body, the month of February 2022 BE PROCLAIMED as Black History Month.
 
@@ -716,6 +720,8 @@ Unanimous (6-0)
 
 ### 4.3. Amendments to Members of Council Proof of COVID-19 Vaccination Policy
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the Members of Council Proof of COVID-19 Vaccination Policy: a)  on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated January 10, 2022 to amend the “Members of Council Proof of COVID-19 Vaccination ...
 
 **✅ Motion Passed (6 to 0)**
@@ -723,6 +729,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. (ADDED) Application - Issuance of Proclamation - National Day of Remembrance of the Quebec City Mosque Attack and Action Against Islamophobia
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That based on the application from Community Diversity and Inclusion Strategy (CDIS) Implementation Body, January 29, 2022 BE PROCLAIMED as National Day of Remembrance of the Quebec City Mosque Attack and Action Against Islamophobia.
 

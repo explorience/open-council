@@ -5507,6 +5507,8 @@ Pursuant to Part 13 of the Council
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-0" class="motion-anchor"></a>
+
 > Approve that,   on the recommendation of the City Clerk, the Mayor BE AUTHORIZED to write a   letter of support to the London Urban Services Organization (LUSO), for their   1,000 Acts of Kindness Challenge event, to encourage community members to   take part in the challenge and help spread kind...
 
 **✅ Motion Passed**
@@ -5515,6 +5517,8 @@ Unanimous (14-0)
 
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
+
+<a id="motion-1-4-2" class="motion-anchor"></a>
 
 > Approve that,   on   the recommendation of the Executive Director of Community Services, the   following   actions   be taken with respect to the introduction of Ontario211 Service to the City   of London:   (a)            the   introduction of a 211 Service in the City of London, BE ENDORSED;   ...
 
@@ -5525,6 +5529,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-3" class="motion-anchor"></a>
+
 > Approve that,   on   the recommendation of the Director of Environmental Programs and Solid Waste,   the attached proposed By-law (Appendix A) BE INTRODUCED at the   Municipal Council meeting to be held on August 29, 2011, to approve a new   agreement with Stewardship Ontario for funding of the C...
 
 **✅ Motion Passed**
@@ -5533,6 +5539,8 @@ Unanimous (14-0)
 
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
+
+<a id="motion-1-4-4" class="motion-anchor"></a>
 
 > Approve that, on   the recommendation of the Director of Neighbourhood and Children’s Services,   with the concurrence of the Executive Director of Community Services, the   following actions be taken with respect to the Child and Youth Network’s   Policy Position Brief: “A Housing Benefit for Fa...
 
@@ -5543,6 +5551,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-5" class="motion-anchor"></a>
+
 > Approve that, on   the recommendation of the Director of Municipal Housing, with the concurrence   of the Executive Director of Community Services, the following actions be   taken with respect to the Convert-to-Rent/Rehabilitation project at 262   Clarence Street in London, which was approved by...
 
 **✅ Motion Passed**
@@ -5551,6 +5561,8 @@ Unanimous (14-0)
 
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
+
+<a id="motion-1-4-6" class="motion-anchor"></a>
 
 > Approve that the   following actions be taken with respect to the request dated August 4, 2011, from   the London Abused Women’s Centre, Men Against Sexual Trafficking (MAST) and   Stop Porn Culture, with respect to the leasing or renting of city-funded   space and the current internet service po...
 
@@ -5561,6 +5573,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-7" class="motion-anchor"></a>
+
 > Approve that the proposed by-law to   continue the London Regional Art and Historical Museums as Museum London, BE   REFERRED back to Museum London to:   (a)            undertake   additional consultation with the public and affected stakeholders; and,    (b)            consider   the following d...
 
 **✅ Motion Passed**
@@ -5570,6 +5584,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-8" class="motion-anchor"></a>
+
 > Approve that the   following actions be taken with respect to the Education Sub-committee report   of the London Diversity and Race Relations Advisory Committee (LDRACC)   related to the proposed “Breakfast with the LDRRAC”:   (a)            on the recommendation   of the LDRRAC:   (i)           ...
 
 **✅ Motion Passed**
@@ -5578,6 +5594,8 @@ Unanimous (14-0)
 
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
+
+<a id="motion-1-4-10" class="motion-anchor"></a>
 
 > Approve   that, on the recommendation of the Director, Environmental Programs and Solid   Waste, the draft amending By-law, attached as Appendix A, BE   INTRODUCED at the Municipal Council meeting to be held on August 29, 2011, to   amend By-law WM-12, the Municipal Waste & Resource Materials Col...
 
@@ -5589,6 +5607,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-12" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of the Director, Environmental Programs   and Solid Waste, the following actions be taken with respect to rocks within   the public boulevard at 965 Westdel Bourne:               (a)  (a)        the Municipal Council BE ADVISED that the   property owner at 965 ...
 
 **✅ Motion Passed**
@@ -5598,6 +5618,8 @@ Unanimous (14-0)
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
 
+<a id="motion-1-4-13" class="motion-anchor"></a>
+
 > Approve that, on   the recommendation of the Director, Environmental Programs and Solid Waste,   the following actions be taken with respect to municipal partner agreements   for Blue Box processing services:    (a)        the attached   proposed By-Law (Appendix A) BE INTRODUCED at the Municipal...
 
 **✅ Motion Passed**
@@ -5606,6 +5628,8 @@ Unanimous (14-0)
 
 ### 1#4. The 1,000 Acts of
   Kindness Challenge London Urban Services Organization
+
+<a id="motion-1-4-14" class="motion-anchor"></a>
 
 > The Motion for Reconsideration is put and   Fails, the Members voting as follows:
 
@@ -5622,6 +5646,8 @@ Unanimous (14-0)
 
 ### 1#5. External Consulting
   Supports
+
+<a id="motion-1-5-0" class="motion-anchor"></a>
 
 > Approve   that, on the recommendation of the Executive Director - Planning,   Environmental and Engineering Services, the engagement of John Fitzgerald up   to a maximum of $8,500 BE ENDORSED with respect to providing external   consulting support in relation to the matters outlined in this repor...
 
@@ -5640,6 +5666,8 @@ Unanimous (14-0)
   Prime Consultant for the New No. 7 Fire Station – Request for Proposal No.
   11-002 – Project #PP1089
 
+<a id="motion-1-6-0" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of the   Managing Director – Corporate Assets and the Fire Chief, the following   actions be taken with respect to the appointment of an architect for the new   No. 7 Fire Station (Project PP1089):   (a)       the   proposal submitted by Cornerstone Architectur...
 
 **✅ Motion Passed**
@@ -5649,6 +5677,8 @@ Unanimous (14-0)
 ### 1#6. Architect to Act as
   Prime Consultant for the New No. 7 Fire Station – Request for Proposal No.
   11-002 – Project #PP1089
+
+<a id="motion-1-6-1" class="motion-anchor"></a>
 
 > Approve   that the Civic Administration BE DIRECTED to:   (a)       draft   an amendment to the servicing agreement between The Corporation of the City   of London and the Municipality of Middlesex Centre which includes:   (i)         additional   sewer servicing capacity; (ii)        the use   o...
 
@@ -5666,6 +5696,8 @@ Unanimous (14-0)
 ### 1#7. 2012 Budget
   Timetable
 
+<a id="motion-1-7-2" class="motion-anchor"></a>
+
 > Motion   to amend is Passed
 
 **❌ **
@@ -5682,6 +5714,8 @@ Unanimous (14-0)
 ### 1#7. 2012 Budget
   Timetable
 
+<a id="motion-1-7-3" class="motion-anchor"></a>
+
 > Motion,   as amended, Passed
 
 **❌ **
@@ -5696,6 +5730,8 @@ Unanimous (14-0)
 </details>
 
 ### 1#8. Vision Statement
+
+<a id="motion-1-8-0" class="motion-anchor"></a>
 
 > Approve   that the   Chief Administrative Officer BE REQUESTED to report back with refinements to   the City of London’s current Vision Statement that would include:   a)              revised   wording that speaks to where the City of London wants to be, rather than how   the City of London sees ...
 
@@ -5713,6 +5749,8 @@ Unanimous (14-0)
 ### 1#9. 2012 – 2016
   Business Plan Summaries
 
+<a id="motion-1-9-1" class="motion-anchor"></a>
+
 > Approve that the City Solicitor, in consultation with the City Treasurer,   Chief Financial Officer, BE REQUESTED to provide a report related to   legislative restrictions with respect to the provision of information in   support of the requests of the London Police Services Business Cases and   ...
 
 **✅ Motion Passed**
@@ -5722,6 +5760,8 @@ Unanimous (14-0)
 ### 19#3. Special Provisions
   – Westbury International (1991) Corporation – Westbury Subdivision –
   39T-05509
+
+<a id="motion-19-3-1" class="motion-anchor"></a>
 
 > Estimated Revenues This Agreement
 
@@ -5733,6 +5773,8 @@ Unanimous (14-0)
   – Westbury International (1991) Corporation – Westbury Subdivision –
   39T-05509
 
+<a id="motion-19-3-2" class="motion-anchor"></a>
+
 > Approve   that, that the Civic Administration BE DIRECTED to report back at the   September 12, 2011 Built and Natural Environment Committee (BNEC) meeting   with respect to the potential actions that can be taken to stop in-fill   intensification in the Irwin Street, Gunn Street, Saunby Street a...
 
 **✅ Motion Passed**
@@ -5743,6 +5785,8 @@ Unanimous (12-0)
   – Westbury International (1991) Corporation – Westbury Subdivision –
   39T-05509
 
+<a id="motion-19-3-4" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Director of Land Use Planning and City   Planner, the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on August 29, 2011 to   amend Section 5.2.4 of the Official Plan by adding a policy to define the   scale of office...
 
 **✅ Motion Passed**
@@ -5752,6 +5796,8 @@ Unanimous (14-0)
 ### 19#3. Special Provisions
   – Westbury International (1991) Corporation – Westbury Subdivision –
   39T-05509
+
+<a id="motion-19-3-6" class="motion-anchor"></a>
 
 > Approve   that, notwithstanding the recommendation of the Director of Building Controls,   Ms. Phuong BE GRANTED a temporary exemption from the Sign and Canopy By-law   relating to the property located at 715-725 Wellington Road South for one   year, pending the outcome of the Civic Administratio...
 
@@ -5769,6 +5815,8 @@ Unanimous (14-0)
 ### 2#3. Request for
   Proposal 11-29 – Provide Fiscal Agent Services
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the City Treasurer, Chief Financial Officer the   following actions be taken with respect to the Request for Proposal 11-29,   Provide Fiscal Agent Services:   (a)  the   proposals submitted by the following proponents BE ACCEPTED:   RBC   Dominion Secur...
 
 **✅ Motion Passed**
@@ -5784,6 +5832,8 @@ Unanimous (14-0)
 
 ### 2#5. City of London
   Civic Brand
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > Approve   that the Chief Administrative Officer BE DIRECTED to undertake a civic   engagement process to update the style of the City of London’s logo; it being   noted that the Chief Administrative Officer provided the attached   handout with respect to the elements of London’s civic brand; it b...
 
@@ -5801,6 +5851,8 @@ Unanimous (14-0)
 ### 3#2. Amendment to
   Infrastructure Ontario Financing Application
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the City Treasurer, Chief Financial Officer, the attached   proposed by-law (Appendix A) BE INTRODUCED at the Municipal Council meeting   of August, 29, 2011 to amend By-law No. A.-6680-171, to reflect the name   change of the Ontario Infrastructure Proj...
 
 **✅ Motion Passed**
@@ -5817,6 +5869,8 @@ Unanimous (14-0)
 ### 3#3. Water, Sanitary and
   Storm Rate Structure Review – Fixed Rate for Water and Sanitary Charges
 
+<a id="motion-3-3-1" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Director of Water and City Engineer,   the following actions be taken with respect to the purchase of winter   maintenance equipment with operators – trucks with sand/salter bodies:   (a)        the tender bids received for   winter maintenance equipme...
 
 **✅ Motion Passed**
@@ -5824,6 +5878,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 3#5. Council Values
+
+<a id="motion-3-5-2" class="motion-anchor"></a>
 
 > Motion to amend Passed
 
@@ -5839,6 +5895,8 @@ Unanimous (14-0)
 </details>
 
 ### 3#5. Council Values
+
+<a id="motion-3-5-3" class="motion-anchor"></a>
 
 > Motion, as amended, Passed
 
@@ -5856,6 +5914,8 @@ Unanimous (14-0)
 ### 4#2. 2010 Annual Report
   – Development Charges Reserve Funds
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the City Treasurer, Chief Financial Officer:   (a)       the   annual statement of the City Treasurer (Appendix A and Appendix B    attached)   with respect to the operation of the City Services Reserve Funds    and Urban   Works Reserve Funds for the ye...
 
 **✅ Motion Passed**
@@ -5871,6 +5931,8 @@ Unanimous (14-0)
 
 ### 4#3. Annual Report
   Card/Progress Report
+
+<a id="motion-4-3-0" class="motion-anchor"></a>
 
 > Approve   that the Chief Administrative Officer BE DIRECTED to incorporate target   setting into the annual Report Card/Progress Report.
 
@@ -5888,6 +5950,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-2" class="motion-anchor"></a>
+
 > Motion to Refer Passed
 
 **❌ **
@@ -5896,6 +5960,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-3" class="motion-anchor"></a>
 
 > Approve that, on   the recommendation of the Managing Director - Corporate Assets, on the advice   of the Manager Realty Services, the unopened original Baseline Road road   allowance east of Jarvis Street, identified as parts 1,2,3,4,5,6,7,8 9, &   10 of a draft Reference Plan, containing an are...
 
@@ -5906,6 +5972,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-4" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the City Clerk, the following actions be taken   to amend certain municipal by-laws to provide for the delegation of powers of   decision to City of London Hearings Officers:   (a)            the   proposed revised by-law attached as Schedule ‘A’ BE INTROD...
 
 **✅ Motion Passed**
@@ -5914,6 +5982,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-5" class="motion-anchor"></a>
 
 > Approve that, on the recommendation of the City   Clerk, the attached proposed by-law (Appendix “A”) to amend   By-law No. A-40 entitled “A by-law to provide for Various Fees and Charges”   BE INTRODUCED at the Municipal Council meeting to be held on August 29, 2011   to amend the fee related to ...
 
@@ -5924,6 +5994,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-6" class="motion-anchor"></a>
+
 > Pursuant to Part 13 of the Council   Procedure By-law, a motion for Reconsideration is made by Councillor J.P.   Bryant and seconded by Councillor M. Brown, with respect to the implementation   of the Council’s Investment and Economic Prosperity Agenda, as it relates to   clause 9 of the Finance ...
 
 **✅ Motion Passed**
@@ -5932,6 +6004,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-7" class="motion-anchor"></a>
 
 > Approve   that the following actions be taken with respect to the Municipal Council’s Investment   and Economic Prosperity Committee:   (a)       the   actions of the Municipal Council taken at its meeting held on July 25, 2011,   in having adopted clause 15(d) of the 17th Report of the Finance a...
 
@@ -5942,6 +6016,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-8" class="motion-anchor"></a>
+
 > Approve   that the Mayor BE REQUESTED to write a letter to Childcan in support of   Childhood Cancer Awareness Month.
 
 **✅ Motion Passed**
@@ -5950,6 +6026,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-11" class="motion-anchor"></a>
 
 > Motion to Refer Failed
 
@@ -5967,6 +6045,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-12" class="motion-anchor"></a>
+
 > The motion to adopt clause 11 is put.
 
 **✅ Motion Passed**
@@ -5975,6 +6055,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-13" class="motion-anchor"></a>
 
 > Approve   that the City Clerk and the City Solicitor BE REQUESTED to report back to the   Finance and Administration Committee with an information report containing   possible amendments to the Municipal Act, 2001, for petitioning the Province,   that would provide greater latitude for those situ...
 
@@ -5992,6 +6074,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-14" class="motion-anchor"></a>
+
 > Motion by Councillor N. Branscombe and   seconded by Councillor J.L. Baechler that pursuant to Section 2.4 of the   Council Procedure By-law, section 11.10 of the said by-law be suspended for   the purpose of permitting the meeting to proceed beyond 11:00 p.m.
 
 **✅ Motion Passed**
@@ -6007,6 +6091,8 @@ Unanimous (14-0)
 
 ### 5#2. One-Time Allocation
   of Local Government Funding
+
+<a id="motion-5-2-15" class="motion-anchor"></a>
 
 > Approve leave pursuant to section 17.4 of   the Council Procedure By-law to permit the discussion and debate and the   making of a substantive motion with respect to clause 16 of the 19th Report   of the Finance and Administration Committee, having to do with the shut-down   of the CBC transmitte...
 
@@ -6024,6 +6110,8 @@ Unanimous (14-0)
 ### 5#2. One-Time Allocation
   of Local Government Funding
 
+<a id="motion-5-2-16" class="motion-anchor"></a>
+
 > Approve that the Director, Intergovernmental   and Community Liaison be requested to investigate and report back at a future   meeting of the Finance and Administration Committee regarding potential   opportunities to continue to advocate the requirement for the CBC to continue   to provide a tel...
 
 **✅ Motion Passed**
@@ -6040,6 +6128,8 @@ Unanimous (14-0)
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
 
+<a id="motion-5-3-0" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Director Wastewater and Treatment and the   Managing Director - Corporate Assets, the following actions be taken with   respect to the Greenway Flotation building upgrades, (ES5083):   (a)        the bid   submitted by Elgin Contracting and Restoration...
 
 **✅ Motion Passed**
@@ -6048,6 +6138,8 @@ Unanimous (14-0)
 
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
+
+<a id="motion-5-3-1" class="motion-anchor"></a>
 
 > Approve   that, on the recommendation of the Director, Wastewater and Treatment, the   unexpended funds and remaining contingency from the Stormwater Management   Facility #2 site preparation contract (Tender T11-13) BE TRANSFERRED to   the Construction   Contract for the Fox Hollow Development A...
 
@@ -6058,6 +6150,8 @@ Unanimous (14-0)
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
 
+<a id="motion-5-3-2" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the Director, Wastewater and Treatment, the following   actions be taken with respect   to the construction of the Stoney Creek Erosion Control Wetland Stormwater   Management Facility:   (a)        the bid submitted by Bre-Ex   Limited, 1069 Wellington ...
 
 **✅ Motion Passed**
@@ -6066,6 +6160,8 @@ Unanimous (14-0)
 
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
+
+<a id="motion-5-3-3" class="motion-anchor"></a>
 
 > Approve that, on the recommendation of the Director, Wastewater   and Treatment, the following actions be taken with respect to the   construction of Fitzwilliam Boulevard Sanitary Sewer Improvement (ES2464 and   ES5424):   (a)        the bid submitted by TRI-CON   Excavating Inc., 113-4023 Meado...
 
@@ -6076,6 +6172,8 @@ Unanimous (14-0)
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
 
+<a id="motion-5-3-4" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the Director, Wastewater and Treatment, the following   actions be taken with respect to Phases 1 and 2, Site Grading and Surface   Works Project, for the Innovation Park Industrial Subdivision,  (ID1168-1239   and ID1168):   (a)        the bid submitted...
 
 **✅ Motion Passed**
@@ -6084,6 +6182,8 @@ Unanimous (14-0)
 
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
+
+<a id="motion-5-3-5" class="motion-anchor"></a>
 
 > Approve that, on the recommendation of the Director of Wastewater   and Treatment, the   following actions be taken with respect to the decommissioning of the   Greenway Pollution Control Center Incinerator No. 1:    (a)            the proposal   submitted by Quantum Murray BP Inc., 345 Horner Av...
 
@@ -6094,6 +6194,8 @@ Unanimous (14-0)
 ### 5#3. Greenway Flotation Building
   Upgrades – Project No. ES5083 – Tender 11-71
 
+<a id="motion-5-3-6" class="motion-anchor"></a>
+
 > Approve   that, notwithstanding  the recommendation of the Acting Director, Roads &   Transportation, the proposed by-law to amend the Traffic and Parking By-law   (P.S. 111), BE REFERRED to the Civic Administration for further consideration   related to the bus stop locations that the University...
 
 **✅ Motion Passed**
@@ -6102,6 +6204,8 @@ Unanimous (12-0)
 
 ### 5#5. Strategic
   Priorities
+
+<a id="motion-5-5-0" class="motion-anchor"></a>
 
 > Approve   that the   Chief Administrative Officer BE REQUESTED to consider the comments of the   Council Members related to strategic priorities for the City of London, in   consultation with local agencies, and report back with a suggested priority   listing and a proposed budget for undertaking...
 
@@ -6118,6 +6222,8 @@ Unanimous (12-0)
 
 ### 6#3. Major Initiatives
 
+<a id="motion-6-3-0" class="motion-anchor"></a>
+
 > Approve   that the following actions be taken with respect to major initiatives   for the 2011-2014 Municipal Council:   (a)            the   following matters BE IDENTIFIED as the short list of major initiatives   for the 2011-2014 Municipal Council:   (i)          Downtown   Investments: new Ci...
 
 **✅ Motion Passed**
@@ -6133,6 +6239,8 @@ Unanimous (12-0)
 
 ### II. DISCLOSURES OF PECUNIARY INTEREST
 
+<a id="motion-ii-0" class="motion-anchor"></a>
+
 > 252.          Motion Passed
 
 **✅ Motion Passed**
@@ -6140,6 +6248,8 @@ Unanimous (12-0)
 Unanimous (14-0)
 
 ### VI. MOTIONS OF WHICH NOTICE IS GIVEN
+
+<a id="motion-vi-0" class="motion-anchor"></a>
 
 > Pursuant to section 7.3 of the Council     Procedure By-law, a motion made to change the order of business to permit     the consideration of the Motion of which notice is given (Glanworth     Library), at 7:30 pm is made by Councillor S. Orser and seconded by     Councillor D. Brown.
 
@@ -6149,6 +6259,8 @@ Unanimous (14-0)
 
 ### VI. MOTIONS OF WHICH NOTICE IS GIVEN
 
+<a id="motion-vi-1" class="motion-anchor"></a>
+
 > Pursuant to section 7.3 of the Council     Procedure By-law, a motion to change the order of business to permit the     consideration of clause 30 of the 19th Report of the Built and Natural     Environment Committee, having to do with the application of H. Adbelsayed     relating to the property...
 
 **✅ Motion Passed**
@@ -6156,6 +6268,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### XI. EMERGENT MOTIONS
+
+<a id="motion-xi-0" class="motion-anchor"></a>
 
 > Pursuant to Part 13 of the Council   Procedure By-law, a motion for Reconsideration is made by Councillor Hubert   and seconded by Councillor Swan, with respect to the Emergent Motion of the   July 25, 2011 Council meeting, as it relates to Zebro Holdings.
 
@@ -6173,6 +6287,8 @@ Unanimous (14-0)
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Acting Director, Roads &   Transportation, the attached proposed by-laws (Appendices “A”   and “B”) BE INTRODUCED at the Municipal Council meeting to be held on August   29, 2011 for the purpose of amending the Traffic and Parking By-law (P.S.   111) t...
 
 **✅ Motion Passed**
@@ -6181,6 +6297,8 @@ Unanimous (14-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
+
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Approve   that, on   the recommendation of the Acting Director, Roads and   Transportation, the following actions be taken with respect to the Veterans   Memorial Parkway South Extension Planning, Preliminary Design and Class   Environmental Assessment Study:   (a)            McCormick   Rankin C...
 
@@ -6191,6 +6309,8 @@ Unanimous (14-0)
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
 
+<a id="motion-12-2" class="motion-anchor"></a>
+
 > Approve   that, the   following actions be taken with respect to the  reimbursement of   the land costs for the Wickerson Stormwater Management Pond to Sifton   Properties Limited:   (a)            based   on fair market value, $100,000.00 per hectare BE APPROVED for reimbursement   to Sifton Pro...
 
 **✅ Motion Passed**
@@ -6199,6 +6319,8 @@ Unanimous (14-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
+
+<a id="motion-12-3" class="motion-anchor"></a>
 
 > Approve   that, notwithstanding the recommendation of the Director of Land Use Planning   and City Planner, the Civic Administration BE DIRECTED to meet with   Montessori House of Children and the neighbourhood community association to   discuss limiting the scope of the proposed Official Plan Am...
 
@@ -6209,6 +6331,8 @@ Unanimous (12-0)
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
 
+<a id="motion-12-4" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the Director of Land Use Planning and City Planner, the   following actions be taken with respect to Residential Intensification   Policies:   (a)            the   attached proposed Official Plan Amendment to clarify the intent   of the Official Plan int...
 
 **✅ Motion Passed**
@@ -6217,6 +6341,8 @@ Unanimous (14-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
+
+<a id="motion-12-5" class="motion-anchor"></a>
 
 > Refer clause 17 of the 19th Report of the Built and   Natural Environment Committee (BNEC), having to do with soil remediation in   Wellington Street road allowance, adjacent to Piccadilly Park, for consideration   with 20th Report of BNEC.
 
@@ -6227,6 +6353,8 @@ Unanimous (14-0)
 
 ### 12. Amendments to the
   Traffic and Parking By-law for the Western Fair Association
+
+<a id="motion-12-6" class="motion-anchor"></a>
 
 > Approve   that, on the recommendation of the Director of Land Use Planning and City   Planner, the following actions be taken with respect to the proposed   amendment to Middlesex Centre’s Official Plan:   (a)        the following comments BE FORWARDED   to Middlesex Centre:   (i)         the   C...
 
@@ -6244,6 +6372,8 @@ Unanimous (14-0)
 ### 15. Introduction to the
   Parks and Recreation Strategic Master Plan and 2009-2010 Accomplishments
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Approve   that the   report dated August 16, 2011, from the Director of Parks and Recreation, with   the concurrence of the Executive Director of Community Services, with respect   to the Parks   and Recreation Strategic Master Plan and 2009-2010 accomplishments, BE   DEFERRED to the September 13...
 
 **✅ Motion Passed**
@@ -6252,6 +6382,8 @@ Unanimous (14-0)
 
 ### 15. Introduction to the
   Parks and Recreation Strategic Master Plan and 2009-2010 Accomplishments
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Approve that the following details of the public participation meeting held   on August 16, 2011 relating to raising chickens in poultry pens within   residential zones, BE RECEIVED and that NO FURTHER ACTION BE TAKEN with   respect to this matter:   -           L. Adams, 740   Valetta Street and...
 
@@ -6269,6 +6401,8 @@ Unanimous (14-0)
 ### 15. Introduction to the
   Parks and Recreation Strategic Master Plan and 2009-2010 Accomplishments
 
+<a id="motion-15-2" class="motion-anchor"></a>
+
 > Approve   that the   Mayor BE ASKED to write a letter of support related to the attached   letter from K. Bejczak, Crohn’s and Colitis Foundation of Canada with respect   to the M & M National Family Dinner Night.
 
 **✅ Motion Passed**
@@ -6277,6 +6411,8 @@ Unanimous (14-0)
 
 ### 23. 8th Report of the
   LDRRAC
+
+<a id="motion-23-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -6294,6 +6430,8 @@ Unanimous (14-0)
 ### 23. 8th Report of the
   LDRRAC
 
+<a id="motion-23-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -6310,6 +6448,8 @@ Unanimous (14-0)
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
 
+<a id="motion-25-0" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Director of Land Use Planning and City   Planner, based on the application of City of London relating to the property   located at 310, 318, 322 and 330 Wellington Road, the attached   proposed by-law BE INTRODUCED at the Municipal Council meeting to b...
 
 **✅ Motion Passed**
@@ -6318,6 +6458,8 @@ Unanimous (14-0)
 
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
+
+<a id="motion-25-3" class="motion-anchor"></a>
 
 > Motion to amend is passed
 
@@ -6335,6 +6477,8 @@ Unanimous (14-0)
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
 
+<a id="motion-25-4" class="motion-anchor"></a>
+
 > Motion, as amended, passed
 
 **❌ **
@@ -6351,6 +6495,8 @@ Unanimous (14-0)
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
 
+<a id="motion-25-5" class="motion-anchor"></a>
+
 > Approve   that, on the recommendation of the Acting Director, Roads and Transportation   and notwithstanding the January 18, 2010 Municipal Council resolution   relating to the implementation plan for the Old North Neighbourhood Traffic   Calming Study, the Old North Neighbourhood Traffic Calming...
 
 **✅ Motion Passed**
@@ -6360,6 +6506,8 @@ Unanimous (14-0)
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
 
+<a id="motion-25-6" class="motion-anchor"></a>
+
 > Approve that, on the recommendation of the   Director of Land Use Planning and City Planner, the following actions be   taken with respect to the application of Zelinka Priamo Limited relating to   the properties located at 2310, 2330, 2350 and 2362 Dundas Street:    (a)        the attached   pro...
 
 **✅ Motion Passed**
@@ -6368,6 +6516,8 @@ Unanimous (14-0)
 
 ### 25. City of London –
   310, 318, 322 and 330 Wellington Road (O-7900)
+
+<a id="motion-25-7" class="motion-anchor"></a>
 
 > Approve   that,   on the recommendation of the Executive Director of Planning, Environmental   and Engineering Services, the following actions be taken with respect to the   creation of a community-led initiative to complete the planned enhancements   to Veterans Memorial Parkway:   (a)          ...
 
@@ -6385,6 +6535,8 @@ Unanimous (14-0)
 ### 30. Hasham Adbelsayed –
   1472 Huron Street (Z-7887)
 
+<a id="motion-30-0" class="motion-anchor"></a>
+
 > Approve that   the following actions be taken with respect to the application of Hasham   Abdelsayed relating to the property located at 1472 Huron Street:    (a)       the   request to amend Zoning By-law No. Z.-1 to change the zoning of the subject   lands from a Convenience Commercial (CC2) Zo...
 
 **✅ Motion Passed**
@@ -6401,6 +6553,8 @@ Unanimous (14-0)
 ### 31. Parking Regulations
   – Corinth Court
 
+<a id="motion-31-0" class="motion-anchor"></a>
+
 > Approve   that no   action BE TAKEN with respect to parking regulations on Corinth Court; it   being noted that the Built and Natural Environment Committee reviewed and   received a communication dated August 3, 2011, from Councillor S. Orser, with   respect to this matter.
 
 **✅ Motion Passed**
@@ -6416,6 +6570,8 @@ Unanimous (14-0)
 
 ### 49. Confidential Matters
 
+<a id="motion-49-0" class="motion-anchor"></a>
+
 > Approve   that, on   the recommendation of the Director of Development Planning and the Managing   Director – Development Approvals and Business Unit, based on the application   of the City of London relating to the property located at 2430 Bradley   Avenue, the attached proposed by-law BE INTROD...
 
 **✅ Motion Passed**
@@ -6424,6 +6580,8 @@ Unanimous (14-0)
 
 ### 49. Confidential Matters
 
+<a id="motion-49-2" class="motion-anchor"></a>
+
 > Councillor Hubert calls the question.   Motion Passed
 
 **✅ Motion Passed**
@@ -6431,6 +6589,8 @@ Unanimous (14-0)
 Unanimous (12-0)
 
 ### 49. Confidential Matters
+
+<a id="motion-49-3" class="motion-anchor"></a>
 
 > Motion made to Approve made by J.B. Swan   that the   Civic Administration BE ASKED to undertake the following actions with respect   to the soil remediation in the Wellington Street road allowance adjacent to   Piccadilly Park:   (a)            explore   options to enhance the existing parking l...
 

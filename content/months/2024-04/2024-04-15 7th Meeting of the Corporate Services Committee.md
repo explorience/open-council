@@ -841,6 +841,8 @@ Motion carries. Thank you, everyone. I'll get after you.
 
 ### 2.1. Expropriation of Lands - East London Link Project Phase 4
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, and on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Eas...
 
 **✅ Motion Passed (3 to 1) 🔥**
@@ -856,6 +858,8 @@ Motion carries. Thank you, everyone. I'll get after you.
 
 ### 2.2. 2023 Year-End Operating Budget Monitoring Report
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the 2023 Year-End Operating Budget Monitoring Report: a)    the 2023 Year-End Operating Budget Monitoring Report for the Property Tax Supported Budget, Water Budget, and Wastew...
 
 **✅ Motion Passed (5 to 1)**
@@ -870,6 +874,8 @@ Motion carries. Thank you, everyone. I'll get after you.
 </details>
 
 ### 4. Items for Direction
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > That items for direction 4.1 to 4.2 BE APPROVED.
 

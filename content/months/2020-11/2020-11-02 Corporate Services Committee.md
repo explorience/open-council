@@ -288,6 +288,8 @@ The meeting adjourned at 1:40 PM.
 
 ### 4.1. Request for Delegation Status - Jacqueline Madden and Michael Dawthorne
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the requested delegation, as identified on the public agenda, BE APPROVED to heard at this time.
 
 **✅ Motion Passed (6 to 0)**
@@ -295,6 +297,8 @@ The meeting adjourned at 1:40 PM.
 Unanimous (6-0)
 
 ### 5.3. Small Business Support
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the following actions be taken to assist London businesses in mitigating financial losses as a result of Public Health regulations put in place with respect to COVID-19: a)      the Province of Ontario BE ADVISED that the City of London supports the measures being put in place to assist loca...
 

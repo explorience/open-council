@@ -900,6 +900,8 @@ Thank you.
 
 ### 4.2. 2020 Year-End Operating Budget Monitoring Report and COVID-19 Financial Impacts
 
+<a id="motion-4-2-2" class="motion-anchor"></a>
+
 > Motion to approve part d) i) of the staff recommendation: d)      the following allocations from the Property Tax Supported Budget surplus BE APPROVED with respect to RBC Place London:       i) a one-time grant to support RBC Place operations for the remainder of 2021 in the amount of $2.5 million;
 
 **✅ Motion Passed (13 to 1)**

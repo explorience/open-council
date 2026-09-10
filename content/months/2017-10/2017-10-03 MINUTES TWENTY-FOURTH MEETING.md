@@ -2088,6 +2088,8 @@ Approve Third Reading and Enactment of Bill
 ### 1#2. Disclosures of
   Pecuniary Interest
 
+<a id="motion-1-2-1" class="motion-anchor"></a>
+
 > Approve clause 1, as amended.
 
 **✅ Motion Passed**
@@ -2096,6 +2098,8 @@ Unanimous (15-0)
 
 ### 11#2. 11th Report on the
   London Advisory Committee on Heritage
+
+<a id="motion-11-2-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the 11th Report of the London Advisory Committee on Heritage from   its meeting held on September 13, 2017:   a)              the   following actions be taken with respect to the notice of application to amend   the Official Plan and Zoning By...
 
@@ -2109,6 +2113,8 @@ Unanimous (15-0)
   by The Corporation of The City of London re properties located at 1663, 1685
   Commissioners Road East and 2652 Jackson Road - Official Plan Amendment
   (39T-06507/OZ-7176/0-7178) (Relates to Bill No.s 583, 584 and 596)
+
+<a id="motion-12-2-0" class="motion-anchor"></a>
 
 > Approve that clause 12, of the 18th Report of the Planning and Environment Committee, with respect to the   application of 748094 Ontario Ltd., and 2624 Jackson Road Inc., for the lands   located at 1635 Commissioners Road East and 2624 Jackson Road and the   application by the City of London, re...
 
@@ -2127,6 +2133,8 @@ Unanimous (15-0)
   Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
   Servicing
 
+<a id="motion-13-2-0" class="motion-anchor"></a>
+
 > Approve that clause 13 be further   amended by adding the following new part c):
 
 **✅ Motion Passed**
@@ -2143,6 +2151,8 @@ Unanimous (15-0)
 ### 13#2. Request from
   Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
   Servicing
+
+<a id="motion-13-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -2161,6 +2171,8 @@ Unanimous (15-0)
   Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water
   Servicing
 
+<a id="motion-13-2-2" class="motion-anchor"></a>
+
 > Approve clause 13, as amended
 
 **✅ Motion Passed**
@@ -2176,6 +2188,8 @@ Unanimous (15-0)
 
 ### 5#2. One River
   Environmental Assessment Update: Agency Advisory Committee Report
+
+<a id="motion-5-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the One River Environmental   Assessment Agency Advisory Committee Report:   a)         the   One River Environmental Assessment Agenc...
 
@@ -2193,6 +2207,8 @@ Unanimous (15-0)
 ### 5#3. Subdivision Special
   Provisions - Coronation Subdivision (39T-15502)
 
+<a id="motion-5-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Manager,   Development Planning, the following actions be taken with respect to entering   into a Subdivision Agreement between The Corporation of the City of London   and Banman Developments (West) Inc., for the subdivision of land over Part of   Lot 24, Conces...
 
 **✅ Motion Passed**
@@ -2203,6 +2219,8 @@ Unanimous (13-0)
   Thames River Experimental Stream Science Facility at Adelaide Pollution
   Control Plant (Relates to Bill No. 581)
 
+<a id="motion-9-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to a Consent to Enter Agreement with   Western University:   a)         the   proposed by-law appended to the staff report dated Septembe...
 
 **✅ Motion Passed**
@@ -2212,6 +2230,8 @@ Unanimous (13-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWENTY-THIRD MEETING HELD ON SEPTEMBER 19, 2017
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Twenty-Third   meeting held on September 19, 2017.
 
 **✅ Motion Passed**
@@ -2220,6 +2240,8 @@ Unanimous (15-0)
 
 ### VII. MOTIONS OF
   WHICH NOTICE IS GIVEN
+
+<a id="motion-vii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 16 of the 15th Report of the Civic Works Committee at   this time.
 
@@ -2243,6 +2265,8 @@ Unanimous (15-0)
   Stage for Consideration with Clause 6 of the 26th Report of the Corporate
   Services Committee )
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2252,6 +2276,8 @@ Unanimous (15-0)
 ### 6. Council Policy -
   Use of Corporate Resources During an Election Period (Relates to Bill No.585)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Approve that   clause 6 of the 26th Report of the Corporate Services Committee and the   related Communication No. 3 with respect to the Council Policy entitled “Use   of Corporate Resources During a Municipal Election Year”, BE REFERRED back to   the Corporate Services Committee for additional d...
 
 **✅ Motion Passed**
@@ -2259,6 +2285,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 16. Warranted Sidewalk Program
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Approve that clause 16 be amended by   adding the following new part b):   b)         the   Managing Director, Environmental and Engineering Services and City Engineer   BE REQUESTED to make the following amendment to the placement of sidewalks on   Regal Drive:   i)          the   sidewalk to be...
 
@@ -2275,6 +2303,8 @@ Unanimous (15-0)
 
 ### 16. Warranted Sidewalk Program
 
+<a id="motion-16-1" class="motion-anchor"></a>
+
 > Approve that clause 16 be amended by   adding the following new part b):
 
 **✅ Motion Passed**
@@ -2289,6 +2319,8 @@ Unanimous (15-0)
 </details>
 
 ### 16. Warranted Sidewalk Program
+
+<a id="motion-16-2" class="motion-anchor"></a>
 
 > Approve clause 16, as amended.
 

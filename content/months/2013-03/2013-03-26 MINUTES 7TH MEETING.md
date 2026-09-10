@@ -1103,6 +1103,8 @@ The Committee of the Whole rises and
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-iv-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1120,6 +1122,8 @@ The Committee of the Whole rises and
   AND SIGNING OF THE MINUTES OF THE FIFTH AND SIXTH MEETINGS HELD ON FEBRUARY
   28, 2013 AND MARCH 5, 2013, RESPECTIVELY
 
+<a id="motion-vi-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1128,13 +1132,7 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### XIII. BY-LAWS
+<a id="motion-xiii-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1144,6 +1142,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1152,6 +1152,18 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-5" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-7" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1160,13 +1172,7 @@ Unanimous (11-0)
 
 ### XIII. BY-LAWS
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### XIII. BY-LAWS
+<a id="motion-xiii-9" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1175,6 +1181,18 @@ Unanimous (11-0)
 Unanimous (11-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-11" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-12" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1185,6 +1203,8 @@ Unanimous (12-0)
 ### 11. Property located at
   1815 Dundas Street (Z-8135)
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1193,6 +1213,8 @@ Unanimous (10-0)
 
 ### 14. Enquiry - Property
   located at Huron Street and Adelaide Street North
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1204,6 +1226,8 @@ Unanimous (12-0)
   Issuing Parking Tickets to Commercial Operating/Car Dealerships Displaying
   Vehicles on Boulevards
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1213,14 +1237,7 @@ Unanimous (13-0)
 ### 16. Environmental Bill
   of Rights Registry Request for Comment - Michigan Recyclables Processing
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 26. Special Meeting –
-  March 26, 2013
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1231,6 +1248,8 @@ Unanimous (14-0)
 ### 26. Special Meeting –
   March 26, 2013
 
+<a id="motion-26-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1239,6 +1258,19 @@ Unanimous (14-0)
 
 ### 26. Special Meeting –
   March 26, 2013
+
+<a id="motion-26-3" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 26. Special Meeting –
+  March 26, 2013
+
+<a id="motion-26-5" class="motion-anchor"></a>
 
 > Motion Passed
 

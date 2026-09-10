@@ -2438,6 +2438,8 @@ That motion's passed. All right, thank you very much. We're adjourned.
 
 ### 2.1. 2023 Assessment Growth Funding Allocation
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That the delegation request from Mr. M. Wallace, London Development Institute (LDI), BE APPROVED to be heard at this time.
 
 **✅ Motion Passed (14 to 0)**
@@ -2445,6 +2447,8 @@ That motion's passed. All right, thank you very much. We're adjourned.
 Unanimous (14-0)
 
 ### 2.1. 2023 Assessment Growth Funding Allocation
+
+<a id="motion-2-1-3" class="motion-anchor"></a>
 
 > That Business Case #11 Police Services: Increase Complement BE RECEIVED. At 3:50 PM, His Worship Mayor J. Morgan, places Councillor E. Peloza in the Chair. At 3:54 PM, His Worship Mayor J. Morgan resumes the Chair.
 
@@ -2463,6 +2467,8 @@ Unanimous (14-0)
 
 ### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That the following amendment to the motion, BE APPROVED: c) by adding “it being noted that Civic Administration will return to Council with a business case detailing the proposed use of the funds;"
 
 **✅ Motion Passed (14 to 0)**
@@ -2470,6 +2476,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.1. Health and Homelessness Summits - Proposed Whole of Community System Response
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > That the following amendment to the motion, BE APPROVED: e) to read as follows "the Civic Administration BE DIRECTED to report back monthly to future standing committees on progress updates;"
 
@@ -2488,6 +2496,8 @@ Unanimous (14-0)
 
 ### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That the delegation request from G. Henderson, London Chamber of Commerce, BE APPROVED to be heard at this time. ADDITIONAL VOTES:
 
 **✅ Motion Passed (14 to 0)**
@@ -2495,6 +2505,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.2. Developing Council's 2023-2027 Strategic Plan: Draft Strategies and Order of Magnitude Costing
+
+<a id="motion-4-2-3" class="motion-anchor"></a>
 
 > That Strategic Area of Focus Economic Growth, Culture, and Prosperity: Expected Result 2.2, BE AMENDED subsections a) through e) BE AMENDED in the Draft Strategic Plan by including London Chamber of Commerce's expected results and draft strategies.
 
@@ -2513,6 +2525,8 @@ Unanimous (14-0)
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
 
+<a id="motion-4-3-1" class="motion-anchor"></a>
+
 > That the Strategic Area of Focus: Housing and Homelessness, Expected Result 2.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric c)
 
 **❌ Motion Failed (4 to 9)**
@@ -2529,6 +2543,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+<a id="motion-4-3-2" class="motion-anchor"></a>
 
 > That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.3, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric b) % of residents who indicate they are happy or very happy.
 
@@ -2547,6 +2563,8 @@ Unanimous (14-0)
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
 
+<a id="motion-4-3-3" class="motion-anchor"></a>
+
 > That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric f) # of hectares of naturalized parkland.
 
 **❌ Motion Failed (4 to 8)**
@@ -2563,6 +2581,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+<a id="motion-4-3-4" class="motion-anchor"></a>
 
 > That the Strategic Area of Focus: Wellbeing and Safety, Expected Result 1.6, Draft Metric c) and Expected Result 1.7, Draft Metric a) BE REMOVED from the Draft Strategic Plan.
 
@@ -2581,6 +2601,8 @@ Unanimous (14-0)
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
 
+<a id="motion-4-3-5" class="motion-anchor"></a>
+
 > That the Strategic Area of Focus: Climate Action and Sustainable Growth 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric i) grade level for watershed.
 
 **❌ Motion Failed (6 to 7) 🔥**
@@ -2597,6 +2619,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
+
+<a id="motion-4-3-6" class="motion-anchor"></a>
 
 > That the Strategic Area of Focus: Well-Run City, Expected Result 3.1, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) % of employees who say they are happy with their work and workplace.
 
@@ -2615,6 +2639,8 @@ Unanimous (14-0)
 
 ### 4.3. Developing Council's 2023-2027 Strategic Plan: Draft Metrics
 
+<a id="motion-4-3-7" class="motion-anchor"></a>
+
 > That the Strategic Area of Focus: Well-Run City, Expected Result 1.2, BE AMENDED in the Draft Strategic Plan by adding a new Draft Metric d) # of Londoners participating in public participation meetings (in person and online).
 
 **✅ Motion Passed (11 to 2)**
@@ -2632,6 +2658,8 @@ Unanimous (14-0)
 
 ### 4.4. Consideration of Appointment to the London and Middlesex Community Housing (Requires 1 Tenant)
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That Cara Awcock BE APPOINTED to the London & Middlesex Community Housing Board of Directors for the term ending December 31, 2025 (Third Class); it being noted that the Strategic Priorities and Policy Committee received a communication from S. Chowns, Board of Directors, London & Middlesex Commu...
 
 **✅ Motion Passed (13 to 0)**
@@ -2640,6 +2668,8 @@ Unanimous (13-0)
 
 ### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
 
+<a id="motion-4-5-0" class="motion-anchor"></a>
+
 > That Mariam Hamou BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2026.
 
 **✅ Motion Passed (13 to 0)**
@@ -2647,6 +2677,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.5. Consideration of Appointment to the Committee of Adjustment (Requires 1 Member)
+
+<a id="motion-4-5-1" class="motion-anchor"></a>
 
 > Consideration of Appointment to the Committee of Adjustment
 

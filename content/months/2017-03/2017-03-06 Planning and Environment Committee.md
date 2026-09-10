@@ -710,6 +710,8 @@ The meeting adjourned at 5:48 PM.
 ### 2. 3rd Report of the
   Advisory Committee on Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -719,6 +721,8 @@ Unanimous (4-0)
 
 ### 3. 3rd Report on the
   London Advisory Committee Heritage
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -730,6 +734,8 @@ Unanimous (4-0)
 ### 4. STAFF REPORT – Property
   located at 259 Sunningdale Road West (H-8095)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -739,6 +745,8 @@ Unanimous (4-0)
 
 ### 5. STAFF REPORT - Property
   located at 2120 Kains Road (H-8676)
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -751,6 +759,8 @@ Unanimous (4-0)
   located at 1826 and 1854 Oxford Street West and 1170 Riverbend Road South
   Phase 1 (H-8716)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -760,6 +770,8 @@ Unanimous (4-0)
 
 ### 7. STAFF REPORT -
   Jubilee Subdivision (39T-16501)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -771,15 +783,7 @@ Unanimous (4-0)
 ### 8. STAFF REPORT - Property
   located at 1647 Fanshawe Park Road East (39T-105030)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. PUBLIC PARTICIPATION
-  MEETING - City Wide Amendments (Z-8703)
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -791,6 +795,8 @@ Unanimous (4-0)
 ### 9. PUBLIC PARTICIPATION
   MEETING - City Wide Amendments (Z-8703)
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -800,6 +806,20 @@ Unanimous (4-0)
 
 ### 9. PUBLIC PARTICIPATION
   MEETING - City Wide Amendments (Z-8703)
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. PUBLIC PARTICIPATION
+  MEETING - City Wide Amendments (Z-8703)
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -811,16 +831,7 @@ Unanimous (4-0)
 ### 10. DELEGATION – Properties
   located at 946, 954 and 962 Longworth Road (H8713)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. PUBLIC
-  PARTICIPATION MEETING – Property located at 1170 Riverbend Road
-  (39CD-16515/SPA16-046)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -833,6 +844,8 @@ Unanimous (4-0)
   PARTICIPATION MEETING – Property located at 1170 Riverbend Road
   (39CD-16515/SPA16-046)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -843,6 +856,21 @@ Unanimous (4-0)
 ### 11. PUBLIC
   PARTICIPATION MEETING – Property located at 1170 Riverbend Road
   (39CD-16515/SPA16-046)
+
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. PUBLIC
+  PARTICIPATION MEETING – Property located at 1170 Riverbend Road
+  (39CD-16515/SPA16-046)
+
+<a id="motion-11-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -854,6 +882,8 @@ Unanimous (4-0)
 ### 12. DELEGATION - Property
   located at Former 1 Terrace Street
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -864,6 +894,8 @@ Unanimous (5-0)
 ### 13. Request for
   Business Improvement Area - Hamilton Road
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -873,6 +905,8 @@ Unanimous (5-0)
 
 ### 14. (ADDED) 
   StormFisher Operations
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

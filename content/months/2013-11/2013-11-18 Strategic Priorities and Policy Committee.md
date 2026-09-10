@@ -659,6 +659,8 @@ Motion Passed
 ### 2. 2014 Water and
   Wastewater and Treatment Budgets and Forecasts
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -667,6 +669,8 @@ Unanimous (14-0)
 
 ### 2. 2014 Water and
   Wastewater and Treatment Budgets and Forecasts
+
+<a id="motion-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -684,6 +688,8 @@ Unanimous (14-0)
 ### 2. 2014 Water and
   Wastewater and Treatment Budgets and Forecasts
 
+<a id="motion-2-2" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -692,6 +698,8 @@ Unanimous (13-0)
 
 ### 3. Managing Director,
   Planning and City Planner - Industrial Land Development Strategy 2013 - 2023
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -702,6 +710,8 @@ Unanimous (15-0)
 
 ### 4. Appointment to the
   Covent Garden Market Board of Directors
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -720,6 +730,8 @@ Unanimous (15-0)
 ### 4. Appointment to the
   Covent Garden Market Board of Directors
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Motion   Failed
 
 **❌ Motion
@@ -736,6 +748,8 @@ Unanimous (15-0)
 
 ### 4. Appointment to the
   Covent Garden Market Board of Directors
+
+<a id="motion-4-2" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -754,6 +768,8 @@ Unanimous (15-0)
 ### 5. Appointment to the
   University of Western Ontario Board of Governors
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -770,14 +786,7 @@ Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (15-0)
-
-### 6. Standing Committee Appointments
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -787,6 +796,19 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (15-0)
+
+### 6. Standing Committee Appointments
+
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -803,6 +825,8 @@ Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
 
+<a id="motion-6-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -817,6 +841,8 @@ Unanimous (15-0)
 </details>
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-4" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -833,13 +859,7 @@ Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 6. Standing Committee Appointments
+<a id="motion-6-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -848,6 +868,18 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-6" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 6. Standing Committee Appointments
+
+<a id="motion-6-7" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -864,6 +896,8 @@ Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
 
+<a id="motion-6-8" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -871,6 +905,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 6. Standing Committee Appointments
+
+<a id="motion-6-9" class="motion-anchor"></a>
 
 > Motion Passed
 

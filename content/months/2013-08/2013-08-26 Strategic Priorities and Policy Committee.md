@@ -207,6 +207,8 @@ Motion
 ### 2. City Clerk - 2nd
   and 3rd Reports of the 2013 Council Compensation Review Task Force
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -217,6 +219,8 @@ Unanimous (14-0)
 ### 3. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - Strategic
   Change in Delivery of Development Charge Exemptions and Incentives Policies
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -235,6 +239,8 @@ Unanimous (14-0)
 ### 4. Managing Director,
   Planning and City Planner - ReThink London Discussion Papers - What We've
   Heard
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

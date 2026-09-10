@@ -1110,6 +1110,8 @@ Card and and understand where we need to take this for sure thank you i'd really
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1, 2.2 and 2.5 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -1117,6 +1119,8 @@ Card and and understand where we need to take this for sure thank you i'd really
 Unanimous (6-0)
 
 ### 2.3. Housing Stability Services 2023-24 Contract Amendments
+
+<a id="motion-2-3-1" class="motion-anchor"></a>
 
 > That the motion BE AMENDED in part b) to read as follows: "b)      the matter of a one-time funding allocation of up to $374,210 to London Cares Homeless Response Services BE REFERRED back to the Civic Administration to provide information as to how the concerns raised as part of the neighbourhoo...
 
@@ -1133,6 +1137,8 @@ Unanimous (6-0)
 
 ### 2.3. Housing Stability Services 2023-24 Contract Amendments
 
+<a id="motion-2-3-2" class="motion-anchor"></a>
+
 > Motion to approve parts a), c), and d) of the clause.
 
 **✅ Motion Passed (6 to 0)**
@@ -1141,6 +1147,8 @@ Unanimous (6-0)
 
 ### 2.4. Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
 
+<a id="motion-2-4-1" class="motion-anchor"></a>
+
 > Motion to approve the following: "the Civic Administration BE DIRECTED to review opportunities through the Rethink Zoning process to facilitate the establishment of Team Based Family Care facilities, not withstanding our policies locating major office uses in the downtown core, and consistent wit...
 
 **✅ Motion Passed (6 to 0)**
@@ -1148,6 +1156,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.4. Primary Care Recruitment, Transition into Practice and Retention Program Funding Request
+
+<a id="motion-2-4-3" class="motion-anchor"></a>
 
 > Motion to approve part b) and c) of the staff recommendation, as follows: "b)    the City’s financial contribution BE APPROVED from the Economic Development Reserve Fund in the amount of $80,000 per year for 3 years, and, c)    the Civic Administration BE AUTHORIZED to undertake all administrativ...
 
@@ -1164,6 +1174,8 @@ Unanimous (6-0)
 
 ### 4.1. Revised Process for City Board Representative on Museum London Board
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the matter of a City of London representative on the Museum London Board BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration of an appointment; it being noted that the members of Council will be advised of the opportunity; it being further noted...
 
 **✅ Motion Passed (6 to 0)**
@@ -1172,6 +1184,8 @@ Unanimous (6-0)
 
 ### 4.1. Revised Process for City Board Representative on Museum London Board
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to approve delegation status for representatives from Museum London to be heard at this meeting.
 
 **✅ Motion Passed (6 to 0)**
@@ -1179,6 +1193,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.2. Thames Pool Condition Update and Repair Options
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to take the following actions with respect to the Thames Pool: a)    proceed with the process to decommission Thames Pool; b)    undertake a community consultation with respect to implementing potential new amenities in Thames Park, including but not limi...
 

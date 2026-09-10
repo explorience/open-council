@@ -365,6 +365,8 @@ The meeting adjourned at 4:22 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.5 and 2.7 and 2.8 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -373,6 +375,8 @@ Unanimous (6-0)
 
 ### 2.6. The London Arts Council Agreement 2019-2023
 
+<a id="motion-2-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Parks and Recreation, the proposed by-law, as appended to the staff report dated March 19, 2019, BE INTRODUCED at the Municipal Council meeting to be held on March 26, 2019, to: a)            to approve the Purchase of Service Agreement, as ap...
 
 **✅ Motion Passed (6 to 0)**
@@ -380,6 +384,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Request for Dedication of Fire Station #4 - 870 Colborne Street - In Memory of Deputy Chief W. Peter Harding
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the request to dedicate Fire Station #4, located at 870 Colborne Street, in memory of Deputy Chief W. Peter Harding, BE APPROVED. (2019-R01)
 

@@ -434,6 +434,8 @@ Seconded by Councilor Raman, a hand vote of all in favor. I'm told that passes, 
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.3 to 2.5 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -442,6 +444,8 @@ Unanimous (4-0)
 
 ### 2.2. London Fire Department - Establishing and Regulating By-law
 
+<a id="motion-2-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report, dated May 24, 2023, related to the London Fire Department Establishing and Regulating By-law: a)         the proposed by-law, as appe...
 
 **✅ Motion Passed (5 to 0)**
@@ -449,6 +453,8 @@ Unanimous (4-0)
 Unanimous (5-0)
 
 ### 4.1. J. Thompson, LIFE*SPIN - Ethical AI Homelessness Tools
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the communication, dated May 15, 2023, from J. Thompson, Life*Spin, with respect to Ethical AI Homelessness Tools, BE FORWARDED to the Civic Administration for consideration; it being noted that the above-noted communication was received. (2023-S11)
 

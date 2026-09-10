@@ -538,14 +538,7 @@ The Strategic Priorities and Policy
 ### 5. 2nd Report of the
   Striking Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 5. 2nd Report of the
-  Striking Committee
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -556,6 +549,8 @@ Unanimous (14-0)
 ### 5. 2nd Report of the
   Striking Committee
 
+<a id="motion-5-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -564,6 +559,19 @@ Unanimous (14-0)
 
 ### 5. 2nd Report of the
   Striking Committee
+
+<a id="motion-5-2" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 5. 2nd Report of the
+  Striking Committee
+
+<a id="motion-5-3" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -581,6 +589,8 @@ Unanimous (14-0)
 ### 5. 2nd Report of the
   Striking Committee
 
+<a id="motion-5-4" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -589,6 +599,8 @@ Unanimous (14-0)
 
 ### 5. 2nd Report of the
   Striking Committee
+
+<a id="motion-5-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -599,6 +611,8 @@ Unanimous (14-0)
 ### 20. ADDED - 2015 Budget
   - Public Input
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -607,6 +621,8 @@ Unanimous (14-0)
 
 ### 21. ADDED - 2015 Budget – Additional
   Contribution – Middlesex-London Health Unit
+
+<a id="motion-21-0" class="motion-anchor"></a>
 
 > Motion Failed
 

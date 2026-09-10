@@ -437,6 +437,8 @@ The Corporate Services Committee convened
 ### 2. 2014 Debenture
   Issuance
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -453,6 +455,8 @@ The Corporate Services Committee convened
 
 ### 3. 2013 Operating
   Budget Status - Fourth Quarter Report
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -471,6 +475,8 @@ The Corporate Services Committee convened
 ### 3. 2013 Operating
   Budget Status - Fourth Quarter Report
 
+<a id="motion-3-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -480,6 +486,8 @@ Unanimous (5-0)
 
 ### 4. 2013 Capital Budget
   Status - Fourth Quarter Report
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -491,6 +499,8 @@ Unanimous (4-0)
 ### 5. 2013 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -500,6 +510,8 @@ Unanimous (4-0)
 
 ### 6. Procurement of
   Goods and Services Policy Revisions
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -511,6 +523,8 @@ Unanimous (5-0)
 ### 7. Advance Voting Days
   for the 2014 Municipal Election
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -520,6 +534,8 @@ Unanimous (5-0)
 
 ### 8. Apprenticeship
   Training Tax Credit
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -532,6 +548,8 @@ Unanimous (5-0)
   of Canadian Municipalities Board of Directors Meeting - Thunder Bay, ON -
   March 3-8, 2014
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -543,6 +561,8 @@ Unanimous (4-0)
   PARTICIPATION MEETING - Application for Tourism Exemption - Retail Business
   Holiday Act, R.S.O. 1990, c.R.30 - Labatt Breweries of Canada LP
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -554,6 +574,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Application for Tourism Exemption - Retail Business
   Holiday Act, R.S.O. 1990, c.R.30 - Labatt Breweries of Canada LP
 
+<a id="motion-10-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -562,6 +584,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 11. Spam Legislation
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

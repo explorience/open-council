@@ -793,6 +793,8 @@ Motion Passed
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<a id="motion-iv-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -806,6 +808,8 @@ Motion Passed
 
 ### IX. ADDED
   REPORTS
+
+<a id="motion-ix-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -821,18 +825,7 @@ Motion Passed
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 12, 2017
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
-
-</details>
-
-### XIII. BY-LAWS
+<a id="motion-v-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -847,6 +840,8 @@ Motion Passed
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -859,6 +854,23 @@ Motion Passed
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
+
+</details>
+
+### XIII. BY-LAWS
+
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -874,6 +886,8 @@ Motion Passed
 ### 6. Summerside
   Subdivision Phase 13A (39T-92020)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -887,6 +901,8 @@ Motion Passed
 
 ### 12. Notice of Intention
   to Designate - 440 Grey Street
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -902,6 +918,8 @@ Motion Passed
 ### 13. C. Mackie -
   Middlesex-London Health Unit
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -915,6 +933,8 @@ Motion Passed
 
 ### 14. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion Passed
 

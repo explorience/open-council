@@ -700,6 +700,8 @@ We'll just need a moment to prepare for in camera. The clerk will need to make s
 
 ### 1.2. Election of Vice Chair
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That Councillor S. Trosow BE APPOINTED Vice Chair for the term ending November 14, 2023.
 
 **✅ Motion Passed (6 to 0)**
@@ -708,6 +710,8 @@ Unanimous (6-0)
 
 ### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, after convening as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act 1997, S.O. 1997, c. 27, by Neil M. Smiley, Fasken Martineau DuMoulin LLP of the property located at 2365 Innovation Drive, regarding the development cha...
 
 **✅ Motion Passed (6 to 0)**
@@ -715,6 +719,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Not to be heard before 12:05 PM - Tribunal - Development Charge Appeal
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That the Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-337 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
 

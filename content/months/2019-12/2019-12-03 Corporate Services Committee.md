@@ -187,6 +187,8 @@ The meeting adjourned at 2:16 PM.
 
 ### 1.2. Election of Vice-Chair for the term ending November 30, 2020
 
+<a id="motion-1-2-0" class="motion-anchor"></a>
+
 > That Councillor M. van Holst BE ELECTED Vice-Chair of the Corporate Services Committee for the term ending November 30, 2020.
 
 **✅ Motion Passed (6 to 0)**
@@ -195,6 +197,8 @@ Unanimous (6-0)
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.1 to 2.3, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -202,6 +206,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.1. Issuance of Proclamations Policy
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE DIRECTED to bring forward a report to the Corporate Services Committee meeting to be held on January 6, 2020, with a revised draft proclamation policy that is similar to the policy of the City of Toronto and that would provide for the authority for municipal procl...
 

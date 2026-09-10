@@ -394,6 +394,8 @@ The
 ### 2. 1st Report of the
   Trees and Forests Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -404,6 +406,8 @@ Unanimous (4-0)
 ### 3. Urban Regeneration
   Engagement and Education Outreach Strategy
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -413,6 +417,8 @@ Unanimous (4-0)
 
 ### 4. Draft Beaufort/Irwin/Gunn/Saunby
   (BIGS) Secondary Plan
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -425,6 +431,8 @@ Unanimous (4-0)
   Subdivision (formerly Terrace Street Subdivision) – Amendment to Special
   Provisions (39T-02511)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -435,15 +443,7 @@ Unanimous (4-0)
 ### 6. Building Division
   Monthly Report for December 2014
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. Downtown Design
-  Manual
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -455,6 +455,8 @@ Unanimous (4-0)
 ### 7. Downtown Design
   Manual
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -464,6 +466,20 @@ Unanimous (4-0)
 
 ### 7. Downtown Design
   Manual
+
+<a id="motion-7-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Downtown Design
+  Manual
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -475,6 +491,8 @@ Unanimous (4-0)
 ### 8. General Orientation
   - Key Committee Matters - Planning
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -484,6 +502,8 @@ Unanimous (4-0)
 
 ### 9. General Orientation
   - Key Committee Matters - Development Services
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -495,6 +515,8 @@ Unanimous (4-0)
 ### 10. Proposed Lambeth
   Community Improvement Plan
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -504,6 +526,8 @@ Unanimous (4-0)
 
 ### 11. General Orientation - Key Committee Matters
   - Development Financing
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

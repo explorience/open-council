@@ -519,6 +519,8 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Strategic Plan Progress Variance
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -529,6 +531,8 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - 2016
   Annual Update on Budweiser Gardens
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -538,6 +542,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   Reserve Fund Housekeeping - Land Acquisition Reserve Fund
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -550,6 +556,8 @@ Unanimous (5-0)
   Reserve Fund Housekeeping - Social Housing Major Repairs, Upgrades and
   Stabilization Reserve Fund
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -560,15 +568,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT -
   Sherwood Forest Public School Request for Proposals - Update and Next Steps
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Apportionment of
-  Taxes
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -579,6 +579,20 @@ Unanimous (5-0)
 
 ### 7. Apportionment of
   Taxes
+
+<a id="motion-7-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Apportionment of
+  Taxes
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -590,6 +604,8 @@ Unanimous (6-0)
 ### 7. Apportionment of
   Taxes
 
+<a id="motion-7-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -600,22 +616,7 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Lorne Avenue Public School Request for Proposals - Update and Next Steps
 
-> Motion   Passed
-
-**✅ Motion
-  Passed 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
-
-**Nay (1):** [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 8. STAFF REPORT -
-  Lorne Avenue Public School Request for Proposals - Update and Next Steps
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -633,6 +634,27 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Lorne Avenue Public School Request for Proposals - Update and Next Steps
+
+<a id="motion-8-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher)
+
+**Nay (1):** [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 8. STAFF REPORT -
+  Lorne Avenue Public School Request for Proposals - Update and Next Steps
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Failed
 
@@ -651,6 +673,8 @@ Unanimous (5-0)
 ### 8. STAFF REPORT -
   Lorne Avenue Public School Request for Proposals - Update and Next Steps
 
+<a id="motion-8-3" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -660,6 +684,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Lorne Avenue Public School Request for Proposals - Update and Next Steps
+
+<a id="motion-8-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -671,6 +697,8 @@ Unanimous (5-0)
 ### 9. PUBLIC SUBMISSION -
   Request for Designation of the London Taco Fest
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -680,6 +708,8 @@ Unanimous (5-0)
 
 ### 10. COUNCIL MEMBER
   SUBMISSION - Length of Council and Standing Committee Meetings
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -691,6 +721,8 @@ Unanimous (6-0)
 ### 11. ADDED - COUNCIL
   MEMBER SUBMISSION - Administrative Policies
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -700,6 +732,8 @@ Unanimous (5-0)
 
 ### 12. ADDED - PUBLIC
   SUBMISSION - Ombudsman Report
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

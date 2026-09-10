@@ -96,6 +96,8 @@ Recommendation:  That Councillor M. Cassidy
 ### 2. City of London Days
   at Budweiser Gardens - Thames Valley District School Board
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -105,6 +107,8 @@ Unanimous (5-0)
 
 ### 2. City of London Days
   at Budweiser Gardens - Thames Valley District School Board
+
+<a id="motion-2-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

@@ -184,6 +184,8 @@ The meeting adjourned at 5:48 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**

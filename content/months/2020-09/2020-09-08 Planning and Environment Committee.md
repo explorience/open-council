@@ -701,6 +701,8 @@ The meeting adjourned at 6:13 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.3, inclusive, and 2.5 to 2.7, inclusive BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -708,6 +710,8 @@ The meeting adjourned at 6:13 PM.
 Unanimous (4-0)
 
 ### 2.4. Application - 230 North Centre Road (H-9234)
+
+<a id="motion-2-4-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, based on the application by Tricar Properties Limited, relating to the property located at 230 North Centre Road, the proposed by-law appended to the staff report dated September 8, 2020 BE INTRODUCED at the Municipal Council meet...
 
@@ -717,6 +721,8 @@ Unanimous (5-0)
 
 ### 3.1. Application - 1176, 1200, 1230 Hyde Park Road and Portion of 1150 Gainsborough Road 39T-19502 (Z-9040)
 
+<a id="motion-3-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the application by Northwest Crossing London Limited, relating to the property located at 1176, 1200, 1230 Hyde Park Road and a portion of 1150 Gainsborough Road, the proposed revised, attached, by-law BE INTRODUCED at the Municip...
 
 **✅ Motion Passed (6 to 0)**
@@ -724,6 +730,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 3.2. Application - 3557 Colonel Talbot Road (Z-9003)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the application by 1423197 Ontario Inc. (Royal Premier Homes), relating to the property located at 3557 Colonel Talbot Road: a) the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on September 15, 20...
 
@@ -739,6 +747,8 @@ Unanimous (6-0)
 </details>
 
 ### 5.1. Deferred Matters List
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That the Managing Director, Planning and City Planner and the Managing Director, Development and Compliance Services & Chief Building Official BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration, with the exception of Item 4, In...
 

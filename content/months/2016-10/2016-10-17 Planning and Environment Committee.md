@@ -842,6 +842,8 @@ The meeting adjourned at 7:23 PM.
 ### 2. 10th Report of the
   Advisory Committee on the Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -851,6 +853,8 @@ Unanimous (5-0)
 
 ### 3. 9th Report of the
   Trees and Forests Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -862,15 +866,7 @@ Unanimous (5-0)
 ### 4. Property located at
   1959 Wharncliffe Road South (H-8660)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. 10th Report of the
-  London Advisory Committee on Heritage
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -882,15 +878,7 @@ Unanimous (5-0)
 ### 5. 10th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. 10th Report of the
-  London Advisory Committee on Heritage
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -901,6 +889,32 @@ Unanimous (5-0)
 
 ### 5. 10th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-5-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. 10th Report of the
+  London Advisory Committee on Heritage
+
+<a id="motion-5-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. 10th Report of the
+  London Advisory Committee on Heritage
+
+<a id="motion-5-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -919,15 +933,7 @@ Unanimous (5-0)
 ### 6. Byron Gravel Pit
   Secondary Plan Terms of Reference (O-8434)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Byron Gravel Pit
-  Secondary Plan Terms of Reference (O-8434)
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -939,6 +945,20 @@ Unanimous (5-0)
 ### 6. Byron Gravel Pit
   Secondary Plan Terms of Reference (O-8434)
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Byron Gravel Pit
+  Secondary Plan Terms of Reference (O-8434)
+
+<a id="motion-6-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -949,15 +969,7 @@ Unanimous (5-0)
 ### 7. Property located at
   169 Foster Avenue (Z-8651)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. Property located at
-  169 Foster Avenue (Z-8651)
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -969,6 +981,8 @@ Unanimous (4-0)
 ### 7. Property located at
   169 Foster Avenue (Z-8651)
 
+<a id="motion-7-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -978,6 +992,20 @@ Unanimous (4-0)
 
 ### 7. Property located at
   169 Foster Avenue (Z-8651)
+
+<a id="motion-7-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Property located at
+  169 Foster Avenue (Z-8651)
+
+<a id="motion-7-3" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -988,6 +1016,8 @@ Unanimous (4-0)
 
 ### 8. Properties located
   at 1680 Richmond Street and 95 and 97 Fanshawe Park Road East (Z-8652)
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -999,6 +1029,8 @@ Unanimous (3-0)
 ### 8. Properties located
   at 1680 Richmond Street and 95 and 97 Fanshawe Park Road East (Z-8652)
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1008,6 +1040,8 @@ Unanimous (5-0)
 
 ### 8. Properties located
   at 1680 Richmond Street and 95 and 97 Fanshawe Park Road East (Z-8652)
+
+<a id="motion-8-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1019,15 +1053,7 @@ Unanimous (4-0)
 ### 9. Proposed New Sign
   By-law and Amendments to Current Sign and Canopy By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Proposed New Sign
-  By-law and Amendments to Current Sign and Canopy By-law
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1038,6 +1064,20 @@ Unanimous (5-0)
 
 ### 9. Proposed New Sign
   By-law and Amendments to Current Sign and Canopy By-law
+
+<a id="motion-9-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Proposed New Sign
+  By-law and Amendments to Current Sign and Canopy By-law
+
+<a id="motion-9-2" class="motion-anchor"></a>
 
 > Motion   Passed
 

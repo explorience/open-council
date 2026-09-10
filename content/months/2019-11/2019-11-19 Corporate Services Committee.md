@@ -251,6 +251,8 @@ The meeting adjourned at 1:56 PM.
 
 ### 2.1. 2019 Annual Report on Write-Off of Provincial Offences Act (POA) Accounts Receivable
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the Civic Administration BE AUTHORIZED to write-off $52,411.25 in the outstanding Provincial Offences Act (POA) Accounts Receivable, in accordance with the Ministry of the Attorne...
 
 **✅ Motion Passed (6 to 0)**
@@ -258,6 +260,8 @@ The meeting adjourned at 1:56 PM.
 Unanimous (6-0)
 
 ### 5.3. (ADDED) Proposed Change to Municipal Council Meeting to Adopt Budget - March 3, 2020 to March 2, 2020
+
+<a id="motion-5-3-0" class="motion-anchor"></a>
 
 > That the Annual Council and Standing Committee Meeting Calendar BE AMENDED by changing the Municipal Council Meeting, currently scheduled to be held on Tuesday, March 3, 2020 at 4:00 PM, to Monday, March 2, 2020 at 4:00 PM; it being noted that the statutory advertising related to this meeting has...
 

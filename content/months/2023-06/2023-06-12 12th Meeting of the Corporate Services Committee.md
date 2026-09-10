@@ -665,6 +665,8 @@ That's a hand vote. All those in favor? That motion's passed. Thank you, everyon
 
 ### 2.1. 2023-2027 Strategic Advocacy Framework
 
+<a id="motion-2-1-1" class="motion-anchor"></a>
+
 > That part a) of the recommendation BE AMENDED to read as follows: "a)  that the attached, revised, 2023-2027 Strategic Advocacy Framework BE ENDORSED, it being noted that specific notation has been included to specific reference to working with Indigenous organizations and the inclusion of the ex...
 
 **✅ Motion Passed (5 to 0)**
@@ -672,6 +674,8 @@ That's a hand vote. All those in favor? That motion's passed. Thank you, everyon
 Unanimous (5-0)
 
 ### 2.1. 2023-2027 Strategic Advocacy Framework
+
+<a id="motion-2-1-2" class="motion-anchor"></a>
 
 > That the motion, as amended, BE APPROVED, including the following: "it being noted that specific notation was made by the Committee with respect to advocacy regarding the rent control regime and other actions which would be included in the advocacy outcomes identified in the Report."
 
@@ -681,6 +685,8 @@ Unanimous (5-0)
 
 ### 2.3. Declare Surplus - City-Owned Property - 652 Elizabeth Street
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to a City-owned property municipally known as 652 Elizabeth Street, being Part Lot 11, Concession 1, in the City of London, London Township, being part of PIN 08279-0210, and to be further described in a reference plan to be deposited (the “Subject...
 
 **✅ Motion Passed (5 to 0)**
@@ -689,6 +695,8 @@ Unanimous (5-0)
 
 ### 4. Items for Direction
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > That Items 4.1 to 4.3, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -696,6 +704,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Councillor Expense Approval Request
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, notwithstanding current interpretations of the Council Members’ Expense Account Policy, the expense request from Councillor Lewis for a Canada Day Event advertisement, including contact information, in flyers and an on-stage banner in the amount of $300.00, BE APPROVED.
 

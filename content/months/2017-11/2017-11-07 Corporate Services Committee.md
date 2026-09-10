@@ -412,6 +412,8 @@ The meeting adjourned at 4:00 PM.
 ### 2. Advisory Committee
   Member Recognition
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -421,6 +423,8 @@ Unanimous (5-0)
 
 ### 3. FCM Diverse Voices
   for Change Update
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -432,6 +436,8 @@ Unanimous (5-0)
 ### 4. Development Charges
   Rate Monitoring - 2017 Review
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -441,6 +447,8 @@ Unanimous (5-0)
 
 ### 5. 2016 Annual Report -
   Development Charges Reserve Funds
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -452,6 +460,8 @@ Unanimous (5-0)
 ### 6. Pre-Authorized Tax
   Payment Plan By-law and Collection of Property Taxes By-law
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -461,6 +471,8 @@ Unanimous (5-0)
 
 ### 7. Master
   Accommodation Plan
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -472,6 +484,8 @@ Unanimous (5-0)
 ### 8. 2017 Accessibility
   Compliance Report
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -481,6 +495,8 @@ Unanimous (5-0)
 
 ### 9. Equity and
   Inclusion Lens for the Development of Policies, Procedures and Programs
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -492,6 +508,8 @@ Unanimous (5-0)
 ### 10. Confirmation of
   Appointment to the Child Care Advisory Committee
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -501,6 +519,8 @@ Unanimous (5-0)
 
 ### 11. Confirmation of
   Appointment to the Town and Gown Committee
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -512,6 +532,8 @@ Unanimous (5-0)
 ### 12. Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -521,6 +543,8 @@ Unanimous (5-0)
 
 ### 13. Proposed Election
   Sign By-law
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -538,6 +562,8 @@ Unanimous (5-0)
 
 ### 13. Proposed Election
   Sign By-law
+
+<a id="motion-13-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

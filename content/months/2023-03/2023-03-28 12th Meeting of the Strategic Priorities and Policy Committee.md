@@ -461,6 +461,8 @@ The meeting adjourned at 10:09 PM.
 
 ### 1. Disclosures of Pecuniary Interest
 
+<a id="motion-1-0" class="motion-anchor"></a>
+
 > That pursuant to section 27.6 of the Council Procedure by-law, the Committee BE PERMITTED to change the order of business to deal with Item 5.1 prior to Item 4.
 
 **✅ Motion Passed (14 to 0)**
@@ -469,6 +471,8 @@ Unanimous (14-0)
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 and 2.2, BE APPROVED
 
 **✅ Motion Passed (15 to 0)**
@@ -476,6 +480,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 4.1. Council's Draft 2023-2027 Strategic Plan
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > That, the Strategic Area of Focus: Housing and Homelessness, Outcome 3, Expected Result 3.1, BE AMENDED in the 2023-2027 Strategic Plan, to add a new Draft Strategy e) "apply the equity tool considering the people experiencing mobility poverty, consistent with The London Plan". ADDITIONAL VOTES:
 
@@ -494,6 +500,8 @@ Unanimous (15-0)
 
 ### 4.1. Council's Draft 2023-2027 Strategic Plan
 
+<a id="motion-4-1-3" class="motion-anchor"></a>
+
 > That, the Strategic Area of Focus: Economic Growth, Culture and Prosperity, Outcome 4, Expected Result 4.3, Metric b) "sq. ft of commercial space occupied vs vacant, ground level and upper floors, BE REMOVED from the 2023-2027 Strategic Plan".
 
 **❌ Motion Failed (7 to 7) 🔥**
@@ -511,6 +519,8 @@ Unanimous (15-0)
 
 ### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2026.
 
 **✅ Motion Passed (14 to 0)**
@@ -518,6 +528,8 @@ Unanimous (15-0)
 Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
+
+<a id="motion-4-2-1" class="motion-anchor"></a>
 
 > Consideration of appointment to the London Police Services Board.
 
@@ -532,6 +544,8 @@ Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the London Police Services Board (Requires 1 Member)
 
+<a id="motion-4-2-2" class="motion-anchor"></a>
+
 > Consideration of appointment to the London Police Services Board.
 
 **❌ Majority Winner: Ryan Gauss 🔥**
@@ -545,6 +559,8 @@ Unanimous (14-0)
 
 ### 4.3. Request for a Shareholder's Meeting - London & Middlesex Community Housing
 
+<a id="motion-4-3-0" class="motion-anchor"></a>
+
 > That the following actions be taken with respect to the 2022 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing: a)      the 2022 Annual General Meeting of the Shareholder for the London & Middlesex Community Housing BE HELD at a meeting of the Strategic Priori...
 
 **✅ Motion Passed (14 to 0)**
@@ -552,6 +568,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 5.1. (ADDED) Request to Declare a State of Emergency regarding Housing
+
+<a id="motion-5-1-1" class="motion-anchor"></a>
 
 > That the delegations regarding housing BE APPROVED to be heard at this time. ADDITIONAL VOTES:
 

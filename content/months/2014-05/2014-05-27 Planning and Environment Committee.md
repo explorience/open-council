@@ -859,6 +859,8 @@ The
 ### 2. 6th Report of the
   Advisory Committee on the Environment
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -868,6 +870,8 @@ Unanimous (5-0)
 
 ### 3. 6th Report of the
   Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -879,6 +883,8 @@ Unanimous (5-0)
 ### 4. Properties located
   at 1183, 1191, 1199 and 1205 Westdel Bourne (H-8347)
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -888,6 +894,8 @@ Unanimous (5-0)
 
 ### 5. Property located at
   1128 Fanshawe Park Road West
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -900,6 +908,8 @@ Unanimous (5-0)
   the north side of Bradley Avenue between Jackson Road and Meadowgate
   Boulevard - Request for Extension of Draft Approval (39T-07508)
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -909,6 +919,8 @@ Unanimous (5-0)
 
 ### 7. Special Provisions
   - Claybar Subdivision - Phase 3 (39T-04503-3)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -920,6 +932,8 @@ Unanimous (5-0)
 ### 8. Special Provisions
   - White Oaks Subdivision - Phase 3C (39T-02502-3C)
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -929,6 +943,8 @@ Unanimous (5-0)
 
 ### 9. Building Division
   Monthly Report for April 2014
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -940,15 +956,7 @@ Unanimous (5-0)
 ### 10. 6th Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Properties located
-  at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -960,6 +968,8 @@ Unanimous (5-0)
 ### 11. Properties located
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -970,6 +980,20 @@ Unanimous (5-0)
 ### 11. Properties located
   at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Properties located
+  at 360 Crumlin Sideroad and 3301 and 3345 Gore Road (OZ-8188)
+
+<a id="motion-11-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -980,15 +1004,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1565 North Routledge Park (Z-8338)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Property located at
-  1565 North Routledge Park (Z-8338)
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1000,15 +1016,7 @@ Unanimous (5-0)
 ### 12. Property located at
   1565 North Routledge Park (Z-8338)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Hyde Park
-  Industrial Area (O-8340)
+<a id="motion-12-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1017,18 +1025,10 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
-### 13. Hyde Park
-  Industrial Area (O-8340)
+### 12. Property located at
+  1565 North Routledge Park (Z-8338)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Hyde Park
-  Industrial Area (O-8340)
+<a id="motion-12-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1040,6 +1040,8 @@ Unanimous (5-0)
 ### 13. Hyde Park
   Industrial Area (O-8340)
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1049,6 +1051,44 @@ Unanimous (5-0)
 
 ### 13. Hyde Park
   Industrial Area (O-8340)
+
+<a id="motion-13-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Hyde Park
+  Industrial Area (O-8340)
+
+<a id="motion-13-2" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Hyde Park
+  Industrial Area (O-8340)
+
+<a id="motion-13-3" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Hyde Park
+  Industrial Area (O-8340)
+
+<a id="motion-13-4" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1060,15 +1100,7 @@ Unanimous (5-0)
 ### 14. Properties located
   at 283 and 283/ South Street - Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Properties located
-  at 283 and 283/ South Street - Demolition Request
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1080,6 +1112,20 @@ Unanimous (5-0)
 ### 14. Properties located
   at 283 and 283/ South Street - Demolition Request
 
+<a id="motion-14-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Properties located
+  at 283 and 283/ South Street - Demolition Request
+
+<a id="motion-14-2" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1090,15 +1136,7 @@ Unanimous (5-0)
 ### 15. Property located at
   491 Southdale Road West - Demolition Request
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Property located at
-  491 Southdale Road West - Demolition Request
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1109,6 +1147,20 @@ Unanimous (5-0)
 
 ### 15. Property located at
   491 Southdale Road West - Demolition Request
+
+<a id="motion-15-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Property located at
+  491 Southdale Road West - Demolition Request
+
+<a id="motion-15-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -1118,6 +1170,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 16. Property located at 69 Trevithen Street
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

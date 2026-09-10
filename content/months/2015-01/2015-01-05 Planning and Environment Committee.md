@@ -416,6 +416,8 @@ The
 ### 2. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -425,6 +427,8 @@ Unanimous (5-0)
 
 ### 3. Building Division
   Monthly Report for November 2014
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -436,15 +440,7 @@ Unanimous (5-0)
 ### 4. Property located on
   a portion of 120 Gideon Drive (OZ-8365)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. Property located at
-  6421 Wellington Road South (Z-8424)
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -456,6 +452,8 @@ Unanimous (5-0)
 ### 5. Property located at
   6421 Wellington Road South (Z-8424)
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -465,6 +463,20 @@ Unanimous (5-0)
 
 ### 5. Property located at
   6421 Wellington Road South (Z-8424)
+
+<a id="motion-5-1" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Property located at
+  6421 Wellington Road South (Z-8424)
+
+<a id="motion-5-2" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -476,6 +488,8 @@ Unanimous (5-0)
 ### 6. 1st Report of the
   London Advisory Committee on Heritage
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -485,6 +499,8 @@ Unanimous (5-0)
 
 ### 6. 1st Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-6-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -496,6 +512,8 @@ Unanimous (5-0)
 ### 7. 1st Report of the
   Agricultural Advisory Committee
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -506,6 +524,8 @@ Unanimous (5-0)
 ### 8. General Orientation
   - Key Committee Matters
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -515,6 +535,8 @@ Unanimous (4-0)
 
 ### 9. General Orientation
   - Key Committee Matters
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

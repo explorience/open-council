@@ -675,6 +675,8 @@ I see none, and I'm looking forward to a German. Councillor Ferrer is seconded b
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.8 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -682,6 +684,8 @@ I see none, and I'm looking forward to a German. Councillor Ferrer is seconded b
 Unanimous (5-0)
 
 ### 2.9. SS-2024-098 - Single Source Purchase of Energreen Tractor Mower
+
+<a id="motion-2-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken with respect to the staff report, dated April 30, 2024, related to SS-2024-098 for the Single Source Purchase of an Energreen Tractor Mower: a)    approval BE GIVEN to execute a Single Source ...
 
@@ -697,6 +701,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. Tree Planting Plan for Harris Park
+
+<a id="motion-4-1-1" class="motion-anchor"></a>
 
 > Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
 

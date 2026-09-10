@@ -953,6 +953,8 @@ The meeting adjourned at 9:58 PM.
 ### 2. London Community
   Grants Program Innovation and Capital Funding Allocations (2018)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -961,6 +963,8 @@ Unanimous (13-0)
 
 ### 2. London Community
   Grants Program Innovation and Capital Funding Allocations (2018)
+
+<a id="motion-2-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -978,6 +982,8 @@ Unanimous (13-0)
 ### 3. Service Review
   Initiatives 2017 Update
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -985,6 +991,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4. 2019 JUNO Week Bid
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -996,6 +1004,8 @@ Unanimous (14-0)
   Mackie, Medical Officer of Health & CEO, Middlesex-London Health Unit re
   Opioid Crisis in London
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1004,6 +1014,8 @@ Unanimous (13-0)
 
 ### 6. Amendments to
   Consolidated Fees and Charges By-law
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1021,6 +1033,8 @@ Unanimous (13-0)
 ### 6. Amendments to
   Consolidated Fees and Charges By-law
 
+<a id="motion-6-1" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1029,6 +1043,8 @@ Unanimous (12-0)
 
 ### 6. Amendments to
   Consolidated Fees and Charges By-law
+
+<a id="motion-6-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1039,6 +1055,8 @@ Unanimous (12-0)
 ### 7. Shift Rapid Transit
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
+
+<a id="motion-7-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1049,6 +1067,8 @@ Unanimous (14-0)
 ### 7. Shift Rapid Transit
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
+
+<a id="motion-7-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1067,6 +1087,8 @@ Unanimous (14-0)
   Environmental Assessment Project Management Plan, Communications Plan and
   Consulting Fees Amendment
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1076,6 +1098,8 @@ Unanimous (12-0)
 ### 8. 4th Report of the
   Governance Working Group
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1084,6 +1108,8 @@ Unanimous (13-0)
 
 ### 9. 5th Report of the
   Governance Working Group
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1095,6 +1121,8 @@ Unanimous (13-0)
   Second Term Appointment to the Greater London International Airport
   Authority Board of Directors - Bill Graham
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1104,6 +1132,8 @@ Unanimous (13-0)
 ### 11. Request for a
   Second Term Appointment to the University of Western Ontario's Board of
   Governors - Michael Lerner
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1115,6 +1145,8 @@ Unanimous (10-0)
   Reappointment to the Lower Thames Valley Conservation Authority - Stan
   Caveney
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1124,6 +1156,8 @@ Unanimous (13-0)
 ### 13. Request for 1 Year
   Reappointment to the Kettle Creek Conservation Authority - Councillor J.
   Zaifman, Bill Mackie and Ralph Winfield
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1135,6 +1169,8 @@ Unanimous (13-0)
   Reappointment to the Upper Thames River Conservation Authority - Councillor
   A. Hopkins, Marie Blosh, Sandy Levin and Murray Blackie
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1144,6 +1180,8 @@ Unanimous (13-0)
 ### 15. Establishment of
   Working Group - Strengthening Relationships with Indigenous Peoples
 
+<a id="motion-15-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1152,6 +1190,8 @@ Unanimous (12-0)
 
 ### 16. Amazon HQ2 Request
   for Proposal
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > Motion Passed
 

@@ -176,6 +176,8 @@ The Corporate Services Committee convened
   for Land Leases for City-Owned Land in the Vicinity of the W12A Landfill and
   Resource Recovery Area
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -185,6 +187,8 @@ Unanimous (5-0)
 
 ### 3. Employee
   Absenteeism 2014 Mid-Year Review Update
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -196,6 +200,8 @@ Unanimous (5-0)
 ### 4. Ministerial
   Delegations, AMO Annual General Meeting, Conference and Trade Show 2014
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -206,6 +212,8 @@ Unanimous (5-0)
 ### 5. Pre-Budget
   Submission to the Federal Standing Committee on Finance
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -215,6 +223,8 @@ Unanimous (5-0)
 
 ### 6. Consideration of
   Appointments to the Accessibility Advisory Committee
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

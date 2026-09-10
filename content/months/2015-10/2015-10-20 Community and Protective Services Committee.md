@@ -660,15 +660,7 @@ Motion
 ### 2. 3rd Report of the
   Town and Gown Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 3. 4th Report of the
-  Community Safety and Crime Prevention Advisory Committee
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -679,6 +671,20 @@ Unanimous (5-0)
 
 ### 3. 4th Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<a id="motion-3-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 3. 4th Report of the
+  Community Safety and Crime Prevention Advisory Committee
+
+<a id="motion-3-1" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -691,6 +697,8 @@ Unanimous (5-0)
   Affordable Housing (IAH) Program (2014 Extension) Update to Proposal for It's
   Our Home, 193 Clarke Road, London
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -700,6 +708,8 @@ Unanimous (5-0)
 
 ### 6. London's Homeless
   Prevention System Street Level Women at Risk Prevention Program (RFP 15-47)
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -711,6 +721,8 @@ Unanimous (5-0)
 ### 7. Supply and Delivery
   of Protective Coat and Trousers (Bunker Gear) for Structural Firefighting (RFP 15-39)
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -720,6 +732,8 @@ Unanimous (5-0)
 
 ### 8. Age-Friendly London
   Year Two Progress Report
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -731,6 +745,8 @@ Unanimous (5-0)
 ### 9. E-bikes on
   Sidewalks
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -740,6 +756,8 @@ Unanimous (5-0)
 
 ### 10. 6th Report of the
   Animal Welfare Advisory Committee
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Voting   Record:   Motion   to approve delegations requests.   Motion   Passed
 
@@ -751,6 +769,8 @@ Unanimous (4-0)
 ### 11. 9th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-11-0" class="motion-anchor"></a>
+
 > Voting   Record:   Motion   to approve 9th Report of LDRRAC excluding clause 13.   Motion   Passed
 
 **✅ Motion
@@ -759,6 +779,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 12. Chained Dog By-law
+
+<a id="motion-12-0" class="motion-anchor"></a>
 
 > Voting   Record:   Motion   to approve delegation request.   Motion   Passed
 
@@ -777,6 +799,8 @@ Unanimous (4-0)
 ### 13. Request for
   Proposal 15-03 Driver Simulator - Follow-Up Report
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -787,15 +811,7 @@ Unanimous (5-0)
 ### 14. Community Connections
   – Westminster Working Group
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Deferred Matters
-  List
+<a id="motion-14-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -806,6 +822,20 @@ Unanimous (5-0)
 
 ### 15. Deferred Matters
   List
+
+<a id="motion-15-0" class="motion-anchor"></a>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Deferred Matters
+  List
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Motion   Passed
 

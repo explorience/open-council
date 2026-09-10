@@ -1398,6 +1398,8 @@ Motion Passed
   Ridley - Association of Municipalities of Ontario - Long-Term Care and
   Age-Friendly Communities Task Force
 
+<a id="motion-1-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1406,6 +1408,8 @@ Unanimous (14-0)
 
 ### 1#8. Disclosures of
   Pecuniary Interest
+
+<a id="motion-1-8-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1416,6 +1420,8 @@ Unanimous (14-0)
 
 ### 1#9. Disclosures of Pecuniary Interest
 
+<a id="motion-1-9-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1423,6 +1429,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 1#9. Disclosures of Pecuniary Interest
+
+<a id="motion-1-9-1" class="motion-anchor"></a>
 
 > Approve that the Committee of the Whole   resume, in camera, at 6:11 PM.
 
@@ -1432,6 +1440,8 @@ Unanimous (14-0)
 
 ### 1#9. Disclosures of Pecuniary Interest
 
+<a id="motion-1-9-3" class="motion-anchor"></a>
+
 > Approve that, as a procedural matter pursuant to Section 239 (6) of the   Municipal Act, 2001, the following recommendation be forwarded to City   Council for deliberation and a vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer...
 
 **✅ Motion Passed**
@@ -1440,6 +1450,8 @@ Unanimous (12-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following   matters:
 
@@ -1451,6 +1463,8 @@ Unanimous (14-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-NINTH MEETING HELD ON NOVEMBER 10,
   2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 29th Meeting   held on November 10, 2015.
 
 **✅ Motion Passed**
@@ -1458,6 +1472,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-3" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading of   Bill No. 405.
 
@@ -1474,6 +1490,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-4" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 405.
 
 **✅ Motion Passed**
@@ -1488,6 +1506,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-5" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of Bill   No. 405.
 
@@ -1504,6 +1524,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-9" class="motion-anchor"></a>
+
 > Approve that pursuant to section 13.6 of   the Council Procedure By-law, Bill No. 397 be reconsidered, in order to   provide for the Bill to be voted on again due to a pecuniary interest.
 
 **✅ Motion Passed**
@@ -1513,6 +1535,8 @@ Unanimous (14-0)
 ### 7. Property located at
   800 Sunningdale Road West - Draft Approved Plan 39T-05508 - Sunningdale Golf
   Club Limited (39T-05508/Z-8515) (Relates to Bill No. 405)
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Senior   Planner, Development Planning, the following actions be taken with respect to   the request from Sunningdale Golf Club Limited, relating to the property   located at 800 Sunningdale Road West:   a)        the   Approval Authority BE ADVISED that the Mun...
 
@@ -1530,6 +1554,8 @@ Unanimous (14-0)
 ### 12. Single Source
   Procurement - Municipal Parking Enforcement Service (T 15-38)
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Development and Compliance Services and Chief Building Official,   the following actions be taken with respect to the provision of Municipal   Parking Enforcement Services:   a)        the   tender submitted by Commissionaires Great Lakes (C...
 
 **✅ Motion Passed**
@@ -1545,6 +1571,8 @@ Unanimous (14-0)
 
 ### 13. Radio System Update
   Onevoice 2.0 (Relates to Bill No. 394)
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director Corporate Services and City Treasurer, Chief Financial Officer, with   concurrence of the Managing Director, Neighbourhood, Children and Fire   Services, the Managing Director, Environmental and Engineering Services and   City Engineer, and t...
 

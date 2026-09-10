@@ -707,6 +707,8 @@ Thank you. - Thank you.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.2 to 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -715,6 +717,8 @@ Unanimous (5-0)
 
 ### 2.1. 420 Fanshawe Park Road East (H-9320)
 
+<a id="motion-2-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, with respect to the application by 2431602 Ontario Limited, relating to the property located at 420 Fanshawe Park Road East, the proposed by-law appended to the staff report dated April 26, 2021 as Appendix “A” BE INTRODUCED at th...
 
 **✅ Motion Passed (6 to 0)**
@@ -722,6 +726,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 3.1. 3rd Report of the Environmental and Ecological Planning Advisory Committee
+
+<a id="motion-3-1-1" class="motion-anchor"></a>
 
 > Motion to approve the following: "c) the Civic Administration BE REQUESTED to report back at a future Planning and Environment Committee meeting with respect to the feasibility of continuing with the homeowner education package as part of Special Provisions or to replace it with a requirement to ...
 

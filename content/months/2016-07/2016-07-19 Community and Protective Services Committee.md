@@ -697,6 +697,8 @@ That the Community and Protective Services
 ### 8. Response/Update to
   Resolutions Concerning Public Safety Matters
 
+<a id="motion-8-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -714,6 +716,8 @@ That the Community and Protective Services
 ### 9. Compassionate
   Cities Initiative Update
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -725,6 +729,8 @@ Unanimous (4-0)
   Service Manager Administration Agreement for the 2016 Social Infrastructure
   Fund (SIF) and Pending Assignment to HDC
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -735,6 +741,8 @@ Unanimous (4-0)
 ### 12. Dr. C. Mackie,
   Medical Officer of Health and CEO, Middlesex London Health Unit
 
+<a id="motion-12-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -744,6 +752,8 @@ Unanimous (4-0)
 
 ### 13. 6th Report of the
   London Diversity and Race Relations Advisory Committee
+
+<a id="motion-13-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -762,6 +772,8 @@ Unanimous (4-0)
 ### 14. 6th Report of the
   Accessibility Advisory Committee
 
+<a id="motion-14-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -771,6 +783,8 @@ Unanimous (4-0)
 
 ### 15. Vehicle for Hire
   By-law - Proposed Regulations
+
+<a id="motion-15-1" class="motion-anchor"></a>
 
 > Motion   to Approve report receipt and direction to prepare a by-law.
 
@@ -788,6 +802,8 @@ Unanimous (4-0)
 ### 16. Informal
   Residential Care Facility Licensing By-law
 
+<a id="motion-16-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -797,6 +813,8 @@ Unanimous (4-0)
 
 ### 17. Thames Valley
   Parkway North Branch Connection Class Environmental Assessment
+
+<a id="motion-17-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -808,6 +826,8 @@ Unanimous (4-0)
 ### 18. The Charter for
   Inclusive Communities
 
+<a id="motion-18-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -817,6 +837,8 @@ Unanimous (4-0)
 
 ### 19. Deferred Matters
   List
+
+<a id="motion-19-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -828,6 +850,8 @@ Unanimous (4-0)
 ### 20. (ADDED) 7th Report
   of the London Housing Advisory Committee
 
+<a id="motion-20-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -838,6 +862,8 @@ Unanimous (4-0)
 ### 21. (ADDED) STAFF
   REPORT - 2019 IIHF World Junior Ice Hockey Championship Joint Bid
   London/Windsor
+
+<a id="motion-21-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

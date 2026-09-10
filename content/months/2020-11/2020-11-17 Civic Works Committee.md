@@ -361,6 +361,8 @@ The meeting adjourned at 1:34 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.8 and 2.10 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -368,6 +370,8 @@ The meeting adjourned at 1:34 PM.
 Unanimous (5-0)
 
 ### 2.9. Active Transportation Infrastructure Plan
+
+<a id="motion-2-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer and the Managing Director, Parks and Recreation, the following actions be taken with respect to the staff report dated November 17, 2020, related to the Active Transportation Infrastruct...
 
@@ -385,6 +389,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. Blue Community Project/Movement - L. Brown, Blue Community Committee - Request for Delegation Status
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the request for delegation status from L. Brown, Blue Community Committee, with respect to the Blue Community Project/Movement BE APPROVED for a future meeting of the Civic Works Committee; it being noted that the Civic Administration will bring forward a staff report to coincide with the ab...
 

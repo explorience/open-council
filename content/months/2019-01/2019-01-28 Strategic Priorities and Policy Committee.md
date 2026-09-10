@@ -166,6 +166,8 @@ The meeting adjourned at 4:39 PM.
 
 ### 5.1. ADDED - Public Wi-Fi in Recreation Facilities
 
+<a id="motion-5-1-0" class="motion-anchor"></a>
+
 > That the public provision of Wi-Fi in recreation facilities, particularly in areas with existing appropriate network connectivity, BE INCLUDED in the draft 2019-2023 Strategic Plan.
 
 **✅ Motion Passed (12 to 1)**
@@ -183,6 +185,8 @@ The meeting adjourned at 4:39 PM.
 
 ### 5.2. ADDED - Enhanced Winter Maintenance
 
+<a id="motion-5-2-0" class="motion-anchor"></a>
+
 > That a new strategy entitled “Improve Residents’ Satisfaction with winter road and sidewalk maintenance” BE ADDED to Leading in Public Service (LPS) Outcome 2 - Londoners experience exceptional and valued customer service, subsection C - Increase efficiency and effectiveness of service delivery, ...
 
 **✅ Motion Passed (14 to 0)**
@@ -190,6 +194,8 @@ The meeting adjourned at 4:39 PM.
 Unanimous (14-0)
 
 ### 6. Adjournment
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > That the meeting adjourn.
 

@@ -784,6 +784,8 @@ Thanks for your work today.
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > That an additional Public Participation Meeting related to the development of 2023-2027 Strategic Plan, BE SCHEDULED to be held at the February 7, 2023 meeting of the Strategic Priorities and Policy Committee.
 
 **❌ Motion Failed (7 to 8) 🔥**
@@ -798,6 +800,8 @@ Thanks for your work today.
 </details>
 
 ### 4.1. Developing the 2023-2027 Strategic Plan: Setting the Vision, Mission, Values, Strategic Areas of Focus, Outcomes and Expected Results
+
+<a id="motion-4-1-2" class="motion-anchor"></a>
 
 > That next steps, including consideration of strategic areas of focus, outcomes and expected results, with respect to the work for the 2023 - 2027 Strategic Plan BE REFERRED to a special meeting of the Strategic Priorities and Policy Committee, to be held on Monday, January 23, 2023 at 4:00 PM.
 

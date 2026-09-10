@@ -990,6 +990,8 @@ and due to caps running long I was unable to attend thank you to the deputy mayo
 
 ### 4.1. Confirmation of Appointment to the Community and Protective Services Committee
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That the following appointments BE MADE to the Community and Protective Services Committee for the term December 1, 2024 to November 30, 2025: Councillor J. Pribil  Councillor S. Trosow it being noted that Councillor D. Ferreira was appointed as Chair and Councillor H. McAlister as Vice Chair by ...
 
 **✅ Motion Passed (14 to 0)**
@@ -997,6 +999,8 @@ and due to caps running long I was unable to attend thank you to the deputy mayo
 Unanimous (14-0)
 
 ### 4.2. Consideration of Appointment to the Court of Revision (Requires 1 New Member)
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That Madelyn Hertz BE APPOINTED to the Court of Revision for the term ending November 14, 2026.
 
@@ -1006,6 +1010,8 @@ Unanimous (14-0)
 
 ### 4.4. Police Vehicle and Equipment Requirements Motion - Budget Chair E. Peloza
 
+<a id="motion-4-4-0" class="motion-anchor"></a>
+
 > That the London Police Services Board and the London Chief of Police BE REQUESTED to engage in a conversation to explore the process, legislation and any related matters pertaining to the possibility of a partial or full donation of a Light Armoured Vehicle for integration into the London Police ...
 
 **✅ Motion Passed (14 to 0)**
@@ -1013,6 +1019,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<a id="motion-4-5-1" class="motion-anchor"></a>
 
 > That the communication dated November 6, 2024 with respect to Community Advisory Committees from Deputy Mayor S. Lewis and Councillor C. Rahman BE REFFERED to the next meeting of the Governance Work Group.
 
@@ -1031,6 +1039,8 @@ Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
 
+<a id="motion-4-5-2" class="motion-anchor"></a>
+
 > That the motion be amended to change the direction to BE REVIEWED in part d), part e), and part f).
 
 **❌ Motion Failed (2 to 11)**
@@ -1047,6 +1057,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<a id="motion-4-5-3" class="motion-anchor"></a>
 
 > That part d) of the motion be approved and read as follows: d)     the Animal Welfare Community Advisory Committee BE DISSOLVED effective April 2025, and update the Environmental Stewardship and Action Community Advisory Committee’s terms of reference to include: responsibilities related to the w...
 
@@ -1065,6 +1077,8 @@ Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
 
+<a id="motion-4-5-4" class="motion-anchor"></a>
+
 > That part e) and part f) be approved and read as follows: e)     the Ecological Community Advisory Committee BE DISSOLVED effective April 2025, and an Ecological Reference Group BE ESTABLISHED by Q2 2025 to provide technical advice on matters related to the City of London’s Official Plan, includi...
 
 **✅ Motion Passed (11 to 2)**
@@ -1081,6 +1095,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<a id="motion-4-5-5" class="motion-anchor"></a>
 
 > That the following it being noted part of the motion be approved:  it being noted that the Strategic Priorities and Policy Committee received communications from the following with respect to this matter:  -    a communication dated November 17, 2024 from A. Blosh.
 
@@ -1099,6 +1115,8 @@ Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
 
+<a id="motion-4-5-6" class="motion-anchor"></a>
+
 > That the balance of the motion be approved.
 
 **✅ Motion Passed (12 to 1)**
@@ -1115,6 +1133,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<a id="motion-4-5-7" class="motion-anchor"></a>
 
 > That the delegation request from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee BE APPROVED to be heard at this time.
 
@@ -1133,6 +1153,8 @@ Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
 
+<a id="motion-4-5-8" class="motion-anchor"></a>
+
 > That pursuant to section 35.10 of the Council Procedure By-law, the Strategic Priorities and Policy Committee decision with respect to item 4.5 having to do with receiving a communication from M. Blosh BE RECONSIDERED to provide for another vote.
 
 **✅ Motion Passed (12 to 1)**
@@ -1149,6 +1171,8 @@ Unanimous (14-0)
 </details>
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
+
+<a id="motion-4-5-9" class="motion-anchor"></a>
 
 > That the following it being noted part of the motion be approved:  it being noted that the Strategic Priorities and Policy Committee received communications from the following with respect to this matter:  -    a communication dated November 17, 2024 from A. Blosh.
 
@@ -1167,6 +1191,8 @@ Unanimous (14-0)
 
 ### 4.5. Community Advisory Committee Motion - Councillor C. Rahman and Deputy Mayor S. Lewis
 
+<a id="motion-4-5-10" class="motion-anchor"></a>
+
 > it being further noted that the Strategic Priorities and Policy Committee heard a verbal delegation from B. Samuels, Chair, Environmental Stewardship and Action Community Advisory Committee with respect to this matter.
 
 **✅ Motion Passed (13 to 0)**
@@ -1174,6 +1200,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+<a id="motion-4-6-1" class="motion-anchor"></a>
 
 > That the motion be amended to include a new part vi) to read as follows: That the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to Nov...
 
@@ -1183,6 +1211,8 @@ Unanimous (13-0)
 
 ### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
 
+<a id="motion-4-6-2" class="motion-anchor"></a>
+
 > That part iv) of the motion be approved and read as follows: iv)    Standing Committee Service: Clarify that each Councillor shall serve on standing committees in addition to the Strategic Priorities and Policy Committee, ensuring all standing committee positions are filled; and
 
 **✅ Motion Passed (13 to 0)**
@@ -1190,6 +1220,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+<a id="motion-4-6-3" class="motion-anchor"></a>
 
 > That part v) of the motion be approved and read as follows:  v)     Efficient Meeting Management: Provide for the option to “Put the Question” at committees where all of Council constitutes the membership;  it being noted that the Strategic Priorities and Policy Committee (SPPC) receive a communi...
 
@@ -1208,6 +1240,8 @@ Unanimous (13-0)
 
 ### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
 
+<a id="motion-4-6-4" class="motion-anchor"></a>
+
 > That part vi), as amended, be approved and read as follows: vi) that the approved 2025 meeting calendar BE AMENDED by rescheduling the November 11th, 2025 meeting of the Planning and Environment Committee to November 12th, and the November 12th, 2025 meeting of the Audit Committee to November 19th;
 
 **✅ Motion Passed (13 to 0)**
@@ -1215,6 +1249,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 4.6. Amendments to the Council Procedure By-law Motion - Deputy Mayor S. Lewis, Budget Chair E. Peloza and Councillors S. Lehman and C. Rahman
+
+<a id="motion-4-6-5" class="motion-anchor"></a>
 
 > That the balance of the motion, as amended, be approved.
 

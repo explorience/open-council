@@ -438,6 +438,8 @@ with the Planning and Environment Committee.
 
 ### 2.3. Declare Surplus - City-Owned Property - Public Walkway South of 10 Rossmore Court
 
+<a id="motion-2-3-0" class="motion-anchor"></a>
+
 > That the staff report dated October 23, 2023 regarding the declaration of surplus city owned property – Public Walkway South of 10 Rossmore Court, BE REFERRED to a future meeting of Corporate Services Committee for consideration to allow for community engagement.
 
 **✅ Motion Passed (5 to 0)**
@@ -445,6 +447,8 @@ with the Planning and Environment Committee.
 Unanimous (5-0)
 
 ### 4.1. Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds
+
+<a id="motion-4-1-0" class="motion-anchor"></a>
 
 > That the application of the City of London’s share of Middlesex-London Health Unit's (MLHU) 2022 surplus in the amount of $423,548 to reduce the outstanding amount of MLHU’s variable bank loan for the fit-out of the Citi Plaza office space BE APPROVED; it being noted that the Corporate Services C...
 
@@ -463,6 +467,8 @@ Unanimous (5-0)
 
 ### 4.1. Delegation - Emily Williams, CEO and David Jansseune, Assistant Director, Finance, Middlesex-London Health Unit - Request for Redirection of 2022 Surplus Funds
 
+<a id="motion-4-1-1" class="motion-anchor"></a>
+
 > Motion to receive the delegation from Emily Williams, CEO, Middlesex-London Health Unit
 
 **✅ Motion Passed (5 to 0)**
@@ -470,6 +476,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Application - Issuance of Proclamation - Hindu Heritage Month
+
+<a id="motion-4-2-0" class="motion-anchor"></a>
 
 > That based on the application dated October 12, 2023 from Hindu Legacy, the month of November 2023 BE PROCLAIMED Hindu Heritage Month.
 

@@ -1701,6 +1701,8 @@ Passed.
 ### 10#3. Property located at
   161 Windermere Road
 
+<a id="motion-10-3-0" class="motion-anchor"></a>
+
 > Approve that clause 10 be amended by   adding the following words at the end of part a):  “it being noted that   Municipal Council would have preferred to have been provided the opportunity to   determine the zoning as in accordance with the recommendations of the Civic   Administration;”
 
 **✅ Motion Passed**
@@ -1709,6 +1711,8 @@ Unanimous (13-0)
 
 ### 10#3. Property located at
   161 Windermere Road
+
+<a id="motion-10-3-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1719,6 +1723,8 @@ Unanimous (13-0)
 ### 11#3. Deferred Matters
   List
 
+<a id="motion-11-3-0" class="motion-anchor"></a>
+
 > Motion to Approve parts a) and b) of clause   11 is put.
 
 **✅ Motion Passed**
@@ -1727,6 +1733,8 @@ Unanimous (13-0)
 
 ### 11#3. Deferred Matters
   List
+
+<a id="motion-11-3-1" class="motion-anchor"></a>
 
 > Motion to Approve part c) of clause 11 is   put.
 
@@ -1743,6 +1751,8 @@ Unanimous (13-0)
 
 ### 11#4. Orientation – Tax Policy
 
+<a id="motion-11-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1751,6 +1761,8 @@ Unanimous (12-0)
 
 ### 12#3. Possible Amendments
   to the Tree Conservation By-law and Site Alteration By-law
+
+<a id="motion-12-3-0" class="motion-anchor"></a>
 
 > That Planning and Legal Staff BE DIRECTED   to make it a high priority on their work program to review and, as necessary,   bring forward changes to the Tree Conservation By-law and the Site Alteration   By-law, as soon as possible.
 
@@ -1761,6 +1773,8 @@ Unanimous (13-0)
 ### 14#2. Parking Sign at 35
   Stirrup Court
 
+<a id="motion-14-2-0" class="motion-anchor"></a>
+
 > That NO ACTION BE TAKEN with respect to the   request for delegation status from M. D'Andrea with respect to the parking   sign at 35 Stirrup Court.
 
 **✅ Motion Passed**
@@ -1769,6 +1783,8 @@ Unanimous (13-0)
 
 ### 2#2. Year 2015 Tax
   Policy
+
+<a id="motion-2-2-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1786,6 +1802,8 @@ Unanimous (13-0)
 ### 3#2. Contract Award:
   2015 Arterial Road  Rehabilitation Project Contract #2 (Tender # 15-23)
 
+<a id="motion-3-2-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the award of the 2015 Arterial   Road Rehabilitation Contract #2:   a)         the   bid submitted by Coco Paving Inc., at its tendere...
 
 **✅ Motion Passed**
@@ -1795,6 +1813,8 @@ Unanimous (13-0)
 ### 5#4. Investing in the Arts – Building a New
   Collaborative Orchestra Model – “WE PLAY ON” Performance Fund and
   Reallocation of Community Arts Investment Program (CAIP) Arts Funding
+
+<a id="motion-5-4-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -1813,6 +1833,8 @@ Unanimous (13-0)
   to the London Downtown Business Association for the term ending November 30,
   2018
 
+<a id="motion-8-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1821,6 +1843,8 @@ Unanimous (11-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<a id="motion-v-0" class="motion-anchor"></a>
 
 > MOTION FOR IN CAMERA SESSION
 
@@ -1831,6 +1855,8 @@ Unanimous (13-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TENTH MEETING HELD ON MARCH 31, 2015
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the Tenth   Meeting, held on March 31, 2015.
 
 **✅ Motion Passed**
@@ -1839,6 +1865,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<a id="motion-xii-0" class="motion-anchor"></a>
 
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an emergent   motion regarding a request from Bethanys Hope Foundation and Jones   Entertainment Group to amend the 2015 Special Events Policies &   Procedures Manual to provide for the...
 
@@ -1849,6 +1877,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<a id="motion-xii-1" class="motion-anchor"></a>
+
 > Approve that the following actions be taken with   respect to the request from Bethanys Hope Foundation and Jones Entertainment   Group to amend the 2015 Special Events Policies & Procedures Manual to   provide for the use of Harris Park for five consecutive days (July 14 to July   18, 2015) for ...
 
 **✅ Motion Passed**
@@ -1856,6 +1886,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-4" class="motion-anchor"></a>
 
 > Approve Introduction and First Reading   of Bill No. 149.
 
@@ -1872,6 +1904,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<a id="motion-xiii-5" class="motion-anchor"></a>
+
 > Approve Second Reading of Bill No. 149.
 
 **✅ Motion Passed**
@@ -1886,6 +1920,8 @@ Unanimous (13-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<a id="motion-xiii-6" class="motion-anchor"></a>
 
 > Approve Third Reading and Enactment of   Bill No. 149
 
@@ -1903,6 +1939,8 @@ Unanimous (13-0)
 ### 6. 2014 Compliance
   Report in Accordance with the Procurement of Goods and Services Policy
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1911,6 +1949,8 @@ Unanimous (11-0)
 
 ### 8. Annual Meeting
   Calendar
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Amend clause 8 by revising the annual   meeting calendar as follows:   i)          by deleting all Audit Committee meetings included on the proposed meeting   calendar; it being noted that those meeting dates will likely be proposed in   the third or fourth quarter of this year; and   ii)       b...
 
@@ -1921,6 +1961,8 @@ Unanimous (13-0)
 ### 8. Annual Meeting
   Calendar
 
+<a id="motion-8-1" class="motion-anchor"></a>
+
 > Approve clause 8, as amended.
 
 **✅ Motion Passed**
@@ -1929,6 +1971,8 @@ Unanimous (13-0)
 
 ### 11. London Youth
   Advisory Council - Advisory Committee Appointments
+
+<a id="motion-11-0" class="motion-anchor"></a>
 
 > Approve that clause 11 be amended in the   third line by adding the words “, the Advisory Committee on the Environment”   prior to the word “and”.
 
@@ -1939,6 +1983,8 @@ Unanimous (12-0)
 ### 11. London Youth
   Advisory Council - Advisory Committee Appointments
 
+<a id="motion-11-1" class="motion-anchor"></a>
+
 > Approve clause 11, as amended.
 
 **✅ Motion Passed**
@@ -1947,6 +1993,8 @@ Unanimous (12-0)
 
 ### 16. Confirmation of
   Appointment to the Community Safety and Crime Prevention Advisory Committee
+
+<a id="motion-16-0" class="motion-anchor"></a>
 
 > That Sheila Amri representing Youth between   the ages of 18 and 25 BE CONFIRMED as a Voting Member to the Community Safety   and Crime Prevention Advisory Committee for the term ending February 28,   2019.
 

@@ -524,6 +524,8 @@ The meeting adjourned at 7:06 PM
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That items 2.2, 2.3. 2.6-2.11, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -531,6 +533,8 @@ The meeting adjourned at 7:06 PM
 Unanimous (5-0)
 
 ### 2.1. Southdale Road West and Wickerson Road Improvements Environmental Study Report
+
+<a id="motion-2-1-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Southdale Road West / Wickerson Road Improvements Environmental Assessment: a)    Southdale Road West / Wickerson Road Improvements En...
 
@@ -540,6 +544,8 @@ Unanimous (5-0)
 
 ### 2.4. Contract Award - Tender No. 19-15 - 2019 Infrastructure Renewal Program - Downtown Sewer Separation Phase 2 Project
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the award of contracts for the 2019 Infrastructure Renewal Program Downtown Sewer Separation Phase 2 Project: a)       the bid submitted b...
 
 **✅ Motion Passed (5 to 0)**
@@ -547,6 +553,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.5. Agreement Extension with Trojan Technologies for the Use of the Decommissioned Westminster Wastewater Plant
+
+<a id="motion-2-5-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing Director Environmental and Engineering Services and City Engineer, the proposed By-law as appended to the staff report dated February 20, 2019 BE INTRODUCED at the Municipal Council Meeting of March 5, 2019 to: a)      approve the Amending Agreement wit...
 
@@ -556,6 +564,8 @@ Unanimous (5-0)
 
 ### 4.1. Street Light Local Improvements Process
 
+<a id="motion-4-1-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, an annual New Street Light Local Improvement Program with a 50% cost sharing, 100% City and 1/3 property owner with abutting property owners BE CONSIDERED alongside other investment pri...
 
 **✅ Motion Passed (5 to 0)**
@@ -564,6 +574,8 @@ Unanimous (5-0)
 
 ### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
 
+<a id="motion-4-2-1" class="motion-anchor"></a>
+
 > That D. Hall, J. Pastorius and G. Gallacher BE GRANTED delegation status.
 
 **✅ Motion Passed (5 to 0)**
@@ -571,6 +583,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
+
+<a id="motion-4-2-2" class="motion-anchor"></a>
 
 > That the temporary bike lane for King Street, scheduled for installation in 2019, BE DEFERRED until such time as the Municipal Council has made decisions regarding the rapid transit project, pending the above-noted Council decisions related to transit projects, the matter of temporary King Street...
 
@@ -588,6 +602,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.2. Downtown OEV East - West Bikeway Corridor Evaluation
+
+<a id="motion-4-2-3" class="motion-anchor"></a>
 
 > That the matter of the Downtown OEV East-West Bikeway BE REFERRED back to the staff in order to have further consultation related to a viable Dundas Street corridor solution.
 

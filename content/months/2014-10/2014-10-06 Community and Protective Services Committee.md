@@ -271,6 +271,8 @@ The Community and Protective Services
 ### 2. 4th Report of the
   Child Care Advisory Committee
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -280,6 +282,8 @@ Unanimous (4-0)
 
 ### 3. Ontario Works
   Participant Profile-July 2014
+
+<a id="motion-3-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -291,6 +295,8 @@ Unanimous (4-0)
 ### 4. 5th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -300,6 +306,8 @@ Unanimous (4-0)
 
 ### 5. 5th Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Motion   Passed
 
@@ -311,6 +319,8 @@ Unanimous (4-0)
 ### 6. 8th Report of the
   Accessibility Advisory Committee
 
+<a id="motion-6-0" class="motion-anchor"></a>
+
 > Motion   Passed
 
 **✅ Motion
@@ -320,6 +330,8 @@ Unanimous (4-0)
 
 ### 7. Taxicab and
   Limousine Licensing By-law - Fare Review
+
+<a id="motion-7-0" class="motion-anchor"></a>
 
 > Motion   Passed
 

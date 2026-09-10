@@ -618,14 +618,7 @@ Motion Passed
 ### 2. Strategic Plan -
   Semi-Annual Progress Report
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### 3. London Hydro Inc. -
-  2015 Annual Meeting of the Shareholder
+<a id="motion-2-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -636,6 +629,8 @@ Unanimous (12-0)
 ### 3. London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -644,6 +639,19 @@ Unanimous (12-0)
 
 ### 3. London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
+
+<a id="motion-3-1" class="motion-anchor"></a>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 3. London Hydro Inc. -
+  2015 Annual Meeting of the Shareholder
+
+<a id="motion-3-2" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -654,6 +662,8 @@ Unanimous (13-0)
 ### 3. London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
 
+<a id="motion-3-3" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -662,6 +672,8 @@ Unanimous (13-0)
 
 ### 3. London Hydro Inc. -
   2015 Annual Meeting of the Shareholder
+
+<a id="motion-3-4" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -672,6 +684,8 @@ Unanimous (13-0)
 ### 4. London &
   Middlesex Housing Corporation (LMHC) - 2015 Annual Meeting of the Shareholder
 
+<a id="motion-4-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -680,6 +694,8 @@ Unanimous (13-0)
 
 ### 4. London &
   Middlesex Housing Corporation (LMHC) - 2015 Annual Meeting of the Shareholder
+
+<a id="motion-4-1" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -697,6 +713,8 @@ Unanimous (13-0)
 ### 5. Interim Report to
   Council - 2016 Council Compensation Review Task Force
 
+<a id="motion-5-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -705,6 +723,8 @@ Unanimous (13-0)
 
 ### 6. Notice of Application
   - London Police Service Board
+
+<a id="motion-6-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -715,6 +735,8 @@ Unanimous (13-0)
 ### 7. A London for All -
   I. Mathyssen, MP
 
+<a id="motion-7-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -723,6 +745,8 @@ Unanimous (13-0)
 
 ### 8. Greater London
   International Airport Authority Nominees
+
+<a id="motion-8-0" class="motion-anchor"></a>
 
 > Motion Passed
 
@@ -734,6 +758,8 @@ Unanimous (13-0)
   Appointment to the Argyle Business Improvement Association Board of
   Management
 
+<a id="motion-9-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -742,6 +768,8 @@ Unanimous (13-0)
 
 ### 10. Tourism London Bid
   – 2018 Ontario Summer Games
+
+<a id="motion-10-0" class="motion-anchor"></a>
 
 > Motion Passed
 

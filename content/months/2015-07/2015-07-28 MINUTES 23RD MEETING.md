@@ -2348,6 +2348,8 @@ Passed
   David Tuckey re property located at 136A and 138 Wortley Road - Request for
   Demolition
 
+<a id="motion-11-2-1" class="motion-anchor"></a>
+
 > Approve clause 11, as amended
 
 **✅ Motion Passed**
@@ -2358,6 +2360,8 @@ Unanimous (14-0)
   Talbot Limited re properties located at 505, 507 and 511 Talbot Street -
   Request for Demolition
 
+<a id="motion-12-2-1" class="motion-anchor"></a>
+
 > Approve clause 12, as amended
 
 **✅ Motion Passed**
@@ -2366,6 +2370,8 @@ Unanimous (14-0)
 
 ### 13#2. Proposed Addition
   of Mid-Century Modern Properties to London's Inventory of Heritage Resources
+
+<a id="motion-13-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with the advice of the Manager, Urban   Regeneration, the Mid-Century Modern properties described in Appendix A to   the staff report dated July 20, 2015 with respect to this matter, BE INCLUDED   in the City of Lo...
 
@@ -2376,6 +2382,8 @@ Unanimous (14-0)
 ### 2#4. Request for
   Proposal (15-03) - Driver Simulator
 
+<a id="motion-2-4-0" class="motion-anchor"></a>
+
 > Approve that clause 2 be amended by   adding the following new part e):   “e)       the   Civic Administration BE REQUESTED to provide an update to the Community and   Protective Services Committee, within one year of implementation, with   respect to operations, usage and potential partnership o...
 
 **✅ Motion Passed**
@@ -2384,6 +2392,8 @@ Unanimous (14-0)
 
 ### 2#4. Request for
   Proposal (15-03) - Driver Simulator
+
+<a id="motion-2-4-1" class="motion-anchor"></a>
 
 > Approve   referral of the amended clause 2 back to the Community and Protective   Services Committee in order to allow for consideration of additional   information with respect to this matter.
 
@@ -2394,6 +2404,8 @@ Unanimous (14-0)
 ### 2#5. Interest Free Loan
   - London Community Players (Palace Theatre)  (Related Bill No. 269)
 
+<a id="motion-2-5-0" class="motion-anchor"></a>
+
 > Approve that clause 2 be amended to add a   new part d), as follows:   d)         the   Civic Administration BE DIRECTED to provide a report, in the next meeting   cycle, to the Corporate Service Committee, with respect to additional options   related to the interest-free loan for the London Comm...
 
 **✅ Motion Passed**
@@ -2402,6 +2414,8 @@ Unanimous (13-0)
 
 ### 2#5. Interest Free Loan
   - London Community Players (Palace Theatre)  (Related Bill No. 269)
+
+<a id="motion-2-5-1" class="motion-anchor"></a>
 
 > Approve clause 2, as amended.
 
@@ -2413,6 +2427,8 @@ Unanimous (13-0)
   The City of London and Donald Jones Management Services Inc. - Management of
   Centennial Hall  (Related Bill No. 270)
 
+<a id="motion-3-4-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the   Municipal Council meeting to be held on July 28, 2015 to:   a)         approve   a five-year extensi...
 
 **✅ Motion Passed**
@@ -2420,6 +2436,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 3#5. London Arts Council
+
+<a id="motion-3-5-0" class="motion-anchor"></a>
 
 > That the matter of requesting the London   Arts Council to consider amending its membership to include a Council Member   BE REFERRED to the Civic Administration for a report back on the current   relationship between The Corporation of the City of London and the London   Arts Council, in order t...
 
@@ -2437,6 +2455,8 @@ Unanimous (14-0)
 ### 5#4. City Recognition
   Queen Elizabeth ll - Longest Reigning Monarch
 
+<a id="motion-5-4-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to investigate the potential for commemorating Queen Elizabeth II as the   longest reigning monarch on September 9, 2015, and report back to the   appropriate Standing Committee, at the earliest opportunity, with recommended   options that could be und...
 
 **✅ Motion Passed**
@@ -2445,6 +2465,8 @@ Unanimous (14-0)
 
 ### 5#5. Proposed
   Implementation of Community Mailboxes by Canada Post
+
+<a id="motion-5-5-0" class="motion-anchor"></a>
 
 > That the following actions be taken with   respect to the Canada Post Community Mail Box Program:   a)              Canada   Post BE REQUESTED to delay further implementation of Community Mailboxes in   the City of London until such time as a satisfactory response to the matters   referenced in b...
 
@@ -2455,6 +2477,8 @@ Unanimous (13-0)
 ### 5#5. Proposed
   Implementation of Community Mailboxes by Canada Post
 
+<a id="motion-5-5-1" class="motion-anchor"></a>
+
 > Approve:   1.                     That, as a   procedural matter pursuant to Section 239 (6) of the Municipal Act, 2001, the   following recommendation be forwarded to City Council for deliberation and a   vote in public session:   That, on the recommendation of the City   Clerk and in accordance...
 
 **✅ Motion Passed**
@@ -2463,6 +2487,8 @@ Unanimous (14-0)
 
 ### 6#2. Open Air Burning
   and Air Quality
+
+<a id="motion-6-2-0" class="motion-anchor"></a>
 
 > That the Civic Administration BE REQUESTED   to report back to the Community and Protective Services Committee (CPSC) with   respect to open air burning and air quality, current practices, enforcement   and impacts of same, specifically as an update to the last report made to the   CPSC and Council.
 
@@ -2473,6 +2499,8 @@ Unanimous (14-0)
 ### 8#2. Municipality of
   Thames Centre Official Plan Review (Official Plan Amendment No. 12) - Notice
   of Decision
+
+<a id="motion-8-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the Civic Administration BE DIRECTED to   initiate an appeal to the Ontario Municipal Board of the Decision of the   County of Middlesex approving Official Plan Amendment No. 12 to the Official   Plan for the Munic...
 
@@ -2490,6 +2518,8 @@ Unanimous (14-0)
 ### 9#2. Application by
   Tridon, re 510 Central (SP15-005948) - Site Plan
 
+<a id="motion-9-2-1" class="motion-anchor"></a>
+
 > Approve clause 9 b).   b)         the   Approval Authority BE ADVISED that Municipal Council requests that the   westerly driveway on the proposed draft site plan be removed and be replaced   with landscaping and the required parking space be provided at 609 William   Street;
 
 **✅ Motion Passed**
@@ -2506,6 +2536,8 @@ Unanimous (14-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<a id="motion-v-0" class="motion-anchor"></a>
+
 > Approve that   Council rise and go into the Committee of the Whole, in camera, for the   purpose of considering the following:
 
 **✅ Motion Passed**
@@ -2517,6 +2549,8 @@ Unanimous (13-0)
   TWENTY-SECOND MEETINGS HELD ON JUNE 25, JULY 8, JULY 15 AND JULY 22, 2015,
   RESPECTIVELY.
 
+<a id="motion-vi-0" class="motion-anchor"></a>
+
 > Approve the Minutes of the 19th, 20th,   21st and 22nd Meetings held on June 25, July 8, July 15 and July 22, 2015,   respectively.
 
 **✅ Motion Passed**
@@ -2524,6 +2558,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-0" class="motion-anchor"></a>
 
 > Approve leave for Councillor H.L. Usher for the   purpose of putting forth a substantive motion related to drone technology.
 
@@ -2540,6 +2576,8 @@ Unanimous (13-0)
 
 ### XI. ENQUIRIES
 
+<a id="motion-xi-2" class="motion-anchor"></a>
+
 > Approve that the motion requesting   information related to the use of drone technology BE REFERRED to the Civic Works   Committee for further discussion as to what information the Committee would   like to see provided by the Civic Administration related to this matter.
 
 **✅ Motion Passed**
@@ -2554,6 +2592,8 @@ Unanimous (13-0)
 </details>
 
 ### XI. ENQUIRIES
+
+<a id="motion-xi-3" class="motion-anchor"></a>
 
 > Approve that in accordance with the   Council Procedure By-law, Councillor B. Armstrong's seat at the Council board   be ordered to remain empty for the duration of the meeting.
 
@@ -2573,6 +2613,8 @@ Unanimous (13-0)
   Planning and Environment Committee stage for consideration with clause 11 of
   the 18th Report of the Planning and Environment Committee)
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2582,6 +2624,8 @@ Unanimous (13-0)
 ### 3. Greenway Wastewater
   Treatment Plant Expansion & Upgrades - Construction Contract Award
 
+<a id="motion-3-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services & City Engineer, the   following actions be taken with respect to the award of the construction   contract for the Greenway Wastewater Treatment Plant Expansion and Upgrades;    a)         the   tender su...
 
 **✅ Motion Passed**
@@ -2590,6 +2634,8 @@ Unanimous (13-0)
 
 ### 4. Single Source
   Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
+
+<a id="motion-4-0" class="motion-anchor"></a>
 
 > Approve that clause 4 be amended by adding   a new part f) as follows:   f)         London   Hydro BE REQUESTED to include, as part of its scope of work, refinements   and/or improvements for accessing the portal and for the portal information,   in general, in order to improve ease of use.
 
@@ -2607,6 +2653,8 @@ Unanimous (13-0)
 ### 4. Single Source
   Procurement - Customer Engagement Upgrade to MyLondonHydro Web Portal
 
+<a id="motion-4-1" class="motion-anchor"></a>
+
 > Approve clause 4, as amended.
 
 **✅ Motion Passed**
@@ -2622,6 +2670,8 @@ Unanimous (13-0)
 
 ### 5. Update on Rainfall
   Event of June 22, 2015
+
+<a id="motion-5-0" class="motion-anchor"></a>
 
 > Approve that clause 5 be amended to   read as follows:   That   the following actions be taken with respect to the staff report dated July   20, 2015 with respect to the rainfall event of June 23, 2015:   a)              a)         the staff report BE RECEIVED for   information; and   b)         ...
 
@@ -2639,6 +2689,8 @@ Unanimous (13-0)
 ### 5. Update on Rainfall
   Event of June 22, 2015
 
+<a id="motion-5-1" class="motion-anchor"></a>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -2647,6 +2699,8 @@ Unanimous (14-0)
 
 ### 9. Proposed Revision
   to the W12A Landfill Designated Haul Route
+
+<a id="motion-9-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer the   following actions be taken with respect to the designated haul route to the   W12A Landfill:   a)         the   expansion of the designated haul route, as previously submitted to C...
 
@@ -2664,6 +2718,8 @@ Unanimous (14-0)
 ### 10. Wickerson Road -
   Parking Infractions
 
+<a id="motion-10-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to review and report back on any changes that could be made to the Traffic   & Parking By-law to provide for parking flexibility in neighbourhoods   with large boulevard areas; it being noted that Councillor A. Hopkins   provided a petition, containing...
 
 **✅ Motion Passed**
@@ -2673,6 +2729,8 @@ Unanimous (14-0)
 ### 13. Coordination of
   Environmental Assessments with Shift Rapid Transit Initiative
 
+<a id="motion-13-0" class="motion-anchor"></a>
+
 > That the Civic Administration BE REQUESTED   to report back on a proposed decision-making process which would close the   gap between various Environmental Assessments and the Shift Rapid Transit   Initiative.
 
 **✅ Motion Passed**
@@ -2681,6 +2739,8 @@ Unanimous (13-0)
 
 ### 15. 9th Report of the
   London Advisory Committee on Heritage
+
+<a id="motion-15-0" class="motion-anchor"></a>
 
 > Motion Passed
 

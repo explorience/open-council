@@ -1021,6 +1021,8 @@ The meeting adjourned at 8:43 PM.
 
 ### 2. Consent
 
+<a id="motion-2-0" class="motion-anchor"></a>
+
 > That Items 2.1 to 2.6, inclusive, and 2.8 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -1028,6 +1030,8 @@ The meeting adjourned at 8:43 PM.
 Unanimous (4-0)
 
 ### 3.2. Public Participation Meeting - Application - 3425 Emily Carr Lane (North Portion) - Draft Plan of Subdivision Approval and Zoning By-law Amendment 39T-18506 (Z-8988)
+
+<a id="motion-3-2-0" class="motion-anchor"></a>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2557727 Ontario Inc., relating to the property located at 3425 Emily Carr Lane: a)            the proposed by-law appended to the staff report dated April 15, 2019 ...
 
@@ -1037,6 +1041,8 @@ Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
 
+<a id="motion-3-4-1" class="motion-anchor"></a>
+
 > Motion to approve clause a), which reads as follows: a)            the following actions be taken with clause 2.1, relating to Chippewas of the Thames First Nations: i)             clause 2.1 BE REFERRED to the City Clerk for consideration with the Advisory Committee review; and, ii)            G...
 
 **✅ Motion Passed (5 to 0)**
@@ -1045,6 +1051,8 @@ Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
 
+<a id="motion-3-4-2" class="motion-anchor"></a>
+
 > Motion to approve clause b), which reads as follows: "b)  the following actions be taken with respect to Climate Change: i)  the Civic Administration BE REQUESTED to report back on tangible actions that the municipality can undertake with respect to Climate Change at a future meeting of the appro...
 
 **✅ Motion Passed (5 to 0)**
@@ -1052,6 +1060,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.4. Delegation - A. Tipping, Vice-Chair and M. A. Hodge, Advisory Committee on the Environment - 4th Report of the Advisory Committee on the Environment
+
+<a id="motion-3-4-3" class="motion-anchor"></a>
 
 > Motion to move clause ii), which reads as follows: ii)   the following Declaration of a Climate Emergency BE APPROVED: "Whereas climate change is currently contributing to billions of dollars in property and infrastructure damage worldwide, stressing local and international economies; Whereas cli...
 
@@ -1070,6 +1080,8 @@ Unanimous (5-0)
 
 ### 3.6. Public Participation Meeting - Demolition Request for Heritage Listed Property - 160 Oxford Street East
 
+<a id="motion-3-6-0" class="motion-anchor"></a>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken with respect to the demolition request for the heritage listed property located at 160 Oxford Street East: a)    the Chief Building Official BE ...
 
 **✅ Motion Passed (4 to 1) 🔥**
@@ -1086,6 +1098,8 @@ Unanimous (5-0)
 </details>
 
 ### 3.8. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
+
+<a id="motion-3-8-1" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the application of 2492222 Ontario Inc., relating to the property located at 536 and 542 Windermere Road: a)        Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to cha...
 
@@ -1104,6 +1118,8 @@ Unanimous (5-0)
 
 ### 3.8. Public Participation Meeting - Application - 536 and 542 Windermere Road (Z-8945)
 
+<a id="motion-3-8-2" class="motion-anchor"></a>
+
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2492222 Ontario Inc., relating to the property located at 536 and 542 Windermere Road: a)         the proposed by-law appended to the staff report dated April 15, 2...
 
 **❌ Motion Failed (2 to 2) 🔥**
@@ -1121,6 +1137,8 @@ Unanimous (5-0)
 
 ### 4.2. Request for Delegation Status - R. Sidhu, Argyle Business Improvement Area - Community Improvement Plan (CIP) Study Request for the Argyle BIA and Surrounding Area
 
+<a id="motion-4-2-0" class="motion-anchor"></a>
+
 > That R. Sidhu, Executive Director, Argyle Business Improvement Area, BE GRANTED delegation status at a future Planning and Environment Committee meeting with respect to the request for a Community Improvement Plan study for the Argyle Business Improvement Area and surrounding area.   (2019-D09)
 
 **✅ Motion Passed (3 to 0)**
@@ -1128,6 +1146,8 @@ Unanimous (5-0)
 Unanimous (3-0)
 
 ### 5.1. (ADDED) 5th Report of the London Advisory Committee on Heritage
+
+<a id="motion-5-1-0" class="motion-anchor"></a>
 
 > That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage: a)         on the recommendation of the Director of Development Services, with the advice of the Heritage Planner, the application made under Section 42 of the Ontario Heritage Act to...
 
