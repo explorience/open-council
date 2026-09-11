@@ -101,6 +101,21 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
 
+  // Design-gate finding: there are exactly three panels (Committees,
+  // Recent Meetings, Councillors) — a 2-column grid auto-places the
+  // third (Councillors) alone into row 2, column 1, leaving the row-2
+  // column-2 cell empty. Recent Meetings is height-capped
+  // (.meetings-list, max-height:300px) so it doesn't run tall enough to
+  // visually excuse that gap; the empty cell reads as a void beside the
+  // Councillors card, not a deliberate layout. At desktop widths (1200px+,
+  // where there's room for three columns without the panel content
+  // wrapping) all three sit in one row instead, so no cell is ever left
+  // empty. 768/1200px is untouched — narrower widths keep the 2-column
+  // (or 1-column, below) layout, where this same finding was not raised.
+  @media (min-width: 1200px) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
   }

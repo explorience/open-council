@@ -181,9 +181,25 @@ export default ((userOpts?: Partial<FrontpageWallOptions>) => {
           <span class="count fp-mono">{wallCount.toLocaleString("en-CA")}</span>
         </div>
         <p class="wall-sub fp-mono">
-          {wallCount.toLocaleString("en-CA")} divided votes since {cutoffYear}.{" "}
-          {twoOrFewer.toLocaleString("en-CA")} decided by two votes or fewer.
+          {wallCount.toLocaleString("en-CA")} divided votes since {cutoffYear}, oldest to
+          newest. Each cell is one vote; the split shows yeas against nays. Tap any vote to see
+          what it was.
         </p>
+        {/* Design-gate BLOCKER (repeat, r2+r3): the prototype ships a
+            .wall-legend (reskin-A2-frontpage-v3.html:230) explaining the
+            yea/nay swatches and the two-or-fewer count - 1,803 colour-coded
+            cells with no key and no stated tap affordance. Ported verbatim,
+            same class names/structure so frontpageWall.scss's existing
+            prototype-derived rules apply unchanged. */}
+        <div class="wall-legend fp-mono" aria-hidden="false">
+          <span>
+            <span class="sw sw-yea" aria-hidden="true"></span>Yea share
+          </span>
+          <span>
+            <span class="sw sw-nay" aria-hidden="true"></span>Nay share
+          </span>
+          <span>{twoOrFewer.toLocaleString("en-CA")} decided by two votes or fewer</span>
+        </div>
 
         <div
           id="fpWall"
