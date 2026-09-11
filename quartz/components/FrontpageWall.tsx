@@ -91,6 +91,21 @@ export default ((userOpts?: Partial<FrontpageWallOptions>) => {
           >
             {totalMeetings.toLocaleString("en-CA")}
           </span>
+          {/* Verified design-gate finding: the ghost numeral is deliberately
+              the ALL-TIME meetings total (see the totalMeetings comment
+              above), not the wall's own divided-vote count shown further
+              down - the spec calls this "the whole record" framing,
+              distinct from the wall below it. But it's decorative/
+              aria-hidden with no sighted-user label of its own, sitting
+              right behind a headline about split votes, so a reader has
+              no way to tell it's a different metric from the wall's
+              "1,803 divided votes" a few rows down - two large, similar-
+              looking numbers with no visible distinction reads as a data
+              bug even when it isn't one. This caption is the only change;
+              the numeral itself and its value are untouched. */}
+          <span class="fp-ghost-label fp-mono" aria-hidden="true">
+            meetings on file, all-time
+          </span>
           <p class="fp-kicker fp-mono">London City Council, Division Record</p>
           <h1 id="fp-h1" class="fp-h1 fp-display">
             Every vote that <span class="fp-ox">split</span> council.

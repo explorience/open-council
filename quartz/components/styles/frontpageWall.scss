@@ -65,6 +65,31 @@
   }
 }
 
+// Verified design-gate finding: sighted-user label for .fp-ghost so the
+// giant decorative numeral doesn't read as an unlabelled (and easily
+// mistaken-for-wrong) duplicate of the wall's own count further down the
+// page - see the comment on .fp-ghost-label in FrontpageWall.tsx.
+.fp-ghost-label {
+  position: absolute;
+  z-index: 0;
+  right: 2px;
+  top: clamp(96px, 15.6vw, 186px); // sits just under .fp-ghost's own box
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.65rem;
+  color: var(--muted);
+  user-select: none;
+  pointer-events: none;
+
+  @media all and ($mobile) {
+    position: static;
+    display: block;
+    text-align: right;
+    margin: -0.25rem 0 0.5rem;
+    top: auto;
+  }
+}
+
 .fp-kicker {
   position: relative;
   z-index: 1;
