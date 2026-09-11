@@ -78,7 +78,12 @@ const UnifiedHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
               opacity="0.5"
             />
           </svg>
-          Open Council <span class="beta-tag">BETA</span>
+          {/* Wordmark in its own span so it (and only it) can ellipsise
+              when the bar runs out of room — see .header-wordmark in
+              unifiedHeader.scss. `.header-logo`'s own 0.5rem flex gap
+              supplies the space that used to be a literal one here. */}
+          <span class="header-wordmark">Open Council</span>
+          <span class="beta-tag">BETA</span>
         </a>
       </div>
 

@@ -24,6 +24,15 @@
   height: 56px;
   z-index: 1000;
   margin: 0; // Override generic header margin
+  // base.scss styles the bare `header` element (`header { display: flex;
+  // gap: 1.5rem; margin: 2rem 0 }`) and this bar IS a <header>, so it
+  // inherited a 24px flex gap it never asked for — `space-between`
+  // already does the separating here. Harmless while there is slack, but
+  // it is 24px of hard minimum width: at 320px the bar's content measured
+  // 326px and the hamburger sat 6px off-canvas, unreachable and invisible
+  // because a `position: fixed` box's overflow never shows up in
+  // document.scrollWidth (so nothing scrolls to reveal it).
+  gap: 0.75rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -73,15 +82,24 @@ body {
 // Header Left - Logo
 // ============================================
 
+// The masthead is the one thing in this bar that can afford to give way.
+// It used to be `flex-shrink: 0` with a `nowrap` wordmark, which makes
+// the whole header's minimum width a hard function of the brand string —
+// add a glyph (or the drawn mark) and the controls at the other end get
+// pushed off the fixed bar with no scroll to recover them. Shrinkable
+// masthead + non-shrinkable controls inverts that: the wordmark
+// ellipsises and search / theme / menu stay reachable at any width.
 .header-left {
   display: flex;
   align-items: center;
-  flex-shrink: 0;
+  flex: 0 1 auto;
+  min-width: 0; // a flex item's default `min-width: auto` blocks shrinking
 }
 
 .header-logo {
   display: flex;
   align-items: center;
+  min-width: 0;
   gap: 0.5rem;
   font-size: 1.25rem;
   font-weight: 600;
@@ -99,7 +117,19 @@ body {
   }
 }
 
+// The wordmark is the only part of the masthead that may be clipped; the
+// mark and the BETA chip hold their size. It needs to be a real element
+// rather than a bare text node — a bare text node inside a flex container
+// becomes an anonymous flex item, which no selector can reach.
+.header-wordmark {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .beta-tag {
+  flex-shrink: 0;
   font-size: 0.5em;
   background-color: #ff6b35;
   color: white;
@@ -171,6 +201,46 @@ body {
 // ============================================
 // Dark Mode Toggle Icons
 // ============================================
+
+// The theme toggle also carries `.darkmode`, because the legacy darkmode
+// script binds to that class — and darkmode.scss styles `.darkmode` as a
+// bare 20x20 icon, not a button: `width/height: 20px`, `svg {
+// position: absolute; width: 20px; fill: var(--darkgray) }`. Those rules
+// are single-class, exactly as specific as the shared header-button rule
+// above, and the darkmode bundle is emitted after it, so they won. Two
+// visible consequences, both on every page and in both themes:
+//   * the toggle's hit area was 20x20 between two 36x36 siblings — below
+//     the 24x24 WCAG 2.5.8 pointer-target minimum, and visibly
+//     off-rhythm in the control row;
+//   * `fill: var(--darkgray)` beat the icons' own `fill="none"`
+//     presentation attribute (CSS always does), so the sun rendered with
+//     a dark blob where its centre should be an open ring, and the moon
+//     rendered as a solid crescent instead of a stroked one.
+// Compound `.header-darkmode-btn.darkmode` (0,2,0) wins wherever the two
+// classes co-occur, and nothing outside this header is touched.
+.header-darkmode-btn.darkmode {
+  width: 40px;
+  height: 40px;
+
+  @media all and ($mobile) {
+    width: 36px;
+    height: 36px;
+  }
+
+  svg {
+    position: static;
+    top: auto;
+    width: 20px;
+    height: 20px;
+    fill: none;
+    stroke: currentColor;
+
+    @media all and ($mobile) {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}
 
 .header-darkmode-btn {
   .sun-icon {
