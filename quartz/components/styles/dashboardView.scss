@@ -1,3 +1,12 @@
+// Verified design-gate finding ("two visual languages stacked"): this
+// component (homepage-only — quartz.layout.ts only renders it for
+// slug==="index") was still in default-Quartz rounded-grey-card styling
+// below the broadsheet wall above it. Retokenized to the same
+// paper/ink/line/accent/mono system as frontpage.scss and
+// frontpageWall.scss (both light/dark, since those custom properties
+// already carry both) — structure, links and content are unchanged, so
+// every existing browse/committee/meeting/councillor feature still
+// works exactly as before.
 .dashboard-view {
   width: 100%;
   max-width: 1000px;
@@ -5,6 +14,7 @@
   padding: 1rem;
   overflow-x: hidden;
   box-sizing: border-box;
+  font-family: "Archivo Variable", Archivo, system-ui, sans-serif;
 }
 
 // Stats Row with Actions
@@ -39,16 +49,16 @@
   flex-direction: column;
   align-items: center;
   padding: 0.75rem 1.25rem;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   text-decoration: none;
   transition: all 0.15s ease;
   flex-shrink: 0;
 
   &:hover {
-    background: var(--lightgray);
-    border-color: var(--secondary);
+    background: var(--line);
+    border-color: var(--accent);
   }
 
   @media (max-width: 600px) {
@@ -57,9 +67,11 @@
 }
 
 .stat-number {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--secondary);
+  color: var(--ink);
   white-space: nowrap;
 
   @media (max-width: 600px) {
@@ -68,8 +80,9 @@
 }
 
 .stat-label {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   white-space: nowrap;
@@ -78,34 +91,86 @@
 // Main Grid
 .dashboard-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  // minmax(0, 1fr), not bare 1fr — a bare fr track's implicit minimum is
+  // its content's min-content size, so an unbreakable panel-link label
+  // (e.g. a long committee name) can force this grid, and every ancestor
+  // up to <body>, wider than the viewport; body{overflow-x:hidden}
+  // (base.scss) then silently clips the excess instead of scrolling to
+  // it, cutting off content anywhere later in the page's flow (this is
+  // what produced the 390px-wide clipping across the whole homepage).
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
+
+  // Design-gate finding: there are exactly three panels (Committees,
+  // Recent Meetings, Councillors) — a 2-column grid auto-places the
+  // third (Councillors) alone into row 2, column 1, leaving the row-2
+  // column-2 cell empty. Recent Meetings is height-capped
+  // (.meetings-list, a 300px scroller) so it doesn't run tall enough to
+  // visually excuse that gap; the empty cell reads as a void beside the
+  // Councillors card, not a deliberate layout. At desktop widths (1200px+,
+  // where there's room for three columns without the panel content
+  // wrapping) all three sit in one row instead, so no cell is ever left
+  // empty. 768/1200px is untouched — narrower widths keep the 2-column
+  // (or 1-column, below) layout, where this same finding was not raised.
+  @media (min-width: 1200px) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
   }
 }
 
+// Design-gate finding (1240px): the three panels' *boxes* were already
+// equal height — grid items stretch — but only Committees' content ran
+// the full depth. Recent Meetings stopped ~111px short of its own border
+// and Councillors ~78px short, because each panel was a block box with
+// its content pinned to the top and the stretch showing up as dead paper
+// underneath. Recent Meetings was the worst of the three precisely
+// because .meetings-list was frozen at max-height:300px while holding
+// 3,609px of meetings: the panel had slack it refused to use.
+//
+// Column layout instead: the list is the flexible element, the "View
+// all ..." rule is a footer that sits on the panel's base. Recent
+// Meetings' scroller now grows into the slack (more meetings visible,
+// void gone rather than relocated), and all three columns end on a
+// common baseline the way broadsheet columns do.
 .dashboard-panel {
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  display: flex;
+  flex-direction: column;
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   padding: 1rem;
 }
 
+// Broadsheet section labels — same mono/uppercase/tracked treatment as
+// .fp-kicker and .wall-head, with the wall-head's heavier ink rule
+// instead of the plain grey hairline, so these panels read as part of
+// the same system as the wall above rather than a different component.
 .panel-title {
-  font-size: 0.875rem;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 0.7rem;
   font-weight: 600;
-  color: var(--darkgray);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
   margin: 0 0 0.75rem 0;
   padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 2px solid var(--ink);
 }
 
 .panel-list {
   list-style: none;
   margin: 0;
   padding: 0;
+  // Takes the panel's spare height so the "View all ..." footer rule
+  // lands on the base instead of floating above dead space.
+  // `min-height: 0` because a flex item's default `min-height: auto`
+  // would let .meetings-list's 3,609px of content blow the panel open
+  // rather than scroll inside it.
+  flex: 1 1 auto;
+  min-height: 0;
 
   li {
     margin: 0;
@@ -117,14 +182,14 @@
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 0.25rem;
-  color: var(--darkgray);
+  color: var(--ink);
   text-decoration: none;
   font-size: 0.875rem;
   border-radius: 4px;
   transition: background-color 0.1s ease;
 
   &:hover {
-    background: var(--lightgray);
+    background: var(--line);
   }
 }
 
@@ -133,16 +198,31 @@
 }
 
 .link-count {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 0.75rem;
-  color: var(--gray);
-  background: var(--lightgray);
+  color: var(--muted);
+  background: var(--line);
   padding: 0.125rem 0.375rem;
   border-radius: 4px;
 }
 
 // Meetings specific
 .meetings-list {
-  max-height: 300px;
+  // `height`, deliberately, not the `max-height: 300px` this used to be.
+  // The two behave identically on their own, but they differ inside the
+  // flex column above in exactly the way this panel needs:
+  //   * for intrinsic sizing, a flex item's contribution is its flex base
+  //     size — 300px here — so the grid row is still sized by the
+  //     Committees panel and never by this list's 3,609px of meetings;
+  //   * `height` is a starting size that `flex-grow` may exceed, whereas
+  //     `max-height` is a ceiling that it may not. So when the row
+  //     stretches this panel, the scroller grows into the slack and
+  //     shows more meetings instead of leaving ~111px of dead paper
+  //     under the footer rule.
+  // Unstretched (single-column layouts, ≤768px) the base size stands and
+  // the list is the same 300px scroller it always was.
+  height: 300px;
   overflow-y: auto;
 }
 
@@ -153,8 +233,10 @@
 }
 
 .meeting-date {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
   font-size: 0.7rem;
-  color: var(--gray);
+  color: var(--muted);
 }
 
 .meeting-title {
@@ -171,23 +253,24 @@
 
 .year-link {
   padding: 0.375rem 0.75rem;
-  background: var(--lightgray);
+  background: var(--line);
   border-radius: 4px;
   font-size: 0.8rem;
-  color: var(--darkgray);
+  color: var(--ink);
   text-decoration: none;
   transition: all 0.15s ease;
 
   &:hover {
-    background: var(--secondary);
-    color: white;
+    background: var(--accent-fill);
+    color: var(--accent-ink);
   }
 }
 
 // Councillors
 .councillors-list {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  // minmax(0, 1fr) — see .dashboard-grid above.
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0 0.5rem;
 
   @media (max-width: 480px) {
@@ -197,7 +280,7 @@
 
 .councillor-role {
   font-size: 0.7rem;
-  color: var(--tertiary);
+  color: var(--accent);
   font-style: italic;
 }
 
@@ -206,9 +289,10 @@
   display: block;
   margin-top: 0.75rem;
   padding-top: 0.5rem;
-  border-top: 1px solid var(--lightgray);
+  border-top: 1px solid var(--line);
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
   font-size: 0.8rem;
-  color: var(--secondary);
+  color: var(--accent);
   text-decoration: none;
 
   &:hover {
@@ -222,12 +306,12 @@
   align-items: center;
   gap: 0.5rem;
   padding: 0.625rem 1rem;
-  background: var(--light);
-  border: 1px solid var(--lightgray);
+  background: var(--card);
+  border: 1px solid var(--line);
   border-radius: 8px;
   font-size: 0.875rem;
   font-family: var(--bodyFont);
-  color: var(--darkgray);
+  color: var(--ink);
   cursor: pointer;
   transition: all 0.15s ease;
   white-space: nowrap;
@@ -239,9 +323,9 @@
   }
 
   &:hover {
-    background: var(--lightgray);
-    border-color: var(--secondary);
-    color: var(--secondary);
+    background: var(--line);
+    border-color: var(--accent);
+    color: var(--accent);
   }
 
   @media (max-width: 600px) {

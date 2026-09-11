@@ -31,6 +31,7 @@ import NavDropdowns from "./NavDropdowns"
 import PrefillQuestions from "./PrefillQuestions"
 import ModeToggle from "./ModeToggle"
 import DashboardView from "./DashboardView"
+import FrontpageWall from "./FrontpageWall"
 import VotingRecord from "./VotingRecord"
 import Scorecard from "./Scorecard"
 import AlignmentMatrix from "./AlignmentMatrix"
@@ -78,6 +79,7 @@ export {
   PrefillQuestions,
   ModeToggle,
   DashboardView,
+  FrontpageWall,
   VotingRecord,
   Scorecard,
   AlignmentMatrix,
