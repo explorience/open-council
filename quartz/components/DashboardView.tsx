@@ -50,7 +50,19 @@ export default ((userOpts?: Partial<DashboardViewOptions>) => {
       <div class="dashboard-view advanced-only">
         {/* Stats Row with Actions */}
         <div class="dashboard-stats">
-          <a href="/months" class="action-btn browse-all-btn">
+          {/* Verified design-gate finding: Quartz's own SPA router
+              (spa.inline.ts) installs a global window click listener that
+              soft-navigates ANY internal <a> click to its href, calling
+              preventDefault() itself before dashboardView.inline.ts's own
+              listener on this element ever got a chance to matter - so the
+              in-page "reveal the explorer" enhancement below was always
+              overridden by a navigation to /months regardless of its own
+              preventDefault(). data-router-ignore is the router's built-in
+              opt-out (see getOpts()) - with it, this element's click is
+              this component's alone to handle, and falls through to a
+              real (non-SPA) navigation on any render where .explorer
+              isn't present. */}
+          <a href="/months" class="action-btn browse-all-btn" data-router-ignore>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
               <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/>
             </svg>
