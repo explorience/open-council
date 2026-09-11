@@ -10,7 +10,15 @@ const UnifiedHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       {/* Skip links for keyboard navigation */}
       <div class="skip-links" role="navigation" aria-label="Skip links">
         <a href="#main-content">Skip to main content</a>
-        <a href="#hero-chat-input">Skip to chat</a>
+        {/* Verified design-gate finding: on the homepage, HomepageHero's
+            real #hero-chat-input stays display:none until chat mode is
+            active (homepageHero.scss) - FrontpageWall's own
+            #fp-assistant-input is the visible chat entry point there
+            instead (it forwards into the real chat on submit; see
+            frontpageWall.inline.ts's wireAssistant). A skip link to a
+            hidden target focuses nothing. Elsewhere #hero-chat-input is
+            the real, visible target and stays correct. */}
+        <a href={isHomepage ? "#fp-assistant-input" : "#hero-chat-input"}>Skip to chat</a>
         {isHomepage && <a href="#fpWallEnd">Skip the division wall</a>}
       </div>
       <header class="unified-header">
@@ -85,8 +93,10 @@ const UnifiedHeader: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
       <nav class="header-mobile-menu" aria-label="Site navigation">
         <a href="/councillors" class="mobile-menu-item">Councillors</a>
         <a href="/months" class="mobile-menu-item">Browse All Meetings</a>
+        <a href="/votes" class="mobile-menu-item">Vote Explorer</a>
         <a href="/watchlist" class="mobile-menu-item">My Watchlist</a>
         <a href="/alerts" class="mobile-menu-item">Alerts</a>
+        <a href="/election" class="mobile-menu-item">Election Hub</a>
         <a href="/about" class="mobile-menu-item">About</a>
         <div class="menu-divider"></div>
         <div class="menu-section">
