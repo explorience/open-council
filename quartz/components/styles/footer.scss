@@ -21,6 +21,18 @@ footer {
     margin-bottom: 1rem;
     font-size: 0.85rem;
     font-family: "IBM Plex Mono", ui-monospace, monospace;
+    // Verified design-gate finding (round 2, light theme, every page):
+    // quartz/styles/base.scss's `p,ul,a,li,td{color:var(--darkgray)}`
+    // targets this <p> directly (a browser always prefers a rule that
+    // matches the element itself over an inherited value from an
+    // ancestor, no matter the ancestor rule's own specificity), so the
+    // plain words here ("A project of the" / "and") fell through to
+    // --darkgray (#26251F in light theme) on the graphite footer
+    // background (#33312D) - 1.18:1, invisible. `footer > p` (two
+    // elements) beats base.scss's bare `p` (one element) regardless of
+    // stylesheet order, so this wins outright rather than by luck of
+    // load order.
+    color: var(--graphite-ink);
 
     a {
       color: var(--graphite-ink);
