@@ -1927,7 +1927,7 @@ At 5:52 PM, Councillor S. Trosow enters the meeting.
 
 ## 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
 
-[2026-06-17 Audit Committee Report 3](</2026-06/2026-06-17 - Audit Committee>)
+[2026-06-17 Audit Committee Report 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=125102>)
 
 > Motion made by E. Peloza
 

@@ -1,0 +1,600 @@
+[
+  {
+    "id": "f376b6533e12",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported final enactment of by-laws amending the Administrative Monetary Penalty System and business-licence fee schedules to add consumer fireworks sales business licensing.",
+    "confidence": "high",
+    "quote": "By-law No. A-54-24016 - A by-law to amend By-law No. A-54... to provide for an amended Penalty Schedule for the Business Licensing By-law for the categories of Consumer Fireworks Sales Business; By-law No. A-59-24001... to add Consumer Fireworks Sales Business Licence Fees; By-law No. L.-131(k)-76... Licensing and Regulation of Various Businesses.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Verified against 2024-04-02 Council item 13 bills list: Bills 102/103/107 = AMPS fireworks penalty schedule + fireworks licence fees + licensing-regulation amendment, all administrative business-licensing bylaws, no tracked-issue content. _all-motions.json confirms this specific id is the Third Reading/Enactment motion (10-2, Trosow/Ferreira nay), matching whatAYeaDid's 'final enactment' framing exactly. issue=none correct."
+  },
+  {
+    "id": "58255c8de9aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Introduction and First Reading of a by-law amending the fireworks sale and discharge by-law (permits and conditions for selling and setting off fireworks in London).",
+    "confidence": "high",
+    "quote": "By-law No. PW-11-24003 - A by-law to amend By-law PW-11... to provide for the sale of fireworks and the setting off of fireworks and pyrotechnics within the City of London, and for requiring a permit and imposing conditions.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Bill 122 (PW-11-24003, fireworks sale/discharge permit bylaw) Introduction/First Reading, 9-3. Quote verbatim from bills list. Regulatory bylaw, no tracked issue."
+  },
+  {
+    "id": "14d75203da7c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Second Reading of a by-law amending the fireworks sale and discharge by-law (permits and conditions for selling and setting off fireworks in London).",
+    "confidence": "high",
+    "quote": "By-law No. PW-11-24003 - A by-law to amend By-law PW-11... to provide for the sale of fireworks and the setting off of fireworks and pyrotechnics within the City of London, and for requiring a permit and imposing conditions.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 122, Second Reading, 9-3 -- matches _all-motions.json exactly."
+  },
+  {
+    "id": "7bf381a6ac08",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Third Reading and Enactment Reading of a by-law amending the fireworks sale and discharge by-law (permits and conditions for selling and setting off fireworks in London).",
+    "confidence": "high",
+    "quote": "By-law No. PW-11-24003 - A by-law to amend By-law PW-11... to provide for the sale of fireworks and the setting off of fireworks and pyrotechnics within the City of London, and for requiring a permit and imposing conditions.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 122, Third Reading and Enactment, 9-3 -- matches _all-motions.json exactly."
+  },
+  {
+    "id": "1bde36aa6800",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Introduction and First Reading of a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
+    "confidence": "high",
+    "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 – July 2024' event use of Harris Park for 5 consecutive days.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Bill 106 (CPOL.-142(e)-75, Rock the Park 5-day Harris Park event bylaw) Introduction/First Reading, 10-2. Quote verbatim from bills list. Event-permit bylaw, no tracked issue."
+  },
+  {
+    "id": "1ffd7587fd79",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Second Reading of a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
+    "confidence": "high",
+    "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 – July 2024' event use of Harris Park for 5 consecutive days.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 106, Second Reading, 11-1 -- the unique vote count (only this reading is 11-1) confirms correct reading-stage matching."
+  },
+  {
+    "id": "16e6099111bc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported Third Reading and Enactment Reading of a by-law amending the Special Events Policies and Procedures Manual to allow the 'Rock the Park' festival's 5-day use of Harris Park.",
+    "confidence": "high",
+    "quote": "By-law No. CPOL.-142(e)-75 - A by-law to amend By-law No. CPOL.-142-394 being 'Special Events Policies and Procedures Manual', to provide for the 'Rock the Park 20 – July 2024' event use of Harris Park for 5 consecutive days.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 106, Third Reading and Enactment, 10-2."
+  },
+  {
+    "id": "d88a1359681c",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported approving a request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand, alongside receiving the year-end operating budget monitoring report for information.",
+    "confidence": "medium",
+    "quote": "the request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand BE APPROVED (see Appendix \"B\" of the staff report for Letter of Request).",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full item text (2024-04-15 Corporate Services Committee 2.2): parts a) and b) are BE RECEIVED (deferral, not decisions); part c) is the sole operative clause, 'the request to fund the 2023 London & Middlesex Community Housing operational deficit of approximately $33 thousand BE APPROVED' -- verbatim quote match, clean AFFIRM_RE approval, no denial. budget/application-approval/expansive correct."
+  },
+  {
+    "id": "0c6871712ba7",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the quarterly Whole of Community System Response report for information, with no substantive direction on the encampment/homelessness response.",
+    "confidence": "high",
+    "quote": "the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Full text (2024-04-16 SPPC 2.1) is a single, pure 'BE RECEIVED for information' clause -- no AFFIRM/deny verb anywhere. deferOnly -> correctly null. 'whole of community system response' is a literal encampments keyword hit -- issue correct."
+  },
+  {
+    "id": "196183601020",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the quarterly Whole of Community System Response report for information, with no substantive direction on the encampment/homelessness response.",
+    "confidence": "high",
+    "quote": "the report dated April 16, 2024, regarding Whole of Community System Response – Quarterly Report, BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Council-stage twin of 0c6871712ba7 (item 8.4.3), identical text, same verdict -- pure receive-for-information, correctly null."
+  },
+  {
+    "id": "538bd4c871ad",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "A by-law to amend The Official Plan for the City of London, 2016 relating to 735 Wonderland Road North; A by-law to amend By-law No. Z.-1 to rezone an area of land located at 735 Wonderland Road North.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Verified full Planning and Environment Committee item (735 Wonderland Rd N, Z-9704): rezones FROM Associated Shopping Area Commercial TO Business District Commercial Special Provision; Council's own stated reasons explicitly cite 'intensification and redevelopment' and 'an appropriate form of development at an intensity that is appropriate for the site' -- genuine intensification, no restrictive element anywhere in the clause. Bills 132/152, Introduction/First Reading, 11-2 (Trosow, Ferreira nay). Medium confidence (no explicit density number) appropriately reflects the generic-fallback axis, but direction itself is unambiguous."
+  },
+  {
+    "id": "9b6ac77d84f7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "A by-law to amend The Official Plan for the City of London, 2016 relating to 735 Wonderland Road North; A by-law to amend By-law No. Z.-1 to rezone an area of land located at 735 Wonderland Road North.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 132/152, Second Reading, 11-2."
+  },
+  {
+    "id": "d8d88d5a28d0",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Third Reading and Enactment Reading of by-laws amending the Official Plan and rezoning 735 Wonderland Road North (from commercial to a Business District Commercial Special Provision zone) to permit an intensified, mixed-use redevelopment of the site.",
+    "confidence": "medium",
+    "quote": "A by-law to amend The Official Plan for the City of London, 2016 relating to 735 Wonderland Road North; A by-law to amend By-law No. Z.-1 to rezone an area of land located at 735 Wonderland Road North.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 132/152, Third Reading and Enactment, 11-2."
+  },
+  {
+    "id": "c26fb0e4d55e",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project Phase 4.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Bill 134 (L.S.P.-3514-94) authorizes expropriation of land specifically 'for the Rapid Transit East London Link Project Phase 4' -- land acquisition to build BRT corridor infrastructure is substantively transit-infrastructure expansion even though the narrow regex vocabulary (bus rapid transit/BRT/transit priority/shelter/facility) doesn't literally appear; axis label itself covers 'transit service or transit infrastructure.' Introduction/First Reading, 10-2 (Stevenson, Van Meerbergen nay)."
+  },
+  {
+    "id": "a639486736ea",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project Phase 4.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 134, Second Reading, 10-2."
+  },
+  {
+    "id": "a79e2c534560",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Third Reading and Enactment Reading of a by-law authorizing an application to expropriate land needed to build the Rapid Transit East London Link Project, Phase 4.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve an application to expropriate land in the City of London, in the County of Middlesex, for the Rapid Transit East London Link Project Phase 4.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 134, Third Reading and Enactment, 10-2."
+  },
+  {
+    "id": "4d0ba8090449",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected a person to fill a seat on the Kettle Creek Conservation Authority Board of Directors via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Kettle Creek Conservation Authority Board of Directors (Requires 1 Member)",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Secret-ballot 'Majority Winner' appointment to Kettle Creek Conservation Authority board -- no yea/nay vote exists. Correctly excluded via the singular 'consideration of appointment to' GLOBAL_EXCLUDE phrase; correctly NOT tagged climate despite 'Conservation Authority' appearing in the climate keyword list -- the appointment-exclusion rule takes precedence by design, exactly as the classifier's own note states."
+  },
+  {
+    "id": "1423b4a632f8",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving a resident communication and verbal delegation on a Harris Park tree-planting proposal and referring it to the future Tree Planting Strategy process, without deciding any planting commitment itself.",
+    "confidence": "medium",
+    "quote": "the above-noted communication BE REFERRED to the future work of the Tree Planting Strategy for consideration as part of that process.",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full text (2024-05-14 Council 8.3.11): part a) 'the above-noted communication and the verbal delegation ... BE RECEIVED'; part b) 'the above-noted communication BE REFERRED to the future work of the Tree Planting Strategy' -- both pure deferral verbs, no AFFIRM_RE verb anywhere in the clause. deferOnly -> correctly null/unclear, independent of the motion's own 6-8 FAILED outcome (whatAYeaDid neutrally states what supporting the motion would have done, not the result). Quote verbatim."
+  },
+  {
+    "id": "4f95575ddeab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved parts 3 and 4 of a Council closed-session report whose substance is confidential and not part of the public record.",
+    "confidence": "low",
+    "quote": "That part 3 and 4 of the 10th Report of the Council in Closed Session BE APPROVED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Closed-session report approval (parts 3-4) -- substance is confidential and not present anywhere in the public record; nothing further can be derived. issue=none, low confidence appropriately reflects this."
+  },
+  {
+    "id": "9497e61ab2e6",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of by-laws authorizing a settlement agreement and a purchase-and-sale agreement to acquire the property rights needed for the Wellington Gateway rapid transit project.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve a Settlement Agreement... for the property rights expropriated from the property at 977-993 Wellington Road... for the Wellington Gateway Project; A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of the property located at 8 Raywood Avenue... for the Wellington Gateway Project.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Verified Bills 168 (Settlement Agreement, 977-993 Wellington Road expropriation) and 169 (Purchase and Sale, 8 Raywood Avenue) against the 2024-05-14 bills list -- both explicitly 'for the Wellington Gateway Project,' a BRT rapid-transit corridor property acquisition. Introduction/First Reading, 12-1 (Stevenson nay)."
+  },
+  {
+    "id": "123a317b40e4",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of by-laws authorizing a settlement agreement and a purchase-and-sale agreement to acquire the property rights needed for the Wellington Gateway rapid transit project.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve a Settlement Agreement... for the property rights expropriated from the property at 977-993 Wellington Road... for the Wellington Gateway Project; A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of the property located at 8 Raywood Avenue... for the Wellington Gateway Project.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 168/169, Second Reading, 12-1."
+  },
+  {
+    "id": "abf12a805b05",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Third Reading of by-laws authorizing a settlement agreement and a purchase-and-sale agreement to acquire the property rights needed for the Wellington Gateway rapid transit project.",
+    "confidence": "high",
+    "quote": "A by-law to authorize and approve a Settlement Agreement... for the property rights expropriated from the property at 977-993 Wellington Road... for the Wellington Gateway Project; A by-law to authorize and approve an Agreement of Purchase and Sale... for the acquisition of the property located at 8 Raywood Avenue... for the Wellington Gateway Project.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 168/169, Third Reading, 12-1."
+  },
+  {
+    "id": "8b1d7c79b86d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of a by-law rezoning land at 376-390 Hewitt Street and 748 King Street.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. Z.-1 to rezone an area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full Planning and Environment Committee item (376-390 Hewitt St / 748 King St, Z-9718): motion extends a Temporary Use (T-79) zone by one year; Council's own stated reasons explicitly say the extension 'would facilitate the long-term redevelopment of the site to a more intense, transit-supportive use' and note a submitted building permit for a 24-storey mixed-use apartment tower -- a genuinely pro-intensification framing, the opposite of the 221 Queens Ave case (batch 23, downgraded) where staff explicitly said an extension did NOT support the Housing Pledge. Consistent with batch-16's already-confirmed committee-stage twin of this same application (764b3f62bda0). Bill 164, Introduction/First Reading, 11-2 (Trosow, Hopkins nay)."
+  },
+  {
+    "id": "9ed8d62246ad",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of a by-law rezoning land at 376-390 Hewitt Street and 748 King Street.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. Z.-1 to rezone an area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 164, Second Reading, 11-2."
+  },
+  {
+    "id": "cedd96e5b61f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Third Reading of a by-law rezoning land at 376-390 Hewitt Street and 748 King Street.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. Z.-1 to rezone an area of land located at 376, 378, 380, 382, 386 & 390 Hewitt Street and 748 King Street.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same Bill 164, Third Reading, 11-2."
+  },
+  {
+    "id": "7cc504955dbf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introducing a by-law ratifying London Hydro Inc.'s annual shareholder resolutions and receiving the utility's CEO/Board presentation, annual finance report, and director-election communication.",
+    "confidence": "medium",
+    "quote": "the proposed by-law...entitled 'A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London Hydro Inc.' BE INTRODUCED at the Municipal Council meeting to be held June 4, 2024",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full item (2024-05-28 SPPC 3.1): a) BE INTRODUCED (ratify London Hydro AGM shareholder resolutions bylaw), b)/c)/d) BE RECEIVED (CEO/Board presentation, finance report, director-election communication) -- purely utility-governance housekeeping with no tracked-issue keyword content anywhere. issue=none correct."
+  },
+  {
+    "id": "0497d94a0e66",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported referring the London Hydro shareholder-resolutions by-law to a future committee meeting and directing Civic Administration to retain a forensic accountant to confirm London Hydro's debt-disclosure statement and report back.",
+    "confidence": "high",
+    "quote": "the proposed by-law BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration; and Civic Administration BE DIRECTED to retain a forensic accountant to confirm London Hydro Inc.'s statement...and report back",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full text of this FAILED (3-12) motion: a) BE REFERRED, b) Civic Administration BE DIRECTED to retain a forensic accountant to confirm London Hydro's debt-disclosure statement and report back -- a governance/audit-oversight matter over a municipally-owned corporation's own financial statement, not a City budget or tax-levy item; no tracked-issue keyword applies. issue=none correct regardless of FAILED outcome."
+  },
+  {
+    "id": "6c93f361b6fe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported referring the London Hydro shareholder-resolutions by-law to a future committee meeting and directing Civic Administration to retain a forensic accountant to confirm London Hydro's debt-disclosure statement and report back.",
+    "confidence": "high",
+    "quote": "the proposed by-law BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for consideration; and Civic Administration BE DIRECTED to retain a forensic accountant to confirm London Hydro Inc.'s statement...and report back",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same clause, re-vote after a reconsideration motion, FAILED 2-13 -- same analysis as 0497d94a0e66."
+  },
+  {
+    "id": "e4a68bd8c619",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (1).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Secret-ballot 'Majority Winner' appointments to the Diversity, Inclusion and Anti-Oppression CAC -- no yea/nay vote exists. Correctly excluded via the plural 'appointments to' GLOBAL_EXCLUDE_PATTERN; a personnel decision, not a policy stance despite the committee's subject-matter name."
+  },
+  {
+    "id": "ce164aa6e6cf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (2).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same DIAOC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "d488f22085ef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (3).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same DIAOC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "7ebf1cd4d771",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee (4).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same DIAOC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "0b6294a3b815",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (1).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Secret-ballot appointment to the Environmental Stewardship and Action CAC -- correctly excluded as a personnel decision, not a climate policy stance, despite the committee's name."
+  },
+  {
+    "id": "4de0e97753c3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (2).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same ESA-CAC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "6d80a77d55fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (3).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same ESA-CAC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "0221f6a0e505",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointments to the Environmental Stewardship and Action Community Advisory Committee (4).",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same ESA-CAC appointment round, different seat -- same analysis."
+  },
+  {
+    "id": "83817ed65c8d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected people to fill seats on a Community Advisory Committee via a secret-ballot appointment vote.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Integrated Transportation Community Advisory Committee.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Secret-ballot appointment to the Integrated Transportation CAC -- correctly excluded as a personnel decision, not a transit policy stance, despite the committee's name."
+  },
+  {
+    "id": "768f6c22674d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported convening in closed session to receive solicitor-client-privileged legal advice on the motion to refer the London Hydro shareholder-resolutions matter and retain a forensic accountant.",
+    "confidence": "high",
+    "quote": "The Strategic Priorities and Policy Committee convenes in Closed Session to consider the following: 6.1 Solicitor-Client Privilege...",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Closed-session convening motion (solicitor-client privilege re: the London Hydro referral/forensic-accountant matter) -- procedural, no public substance to classify. issue=none correct."
+  },
+  {
+    "id": "f303ed387f89",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing Civic Administration to report back on proposed Sound By-law amendments restricting gas-powered lawn/garden equipment hours, hold a public participation meeting, and circulate the report to advisory committees, without enacting any restriction itself.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to take the following actions with respect to the Sound By-law: i) report back to a future meeting of the Community and Protective Services Committee with proposed amendments to the Sound By-law to restrict the operation of gas-powered lawn and garden equipment in residential areas from 6pm to 8am",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Read full text (2024-06-04 Council 8.2.15): this is specifically the 'part d) of the motion' sub-vote -- directs Civic Administration to report back on proposed Sound By-law amendments, hold a public participation meeting, and circulate to advisory committees. Pure report-back/informational verb, no decision on the underlying restriction; correctly null/unclear regardless of the 0-14 FAILED outcome. Quote verbatim."
+  },
+  {
+    "id": "8729ae42e738",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving for information the staff report on next steps for gasoline-powered lawn and garden equipment.",
+    "confidence": "medium",
+    "quote": "the above-noted staff report BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same item, the separate 'part a)' sub-vote -- 'the above-noted staff report BE RECEIVED,' Passed 13-1 (Van Meerbergen nay). Pure receive-for-information, correctly null/unclear. climate issue tag is a reasonable substantive read of the item's own subject (gas-powered lawn/garden equipment emissions), and the motion's other sub-parts (not this vote) use the phrase 'take climate action' verbatim."
+  },
+  {
+    "id": "c34b37e35099",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+    "confidence": "high",
+    "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 – A by-law to authorize Project RT1430-1D – Wellington Gateway Stops Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Verified Bills 188 (L.S.P.-3515-140, Clark's Bridge expropriation), 202 (W.-5699(c)-153, RT1430-1A Wellington Gateway South Construction), 203 (W.-5701-154, RT1430-1D Wellington Gateway Stops) against the enactment by-law list embedded in the same 2024-06-04 meeting file -- all explicitly Rapid Transit/BRT corridor construction. Introduction/First Reading, 13-1 (Van Meerbergen nay)."
+  },
+  {
+    "id": "2d25add9af89",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+    "confidence": "high",
+    "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 – A by-law to authorize Project RT1430-1D – Wellington Gateway Stops Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 188/202/203, Second Reading, 13-1."
+  },
+  {
+    "id": "4b3c9772a231",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Third Reading and Enactment Reading of by-laws authorizing land expropriation for the Wellington Gateway rapid transit project's Clark's Bridge civil works, and authorizing construction of the Wellington Gateway (South) rapid transit corridor and its transit stops.",
+    "confidence": "high",
+    "quote": "By-law No. L.S.P.-3515-140 - A by-law to authorize and approve an application to expropriate land...for the Wellington Gateway Project Clark's Bridge Civil Works; By-law No. W.-5699(c)-153...to authorize Project RT1430-1A – Wellington Gateway (South) Construction Rapid Transit; By-law No. W.-5701-154 – A by-law to authorize Project RT1430-1D – Wellington Gateway Stops Rapid Transit.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 188/202/203, Third Reading and Enactment, 13-1."
+  },
+  {
+    "id": "ce1056fc21f6",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Introduction and First Reading of by-laws amending the Official Plan and rezoning 530 Oxford Street West.",
+    "confidence": "medium",
+    "quote": "By-law No. C.P.-1512(df)-138 – A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 530 Oxford Street West; By-law No. Z.-1-243218 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 530 Oxford Street West.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Verified Bill 186 (C.P.-1512(df)-138 OPA) against the same enactment list, and read the full Planning and Environment Committee item (530 Oxford St W, OZ-9712): rezones FROM Community Shopping Area/Open Space TO Residential R9 Special Provision (density/height code D150*H115) plus retained commercial -- Council's stated reasons explicitly cite 'intensification and redevelopment' and 'an appropriate form of development at an intensity that is appropriate.' Introduction/First Reading, 13-1 (Trosow nay)."
+  },
+  {
+    "id": "a06da0b59a8e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported Second Reading of by-laws amending the Official Plan and rezoning 530 Oxford Street West.",
+    "confidence": "medium",
+    "quote": "By-law No. C.P.-1512(df)-138 – A by-law to amend the Official Plan, The London Plan for the City of London, 2016 relating to 530 Oxford Street West; By-law No. Z.-1-243218 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 530 Oxford Street West.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed. Same bills 186/206, Second Reading, 13-1."
+  }
+]

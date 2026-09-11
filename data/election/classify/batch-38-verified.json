@@ -1,0 +1,631 @@
+[
+  {
+    "id": "32b4514723ea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the RFPQ 2025-056 City Hall Campus redevelopment procurement process for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "6b2c3ddb7658",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received London & Middlesex Community Housing's 15-Year Regeneration Plan presentation for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "f52087bc4c6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the London & Middlesex Community Housing Master Regeneration Plan for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "468c1a3581f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the London & Middlesex Community Housing Master Regeneration Plan for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "31a8afe6dd04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 235, one of 9 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 235 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "6a61f8912820",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 235, one of 9 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 235 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "4c5fe895f55f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 235, one of 9 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 235 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "610f96c41cd7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received Councillor C. Rahman's submission on a proposed third-party appeal mechanism for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "9f172a9062e4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Committee into closed session to receive solicitor-client privileged advice on a specific property matter (1057-1061 Richmond Street); no substantive decision was made in open session.",
+    "confidence": "high",
+    "quote": "That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following:\na matter pertaining to advice that is subject to solicitor-client privilege related to 1057-1061 Richmond Street, including communications necessary for that purpose.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "a2f54ad36127",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2025 Portfolio Investments Report for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "b9f3dbc94ecd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on London's Newcomer Strategy: Choose London for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "2df3a39f2ae3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Tree Nursery Feasibility staff report and directed Civic Administration to retain consulting services to undertake a technical feasibility study for a municipally-operated tree nursery; no substantive policy decision was made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "67dc0eabf9d7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff update on the 122 Base Line tenant transition plan for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "6f0c9180d01c",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed that Downtown Plan actions already achievable within existing approved budgets be implemented, while directing a Q4 2026 progress report-back and referring actions requiring new funding to the future budget process.",
+    "confidence": "medium",
+    "quote": "the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED",
+    "flags": [
+      "informational_ask",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full motion (data/2026-06/2026-06-23 11th Meeting of Council.json, item 8.3.7, 12-1). Verified: quote is verbatim clause b) of the motion. Issue=downtown is correct (Downtown Plan). The motion is genuinely mixed — a) receive-for-info, b) IMPLEMENT already-budgeted actions, c) report-back Q4 2026 (informational ask), d) REFER new-funding actions to the future budget process — but clause b) is a real, independent BE IMPLEMENTED directive, not itself an informational ask or referral, so the motion is not an all-non-decision clause set. No denial-flip, no levy-sign issue (no $ figures), no relocation, and this is a full-Council final vote (not committee-stage). application-approval/expansive is the correct generic-fallback read of a yea that moved toward implementing rather than declining the plans in-scope actions. Confidence=medium is appropriately hedged given the referral/report-back carve-outs."
+  },
+  {
+    "id": "868680d4426d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2025 Portfolio Investments Report for information, with no policy decision made.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "ca56afbe5822",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 239, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 239 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "f15e724eaf8b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 239, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 239 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "c565e7ce13ef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 239, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 239 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "e13e7d30717c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 241, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 241 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "ff62f9e79e8f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 241, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 241 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "37c0b52d3603",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 241, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 241 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "d068330783d7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 244, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 244 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "a257fc2ae6bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 244, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 244 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "9f801ab21fd4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 244, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 244 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "88c4e66a9850",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 257, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 257 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "eb86cb7e9a39",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 257, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 257 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "d69dc9e98072",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 257, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 257 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "6152917b5c8a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 259, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 259 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "70975c5439b6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 259, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 259 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "7220bed6acd1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 259, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 259 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "d89c3ae6790e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 260, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 260 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "85840280ba86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 260, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 260 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "bda39e84756c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 260, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 260 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "533f71e28041",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 261, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 261 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "b7b949e1e551",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 261, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 261 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "5018f15f7c1e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 261, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 261 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "a6034005a909",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 258, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 258 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "c0985b885349",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 258, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 258 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "448ce4b857d1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 258, one of 30 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 258 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "0dfeac7c5c99",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on Part IV heritage designation for 471 Nightingale Avenue and directed that no further action be taken, declining to proceed with the designation; heritage is not a tracked election-hub issue.",
+    "confidence": "high",
+    "quote": "the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue, Ward 4 BE RECEIVED for information and no further action be taken",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "3f67f152a957",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 7 of the 12th Report of Council In Closed Session: a five-year licence agreement for the City’s exclusive use of the west half of Municipal Parking Lot #8 at 99 Dundas Street for arena-related parking; the matter does not fall within a tracked election-hub issue.",
+    "confidence": "high",
+    "quote": "the Licence Agreement between The Corporation of the City of London (the “City”) and London Civic Centre Limited Partnership (the “Licensee”) attached as Appendix “A”, for the exclusive use of the west half of Municipal Parking Lot #8, located at 99 Dundas Street, for vehicular parking purposes associated with Canada Life Place, for a term of five (5) years commencing August 1, 2026, and ending July 31, 2031 BE APPROVED, subject to the termination provisions therein",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Independently loaded the full meeting record and confirmed no operative decision exists beyond what is stated: pure BE RECEIVED / informational-ask / closed-session-procedural / non-tracked-issue text. Quote (where present) verified verbatim against the source meeting JSON. No missed direction."
+  },
+  {
+    "id": "783b5f8bd179",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 268, one of 18 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda. The classifier flagged the exact bill as undeterminable from a same-tally collision (9 motions at 10-2 across 3 bills); cross-checking this ids rollCallOrdinal (3) against the meetings own By-laws motion sequence and _all-motions.json resolves it unambiguously to Bill No. 268.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 268 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Bill number resolved (was left indeterminate) via cross-checking this motions rollCallOrdinal position in data/votes/_all-motions.json against the exact reading-motion sequence in the meeting JSON (data/2026-07/2026-07-21 12th Meeting of Council.json, item 13); confirmed by matching nay-voter list too. Classification unaffected: still issue=none, axis=null, polarity=null — a content-free by-law reading with no policy direction, regardless of which bill it enacts."
+  },
+  {
+    "id": "0aa859e282b0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 268, one of 18 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda. Resolved via rollCallOrdinal (4) cross-checked against the meetings own motion sequence.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 268 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Bill number resolved (was left indeterminate) via cross-checking this motions rollCallOrdinal position in data/votes/_all-motions.json against the exact reading-motion sequence in the meeting JSON (data/2026-07/2026-07-21 12th Meeting of Council.json, item 13); confirmed by matching nay-voter list too. Classification unaffected: still issue=none, axis=null, polarity=null — a content-free by-law reading with no policy direction, regardless of which bill it enacts."
+  },
+  {
+    "id": "124dbff41462",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 268, one of 18 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda. Resolved via rollCallOrdinal (5) cross-checked against the meetings own motion sequence.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 268 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Bill number resolved (was left indeterminate) via cross-checking this motions rollCallOrdinal position in data/votes/_all-motions.json against the exact reading-motion sequence in the meeting JSON (data/2026-07/2026-07-21 12th Meeting of Council.json, item 13); confirmed by matching nay-voter list too. Classification unaffected: still issue=none, axis=null, polarity=null — a content-free by-law reading with no policy direction, regardless of which bill it enacts."
+  },
+  {
+    "id": "504297d0188e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Revised Bill No. 285, one of 18 individual by-law reading motions in the omnibus By-laws item that formalize decisions already made elsewhere on the agenda. Resolved via rollCallOrdinal (6) cross-checked against the meetings own motion sequence.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Revised Bill No. 285 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Bill number resolved (was left indeterminate) via cross-checking this motions rollCallOrdinal position in data/votes/_all-motions.json against the exact reading-motion sequence in the meeting JSON (data/2026-07/2026-07-21 12th Meeting of Council.json, item 13); confirmed by matching nay-voter list too. Classification unaffected: still issue=none, axis=null, polarity=null — a content-free by-law reading with no policy direction, regardless of which bill it enacts."
+  }
+]

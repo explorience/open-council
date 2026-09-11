@@ -1,0 +1,513 @@
+[
+  {
+    "id": "e8cf897b49b3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have received the draft Victoria Park Secondary Plan for information.",
+    "confidence": "high",
+    "quote": "That the draft Victoria Park Secondary Plan BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "334b5b75597b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information, a communication from Councillor M. van Holst with respect to full-time Councillors for the next term.",
+    "confidence": "high",
+    "quote": "That the communication dated April 8, 2019 from Councillor M. van Holst with respect to full-time Councillors for the next term BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7185dac471ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law to enter into a grant Agreement with the TechAlliance of Southwestern Ontario from 2019 to 2023, and authorized the Mayor and Clerk to sign the Agreement.",
+    "confidence": "high",
+    "quote": "the by-law appended to the staff report dated May 6, 2019 as Appendix A, BE INTRODUCED at the Municipal Council meeting of May 21, 2019 to: a) approve a grant Agreement with the TechAlliance of Southwestern Ontario from 2019 to 2023; and b) authorize the Mayor and Clerk to sign the above-noted Agreement",
+    "flags": []
+  },
+  {
+    "id": "cf7f01ee5e1e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Added a new part directing that the matter of service reviews for specific service areas be added to a future Strategic Priorities and Policy Committee agenda, for the Committee to provide direction to Civic Administration on additional reviews to be undertaken.",
+    "confidence": "high",
+    "quote": "that the matter of service reviews for specific service areas BE ADDED to a future agenda of the Strategic Priorities and Policy Committee (SPPC) in order for the SPPC to provide direction to the Civic Administration for additional reviews that may be undertaken",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d1321ba94eea",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a 2020-2023 planning target of an average annual tax levy increase of approximately 2.7%, intended to maintain existing service levels and fund some additional priority investments.",
+    "confidence": "high",
+    "quote": "a 2020-2023 total, average annual tax levy increase of approximately 2.7% BE ENDORSED for planning purposes; it being noted that this is intended to address costs of maintaining existing service levels (estimated to be 2.2% per year) and provide some additional funding for prioritized additional investments over the 2020-2023 period",
+    "flags": []
+  },
+  {
+    "id": "cc22657eb3cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to undertake recruitment of applicants for vacancies on the London Hydro Board of Directors.",
+    "confidence": "high",
+    "quote": "The Clerk BE DIRECTED to undertake the recruitment of applicants for the London Hydro Board vacancies.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b535582faab3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received and referred, as noted on the added agenda, a communication from Councillor M. van Holst regarding full-time, daytime Council.",
+    "confidence": "high",
+    "quote": "That the added communication from Councillor M. van Holst, with respect to full-time, daytime Council, BE RECEIVED and BE REFERRED as noted on the added agenda.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "5cb530431235",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new part tasking the governance working group to discuss the virtues of daytime meetings, with the exception of public participation meetings, for the next term of Council, and provide a recommendation for further discussion at the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "the governance working group BE TASKED to discuss the virtues of  daytime meetings, with the exception of public participation meetings, for next term and provide a recommendation for further discussion at SPPC.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1580e0060580",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Draft Principles for the Victoria Park Secondary Plan, directing staff to continue working with consultants, stakeholders, and property owners to develop the Secondary Plan.",
+    "confidence": "medium",
+    "quote": "the Draft Principles for the Victoria Park Secondary Plan BE ENDORSED; it being noted that staff will continue to work with consultants, stakeholders, property owners, and other interested parties to develop the Secondary Plan",
+    "flags": []
+  },
+  {
+    "id": "0aac3d5fff89",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Civic Administration to report back to a future Civic Works Committee meeting, no later than the end of Q3 2019, on options enabled by the Province's Bill 65 for reducing speed limits in community safety zones, increasing fines for speeding in school and community safety zones, and implementing Automated Speed Enforcement systems in school and community safety zones.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to report back at a future meeting of the Civic Works Committee no later then the end of Q3 of 2019 with respect to enacting tools now provided by the Province through Bill 65, specifically: a)      reducing the speed limit in community safety zones in order to improve pedestrian safety; b)      increasing fines for speeding in school zones and community safety zones; c)      implementing Automated Speed Enforcement systems in school zones and community safety zones.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "89b96ddcb77d",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Alternative 2 for the Back to the River inaugural project at the Forks of the Thames, and directed Civic Administration to develop an additional business plan for the multi-year budget process removing the Springbank Dam suspension bridge project from further planning, development, or funding.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to develop an additional business plan for the multi-year budget process that removes the suspension bridge project (included in the above-noted Alternative 2) from any further planning, development or funding",
+    "flags": []
+  },
+  {
+    "id": "4c4d8bb54c5b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the preferred Alternative 3 for the One River Master Plan, in accordance with the Master Plan Environmental Assessment process requirements.",
+    "confidence": "high",
+    "quote": "part a)  the following action be taken with respect to the preferred Alternative 3 for the One River Master Plan: i)          the above-noted alternative BE ACCEPTED in accordance with the Master Plan Environmental Assessment process requirements;",
+    "flags": []
+  },
+  {
+    "id": "b6c35d5d9bec",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed Civic Administration to bring forward, as part of the multi-year budget process, an additional business case or cases providing options for full or partial removal of the Springbank Dam.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to bring forward, as part of the multi-year budget process, an additional business case(s) that will provide for options related to full removal or partial removal related to the Springbank Dam",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "89519b7ea5a7",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to a by-law amending Zoning By-law No. Z.-1 to rezone 2096 Wonderland Road North from a Residential R1 (R1-16) Zone to a Residential R5 Special Provision (R5-6(_)) Zone, permitting townhouse-scale residential intensification with a height of 2 to 4 storeys.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 198, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "f0d455193ed5",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to a by-law amending Zoning By-law No. Z.-1 to rezone 2096 Wonderland Road North from a Residential R1 (R1-16) Zone to a Residential R5 Special Provision (R5-6(_)) Zone, permitting townhouse-scale residential intensification with a height of 2 to 4 storeys.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 198, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8a079e0bc4ea",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted a by-law amending Zoning By-law No. Z.-1 to rezone 2096 Wonderland Road North from a Residential R1 (R1-16) Zone to a Residential R5 Special Provision (R5-6(_)) Zone, permitting townhouse-scale residential intensification with a height of 2 to 4 storeys.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 198, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "287ec057e401",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to amend Zoning By-law No. Z.-1 and rezone 2096 Wonderland Road North from a Residential R1 (R1-16) Zone to a Residential R5 Special Provision (R5-6(_)) Zone, permitting townhouse-scale residential intensification with a height of 2 to 4 storeys.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 13, 2019 BE INTRODUCED at the Municipal Council meeting to be held on May 21, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-16) Zone TO a Residential R5 Special Provision (R5-6(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "57c13f96e2de",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an $11,000,000 capital project for contract administration and construction of an Organic Rankine Cycle system at the Greenway Wastewater Treatment Plant, increased GHD Limited's engineering consulting fees by $900,000 to $1,707,515.50 including contingency, and approved the project's financing per the Sources of Financing Report.",
+    "confidence": "high",
+    "quote": "a capital project BE APPROVED to undertake contract administration and construction of the Organic Rankine Cycle system at Greenway Wastewater Treatment Plant in the total amount of $11,000,000; b)    the value of the total engineering consulting fees for GHD Limited BE INCREASED by $900,000.00 (excluding HST) to $1,707,515.50 including contingency",
+    "flags": []
+  },
+  {
+    "id": "a5b0d0679235",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred to the Strategic Priorities and Policy Committee, for consideration during budget deliberation, the direction to develop an additional business plan for the multi-year budget process removing the Springbank Dam suspension bridge project from further planning, development, or funding.",
+    "confidence": "high",
+    "quote": "That part c) ii) BE REFERRED to the Strategic Priorities and Policy Committee for consideration during budget deliberation, as follows: c) ii)       the Civic Administration BE DIRECTED to develop an additional business plan for the multi-year budget process that removes the suspension bridge project",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "753915ec9acc",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to develop an additional business plan for the multi-year budget process removing the Springbank Dam suspension bridge project from further planning, development, or funding.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to develop an additional business plan for the multi-year budget process that removes the suspension bridge project (included in the above-noted Alternative 2) from any further planning, development or funding",
+    "flags": []
+  },
+  {
+    "id": "9384707036db",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Following a reconsideration vote, directed Civic Administration to develop an additional business plan for the multi-year budget process removing the Springbank Dam suspension bridge project from further planning, development, or funding.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to develop an additional business plan for the multi-year budget process that removes the suspension bridge project (included in the above-noted Alternative 2) from any further planning, development or funding;",
+    "flags": []
+  },
+  {
+    "id": "2747bae3c4f7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part f) to read that the matter of service reduction and elimination for specific service areas be added to a future Strategic Priorities and Policy Committee agenda, for the Committee to provide direction to Civic Administration on additional reviews to be undertaken.",
+    "confidence": "high",
+    "quote": "that the matter of service reduction/elimination for specific service areas BE ADDED to a future agenda of the Strategic Priorities and Policy Committee (SPPC) in order for the SPPC to provide direction to the Civic Administration for additional reviews that may be undertaken;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "272eaf831e6f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a 2020-2023 planning target of an average annual tax levy increase of approximately 2.7%, intended to maintain existing service levels and fund some additional priority investments.",
+    "confidence": "high",
+    "quote": "a 2020-2023 total, average annual tax levy increase of approximately 2.7% BE ENDORSED for planning purposes; it being noted that this is intended to address costs of maintaining existing service levels (estimated to be 2.2% per year) and provide some additional funding for prioritized additional investments over the 2020-2023 period",
+    "flags": []
+  },
+  {
+    "id": "898affe6851d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, adding to a future Strategic Priorities and Policy Committee agenda the matter of service reduction and elimination for specific service areas, for the Committee to provide direction to Civic Administration on additional reviews to be undertaken.",
+    "confidence": "medium",
+    "quote": "That part f), as amended, BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "35c002ddc3b1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced a by-law amending Zoning By-law No. Z.-1 to rezone 307 Fanshawe Park Road East from a Holding Residential R1/Bonus Zone to a Holding Residential R5 Special Provision Zone, permitting a denser residential redevelopment, and would have determined that no further public notice was required.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 27, 2019 BE INTRODUCED at the Municipal Council meeting to be held on June 11, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1/ Bonus (h-5*h-54*h-89*R1-8*B-15) Zone TO a Holding Residential R5 Special Provision (h-5*h-54*h-89*R5-7 (_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "0326679d4020",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have noted that, while respectful of the concerns raised in the presentation to the London Housing Advisory Committee, the accusatory language contained in the presentation was not appropriate.",
+    "confidence": "high",
+    "quote": "it BE NOTED that the Municipal Council, although respectful of the concerns raised in the presentation, the accusatory language contained in the presentation is not appropriate.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "08b12dac963d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part a): requested Civic Administration to report back on making locations ineligible for Neighbourhood Decision Making Program funding in consecutive years.",
+    "confidence": "medium",
+    "quote": "Motion to approve part a).",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ba76d9f4e7bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b): requested Civic Administration to report back on splitting up Neighbourhood Decision Making Program geographic boundaries further.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b).",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "afa659b501f8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) i): referred clause 5.2 of the 4th Report of the Community Safety and Crime Prevention Advisory Committee to the Strategic Priorities and Policy Committee meeting of June 4, 2019, to be considered alongside the 1st Report of the Striking Committee.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) i).",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "9a27a80313c9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Civic Administration to consider and report back, before the start of the 2019-2020 school year, on the viability of extending the Neighbourhood Event Equipment Lending Policy's eligible-groups definition to include home and school associations.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to consider and report back, before the beginning of the 2019-2020 school year, with respect to the viability of extending the definition of eligible groups in the current equipment lending policy",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1c9e00758665",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed a slate of individuals to the Community Safety and Crime Prevention Advisory Committee for the term ending June 30, 2021.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Community Safety and Crime Prevention Advisory Committee for the term ending June 30, 2021: Izabela Bielaska",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "0202fea53650",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Included Jamieson Roberts on the slate of nominees for consideration for appointment to the Cycling Advisory Committee.",
+    "confidence": "high",
+    "quote": "That Jamieson Roberts be included on the slate of nominees for consideration for appointment to the Cycling Advisory Committee.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "91fb52b21847",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that only ballots with full rankings of all Cycling Advisory Committee nominees be counted on the preferred ballot for consideration of appointments.",
+    "confidence": "high",
+    "quote": "That only ballots for the Cycling Advisory Committee nominees, that are complete with full rankings of all nominees BE COUNTED on the preferred ballot for consideration of appointments.",
+    "flags": [
+      "appointment",
+      "procedural"
+    ]
+  },
+  {
+    "id": "d467980217f3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed a slate of individuals to the Cycling Advisory Committee for the term ending June 30, 2021.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Cycling Advisory Committee for the term ending June 30, 2021: Kate Brawn",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "48b22342aae6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave leave, under section 20.2 of the Council Procedure By-law, to introduce an emergent motion regarding directions to Civic Administration in relation to potential violations of the Municipal Elections Act, 1996.",
+    "confidence": "high",
+    "quote": "pursuant to section 20.2 of the Council Procedure By-law, leave BE GIVEN to introduce an emergent motion regarding directions to the Civic Administration in relation to potential violations of the Municipal Elections Act, 1996.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8d6cfda01828",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the application by Royal Premier Homes for 307 Fanshawe Park Road East back to Civic Administration, to undertake additional work with the applicant on tree protection, elevation, intensification, and site grading concerns, including a review by the Urban Design Peer Review Panel.",
+    "confidence": "high",
+    "quote": "the application of Royal Premier Homes, relating to the property located at 307 Fanshawe Park Road East, BE REFFERED back to the Civic Administration in order to undertake additional work with the applicant in relation to proposed tree protection, elevation, intensification and site grading concerns and a review to undertaken by the Urban Design Peer Review Panel",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "bd211c6aa742",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part a): requested Civic Administration to report back on making locations ineligible for Neighbourhood Decision Making Program funding in consecutive years.",
+    "confidence": "medium",
+    "quote": "Motion to approve part a): That the Civic Administration BE REQUESTED to report back at a future meeting of the Community and Protective Services Committee with respect to the following related to the London Strengthening Neighbourhoods Strategy Neighbourhood Decision Making Program: a)            making locations ineligible for funding in consecutive years in the Neighbourhood Decision Making Program;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "da7e632e45df",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b): requested Civic Administration to report back on splitting up Neighbourhood Decision Making Program geographic boundaries further.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b): b)            splitting up geographic boundaries further; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "314789f0d5fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part h) of the 1st Report of the Striking Committee, appointing a slate of individuals to the Cycling Advisory Committee for the term ending June 30, 2021.",
+    "confidence": "high",
+    "quote": "That part h) of the item 4.1 BE APPROVED. h)        the following individuals BE APPOINTED to the Cycling Advisory Committee for the term ending June 30, 2021: Kate Brawn Ben Cowie Christopher DeGroot Rebecca Henderson Benjamin Hill Jason Jordan Craig Linton Chris Pollett Ernie L. Raftis Jamieson Roberts Olivia Toth",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "c2ae8786f2ab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have split London into 10 geographic areas for the Neighbourhood Decision Making program.",
+    "confidence": "high",
+    "quote": "Motion to approve that London be split up into 10 geographic areas for the NDM program.",
+    "flags": []
+  },
+  {
+    "id": "816703186896",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that an idea cannot be submitted for the same address for Neighbourhood Decision Making program funding in back-to-back years.",
+    "confidence": "high",
+    "quote": "Motion to approve that an idea cannot be submitted for the same address for NDM program funding in back to back years.",
+    "flags": []
+  },
+  {
+    "id": "12613491e377",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a $30,000 cap on Neighbourhood Decision Making program funding to an individual project.",
+    "confidence": "high",
+    "quote": "Motion to approve a cap on NDM funding to an individual project at $30,000.",
+    "flags": []
+  },
+  {
+    "id": "0153f6fdcc74",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the sidewalk candidates proposed for the 2020 Annual New Sidewalk Program, for implementation in 2020.",
+    "confidence": "high",
+    "quote": "the sidewalk candidates proposed for the 2020 Annual New Sidewalk Program BE ENDORSED for implementation in 2020",
+    "flags": []
+  },
+  {
+    "id": "a034583e9b3a",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Civic Administration to develop a set of guidelines to evaluate energy-efficiency and Greenhouse Gas reduction investments, and provide suggested best practices.",
+    "confidence": "high",
+    "quote": "That Civic Administration BE REQUESTED to develop a set of guidelines to evaluate efficiency and Greenhouse Gas reduction investments and provide some suggested best practices.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7ad1ce23c250",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information purposes, the staff report update on Workplace Diversity and Inclusion.",
+    "confidence": "high",
+    "quote": "the staff report dated June 18, 2019 with respect to an update on Workplace Diversity and Inclusion BE RECEIVED for information purposes.",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]

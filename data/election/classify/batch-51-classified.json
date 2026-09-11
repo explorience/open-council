@@ -1,0 +1,502 @@
+[
+  {
+    "id": "cbf0f5905fb8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed April 2020 as Limb Loss Awareness Month in London.",
+    "confidence": "high",
+    "quote": "That, based on the application dated February 24, 2020, from the Amputee Coalition of Toronto, the month of April 2020 BE PROCLAIMED as Limb Loss Awareness Month in London.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f1de029e509b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the pending motion on the Automated Speed Enforcement program's implementation to specify its deferral period as \"not greater\" than one year rather than a fixed one year.",
+    "confidence": "high",
+    "quote": "That Item 18 (2.10) BE AMENDED to indicate \"not greater\" than one year.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "65656121c217",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing the Mayor to draft a letter to the Province outlining municipal-level implementation complications with the Province's Automated Speed Enforcement legislative changes, as part of the 180-day consultation period.",
+    "confidence": "medium",
+    "quote": "that the Mayor BE REQUESTED to draft a letter to the Province expressing the implementation complications that have been raised at the Municipal level with respect to the recent legislative changes as part of the 180-day consultation period.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a7695423f8dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred Item 19 (2.11), the Area Speed Limit Implementation program, back to the Civic Administration to bring back separate by-laws distinguishing arterial roads from other roads.",
+    "confidence": "high",
+    "quote": "The Item 19 (2.11) BE REFERRED back to the Civic Administration in order to bring back separate By-laws distinguishing arterial roads from other roads.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "7ac9f24d2c86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have exempted Fox Mill Crescent from the intended sidewalk installation associated with the planned watermain replacement and road rehabilitation project.",
+    "confidence": "high",
+    "quote": "That, notwithstanding requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Fox Mill Crescent BE EXEMPTED from the intended sidewalk installation associated with the planned watermain replacement project and road rehabilitation project",
+    "flags": []
+  },
+  {
+    "id": "7b4c4bb8e2f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Exempted Camden Crescent from the intended sidewalk installation and any planned tree removal associated with construction of the sidewalk.",
+    "confidence": "high",
+    "quote": "That, notwithstanding policies set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, Camden Crescent BE EXEMPTED from the intended sidewalk installation and any planned tree removal associated with construction of the sidewalk",
+    "flags": []
+  },
+  {
+    "id": "0d6b52aa2f96",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Awarded the Veterans Memorial Parkway Northward Extension and Huron Street Improvements construction contract to L82 Construction Ltd., authorized Stantec Consulting Ltd. as contract-administration engineer, and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the bid submitted by L82 Construction Ltd. at its tendered price of $11,248,527.24 (excluding HST) BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of four bids received and meets the City’s specification and requirements in all areas",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "506e731bcf2f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have required the interim Board of London & Middlesex Community Housing Inc. to include a Member of City of London Council and a Member of Middlesex County Council.",
+    "confidence": "high",
+    "quote": "That the proposed composition of the interim Board for the London & Middlesex Community Housing Inc. include a Member of City of London Council and a Member of Middlesex County Council.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "d997069c4162",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the minutes of the 7th Meeting held on April 7, 2020.",
+    "confidence": "high",
+    "quote": "That the Minutes of the 7th Meeting held on April 7, 2020, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0523f6a7cd92",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law setting 2020 property tax ratios across property classes in keeping with Option AB2.",
+    "confidence": "medium",
+    "quote": "the attached proposed by-law BE INTRODUCED at the Municipal Council Meeting to be held on April 21, 2020, reflective of committee recommendations in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal Act, 2001, to set tax ratios in the various property classes in keeping with the Option AB2 presented in the staff report dated April 14, 2020",
+    "flags": []
+  },
+  {
+    "id": "93f99f85ff58",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law setting 2020 property tax ratios across property classes.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Bill No. 150 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8406b58ced46",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law setting 2020 property tax ratios across property classes.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No.150 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "42499a99a7fe",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law setting 2020 property tax ratios across property classes.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No.150 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "9ea7befe3d45",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Devonshire Phase 2 infrastructure-renewal contract award to direct the Civic Administration to establish an on-street residential parking permit program for residents of 200 Devonshire Avenue whose parking cannot be accommodated on-site.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to establish an on-street residential parking permit program for the residents of 200 Devonshire Avenue whose parking cannot be accommodated on the site",
+    "flags": []
+  },
+  {
+    "id": "ca4acfc9e5bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Devonshire Phase 2 infrastructure-renewal contract award to direct that the on-street residential parking permit program for 200 Devonshire Avenue be discontinued at the conclusion of the current tenancies and not extended to future residents.",
+    "confidence": "high",
+    "quote": "the above-noted on-street residential parking program BE DISCONTINUED at the conclusion of the tenancies, and will not be provided to new future residents of the subject property.",
+    "flags": []
+  },
+  {
+    "id": "5eb2586e3483",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to proceed with implementing Initiative 2 of Appendix E, \"Enhancing Food Security Opportunities for Londoners,\" as a post-pandemic recovery measure.",
+    "confidence": "high",
+    "quote": "that the Civic Administration BE DIRECTED to proceed with the implementation of Initiative 2 of Appendix E (post pandemic – Preliminary Possible Recovery Measures for Londoners and Businesses), “Enhancing Food Security Opportunities for Londoners”",
+    "flags": []
+  },
+  {
+    "id": "781ff5c69399",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action on a communication proposing a pilot program to allow citizens to raise backyard chickens to secure a supply of eggs for their own consumption.",
+    "confidence": "high",
+    "quote": "That NO ACTION BE TAKEN with respect to the communication dated April 21, 2020, from S. Eden, with respect to a pilot program to allow citizens to raise chickens in order to secure a supply of eggs and hens for their own consumption.",
+    "flags": []
+  },
+  {
+    "id": "ed04150c19e9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have authorized the Civic Administration to investigate the necessary steps to work with the 1st Hussars Cavalry Fund to allow private donations toward restoring the Holy Roller tank memorial in Victoria Park.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE AUTHORIZED to investigate all necessary steps to work with the 1st Hussars Calvary Fund to allow private donations to be received for the cost of this project",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "e75e926fb9f9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Mayor to provide information to the London Chamber of Commerce, including past actions taken, to clarify the issues raised in its communication on the City's commercial property tax rate.",
+    "confidence": "medium",
+    "quote": "the Mayor BE DIRECTED to provide information to the London Chamber of Commerce, including past actions taken, to clarify the issues raised in the above-noted communication.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "bb023dc4f52a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the ballot appointment of a member to the London Public Library Board to a future Strategic Priorities and Policy Committee meeting when all members could vote simultaneously.",
+    "confidence": "high",
+    "quote": "That the matter of the ballot appointment of a member to the London Public Library Board, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee, at such time when all the members are able to vote simultaneously.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "c11637511423",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved proceeding with a 26-name slate for the appointment process to the London Public Library Board.",
+    "confidence": "high",
+    "quote": "The the appointment process which would proceed with a 26 name slate for consideration of appointment to the London Public Library Board, BE APPROVED.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "f217e05123ea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Sustained the Chair's ruling to proceed with considering a referral of the Library Board appointment-process motion.",
+    "confidence": "high",
+    "quote": "Shall the ruling of the Chair to proceed with consideration of a referral of the appointment process motion, BE SUSTAINED?",
+    "flags": [
+      "procedural",
+      "appointment"
+    ]
+  },
+  {
+    "id": "c984f45b764c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed July 11, 2020 as a day of Commemoration of the Srebrenica Genocide in London.",
+    "confidence": "high",
+    "quote": "That based on the application dated June 13, 2020, from the Institute for Research of Genocide Canada, the day July 11, 2020 BE PROCLAIMED 25. Commemoration of the Srebrenica Genocide in London.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4b8c310d0d08",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have introduced a by-law extending the Temporary Use (T-45) zoning at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three years.",
+    "confidence": "high",
+    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 29, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-45) Zone to permit a golf driving range and accessory uses for an additional three (3) year period.",
+    "flags": []
+  },
+  {
+    "id": "79fb0678ccbb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to remove the River Road Golf closure from the proposed 2020 COVID-19 service adjustments and to reopen River Road Golf as soon as possible.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to remove Item 10 “Golf” from Table 3 (as included in the staff report dated June 23, 2020) – Additional Proposed Service Adjustments – related to the closure of River Road Golf for the 2020 season, and the Civic Administration BE DIRECTED to open the River Road Golf as soon as possible.",
+    "flags": []
+  },
+  {
+    "id": "f3b9d733c950",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Item 10 Golf operating-service adjustment (closure of River Road Golf for the 2020 season) among the proposed COVID-19 financial-impact measures, noting the anticipated service impacts.",
+    "confidence": "high",
+    "quote": "Item 10 - Golf operating service adjustments identified in the above-noted Table 3 BE APPROVED, noting the anticipated service impacts associated with these actions",
+    "flags": []
+  },
+  {
+    "id": "2c8521ae1d10",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred the 2020 Assessment Growth funding allocated to three London Police Services Board positions, following the Board's own vote to defer filling those positions.",
+    "confidence": "medium",
+    "quote": "recognizing that the London Police Services Board has voted to defer three police positions provided for in its original 2020 Assessment Growth Business Case #12 request, the funding for the three positions that is currently allocated to the assessment growth request from the London Police Services Board BE DEFERRED",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "ef67f768f106",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 9, 2020 as FASD Awareness Day in London.",
+    "confidence": "high",
+    "quote": "That based on the application dated May 29, 2020, from the Ontario FASD Action Network - London Branch, the day of September 9, 2020 BE PROCLAIMED as FASD Awareness Day in London.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c45400374453",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed July 11, 2020 as a day of Commemoration of the Srebrenica Genocide in London.",
+    "confidence": "high",
+    "quote": "That based on the application dated June 13, 2020, from the Institute for Research of Genocide Canada, the day July 11, 2020 BE PROCLAIMED 25. Commemoration of the Srebrenica Genocide in London.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5584693e4838",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law extending the Temporary Use (T-45) zoning at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three years.",
+    "confidence": "high",
+    "quote": "the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on June 29, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-45) Zone to permit a golf driving range and accessory uses for an additional three (3) year period",
+    "flags": []
+  },
+  {
+    "id": "7aed21dfd650",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Item 10 Golf operating-service adjustment (closure of River Road Golf for the 2020 season) among the proposed COVID-19 financial-impact measures, noting the anticipated service impacts.",
+    "confidence": "high",
+    "quote": "item 10 - Golf operating service adjustments identified in the above-noted Table 3, noting the anticipated service impacts associated with these actions",
+    "flags": []
+  },
+  {
+    "id": "f085a5e1eb8e",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred the 2020 Assessment Growth funding allocated to three London Police Services Board positions, following the Board's own vote to defer filling those positions.",
+    "confidence": "medium",
+    "quote": "recognizing that the London Police Services Board has voted to defer three police positions provided for in its original 2020 Assessment Growth Business Case #12 request, the funding for the three positions that is currently allocated to the assessment growth request from the London Police Services Board BE DEFERRED",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "0c66aed842b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law extending the Temporary Use zoning at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three years.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of Added Bill No. 218, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "8acb99b1a5f9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law extending the Temporary Use zoning at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three years.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 218, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "88989fdbbb5a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law extending the Temporary Use zoning at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three years.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Added Bill No. 218, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "a85d7c1fd435",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized IBI Group Professional Services (Canada) Inc. to carry out construction inspection and contract administration for the Dundas Place - Thames Valley Parkway Active Transportation Connection project and approved its financing.",
+    "confidence": "high",
+    "quote": "IBI Group Professional Services (Canada) Inc. BE AUTHORIZED to carry out the construction inspection and contract administration for this project in the amount of $323,190.00 (excluding HST), in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b2e601c48be3",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Awarded the Dundas Street Cycle Track construction contract to Dufferin Construction Company and approved its financing, building new protected cycling infrastructure on Dundas Street.",
+    "confidence": "high",
+    "quote": "the bid submitted by Dufferin Construction Company, A division of CRH Canada Group Inc., at its tendered price of $3,683,709.53 (excluding HST), BE ACCEPTED; it being noted that the bid submitted by Dufferin Construction Company, A division of CRH Canada Group Inc. was the lowest of two bids received and meets the City's specifications and requirements in all areas",
+    "flags": []
+  },
+  {
+    "id": "ba4cbe68a0ca",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 45 of the 2020 Modified Operating Budget for the Core Area Action Plan, funding bistro chairs and tables to activate downtown public spaces and places.",
+    "confidence": "medium",
+    "quote": "That Item 45 of the 2020 Modified Operating Budget for the Core Action Plan, Activate Spaces and Places with bistro chairs and tables, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "b973b94ff6c0",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 1146-1156 Byron Baseline Road from a Residential R1 single-detached zone to a Holding Residential R5 Special Provision zone, a higher-density residential class.",
+    "confidence": "high",
+    "quote": "the revised, attached, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-7) Zone TO a Holding Residential R5 Special Provision (h-5*h-183*R5-7(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "f3b60102612c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have included a special provision in the Development Agreement for 307 Fanshawe Park Road East addressing on-site snow removal to lessen spring-thaw effects.",
+    "confidence": "medium",
+    "quote": "a special provision BE INCLUDED in the Development Agreement  to deal with the removal of the snow onsite to lessen the effect of the spring thaw;",
+    "flags": []
+  },
+  {
+    "id": "dec8352f26cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication regarding proposed sidewalks in the Silverleaf subdivision and took no further action, noting a petition signed by approximately 41 individuals on file.",
+    "confidence": "high",
+    "quote": "That the communication from R. Galizia, with respect to the proposed sidewalks in the Silverleaf subdivision BE RECEIVED and no further action be taken; it being noted that a petition signed by approximately 41 individuals is on file in the City Clerk's Office, with respect to this matter.",
+    "flags": []
+  },
+  {
+    "id": "ab35baeb6fbc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the draft mandatory face-covering by-law to extend its section 25 sunset date until the Province's O. Reg. 364/20 Stage 3 rules are revoked, in addition to the existing December 31, 2020 date.",
+    "confidence": "high",
+    "quote": "That the draft by-law BE AMENDED in section 25 by adding the following after \"until December 31, 2020\", \"or until such time as the regulation O. Reg 364/20: Rules for Areas in Stage 3, made under the  Emergency Management and Civil Protection Act, R.S.O. 1990, c. E.9. is revoked.\"",
+    "flags": []
+  },
+  {
+    "id": "379a188f1318",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law temporarily requiring the use of face coverings within enclosed publicly-accessible spaces in the City of London.",
+    "confidence": "high",
+    "quote": "the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2020, to temporarily require the use of face coverings within enclosed publicly-accessible spaces in the City of London",
+    "flags": []
+  },
+  {
+    "id": "c05e17a066ba",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 1146-1156 Byron Baseline Road from a Residential R1 single-detached zone to a Holding Residential R5 Special Provision zone, a higher-density residential class.",
+    "confidence": "high",
+    "quote": "the revised, attached, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-7) Zone TO a Holding Residential R5 Special Provision (h-5*h-183*R5-7(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "9eb2369722b8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication regarding proposed sidewalks in the Silverleaf subdivision and took no further action, noting a petition signed by approximately 41 individuals on file.",
+    "confidence": "high",
+    "quote": "That the communication from R. Galizia, with respect to the proposed sidewalks in the Silverleaf subdivision BE RECEIVED and no further action be taken; it being noted that a petition signed by approximately 41 individuals is on file in the City Clerk's Office, with respect to this matter.",
+    "flags": []
+  }
+]

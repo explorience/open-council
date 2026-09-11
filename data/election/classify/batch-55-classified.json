@@ -1,0 +1,472 @@
+[
+  {
+    "id": "c1ecdbe63ec4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved implementation-plan Idea for Action 3.5, providing better market data to attract new businesses, as part of the London Community Recovery Network response.",
+    "confidence": "high",
+    "quote": "a) the implementation plans for the following ideas for action submitted from the London Community Recovery Network and received by Municipal Council BE APPROVED: - 3.5 Provide better market data to attract new businesses;",
+    "flags": []
+  },
+  {
+    "id": "74f91fe1f257",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Awarded Tender No. 21-01 to L82 Construction Ltd. for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 project, authorized related contract administration, and approved its financing.",
+    "confidence": "high",
+    "quote": "the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;",
+    "flags": []
+  },
+  {
+    "id": "bf2c9702ca7a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the implementation plan for Idea for Action 5.4 back to the Civic Administration.",
+    "confidence": "high",
+    "quote": "Motion to refer the implementation plan for Item for Action #5.4 back to the Civic Administration.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "cbd5f947a3c0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the implementation plan for Idea for Action 5.4.",
+    "confidence": "high",
+    "quote": "Motion to approve the implementation plan for Item for Action #5.4.",
+    "flags": []
+  },
+  {
+    "id": "136d3865007c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the implementation plan for Idea for Action 5.6.",
+    "confidence": "high",
+    "quote": "Motion to approve the implementation plan for Item for Action #5.6.",
+    "flags": []
+  },
+  {
+    "id": "8de293beb45a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to continue operating River Road Golf Course for the 2021 season and to report back to the Strategic Priorities and Policy Committee on municipal golf operations no later than February 2022.",
+    "confidence": "high",
+    "quote": "a) the Civic Administration BE DIRECTED to proceed with the operation of River Road Golf Course for the 2021 season, in order to evaluate the municipal golf operations more holistically, in a \"post-COVID\" environment; and, b) the Civic Administration BE DIRECTED to bring back the matter of municipal golf operations to a future meeting of the Strategic Priorities and Policy Committee, no later than February 2022, with additional information and data with respect to the operations in 2021;",
+    "flags": []
+  },
+  {
+    "id": "cefd7af11e29",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to cease golf operations at the municipally operated River Road Golf Course, effective immediately, and to initiate the disposition-of-property process for the site.",
+    "confidence": "high",
+    "quote": "a) the Civic Administration BE DIRECTED to cease golf operations at the municipally operated River Road Golf Course, effective immediately, to mitigate budget pressures on the municipal golf system; b) the Civic Administration BE DIRECTED to initiate the disposition of property process in compliance with the Municipal Council's Sale and Other Disposition of Land Policy; and,",
+    "flags": []
+  },
+  {
+    "id": "978fc882ea25",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Allocated proceeds from any disposition of the River Road Golf Course lands to the municipal golf reserve fund, notwithstanding the Sale of Major Assets Policy.",
+    "confidence": "high",
+    "quote": "c) notwithstanding the Municipal Council's approved Sale of Major Assets Policy, the proceeds from any partial or full disposition of River Road Golf Course lands BE ALLOCATED to the municipal golf reserve fund;",
+    "flags": []
+  },
+  {
+    "id": "1df1a9862c08",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the pending motion on the London Community Recovery Network implementation plans by adding a new part directing that Idea for Action 3.5 (better market data for new businesses) be referred back to the Civic Administration to develop partnership agreements with Business Improvement Areas and other community partners, at no new net cost, with a report back to the Planning and Environment Committee.",
+    "confidence": "high",
+    "quote": "d) idea for action 3.5 \"provide better market data to attract new business\" BE REFERRED back to the Civic Administration to develop partnership agreements with Business Improvement Areas (BIAs) and other community partners to provide for enhanced opportunities through partnerships to access and gather existing and new data that could be made available to all involved partners, resulting in no new net cost to the municipality and to report back to a future meeting of the Planning and Environment Committee on this matter;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "7fa68701e354",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the budget amount for Idea for Action 1.3 (A Break in the Clouds) by increasing it to $120,000.",
+    "confidence": "high",
+    "quote": "That the budget amount for Action Item 1.3 - A Break in the Clouds, BE AMENDED by increasing the amount to $120,000.00.",
+    "flags": []
+  },
+  {
+    "id": "56727952d94c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 10 (2.8), the London Community Recovery Network Ideas for Action package, as amended by adding Action Item 3.1 (A Break in the Clouds) for all Business Improvement Areas.",
+    "confidence": "high",
+    "quote": "That Item 10 (2.8,) as amended, by adding Action Item - 3.1 - A Break in the Clouds for all Business Improvement Areas (BIAs), BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "91e9e5b3664c",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved Idea for Action 2.4, creating a regional holiday destination in downtown London.",
+    "confidence": "high",
+    "quote": "That part a) i) Idea for Action 2.4 - Create a regional holiday destination in downtown, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "c5fe0bd5edea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved Idea for Action 5.4, the City of Lights public art projection program.",
+    "confidence": "high",
+    "quote": "That part a)i), Idea for Action 5.4 - City of Lights: Public Art Projection Program, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "ed5b5cb102e0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered the prior failed vote on Idea for Action 5.4 (City of Lights Public Art Projection Program) after a member indicated they had voted incorrectly.",
+    "confidence": "high",
+    "quote": "That pursuant to section 13.2 of the Council Procedure By-law, part a) i) Idea for Action 5.4 - City of Lights: Public Art Projection Project, BE RECONSIDERED as a Member indicated that they inadvertently voted incorrectly.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e97a47aec731",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved Idea for Action 5.4, the City of Lights public art projection program, following a reconsideration vote.",
+    "confidence": "high",
+    "quote": "That part a) i) Idea for Action 5.4 - City of Lights: Public Art Projection Program BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "4cb365acef22",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Idea for Action 5.5, the London Mural and Art Walk.",
+    "confidence": "high",
+    "quote": "That part a) i) Idea for Action 5.5 - London Mural and Art Walk, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "e37fae07bb6f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Idea for Action 5.6, a mural façade grant program.",
+    "confidence": "high",
+    "quote": "That part a) i) Idea for Action 5.6 - Mural façade grant, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "3419c4893cb5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part d), following a reconsideration, to reduce the funding approved to implement the London Community Recovery Network's approved ideas for action from $1,980,000 to $1,300,000, drawn from the previously authorized $5 million Economic Development Reserve Fund contribution.",
+    "confidence": "high",
+    "quote": "d) $1,300,000 BE APPROVED to implement the above-noted approved ideas as set out in the business cases included in Appendix A of the above-noted staff report; it being noted that Municipal Council previously authorized $5 million to be contributed to the Economic Development Reserve Fund to support social and economic recovery measures; and,",
+    "flags": []
+  },
+  {
+    "id": "e8fcb9b81490",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 6 (2.2), the London Community Recovery Network Ideas for Action package for the Community and Protective Services Committee's items, as amended.",
+    "confidence": "medium",
+    "quote": "That Item 6 (2.2) BE APPROVED, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "12c191d83761",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved Idea for Action 5.6, a mural façade grant, following a reconsideration vote.",
+    "confidence": "high",
+    "quote": "That part a) i) - Idea for Action - 5.6 - Mural façade grant, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "40b7198e02be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Federal and Provincial governments work together to enhance paid sick leave for all workers, to reduce the risk of people attending work while ill and spreading COVID-19.",
+    "confidence": "high",
+    "quote": "That the Federal and Provincial Governments BE ADVISED that the Municipal Council of The Corporation of the City of London requests the two levels of government to work together, as soon as possible, to enhance paid sick leave for all, in order to ensure that individuals are not forced to attend their workplace when they are ill and therefore assisting in limiting the spread of COVID-19.",
+    "flags": []
+  },
+  {
+    "id": "2cb6c9292ef6",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Item 11 (2.5), awarding Tender No. 21-01 to L82 Construction Ltd. for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 project and its associated financing and contract administration.",
+    "confidence": "high",
+    "quote": "a) the bid submitted by L82 Construction Ltd. at its tendered price of $8,177,280.64 (excluding HST) for the Downtown Loop and Municipal Infrastructure Improvements Phase 1 Project BE ACCEPTED; it being noted that the bid submitted by L82 Construction Ltd. was the lowest of five bids received and meets the City's specifications and requirements in all areas;",
+    "flags": []
+  },
+  {
+    "id": "546d7156dd30",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred Idea for Action 2.1 (getting people moving around the downtown core) back to the Civic Administration for further consideration and redevelopment, with a report back to a future Civic Works Committee meeting after Downtown Loop construction is complete.",
+    "confidence": "high",
+    "quote": "That Item 9 (2.12) Idea for Action 2.1 - getting people moving around the core, BE REFERRED back to the Civic Administration for further consideration and redevelopment, with a report back to a future meeting of the Civic Works Committee with the revised Idea for Action 2.1, after the \"Downtown Loop\" construction has been completed; it being noted that this Idea was not included in the CORE Area Action Plan.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "74e328f6dfa9",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved Item 9 (2.12), the London Community Recovery Network idea for action focused on getting people moving around the downtown core.",
+    "confidence": "medium",
+    "quote": "That, Item 9 (2.12) BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "371a4b468174",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the decision on the future of River Road Golf Course to the next Strategic Priorities and Policy Committee meeting to consider additional operating models and proposals.",
+    "confidence": "high",
+    "quote": "That the matter of a decision related to the future of River Road Golf Course BE REFERRED to the next meeting of the Strategic Priorities of Policy Committee to provide for the consideration of additional models of operation and proposals.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1a83b4ddc9c6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part a) of Item 2 (3.1), directing the Civic Administration to cease golf operations at the municipally operated River Road Golf Course, effective immediately, to mitigate budget pressures on the municipal golf system.",
+    "confidence": "high",
+    "quote": "a) the Civic Administration BE DIRECTED to cease golf operations at the municipally operated River Road Golf Course, effective immediately, to mitigate budget pressures on the municipal golf system;",
+    "flags": []
+  },
+  {
+    "id": "71613bcd4f1d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended part b) of Item 2 (3.1) to direct the Civic Administration to hold a Public Participation Meeting on potential uses of the River Road Golf Course land before initiating the property-disposition process.",
+    "confidence": "high",
+    "quote": "b) prior to the initiation of the disposition of property process in compliance with the Municipal Council's Sale and Other Disposition of Land Policy, the Civic Administration BE DIRECTED to make the necessary arrangements to hold a Public Participation Meeting before a future meeting of the Strategic Priorities and Policy Committee, to receive input with respect to potential options for use of the land related to the River Road Golf Course, in order to ensure that all options are evaluated through the disposition of property process;",
+    "flags": []
+  },
+  {
+    "id": "53688e601856",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of Item 2 (3.1), directing the Civic Administration to initiate the disposition-of-property process for the River Road Golf Course site, in compliance with Council's Sale and Other Disposition of Land Policy.",
+    "confidence": "high",
+    "quote": "b) the Civic Administration BE DIRECTED to initiate the disposition of property process in compliance with the Municipal Council's Sale and Other Disposition of Land Policy; and,",
+    "flags": []
+  },
+  {
+    "id": "2ce8d03e6311",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part c) of Item 2 (3.1), allocating proceeds from any disposition of the River Road Golf Course lands to the municipal golf reserve fund, notwithstanding the Sale of Major Assets Policy.",
+    "confidence": "high",
+    "quote": "c) notwithstanding the Municipal Council's Sale of Major Assets Policy, the proceeds from any partial or full disposition of River Road Golf Course lands BE ALLOCATED to the municipal golf reserve fund;",
+    "flags": []
+  },
+  {
+    "id": "09dd8c802be6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on the Wharncliffe Road South Improvements project and the heritage dwelling at 100 Stanley Street.",
+    "confidence": "high",
+    "quote": "the staff report dated March 2, 2021, with respect to the Wharncliffe Road South Improvements project and the heritage dwelling located at 100 Stanley Street BE RECEIVED; it being noted that the communication dated February 28, 2021, from K. McKeating, ACO London Region, with respect to this matter, was received.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0631b7fcc770",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to submit an Environmental Assessment amendment for the Wharncliffe Road South Improvements project to permit demolition of the residence at 100 Stanley Street and take other steps needed to advance the project as quickly as possible.",
+    "confidence": "high",
+    "quote": "Motion to approve that the Civic Administration take the necessary actions to submit an amendment to the Environmental Assessment for item 2.3 Wharncliffe Road South improvements: 100 Stanley Street Update, to permit the demolition of the residence at 100 Stanley Street and any other necessary administrative steps to advance the project in as timely a manner as possible.",
+    "flags": []
+  },
+  {
+    "id": "479657ea4fd3",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part b) of the Dundas Place staff recommendation, directing that a by-law amendment be introduced to replace two-hour paid parking with one-hour free parking on Dundas Place.",
+    "confidence": "medium",
+    "quote": "b) the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021, for the purpose of amending By-law PS-113, entitled, \"A by-law to regulate traffic and the parking of motor vehicles in the City of London\" to replace the two-hour paid parking with one-hour free parking;",
+    "flags": []
+  },
+  {
+    "id": "f2b5d9dd1f8f",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part d) of the Dundas Place staff recommendation, directing the Civic Administration to bring forward a report amending the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place for the 2021 construction season.",
+    "confidence": "medium",
+    "quote": "d) the Civic Administration BE DIRECTED to bring forward a report to the March 30, 2021 Civic Works Committee meeting to amend the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place during the 2021 construction season. (2021-T02/T05)",
+    "flags": []
+  },
+  {
+    "id": "8685343db03a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted 8 to 7 on an amendment to Item 11 (2.3) Wharncliffe Road South Improvements: 100 Stanley Street Update at Council; the amendment's operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "73ba8d7b3d8e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 11 (2.3), the Wharncliffe Road South Improvements project and 100 Stanley Street heritage dwelling matter, as amended by Council.",
+    "confidence": "medium",
+    "quote": "That Item 11 (2.3), BE APPROVED, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "d0e2cd7b968e",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part b) of the Dundas Place staff recommendation at Council, introducing a by-law amendment to replace two-hour paid parking with one-hour free parking on Dundas Place.",
+    "confidence": "medium",
+    "quote": "b) the proposed by-law, as appended to the above-noted staff report, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021, for the purpose of amending By-law PS-113, entitled, \"A by-law to regulate traffic and the parking of motor vehicles in the City of London\" to replace the two-hour paid parking with one-hour free parking;",
+    "flags": []
+  },
+  {
+    "id": "5101c184c8b8",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part d) of the Dundas Place staff recommendation at Council, directing the Civic Administration to bring forward a report amending the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place for the 2021 construction season.",
+    "confidence": "medium",
+    "quote": "d) the Civic Administration BE DIRECTED to bring forward a report to the March 30, 2021 Civic Works Committee meeting to amend the Traffic and Parking By-law to create a temporary bicycle lane pilot project on Dundas Place during the 2021 construction season. (2021-T02/T05)",
+    "flags": []
+  },
+  {
+    "id": "7c66bcd7f1ec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Confirmed Council's commitment, as part of the Blue Community Program, that water is a human right to be provided to all residents regardless of ability to pay, and that the sale of bottled water will continue to be restricted in City of London facilities.",
+    "confidence": "high",
+    "quote": "c) the Municipal Council CONFIRMS its commitment to the following matters: i) the provision of water is a Human Right and water will be provided to all residents despite their ability to pay for the service; ii) the sale of bottled water will continue to be restricted in City of London facilities;",
+    "flags": []
+  },
+  {
+    "id": "1b9eebcc82a9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to consider narrower pavement widths, removing on-street parking on one side, 1.5-metre sidewalk widths, and construction techniques to retain more existing trees, when adding sidewalks in 2021 infrastructure reconstruction projects.",
+    "confidence": "medium",
+    "quote": "a) the Civic Administration BE DIRECTED to consider the following: i) narrowing pavement widths to 6.5 metres (or as narrow as 6.0 metres, if necessary) in order to reduce the risk of destabilizing existing trees, as well as curb-facing sidewalks; ii) removal of on-street parking on one side of the street; iii) sidewalk widths of 1.5 metres; and. iv) implementation of construction techniques that may be more labour-intensive, but could increase the likelihood of retaining more of the existing trees, while adding sidewalks; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "0fd076a4d033",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to move the proposed sidewalk in the 2021 infrastructure reconstruction projects from the west side of Imperial Road to the east side.",
+    "confidence": "high",
+    "quote": "b) the Civic Administration BE DIRECTED to move the proposed sidewalk on the West side of Imperial Road to the East side of Imperial Road;",
+    "flags": []
+  },
+  {
+    "id": "29b8121e4c68",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 2021 infrastructure reconstruction sidewalk item by removing the proposed new sidewalk on Abbey Rise (with the Scarlett Street connection to Wychwood) from the approved road reconstruction project, notwithstanding the London Plan's sidewalk-warrant requirements.",
+    "confidence": "high",
+    "quote": "c) notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on Abbey Rise (plus Scarlett connection to Wychwood) BE REMOVED from the approved road reconstruction project for the subject street;",
+    "flags": []
+  },
+  {
+    "id": "bcb700f94b83",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 2021 infrastructure reconstruction sidewalk item by removing the proposed new sidewalk on Friars Way from the approved road reconstruction project, notwithstanding the London Plan's sidewalk-warrant requirements.",
+    "confidence": "high",
+    "quote": "d) notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on Friars Way BE REMOVED from the approved road reconstruction project for the subject street;",
+    "flags": []
+  },
+  {
+    "id": "16488a8004fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 2021 infrastructure reconstruction sidewalk item by removing the proposed new sidewalk on Doncaster Avenue and Doncaster Place from the approved road reconstruction project, notwithstanding the London Plan's sidewalk-warrant requirements.",
+    "confidence": "high",
+    "quote": "e) notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on Doncaster Avenue and Doncaster Place BE REMOVED from the approved road reconstruction project for the subject street;",
+    "flags": []
+  },
+  {
+    "id": "159294dbdcf7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 2021 infrastructure reconstruction sidewalk item by removing the proposed new sidewalk on Bartlett Crescent from the approved road reconstruction project, notwithstanding the London Plan's sidewalk-warrant requirements.",
+    "confidence": "high",
+    "quote": "f) notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on Bartlett Crescent BE REMOVED from the approved road reconstruction project for the subject street;",
+    "flags": []
+  },
+  {
+    "id": "79265990b0b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 2021 infrastructure reconstruction sidewalk item by removing the proposed new sidewalk on St. Anthony Road from the approved road reconstruction project, notwithstanding the London Plan's sidewalk-warrant requirements.",
+    "confidence": "high",
+    "quote": "g) notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on St. Anthony Road BE REMOVED from the approved road reconstruction project for the subject street;",
+    "flags": []
+  }
+]

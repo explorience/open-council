@@ -1,0 +1,620 @@
+[
+  {
+    "id": "1aa1953fb73b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillor Jesse Helmer as Deputy Mayor for the City of London for the term commencing December 3, 2018 and ending November 30, 2020.",
+    "confidence": "high",
+    "quote": "That on the recommendation of the Mayor, the appointment of Councillor Jesse Helmer as Deputy Mayor for the City of London, for a term commencing on December 3, 2018 and ending on November 30, 2020 to carry out such responsibilities as set out and as provided for in the Council Policy “Appointment of Deputy Mayor Policy” and the Council Procedure By-law BE APPROVED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-03 Council item 11 source: mover/quote/vote (13-2) match verbatim. Personnel appointment, GLOBAL_EXCLUDE territory ('consideration of appointment to') -- issue=none correct."
+  },
+  {
+    "id": "528dcbb684d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that a ranked ballot be used for board and committee appointments where the number of applicants exceeds the number of appointments to be made.",
+    "confidence": "high",
+    "quote": "That a ranked ballot be utilized for those appointments where the number of applicants exceed the number of appointments to be made.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4 source: quote and 12-3 vote match verbatim. Pure procedural rule-setting, no tracked-issue content."
+  },
+  {
+    "id": "0e2e0ae4b5d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors P. Squire, S. Lehman, S. Lewis, E. Peloza, and M. van Holst to the Civic Works Committee for the term December 1, 2018 to November 30, 2019, with remaining appointments made by the City Clerk's ranked ballot method.",
+    "confidence": "high",
+    "quote": "That the following Council Members BE APPOINTED to the Civic Works Committee for the term December 1, 2018 to November 30, 2019: Councillor P. Squire Councillor S. Lehman Councillor S. Lewis Councillor E. Peloza Councillor M. van Holst and remaining appointments be made using the City Clerk's spreadsheet ranked ballot method.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.2 source: appointee list and 14-1 vote match verbatim. Committee appointment, GLOBAL_EXCLUDE territory."
+  },
+  {
+    "id": "b2034c3ee99d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Khan, T. Park, and S.L. Rooth to the London Transit Commission for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the London Transit Commission for the term December 1, 2018 to November 15, 2022: T. Khan, T. Park, and S.L. Rooth BE APPOINTED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.25 source: appointee list (T. Khan, T. Park, S.L. Rooth) and 13-2 vote match verbatim."
+  },
+  {
+    "id": "c90143838821",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Kimble F. Ainslie to the Lower Thames Valley Conservation Authority for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Kimble F. Ainslie BE APPOINTED to the Lower Thames Valley Conservation Authority for the term December 1, 2018 to November 15, 2022.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.26 source: quote and 14-1 vote match verbatim."
+  },
+  {
+    "id": "eefae54d1bc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors M. van Holst and S. Lewis to the Tourism London Board of Directors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Councillors M. van Holst and S. Lewis BE APPOINTED to the Tourism London Board of Directors for the term December 1, 2018 to November 15, 2022; it being noted that the above-noted appointments were made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.33 source: quote and 14-1 vote match verbatim."
+  },
+  {
+    "id": "b527961cbdb9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Mayor E. Holder and H. Usher to the Western University Board of Governors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the Western University Board of Governors for the term December 1, 2018 to November 15, 2022: a)         Mayor E. Holder BE APPOINTED; and, b)         H. Usher BE APPOINTED; it being noted that the appointment in part b) above was made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.39 source: quote and 11-2 vote match verbatim."
+  },
+  {
+    "id": "53d126ba0c9f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill, and D. Schmidt to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022: D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill and D. Schmidt; it being noted that the above-noted appointment was made in accordance with the  ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 4.8 source: quote and 14-1 vote match verbatim."
+  },
+  {
+    "id": "71eec98d9e48",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the committee until 4:30 PM, Wednesday, December 5, 2018, to reconvene at that time.",
+    "confidence": "high",
+    "quote": "That the committee recess until 4:30 PM, Wednesday December 5, and reconvene at that time.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-04 SPPC item 6 source: two motions exist under 'Adjournment' (recess, then adjourn-no-vote); classified entry correctly matches the RECESS motion, 14-1, voter list confirmed."
+  },
+  {
+    "id": "4956710e1cfb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading Bill No. 3 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: Dec 5 2018 Council item 13 has no bills registry/content field anywhere in the source JSON (top-level 'bills' and 'content' both empty/null) -- Bill No. 3's substance is genuinely undiscoverable from source data, confirming the low-confidence issue=none call per the era-note instruction rather than guessing from title. Vote 14-1 matches."
+  },
+  {
+    "id": "aac3debac668",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Second Reading of Bill No. 3 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same source file/limitation as 4956710e1cfb (Bill No. 3 second reading, 14-1 vote confirmed, content undiscoverable) -- low confidence issue=none correct."
+  },
+  {
+    "id": "d48e48e351bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 3.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of Bill No. 3 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same source file/limitation as 4956710e1cfb (Bill No. 3 third reading+enactment, 14-1 vote confirmed, content undiscoverable); 'Enactment' appears in the motion's own quoted text so enact-language is properly earned, not a first/second-reading violation."
+  },
+  {
+    "id": "9311fd89545f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed Council during consideration of the 1st Report of the Strategic Priorities and Policy Committee.",
+    "confidence": "high",
+    "quote": "That Council RECESS.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1 source: this is the 'That Council RECESS.' motion (14-1) sandwiched between the report-approval motion and its reconsideration -- confirmed distinct from 98bebdf8bf1c/a41a57778f62 below."
+  },
+  {
+    "id": "98bebdf8bf1c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Put to a vote the motion to approve the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33, and 4.39.",
+    "confidence": "medium",
+    "quote": "The motion to Approve the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33 and 4.39 is put.",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1 source: this is the 'is put' motion (14-1) immediately preceding a reconsideration motion that then passed 15-0 -- wrapper_preamble/procedural flags correct."
+  },
+  {
+    "id": "a41a57778f62",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, following a reconsideration vote, the 1st Report of the Strategic Priorities and Policy Committee, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33, and 4.39, each of which was pulled out for a separate appointment vote.",
+    "confidence": "medium",
+    "quote": "The 1st Report of the Strategic and Priorities Committee BE APPROVED, excluding Items 4.8, 4.12, 4.20, 4.24, 4.25, 4.28, 4.33 and 4.39.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1 source: confirmed this final 12-3 approval motion is the one that literally follows the 15-0 reconsideration motion in sequence -- 'following a reconsideration vote' qualifier is accurate, not invented. The named excluded items (4.8/4.12/4.20/4.24/4.25/4.28/4.33/4.39) all independently appear elsewhere in this batch tagged 'appointment', confirming the added clause 'each of which was pulled out for a separate appointment vote.'"
+  },
+  {
+    "id": "a7e6368b18c6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Eldon House board appointments (M. Donachie, G. Harrod, L. Henderson, R. Koudys, E. Nagel, J. O'Neil, T. Regnier, M. Spencer Golovchenko, and M. Tovey) to the Corporate Services Committee for candidate interviews.",
+    "confidence": "high",
+    "quote": "That the appointments to the Eldon House BE REFERRED to the Corporate Services Committee in order to interview the following individuals:  M. Donachie, G. Harrod, L. Henderson, R. Koudys, E. Nagel, J. O’Neil, T. Regnier, M. Spencer Golovchenko and M. Tovey.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.13 source: quote and 13-2 vote match verbatim; nine named candidates confirmed."
+  },
+  {
+    "id": "bad40dbb4d10",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the London Council for Adult Education appointment to the Corporate Services Committee to interview the top three candidates identified by the ranked ballot process.",
+    "confidence": "high",
+    "quote": "That the appointments to the London Council for Adult Education BE REFERRED to the Corporate Services Committee in order to interview the top three candidates identified by the ranked ballot process.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.21 source: quote and 12-3 vote match verbatim."
+  },
+  {
+    "id": "f3541ddff342",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the London Public Library Board appointments to add D. Vachon to the ranked-ballot appointees, alongside Councillors E. Peloza and A. Kayabaga and the other named appointees, for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Item 4.24 BE AMENDED to read as follows: That following actions be taken with respect to appointments to the London Public Library Board for the term December 1, 2018 to November 15, 2022: a)     E. Peloza and A. Kayabaga BE APPOINTED; and, b)     M. Boyce, S. Clark, B. Gibson, M. Hamou, J. McCall, J. Shelley, D. Vachon  BE APPOINTED; it being noted that the appointments in part b) above were made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.25 source: base motion (no vote, part of a two-motion sequence) lists six part-b) appointees without D. Vachon; the amendment motion adds D. Vachon and carries the 14-1 vote -- classified entry correctly matches the amendment, not the unvoted base text."
+  },
+  {
+    "id": "3053a02d2088",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part b) of the London Transit Commission public-member appointments to the December 17, 2018 Strategic Priorities and Policy Committee for further consideration, after errors were found in the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That part b) of clause 4.25 BE REFERRED to the December 17, 2018 Strategic Priorities and Policy Committee for further consideration, noting that errors were contained on the attached ranked ballot results.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.26 source (three-motion sequence: base/referral/appointment): this is the referral of part b) only, 12-3, matches verbatim."
+  },
+  {
+    "id": "f4de1f10e8c4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors P. Squire and J. Helmer to the London Transit Commission for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to appointments to the London Transit Commission, for the term December 1, 2018 to November 15, 2022: a)  Councillors P. Squire and J. Helmer BE APPOINTED; and,",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same 8.1.26 sequence: this is the third motion, appointing part a) only (Squire, Helmer), 14-1, matches verbatim -- correctly distinct from 3053a02d2088's part-b) referral."
+  },
+  {
+    "id": "29ef1cb59658",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillors M. Cassidy and E. Peloza, and M. Reid, to the Middlesex-London Health Unit Board of Directors for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That following actions be taken with respect to appointments to the Middlesex-London Health Unit Board of Directors, for the term December 1, 2018 to November 15, 2022: a)     Councillors M. Cassidy and E. Peloza BE APPOINTED; and, b)     M. Reid BE APPOINTED; it being noted that the appointment in part b) above was made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.29 source: quote and vote match verbatim."
+  },
+  {
+    "id": "a47d312362e7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the Western University Board of Governors appointment, appointing H. Usher for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "medium",
+    "quote": "The motion to approve part b) is put.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.40 source (three-motion sequence: base/part-a/part-b): this is the part b) vote (H. Usher), 9-4, correctly distinct from the unlisted part a) motion (13-0, Mayor Holder, not in this batch)."
+  },
+  {
+    "id": "3f9326c57a2e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill, and D. Schmidt to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Committee of Adjustment for the term December 1, 2018 to November 15, 2022: D. Brown, J. Fyfe-Millar, C. Miller, S. Polhill and D. Schmidt; it being noted that the above-noted appointment was made in accordance with the attached ranked ballot.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-05 Council item 8.1.9 source: quote and 12-3 vote match verbatim -- content identical to 53d126ba0c9f (SPPC recommendation vs Council adoption of same appointees), legitimately two distinct motions."
+  },
+  {
+    "id": "b3f3db85f608",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the zoos and mobile zoos matter back to Civic Administration for further review and legal advice, particularly regarding alignment with provincial legislation and impacts to working animals, with a report back to a future Community and Protective Services Committee meeting.",
+    "confidence": "high",
+    "quote": "That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-10 CPSC item 2.5 source (six-motion sequence): this is the first referral motion, 3-2, quote matches verbatim."
+  },
+  {
+    "id": "33152b70194e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred, following a reconsideration vote, the zoos and mobile zoos matter back to Civic Administration for further review and legal advice, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "confidence": "high",
+    "quote": "That this matter BE REFERRED back to the Civic Administration for further review and legal advice on this matter and a report back at a future meeting of the Community and Protective Services Committee, particularly regarding alignment with provincial legislation and impacts to working animals.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same CPSC 2.5 sequence: a 'Motion to reconsider the referral' (5-0) intervenes between the first referral (3-2 passed) and this second referral vote (2-3 FAILED) -- 'following a reconsideration vote' qualifier and 'Would have referred...' FAILED-motion hedge both confirmed accurate against source."
+  },
+  {
+    "id": "f7d3886ed12c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the staff recommendation, directing Civic Administration to draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses, for consideration at a future Community and Protective Services Committee meeting.",
+    "confidence": "medium",
+    "quote": "Motion to approve part b) of the staff recommendation.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same CPSC 2.5 sequence: 'Motion to approve part b) of the staff recommendation' passed 4-2, matches; part b) text (draft by-law amendments direction) sourced from the first (unvoted, base) motion in the sequence, confirmed present."
+  },
+  {
+    "id": "0a79c7d93d9d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred council expense restrictions and Council's policy for debate at standing committee meetings to the Governance Working Group for consideration.",
+    "confidence": "high",
+    "quote": "That the following matters BE REFERRED to the Governance Working Group for consideration, as contained in the submission dated November 30, 2018, from Councillor M. van Holst: a)      Council expense restrictions; and b)      Council policy for debate at standing committee meetings.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-11 CSC item 4.1 source: quote and 3-2 vote match verbatim; Governance-Working-Group referral of council's own expense/procedure matters, no tracked-issue content."
+  },
+  {
+    "id": "2ae2af467854",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Permitted Committee Members to ask questions of the delegates on the 2019 Development Charges Study.",
+    "confidence": "high",
+    "quote": "That questions from Committee Members, to the delegates BE PERMITTED, with respect to Development Charges Study.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-17 SPPC item 4.1 source: quote and 12-3 vote match verbatim. Motion only permits Q&A with delegates -- takes no position on DC rates, so despite 'Development Charges Study' appearing in the item title and motion text, issue=none is correct (a procedural Q&A-enabling motion is not a substantive budget position)."
+  },
+  {
+    "id": "c49d2e09ba27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Park, S.L. Rooth, and T. Khan to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That T. Park, S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-17 SPPC item 4.6 source: appointee list (Park, Rooth, Khan) and 11-4 vote match verbatim."
+  },
+  {
+    "id": "c5c15e5696d5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 33 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-18 Council item 13 (by-laws) + cross-referenced item 8.4.17 (PEC report) for Bill 33's substance: quote/vote (13-1) match verbatim; whatAYeaDid content (446 York St RSC-to-Holding-RSC rezoning for a supervised consumption facility) is correctly sourced from the linked 8.4.17 item text, not invented."
+  },
+  {
+    "id": "411c9e2ea61b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 33 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same cross-referenced source as c5c15e5696d5 (second reading, 13-1 confirmed); reading-stage phrase 'Gave second reading to...' correctly distinct from the first/third-reading siblings."
+  },
+  {
+    "id": "bfa214e8e94b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 33 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same cross-referenced source as c5c15e5696d5 (third reading+enactment, 13-1 confirmed); 'Enactment' appears in the motion's own quoted text ('Third Reading and Enactment of Bill No. 33'), so enact-language is properly earned."
+  },
+  {
+    "id": "7c23e5820f77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the potential draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses back to Civic Administration for additional consultation.",
+    "confidence": "high",
+    "quote": "That the matter of potential draft by-law amendments to the Business License By-law, L-131-16 to regulate zoos, fairs, exhibitions and circuses BE REFERRED back to the Civic Administration in order for additional consultation to take place.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-18 Council item 8.1.11 source (four-motion sequence): second motion, the referral-for-consultation vote, FAILED 5-9, quote matches verbatim; 'Would have referred...' hedge confirmed correct."
+  },
+  {
+    "id": "3f79b1365501",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part a) of the staff recommendation, receiving the December 10, 2018 staff report on zoos and mobile zoos.",
+    "confidence": "medium",
+    "quote": "The motion to approve part a) is put.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same 8.1.11 sequence: third motion, 'motion to approve part a) is put', PASSED 11-3, matches verbatim."
+  },
+  {
+    "id": "9fec5d03c504",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved part b) of the staff recommendation, directing Civic Administration to draft by-law amendments to the Business Licence By-law regulating zoos, fairs, exhibitions, and circuses.",
+    "confidence": "medium",
+    "quote": "The motion to approve part b) is put.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same 8.1.11 sequence: fourth motion, 'motion to approve part b) is put', FAILED 5-9, matches verbatim; 'Would have approved...' hedge confirmed correct."
+  },
+  {
+    "id": "bd4900b85b7b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that Civic Administration be advised Council opts in to allowing cannabis retail stores in London rather than passing a resolution to prohibit them, directed continued work with other governments on policing, by-law enforcement, and community-service impacts of cannabis legalization, and directed a report back to the Community and Protective Services Committee by April 2020.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE ADVISED that the Municipal Council endorses opting in to having cannabis retail stores in the community; c)            the Civic Administration BE DIRECTED to continue to work with the federal and provincial governments to identify current or future potential challenges relating to policing, by-law enforcement, and community services requirements associated with the legalization of recreational cannabis; and, d)            the Civic Administration BE DIRECTED to continue monitor impacts associated with recreational cannabis and report back to the Community and Protective Services Committee no later than April 2020; it being noted that the Province of Ontario has established a deadline of January 22, 2019 for Municipal Council to pass a resolution, if it so chooses, to prohibit cannabis retail stores from being located in the municipality. (2018-L11)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-18 Council item 8.1.12 source: quote and 13-1 vote match verbatim. Checked motion's own body text against issue-rules.ts policing keyword list ('london police services board', 'police services board', 'chief of police', 'police budget', 'special constable', 'policing budget', 'police complement', 'provincial policing', 'police service') -- bare 'policing' in 'challenges relating to policing, by-law enforcement' matches none of these phrases (all require 'police' + specific noun, or 'provincial policing' as an exact bigram not present). issue=none confirmed correct under current vocabulary."
+  },
+  {
+    "id": "835d79fc97b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law, for introduction at the December 18, 2018 Council meeting, rezoning 446 York Street from a Restricted Service Commercial (RSC2/RSC4) Zone to a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision Zone, to permit a supervised consumption facility as an accessory clinic use.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject property FROM a Restricted Service Commercial (RSC2/RSC4) Zone TO a Holding Restricted Service Commercial/Restricted Service Commercial Special Provision (h-(*)●RSC2/RSC4(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-18 Council item 8.4.17 source (full PEC report text, not the truncated corpus text): quote and 12-2 vote match verbatim. Checked full body text against housing keywords -- 'official plan'/'the london plan' phrases appear only in generic zoning-conformity boilerplate ('in conformity with the Official Plan', 'conforms to The London Plan') describing a Restricted-Service-Commercial-to-Holding-RSC rezoning whose entire substantive content is a supervised consumption facility, not a housing use; checked against encampments/homelessness keywords ('encampment', 'homeless', 'homelessness', 'unsheltered', 'emergency shelter', etc.) -- none present in the motion's own text despite the item's Z-8971 structural code and real-world salience. issue=none is correct per the 'commercial rezoning with no housing content is not housing' convention, which explicitly overrides the general Z-code housing signal for this case."
+  },
+  {
+    "id": "f418114bc715",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed S.L. Rooth and T. Khan to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That S.L. Rooth and T. Khan BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2018-12-18 Council item 9.2.10 source (two-motion sequence): first motion, S.L. Rooth + T. Khan, 13-2, matches verbatim."
+  },
+  {
+    "id": "36448440ec47",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed T. Park to the London Transit Commission for the term ending November 15, 2022, per the ranked ballot results.",
+    "confidence": "high",
+    "quote": "That T. Park BE APPOINTED to the London Transit Commission for the term ending November 15, 2022, in accordance with the ranked ballot appended to the meeting agenda.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against the same 9.2.10 sequence: second motion, T. Park only, 10-5, matches verbatim -- correctly distinct appointee subset from f418114bc715."
+  },
+  {
+    "id": "543fa20a9c80",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the City's comments on Bill 66, “Restoring Ontario's Competitiveness Act, 2018,” to add a request that the Province protect the public's right to community-based land use planning, health and environmental protections, public participation, and the right to appeal.",
+    "confidence": "high",
+    "quote": "Motion to add a new part c) which reads: the Premier and the Ministers of Finance, and Municipal Affairs and Housing BE INFORMED that the City of London would request that any proposed legislation protect the public's right to community based land use planning, health and environmental protections, public participation and the public’s right to appeal.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-07 PEC item 2.5 source (two-motion sequence): quote matches the SECOND motion (the amendment adding part c), 4-1, not the first base motion (5-0) -- vote tally confirms correct motion selected. Checked body text against housing keywords -- 'community based land use planning' is not a listed keyword phrase ('official plan', 'the london plan' are listed but absent here); 'Municipal Affairs and Housing' appears only as a ministry name, not housing policy content. issue=none confirmed correct."
+  },
+  {
+    "id": "e96321495363",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the rezoning application by 2492222 Ontario Inc. for 536 and 542 Windermere Road back to Civic Administration for further review incorporating community concerns (tree preservation, fencing/access, and yard-setback requirements), with a report back to a future public participation meeting.",
+    "confidence": "medium",
+    "quote": "That the application of 2492222 Ontario Inc., relating to the properties located at 536 and 542 Windermere Road BE REFERRED to the Civic Administration for further review taking into consideration the concerns raised by the community and report back to a future public participation meeting before the Planning and Environment Committee after taking into consideration the following matters: i)              the concerns and comments raised by members of the public; ii)             a tree preservation plan to preserve as many trees as possible on the site; iii)            the presence of fencing that would restrict access to Orkney Crescent from the site; iv)           a minimum front yard depth of 2.1 metres; v)            side yard depths reflective of 0.5 metres per one metre of building height; and, vi)        a minimum rear yard setback of 6 metres",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-07 PEC item 3.6 source: quote matches verbatim (all six numbered conditions). Z-8945 structural code + genuine rezoning-application substance (not a wrapper) confirms issue=housing; referral to Civic Administration correctly nulls axis/polarity per the deferral convention."
+  },
+  {
+    "id": "b4a875dbac13",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Consent agenda items receiving staff updates on Workplace Diversity and Inclusion, and on developing an Equity and Inclusion Lens for City policies, procedures, and programs.",
+    "confidence": "medium",
+    "quote": "That items 2.1 and 2.2 BE APPROVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-08 CSC item 2 (Consent) source: quote ('items 2.1 and 2.2 BE APPROVED') matches verbatim, 5-1 vote confirmed. Cross-checked items 2.1/2.2 individually -- both are staff updates 'BE RECEIVED for information' (2.1 confirmed 6-0), no policy adoption. informational_ask flag and issue=none correct."
+  },
+  {
+    "id": "8972470812dc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Considered the draft Vision, Mission, and Values statements for Council's 2019-2023 Strategic Plan and directed that they be shared with the community for feedback.",
+    "confidence": "high",
+    "quote": "That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts and received the attached presentation from L. Livingstone, Managing Director, Neighbourhood, Children & Fire Services.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-14 SPPC item 3.1 source: quote and 10-5 vote match verbatim."
+  },
+  {
+    "id": "f3adb2e31b98",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 2nd Report of the Corporate Services Committee, excluding items 2 (2.1) and 3 (2.2), which were voted on separately.",
+    "confidence": "medium",
+    "quote": "That the 2nd Report of the Corporate Services Committee BE APPROVED. excluding items 2(2.1) and 3(2.2).",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-15 Council item 8.2 source: quote and 14-1 vote match verbatim, wrapper excluding items 2(2.1)/3(2.2) for separate votes."
+  },
+  {
+    "id": "6311f21fa7e3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Considered the draft Vision, Mission, and Values statements for Council's 2019-2023 Strategic Plan and directed that they be shared with the community for feedback.",
+    "confidence": "high",
+    "quote": "That the attached draft Vision, Mission and Values statements, for Council’s Strategic Plan 2019 – 2023 BE CONSIDERED and BE SHARED with the community to seek feedback; it being noted that the Strategic Priorities and Policy Committee broke into working groups to develop the above-noted drafts and received the attached presentation from L. Livingstone, Managing Director, Neighbourhood, Children & Fire Services.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2019-01-15 Council item 9.2.2 source: quote and 11-4 vote match verbatim -- confirmed a distinct Council-adoption motion (different date, different vote tally) from 8972470812dc's SPPC-level recommendation, not a duplicate."
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "c924195daa93",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No.'s 255 to 303 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 255 to 303, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e556b7dc1240",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No.'s 255 to 303 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 255 to 303, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1bda609dc5ad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No.'s 255 to 303.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 255 to 303, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3a32183b0a6a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed a comprehensive staff review, jurisdictional scan, and public participation meeting on the Yard and Lot Maintenance By-law, without making any by-law change.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake a comprehensive review of the Yard and Maintenance By-law that encompasses the by-law provisions, definitions and related policies concerning naturalization of yards, naturalized areas and wildflower meadows, weeds, grass, and what is considered waste",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "80d8b850d498",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received an ITCAC presentation on the Mobility Master Plan, requested transit-service information from the London Transit Commission, and approved unspecified report clauses.",
+    "confidence": "medium",
+    "quote": "the London Transit Commission BE REQUESTED to provide the following information to the Integrated Transportation Community Advisory Committee",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cbe2bddf72f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Thanked the Integrated Transportation Community Advisory Committee and received its presentation with no further action taken.",
+    "confidence": "high",
+    "quote": "the Integrated Transportation Community Advisory Committee (ITCAC) BE THANKED, and the ITCAC Presentation, BE RECEIVED with no further action be taken",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "9a0c77aa4687",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed the City Manager recruitment and selection plan and appointed named Council members to the Recruitment and Selection Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "d4de3d22e293",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected specific Council members, by secret ballot, to sit on the Recruitment and Selection Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "6bcec8b7a7ff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved the Committee into closed session to receive solicitor-client privileged legal advice.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "07c31d8c2116",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Removed 176 Piccadilly Street from the City's Register of Cultural Heritage Resources.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "c9f70d40d5ef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 343 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 343, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "08d8a1b03238",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 343 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 343, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ef5ba3d2a570",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No. 343.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 343, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4a2684dea668",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 360 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 360, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e62835ee0cad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 360 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 360, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8a6ff1288775",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No. 360.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 360, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9271b643e448",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Added Bill No. 365 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 365, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "15e7cc1be655",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Added Bill No. 365 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 365, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b55fa8a8352a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Added Bill No. 365.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 365, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "215e096038c2",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the source of financing for the Budweiser Gardens expansion project as set out in the staff report's Source of Financing Report.",
+    "confidence": "medium",
+    "quote": "the source of financing for the proposed expansion BE APPROVED as set out in the Source of Financing Report as appended to the staff report as Appendix “B”",
+    "flags": []
+  },
+  {
+    "id": "73b2994a8710",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 366 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 366, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bf5ed7285397",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 367 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 367, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "35a5afb55e5c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 367 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 367, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "60193395500b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No. 367.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 367, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bf0e322f9a07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected members, by secret ballot, to fill two seats on the London Transit Commission.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "c64ab5becbeb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received provincial correspondence on a proposed Homes Ontario agency, advised the Province that Council supports debating a plan to fund 250,000 affordable and non-market homes, and referred the matter to AMO.",
+    "confidence": "medium",
+    "quote": "the Government of Ontario should establish and fund a new public agency called Homes Ontario to finance and build 250,000 new affordable and non-market homes on public land over ten years, to be operated and/or constructed by public, non-profit or co-op housing providers",
+    "flags": [
+      "informational_ask",
+      "referral"
+    ]
+  },
+  {
+    "id": "4af80d903e49",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged advice about 50 King Street and 399 Ridout Street.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9350a674c2d4",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the source of financing for the Budweiser Gardens expansion project as set out in the staff report's Source of Financing Report.",
+    "confidence": "medium",
+    "quote": "the source of financing for the proposed expansion BE APPROVED as set out in the Source of Financing Report as appended to the staff report as Appendix “B”",
+    "flags": []
+  },
+  {
+    "id": "af07e8e17229",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 369 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 369, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8fdd5e0c312d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 369 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 369, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "34e4f5fac5ee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No. 369.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 369, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "15e6047b0be0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No.'s 373 and 380 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 373 and 380, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9d7d90307e98",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No.'s 373 and 380 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 373 and 380, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ee17ecdd2c40",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No.'s 373 and 380.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 373 and 380, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "635bbd16c5b9",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Community Advisory Committee on Planning's comments on a draft Plan of Subdivision at 1944 Bradley Avenue, without deciding the application itself.",
+    "confidence": "high",
+    "quote": "the Community Advisory Committee on Planning (CACP) made the following comments with respect to the Notice of Planning Application, dated September 18, 2023, from L. Mottram, Senior Planner, related to a Draft Plan of Subdivision for the property located at 1944 Bradley Avenue",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3d5f2ea9f2fb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 412 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 412, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5595650f7804",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Bill No. 412 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 412, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "eeda296fe09b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Bill No. 412.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 412, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9a8d7281eba4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Northridge Neighbourhood Connectivity Plan to inform the Renew London construction program, except for a list of named streets' sidewalks.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "8c92810635e8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected named Council members, by secret ballot, for the Community and Protective Services Committee.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "263adca80602",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Added Bill No. 416 introduction and first reading.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 416, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9c420f810507",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported giving Added Bill No. 416 second reading.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 416, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c440895346eb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported the third reading and enactment of Added Bill No. 416.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 416, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bc95b2ec8254",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Northridge Neighbourhood Connectivity Plan to inform the Renew London construction program, except for a list of named streets' sidewalks.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  },
+  {
+    "id": "7213109f48e9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Huron Heights Neighbourhood Connectivity Plan to inform the Renew London construction program, except for a list of named streets' sidewalks.",
+    "confidence": "high",
+    "quote": "",
+    "flags": []
+  }
+]

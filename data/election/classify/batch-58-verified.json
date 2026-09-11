@@ -1,0 +1,589 @@
+[
+  {
+    "id": "0b0d815cfedb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a revised by-law ratifying and confirming the 2020 Annual Resolution of the Shareholder of London & Middlesex Community Housing Inc.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of the revised Bill No. 293 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 13 content[3]: quote verbatim ('Introduction and First Reading of the revised Bill No. 293 BE APPROVED'), 13-1 matches manifest. Ratifying an LMCH shareholder resolution -- no tracked-issue keyword, issue=none correct."
+  },
+  {
+    "id": "0601cd6fd1e2",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones to permit continued use of the site as a surface parking lot.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 302 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 13 content[6]: quote is verbatim '...Bill No. 302 BE APPROVED.', result 11-3 matches manifest. Substance (rezoning 193 Queens Ave to permit continued surface-parking use) cross-traced from sibling item 8.4.16 (Z-9327); issue=downtown correct (motion text repeatedly says 'Downtown'), no housing content. axis=application-approval is the correct generic fallback (no downtown-specific AXIS_PATTERNS exist) with AFFIRM_RE ('BE APPROVED', not denied) -> valence +1 -> expansive. No stance verb, not a wrapper."
+  },
+  {
+    "id": "97e24e8789f7",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones to permit continued use of the site as a surface parking lot.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 302 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs item 13 content[7]: quote verbatim, 11-3 matches. Second-reading stage phrase distinct from first/third siblings. Same issue/axis/polarity reasoning as first reading."
+  },
+  {
+    "id": "7014f1bee981",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones to permit continued use of the site as a surface parking lot.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 302 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs item 13 content[8]: quote verbatim ('Third Reading and Enactment...BE APPROVED'), 11-3 matches. 'Gave third reading and enacted' correctly used only because the motion's own text says 'Enactment'."
+  },
+  {
+    "id": "bb9092ee74f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Memorandum of Understanding item with the Upper Thames River Conservation Authority to add a direction that the Civic Administration bring the final Memorandum of Understanding forward to a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "d) the Civic Administration BE DIRECTED to bring forward the final DMOU to a future meeting of the Planning and Environment Committee.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 8.4.14 content[1]: quote verbatim ('the Civic Administration BE DIRECTED to bring forward the final DMOU...'), 13-1 matches manifest. informational_ask correctly flagged (report-back directive, not itself a decision on the MOU's substance). issue=none correct -- inter-agency MOU process text doesn't hit any housing/climate keyword."
+  },
+  {
+    "id": "f6b196e76a2f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, updating the Memorandum of Understanding between the City of London and the Upper Thames River Conservation Authority governing the review of Planning Act applications.",
+    "confidence": "medium",
+    "quote": "That Item 14, clause 2.2, as amended BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs item 8.4.14 content[2]: quote verbatim ('That Item 14, clause 2.2, as amended BE APPROVED'), 13-1 matches manifest. wrapper_preamble correctly flagged; whatAYeaDid accurately summarizes the underlying substance (content[0]+amendment) without inventing detail. issue=none correct (no housing/tracked keyword in the MOU text)."
+  },
+  {
+    "id": "fa59798e9290",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones, to permit continued use of the property as a surface commercial parking lot supporting Downtown businesses pending a gradual transition away from surface parking.",
+    "confidence": "high",
+    "quote": "the recommended amendment is appropriate to help maintain an adequate supply of parking to service businesses in the Downtown pending the gradual transition away from the use of surface commercial parking lots as transit ridership increases and as alternative parking spaces are provided",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 8.4.16: quote is a verbatim substring of the operative reasons clause ('the recommended amendment is appropriate to help maintain an adequate supply of parking...'), 10-4 matches manifest. Not a wrapper (full substantive INTRODUCED clause). whatAYeaDid figures (Holding Downtown Area -> Holding Downtown Area/Temporary, surface parking) verified against full text. issue=downtown correct, axis=application-approval/expansive correct (AFFIRM_RE, not denied)."
+  },
+  {
+    "id": "3ec37d484cac",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the City of London elected-official appointments to the London & Middlesex Community Housing Board of Directors to the next Strategic Priorities and Policy Committee meeting for consideration.",
+    "confidence": "high",
+    "quote": "That the City of London Elected Official appointments to the London & Middlesex London Community Housing Board of Directors BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee for consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: FAILED (7-7) referral motion, whatAYeaDid correctly hedged 'Would have referred...', quote verbatim matches manifest title exactly, referral flag correct, issue=none correct (appointment-process referral)."
+  },
+  {
+    "id": "81c09ede86c4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have appointed Michael van Holst to the London & Middlesex Community Housing Inc. Board of Directors (Fourth Class), for the term ending with the term of Municipal Council.",
+    "confidence": "high",
+    "quote": "the following BE APPOINTED to the London & Middlesex Community Housing Inc.:\n\n\n\nMichael van Holst, City of London, term ending with the term of Municipal Council (Fourth Class);",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: FAILED (6-8) appointment motion (van Holst to LMCH), whatAYeaDid correctly hedged 'Would have appointed...', quote verbatim, appointment flag correct, issue=none correct (GLOBAL_EXCLUDE personnel decision)."
+  },
+  {
+    "id": "f257d98b2b47",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Phil Squire to the London & Middlesex Community Housing Inc. Board of Directors (Fourth Class), for the term ending with the term of Municipal Council.",
+    "confidence": "high",
+    "quote": "the following BE APPOINTED to the London & Middlesex Community Housing Inc.:\nPhil Squire, City of London, term ending with the term of Municipal Council (Fourth Class);",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot/appointment row, flags appointment(+not_divided where applicable), empty quote appropriate (no prose motion text on a ballot round), issue=none correct (GLOBAL_EXCLUDE 'consideration of appointment to' / personnel decision, not a policy position)."
+  },
+  {
+    "id": "aea7ffd0051c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved acquiring 166 Wellington Road for $685,000 and 178 Wellington Road for $442,000, and approved financing for both acquisitions, for the Wellington Gateway Project road improvements.",
+    "confidence": "high",
+    "quote": "the offer submitted by David Schleihauf and Nikesha Schleihauf (the “Vendor”), to sell the subject property to the City, for the sum of $685,000.00 BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 9.1: quote is a verbatim substring of the operative acquisition clause, dollar figure and result match manifest exactly, issue=none correct (land acquisition for road-improvement right-of-way, no tracked-issue keyword hit -- not classified transit/budget). Dollar figures verified: $685,000 (166 Wellington) exact match to source text."
+  },
+  {
+    "id": "e2401b075f86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved acquiring a portion of the property at 1349 Southdale Road West for $132,600, and approved financing for the acquisition, for the Southdale Road West and Wickerson Road Improvements project.",
+    "confidence": "high",
+    "quote": "the Agreement of Purchase and Sale, attached as Appendix “C”, submitted by Mary Maclean and Alfred Donald Maclean (the “Vendor”), to sell the subject property to the City, for the sum of $132,600.00be BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-07-06 item 9.1: quote is a verbatim substring of the operative acquisition clause, dollar figure and result match manifest exactly, issue=none correct (land acquisition for road-improvement right-of-way, no tracked-issue keyword hit -- not classified transit/budget). Dollar figure verified: $132,600 exact match to source text."
+  },
+  {
+    "id": "c14c4a1b9b7b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to by-laws authorizing the property acquisitions at 166 and 178 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That introduction and First Reading of Bill No.’s 306 and 307 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "d794481e97ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to by-laws authorizing the property acquisitions at 166 and 178 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.’s 306 and 307 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "8b37c907201f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted by-laws authorizing the property acquisitions at 166 and 178 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.’s 306 and 307 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "fe0735b1ac0f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to a by-law authorizing the property acquisition at 1349 Southdale Road West for the Southdale Road West and Wickerson Road Improvements project.",
+    "confidence": "medium",
+    "quote": "That introduction and First Reading of Bill No. 308 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "7801121fb1bc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law authorizing the property acquisition at 1349 Southdale Road West for the Southdale Road West and Wickerson Road Improvements project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 308 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "32d03b446633",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law authorizing the property acquisition at 1349 Southdale Road West for the Southdale Road West and Wickerson Road Improvements project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 308 BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs meeting JSON: quote is a verbatim substring of the by-law reading motion, reading-stage phrase (first/second/third+enacted) matches the motion's own text, result matches manifest, issue=none correct (routine property-acquisition by-law, no tracked-issue keyword)."
+  },
+  {
+    "id": "948f8a7c9419",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected Tania Goodine, Margaret Parks, and Steven Stefanko, by ranked ballot, as candidates to be interviewed for appointment to the London Hydro Inc. Board of Directors.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot/appointment row, flags appointment(+not_divided where applicable), empty quote appropriate (no prose motion text on a ballot round), issue=none correct (GLOBAL_EXCLUDE 'consideration of appointment to' / personnel decision, not a policy position)."
+  },
+  {
+    "id": "b9d20d58b012",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved the Terms of Reference for the Oxford Wonderland Secondary Plan.",
+    "confidence": "high",
+    "quote": "the Terms of Reference for the Oxford Wonderland Secondary Plan, appended to the staff report dated July 26, 2021 as Appendix \"A\", BE ENDORSED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear/none: FAILED (1-5) motion, whatAYeaDid correctly hedged 'Would have approved...'. 'Terms of Reference' is in GLOBAL_EXCLUDE so issue=none is structurally correct regardless of secondary-plan/housing-adjacent language -- not a miss. procedural flag correct."
+  },
+  {
+    "id": "d8ebaa025982",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 414-418 Old Wonderland Road from a Residential R1 and Urban Reserve zone to a Holding Residential R5 Special Provision zone and Open Space zone, to permit intensification in the form of townhouses.",
+    "confidence": "high",
+    "quote": "the subject lands represent an appropriate location for intensification in the form of townhouses, at an intensity that is appropriate for the site and surrounding neighbourhood",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Planning & Environment Cmte 2021-07-26 item 3.5: quote verbatim substring of the motion's own reasons clause ('the subject lands represent an appropriate location for intensification in the form of townhouses...'), 5-1 matches manifest. Rezoning FROM Residential R1 + Urban Reserve TO Holding R5 Special Provision + Open Space verified verbatim in clause a) -- a genuine density increase (single-family to multi-unit townhouse zone), so issue=housing/axis=density/polarity=expansive is well founded even though no bare numeric density figure appears in this particular clause. CODE_PATTERNS structural signal (Z-9293) corroborates housing."
+  },
+  {
+    "id": "1c2f061416b0",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested a City Solicitor briefing to Council on the potential impacts of the Veterans Land Act, and referred consideration of the 1047-1055 Dearness Drive rezoning application to that Council meeting.",
+    "confidence": "high",
+    "quote": "consideration of the application BE REFERRED to the same above-noted Municipal Council meeting",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear: full P&E Cmte item 3.8 text is a pure referral ('consideration of the application BE REFERRED to the same...Council meeting') pending a City Solicitor briefing on the Veterans Land Act -- no rezoning decision made yet. Correctly axis=null/polarity=null per the referral convention."
+  },
+  {
+    "id": "b2d2d1bbc253",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Councillor J. Morgan to the London & Middlesex Community Housing Board for the term ending November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Councillor J. Morgan BE APPOINTED to the London & Middlesex Community Housing Board for the term ending November 15, 2022.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: Strategic Priorities & Policy Cmte 4.2 appointment motion, straightforward confirming appointment (not the secret-ballot round) -- GLOBAL_EXCLUDE 'consideration of appointment to' pattern correctly keeps this issue=none regardless of LMCH housing-adjacent context; quote verbatim matches manifest title/result (13-1)."
+  },
+  {
+    "id": "3c11ffdc70d7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected Councillor J. Morgan, by ranked ballot, as the Council Member to be appointed to the London & Middlesex Community Housing Board.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot round for the same LMCH seat, flags appointment+not_divided, empty quote appropriate (ballot rows carry no prose motion text), issue=none correctly excluded (appointment, not a housing policy vote)."
+  },
+  {
+    "id": "51d80d52f371",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication from Councillor M. van Holst regarding vaccine mandates and took no further action.",
+    "confidence": "high",
+    "quote": "That the communication dated July 26, 2021 from Councillor M. van Holst BE RECEIVED and no further action BE TAKEN.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: vaccine-mandate communication receive-and-file, quote verbatim 'BE RECEIVED and no further action BE TAKEN', no tracked-issue keyword hit -- issue=none correct."
+  },
+  {
+    "id": "df6a47e12ef6",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to a by-law rezoning 414-418 Old Wonderland Road from a Residential R1 and Urban Reserve zone to a Holding Residential R5 Special Provision zone and Open Space zone, to permit intensification in the form of townhouses.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 378  BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-08-10 item 13 content[3]: quote verbatim ('Introduction and First Reading of Bill No. 378 BE APPROVED'), 9-6 matches manifest exactly (distinguishing this row from the unanimous 312-380 bulk reading in content[0-2]). Byte-distinct from second/third-reading siblings below."
+  },
+  {
+    "id": "c4a3bcb1118f",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to a by-law rezoning 414-418 Old Wonderland Road from a Residential R1 and Urban Reserve zone to a Holding Residential R5 Special Provision zone and Open Space zone, to permit intensification in the form of townhouses.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 378  BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs item 13 content[4]: quote verbatim, 9-6 matches. Second-reading stage phrase distinct."
+  },
+  {
+    "id": "ffcaa311dd68",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted a by-law rezoning 414-418 Old Wonderland Road from a Residential R1 and Urban Reserve zone to a Holding Residential R5 Special Provision zone and Open Space zone, to permit intensification in the form of townhouses.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 378  BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs item 13 content[5]: quote verbatim ('Third Reading and Enactment of Bill No. 378 BE APPROVED'), 9-6 matches. Enactment language present in the motion's own text, so 'Gave third reading and enacted' is correctly used."
+  },
+  {
+    "id": "c33bd43a594f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to consult residents on priorities for new or upgraded recreational amenities near the Oakridge Arena and Carling Heights Optimist Community Centre COVID-19 assessment centres, and to explore funding opportunities and report back with recommendations and a financing source.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to explore potential provincial and federal funding opportunities for recreational infrastructure and to report back with recommended new or upgraded recreational amenities in the general area of both testing centres, along with a recommended source of financing",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear/none: full Council item 8.1.8 text directs Civic Administration to consult residents and explore funding/report back on recreational amenities -- pure informational-ask/directive, no tracked-issue keyword (recreation != housing/climate/transit) hit. Correctly axis=null."
+  },
+  {
+    "id": "1ca93dacabc0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to prioritize development of the Oxford Wonderland Secondary Plan and to report back on the timing of future secondary-plan development, incorporating the draft Terms of Reference.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to prioritize the development of the secondary plan for the Wellington Gateway corridor and BE DIRECTED to report back at a future meeting of the Planning and Environment Committee",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear/none: 'Terms of Reference' is in GLOBAL_EXCLUDE regardless of any housing-adjacent 'secondary plan' language, so issue=none is structurally correct, not a miss. Also a pure report-back/prioritization directive, not a rezoning decision."
+  },
+  {
+    "id": "5d0266915462",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 414-418 Old Wonderland Road from a Residential R1 and Urban Reserve zone to a Holding Residential R5 Special Provision zone and Open Space zone, to permit intensification in the form of townhouses.",
+    "confidence": "high",
+    "quote": "the subject lands represent an appropriate location for intensification in the form of townhouses, at an intensity that is appropriate for the site and surrounding neighbourhood",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-08-10 item 8.4.19: quote verbatim substring of the operative reasons clause (identical wording to the P&E Cmte version), 8-6 matches manifest exactly (unique among this meeting's items, resolving the rollCallOrdinal fallback correctly). Same substantive rezoning as d8ebaa025982 at Council-approval stage."
+  },
+  {
+    "id": "d370194a6642",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and The London Plan to permit residential units on the ground floor and increase permitted density to 462 units per hectare at 400 Southdale Road East, and to rezone the property from a Service Station zone to a Holding Residential R9 Bonus zone for a 7-storey, 181-unit apartment building including four affordable housing units.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated July 26, 2021 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on August 10, 2021 to amend the 1989 Official Plan to ADD a policy to Section 10.1.3",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-08-10 item 8.4.20: quote is a verbatim substring of operative clause a) (Official Plan amendment introduction), 13-1 matches manifest exactly (unique, correctly resolving rollCallOrdinal fallback). whatAYeaDid figures independently verified against full text: 462 units/hectare, 7-storey/181-unit apartment, Service Station->Holding R9 Bonus rezone, and 'four affordable housing units' verified as 2 one-bedroom + 2 two-bedroom units in the bonus-zone clause. issue=housing/axis=density/polarity=expansive correct; CODE_PATTERNS (OZ-9261) corroborates."
+  },
+  {
+    "id": "e8c8239bad11",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law No. Z.-1 to redesignate 1047-1055 Dearness Drive from Low Density Residential to Multi-family, Medium Density Residential and rezone it from Residential R1 and Residential R2/Office Conversion zones to a Residential R9 Bonus zone, permitting a maximum density of 134 units per hectare for a 6-storey, 55-unit apartment building including four affordable housing units.",
+    "confidence": "high",
+    "quote": "to change the zoning of the subject property FROM a Residential R1 (R1-4) and a Residential R2/Office Conversion (R2-2/OC5) Zone, TO a Residential R9 Bonus (R9-1(_)*H19*B-_) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council 2021-08-10 item 8.4.22: quote is a verbatim substring of operative clause b) (zoning by-law introduction, R1/R2-OC -> R9 Bonus), 13-1 matches manifest exactly (unique, correctly resolving rollCallOrdinal fallback). whatAYeaDid figures verified: 134 units/hectare, 6-storey/55-unit apartment, Low Density Residential -> Multi-family Medium Density Residential redesignation, and 'four affordable housing units' verified as 2+2 bedroom units for affordable housing in the full text. issue=housing/axis=density/polarity=expansive correct."
+  },
+  {
+    "id": "1d7599c22365",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication from Councillor M. van Holst regarding vaccine mandates and took no further action.",
+    "confidence": "high",
+    "quote": "That the communication dated July 26, 2021 from Councillor M. van Holst BE RECEIVED and no further action BE TAKEN.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: vaccine-mandate receive-and-file at Council, quote verbatim, no tracked-issue keyword -- issue=none correct."
+  },
+  {
+    "id": "c2fe6df9caf3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward to the next Corporate Services Committee meeting a proposed COVID-19 Vaccination Council Policy applicable to Members of Council, for consideration.",
+    "confidence": "high",
+    "quote": "the civic administration BE DIRECTED to bring forward to the next meeting of the Corporate Services Committee a similar COVID-19 Vaccination Council Policy, specifically applicable to the Members of Council, for consideration",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: Corporate Services Cmte vaccination-policy report-back directive, quote verbatim, informational_ask correctly flagged (directs bringing forward a policy for future consideration, not itself adopting one)."
+  },
+  {
+    "id": "63ae920c7df8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a ranked-ballot vote for the recommendation for appointment to the London Hydro Inc. Board of Directors that produced no majority winner.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot round for London Hydro board producing no majority, flags appointment+not_divided, empty quote appropriate for a ballot row."
+  },
+  {
+    "id": "445dbd8dff2a",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to implement the Climate Lens Screening recommendations for major transportation projects, including suspending the Discover Wonderland Environmental Assessment and the Adelaide Street North corridor widening pending the future Mobility Master Plan, adjusting the Multi-Year Budget accordingly, and reviewing ongoing transportation projects for climate resiliency.",
+    "confidence": "medium",
+    "quote": "suspending the corridor widening on Adelaide Street North noting that the Environmental Assessment for the Adelaide Street North should be finalized to inform complete streets intersection improvements at Sunningdale Road planned for 2025",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear, not a miss: full Civic Works Cmte 2.14 text is a mixed directive -- proceeding with several unspecified transportation projects, suspending two specific ones (Discover Wonderland EA, Adelaide St N widening) pending a future Mobility Master Plan, a budget adjustment, and a climate-resiliency review. issue=climate is well founded (motion text says 'Climate Emergency screening' and 'climate change mitigation and adaptation', matching the climate keyword rule) but the effect is genuinely mixed/net-unclear (proceeds with some projects, suspends others) -- correctly left axis=null/polarity=null rather than forcing a single direction from a road-capacity or climate axis that doesn't cleanly fit the whole clause."
+  },
+  {
+    "id": "4514225a5fef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received communications regarding a requested delegation on the \"4 Pillars of Medical Ethics\" and took no further action, noting no related matter was before the Committee.",
+    "confidence": "high",
+    "quote": "the communications listed on the public agenda as items 4.1 a. through ac., inclusive, BE RECEIVED for information, and no further action be taken with respect to these submissions",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: SPPC delegation-status receive-and-file with an explicit note that no related matter is before the Committee, quote verbatim, no tracked-issue keyword -- issue=none correct."
+  },
+  {
+    "id": "85c79f463a28",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred consideration of an interim Council appointment to the London Downtown Business Association Board of Directors to a future Strategic Priorities and Policy Committee meeting, to allow members of Council to express their interest in the appointment.",
+    "confidence": "high",
+    "quote": "That consideration of an interim Councillor appointment to the London Downtown Business Association Board of Directors BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee in order to allow for members of Council to express their interest in the appointment.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear: FAILED referral motion (4-9), whatAYeaDid correctly hedged 'Would have referred...', quote verbatim, GLOBAL_EXCLUDE 'consideration of appointment to' pattern (via the sibling non-plural phrasing) plus the referral convention both support issue=none/axis=null."
+  },
+  {
+    "id": "5c1e60842e3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected Councillor J. Helmer, by ranked ballot, as the interim Council appointee to the London Downtown Business Association Board of Directors.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot round appointing J. Helmer, flags appointment+not_divided, empty quote appropriate."
+  },
+  {
+    "id": "eacabbd9a1f7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the Proof of COVID-19 Vaccination Administrative Policy and directed the Civic Administration to bring forward to the next Corporate Services Committee meeting a similar COVID-19 Vaccination Council Policy applicable to Members of Council, for consideration.",
+    "confidence": "high",
+    "quote": "the civic administration BE DIRECTED to bring forward to the next meeting of the Corporate Services Committee a similar COVID-19 Vaccination Council Policy, specifically applicable to the Members of Council, for consideration",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: Council receipt of vaccination-policy staff report plus report-back directive, quote verbatim, informational_ask correctly flagged, issue=none correct (no tracked-issue keyword)."
+  },
+  {
+    "id": "28eb5e31fa05",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law adopting the \"Members of Council Proof of COVID-19 Vaccination Policy\" at the October 5, 2021 Council meeting.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated September 20, 2021 as Appendix “A” being “A by-law to adopt “Members of Council Proof of COVID-19 Vaccination Policy”, BE INTRODUCED at the Municipal Council Meeting to be held on October 5, 2021",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: Corporate Services Cmte recommendation to introduce the vaccination by-law at a future Council meeting, quote verbatim, issue=none correct (governance/HR policy, not a tracked issue)."
+  },
+  {
+    "id": "034011838b6b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to work with the applicant toward a zoning amendment to permit a new elementary school, and to bring back a proposed Official Plan and London Plan amendment changing the designation of 2631 Hyde Park Road and 1521 Sunningdale Road West from Open Space to Low Density Residential and Environmental Review, for consideration at a future public participation meeting.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to bring back a proposed by-law to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential and Environmental Review designation",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed unclear, not a miss: full P&E Cmte 4.1 text directs Civic Administration to work toward a zoning amendment and bring back a proposed Official Plan/London Plan redesignation for consideration at a FUTURE public participation meeting -- this initiates the process but does not itself adopt the redesignation. issue=housing correct (matches 'zoning by-law amendment'/'official plan' keywords), correctly left axis=null/polarity=null since no final land-use decision is made yet."
+  },
+  {
+    "id": "75d71f9f5d02",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Stephanie Marentette to the London Transit Commission for the term ending November 15, 2022.",
+    "confidence": "high",
+    "quote": "That Stephanie Marentette BE APPOINTED to the London Transit Commission for the term ending November 15, 2022.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: straightforward appointment (Marentette to London Transit Commission), quote verbatim matches manifest exactly, issue=none correct (GLOBAL_EXCLUDE personnel decision)."
+  },
+  {
+    "id": "a91f4eb9a07e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a ranked-ballot vote for the appointment to the London Transit Commission that produced no majority winner in the first round.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: ranked-ballot/appointment row, flags appointment(+not_divided where applicable), empty quote appropriate (no prose motion text on a ballot round), issue=none correct (GLOBAL_EXCLUDE 'consideration of appointment to' / personnel decision, not a policy position). (first round producing no majority winner, per manifest result string.)"
+  }
+]

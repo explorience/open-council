@@ -1,0 +1,506 @@
+[
+  {
+    "id": "391f46669d8c",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing the Section 30 agreement of purchase and sale settling the property acquisition and claims at 220 Wellington Road South with A Team London Inc., for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That introduction and first reading of Added Bill No. 122, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "da49968d0319",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing the Section 30 agreement of purchase and sale settling the property acquisition and claims at 220 Wellington Road South with A Team London Inc., for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That second reading of Added Bill No. 122, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d3d7c87e5207",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing the Section 30 agreement of purchase and sale settling the property acquisition and claims at 220 Wellington Road South with A Team London Inc., for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That third reading and enactment of Added Bill No. 122, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0e5aa59afa87",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended section 3.4 of the proposed Election Sign By-law to change a 96-hour threshold to 72 hours.",
+    "confidence": "high",
+    "quote": "That section 3.4 of the proposed by-law BE AMENDED to change 96 hours to 72 hours.",
+    "flags": []
+  },
+  {
+    "id": "80858bb266dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended section 3.2 of the proposed Election Sign By-law to restrict placing election signs, before Nomination Day, to a campaign office or the property it sits on, with the property owner's written consent.",
+    "confidence": "high",
+    "quote": "That section 3.2 of the proposed by-law BE AMENDED in section 3.2 to read as follows: \"3.2  No person shall place of permit to be placed an Election Sign for a municipal election, except an Election Sign which is Placed on a Campaign Office or on the Property on which the Campaign Office sits provided the written consent of the owner of the Property is obtained and furnished to an Enforcement Officer upon demand, earlier than Nomination Day.\"",
+    "flags": []
+  },
+  {
+    "id": "ac07af54ccfe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Removed the property at 2361 Hyde Park Road / 1521 Sunningdale Road West from the Register of Cultural Heritage Resources.",
+    "confidence": "high",
+    "quote": "the property located at 2361 Hyde Park Road/1521 Sunningdale Road West BE REMOVED from the Register of Cultural Heritage Resources",
+    "flags": []
+  },
+  {
+    "id": "d34427541de7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on Pet Limits for Approved Foster Organizations, maintaining the existing regulation of no pet limits for approved foster organizations.",
+    "confidence": "high",
+    "quote": "it being noted that the current regulation of no pet limits for Approved Foster Organizations will be maintained",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d78a0ccbb608",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have restricted the number and types of rescue animals permitted in foster homes to the number of animals allowed in private homes.",
+    "confidence": "high",
+    "quote": "Motion to restrict the number of and types of rescue animals in foster homes to be the number of animals allowed in private homes.",
+    "flags": []
+  },
+  {
+    "id": "bcd305ce96c1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Development Charge Area Rating Policy Review back to the Civic Administration for further consideration and research into options recognizing true cost discrepancies between new infrastructure costs inside and outside the built area, including stormwater management.",
+    "confidence": "high",
+    "quote": "That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would better recognize true cost discrepancies between new infrastructure costs inside and outside of the build area, including but not limited to stormwater management.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "f2245ec0dd53",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to include additional detailed calculations and information on a carbon-offset option for households in the draft Climate Emergency Action Plan, ahead of its public consultation.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to include additional detailed calculations/information related to carbon offsets as an option for households in the draft Climate Emergency Action Plan, in order for inclusion in the public consultation of the Plan.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "98fbbca7dae7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recessed the Committee.",
+    "confidence": "high",
+    "quote": "That the Committee BE RECESSED at this time.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0240dac6e95d",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Palace Theatre Arts Commons business case and authorized forgiving the remaining $78,749.83 balance of the interest-free loan to the London Community Players, financed from previously allocated London Community Recovery Network (LCRN) funding.",
+    "confidence": "high",
+    "quote": "the Business Case from the Palace Theatre Arts Commons BE APPROVED and the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83, with the previously allocated London Community Recovery Network (LCRN) funding as the source of financing",
+    "flags": []
+  },
+  {
+    "id": "710047ce3771",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Palace Theatre Arts Commons business case and authorized forgiving the remaining $78,749.83 balance of the interest-free loan to the London Community Players, financed from previously allocated London Community Recovery Network (LCRN) funding.",
+    "confidence": "high",
+    "quote": "the Business Case from the Palace Theatre Arts Commons BE APPROVED and the Civic Administration BE AUTHORIZED to forgive the remaining balance of the interest-free loan to the London Community Players, in the amount of $78,749.83, with the previously allocated London Community Recovery Network (LCRN) funding as the source of financing",
+    "flags": []
+  },
+  {
+    "id": "765e484fc8d8",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Development Charge Area Rating Policy Review back to the Civic Administration for further consideration and research into options recognizing true cost discrepancies between new infrastructure costs inside and outside the built area, including stormwater management.",
+    "confidence": "high",
+    "quote": "That the matter of the Development Charge Area Rating Policy Review – Recommended Approach, BE REFERRED back to the Civic Administration for further consideration, and research of options that would better recognize true cost discrepancies between new infrastructure costs inside and outside of the build area, including but not limited to stormwater management.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "b2080e45ab3c",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Hemson Consulting memorandum on a recommended area-rating approach for the 2025 Development Charges Background Study, and directed the Civic Administration to continue implementing an area-rating approach to development charges within and outside the Urban Growth Boundary.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to continue to implement an area rating approach of levying development charges within the Urban Growth Boundary and outside the Urban Growth Boundary for the 2025 Development Charges Background Study",
+    "flags": []
+  },
+  {
+    "id": "9cc37f84c95f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to continue a review and analysis of area rating for servicing costs needed to accommodate anticipated development, should the Urban Growth Boundary be expanded.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to continue a review and analysis of area rating where servicing needs to be extended in order to accommodate anticipated development, should the Urban Growth Boundary be expanded.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f1851bff5260",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the draft by-laws regulating the distribution of flyers and graphic flyers to residential properties back to the Civic Administration, to report back on requiring flyer distributors to meet outdoor-display-style standards, an outer wrap/cover requirement, and a graphic-content warning.",
+    "confidence": "high",
+    "quote": "That the draft by-laws related to a program regulating the distribution of flyers by-law and distribution of graphic flyers to residential properties by-law BE REFERRED to the Civic Administration",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a57d18e311df",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have introduced a by-law, at the March 22, 2022 Council meeting, temporarily requiring the use of face coverings within enclosed publicly-accessible spaces in the City of London.",
+    "confidence": "high",
+    "quote": "That the attached by-law BE INTRODUCED at the Council meeting to be held on March 22, 2022 to temporarily require the use of face coverings within enclosed publicly-accessible spaces in the City of London.",
+    "flags": []
+  },
+  {
+    "id": "86220099d6fc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the correspondence from P. Zhang requesting a flag be raised to celebrate Falun Dafa day, and took no action on the request.",
+    "confidence": "high",
+    "quote": "That the correspondence from P. Zhang with respect to a request to raise a flag to celebrate Falun Dafa day, BE RECEIVED and NO ACTION BE TAKEN.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "0328186eec0c",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the communication from Councillor M. van Holst requesting a report on downtown road closures, and took no action.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor M. van Holst, with respect to a report on Downtown road closures BE RECEIVED and NO ACTION BE TAKEN.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "01704ba1b96c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the proposed by-laws related to Short Term Accommodations, appended to the March 29, 2022 staff report, following the public participation meeting.",
+    "confidence": "high",
+    "quote": "the proposed by-laws, as appended to the staff report, dated March 29, 2022, related to Short Term Accommodations, BE RECEIVED",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b12f66e7a64c",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to a by-law setting 2022 property tax ratios across property classes.",
+    "confidence": "high",
+    "quote": "That second reading of Bill No. 156, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "6205a057c788",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted a by-law setting 2022 property tax ratios across property classes.",
+    "confidence": "high",
+    "quote": "That third reading and enactment of Bill No. 156, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "561b26a42c33",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law amending the Special Events Policies and Procedures Manual to permit the Rock the Park festival's five-day use of Harris Park in July 2022.",
+    "confidence": "high",
+    "quote": "That introduction and first reading of Bill No. 167, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "fd3121ce402c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law amending the Special Events Policies and Procedures Manual to permit the Rock the Park festival's five-day use of Harris Park in July 2022.",
+    "confidence": "high",
+    "quote": "That second reading of Bill No. 167, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "64e4840f001f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law amending the Special Events Policies and Procedures Manual to permit the Rock the Park festival's five-day use of Harris Park in July 2022.",
+    "confidence": "high",
+    "quote": "That third reading and enactment of Bill No. 167, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "efb7bd78238e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law amending the Special Events Policies and Procedures Manual to permit the Rock the Park festival's use of Harris Park for five consecutive days in July 2022.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the staff report, dated March 29, 2022, BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, to amend By-law No. CPOL-142-394 being a by-law for a Council policy entitled Special Events Policies and Procedures Manual, to provide for the “Rock the Park 17-July 2022” event use of Harris Park for five (5) consecutive days",
+    "flags": []
+  },
+  {
+    "id": "2500b730ec90",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the 2022 property tax ratio by-law (reflecting no change to tax ratios) and the 2022 municipal tax rate by-law for the various property classes.",
+    "confidence": "high",
+    "quote": "the proposed by-law as appended to the staff report dated March 28 2022 as Appendix \"A\", being a by-law to set tax ratios in the various property classes, in accordance with Sub-sections 308(4) and 308.1(4) of the Municipal Act, 2001 BE INTRODUCED at the Municipal Council meeting to be held on April 12, 2022, it being noted that the 2022 Municipal Tax Ratio By-Law has been prepared reflecting no change to tax ratios",
+    "flags": []
+  },
+  {
+    "id": "4c996447b54f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information, the staff report on 2022 remuneration for elected officials and appointed citizen members.",
+    "confidence": "high",
+    "quote": "the report dated March 28, 2022, entitled “Elected Officials and Appointed Citizen Members 2022 Remuneration” BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6366854c9856",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, in closed session, the purchase of the 136 Wellington Road property and its financing, for future road improvements to the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "for the purpose of future road improvements to accommodate the Wellington Gateway Project",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "7d6b9a95d987",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing the agreement of purchase and sale acquiring the property at 136 Wellington Road from Valdas Joseph Ordas and the Estate of Louise Myrto Ordas, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That introduction and first reading of Added Bill No. 178 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "febb0b7d3784",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing the agreement of purchase and sale acquiring the property at 136 Wellington Road from Valdas Joseph Ordas and the Estate of Louise Myrto Ordas, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That second reading of Added Bill No. 178 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d22de81de09b",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing the agreement of purchase and sale acquiring the property at 136 Wellington Road from Valdas Joseph Ordas and the Estate of Louise Myrto Ordas, for the Wellington Gateway Project.",
+    "confidence": "high",
+    "quote": "That third reading and enactment of Added Bill No. 178 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "02abcd162f8e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and The London Plan designations for 1521 Sunningdale Road West and 2631 Hyde Park Road from Open Space to Multi-Family Medium Density Residential, Low Density Residential, and Open Space designations, rezone the lands accordingly, and approved a Draft Plan of Subdivision creating thirteen low-density and two medium-density residential blocks.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated April 19, 2022 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Multi-Family, Medium Density Residential designation, Low Density Residential designation and Open Space designation",
+    "flags": []
+  },
+  {
+    "id": "398931177f08",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave an extension of time to the delegation of L. Regnier.",
+    "confidence": "high",
+    "quote": "That an extension of time for the delegation of L. Regnier BE GIVEN.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "a6c7c98137ac",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 1284 Sunningdale Road West from a Holding Residential R4/R6/R7/R8 zone to a Holding Residential R4/R6/R7/R8, Neighbourhood Facility zone, to permit an elementary school and day care for the Thames Valley District School Board.",
+    "confidence": "high",
+    "quote": "the attached, revised, proposed by-law (Appendix ‘A’) BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R4/R6/R7/R8",
+    "flags": []
+  },
+  {
+    "id": "4c221e049989",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the verbal delegation from A.M. Valastro regarding a potential Light Pollution By-law.",
+    "confidence": "high",
+    "quote": "That the verbal delegation from A.M. Valastro, with respect to a potential Light Pollution By-law, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "1fe2762930bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, notwithstanding the Civic Administration's recommendation, the application by Quincy Developments to increase the maximum medical/dental office Gross Floor Area to 6,342.4 square metres and rezone 1055 Fanshawe Park Road West from an Office Special Provision zone to a new Office Special Provision zone.",
+    "confidence": "high",
+    "quote": "the application by Quincy Developments, relating to the property located at 1055 Fanshawe Park Road West, the application BE APPROVED;\na) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on May 3, 2022 to amend Specific Area Policy 1074_ of The London Plan to increase the maximum Gross Floor Area for medical/dental office uses to 6,342.4 square metres",
+    "flags": []
+  },
+  {
+    "id": "349e884907a6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave notice of intention to designate the built resources at 183 Ann Street and 197 Ann Street under the Ontario Heritage Act, and directed that, absent objections, designating by-laws be introduced within 90 days of the objection period's end.",
+    "confidence": "high",
+    "quote": "notice BE GIVEN under the provisions of Section 29(3) of the Ontario Heritage Act, R.S.O. 1990, c. O. 18, of Municipal Council’s intention to designate the built resource on the municipal address located at 197 Ann Street to be of cultural heritage value or interest for the reasons outlined in Appendix E as appended to the staff report dated April 25, 2022",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ee27debfcbca",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, the members appointed as Voting Members to the Accessibility Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Accessibility Community Advisory Committee",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "74df7f14ea06",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Selected, by secret ballot, the members appointed as Voting Members to the Animal Welfare Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration for appointment to the Animal Welfare Community Advisory Committee",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "a4e8247fc94c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a secret-ballot round to select Voting Members for the Community Advisory Committee on Planning; no candidate reached a majority.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "26d96c6b35c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a second secret-ballot round to select Voting Members for the Community Advisory Committee on Planning; no candidate reached a majority.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning - Round 2",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "89905289c4c7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a third secret-ballot round to select Voting Members for the Community Advisory Committee on Planning; no candidate reached a majority.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning - Round 3",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "f1924aceb9b5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a fourth secret-ballot round to select Voting Members for the Community Advisory Committee on Planning; no candidate reached a majority.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning - Round 4",
+    "flags": [
+      "appointment"
+    ]
+  }
+]

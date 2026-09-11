@@ -1,0 +1,606 @@
+[
+  {
+    "id": "1032203f7820",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Suspended the Council Procedure By-law's 11:00 PM meeting-end provision to allow the meeting to continue.",
+    "confidence": "high",
+    "quote": "That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of the said by-law BE SUSPENDED for the purpose of permitting the meeting to proceed beyond 11:00 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-25 SPPC item 4.1: quote verbatim, procedural (11pm suspension), no issue keyword in body or title-code -> none/null correctly."
+  },
+  {
+    "id": "8e79918db9f2",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred consideration of several remaining Investing in Canada Infrastructure Program Public Transit Stream project candidates -- on-board information screens, pedestrian connectivity, new sidewalks, active-transportation bridge improvements, cycling routes, and bike parking -- to a future meeting.",
+    "confidence": "high",
+    "quote": "That consideration of the following projects BE REFERRED to a future meeting: Project 8. On-Board Information Screens Project 10. Pedestrian Street Connectivity Improvements to the Transit Network Project 11. New Sidewalks Project 13. Active Transportation Improvements across Transit Route Bridges Project 17. Cycling Routes Connecting to Downtown Transit Project 18. Cycling Routes Connecting to Transit throughout the City Project 19. Enhanced Bike Parking",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote verbatim vs 2019-03-25 SPPC item 4.1. Issue corrected: body has 1 distinct 'downtown' keyword hit ('...Downtown Transit') and 1 distinct 'transit' keyword hit -- a tie, which the corpus's own ISSUE_ORDER tie-break (downtown listed before transit) resolves to downtown. The identical project list is referred again at Council (row 2b9d337a6e5f, same batch) and was correctly tagged downtown there -- this row was the odd one out."
+  },
+  {
+    "id": "a98a86bddb89",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Requested a funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream that includes the Dundas Place Thames Valley Parkway Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements projects.",
+    "confidence": "medium",
+    "quote": "That the Managing Director, Environmental & Engineering Services and City Engineer BE REQUESTED to make a funding submission with respect to the $204 million allocated to London under the Federal Public Transit Infrastructure Stream (PTIS) and the $170 million Provincial funding that includes: Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection Project 15. Dundas Street Old East Village Streetscape Improvements",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-25 SPPC item 4.1 (13-2 Dundas Place/Dundas St motion, distinguished from the other 13-2 procedural suspension motion by full-text match). 'dundas place' is a literal downtown keyword. Expansive/application-approval correct: BE REQUESTED...funding submission that includes... is an affirmative request, no denial language."
+  },
+  {
+    "id": "2afa8e32e2f5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave leave to introduce an emergent motion regarding the London Medical Innovation and Commercialization Network.",
+    "confidence": "high",
+    "quote": "That pursuant to section 20.2 of the Council Procedure By-law leave BE GIVEN to introduce an emergent motion regarding the London Medial Innovation and Commercialization Network.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 12.1: quote verbatim, procedural leave-to-introduce, no issue keyword -> none/null correct."
+  },
+  {
+    "id": "dbeff09f8589",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Permitted, as proposed, a heritage alteration to construct a new apartment building and associated site development at 195 Dundas Street within the Downtown Heritage Conservation District, subject to Building Permit design-compliance and Heritage Alteration Permit display conditions.",
+    "confidence": "high",
+    "quote": "That the application made under Section 42 of the Ontario Heritage Act to construct a new apartment building and associated site development on the property located at 195 Dundas Street, within the Downtown Heritage Conservation District, BE PERMITTED as proposed in the drawings appended to the presentation on the 4th Report of the London Advisory Committee on Heritage",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 8.1.21 (14-1). Body contains 'downtown' (Downtown Heritage Conservation District) but no housing keyword (no 'dwelling unit'/'site plan approval'/etc.) despite 'apartment building' in the text -- downtown is the only supported issue per the corpus's own keyword list. BE PERMITTED as proposed = affirmative grant -> expansive/application-approval correct."
+  },
+  {
+    "id": "7c2789e3ccab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on appointing an Integrity Commissioner and directed staff to bring forward an agreement with, and a by-law appointing, Gregory F. Stewart as Integrity Commissioner for the City of London and local boards.",
+    "confidence": "high",
+    "quote": "the staff report, dated March 19, 2019, entitled \u201cIntegrity Commissioner\u201d BE RECEIVED; b) the City Clerk and the Managing Director, Corporate Services and City Solicitor BE DIRECTED to bring forward a draft Agreement between The Corporation of the City of London and Gregory F. Stewart for the provision of services as The Corporation of the City of London\u2019s and local boards\u2019 Integrity Commissioner",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 8.3.12: quote verbatim; 'integrity commissioner' is GLOBAL_EXCLUDE -> none correct; appointment flag appropriate."
+  },
+  {
+    "id": "e283760b34d2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the Lobbyist Registrar and Closed Meeting Investigator functions.",
+    "confidence": "high",
+    "quote": "the staff report dated, March 19, 2019, entitled \u201cLobbyist Registrar and Closed Meeting Investigator\u201d, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 8.3.13: quote verbatim, pure receive motion, no issue keyword -> none/null correct."
+  },
+  {
+    "id": "b121c8f30e41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Advisory Committee Review interim report to add referring a communication on advisory-committee effectiveness for consideration during the review, and to have Civic Administration meet with Advisory Committee chairs for their input.",
+    "confidence": "high",
+    "quote": "That item 14 (2.6) be amended by adding the following new parts c) and d): c) the attached communication dated March 15, 2019 entitled \u201cEnhancing the Effectiveness of Advisory Committees - Executive Summary\u201d BE REFERRED for consideration during the Advisory Committee review process; and, d) the Civic Administration BE REQUESTED to meet with the Chairs of the Advisory Commitrees to gain their insight and feedback as part of the Advisory Committee Review process",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 8.3.14 (amendment adding parts c/d, 14-1): quote verbatim, matches the correct sub-motion (distinguished from the sibling 96fbd930f5b1 'as amended, BE APPROVED' motion by exact text). No issue keyword -> none correct."
+  },
+  {
+    "id": "96fbd930f5b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, the 2019 process for appointments to the City's Advisory Committees, including having non-voting Civic Administration resources assist with AC work-plan development and recruiting only members-at-large for the abbreviated June 2019-February 2021 voting-member term (notwithstanding each Advisory Committee's current Terms of Reference), subject to an exception for the Accessibility Advisory Committee under provincial legislation.",
+    "confidence": "high",
+    "quote": "the Civic Administration, who currently serve as non-voting resources to ACs, BE REQUESTED to assist in the ACs work plan development, based on advice or initiatives that are related to work currently being undertaken by the Civic Administration; and b) notwithstanding the current Terms of Reference for each Advisory Committee, the current voting member recruitment for the abbreviated term of June 1, 2019 to February 28, 2021 (previously approved by Council), BE CONDUCTED seeking only \u2018members-at-large\u2019 for appointment",
+    "flags": [
+      "wrapper_preamble",
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 8.3.14 ('Item 14 (2.6), as amended, BE APPROVED' full restated text, 14-1): quote verbatim including trailing clauses c) and d). No issue keyword -> none correct."
+  },
+  {
+    "id": "db61cfd5d799",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered Council's earlier disposition of Item 4.1 a) ii), Project 2 (Wellington Road Gateway), due to a voting error.",
+    "confidence": "high",
+    "quote": "That pursuant to section 13.2 of the Council Procedure By-law that consideration of Item 4.1 a) ii) Project 2. Wellington Road Gateway BE RECONSIDERED due to a voting error.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-03-26 Council item 9.4.4 (13-1, S. Turner recused): quote verbatim, reconsideration-grant motion, procedural -> none/null correct."
+  },
+  {
+    "id": "0dd0f857160d",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the Downtown Loop project (Project 1) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) i) Project 1. Downtown Loop BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (10-5, distinguished from a same-worded-pattern sibling by exact 'Project 1' text). 'Downtown Loop' contains the downtown keyword directly. BE APPROVED, no denial -> expansive/application-approval correct."
+  },
+  {
+    "id": "ebadbb41c613",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved including the Wellington Road Gateway project (Project 2) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream, following the reconsideration granted for this project.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) ii) Project 2. Wellington Road Gateway BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (11-4, S. Turner voting -- confirmed the FIRST of the two back-to-back Wellington Road Gateway votes per the roll call). Body itself carries no topic keyword (project name alone), and the only passed clause establishing the project's substantive transit-lane content (the SPPC amendment) failed -- none/null is the defensible, non-speculative call the classifier's note explains."
+  },
+  {
+    "id": "c55366f87ab3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved including the Wellington Road Gateway project (Project 2) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream, on an immediate re-vote of the same motion.",
+    "confidence": "medium",
+    "quote": "That Item 4.1a) ii) Project 2. Wellington Road Gateway BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (10-4, S. Turner recused -- confirmed the immediate re-vote per the roll call, distinct from ebadbb41c613 by the missing space in '4.1a)'). Same reasoning as ebadbb41c613 applies -- none/null correct. whatAYeaDid's 'on an immediate re-vote of the same motion' is accurate to the source though not the exact 'following a reconsideration vote' boilerplate used elsewhere in the corpus; not a factual defect, and the mechanical reconsidered-pairs sweep is hardcoded to 2023+ data so it does not reach this batch yet."
+  },
+  {
+    "id": "dcb0f1eb29ad",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the East London Link bus rapid transit project (Project 3) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "medium",
+    "quote": "That Item 4.1 a) iii) Project 3. East London Link BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (11-4, distinguished from ebadbb41c613's identical vote count by exact 'Project 3' text). This clause's own body carries no transit keyword, but the same Council item's own head motion (IDX0) attaches LTC bus-service content to this same East London Link project within the SAME item -- a wrapper-classifies-by-the-substantive-act read, not a cross-item borrow. Confidence=medium appropriately reflects the indirection. BE APPROVED -> expansive correct."
+  },
+  {
+    "id": "1b50644b049a",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved including the Dundas Place Thames Valley Parkway Active Transportation Connection and Dundas Street Old East Village Streetscape Improvements projects (Projects 14 and 15) in the City's funding submission under the Investing in Canada Infrastructure Program's Public Transit Stream.",
+    "confidence": "high",
+    "quote": "That Item 4.1 a) viii) and ix) BE APPROVED: viii) Project 14. Dundas Place Thames Valley Parkway Active Transportation Connection; ix) Project 15. Dundas Street Old East Village Streetscape Improvements",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (14-1). 'dundas place' keyword present. BE APPROVED, no denial -> expansive/application-approval correct."
+  },
+  {
+    "id": "2b9d337a6e5f",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred several remaining candidate projects (on-board information screens, pedestrian connectivity, new sidewalks, active-transportation bridge improvements, cycling routes, and bike parking) to a future meeting, and received the staff report and public communications on the funding submission.",
+    "confidence": "high",
+    "quote": "consideration of the following remaining proposed projects BE REFERRED to a future meeting: i) Project 8. On-Board Information Screens ii) Project 10. Pedestrian Street Connectivity Improvements to the Transit Network iii) Project 11. New Sidewalks iv) Project 13. Active Transportation Improvements across Transit Route Bridges v) Project 17. Cycling Routes Connecting to Downtown Transit vi) Project 18. Cycling Routes Connecting to Transit throughout the City, and vii) Project 19. Enhanced Bike Parking",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-03-26 Council item 9.4.4 (13-2). Contains 'Project 17...Downtown Transit' (downtown keyword). BE REFERRED, no approve/deny verb -> null/unclear correctly excluded from direction."
+  },
+  {
+    "id": "53cb09768ae8",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that High-Occupancy Vehicle lanes be assessed at a network level in the next Transportation Master Plan update.",
+    "confidence": "high",
+    "quote": "That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-02 CWC item 5.3 (4-1): quote verbatim. 'Transportation Master Plan' + 'transit prioritization' keywords -> transit correct. Directive/study language, no approve/deny of a concrete change -> null/unclear correct."
+  },
+  {
+    "id": "365e4811c4a8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the annual meeting calendar for January 1, 2020 to December 31, 2020.",
+    "confidence": "high",
+    "quote": "the annual meeting calendar appended to the staff report dated April 2. 2019 for the period January 1, 2020 to December 31, 2020 BE APPROVED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-02 CSC item 2.2 (3-1): quote verbatim, meeting-calendar approval, no issue keyword -> none/null correct."
+  },
+  {
+    "id": "184c6628dbfd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Strategic Plan's Building a Sustainable City outcome BSC-20 to read 'Bring Londoners Back to the River by revitalizing the Thames River,' removing 'radiating from the Forks' and its inaugural-project-completion metric.",
+    "confidence": "high",
+    "quote": "That the Strategic Plan section, Building a Sustainable City, Outcome 2, BSC-20 BE AMENDED to read: \u201cBring Londoners Back to the River by revitalizing the Thames River\", deleting \u201cradiating from the Forks\u201d; and by deleting metric #1, \"% of inaugural project at the Forks completed\".",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-08 SPPC item 3.1 (Failed 6-9): quote verbatim, hedged correctly ('Would have amended...'). No tracked-issue keyword in the BSC-20 river/Forks text -> none/null correct."
+  },
+  {
+    "id": "ae0c0688b815",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received and referred, as noted on the public agenda, Councillor M. van Holst's communication regarding High-Occupancy Vehicle (HOV) lanes.",
+    "confidence": "high",
+    "quote": "That the following communications BE RECEIVED and BE REFERRED as noted on the public Agenda: 6.1 Councillor M. van Holst - High-Occupancy Vehicle (HOV)",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-09 Council item 6.1 (13-1): quote verbatim, generic receive-and-refer of a communication titled only 'HOV' -- no issue keyword in the motion's own body -> none/null correct per body-only rule."
+  },
+  {
+    "id": "ee42d531a5b5",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that High-Occupancy Vehicle lanes be assessed at a network level in the next Transportation Master Plan update.",
+    "confidence": "high",
+    "quote": "That HOV lanes BE ASSESSED at a network level in the next update to the Transportation Master Plan; it being noted that they provide a potential new option for transit prioritization",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-09 Council item 8.1.11 (10-5): quote verbatim, identical substantive text to 53cb09768ae8 -> transit correct; directive language -> null/unclear correct."
+  },
+  {
+    "id": "b253a3473e9f",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Declared a climate emergency for the City of London, committing to naming, framing, and deepening the City's commitment to protecting its economy, ecosystems, and community from climate change.",
+    "confidence": "high",
+    "quote": "Therefore, a climate emergency BE DECLARED by the City of London for the purposes of naming, framing, and deepening our commitment to protecting our economy, our eco systems, and our community from climate change.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-15 PEC item 3.4 (4-1, the 'Motion to move clause ii)' vote). 'climate' + 'climate emergency' keywords -> climate correct. 'a climate emergency BE DECLARED...' is an unambiguous affirmative act -> expansive/application-approval correct."
+  },
+  {
+    "id": "d8a10dac5866",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Consented to demolishing the heritage-listed building at 160 Oxford Street East and removed the property from the Register (Inventory of Heritage Resources).",
+    "confidence": "high",
+    "quote": "the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of the building on this property; and, b) the property at 160 Oxford Street East BE REMOVED from the Register (Inventory of Heritage Resources)",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified vs 2019-04-15 PEC item 3.6 (4-1): quote verbatim, heritage demolition consent. No tracked-issue keyword (no rezoning/dwelling-unit/etc. content) and no Z/OZ/O/TZ-#### code in the item title -> none correct."
+  },
+  {
+    "id": "1ee533b79ec1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law to rezone the property at 536 and 542 Windermere Road to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone permitting cluster townhouse and cluster stacked townhouse dwellings with a reduced 10.5-metre maximum height and a reduced 2.1-metre front-yard depth, would have refused the applicant's broader request to rezone to a standard Residential R5 Special Provision (R5-7) zone, and would have protected the trees on the property's westerly and northerly boundary.",
+    "confidence": "high",
+    "quote": "Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to change the zoning of the subject property to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone to permit cluster townhouse dwellings and cluster stacked townhouse dwellings with a reduced minimum front yard depth of 2.1 metres, an increased maximum encroachment into the front yard depth of 0.2 metres from the front property line, and a reduced maximum height of 10.5 metres",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-15 PEC item 3.8 (Failed 2-2, Hopkins/Cassidy motion, Appendix B). Hedged correctly. Item title carries the Z-8945 structural code (housing). Motion's own text uses 'reduced' directly against 'front yard depth' and 'height', and separately REFUSES the applicant's broader R5-7 ask -- both signals point restrictive on density, matching the corpus's own density-axis content pattern (decrease-word adjacent to height/setback) and the established Base Line Road precedent (88b6d8a4e3e5)."
+  },
+  {
+    "id": "1a466ba790d9",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law, per the Director of Development Services' recommendation, to rezone the property at 536 and 542 Windermere Road from a Residential R1 zone to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone, and would have refused the applicant's broader request to rezone to a standard Residential R5 Special Provision (R5-7) zone.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated April 15, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-15 PEC item 3.8 (Failed 2-2, Helmer/Squire motion, Appendix A/staff recommendation). Hedged correctly. Confirmed as the DISTINCT staff-recommendation motion (different mover/seconder, different Yea/Nay roster than 1ee533b79ec1's tied vote). No explicit numeric cap in this clause's own text (unlike its Appendix B sibling), but the same item's other clause (b) explicitly REFUSES the unrestricted R5-7 zone -- restrictive is the right call; confidence=medium correctly reflects the thinner direct textual support."
+  },
+  {
+    "id": "d9d239064733",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adjusted 2018 remuneration for elected officials and appointed citizen members of local boards and commissions, where stipends are paid, by 2.3% over 2018, effective January 1, 2019, per Council Policy.",
+    "confidence": "high",
+    "quote": "the 2018 remuneration for elected officials and appointed citizen members of local boards and commissions, where stipends are paid, BE ADJUSTED by 2.3% over 2018 effective January 1, 2019",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-16 CSC item 2.4 (Failed 3-3): hedged correctly ('Would have adjusted...'). No tracked-issue keyword ('council remuneration' is GLOBAL_EXCLUDE) -> none/null correct."
+  },
+  {
+    "id": "5391efea7b5b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that no action be taken to adjust 2019 remuneration for elected officials, notwithstanding the Remuneration for Elected Officials and Appointed Citizen Members policy.",
+    "confidence": "high",
+    "quote": "notwithstanding the \u201cRemuneration for Elected Officials and Appointed Citizen Members\u201d policy NO ACTION BE TAKEN with respect to the 2019 remuneration for elected officials",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-16 CSC item 2.4 (Passed 4-2), the alternate 'no action' motion -> none/null correct."
+  },
+  {
+    "id": "1699900bf513",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare 'Introduction and First Reading of Added Bill No. 155 BE APPROVED' (13-2) carries no description of its own; quote is the enactment-list line for Bill 155 appended to the Third Reading motion in the SAME item (2019-04-23 Council item 13), matching the corpus's established by-law-reading convention. 'Integrity Commissioner' -> GLOBAL_EXCLUDE -> none correct; lowercase 'Gave first reading', no enact language -> correct reading-stage voice."
+  },
+  {
+    "id": "cab3e6d5dff8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 155 by-law, Second Reading (13-2). Byte-distinct stage phrase ('Gave second reading'), no enact language, none/null correct."
+  },
+  {
+    "id": "6f755a2f222d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law appointing Gregory F. Stewart as Integrity Commissioner for the City of London and local boards and approving the related agreement.",
+    "confidence": "medium",
+    "quote": "By-law No. A.-7842-121 - A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 155 by-law, Third Reading and Enactment (13-2). Verified the motion's own text is 'Third Reading and Enactment...BE APPROVED' -- enactment language is present at source, so 'Gave third reading and enacted...' is warranted per convention."
+  },
+  {
+    "id": "ccf8984897a0",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 169 (Windermere Road rezoning), First Reading (12-3). Enactment-list quote verbatim ('...to rezone an area of land located at 536 and 542 Windermere Road'); 'rezone' keyword + item-title Z-8945 code both independently support housing; axis/polarity correctly null on the reading itself; no enact language on first reading, correct."
+  },
+  {
+    "id": "e78330e920d9",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 169, Second Reading (12-3). Same verified quote, byte-distinct stage phrase, no enact language -- correct."
+  },
+  {
+    "id": "15dc3ea5f1b8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 536 and 542 Windermere Road.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-192743 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 536 and 542 Windermere Road.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 169, Third Reading and Enactment (12-3). Motion's own text is 'Third Reading and Enactment...BE APPROVED' -- enactment language justified. Housing carried through correctly."
+  },
+  {
+    "id": "beae345d358f",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the City's Climate Emergency Declaration to add notes clarifying that it does not invoke the City's Emergency Response Plan or interfere with the Mayor's emergency powers under the Emergency Management and Civil Protection Act, 1990, and that a climate emergency is distinct from emergencies contemplated under that Act.",
+    "confidence": "high",
+    "quote": "IT BEING NOTED THAT the above-noted Declaration is not intended to invoke the City of London\u2019s Emergency Response Plan or to interfere with the responsibilities and power delegated to the Mayor to declare or to terminate a local emergency under the Emergency Management and Civil Protection Act, 1990; and, THAT IT BE FURTHER NOTED that a climate emergency is distinct from the kinds of emergencies contemplated under the Emergency Management and Civil Protection Act, 1990, as it is a global emergency with impacts extending well beyond London and Ontario",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 4 (14-1, the reopened PEC-7th-report business under a mislabeled 'Closed Session' item number -- confirmed via the order-of-business-change motion immediately preceding it). Clarifying-note amendment, not itself expansive/restrictive -> climate/null correct."
+  },
+  {
+    "id": "6fe2d38427a3",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 4th Report of the Advisory Committee on the Environment, including its Climate Emergency Declaration recommendation, to a future Strategic Priorities and Policy Committee meeting for consideration.",
+    "confidence": "high",
+    "quote": "That the matter of the 4th Report of the Advisory Committee on the Environment BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee, for consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 4 (Failed 3-12): hedged correctly ('Would have referred...'). Referring 'the matter of the 4th Report of the ACE' does encompass its climate-emergency-declaration clause -> climate correct; referral -> null correct."
+  },
+  {
+    "id": "a65fc96c9ab3",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved, as amended, the City's Declaration of a Climate Emergency (part b) ii) of clause 3.4 of the Planning and Environment Committee's 7th Report).",
+    "confidence": "medium",
+    "quote": "That Part b) ii) of clause 3.4, as amended, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 4 (12-3): 'Part b) ii) of clause 3.4, as amended, BE APPROVED' is a wrapper ratifying the PEC-endorsed, Council-amended Climate Emergency Declaration from the same day's earlier item -- wrapper_preamble flag and expansive/climate correct; confidence=medium appropriately reflects the indirection."
+  },
+  {
+    "id": "0822d9425657",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on the Integrity Commissioner Agreement, directed introducing a by-law to approve the agreement with, and appoint, Gregory F. Stewart as Integrity Commissioner, and directed the City Clerk to arrange for the Mayor and Clerk to execute the agreement.",
+    "confidence": "high",
+    "quote": "the staff report, dated April 16, 2019, entitled \u201cIntegrity Commissioner Agreement\u201d BE RECEIVED; b) the proposed by-law appended to the staff report dated April 16, 2019 as Appendix \u201cA\u201d being \u201cA by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7405-156, being \u201cA by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London\u201d BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.1.4 (13-2): 'integrity commissioner' -> GLOBAL_EXCLUDE -> none correct."
+  },
+  {
+    "id": "9aa7bdc52f05",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted the Corporate Services Committee's recommendation that no action be taken to adjust 2019 remuneration for elected officials.",
+    "confidence": "medium",
+    "quote": "Part a) of Item 8, clause 2.4, BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.1.8 (Failed 7-8): 'Part a) of Item 8, clause 2.4, BE APPROVED' is a wrapper referencing the CSC's 'no action' recommendation (confirmed against the CSC source, item 2.4 IDX0/IDX2) -- wrapper_preamble flag and none/null correct; hedged correctly."
+  },
+  {
+    "id": "fec5cea8261f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adjusted 2018 remuneration for elected officials by 2.3% over 2018, effective January 1, 2019, per Council Policy 'Remuneration for Elected Officials and Appointed Citizen Members.'",
+    "confidence": "high",
+    "quote": "That the 2018 remuneration for elected officials ADJUSTED by 2.3% over 2018 effective January 1, 2019, in keeping with Council Policy, \u201cRemuneration for Elected Officials and Appointed Citizen Members\u201d adopted by By-law No. CPOL.-70(a)-408.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.1.8 (9-6): matches the CSC-originated remuneration-adjustment clause verbatim (including its source typo, missing 'BE' before ADJUSTED) -> none/null correct."
+  },
+  {
+    "id": "abeb07ccc7ad",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have introduced a Zoning By-law to rezone the property at 536 and 542 Windermere Road to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone permitting cluster townhouse and cluster stacked townhouse dwellings with a reduced 10.5-metre maximum height, a reduced 2.1-metre front-yard depth, and an increased 0.2-metre front-yard encroachment.",
+    "confidence": "high",
+    "quote": "Zoning By-law No. Z-.1 attached as Appendix B BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to change the zoning of the subject property to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone to permit cluster townhouse dwellings and cluster stacked townhouse dwellings with a reduced minimum front yard depth of 2.1 metres, an increased maximum encroachment into the front yard depth of 0.2 metres from the front property line, and a reduced maximum height of 10.5 metres",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.3.17 (Failed 5-10, Cassidy/Hopkins motion). Confirmed distinct from the companion 15-0 unanimous motion (clauses b/c, refuse+trees) that is correctly NOT in this divided-vote batch. Hedged correctly; housing/density/restrictive correct (same reduced-height/setback language as its PEC precursor 1ee533b79ec1)."
+  },
+  {
+    "id": "141f49dbfd30",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Introduced a Zoning By-law, per the Director of Development Services' recommendation, to rezone the property at 536 and 542 Windermere Road from a Residential R1 zone to a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) zone.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated April 15, 2019 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 23, 2019 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone TO a Holding Residential R5 Special Provision (h-5-h-*-R5-5(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.3.17 (12-3, Helmer/Lewis motion, staff recommendation). Confirmed distinct from the unanimous 15-0 companion motion (which carries the explicit 'BE REFUSED' language and trees clause, correctly excluded as non-divided). This clause's own text has no numeric cap, but the item's own unanimous companion clause explicitly refuses the broader R5-7 ask -- restrictive/density and confidence=medium both appropriately calibrated."
+  },
+  {
+    "id": "2986bd0737a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the recommended adoption of Council's Strategic Plan 2019-2023 to exclude Outcome BSC-20 (Bring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks) for separate consideration.",
+    "confidence": "high",
+    "quote": "That part b) BE AMENDED to add the exclusion of BSC-20 \u201cBring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.5.5 (12-3): procedural amendment carving out BSC-20 for separate vote, no tracked-issue keyword in this clause -> none/null correct."
+  },
+  {
+    "id": "6c5250c03dd9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Council's Strategic Plan 2019-2023 Final Outcomes, Expected Results, Strategies, and Metrics, with the exception of Strategies SOC-12, SOC-13, BSC-20 (Thames River revitalization), GEO-21, and the Building a Sustainable City strategy for replacing surface parking with efficient public parking resources in the Downtown (Downtown Parking Strategy).",
+    "confidence": "high",
+    "quote": "the attached revised \"Council's Strategic Plan 2019-2023: Final Outcomes, Expected Results, Strategies, and Metrics\" BE APPROVED with the exception of Strategies SOC-12, SOC-13, BSC-20 and GEO-21, and the Strategy under \"Building a Sustainable City\" for the \"replacement of surface parking with efficient, convenient and cost-effective public parking resources to support business, personal and social activity in the Downtown (Downtown Parking Strategy)\"",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.5.5 (14-1). Body text does contain the word 'Downtown' (inside the excluded 'Downtown Parking Strategy' item name) but that item is explicitly EXCLUDED by this very motion, not adopted -- correctly read as none rather than a naive downtown keyword hit; confirms the classifier avoided the same title-token trap sweep-planning-token-siblings.py is designed to catch."
+  },
+  {
+    "id": "10777c8553c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Strategic Plan Outcome BSC-20, 'Bring Londoners Back to the River' by revitalizing the Thames River radiating from the Forks, as originally drafted.",
+    "confidence": "high",
+    "quote": "That BSC-20, Bring Londoners 'Back to the River' by revitalizing the Thames River radiating from the Forks, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Quote verbatim vs 2019-04-23 Council item 8.5.5 (10-5): the carved-out BSC-20 (Thames River/Forks) approval, no tracked-issue keyword -> none/null correct."
+  },
+  {
+    "id": "82b65d1416a2",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Draft Principles for the Victoria Park Secondary Plan as the basis for continued work with consultants, stakeholders, and property owners on developing the Secondary Plan.",
+    "confidence": "medium",
+    "quote": "the Draft Principles for the Victoria Park Secondary Plan be ENDORSED; it being noted that staff will continue to work with consultants, stakeholders, property owners, and other interested parties to develop the Secondary Plan",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Quote verbatim vs 2019-04-29 PEC item 3.3 (4-1). Issue corrected: the item title carries the O-8978 structural code, which issue-rules.ts's CODE_PATTERNS lists as an independent, title-based housing signal for Official-Plan-type applications (same class of signal as the Z-8945 code correctly used for the Windermere Road rows in this same batch) -- endorsing Secondary Plan development principles is squarely a housing/density-planning act even though the clause's own prose uses no housing keyword. Polarity left null (endorsing draft principles for future work is not itself a concrete expansive/restrictive density decision) -- correct as-is."
+  }
+]

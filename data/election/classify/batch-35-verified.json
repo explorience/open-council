@@ -1,0 +1,631 @@
+[
+  {
+    "id": "e46038e6251c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the staff report on London's Newcomer Strategy (Choose London 2024-2028) and the London Newcomer Survey, with no further direction taken.",
+    "confidence": "high",
+    "quote": "the staff report dated September 8, 2025, with respect to the London’s Newcomer Strategy: Choose London – Innovative, Vibrant and Global (2024-28), and London Newcomer Survey by London and Middlesex Local Immigration Partnership, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified full item text: single clause, pure receive of a staff report + survey, no operative direction beyond BE RECEIVED. Correctly issue=none."
+  },
+  {
+    "id": "2d4c5573d18a",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving a communication on the Housing and Homelessness Value for Money Audit and a councillor's related communication, with no further direction taken.",
+    "confidence": "medium",
+    "quote": "the communication dated August 28, 2025 from MNP with respect to the Housing and Homelessness Value for Money (VfM) Audit report, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified full item 8.5.4 text (2025-09-23): motion is exactly two BE RECEIVED clauses (MNP communication + a councillor communication), no operative direction. informational_ask correct; polarity null correct."
+  },
+  {
+    "id": "23238e0e2b62",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 341.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 341, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "e6db0957f206",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 341.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 341, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "6df38077b5e7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 341.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 341, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "d81ae0093fd3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 342.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 342, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "8169001daa4a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 342.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 342, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "2c9199212831",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 342.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 342, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "df6dbae31332",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No.'s 349 and 350.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.’s 349 and 350, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "c3670ec5c37c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No.'s 349 and 350.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.’s 349 and 350, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "bf06b2cf3c96",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No.'s 349 and 350.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.’s 349 and 350, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "205325e0a4e1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 355.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 355, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "21ea56fd6c97",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 355.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 355, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "117ffff0fde4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 355.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 355, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "c21d476fb370",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the 2025 mid-year operating budget monitoring report and introducing a by-law establishing a new Council policy governing how operating surpluses and deficits are treated for local agencies, boards, and commissions.",
+    "confidence": "medium",
+    "quote": "the proposed by-law, as appended to the staff report dated October 6, 2025 as Appendix “C”, BE INTRODUCED at the Municipal Council meeting to be held on October 14, 2025, to amend By-law No. CPOL.-43-239, as amended, to implement a new Council Policy entitled “Treatment of Operating Surpluses/Deficits – Local Agencies, Boards and Commissions”",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified full item 8.2.4 text: clause a) receives the mid-year monitoring report (surplus figures only, no levy change); clause b) introduces a by-law on HOW future local-agency surpluses/deficits are treated procedurally -- no tax levy $ sign or rate change asserted. No budget-axis signal exists to derive polarity from; null is the safe and correct call, not a miss."
+  },
+  {
+    "id": "079f3c92366e",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed staff to implement the five-year Bike Parking Implementation Plan 2025-2029 as part of the Mobility Master Plan, establish an online channel for feedback on bike parking, and prepare a future business case to further expand bike parking.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to implement the Bike Parking Implementation Plan 2025-2029 as part of the Mobility Master Plan",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against full item 8.3.3 text (2025-10-14 Council). Clause b) directs implementation of the Bike Parking Implementation Plan as part of the Mobility Master Plan; clause d) separately directs a future business case to EXPAND bike parking (2028-2031 budget) -- both operative clauses point the same direction. Vote 13-2 (Nays: Van Meerbergen, Stevenson) matches manifest result exactly. Matches direction-rules.ts bikes/infrastructure-expansion pattern. No title-vs-body mismatch, no denial-flip. Confirmed."
+  },
+  {
+    "id": "f44508b9efa6",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement the Proposed Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 as outlined in the above-noted staff report; and, c) financing for the Proposed Temporary Warming Centre Framework for Winter 2026/2027 BE APPROVED from the Operating Budget Contingency Reserve in an amount of up to $3,632,500",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against full item 8.3.7 text (2025-10-14 Council, original vote before same-meeting reconsideration). Clause b) directs implementation of the Temporary Warming Centre Framework; clause c) approves up to $3,632,500 financing from the Operating Budget Contingency Reserve -- a genuine funding increase for the homelessness response, matching direction-rules.ts encampments/response-scale expansive pattern (fund* + response/shelter). Vote 13-2 (Nays: Stevenson, Trosow) matches manifest result. Quote merges verbatim clauses b) and c) correctly, no fabrication. Confirmed."
+  },
+  {
+    "id": "bcdc340f73a8",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the city to implement the Temporary Warming Centre Framework for the 2025/2026 and 2026/2027 winters and approved up to $3,632,500 in financing for it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement the Proposed Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 as outlined in the above-noted staff report; and, c) financing for the Proposed Temporary Warming Centre Framework for Winter 2026/2027 BE APPROVED from the Operating Budget Contingency Reserve in an amount of up to $3,632,500",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 8.3.7, same operative text as f44508b9efa6 -- this is the re-vote taken immediately after a section-13.6 reconsideration motion (15-0) to let Councillor Trosow correct his vote. Verified the revote's actual roll call: Yeas gain Trosow, Nays drop to Stevenson only (14-1), matching manifest result exactly. Motion text identical, so issue/axis/polarity carry over correctly -- this is the same substantive decision, not a different one. Confirmed."
+  },
+  {
+    "id": "48f6baed97b9",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the staff research and evaluation report on the Health and Homelessness Whole of Community System Response, with no further direction taken.",
+    "confidence": "high",
+    "quote": "the above-noted staff report BE RECEIVED",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified full item 8.3.9 text: this ID's own vote (14-1) corresponds only to the split-off preamble+receive clause after a separate substantive amendment (metrics report-back) failed 6-9 and a separate advocacy request passed unanimously 15-0 (excluded elsewhere as not-divided). This entry's own text is pure BE RECEIVED. Correct."
+  },
+  {
+    "id": "54c53a4f94d7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No. 371.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 371 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "1673af74b44f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No. 371.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 371 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "0c8ab9237e6f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No. 371.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 371 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "70742e24971d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Bill No.'s 369 and 379.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 369 and 379 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "39858a263941",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Bill No.'s 369 and 379.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 369 and 379 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "b1724eb42e0b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Bill No.'s 369 and 379.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 369 and 379 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "48ba7198f318",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Committee received the annual update delegation from the President and CEO of the London Economic Development Corporation, with no further direction taken.",
+    "confidence": "high",
+    "quote": "it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote: pure 'BE NOTED that the Committee received' delegation-noting, no operative direction. Correct."
+  },
+  {
+    "id": "c7570818e41d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in one round of a multi-round appointment vote to fill a Covent Garden Market Board of Directors seat; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed appointment secret-ballot round (Covent Garden Market Board), no yea/nay policy content -- correctly excluded under the appointment global-exclude rule."
+  },
+  {
+    "id": "a9548aee53a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in one round of a multi-round appointment vote to fill a Covent Garden Market Board of Directors seat; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Covent Garden Market Board appointment round. Correct."
+  },
+  {
+    "id": "15f96b52448e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in one round of a multi-round appointment vote to fill a Covent Garden Market Board of Directors seat; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Covent Garden Market Board appointment round. Correct."
+  },
+  {
+    "id": "5a78fd10162e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in one round of a multi-round appointment vote to fill a Committee of Adjustment seat; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed Committee of Adjustment appointment secret-ballot round. Correct."
+  },
+  {
+    "id": "b8dbda9afc63",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving an information report on the executed purchase-of-service agreement for London Cares Homeless Response Services, with no further direction taken.",
+    "confidence": "high",
+    "quote": "the staff report dated October 20, 2025, with respect to an Information Report on the Executed Purchase of Service Agreement for London Cares Homeless Response Services, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified full item 8.2.4 (2025-11-04) text: single clause, pure BE RECEIVED of an information report, no operative direction. Correct."
+  },
+  {
+    "id": "befa8fb9d1f3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Committee received the annual update delegation from the President and CEO of the London Economic Development Corporation, with no further direction taken.",
+    "confidence": "high",
+    "quote": "it BE NOTED that the Strategic Priorities and Policy Committee received the Annual Update from K. Lakhotia, President and Chief Executive Officer, London Economic Development Corporation",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same LEDC annual-update noting motion as 48ba7198f318 (recurs at both committee and Council ratification stages). Correct."
+  },
+  {
+    "id": "5ada5807cfbc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, in closed session, accepting a vendor's offer to sell land and grant a temporary easement to the City for future road improvements related to the Wellington Gateway Project, and approved the financing for it.",
+    "confidence": "high",
+    "quote": "the offer submitted by St. Joseph’s Health Care, London (the “Vendor”), to sell the subject property to the City, for the sum of $460,000.00, and grant a Temporary Easement for the sum of $120,000.00 for a term of two (2) years... BE ACCEPTED",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against full closed-session clause 1 text (2025-11-04, Added Reports item 9): operative clauses accept a real-estate PURCHASE OFFER and approve financing -- a land transaction, not a road-capacity or transit decision. The phrase 'future road improvements' appears only in the preamble describing the property's eventual PURPOSE; it is not 'road widening'/'new lanes'/'road capacity' (the only tracked road-capacity keywords) and never appears as an operative verb. issue=none correctly avoided a false road/transit hit on the project name alone."
+  },
+  {
+    "id": "0313a1cbb7b5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, in closed session, a settlement agreement accepting expropriation compensation terms with a property owner for land needed for the Wellington Gateway Project road improvements, and approved the financing for it.",
+    "confidence": "high",
+    "quote": "the Settlement Agreement as to compensation and possession from 16 Wellington Holdings Inc. to settle the outstanding expropriation compensation to the property owner, for the total sum of $1,249,000.00... BE ACCEPTED",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against full closed-session clause 2 text: operative clause accepts an expropriation SETTLEMENT AGREEMENT (compensation), same 'future road improvements'-in-preamble-only pattern as 5ada5807cfbc. issue=none correct for the same reason."
+  },
+  {
+    "id": "f62219c929f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Added Bill No. 400.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 400 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "205bd5b50996",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Added Bill No. 400.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 400 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "67fa4612e0cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Added Bill No. 400.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 400 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "008973a127b9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Added Bill No. 400.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 400 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "42f4cf4c0fc4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Added Bill No. 401.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 401 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "7371ff6f88eb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Added Bill No. 401.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 401 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "ee04688e4977",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Added Bill No. 401.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 401 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "a6263c2de00d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Added Bill No. 402.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Added Bill No. 402 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "8702b00600ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved second reading of Added Bill No. 402.",
+    "confidence": "high",
+    "quote": "That Second Reading of Added Bill No. 402 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "4480b2f2cabd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved third reading and enactment of Added Bill No. 402.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Added Bill No. 402 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  },
+  {
+    "id": "8329d201105c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introduction and first reading of Revised Bill No. 398.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Revised Bill No. 398 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bare procedural reading motion ('Introduction/Second/Third Reading of Bill No. N, BE APPROVED') with no topical text to classify from -- issue=none is the only honest call; consistent with the established batch 0-24 pattern for bill readings."
+  }
+]

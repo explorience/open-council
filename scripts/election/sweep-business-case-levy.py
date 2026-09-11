@@ -27,15 +27,16 @@ DETECTION + DERIVATION RULE (the whole rule, not a summary):
      falls through to the year-2 occurrence since $0 carries no sign to
      derive from).
 
-  4. POLARITY for a MATCH is derived from the sign of that dollar figure
-     together with the motion's own INCLUDE/EXCLUDE verb:
-       - BE INCLUDED + positive levy  -> expansive (yea raises the levy)
-       - BE INCLUDED + negative levy  -> restrictive (yea cuts the levy)
-       - BE EXCLUDED + positive levy  -> restrictive (yea avoids a levy
-         increase that inclusion would have caused)
-       - BE EXCLUDED + negative levy  -> expansive (yea keeps a levy CUT
-         from happening, so the levy stays higher than if the case had
-         been included)
+  4. POLARITY for a MATCH is derived from the SIGN of that dollar figure
+     ALONE (Gate round 3 item A correction: the original version of this
+     rule flipped the sign for BE EXCLUDED rows, which is INVERTED — see
+     sweep-levy-sign-consistency.py's docstring for the full proof from the
+     corpus's own precedent rows, P-25/P-24/P-6). The printed Tax Levy
+     figure already IS the net effect of the motion, exactly as worded,
+     passing — the include/exclude verb plays no further role once the
+     dollar line is found:
+       - positive levy figure -> expansive (yea moves the levy UP)
+       - negative levy figure -> restrictive (yea moves the levy DOWN)
      Axis is reclassified from "business-case" to "levy-size" for every
      MATCH whose derived (axis, polarity) differs from its current
      (axis, polarity) in the verified batches after existing corrections.
@@ -58,6 +59,16 @@ BATCH_GLOB = "data/election/classify/batch-*-verified.json"
 ALL_MOTIONS_PATH = "data/votes/_all-motions.json"
 
 LEVY_RE = re.compile(r"Tax Levy:\s*(-?\$[\d,]+)")
+
+# Gate round 3 item A: 1d7c40b467ec is the SAME underlying business case as
+# 22951914b4b2/P-6 ("Reduced Road Network Improvements", Appendix B Ref#2) at
+# an earlier, preliminary procedural stage (2025-05-22) whose own clause
+# carries no Tax Levy dollar line at all (that only appears in the later,
+# formal 2025-11-20 vote) — not mechanically sign-derivable by this script,
+# but manually aligned via corrections.json onto its sibling's verified
+# direction (expansive) rather than left unclear. See that correction's
+# reason for the full title-based derivation.
+NO_LEVY_LINE_TITLE_DERIVED_IDS = {"1d7c40b467ec"}
 
 
 def load_full_motion_text(meeting_slug: str, item_number: str, quote: str) -> str | None:
@@ -147,11 +158,11 @@ def derive_polarity(full_text: str) -> tuple[str, str] | None:
 
     included = bool(re.search(r"BE\s+INCLUDED", full_text, re.IGNORECASE))
     excluded = bool(re.search(r"BE\s+EXCLUDED", full_text, re.IGNORECASE))
-    if included and not excluded:
-        return (figure, "restrictive" if negative else "expansive")
-    if excluded and not included:
-        return (figure, "expansive" if negative else "restrictive")
-    return None  # ambiguous verb — don't guess
+    if included == excluded:
+        return None  # neither or both verbs present — ambiguous, don't guess
+    # Gate round 3 item A: sign alone decides polarity, regardless of verb —
+    # see sweep-levy-sign-consistency.py's docstring for the full proof.
+    return (figure, "restrictive" if negative else "expansive")
 
 
 def main():
@@ -200,6 +211,13 @@ def main():
             figure, polarity = derived
             target_axis = "levy-size"
             disposition = f"levy-size / {polarity} (Tax Levy {figure})"
+        elif mid in NO_LEVY_LINE_TITLE_DERIVED_IDS:
+            print(
+                f"--- {mid}  current=({cur['axis']}, {cur['polarity']})  "
+                f"-> no Tax Levy line in this clause — title-derived, aligned to sibling "
+                f"22951914b4b2 via corrections.json  [NOT RE-DERIVED]"
+            )
+            continue
         else:
             target_axis = None
             polarity = None

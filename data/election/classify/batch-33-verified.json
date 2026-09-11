@@ -1,0 +1,598 @@
+[
+  {
+    "id": "20bd87838867",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introducing the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "the proposed by-law, as appended to the staff report dated May 1, 2025 as Appendix “A”, being the “Municipal Diversity Plan for Appointments to the London Police Service Board Policy” BE INTRODUCED at the Municipal Council meeting to be held on May 13, 2025 to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded 2025-05-13 item 8.3.8 (6th SPPC report) full text — only content is 'BE RECEIVED for information' + 'BE INTRODUCED ... to adopt the Municipal Diversity Plan for Appointments'; no budget/complement/officer language. axis=null correctly avoids inventing a policing-substance direction from an appointments-process policy."
+  },
+  {
+    "id": "691ae2ebf06d",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2025-05-13 item13 motion 'Introduction and First Reading of Bill No. 157 BE APPROVED' (14-1) cross-referenced to bills[] desc for Bill 157 = Ontario Renovates Home Repair Loan Agreement. Quote verbatim, operative, affordable-funding/expansive correct."
+  },
+  {
+    "id": "7f52f9d63ae8",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 157, Second Reading (14-1). Verbatim bills[] quote confirmed."
+  },
+  {
+    "id": "6e90419d5680",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the by-law authorizing the City to enter the Ontario Renovates Home Repair Loan Agreement funding home repairs for eligible low-income applicants.",
+    "confidence": "medium",
+    "quote": "A by-law to approve the Ontario Renovates Home Repair Loan Agreement (“Agreement”), between the City of London and eligible applicants; to authorize behalf the City of London and execute the Agreement.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 157, Third Reading/Enactment (14-1). Verbatim bills[] quote confirmed."
+  },
+  {
+    "id": "6ac6d8117556",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 163 = 'A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy' (First Reading, 14-1). Confirmed via bills[]; no budget/complement text anywhere — axis null correct, not a missed policing-substance classification."
+  },
+  {
+    "id": "0f0874c4c603",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 163 Second Reading (14-1). Same as above."
+  },
+  {
+    "id": "b495f6dfd0e0",
+    "issue": "policing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported enacting the by-law adopting the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "confidence": "low",
+    "quote": "A by-law to adopt the Municipal Diversity Plan for Appointments to the London Police Service Board Policy.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 163 Third Reading/Enactment (14-1). Same as above."
+  },
+  {
+    "id": "9ed9e0193161",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against PEC 2025-04-29 item 3.5 (3849 Campbell Street North, Z-9614) full application text: 'FROM an Urban Reserve (UR4) TO a Residential R5/R6/R8/R9 ...' and 'facilitates a range of housing options' — genuine upzoning from non-residential reserve to multi-unit residential. Quote verbatim, density/expansive confirmed."
+  },
+  {
+    "id": "24342621063b",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Campbell St rezoning, Second Reading. Verified as above."
+  },
+  {
+    "id": "fc91920ce872",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 3849 Campbell Street North from Urban Reserve to Residential R5/R6/R8/R9 zones permitting a range of multi-unit housing forms.",
+    "confidence": "medium",
+    "quote": "TO a Residential R5/R6/R8/R9 (R5-4(*)/R6-5(*)/R8-4(*)-D100-H32/ R9-3(*)-H32), a Residential R5/R6 (R5-4(**)/R6-5(**), and an Open Space (OS5) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Campbell St rezoning, Third Reading/Enactment. Verified as above."
+  },
+  {
+    "id": "a0ee8dad3c2b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as one bundled first reading, the remaining by-laws on the agenda (Bill Nos. 155 to 178, excluding 156, 157, 158 and 163) covering multiple unrelated administrative, infrastructure, and planning matters.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.’s 155 to Bill No. 178, excluding Bill No.’s 156, 157, 158 and 163 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Checked full bill range 155-178 (excl. 156/157/158/163) via bills[]: it bundles unrelated BIA amendments, debentures, subdivision assumptions, sewage by-laws, AND four rezonings/OPAs (166/167/175-178) into one omnibus first-reading vote with no per-item text. Classifier's issue=none is the safe call — assigning any single issue/direction to this grab-bag would misattribute a specific stance from an omnibus vote. Confirmed as correctly unclassified rather than a missed classification."
+  },
+  {
+    "id": "33eae9c3c03e",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Councillor's communication on the Whole of Community System Response Overview with no further action directed.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "'BE RECEIVED and no further action be taken' — pure informational receipt, no response-scale content. axis null correct."
+  },
+  {
+    "id": "ec95d27cf359",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to prepare an information report on amounts owed by Aspire Food Group and the process to collect them.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to prepare an information report summarizing the amounts owed by Aspire Food Group, the process to collect, expected outcomes and a brief summary of property taxes, fines and other accounts receivable that are deemed uncollectible.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Directs an information report on Aspire Food Group debts — informational ask only (Failed 1-4). No budget/levy-size language in the clause itself. issue=none correct."
+  },
+  {
+    "id": "2e558469012f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to consult the community and prepare a revised rendering addressing parking, accessibility, and loading-dock concerns on Eleanor Street.",
+    "confidence": "high",
+    "quote": "Civic Administration BE DIRECTED to consult with the community, including local businesses, regarding the changes to this part of Eleanor Street",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Directs consultation on Eleanor Street changes — informational ask (Failed 1-3), no road-capacity/transit-service language. issue=none correct."
+  },
+  {
+    "id": "f3df78573c8d",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2025 London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "medium",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, as appended to the staff report dated May 27, 2025 as Appendix “A”, BE APPROVED in accordance with Ontario Regulation 588/17.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against SPPC 2025-05-27 item 4.2 full text: part b) 'the 2025 ... Asset Management Plan ... BE APPROVED in accordance with Ontario Regulation 588/17' passed 12-1, with a rival REFERRAL motion (more scrutiny before approving) failing 2-11 on the same item — genuine approve-now-vs-hold-for-more-work division. Quote verbatim, application-approval/expansive confirmed."
+  },
+  {
+    "id": "e58982c980db",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the 2025 London and Middlesex Community Housing Asset Management Plan back for revisions, including a property-by-property facilities-condition breakdown and further options on financing the infrastructure gap.",
+    "confidence": "high",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, appended to the staff report as Appendix “A”, BE REFERRED to the meeting of the Strategic Priorities and Policy Committee to be held on June 17, 2025 with a request to London and Middlesex Housing Community Housing to include in a revised Asset Management Plan",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "The rival referral motion on the same item (Failed 2-11): 'BE REFERRED to the meeting of ... June 17, 2025 with a request to include a property-by-property breakdown...'. Pure referral, no approve/deny verb of its own. axis null correct (deferOnly)."
+  },
+  {
+    "id": "4a7dbd9fd06d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged legal advice on a matter related to the London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "high",
+    "quote": "That Council rise and go into Council, In Closed Session, for the purpose of considering the following: 4.2 Litigation/Potential Litigation / Solicitor-Client Privileged Advice",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural motion to enter closed session for solicitor-client privilege — no substantive content. issue=none correct."
+  },
+  {
+    "id": "c7ad56fac08d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to receive solicitor-client privileged legal advice on a matter related to a Highly Supportive Housing contribution agreement.",
+    "confidence": "high",
+    "quote": "That Council convenes In Closed session for the purpose of considering the following: 4.3 Litigation/Potential Litigation / Solicitor-Client Privileged Advice",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same as above, different closed-session item. issue=none correct."
+  },
+  {
+    "id": "4177fd20e31b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a batch of public communications and referred them as noted on the added agenda, covering a heritage-property demolition request, an infrastructure project, and two rezoning applications.",
+    "confidence": "high",
+    "quote": "That the following communications BE RECEIVED, and BE REFERRED as noted on the Added Agenda",
+    "flags": [
+      "procedural",
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "'BE RECEIVED, and BE REFERRED as noted on the Added Agenda' — the actual referenced communications (heritage demolition, infrastructure, two rezonings) sit only on an Added Agenda attachment not present in the meeting JSON's motion text; no operative content to classify from. issue=none correctly conservative, not a missed classification."
+  },
+  {
+    "id": "656e01676285",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 2025 Mid-Year Strategic Plan Implementation Update report for information.",
+    "confidence": "high",
+    "quote": "the report regarding 2025 Mid-Year Strategic Plan Implementation Update BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Pure 'BE RECEIVED for information' on the Mid-Year Strategic Plan Update — no operative decision content. issue=none correct."
+  },
+  {
+    "id": "0c5a09ed47d9",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the 2025 London and Middlesex Community Housing Asset Management Plan.",
+    "confidence": "medium",
+    "quote": "the “2025 London and Middlesex Community Housing Asset Management Plan”, as appended to the staff report dated May 27, 2025 as Appendix “A”, BE APPROVED in accordance with Ontario Regulation 588/17.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against Council 2025-06-03 item 8.2.7: identical text to f3df78573c8d (Council ratifying the SPPC recommendation), passed 13-1. Same verbatim quote, application-approval/expansive confirmed."
+  },
+  {
+    "id": "72c528522624",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Infrastructure and Corporate Services Committee had received a councillor's communication about Aspire Food Group bad debts, with no further action.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "'BE NOTED that ... Committee received a communication' — pure procedural noting, no decision content. issue=none correct."
+  },
+  {
+    "id": "fa37bf340814",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reconsidered a prior committee decision under the Council Procedure By-law to let a councillor recast her vote on the Eleanor Street communication.",
+    "confidence": "high",
+    "quote": "the Council decision with respect to item 16 (5.2) having to do with Councillor Stevenson's Communication BE RECONSIDERED to provide for Councillor Stevenson to recast her vote.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Reconsideration under Council Procedure By-law to let a councillor recast her vote — pure procedure, no substantive content. issue=none correct."
+  },
+  {
+    "id": "c49083574229",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that the Infrastructure and Corporate Services Committee had received a councillor's communication about the Eleanor Street infrastructure project, with no further action.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that the Infrastructure and Corporate Services Committee received a communication dated May 15, 2025 from Councillor S. Stevenson with respect to this matter.",
+    "flags": [
+      "procedural",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same 'BE NOTED' pattern as 72c528522624, different underlying item. issue=none correct."
+  },
+  {
+    "id": "88ebf9bb250f",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Councillor's communication on the Whole of Community System Response Overview with no further action directed.",
+    "confidence": "high",
+    "quote": "That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council-level receipt of the same Whole of Community System Response communication as 33eae9c3c03e — 'BE RECEIVED and no further action be taken', axis null correct."
+  },
+  {
+    "id": "3419490f3101",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against Council 2025-06-03 item13: 'Introduction and First Reading of Bill No. 181 and 182 BE APPROVED' (13-1), matching bills[] descriptions for Bill 181 (affordable-housing Contribution Agreement template) and Bill 182 (highly-supportive-housing template) — both bundled in one motion, both genuinely fund affordable/supportive housing. Quote verbatim (Bill 181's own text), affordable-funding/expansive confirmed."
+  },
+  {
+    "id": "50c4d89fbbc9",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 181+182, Second Reading (13-1). Verified as above."
+  },
+  {
+    "id": "3892d99b84bc",
+    "issue": "housing",
+    "axis": "affordable-funding",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws for template Contribution Agreements used to fund affordable housing and highly supportive housing projects.",
+    "confidence": "medium",
+    "quote": "A by-law to approve a template Contribution Agreement for affordable housing project owners awarded funding through procurement processes.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bills 181+182, Third Reading/Enactment (13-1). Verified as above."
+  },
+  {
+    "id": "33925b2151f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Traced to the source ICSC 2025-05-26 '2025 Council Policy Review' item: a single omnibus motion amending 43 unrelated Council Policies at once (Access and Privacy Policy is just #1 of 43, alphabetically-listed housekeeping items) — genuinely administrative, no policy-substance content in the operative clause. issue=none correct."
+  },
+  {
+    "id": "4e55703afbf3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same omnibus 43-policy bundle, Second Reading of Bills 198+217. Confirmed housekeeping, issue=none correct."
+  },
+  {
+    "id": "d47eb50329f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved housekeeping by-laws updating the City's Access and Privacy Policy schedule and its Free of Fear Services for All Policy.",
+    "confidence": "medium",
+    "quote": "A by-law to amend By-law No. CPOL.-378-473, as amended, being the “Access and Privacy Policy” by deleting and replacing Schedule “A”.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same omnibus 43-policy bundle, Third Reading/Enactment. Confirmed housekeeping, issue=none correct."
+  },
+  {
+    "id": "a2f046689f4d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against PEC 2025-05-21 item 3.1 (20 Clarke Road, Z-25038) full application text: 'FROM an Urban Reserve (UR1) ... and Restricted Service Commercial (RSC6) ... TO a Residential R5 ... R4 ... R1 ...' with operative finding 'facilitates residential intensification within the Built-Area Boundary' — quote verbatim, matches text exactly. Genuine density increase confirmed."
+  },
+  {
+    "id": "03e79279ff06",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Clarke Road rezoning, Second Reading (10-4). Verified as above."
+  },
+  {
+    "id": "c619398e063d",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 20 Clarke Road from Urban Reserve and Restricted Service Commercial to a mix of Residential zones to facilitate residential intensification.",
+    "confidence": "medium",
+    "quote": "the recommended amendment facilitates residential intensification within the Built-Area Boundary",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Clarke Road rezoning, Third Reading/Enactment (10-4). Verified as above."
+  },
+  {
+    "id": "a1a32e213ed5",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against PEC 2025-05-21 item 3.4 (168 Meadowlily Road South, OZ-9763) full application text: OPA adding 'stacked townhouses with a maximum height of 3.5 storeys ... apartment building with a maximum height of 8 storeys ... apartment building with a maximum height of 8 to 12 storeys' rezoning FROM 'Holding Urban Reserve' TO multi-unit R5/R6/R9/R10 zones. Quote verbatim word-for-word. Density/expansive confirmed, high confidence justified."
+  },
+  {
+    "id": "ffe105377ba3",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Meadowlily rezoning, Second Reading (10-4). Verified as above."
+  },
+  {
+    "id": "0530fb10adb8",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing by-laws amending the Official Plan and rezoning 168 Meadowlily Road South to permit stacked townhouses up to 3.5 storeys and apartment buildings up to 12 storeys.",
+    "confidence": "high",
+    "quote": "add a new Specific Policy to the Neighbourhoods Place Type for Block 2 of the subject lands to permit stacked townhouses with a maximum height of 3.5 storeys on a Neighbourhood Street, for Block 3 of the subject lands to permit an apartment building with a maximum height of 8 storeys, and for Block 4 of the subject lands to permit an apartment building with a maximum height of 8 to 12 storeys",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Meadowlily rezoning, Third Reading/Enactment (10-4). Verified as above."
+  },
+  {
+    "id": "434e1f895232",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against PEC 2025-05-21 item 3.3 (1890 & 1900 Kilgorman Way, Z-25045): 'FROM a Holding Residential R1 (h-2*R1-14) Zone, TO a Residential R1 (R1-14) Zone' — same base zone R1-14, only the holding symbol is removed; no density/use change anywhere in the text. Classifier's generic application-approval call (not density) is correct and confirmed verbatim."
+  },
+  {
+    "id": "07d34b3acbf4",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Kilgorman Way, Second Reading (11-3). Verified as above."
+  },
+  {
+    "id": "ade980876004",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported introducing the by-law rezoning 1890 & 1900 Kilgorman Way by removing a holding provision from the existing Residential R1 zoning.",
+    "confidence": "medium",
+    "quote": "to change the zoning of the subject property FROM a Holding Residential R1 (h- 2*R1-14) Zone, TO a Residential R1 (R1-14) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same Kilgorman Way, Third Reading/Enactment (11-3). Verified as above."
+  },
+  {
+    "id": "bc36553d2001",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+    "confidence": "low",
+    "quote": "A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Bill 247 = expropriation for Wellington Gateway, First Reading (13-1). Text is purely a land-acquisition legal instrument with no 'expand/restrict transit service' or 'road capacity' wording — axis null correctly avoids inferring a transit-service or road-capacity direction the by-law's own words don't state."
+  },
+  {
+    "id": "24c2e69564b6",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing the by-law authorizing expropriation of lands needed for the Wellington Gateway project.",
+    "confidence": "low",
+    "quote": "A by-law to expropriate lands in the City of London, in the County of Middlesex, for the Wellington Gateway Project.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 247, Second Reading (13-1). Confirmed as above (Third Reading/Enactment of Bill 247 also exists in the source but is outside this batch)."
+  },
+  {
+    "id": "e0556d8a489b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Corporate Growth Projections 2021-2051 report for information.",
+    "confidence": "high",
+    "quote": "the following report with respect to the City of London Corporate Growth Projections 2021-2051, BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against SPPC 2025-06-17 item 2.2: sole operative text is '...Corporate Growth Projections 2021-2051, BE RECEIVED for information' (9-4) — no housing-supply figures or decision content in the motion itself, even though the underlying report likely covers growth/housing projections. issue=none correct; no clause to extract a safe direction from."
+  },
+  {
+    "id": "85b22c226701",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the London & Middlesex Community Housing 2024 Financial Statements presented at its Annual General Meeting.",
+    "confidence": "high",
+    "quote": "the 2024 Financial Statements BE RECEIVED",
+    "flags": [
+      "informational_ask",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against SPPC 2025-06-17 item 3.2: the specific sub-motion voted 13-1 is 'Motion to approve part d): the 2024 Financial Statements BE RECEIVED' — pure informational receipt, axis null correct."
+  },
+  {
+    "id": "d7df3dccd45a",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introducing the by-law ratifying the Annual Resolutions of the Shareholder of London & Middlesex Community Housing, and received its 2024 Annual Report.",
+    "confidence": "medium",
+    "quote": "the proposed by-law as appended to the staff report dated June 17, 2025 as Appendix “A” entitled “A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing”, BE INTRODUCED at the Municipal Council meeting to be held on June 24, 2025",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ],
+    "verdict": "downgraded",
+    "verifierNote": "Verified against SPPC 2025-06-17 item 3.2 sub-motion (13-1): 'Motion to approve parts a) and c): a) the proposed by-law ... BE INTRODUCED ... entitled \"A by-law to ratify and confirm the Annual Resolutions of the Shareholder of London & Middlesex Community Housing\"; c) the 2024 Annual Report BE RECEIVED.' Quote is verbatim, but the operative content is a routine AGM shareholder-resolution ratification + report receipt for the City's housing corporation — governance/corporate housekeeping with no zoning, funding, or housing-supply content, structurally identical to the Access & Privacy / Free of Fear housekeeping bylaws elsewhere in this same batch that were correctly left issue=none. Reading a bare 'BE INTRODUCED' ratification as 'approved the housing item' risks implying a substantive pro-housing-expansion stance the text does not support. Downgraded: axis/polarity -> null (unclear), issue left as housing per classifier (LMCH is a housing body) since that call is defensible, but no direction is safe to publish here."
+  }
+]

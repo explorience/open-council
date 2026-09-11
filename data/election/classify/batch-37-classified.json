@@ -1,0 +1,538 @@
+[
+  {
+    "id": "54b8f05d9925",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill No. 88.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 88, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9232c32a6e61",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill No. 88.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 88, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "96a13ec77f14",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 88.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 88, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d0fa0245a96e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill Nos. 66 and 83.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.'s 66 and 83, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "759abd5b4da1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill Nos. 66 and 83.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.'s 66 and 83, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "85f80e3d6bc8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill Nos. 66 and 83.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.'s 66 and 83, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "26f5cbc55f5c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill No. 89.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 89, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3dd48b27dd50",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill No. 89.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 89, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "02fdbacbce3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 89.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 89, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c056563c76be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill No. 90.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 90, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3345a20aa975",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill No. 90.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 90, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "cbab2c1b79f6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 90.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 90, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "7cd0516d961c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported directing Civic Administration to review and report back to a future Community and Protective Services Committee meeting on the feasibility of posting rental property owners' professional or business contact information on the City website.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to review and report back to a future meeting of the Community and Protective Services Committee the feasibility of posting on the City of London website the professional or business contact information of rental property owners",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f8eb0320b880",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving Civic Administration's findings on the advisability of amending the Residential Rental Unit Licensing By-law CP-19 for information, with no further action taken.",
+    "confidence": "high",
+    "quote": "the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing By-law CP-19, as requested by Council on August 26, 2025, BE RECEIVED for information, and that no further action BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "00874635f128",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Integrity Commissioner's report on Code of Conduct Complaints 2025-04-A, B & C.",
+    "confidence": "high",
+    "quote": "the Integrity Commissioner Report on Code of Conduct Complaints 2025-04-A, B & C, dated February 24, 2026, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "99cc0f0da476",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the staff update on affordable and community housing, including a progress update on the Roadmap to 3,000 Affordable Units.",
+    "confidence": "high",
+    "quote": "updating Municipal Council on affordable and community housing within the Service Manager area, including a progress update to the Roadmap to 3,000 Affordable Units, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "712649d75650",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the 2025 Ontario Works Participant and Service Delivery Profile report.",
+    "confidence": "high",
+    "quote": "the staff report dated February 17, 2026, with respect to the 2025 Ontario Works Participant and Service Delivery Profile, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "fc7cd2fe7c0c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving Civic Administration's findings on the advisability of amending the Residential Rental Unit Licensing By-law CP-19 for information, with no further action taken.",
+    "confidence": "high",
+    "quote": "the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing By-law CP-19, as requested by Council on August 26, 2025, BE RECEIVED for information, and that no further action BE TAKEN",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a7e04b79fb09",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill Nos. 97 and 98.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.’s 97 and 98, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c8697d53f822",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill Nos. 97 and 98.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.’s 97 and 98, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3ecdca051a4f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill Nos. 97 and 98.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.’s 97 and 98, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "dd6ebb344a88",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill Nos. 105 and 123.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.’s 105 and 123, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "fa117989487c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill Nos. 105 and 123.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No.’s 105 and 123, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "9d016c0d275b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill Nos. 105 and 123.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No.’s 105 and 123, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "2bec75745322",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill No. 108.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.108, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e84946a5cc86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill No. 108.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 108, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ebcd68607c65",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 108.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 108, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4637cef0906a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill No. 109.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No.109, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "6cd229ae755d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill No. 109.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 109, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "4c517eff673c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 109.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 109, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "177b57d38b30",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Revised Bill No. 124 and Added Bill No. 125.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "deb522406e51",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Revised Bill No. 124 and Added Bill No. 125.",
+    "confidence": "high",
+    "quote": "That Second Reading of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f08d3ff045ff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Revised Bill No. 124 and Added Bill No. 125.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Revised Bill No.124 and Added Bill No. 125, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "8d9b27214fab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving Councillor S. Stevenson's communication on enhanced reporting for procurement disqualifications and bids and tender issues.",
+    "confidence": "high",
+    "quote": "the communication dated March 16, 2026, from Councillor S. Stevenson, with respect to Enhanced Reporting for Procurement Disqualifications and Bids & Tender Issues, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "09069f6dcdc7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving Councillor S. Stevenson's communication requesting an update on potential funding gaps.",
+    "confidence": "high",
+    "quote": "the communication dated March 16, 2026 from Councillor S. Stevenson with respect to a Request for an Update on Potential Funding Gaps, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a636de743007",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the Draft Economic Development Strategy (2026-2030) and Implementation Plan, and an accompanying presentation and delegations.",
+    "confidence": "high",
+    "quote": "the City of London Draft Economic Development Strategy (2026-2030) and Implementation Plan, as appended to the staff report dated March 24, 2026 as Appendix “A” and presentation BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "eb6b6bedef18",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Supported receiving the 2025 year-end operating budget monitoring report and approving year-end surplus contributions to the Social Services Reserve Fund, the Affordable Housing Renewal Reserve Fund, and RBC Place London's reserves.",
+    "confidence": "medium",
+    "quote": "a contribution of $475,937 to the Social Services Reserve Fund, representing the London Regional Employment Services surplus due to the achievement of contractual performance targets, BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "82436acb664e",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introducing a by-law to establish a City pilot project permitting cargo power-assisted (cargo e-bike) bicycles, running until the end of the provincial pilot in March 2031, with a report back on program use in 2028.",
+    "confidence": "medium",
+    "quote": "the proposed by-law amendment, as appended to the staff report dated May 6, 2026 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 12, 2026, to establish a Pilot Project for Cargo Power Assisted Bicycles for cargo e-bikes alone, to come into force and effect on May 12, 2026 until the end of the provincial pilot on March 1, 2031",
+    "flags": []
+  },
+  {
+    "id": "f361b9953e52",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported introduction and first reading of Bill Nos. 195 and 196.",
+    "confidence": "high",
+    "quote": "That Introduction and First Reading of Bill No. 195 and 196 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d214053cb675",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported second reading of Bill Nos. 195 and 196.",
+    "confidence": "high",
+    "quote": "That Second Reading of Bill No. 195 and 196 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b03a248a9b12",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 195.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 195 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d54dcb649252",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported third reading and enactment of Bill No. 196.",
+    "confidence": "high",
+    "quote": "That Third Reading and Enactment of Bill No. 196 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1e2ffdd9f0c8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported reordering the Infrastructure and Corporate Services Committee's Consent-stage agenda to consider Item 2.7 before Item 2.1.",
+    "confidence": "high",
+    "quote": "pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent, to be considered before item 2.1 in Stage 2, Consent",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1f43ac3166a1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the first Bi-Annual Procurement Report for information.",
+    "confidence": "high",
+    "quote": "the first Bi-Annual Procurement Report, prepared in accordance with Section 35 – Reporting Requirements of the Procurement of Goods and Services Policy, BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "c4a2ba2f4a90",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Supported receiving the 2026 Mid-Year Strategic Plan Implementation Update report.",
+    "confidence": "high",
+    "quote": "the report including the 2026 Mid-Year Strategic Plan Implementation Update, as appended to the staff report dated May 28, 2026, BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]

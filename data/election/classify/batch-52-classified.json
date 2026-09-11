@@ -1,0 +1,512 @@
+[
+  {
+    "id": "c9aa82d76128",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized IBI Group Professional Services (Canada) Inc. to carry out construction inspection and contract administration for the Dundas Place - Thames Valley Parkway Active Transportation Connection project and approved its financing.",
+    "confidence": "high",
+    "quote": "IBI Group Professional Services (Canada) Inc. BE AUTHORIZED to carry out the construction inspection and contract administration for this project in the amount of $323,190.00 (excluding HST), in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "13275074c5ac",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Awarded the Dundas Street Cycle Track construction contract to Dufferin Construction Company and approved its financing, building new protected cycling infrastructure on Dundas Street.",
+    "confidence": "high",
+    "quote": "the bid submitted by Dufferin Construction Company, A division of CRH Canada Group Inc., at its tendered price of $3,683,709.53 (excluding HST), BE ACCEPTED; it being noted that the bid submitted by Dufferin Construction Company, A division of CRH Canada Group Inc. was the lowest of two bids received and meets the City's specifications and requirements in all areas",
+    "flags": []
+  },
+  {
+    "id": "edde502822dd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to revised Added Bill No. 231.",
+    "confidence": "low",
+    "quote": "That Introduction and First Reading of revised Added Bill No. 231, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "942b64e61941",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to revised Added Bill No. 231.",
+    "confidence": "low",
+    "quote": "That Second Reading of revised Added Bill No. 231, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5d311ac2f0e5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted revised Bill No. 231.",
+    "confidence": "low",
+    "quote": "That Third Reading and Enactment of revised Bill No. 231, BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "51fab7d343e7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that Middlesex County provide a voting representative seat for City of London Council on the Municipal Service Board for the Provision of Land Ambulance Services, and directed that Council indicate its candidate for that seat at its August 25, 2020 meeting.",
+    "confidence": "high",
+    "quote": "a) the County of Middlesex BE REQUESTED to provide for a voting representative of the City of London Council, on the Municipal Service Board for the Provision of Land Ambulance Services, Middlesex-London; and, b) the City of London Council indicate at its meeting to be held on August 25, 2020, a candidate for the above-noted representative",
+    "flags": []
+  },
+  {
+    "id": "f8abcf744171",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed September 17, 2020 as World Patient Safety Day.",
+    "confidence": "high",
+    "quote": "the day of September 17, 2020 BE PROCLAIMED as World Patient Safety Day",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "952c8321a9a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Proclaimed the week of September 13-19, 2020 as Mitochondrial Disease Awareness Week.",
+    "confidence": "high",
+    "quote": "the week of September 13 - 19, 2020 BE PROCLAIMED as Mitochondrial Disease Awareness Week",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "519fabad426c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue for up to three more years, continuing the site's downtown parking use rather than requiring redevelopment.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated August 10, 2020 BE INTRODUCED at the Municipal Council meeting to be held on August 25, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-69) Zone for a period not exceeding three (3) years",
+    "flags": []
+  },
+  {
+    "id": "957a42c565b4",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved rezoning 2040 River Road to an Open Space Special Provision and holding Light Industrial/General Industrial zone rather than the applicant's requested straight industrial zone, refusing the less protective option as inadequate to preserve the site's re-naturalized area long-term.",
+    "confidence": "medium",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a holding General Industrial (h*GI2) Zone and a Light Industrial/General Industrial (LI6/GI2) Zone TO a Light Industrial/General Industrial Special Provision (LI6/GI2(_)) Zone, BE REFUSED as there is inadequate protection for the long-term preservation of the area of re-naturalization, and an Open Space Special Provision (OS5(_)) Zone is appropriate to clearly delineate the area to be protected and ensure the undisturbed future viability of this re-naturalized area",
+    "flags": []
+  },
+  {
+    "id": "27e938bcb0c1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved directing Civic Administration to review and report back on the road-safety and access concerns raised by Silverleaf community residents, and granted their delegation request to speak when that report comes forward.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to review the concerns outlined in the above-noted communication regarding “safety, road mobility, unfettered access to roads by residents and clear access for service, transportation and emergency vehicles” and to report back addressing the concerns raised",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "249397eccc81",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed AECOM Consulting Ltd. as consulting engineer for the Wellington Gateway Transit and Infrastructure Improvements project at an upset amount of $6,490,902.00, and approved the project's financing.",
+    "confidence": "medium",
+    "quote": "AECOM Consulting Ltd. BE APPOINTED Consulting Engineer for the Transit and Infrastructure improvements of the Wellington Gateway project at an upset amount of $6,490,902.00, including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b5e77870e85f",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed DILLON Consulting Limited as consulting engineer for the East London Link Transit and Municipal Infrastructure Improvements project at an upset amount of $6,113,853.00, and approved the project's financing.",
+    "confidence": "medium",
+    "quote": "DILLON Consulting Limited BE APPOINTED Consulting Engineers for the East London Link Transit and Municipal Infrastructure Improvements at an upset amount of $6,113,853.00, including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "09f1401671f9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Bill Graham to a third and final term on the Greater London International Airport Authority Board of Directors, for the term ending July 31, 2023.",
+    "confidence": "high",
+    "quote": "That Bill Graham BE APPOINTED for a third and final term to the Greater London International Airport Authority Board of Directors for the term ending July 31, 2023",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "75748ee2f3f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to allocate a minimum of 25% ($500,000) of the 2024-2027 London Community Grants Program multi-year funding to applications supporting anti-Black racism, anti-Indigenous racism, anti-oppression, diversity, inclusion and equity, to bring forward related policy amendments, and to remove barriers facing racialized and marginalized applicants.",
+    "confidence": "high",
+    "quote": "for the Multi-Year Funding Allocation for the period 2024-2027, the Civic Administration BE DIRECTED to provide for a minimum of 25% ($500,000) of the total funding available to be allocated to applications whose proposals would support anti-Black racism, anti-Indigenous racism, anti-oppression, diversity, inclusion and equity",
+    "flags": []
+  },
+  {
+    "id": "01b6348a7817",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 2040 River Road to an Open Space Special Provision and holding Light Industrial/General Industrial zone, protecting the site's re-naturalized natural heritage area.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of revised Bill No. 250 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "464466294120",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 2040 River Road to an Open Space Special Provision and holding Light Industrial/General Industrial zone, protecting the site's re-naturalized natural heritage area.",
+    "confidence": "medium",
+    "quote": "That Second Reading of revised Bill No. 250 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "ded752584d50",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 2040 River Road to an Open Space Special Provision and holding Light Industrial/General Industrial zone, protecting the site's re-naturalized natural heritage area.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of revised Bill No. 250 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f8c5c8284311",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a councillor's proposal to commit $1M toward establishing a City of London Film Office through 2023 to Civic Administration for consideration alongside prior Council direction on the film industry, with a report back to the Community and Protective Services Committee.",
+    "confidence": "high",
+    "quote": "the communication dated August 18, 2020, and accompanying supporting documentation, from Councillor M. van Holst with respect to the establishment of a City of London Film Office through 2023, BE REFERRED to the Civic Administration for consideration in conjunction with previous Council direction for a report related to the film industry in London, with a report back to the Community and Protective Services Committee",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "96a8316ca83a",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed AECOM Consulting Ltd. as consulting engineer for the Wellington Gateway Transit and Infrastructure Improvements project and DILLON Consulting Limited as consulting engineer for the East London Link Transit and Municipal Infrastructure Improvements project, and approved financing for both.",
+    "confidence": "medium",
+    "quote": "AECOM Consulting Ltd. BE APPOINTED Consulting Engineer for the Transit and Infrastructure improvements of the Wellington Gateway project at an upset amount of $6,490,902.00, including contingency (excluding HST), in accordance with Section 15.2 (e) of the Procurement of Goods and Services policy",
+    "flags": [
+      "procedural",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "f1b5a6df71f0",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue for up to three more years, continuing the site's downtown parking use rather than requiring redevelopment.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated August 10, 2020 BE INTRODUCED at the Municipal Council meeting to be held on August 25, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-69) Zone for a period not exceeding three (3) years",
+    "flags": []
+  },
+  {
+    "id": "6de9d4cb3caa",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 2040 River Road (Z-9133) rezoning application back to Civic Administration for additional work, review, and further information to the Planning and Environment Committee, instead of deciding the application.",
+    "confidence": "high",
+    "quote": "That the application for 2040 River Road (Z-9133) BE REFERRED back to the Civic Administration for additional work and review, and further information to be provided to the Planning and Environment Committee.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "61e2cd83874e",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended the pending 2040 River Road rezoning motion's part a) to add a definitional carve-out excluding a construction/demolition recycling facility and a specialized recycling facility from the Waste Transfer Station and Recycling Depot definition, while keeping the same Open Space Special Provision zoning outcome protecting the site's re-naturalized area.",
+    "confidence": "medium",
+    "quote": "a) the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on August 25, 2020, to amend Zoning By-law No. A-1 (in conformity with the Official Plan), to change the zoning of the subject property FROM a holding General Industrial (h*G12) Zone and a Light Industrial/General Industrial (L16/G12) Zond TO an Open Space Special Provision (OS5(_)) and a holding Light Industrial Special Provision/General Industrial Special Provision (h-47*L16(_)/G12(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "144d5e593cc6",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "In final vote (as amended), approved rezoning 2040 River Road to an Open Space Special Provision and holding Light Industrial/General Industrial zone, refusing the applicant's alternative Light Industrial/General Industrial zoning as inadequate to preserve the site's re-naturalized area long-term.",
+    "confidence": "medium",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a holding General Industrial (h*GI2) Zone and a Light Industrial/General Industrial (LI6/GI2) Zone TO a Light Industrial/General Industrial Special Provision (LI6/GI2(_)) Zone, BE REFUSED as there is inadequate protection for the long-term preservation of the area of re-naturalization, and an Open Space Special Provision (OS5(_)) Zone is appropriate to clearly delineate the area to be protected and ensure the undisturbed future viability of this re-naturalized area",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "00a980bd6675",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted a delegation request for a representative of the Silverleaf community residents to speak at a future Planning and Environment Committee meeting when the staff report on their road-safety concerns is brought forward.",
+    "confidence": "high",
+    "quote": "the request for delegation BE GRANTED for a representative of the “Residents of Silverleaf” to speak at a future meeting of the Planning and Environment Committee when the staff report noted in a) above is brought forward for consideration",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "026d701cca1c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the single-source procurement of a Vehicle Exhaust Capture System for City of London fire stations to the next Community and Protective Services Committee meeting for staff to investigate additional options.",
+    "confidence": "high",
+    "quote": "That consideration of the single source procurement of a vehicle exhaust capture system in City of London fire stations BE REFERRED to the next meeting of the Community and Protective Services Committee, to be held September 9, 2020, in order for staff to investigate additional options.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "074c336c56f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "In final vote (as amended), requested that Middlesex County provide a voting representative seat for City of London Council on the Municipal Service Board for the Provision of Land Ambulance Services, and appointed Councillor S. Turner to that seat.",
+    "confidence": "high",
+    "quote": "b) Councillor S. Turner BE APPOINTED to the above-noted voting representative position for the City of London",
+    "flags": [
+      "appointment",
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0568aa408a3f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "In final vote, directed Civic Administration to allocate a minimum of 25% ($500,000) of the 2024-2027 London Community Grants Program multi-year funding to applications supporting anti-Black racism, anti-Indigenous racism, anti-oppression, diversity, inclusion and equity.",
+    "confidence": "high",
+    "quote": "for the Multi-Year Funding Allocation for the period 2024-2027, the Civic Administration BE DIRECTED to provide for a minimum of 25% ($500,000) of the total funding available to be allocated to applications whose proposals would support anti-Black racism, anti-Indigenous racism, anti-oppression, diversity, inclusion and equity",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "0245929612b7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 3557 Colonel Talbot Road from Urban Reserve and Open Space to Residential R5 Special Provision and Open Space Special Provision zones, facilitating residential infill development.",
+    "confidence": "medium",
+    "quote": "the proposed, revised, attached by-law BE INTRODUCED at the Municipal Council meeting to be held on September 15, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone and Open Space (OS4) Zone TO a Residential R5 Special Provision (R5-6(_)) Zone, Open Space Special Provision (OS4(_)) Zone and an Open Space Special Provision (OS5(_)) Zone and to add an h-5 holding provision",
+    "flags": []
+  },
+  {
+    "id": "0cd7e9e796f9",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 3557 Colonel Talbot Road from Urban Reserve and Open Space to Residential R5 Special Provision and Open Space Special Provision zones, facilitating residential infill development.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No. 274 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "19ae7a153615",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 3557 Colonel Talbot Road from Urban Reserve and Open Space to Residential R5 Special Provision and Open Space Special Provision zones, facilitating residential infill development.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No. 274 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "be5ad9b5ed3e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 3557 Colonel Talbot Road from Urban Reserve and Open Space to Residential R5 Special Provision and Open Space Special Provision zones, facilitating residential infill development.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No. 274 BE APPROVED.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "12c9239a5ebb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law rezoning 3557 Colonel Talbot Road from Urban Reserve and Open Space to Residential R5 Special Provision and Open Space Special Provision zones, facilitating residential infill development.",
+    "confidence": "medium",
+    "quote": "the proposed attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on September 15, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone and Open Space (OS4) Zone TO a Residential R5 Special Provision (R5-6(_)) Zone, Open Space Special Provision (OS4(_)) Zone and an Open Space Special Provision (OS5(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "3fa67649ac37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Declined to take further action on a resident's objection to backyard fires on private property, noting Fire Department staff had already responded to the concerns raised.",
+    "confidence": "high",
+    "quote": "That NO ACTION BE TAKEN with respect to the communication dated August 26, 2020, from H. Kaplan, related to an objection to backyard fires on private property; it being noted that a representative of the Fire Department previously responded to the concerns raised by the individual in the above-noted communication.",
+    "flags": []
+  },
+  {
+    "id": "02c27c655d55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have permitted demolition of the building on the heritage-designated property at 120 York Street, within the Downtown Heritage Conservation District, on condition the applicant obtain final Site Plan Approval.",
+    "confidence": "high",
+    "quote": "the request to demolish the building on the heritage designated property at 120 York Street, within the Downtown Heritage Conservation District, BE PERMITTED, and the following actions BE TAKEN: a) That the Chief Building Official BE ADVISED of Municipal Council’s intention in this matter; and, b) That the applicant BE REQUIRED to obtain final Site Plan Approval for the property.",
+    "flags": []
+  },
+  {
+    "id": "f2d1d44b8725",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Refused a Heritage Act application to construct two high-rise buildings on the property at 556 Wellington Street within the West Woodfield Heritage Conservation District, citing unaddressed Heritage Impact Assessment concerns.",
+    "confidence": "medium",
+    "quote": "the application under Section 42 of the Ontario Heritage Act to construct two high-rise buildings on the property located at 556 Wellington Street, within the West Woodfield Heritage Conservation District, BE REFUSED; it being noted that the concerns raised by the London Advisory Committee on Heritage (LACH), on their report dated December 11, 2019, regarding the Heritage Impact Assessment for the above-noted matter, have not been addressed to the satisfaction of the LACH",
+    "flags": []
+  },
+  {
+    "id": "1d36bfd23162",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have removed, from the pending motion directing a review of street-naming policies for the renaming of Plantation Road, the note that the word “Plantation” has a strong correlation to slavery, oppression, and racism.",
+    "confidence": "high",
+    "quote": "Motion to amend the main motion by removing the following, \"it being noted that the report back is to include a review of the request set out in the above-noted petition, recognizing that, historically, the word “Plantation” has a strong correlation to slavery, oppression and racism;\" from part b) of the motion.",
+    "flags": []
+  },
+  {
+    "id": "fc56da7c47fb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Community Diversity and Inclusion Strategy motion to add the qualifier “in principle” to Council's endorsement of the CDIS recommendations and priority work plans to end anti-Black and anti-Indigenous racism.",
+    "confidence": "high",
+    "quote": "That the motion be amended in parts b) and c) to add the words \"in principle\" following the words BE ENDORSED",
+    "flags": []
+  },
+  {
+    "id": "b5223688783e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed Civic Administration to report back to the Governance Working Group on options for restructuring the advisory committee system, including reducing or merging committees and alternative citizen-selection models, and to further detail on committees functioning as expert panels.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to report back to the Governance Working Group (GWG), with respect to the advisory committee review, as it relates to the following: i) options for the consideration of the GWG including: A) revisions to the current advisory committee structure including, potential reduction of overall committees, mergers of committees with areas of overlap/redundancy, to achieve a more meaningful and collaborative approach to citizen engagement",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "cdc41043e9e2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Governance Working Group to consider how London might be better served by changes to the structure and operations of the next Council.",
+    "confidence": "high",
+    "quote": "That the Governance Working Group BE DIRECTED to consider how London might be better served by changes to the structure and operations of the next council.",
+    "flags": []
+  },
+  {
+    "id": "cb6598b71cea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in round 1 of a multi-round appointment vote to fill a vacant seat on the London Public Library Board; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "2172ae519e59",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in round 2 of a multi-round appointment vote to fill a vacant seat on the London Public Library Board; the ballot decided who was appointed, not a policy question.",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "b1bd5c5cb97c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in round 3 of a multi-round appointment vote to fill a vacant seat on the London Public Library Board, resulting in a majority winner (Chelsea Smith).",
+    "confidence": "high",
+    "quote": "",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "bc4f6b187d1b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a test motion to confirm the electronic voting capability of Committee members attending remotely.",
+    "confidence": "high",
+    "quote": "Test motion to confirm the voting capability of remote attendees.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "150e16666d5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have denied the request to demolish the building on the heritage-designated property at 120 York Street, within the Downtown Heritage Conservation District.",
+    "confidence": "high",
+    "quote": "That the request to demolish the building on the heritage designated property at 120 York Street, within the Downtown Heritage Conservation District, BE DENIED;",
+    "flags": []
+  }
+]

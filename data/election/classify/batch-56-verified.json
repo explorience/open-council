@@ -1,0 +1,594 @@
+[
+  {
+    "id": "c2940c30282f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the New Sidewalks in 2021 Infrastructure Reconstruction Projects report to remove the proposed new sidewalk on Tarbart Terrace from the approved road reconstruction project.",
+    "confidence": "high",
+    "quote": "notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on Tarbart Terrace BE REMOVED from the approved road reconstruction project for the subject street",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Sidewalks item not in issue vocabulary; issue=none correct. Tarbart Terrace clause + 8-7 tally confirmed verbatim against source."
+  },
+  {
+    "id": "b0fdd82ea086",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the New Sidewalks in 2021 Infrastructure Reconstruction Projects report to remove the proposed new sidewalk on East Afton Place from the approved road reconstruction project.",
+    "confidence": "high",
+    "quote": "notwithstanding the requirements set out in the London Plan and the warranted sidewalk program with respect to the installation of sidewalk infrastructure, the proposed new sidewalk to be located on East Afton Place BE REMOVED from the approved road reconstruction project for the subject street",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Sidewalks item not in issue vocabulary; issue=none correct. East Afton Place clause + 9-6 tally confirmed verbatim against source."
+  },
+  {
+    "id": "8724ad585007",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the New Sidewalks in 2021 Infrastructure Reconstruction Projects report, as amended by Council's earlier street-by-street removals.",
+    "confidence": "high",
+    "quote": "That Item 2 (3.1), as amended, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Final 'as amended, BE APPROVED' wrapper confirmed 12-3 verbatim against source; issue=none correct (sidewalks not in vocabulary)."
+  },
+  {
+    "id": "9b47a5b57c4e",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to amend The London Plan to create a specific policy area permitting a low-rise apartment building up to 4 storeys at 403 Thompson Road, and to rezone the property from a Neighbourhood Shopping Area zone to a Residential R9 Special Provision zone.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended as Appendix “A” to the staff report dated March 1, 2021, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021 to amend The London Plan to create a specific policy area which permits low-rise apartment building up to 4-storeys within the Neighbourhoods Place Type on the subject lands located at 403 Thompson Road; b)      the proposed by-law appended as Appendix “B” to the staff report dated March 1, 2021, BE INTRODUCED at the Municipal Council meeting to be held on March 23, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a Neighbourhood Shopping Area (NSA1) Zone TO a Residential R9 Special Provision (R9-7(_)●H14) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source (8.3.13, 403 Thompson Rd, Passed 14-1): quote matches motion parts a)+b) verbatim; rezoning Neighbourhood Shopping Area -> Residential R9 to permit a 4-storey apartment is correctly density/expansive; whatAYeaDid uses motion-action voice, no stance verb."
+  },
+  {
+    "id": "14639f6e5899",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to report back on a governance model contemplating Ten Wards, to compare against the current Fourteen-Ward system, as part of the Ward Boundary Review.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back on a governance model that contemplates Ten Wards to provide an opportunity for the Municipal Council to evaluate this model against the current Fourteen Ward system",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Ward governance review; no issue-vocabulary match. Hedge correct for FAILED (5-10) motion."
+  },
+  {
+    "id": "2768bca45ca1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back on potential changes to the existing Fourteen Ward system that would result in a more balanced population between the wards, under the Ward Boundary Review policy.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back on potential changes to the existing Fourteen Ward system that would result in a more balanced population between the Wards",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Ward governance review; no issue-vocabulary match. Confirmed against source, quote verbatim."
+  },
+  {
+    "id": "a580af0ce0f7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted a $455,500 offer to sell to the City the 88 Wellington Road South property required for the Wellington Gateway Project road improvements, and approved financing for the acquisition.",
+    "confidence": "high",
+    "quote": "the offer submitted by Arlene Cochrane (the “Vendor”), to sell the subject property to the City, for the sum of $455,500.00 BE ACCEPTED, subject to the terms and conditions set out in Schedule “A” of the Agreement attached as Appendix “C”; and, b)      the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Property acquisition (Wellington Gateway road project); real-estate acquisition, not housing. Quote verbatim against source."
+  },
+  {
+    "id": "39c208c77f85",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 132, the by-law authorizing the City's purchase of 88 Wellington Road South for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.8079-99 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and  Arlene Cochrane for the full acquisition of the property located at 88 Wellington Road South, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.3/4/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (same item 9.1, later paragraph) names Bill No. 132 verbatim as the Arlene Cochrane / 88 Wellington Road South purchase agreement -- confirming the classifier's tally-based inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description and removed the inferential hedge ('appears to... based on its place in') from whatAYeaDid since it is now textually proven, not inferred. confidence low->medium (schedule-derived, matching corpus precedent for this pattern, e.g. batch-25 489 Upper Queen St). issue stays none: a road-project property acquisition is not housing."
+  },
+  {
+    "id": "7f7d898d61b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 132, the by-law authorizing the City's purchase of 88 Wellington Road South for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.8079-99 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and  Arlene Cochrane for the full acquisition of the property located at 88 Wellington Road South, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.3/4/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (same item 9.1, later paragraph) names Bill No. 132 verbatim as the Arlene Cochrane / 88 Wellington Road South purchase agreement -- confirming the classifier's tally-based inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description and removed the inferential hedge ('appears to... based on its place in') from whatAYeaDid since it is now textually proven, not inferred. confidence low->medium (schedule-derived, matching corpus precedent for this pattern, e.g. batch-25 489 Upper Queen St). issue stays none: a road-project property acquisition is not housing."
+  },
+  {
+    "id": "0c87a73bf33c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 132, the by-law authorizing the City's purchase of 88 Wellington Road South for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.8079-99 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and  Arlene Cochrane for the full acquisition of the property located at 88 Wellington Road South, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.3/4/CSC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (same item 9.1, later paragraph) names Bill No. 132 verbatim as the Arlene Cochrane / 88 Wellington Road South purchase agreement -- confirming the classifier's tally-based inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description and removed the inferential hedge ('appears to... based on its place in') from whatAYeaDid since it is now textually proven, not inferred. confidence low->medium (schedule-derived, matching corpus precedent for this pattern, e.g. batch-25 489 Upper Queen St). issue stays none: a road-project property acquisition is not housing."
+  },
+  {
+    "id": "e4d36c3ccf4c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back, as part of the scheduled Council Policy review, on adding to the Public Notice Policy a notice provision related to city management of newly created private parking lots.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back, as a part of the scheduled Council Policy review, with respect to the addition of a notice provision related to the establishment of city-management of newly created private parking lots in the Public Notice Policy",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Public Notice Policy re: private-parking-lot management; no issue-vocabulary match (parking/notice policy isn't a listed cluster)."
+  },
+  {
+    "id": "61642676af89",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended that Council refuse the original zoning-by-law request for 1414 Dundas Street due to its parking layout, but introduce a revised by-law rezoning the property from Commercial Recreation and Regional Facility zones to a Restricted Service Commercial Special Provision zone for the Humane Society London & Middlesex's proposed facility, with a wider landscaped buffer.",
+    "confidence": "high",
+    "quote": "the proposed revised,  by-law BE INTRODUCED at the Municipal Council meeting to be held on April 13, 2020 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan for the City of London (1989), the London Psychiatric Hospital Secondary Plan and The London Plan), to change the zoning of the subject property FROM a Commercial Recreation (CR) Zone and a Regional Facility (RF) Zone TO a Restricted Service Commercial Special Provision (RSC2(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: 1414 Dundas St is a Humane Society facility rezoning, no housing content -- issue=none correct per convention. Quote verbatim (incl. source's own 'April 13, 2020' typo, correctly preserved)."
+  },
+  {
+    "id": "a660a162b8e1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 1414 Dundas Street zoning application back to the Civic Administration for additional discussion with the applicant on parking location, parking reduction, and the landscaped buffer.",
+    "confidence": "high",
+    "quote": "That the matter of Application for 1414 Dundas Street BE REFERRED back to Civic Administration in order for additional discussion with respect to parking location and reduction and the landscaped buffer with the applicant.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral motion confirmed verbatim (Failed 2-4); flags=[referral] correct."
+  },
+  {
+    "id": "c228eb6ab259",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced by-laws to redesignate 101 Meadowlily Road South from an Urban Reserve Community Growth designation to a Low Density Residential and Open Space designation, and to rezone the property from a Holding Urban Reserve zone to a Residential Special Provision R6 and Open Space zone, enabling a residential vacant-land condominium development.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated March 29, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 13, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Urban Reserve Community Growth designation TO a Low Density Residential designation and Open Space designation",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source (3.5, Planning & Environment Cmte, Failed 2-4): quote matches motion part a) verbatim; correctly hedged 'Would have introduced...' for a FAILED motion; application-approval/expansive is the corpus's own disclosed generic-approve fallback, correctly applied."
+  },
+  {
+    "id": "097255eb080b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the remainder of the Green Bin Program Design report (parts b through f), authorizing Request for Proposals procurement processes for Green Bin curbside containers, a materials processor, and permitted liner types for the organics program, and directing staff to report back on the procurement outcomes and on options for addressing bi-weekly garbage collection, per the parts b) to f) set out earlier in this same item's recommendation.",
+    "confidence": "medium",
+    "quote": "Motion to approve the remainder of the clause, parts b) to f), inclusive.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: this motion's own text is only the bare 'parts b) to f)' wrapper (verified against source node) -- quote and wrapper_preamble flag correctly reflect that its own text doesn't restate the substance, unlike its Council-level twin."
+  },
+  {
+    "id": "f5c773812535",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to proceed with implementing the Automated Speed Enforcement program.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to proceed with the implementation of the Automated Speed Enforcement (ASE) program",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Automated Speed Enforcement text has no policing/transit keyword hits (police board/budget/complement not present); issue=none correct."
+  },
+  {
+    "id": "03b9cfb63ba0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Governance Working Group to consider, in consultation with the Civic Administration, how council operations could be changed to realize efficiencies, including meeting hours, standing committee structure, expense accounts, and support staff.",
+    "confidence": "high",
+    "quote": "That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with the corporate reorganization, while better serving London, including but not limited to: hours of council and standing committee meetings, standing committee structure, expense accounts, and support staff",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council operations/governance efficiency review; no issue-vocabulary match."
+  },
+  {
+    "id": "f3fa90e5c960",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 157, the by-law rezoning 1414 Dundas Street for the Humane Society London & Middlesex facility (Z-9276).",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212917 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1414 Dundas Street. (3.3b/5/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (item 9.2) names Bill No. 157 verbatim as the 1414 Dundas Street zoning amendment -- confirming the classifier's title-cross-reference inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description. issue stays none: the 1414 Dundas St. application is the Humane Society London & Middlesex facility, an institutional/commercial rezoning with no housing content."
+  },
+  {
+    "id": "22358cfeb61d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 157, the by-law rezoning 1414 Dundas Street for the Humane Society London & Middlesex facility (Z-9276).",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212917 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1414 Dundas Street. (3.3b/5/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (item 9.2) names Bill No. 157 verbatim as the 1414 Dundas Street zoning amendment -- confirming the classifier's title-cross-reference inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description. issue stays none: the 1414 Dundas St. application is the Humane Society London & Middlesex facility, an institutional/commercial rezoning with no housing content."
+  },
+  {
+    "id": "58b4865450de",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 157, the by-law rezoning 1414 Dundas Street for the Humane Society London & Middlesex facility (Z-9276).",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212917 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 1414 Dundas Street. (3.3b/5/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Quote upgraded: this meeting's own Confirming By-law schedule (item 9.2) names Bill No. 157 verbatim as the 1414 Dundas Street zoning amendment -- confirming the classifier's title-cross-reference inference was correct. Replaced the bare 'BE APPROVED' quote with the schedule's own description. issue stays none: the 1414 Dundas St. application is the Humane Society London & Middlesex facility, an institutional/commercial rezoning with no housing content."
+  },
+  {
+    "id": "22ad31d19afe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to proceed with implementing the Automated Speed Enforcement program.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to proceed with the implementation of the Automated Speed Enforcement (ASE) program",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Duplicate ASE motion (Council-level ratification); same reasoning as f5c773812535 -- issue=none correct."
+  },
+  {
+    "id": "5d8d2ec4ad0c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Green Bin Program Design item back to the May 11, 2021 Civic Works Committee meeting for further consideration.",
+    "confidence": "high",
+    "quote": "That Item 16 (2.13) of the 5th Report of the Civic Works Committee, having to do with the Green Bin Program Design – Community Engagement Feedback BE REFERRED to the May 11, 2021 meeting of the Civic Works Committee for further consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral motion confirmed verbatim (Failed 4-11); flags=[referral] correct."
+  },
+  {
+    "id": "42029178b0af",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the Civic Administration to proceed with Request for Proposals procurement processes for Green Bin curbside containers, a materials processor, and permitted liner types for the organics program, and directed staff to report back on the procurement outcomes and on options for addressing bi-weekly garbage collection.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE AUTHORIZED to undertake a Request for Proposals procurement process to: i)     select a company or companies to supply a kitchen container for indoor use to recover organics",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: this Council-level motion's own text (verified against source node) fully restates parts b)-f), unlike its committee-level twin -- quote correctly captures the substantive RFP clause."
+  },
+  {
+    "id": "838c13ba1a7e",
+    "issue": "bikes",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have forwarded Option 1, Bi-directional Bicycle Lanes, to Municipal Council for implementation of the Dundas Place temporary bicycle lanes.",
+    "confidence": "high",
+    "quote": "Option 1, being Bi-directional Bicycle Lanes, BE FORWARDED to Municipal Council for consideration at the meeting to be held on April 13, 2021; it being noted that the  draft by-law will implement this option",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed axis/polarity correctly left null: Option 1 (bi-directional lanes) failed 7-8, but Option 3 (also pro-bike-lane, via traffic diversions) then passed 14-1 -- a no vote on Option 1 doesn't read as anti-bike-lane, so 'more/less' direction isn't derivable from this motion alone."
+  },
+  {
+    "id": "d3f2b15062e0",
+    "issue": "bikes",
+    "axis": "infrastructure-expansion",
+    "polarity": "expansive",
+    "whatAYeaDid": "Directed the Civic Administration to bring forward the necessary by-laws to operationalize Option #3, Traffic Diversions, for the Dundas Place temporary bicycle lanes, including physical barriers.",
+    "confidence": "high",
+    "quote": "The Civic Administration BE DIRECTED to bring forward the necessary by-laws to the May 4, 2021 meeting of Municipal Council to operationalize Option #3, Traffic Diversions, with respect to Dundas Place temporary bicycle lanes, with components of physical barriers being included in the plan.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source (8.2.18, Dundas Place, Option #3 Traffic Diversions, Passed 14-1): quote matches the S. Lewis motion verbatim; this is the design option that actually implemented the temporary bike lane project (Option 1 failed 7-8 immediately prior), so infrastructure-expansion/expansive is correct -- a yea supported building the bike-lane infrastructure."
+  },
+  {
+    "id": "79db8e121d9c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 1414 Dundas Street zoning application back to the Civic Administration to continue working with the applicant to address parking and landscaped-buffer concerns.",
+    "confidence": "high",
+    "quote": "That Item 17 (3.3) regarding the application related to 1414 Dundas Street BE REFERRED back to the Civic Administration to continue to work with the applicant to address various concerns that have been raised, including parking and the landscaped buffer.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral motion (1414 Dundas St, Council-level) confirmed verbatim (Failed 6-9); flags=[referral] correct; issue=none matches committee-level finding (institutional, not housing)."
+  },
+  {
+    "id": "ceb25f39ef5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 1414 Dundas Street zoning application conditions to direct that surface parking between the treed allée and the proposed building be minimized as much as possible, including by considering relocating some parking toward the rear of the site.",
+    "confidence": "high",
+    "quote": "The amount of surface parking between the treed allée and the proposed building be minimized as much as possible, through consideration of relocating some of the proposed parking towards the rear of the site.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Amendment (parking minimization) confirmed verbatim (Passed 14-1); issue=none correct."
+  },
+  {
+    "id": "63406d374294",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 1414 Dundas Street zoning application (Z-9276), as amended.",
+    "confidence": "high",
+    "quote": "That Item 17 (3.3), as amended BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Final approval wrapper confirmed verbatim (Passed 8-7); issue=none correct, consistent with 61642676af89 finding."
+  },
+  {
+    "id": "39a0b9d3e46c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have refused the Official Plan, The London Plan, and Zoning By-law amendments for 101 Meadowlily Road South, denying the proposed redesignation to Low Density Residential and Open Space and the associated vacant-land condominium development.",
+    "confidence": "high",
+    "quote": "the application to amend the Official Plan to change the designation of the subject lands FROM an Urban Reserve Community Growth designation, TO a Low Density Residential designation and Open Space designation, BE REFUSED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source (8.3.19, Council, Failed 4-11, the REFUSE motion): quote matches part a) 'BE REFUSED' verbatim; hedged 'Would have refused' for a FAILED motion; application-approval/restrictive correctly mirrors 'denied' outcome per convention."
+  },
+  {
+    "id": "1eb055edc2c2",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to redesignate 101 Meadowlily Road South from an Urban Reserve Community Growth designation to a Low Density Residential and Open Space designation, and to rezone the property from a Holding Urban Reserve zone to a Residential Special Provision R6 and Open Space zone, enabling a residential vacant-land condominium development.",
+    "confidence": "high",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting on April 13, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Urban Reserve Community Growth designation, TO a Low Density Residential designation and Open Space designation",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source (8.3.19, Council, Passed 13-2, the companion INTRODUCE motion): quote matches part a) 'BE INTRODUCED' verbatim; application-approval/expansive correct, no hedge needed on a passed motion."
+  },
+  {
+    "id": "af5a9056d399",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to report back to a future Strategic Priorities and Policy Committee meeting with a plan addressing both the capital and operational needs of London's municipal golf courses.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee with a plan to address both the capital and operational needs of municipal golf courses in London.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Municipal golf courses report-back request; no issue-vocabulary match."
+  },
+  {
+    "id": "daf18d68aaa9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law authorizing an Amending Agreement to the 2020 Purchase of Service Agreement between the City and the London Economic Development Corporation, and authorized the Mayor and City Clerk to execute it.",
+    "confidence": "high",
+    "quote": "authorize and approve the Amending Agreement to the 2020 Purchase of Service Agreement, as appended to the above-noted by-law, entered into between The Corporation of the City of London and the London Economic Development Corporation; and, b)     authorize the Mayor and the City Clerk to execute the above-noted Amending Agreement",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "London Economic Development Corporation agreement; no issue-vocabulary match."
+  },
+  {
+    "id": "a5be9cb9d32a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a communication from Councillor M. van Holst requesting research on the effects of COVID-19 public health restrictions on local citizens and the economy.",
+    "confidence": "high",
+    "quote": "That the communication dated March 29, 2021 from Councillor M. van Holst with respect to a request for research related to the effects of COVID on the local citizens and economy, BE RECEIVED.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "COVID research request; no issue-vocabulary match; procedural receipt of communication."
+  },
+  {
+    "id": "987e68922c27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Governance Working Group to consider, in consultation with the Civic Administration, how council operations could be changed to realize efficiencies, including meeting hours, standing committee structure, expense accounts, and support staff.",
+    "confidence": "high",
+    "quote": "That the Governance Working Group BE DIRECTED to consider, in consultation with the Civic Administration, how the operations of council may be changed to potentially realize efficiencies in line with the corporate reorganization, while better serving London, including but not limited to: hours of council and standing committee meetings, standing committee structure, expense accounts, and support staff",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Duplicate Governance Working Group motion (Council-level ratification of 03b9cfb63ba0); no issue-vocabulary match."
+  },
+  {
+    "id": "8d1ce6c1d1a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted a $402,500 settlement agreement with London Gateway Development Corporation for the City's expropriation of the 4545 Scotland Drive property required for Phase I of the Wonderland Road Improvements Project, and approved financing for the acquisition.",
+    "confidence": "high",
+    "quote": "the Settlement Agreement submitted by London Gateway Development Corporation (the “Expropriated Owner”), for a full and final settlement for land taken by the City through expropriation, for the sum of $402,500.00, subject to the terms and conditions set out in the Settlement Agreement attached as Appendix “C,” BE ACCEPTED; and, b)       the financing for this acquisition BE APPROVED as set out in the Source of Financing Report attached hereto as Appendix “A”",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Wonderland Rd expropriation settlement; real-estate/road-project acquisition, not housing."
+  },
+  {
+    "id": "62b626297c26",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bills No. 173 to 175, the by-laws amending the Official Plan, The London Plan, and Zoning By-law No. Z.-1 to redesignate and rezone 101 Meadowlily Road South, arising from the (Added) 6th Report of the Corporate Services Committee.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. C.P.-1284(vv)-129 - A by-law to amend the Official Plan for the City of London, 1989 relating to 101 Meadowlily Road South. (3.5a/5/PEC); (ADDED) By-law No. C.P.-1512(ai)-130 - A by-law to amend The London Plan for the City of London, 2016 relating to 101 Meadowlily Road South. (3.5b/5/PEC); (ADDED) By-law No. Z.-1-212923 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 101 Meadowlily Road South. (3.5c/5/PEC)",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Missed classification: this meeting's own Confirming By-law schedule (same item, later paragraph) names Bills 173/174/175 as the Official Plan / London Plan / Zoning amendments for 101 Meadowlily Road South -- the housing item already classified via 1eb055edc2c2/39a0b9d3e46c. Corrected issue none->housing, quote to the schedule text, confidence low->medium, flags wrapper_preamble->procedural, matching the corpus's own precedent for this exact pattern (e.g. batch-25 489 Upper Queen St readings). Axis/polarity left null: the reading's own operative text carries no directional content beyond 'rezone'."
+  },
+  {
+    "id": "ccdd85b0b223",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a secret ballot for appointment to the Accessibility Advisory Committee; no candidate received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Accessibility Advisory Committee",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot appointment, no majority; issue=none/flags=[appointment] correct per GLOBAL_EXCLUDE personnel convention."
+  },
+  {
+    "id": "59f3c791a2e2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a second secret ballot for appointment to the Accessibility Advisory Committee; no candidate received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Accessibility Advisory Committee - 2nd Ballot",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot appointment, 2nd ballot, no majority; same as above."
+  },
+  {
+    "id": "f17003476f2c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a secret ballot for appointment to the Cycling Advisory Committee; no candidate received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Cycling Advisory Committee",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot appointment (Cycling Advisory Cmte), no majority; personnel appointment, not a bikes-issue policy vote -- issue=none correct."
+  },
+  {
+    "id": "69cee0705978",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a second secret ballot for appointment to the Cycling Advisory Committee; no candidate received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Cycling Advisory Committee  - 2nd Ballot",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot appointment, 2nd ballot, no majority; same as above."
+  },
+  {
+    "id": "4daf58bf8b19",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Held a secret ballot for appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee, electing Nour Al Farawi, Citlally Maciel, Krista Arnold, Melissa Allder, Wajdi Khouri, Beverley Madigan, and Hetham Hani Jamel Abu Kakry.",
+    "confidence": "high",
+    "quote": "Appointment to the Diversity, Inclusion and Anti-Oppression Advisory Committee",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Secret-ballot appointment, majority reached; personnel decision, issue=none correct."
+  },
+  {
+    "id": "5d8102e92eec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the Recovery Grant Program by-laws to allow the Civic Administration to accept retroactive grant applications commencing May 4, 2021 where immediate repairs to vandalism damage are necessary to secure the premises.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to accept retroactive applications commencing May 4, 2021 if immediate repairs to damage by vandalism are necessary for securing the premises; it being noted that noted that the revised by-laws noted in a) through e) above, provide for retroactive applications to be submitted",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: Recovery Grant Program is BIA/business financial-incentive & graffiti-removal grants, no housing keyword hits; issue=none correct. Quote (the added part h) matches verbatim."
+  },
+  {
+    "id": "2ae092e45b4f",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time $2.5 million grant to RBC Place London from the Property Tax Supported Budget surplus to support its operations for the remainder of 2021, as part of the 2020 Year-End Operating Budget Monitoring Report and COVID-19 Financial Impacts.",
+    "confidence": "medium",
+    "quote": "the following allocations from the Property Tax Supported Budget surplus BE APPROVED with respect to RBC Place London: i) a one-time grant to support RBC Place operations for the remainder of 2021 in the amount of $2.5 million",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: RBC Place $2.5M is an allocation from Property Tax Supported Budget SURPLUS (year-end monitoring), not a printed Tax Levy $ line -- axis/polarity correctly left null per the levy convention."
+  },
+  {
+    "id": "2f2952b0fdc1",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the endorsement of the staff report on the City's 2020-2021 Winter Response Program for Unsheltered Individuals specifically as it pertains to the property at 525 Hamilton Road, a portion of the report that Council had carved out of its broader amended approval for separate consideration.",
+    "confidence": "medium",
+    "quote": "The motion to approve the endorsement and approval of the staff report as it pertains to matters related to 525 Hamilton Road is put.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: the 525 Hamilton Road carve-out motion text ('the endorsement and approval...as it pertains to matters related to 525 Hamilton Road') is too thin on its own to derive what the property's role is -- no encampments response-scale keyword present in the motion's own operative text. Leaving axis/polarity null is the safe call; a specific direction is not derivable without importing outside context."
+  },
+  {
+    "id": "07709f5ae09b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time $2.5 million grant to RBC Place London from the Property Tax Supported Budget surplus to support its operations for the remainder of 2021, as part of the 2020 Year-End Operating Budget Monitoring Report and COVID-19 Financial Impacts.",
+    "confidence": "medium",
+    "quote": "the following allocations from the Property Tax Supported Budget surplus BE APPROVED with respect to RBC Place London: i) a one-time grant to support RBC Place operations for the remainder of 2021 in the amount of $2.5 million",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against source: Council-level ratification of the same RBC Place $2.5M surplus allocation (Passed 14-1) -- same Tax-Levy-line reasoning as 2ae092e45b4f applies; axis/polarity correctly null."
+  }
+]

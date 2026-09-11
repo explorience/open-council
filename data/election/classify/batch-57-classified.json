@@ -1,0 +1,495 @@
+[
+  {
+    "id": "f06c0e1c1fab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have set no increase to 2021 remuneration for elected officials and appointed citizen members, notwithstanding the Council Policy's standard remuneration formula.",
+    "confidence": "high",
+    "quote": "That, notwithstanding the provisions of the Council Policy \"Remuneration for Elected Officials and Appointed Citizen Members\", the remuneration for elected officials and appointed citizens, NO INCREASE to remuneration for elected officials for appointed citizens be made for 2021; it being noted that the Corporate Services Committee received a communication dated May 7, 2021 from Councillors Helmer, Cassidy and Kayabaga with respect to this matter.",
+    "flags": []
+  },
+  {
+    "id": "143afa9ac140",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law extending the Temporary Use (T-70) Zone for 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street for a period not exceeding three years, continuing use of the properties as surface commercial parking lots.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 10, 2021 BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+    "flags": []
+  },
+  {
+    "id": "db94b0ce41b8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended a combined action for 2631 Hyde Park Road and 1521 Sunningdale Road West: introducing Official Plan and London Plan amendments redesignating the lands from Open Space to an Urban Reserve Community Growth/Environmental Review designation, while refusing the applicant's separate request to redesignate the same lands to Low Density Residential.",
+    "confidence": "low",
+    "quote": "a) the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation; b) the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend The London Plan to change the Place Type of the subject lands FROM a Green Space place type TO a Future Community Growth place type and Environmental Review place type; it being noted that the amendments will come into full force and effect concurrently with Map 1 and Map 7 of The London Plan; c)  the request to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential designation BE REFUSED",
+    "flags": []
+  },
+  {
+    "id": "032123f9c714",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Auburn Developments application for 2631 Hyde Park Road and 1521 Sunningdale Road West back to Civic Administration to accept a revised application redesignating the lands, including to Low Density Residential, rather than adopting the Director's recommended Urban Reserve designation and refusal of the residential redesignation.",
+    "confidence": "medium",
+    "quote": "That, notwithstanding the recommendation of the Director, Development Services, the application by Auburn Developments Inc., relating to the property located at 2631 Hyde Park Road and 1521 Sunningdale Road West BE REFERRED back to the Civic Administration to accept an application by Auburn Developments to: a) amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation;",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "d369210a479e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Advised the Approval Authority that Council has no objection to, and supports, the Site Plan Application for the proposed residential development at 3557 Colonel Talbot Road, while flagging four issues raised at the public meeting for its consideration.",
+    "confidence": "medium",
+    "quote": "b) the Approval Authority BE ADVISED that the Municipal Council does not have any issues with respect to the Site Plan Application, and Council supports the Site Plan Application",
+    "flags": []
+  },
+  {
+    "id": "2c4ae1140714",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised Civic Administration that the Cycling Advisory Committee supports creating a pumptrack facility, and requested a report back on the process and fees for a related feasibility study.",
+    "confidence": "medium",
+    "quote": "b)        the following actions be taken with respect to a City of London PumpTrack:\n\ni)         the Civic Administration BE ADVISED that the Cycling Advisory Committee (CAC) supports the creation of a pumptrack facility; and,\n\nii)        the Civic Administration BE REQUESTED to report back on the process and fees associated with a feasibility study with respect to the establishment of a pumptrack facility in the City of London; it being noted that the communication, as appended to the agenda, from B. Cassell and the delegation from S. Nauman, with respect to this matter, was received;",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "7cea5a870807",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Core Area Ambassador Pilot Program as described in the Comprehensive Report on Core Area Initiatives.",
+    "confidence": "high",
+    "quote": "e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;",
+    "flags": []
+  },
+  {
+    "id": "05e3ccf68fea",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized Civic Administration to reallocate the remaining $100,000 in one-time COVID-19 savings from other Core Area Action Plan efforts to other emergent Core Area opportunities in 2021.",
+    "confidence": "high",
+    "quote": "h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;",
+    "flags": []
+  },
+  {
+    "id": "5f2574b79f1b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Following a reconsideration vote reopening Bill Nos. 253 and 254 (2631 Hyde Park Road and 1521 Sunningdale Road West), directed Civic Administration to bring forward the draft bills for consideration when the matter returns to the Planning and Environment Committee.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward draft Bill No.'s 253 and 254 related to Item 11 (3.2) of the 8th Report of the Planning and Environment Committee, having to do with the applications regarding 2631 Hyde Park Road and 1521 Sunningdale Road West for consideration at the time the matter is brought forward to the Planning and Environment Committee.",
+    "flags": []
+  },
+  {
+    "id": "4e4f5fded6bf",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law extending the Temporary Use (T-70) Zone for 192-196 Central Avenue, 193-197 Central Avenue, and 200 Albert Street for a period not exceeding three years, continuing use of the properties as surface commercial parking lots.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 10, 2021 BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+    "flags": []
+  },
+  {
+    "id": "876b8bb3ba70",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a combined by-law package for 2631 Hyde Park Road and 1521 Sunningdale Road West: Official Plan and London Plan amendments redesignating the lands from Open Space to an Urban Reserve Community Growth/Environmental Review designation, while refusing the request to redesignate the same lands to Low Density Residential.",
+    "confidence": "low",
+    "quote": "a)      the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO an Urban Reserve Community Growth and Environmental Review designation; b)      the proposed by-law appended to the staff report dated May 10, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021 to amend The London Plan to change the Place Type of the subject lands FROM a Green Space place type TO a Future Community Growth place type and Environmental Review place type; it being noted that the amendments will come into full force and effect concurrently with Map 1 and Map 7 of The London Plan; c)      the request to amend the Official Plan to change the designation of the subject lands FROM an Open Space designation TO a Low Density Residential designation BE REFUSED",
+    "flags": []
+  },
+  {
+    "id": "cf1033ca4e45",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law approving an Agreement for Municipal Integrity Commissioner with, and appointing, Gregory F. Stewart as Integrity Commissioner for the City of London, repealing the prior such agreement by-law.",
+    "confidence": "high",
+    "quote": "b)      the proposed by-law as appended to the staff report dated May 10, 2021 as Appendix “A” being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London and to repeal By-law A.-7842-121, being “A by-law to approve an Agreement for Municipal Integrity Commissioner between The Corporation of the City of London and Gregory F. Stewart and to appoint Gregory F. Stewart as the Integrity Commissioner for the City of London” BE INTRODUCED at the Municipal Council meeting to be held on May 25, 2021.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ded12511a4cc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to commence the 2021 Council Compensation Review Task Force review under the appended Terms of Reference, and to invite the members of the 2016 Task Force to undertake the 2021 update.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 2021 Council Compensation Review Task Force: a)      the City Clerk BE DIRECTED to commence the 2021 Council Compensation Review Task Force review based on the Terms of Reference as appended to the staff report as Appendix “A”; and, b)      the City Clerk BE DIRECTED to invite the members of the 2016 Council Compensation Review Task Force to undertake the 2021 update based on the Terms of Reference noted in a) above.",
+    "flags": []
+  },
+  {
+    "id": "c5a27cf21562",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received, for information, the staff report on 2021 remuneration for elected officials and appointed citizen members.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Deputy City Manager, Finance Supports, the report dated May 10, 2021, BE RECEIVED for information; it being noted that the communication from Councillors Cassidy, Kayabaga and Helmer was received.",
+    "flags": []
+  },
+  {
+    "id": "c857167f0818",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested Civic Administration report back on the process and fees for a feasibility study on establishing a pumptrack facility in the City of London.",
+    "confidence": "high",
+    "quote": "b)        the following actions be taken with respect to a City of London PumpTrack: ii)        the Civic Administration BE REQUESTED to report back on the process and fees associated with a feasibility study with respect to the establishment of a pumptrack facility in the City of London; it being noted that the communication, as appended to the agenda, from B. Cassell and the delegation from S. Nauman, with respect to this matter, was received; and,",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "605858a27dd7",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Core Area Ambassador Pilot Program as described in the Comprehensive Report on Core Area Initiatives.",
+    "confidence": "high",
+    "quote": "e)      the Core Area Ambassador Pilot Program BE APPROVED as described in the above-noted report;",
+    "flags": []
+  },
+  {
+    "id": "e14889fef0aa",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Authorized Civic Administration to reallocate the remaining $100,000 in one-time COVID-19 savings from other Core Area Action Plan efforts to other emergent Core Area opportunities in 2021.",
+    "confidence": "high",
+    "quote": "h)      the Civic Administration BE AUTHORIZED to reallocate the remaining $100,000 in one-time funding that cannot be spent in 2021 due to COVID-19 impacts to other emergent opportunities aligned with the Core Area Action Plan in 2021;",
+    "flags": []
+  },
+  {
+    "id": "992710e4a12e",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law rezoning a portion of 435-451 Ridout Street North from Heritage/Regional Facility and Downtown Area Special Provision zones to a Holding Downtown Area Special Provision Bonus zone, permitting a mixed-use office/residential building up to 40 storeys (125 metres) with a maximum density of 500 units per hectare, in exchange for heritage retention, public parking, and affordable-housing commitments.",
+    "confidence": "high",
+    "quote": "d) the proposed by-law appended to the staff report dated May 31, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan (2016) as amended in part c) above), to change the zoning of a portion of the subject property FROM a Heritage/Regional Facility (HER/RF) Zone and a Downtown Area Special Provision (DA2(3)*D350) Zone TO a Holding Downtown Area Special Provision Bonus (h-3*h-55*h-_*DA2(3)*D350*B-_) Zone; the Bonus Zone shall be implemented through one or more agreements to facilitate a high quality mixed-use office/residential apartment building, with a maximum height of 40-storeys (125 metres), and a maximum density of 500 units per hectare",
+    "flags": []
+  },
+  {
+    "id": "cbaab0ca4cdb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3476076f4df8",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3926e297148d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning a portion of 435-451 Ridout Street North to permit the approved 40-storey mixed-use development.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-212942 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 435-451 Ridout Street North (3.10d/9/PEC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e757e3c685ad",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced by-laws rezoning a portion of 435-451 Ridout Street North from Heritage/Regional Facility and Downtown Area Special Provision zones to a Holding Downtown Area Special Provision Bonus zone, permitting a mixed-use office/residential building up to 40 storeys (125 metres) with a maximum density of 500 units per hectare, in exchange for heritage retention, public parking, and affordable-housing commitments.",
+    "confidence": "high",
+    "quote": "d)        the proposed by-law appended to the staff report dated May 31, 2021 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on June 15, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan (2016) as amended in part c) above), to change the zoning of a portion of the subject property FROM a Heritage/Regional Facility (HER/RF) Zone and a Downtown Area Special Provision (DA2(3)*D350) Zone TO a Holding Downtown Area Special Provision Bonus (h-3*h-55*h-_*DA2(3)*D350*B-_) Zone; the Bonus Zone shall be implemented through one or more agreements to facilitate a high quality mixed-use office/residential apartment building, with a maximum height of 40-storeys (125 metres), and a maximum density of 500 units per hectare",
+    "flags": []
+  },
+  {
+    "id": "87838a45c085",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to add a directive that Civic Administration not proceed with changes to the existing ward boundaries at this time.",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3) BE AMENDED to include the following additional wording, \"and the Civic Administration BE DIRECTED to not proceed with changes to the existing Ward Boundaries at this time.\"",
+    "flags": []
+  },
+  {
+    "id": "d9d7956d234c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to direct the City Clerk to arrange a Public Participation Meeting on a proposed ward boundary adjustment moving the Masonville area from Ward 7 to Ward 5 and the Fanshawe Park Road area from Ward 5 to Ward 3 (Option 4).",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3), BE AMENDED by adding the following: \"That the City Clerk BE DIRECTED to proceed to arrange a Public Participation Meeting, including any necessary information, at a future meeting of the Corporate Services Committee, with respect to the following proposed ward boundary adjustment as outlined in the staff report dated May 31, 2021 with respect to this matter: a)      Option 4 - Ward 7 Masonville Area to Ward 5; Ward 5 Fanshawe Park Road Area to Ward 3; and,\"",
+    "flags": []
+  },
+  {
+    "id": "67c4c381f921",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the Ward Boundaries Update report to direct the City Clerk to arrange a Public Participation Meeting on a proposed ward boundary adjustment moving the Hale Street area from Ward 4 to Ward 2 (Option 7).",
+    "confidence": "high",
+    "quote": "That Item 7 (2.3) BE AMENDED by adding the following: \"That the City Clerk BE DIRECTED to proceed to arrange a Public Participation Meeting, including any necessary information, at a future meeting of the Corporate Services Committee, with respect to the following proposed ward boundary adjustment as outlined in the staff report dated May 31, 2021 with respect to this matter: b)      Option 7 - Ward 4 Hale Street Area to Ward 2.\"",
+    "flags": []
+  },
+  {
+    "id": "247680484234",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the Committee recommendation receiving the Review of Ward Boundaries Update report without amendment, leaving the existing ward boundaries unchanged.",
+    "confidence": "high",
+    "quote": "The motion to adopt the Committee recommendation is put. That the report dated May 31, 2021 entitled \"Review of Ward Boundaries Update\" BE RECEIVED.",
+    "flags": []
+  },
+  {
+    "id": "8e54dc6832a8",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell a partial interest in 50 King Street to the City for $551,300, for future road improvements under the Downtown Loop and Municipal Infrastructure Improvements project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by 50 King Street London Limited (the “Vendor”), to sell the subject property to the City, for the sum of $551,300.00 BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "89a7c5ceafe1",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell a partial interest in 399 Ridout Street North to the City for $323,700, for future road improvements under the Downtown Loop and Municipal Infrastructure Improvements project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by 399 Ridout Street London Limited (the “Vendor”), to sell the subject property to the City, for the sum of $323,700.00 BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "680f2518aa08",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted the vendor's offer to sell 271 Wellington Road to the City for $500,000, for future road improvements under the Wellington Gateway Project, and approved financing for the acquisition.",
+    "confidence": "medium",
+    "quote": "a)      the offer submitted by Derek Michael Berg (the “Vendor”), to sell the subject property to the City, for the sum of $500,000.00, subject to the terms and conditions, BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "759d51a2bfdf",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3d7abb8b28bd",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "e53f37cb1a1b",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of a partial interest in 50 King Street for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8129-195 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 50 King Street London Limited for the partial acquisition of the property located at 50 King Street, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d23f38e2a1ae",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "7ef6e04aeaa1",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "249a02aa8b33",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of a partial interest in 399 Ridout Street North for the Downtown Loop and Municipal Infrastructure Improvements project.",
+    "confidence": "medium",
+    "quote": "(ADDED) By-law No. A.-8130-196 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 399 Ridout Street London Limited, for the partial acquisition of the property located at 399 Ridout Street North, in the City of London, for the Downtown Loop Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.2/9/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b025fe99a9e1",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1a9d44bf38c2",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "faa86abca392",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law authorizing purchase of the property at 271 Wellington Road for the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "(ADDED)  By-law No. A.-8132-198 – A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and Derek Michael Berg, for the acquisition of the property located at 271 Wellington Road, in the City of London, for the Wellington Gateway Project, and to authorize the Mayor and the City Clerk to execute the Agreement. (6.1/10/CSC)",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "d3cdb861539b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an updated Development Memorandum of Understanding between the City of London and the Upper Thames River Conservation Authority governing joint plan-review services, and authorized/delegated staff to finalize and execute it.",
+    "confidence": "high",
+    "quote": "a) the proposed updated Development Memorandum of Understanding (DMOU) between The Corporation of the City of London and the Upper Thames River Conservation Authority BE APPROVED substantially in the form appended to the staff report dated June 21, 2021 as Appendix “A”",
+    "flags": []
+  },
+  {
+    "id": "115c74126199",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the report on the updated Development Memorandum of Understanding with the Upper Thames River Conservation Authority back to Civic Administration to obtain the Authority's comments and report back to a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That the staff report dated June 21, 2021 entitled \"Memorandum of Understanding for Development and/or Planning Act Application Review between The Corporation of the City of London and Upper Thames River Conservation Authority\" BE REFERRED back to the Civic Administration to obtain comments from the Upper Thames River Conservation Authority with respect to this matter and to report back to a future meeting of the Planning and Environment Committee, with the results of the consultation.",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "ee164f8db6ee",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Recommended introducing a by-law rezoning 193 Queens Avenue from Holding Downtown Area zones to Holding Downtown Area/Temporary zones, extending the Temporary Use designation to continue the existing surface parking use.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated June 21, 2021 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on July 6, 2021 to amend Zoning By-law No. Z.-1, (in conformity with the 1989 Official Plan for the City of London (1989)), to change the zoning of the subject property from a Holding Downtown Area (h-3*DA1*D350) Zone and a Holding Downtown Area (h-3*DA2*D350) Zone TO a Holding Downtown Area/Temporary (h-3*DA1*D350/T-_) Zone and a Holding Downtown Area/Temporary (h-3*DA2*D350/T-_) Zone",
+    "flags": []
+  },
+  {
+    "id": "914daeda11f1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred A-M. Valastro's request for delegation status on the 183 and 197 Ann Street heritage and planning applications to a future Planning and Environment Committee public participation meeting.",
+    "confidence": "high",
+    "quote": "That the request for delegation status with respect to the heritage and planning applications relating to the properties located at 183 and 197 Anne Street BE REFERRED to the public participation meeting to be held at a future meeting of the Planning and Environment Committee regarding these matters",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "85642f6bbba9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for the two London City Council member appointments to the London & Middlesex Community Housing Board of Directors; P. Squire and M. van Holst received a majority.",
+    "confidence": "high",
+    "quote": "London City Council Member appointments (2) to the London & Middlesex Community Housing Board of Directors",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "5486490a0a38",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for appointment to the Eldon House Board of Directors; Megan Halliday received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to Eldon House Board of Directors",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "7d3f7f455ab2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a secret ballot in the ranked vote for appointment to the Lower Thames Valley Conservation Authority; JJ Strybosch received a majority.",
+    "confidence": "high",
+    "quote": "Appointment to the Lower Thames Valley Conservation Authority",
+    "flags": [
+      "appointment"
+    ]
+  }
+]

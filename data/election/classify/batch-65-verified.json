@@ -1,0 +1,122 @@
+[
+ {
+  "id": "a9921019460d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Denied a request to transfer an Adult Entertainment Body-rub Parlour business license from 802 Exeter Road to 232 Dundas Street.",
+  "confidence": "high",
+  "quote": "the request to transfer the adult entertainment body-rub parlour license from 802 Exeter Road to 232 Dundas Street BE DENIED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 14-1 Passed result confirmed verbatim against 2022-09-06 Council item 8.5.7. Motion-action voice, no stance verb. 232 Dundas St alone doesn't hit the literal 'downtown'/'dundas place' keywords so issue=none is correct, not a missed classification. 'relocation' flag reserved in corpus for encampment/social-service moves (Ark Aid, Watson Park), not business-licence transfers — flags=[] is consistent with precedent."
+ },
+ {
+  "id": "6ab0dbb37e9b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no further action on a communication from AM. Valastro regarding Item 5 (2.5) of the 12th Report of the Civic Works Committee, on the Harris Park Erosion Control Structure Replacement.",
+  "confidence": "high",
+  "quote": "That no action BE TAKEN with respect to the communication from AM. Valastro, with respect to Item #5 (2.5) of the 12th Report of the Civic Works Committee.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 11-3 Passed result confirmed verbatim against 2022-09-27 Council item 6.2. Pure receive/no-action procedural, no tracked issue. Precedent for this exact quote pattern is split between 'procedural' flag and none elsewhere in the corpus (no sweep enforces it) — leaving flags=[] is not an error."
+ },
+ {
+  "id": "bbc15e477352",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the applications for proclamations of Economic Abuse Awareness Day and National Children's Grief Awareness Day.",
+  "confidence": "high",
+  "quote": "That Items 4.1 and 4.2 BE APPROVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed against 2022-10-03 Corporate Services Cmte item 4: items 4.1/4.2 verified as the two named proclamation applications; this specific 'approve' motion failed 2-3 (a separate 'receive' motion for the same items passed 5-0, correctly not the one classified). Hedge is source-required and correctly applied."
+ },
+ {
+  "id": "2072e005787a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to provide future status update reports on adult entertainment parlour licence applications, and received the staff report and a related communication on the Adult Live Entertainment Parlour at 2010 Dundas Street.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to provide the Community and Protective Services Committee with future status update reports with respect to licence applications for adult entertainment parlour locations",
+  "flags": ["informational_ask"],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 5-1 Passed result confirmed verbatim against 2022-10-04 CPSC item 3.1. Despite the item title 'Deletion of Location', the motion's own operative text only directs future reports and receives the report/communication — no deletion clause appears in the motion body, so issue=none per 'issue from the body only' is correct, not a missed classification."
+ },
+ {
+  "id": "62436ebc321d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing by-laws to amend The London Plan and Zoning By-law No. Z.-1 to redesignate a portion of 4452 Wellington Road South from a Shopping Area Place Type/Commercial designation to a Light Industrial Place Type/Industrial designation, and rezone the property from a Holding Associated Shopping Area Commercial zone to a Holding Light Industrial zone and an Environmental Review zone.",
+  "confidence": "high",
+  "quote": "to change the zoning of the subject property FROM a Holding Associated Shopping Area Commercial (h-17*ASA1/ASA2/ASA6) Zone TO a Holding Light Industrial (h-17*LI6) Zone, and an Environmental Review (ER) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 4-1 Passed result confirmed verbatim against 2022-10-05 PEC item 3.2. This is a PEC recommendation to introduce a by-law at Council, not a Council reading — the first/second/third-reading stage-phrase convention doesn't apply here, so 'Approved introducing by-laws' is correct voice. Commercial-to-industrial rezoning with no housing content: issue=none is correct per convention."
+ },
+ {
+  "id": "83f63d696015",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred consideration of the 4452 Wellington Road South (OZ-9497) rezoning application to a future Planning and Environment Committee public participation meeting, to allow residents of Brockley-Shaver to be notified of the proposed application.",
+  "confidence": "high",
+  "quote": "Motion to refer consideration of the application to a future Planning and Environment Committee public participation meeting, to allow the residents of Brockley-Shaver to be notified of the proposed application.",
+  "flags": ["referral"],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 2-3 Failed result confirmed verbatim, same item 3.2 as 62436ebc321d. Referral, correctly hedged, axis/polarity correctly null."
+ },
+ {
+  "id": "2a81e2ad852d",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have removed the proposed $1.85/hour fee for Electric Vehicle Charging from Schedule 1 of the Fees and Charges By-law.",
+  "confidence": "medium",
+  "quote": "That the proposed fee of $1.85/hour, associated with Electric Vehicle Charging, as included in Schedule 1, BE REMOVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 5-9 Failed result confirmed verbatim against 2022-10-11 SPPC item 3.1. Checked direction-rules.ts climate axes directly: only 'target-strength' (renewable/net-zero/emissions targets) and 'natural-heritage' (tree canopy/wetland) exist — an EV-charging fee-schedule line item fits neither, so axis:null is correct, not an omission."
+ },
+ {
+  "id": "95329837b1ff",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to provide future status update reports on adult entertainment parlour licence applications, and received the staff report and a related communication on the Adult Live Entertainment Parlour at 2010 Dundas Street.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to provide the Community and Protective Services Committee with future status update reports with respect to licence applications for adult entertainment parlour locations",
+  "flags": ["informational_ask"],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 9-6 Passed result confirmed verbatim against 2022-10-17 Council item 8.2.5 — identical motion text re-put at Council stage as 2072e005787a's CPSC stage. Same informational-ask reasoning applies."
+ },
+ {
+  "id": "84314a31e1e7",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Councillor M. van Holst's communication and proposed zoning amendment on a pilot of temporary mobile shelters to the ongoing ReThink Zoning process, to consider use of temporary mobile shelters including on lands zoned for places of worship.",
+  "confidence": "medium",
+  "quote": "That the communications from Councillor M. van Holst, as well as the proposed amendment to the clause BE REFERRED to the ongoing ReThink Zoning process, in order to consider the use of temporary mobile shelters, including on lands zoned for places of worship.",
+  "flags": ["referral"],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 12-3 Passed result confirmed verbatim against 2022-10-17 Council item 8.2.7. issue-rules.ts checked directly: neither 'encampments' (no 'encampment'/'homeless'/'shelter'-family keyword hit) nor 'housing' (no 'rezoning'/'zoning by-law amendment' literal, no OZ-code) matches by exact keyword; 'encampments' is a defensible judgment call on substance (temporary shelter for unhoused people) as the classifier itself flagged, and since it's a referral (axis/polarity null) it carries no vote-direction risk either way."
+ },
+ {
+  "id": "2bdf8f6c8643",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred consideration of the 4452 Wellington Road South (OZ-9497) rezoning application back to the Planning and Environment Committee to facilitate an additional public participation meeting with broader notice circulation.",
+  "confidence": "high",
+  "quote": "That consideration of Item 3 (3.2) BE REFERRED back to the Planning and Environment Committee in order to facilitate an additional public participation meeting; it being noted that a broader circulation of notice for the PPM meeting is required.",
+  "flags": ["referral"],
+  "verdict": "confirmed",
+  "verifierNote": "Quote and 8-7 Passed result confirmed verbatim against 2022-10-17 Council item 8.5.3; the underlying PEC-recommended approval motion in the same item has an empty vote/result (superseded by this referral). Referral, correctly unhedged (it passed), axis/polarity correctly null."
+ }
+]

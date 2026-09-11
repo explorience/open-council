@@ -1,0 +1,38 @@
+[
+ {
+  "meetingSlug": "months/2023-06/2023-06-27 12th Meeting of City Council",
+  "itemNumber": "8.3.11",
+  "quote": "That part b) of the motion approving the appointment of Councillor H. McAlister to the Lower Thames Valley Conservation Authority for the term ending November 14, 2023 BE RECONSIDERED.",
+  "reason": "Committee-appointment reconsideration (Passed 14-0), followed by 'Following the approval of reconsideration, the following motion is put' re-voting ONLY part b) of a larger, bundled multi-seat appointment motion in isolation (Failed 0-13) -- not a byte-identical same-text re-vote pair (the original part b) was never a standalone motion; it was one clause of a compound appointment motion covering several conservation-authority seats). Not axis-bearing: every motion in this item (fd2f0565e536, 562bd6e2f961, 4205cf4f0f41, eb31b7645370, 3e064e3441fd, 813ff0c8c6bd, d5cd14cadfe2) carries issue 'none'/unclassified with axis null -- a committee appointment, not a policy direction. No corrections.json risk either way."
+ },
+ {
+  "meetingSlug": "months/2023-12/2023-12-12 2nd Meeting of the Strategic Priorities and Policy Committee",
+  "itemNumber": "4.1",
+  "quote": "pursuant to section 35.2 of the Council Procedure By-law, the March 7, 2023 Council decision directing Civic Administration to report back monthly to future standing committees on Health and Homelessness Whole of Community System Response progress updates BE RECONSIDERED",
+  "reason": "Reconsiders a March 7, 2023 COUNCIL decision -- a different meeting entirely, not present in this item's own content array, so there is no same-item 'before' motion to pair against. Resolved via a substantive alternate-recommendation amendment fight (reporting cadence 'twice annually' amended to 'quarterly', Passed 14-1) -- a new policy debate, not a re-vote of identical text. Not axis-bearing: all three motions in this episode (33a0b9fa831c, dc6069aec57e, a0dfd6a26db5) carry issue 'encampments' but axis null (downgraded/unclear) in the verified batches."
+ },
+ {
+  "meetingSlug": "months/2023-12/2023-12-19 1st Meeting of City Council",
+  "itemNumber": "8.6.11",
+  "quote": "That pursuant to section 13.3 of the Council Procedure By-law reconsideration of clause 4.1 of the 10th Report of the Strategic Priorities and Policy Committee regarding Health and Homelessness Summit",
+  "reason": "Council-level continuation of the same Health & Homelessness reporting-cadence matter as the 2023-12-12 SPPC episode above -- reconsiders a clause of an already-adopted committee report (cross-item, not a same-item same-text re-vote), resolved by directing a specific new reporting frequency, not re-voting identical text. Not axis-bearing: both motions in this item (b68a8633e8ca, 8a018402c183) carry issue 'encampments' with axis null."
+ },
+ {
+  "meetingSlug": "months/2024-03/2024-03-05 6th Meeting of City Council",
+  "itemNumber": "12",
+  "quote": "That pursuant to section 13.2 of the Council Procedure by-law, the Council decision with respect to item 4 (2.3) of the 4th Report of the Corporate Services Committee with respect to 2024 Tax Policy Expectations BE RECONSIDERED to provide an alternate direction for Civic Administration.",
+  "reason": "Explicitly reconsidered 'to provide an alternate direction' -- resolved via two brand-new substantive motions (a specific property-tax-bill line-item disclosure directive, then a separate information-receipt vote), not a re-vote of the original report-receipt text; also cross-item (reconsiders a different report's clause). Not axis-bearing: all three motions in this item (61538ef08b23, f95968b7214f, 99f62ff1e9ab) carry axis null (issue 'none'/'budget' downgraded)."
+ },
+ {
+  "meetingSlug": "months/2025-04/2025-04-01 6th Council Meeting",
+  "itemNumber": "8.1.14",
+  "quote": "That pursuant to section 13.6 of the Council Procedure by-law, the Strategic Policy and Committee decision with respect to the composition of the London Transit Commission BE RECONSIDERED to provide for",
+  "reason": "Substantive amendment changing London Transit Commission composition from five to seven members, not a same-text re-vote of the original motion -- the reconsideration itself asks for new composition text, and the resulting motion differs materially from what it reconsiders. Not axis-bearing on this specific governance-composition motion: dc80d9dab8f2 (issue 'transit') carries axis null (downgraded/unclear); the other rows in this item carry issue 'none'."
+ },
+ {
+  "meetingSlug": "months/2026-01/2026-01-26 2nd Meeting of the Community and Protective Services Committee",
+  "itemNumber": "4.2",
+  "quote": "That pursuant to section 35.7 of the Council Procedure by-law, the Council decision with respect to the Temporary Warming Centre Framework for Winter 2025/2026 and Winter 2026/2027 having to do with the September 29, 2025 Staff Report – Proposed Temporary Warming Centre Framework BE RECONSIDERED to provide for amendments to the Temporary Warming Centre Framework and Tiered Response Model.",
+  "reason": "Already identified by the round-5 gate brief: explicitly reconsidered 'to provide for amendments' -- the Winter 2025/2026 warming-centre framework is substantively amended (BIA main-street eligibility added, Tier 3 trigger and financing changed) across a multi-motion amendment sequence, not re-voted as identical text. This is the ONE published/axis-bearing episode in this reviewed set: 1604cf591bfc (issue 'encampments', axis 'response-scale') is the final, as-amended adoption -- correctly published on its own merits as a genuine, standalone decision, not as half of a re-vote pair."
+ }
+]

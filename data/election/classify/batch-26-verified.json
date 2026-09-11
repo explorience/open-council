@@ -1,0 +1,612 @@
+[
+  {
+    "id": "83283be2a1ca",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported amending the Automated Enforcement Program report to direct Civic Administration to investigate and implement additional Red Light Camera locations beyond the previously approved contract expansion.",
+    "confidence": "medium",
+    "quote": "that Civic Administration BE DIRECTED to investigate and implement additional Red Light Camera locations as may be feasible.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against full meeting JSON (2023-05-24 Civic Works Cmte, item 4.3): quote is verbatim part g) amendment text, Motion Failed (2 to 2) matches manifest exactly. Automated Enforcement/Red Light Camera is not a tracked issue (no 'policing' keyword hit — cameras aren't police budget/complement/services). issue=none confirmed."
+  },
+  {
+    "id": "2dff8f547da2",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported holding a Public Participation Meeting on the Core Area Land and Building Vacancy Reduction Strategy before multi-year budget deliberations began.",
+    "confidence": "medium",
+    "quote": "the SPPC hold a Public Participation Meeting to consider the matters in this report and other feedback, and that the meeting be scheduled prior to the commencement of the multi-year budget deliberations",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-05-30 SPPC item 2.2, motion 'approve part f)'): quote verbatim, Motion Failed (4 to 8) matches. Scheduling a public meeting is an informational/procedural ask, not a downtown investment decision — polarity=null correct."
+  },
+  {
+    "id": "1ea7cecafce8",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported implementing the Core Area Land and Building Vacancy Reduction Strategy's near-term initiatives within existing budgets and directing future business cases for the strategy through the Multi-Year Budget process.",
+    "confidence": "high",
+    "quote": "the strategic initiatives identified in this Strategy that can be addressed through existing budgets BE IMPLEMENTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-05-30 SPPC item 2.2, motion 'approve the remainder of the clause', rollCallOrdinal 3): quote verbatim part c), Motion Passed (10 to 2) matches manifest exactly. Genuine implementation approval within existing budget — application-approval/expansive confirmed."
+  },
+  {
+    "id": "714b9ae9db70",
+    "issue": "budget",
+    "axis": "business-case",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to prepare a business case for the Coves Silver Creek Restoration Project for consideration during Multi-Year Budget deliberations.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to prepare business cases for the following for consideration during the Multi-Year Budget deliberations: a) New Funding, Existing Strategies related to: i) Coves Silver Creek Restoration Project;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-05-30 SPPC item 4.3, motion 'approve part a) i)', rollCall 3): quote verbatim, Passed (11 to 1) matches. Contrasted against sibling parts a)ii)/a)iii)/c)ii) in the same item which all Failed (i.e. were NOT directed to get a business case) — confirms 'included a business case' is the correct valence for this specific, passed sub-motion. business-case/expansive confirmed."
+  },
+  {
+    "id": "bea3acfae330",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Introduction and First Reading of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-06 Council item 13, rollCall 3): quote verbatim, Passed (12 to 1) matches. Checked j.bills: Bill 170 = East London Link (BRT) land expropriation application; Bill 171 = Wellington Gateway Project land expropriation application (a separate, non-transit corridor project per 2023-03-20 PEC transcript, built concurrently with but distinct from rapid transit). Both bills voted as one bundled motion — generic application-approval axis (rather than forcing transit-service) is the correct, non-overreaching call given the bundle. expansive confirmed (BE APPROVED, no denial)."
+  },
+  {
+    "id": "c7b0c16a7a8b",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Second Reading of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same bundle as bea3acfae330 (Second Reading, rollCall 4, Passed 12-1, quote verbatim). Confirmed on the same basis."
+  },
+  {
+    "id": "b54ccad9eaae",
+    "issue": "transit",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of by-laws authorizing land expropriation applications for the Rapid Transit East London Link Project and the Wellington Gateway Project.",
+    "confidence": "medium",
+    "quote": "That Third Reading and Enactment of Bill No.'s 170 and 171 BE APPROVED.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same bundle as bea3acfae330 (Third Reading and Enactment, rollCall 5, Passed 12-1, quote verbatim). Confirmed on the same basis."
+  },
+  {
+    "id": "2f4069f4769d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported opening the public participation meeting on the Blackfriars Bridge long-term use study.",
+    "confidence": "high",
+    "quote": "Motion to open the public participation meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-13 Civic Works Cmte item 3.1, rollCall 1): quote verbatim ('Motion to open the public participation meeting.'), Passed (4 to 1) matches. Pure procedural motion — issue=none confirmed."
+  },
+  {
+    "id": "bf77fa903694",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported continuing the current Blackfriars Bridge configuration (Option 1) and submitting that recommendation to the Ontario Ministry of Environment, Conservation and Parks.",
+    "confidence": "medium",
+    "quote": "the Option 1 – to continue with the current bridge configuration – as outlined in the staff report dated June 13, 2023 BE APPROVED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified via rollCallOrdinal disambiguation (data/votes/_all-motions.json): two roll calls in this item share the 4-1 tally — rollCall 1 is 2f4069f4769d (open public meeting), rollCall 3 ('Motion to approve parts a) and b) of the motion') is this id. Confirmed the classifier attached the correct substantive text (Option 1 bridge-configuration approval) to the correct roll call. No axis in direction-rules.ts captures 'maintain vs. change bridge configuration' cleanly, and the classifier's own quote gives no evidence either way on transit-service/road-capacity — polarity=null is the safe, correct call; I found no basis to force a direction. Confirmed."
+  },
+  {
+    "id": "9b8b600d2a9d",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the June Progress Update on the Health and Homelessness Whole of Community System Response for information.",
+    "confidence": "high",
+    "quote": "the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-20 SPPC item 2.1, rollCall not applicable, quote verbatim): Passed (12 to 1) matches. 'BE RECEIVED for information' is a pure informational ask (isInformationalAskOnly) — polarity=null confirmed."
+  },
+  {
+    "id": "3aac3896e9ae",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the Core Area Action Plan 2022 Review staff report and its appendices.",
+    "confidence": "high",
+    "quote": "the staff report dated June 20, 2023 entitled “Core Area Action Plan 2022 Review”, including its appendices, BE RECEIVED",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified via _all-motions.json (full, non-truncated motionText + rollCallOrdinal 1): this id is specifically 'Motion to approve part a) ... BE RECEIVED' (11 to 1) — NOT the sibling part b) $100k Holly Jolly funding motion, which shares the identical 11-1 tally at rollCall 2 but is a different id (see 057b13bfa3ad at the Council confirmation stage). Confirmed correctly as a receive-for-information motion — issue=downtown, polarity=null correct, no missed classification."
+  },
+  {
+    "id": "5eea3bb28c26",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in the first-round secret ballot to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Police Services Board",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "8b866a77cb41",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in a run-off secret ballot to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of Selection to the London Police Services Board - run off (round 2)",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "5acf5aa1fd07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "indicated a preferred candidate in the final run-off ballot that selected Ryan Gauss to fill a vacant seat on the London Police Services Board.",
+    "confidence": "high",
+    "quote": "Consideration of Selection to the London Police Services Board - run off (round 2)",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "500affe35a0d",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the June Progress Update on the Health and Homelessness Whole of Community System Response for information.",
+    "confidence": "high",
+    "quote": "the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-27 Council item 8.3.12, quote verbatim): Passed (13 to 1) matches. Same 'BE RECEIVED for information' text as 9b8b600d2a9d at the committee stage — informational ask, polarity=null confirmed."
+  },
+  {
+    "id": "057b13bfa3ad",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported approving one-time funding of $100,000 for the Holly Jolly Market/Downtown for the Holidays events and $50,000 for 2023 Core Area seasonal events and activations from the Operating Budget Contingency Reserve.",
+    "confidence": "high",
+    "quote": "one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-27 Council item 8.3.13, quote verbatim part b) of the clause): Passed (12 to 1) matches manifest exactly, full motion text (parts a/b/c) confirmed non-truncated in _all-motions.json. Genuine funding approval — application-approval/expansive confirmed."
+  },
+  {
+    "id": "07c94a9e0926",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported receiving the heritage designation staff report on 599-601 Richmond Street for information, notwithstanding the Director's recommendation, rather than proceeding with designation.",
+    "confidence": "high",
+    "quote": "the staff report dated June 19, 2023 entitled \"Designation of the Property at 599-601 Richmond street pursuant to Part IV, Ontario Heritage Act, Ward 13\" BE RECEIVED for information.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-06-27 Council item 8.5.6, quote verbatim): Passed (8 to 5) matches. Heritage designation is not one of the eight tracked issues — issue=none confirmed."
+  },
+  {
+    "id": "8785b8bbd0b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported permitting a councillor to speak a second time on the heritage designation matter, notwithstanding the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "notwithstanding the Council Procedure By-law, Councillor A. Hopkins BE PERMITTED to speak twice with respect to this matter.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (rollCall 1, same item as above): quote verbatim, Passed (8 to 5) matches. Pure procedural speaking-rule motion — issue=none confirmed."
+  },
+  {
+    "id": "903db8a9f294",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: the motion's own text is a templated 'BE APPROVED' with no subject (wrapper_preamble flag correct). Checked j.bills for 2023-06-27: Bill No. 207 = 'By-law No. A.-8379-145 - A by-law to authorize and approve an Agreement of Purchase and Sale between...1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street...for the East London Link Project' — verbatim match to the classified quote. Cross-checked the underlying closed-session report (1080 Dundas St, $75,650 + $60,000 + $5,000 easement, Passed 11-1) confirming the same subject matter and an aligned yea/nay lineup. transit-service/expansive confirmed — this is squarely BRT land acquisition."
+  },
+  {
+    "id": "31cc7ec7eb1d",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 207 as 903db8a9f294 (Second Reading, Passed 11-1, quote verbatim from j.bills). Confirmed on the same basis."
+  },
+  {
+    "id": "1ee80ec54cf8",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of the by-law authorizing an Agreement of Purchase and Sale for the partial acquisition of a Dundas Street property needed for the East London Link (Bus Rapid Transit) Project.",
+    "confidence": "medium",
+    "quote": "A by-law to authorize and approve an Agreement of Purchase and Sale between The Corporation of the City of London and 1803299 Ontario Inc., for the partial acquisition of the property located at 1080 Dundas Street, in the City of London, for the East London Link Project",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same Bill 207 as 903db8a9f294 (Third Reading and Enactment, Passed 11-1, quote verbatim from j.bills). Confirmed on the same basis."
+  },
+  {
+    "id": "a741d619a286",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported approving the Residential R1 (R1-13(7)) zoning special provision as part of rezoning land at 146 Exeter Road from Urban Reserve/Light Industrial to a residential subdivision.",
+    "confidence": "medium",
+    "quote": "TO a Holding Residential R1 Special Provision R1 (h*h-100*R1-13(7))",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-17 PEC item 3.5, rollCall 5): the item has a reconsideration sequence — an initial 5-0 vote, a reconsideration-approval motion, then a re-vote at 4-1 (this id) isolating specifically the 'Residential R1 Special Provision R1 (R1-13(7))' sub-clause of part a) before the remainder of parts b)/c) was approved separately. Quote is a verbatim substring of part a)'s FROM/TO zoning text. application-approval/expansive confirmed."
+  },
+  {
+    "id": "ad8a2825ba8c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote among candidates for appointment to the Community Advisory Committee on Planning.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the Community Advisory Committee on Planning.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "f6bb6126b29b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Second selection round - Community Advisory Committee on Planning",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "c3f1d892cca2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Second selection round - Community Advisory Committee on Planning",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "7490fc469b71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that appointed members to the Diversity, Inclusion and Anti-Oppression Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "39be0f486ab8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that appointed members to the Environmental Stewardship and Action Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "f6cf3b2c1950",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee (Integrated Transportation).",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "0f57a9c1dcf4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a run-off selection-ballot vote among candidates for appointment to a London Community Advisory Committee (Integrated Transportation).",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "6ce2d2e19b9b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported convening the Civic Works Committee in closed session for solicitor-client-privileged advice related to the Yard and Lot Maintenance By-law.",
+    "confidence": "high",
+    "quote": "Motion to approve that the Civic Works Committee convene, In Closed Session, for the purpose of considering a matter related to advice that is subject to solicitor-client privilege, as it related to the Yard and Lot Maintenance By-law.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-18 Civic Works Cmte item 4.1, quote verbatim): Motion Failed (3 to 3) matches. Pure closed-session procedural motion (solicitor-client privilege) — issue=none confirmed."
+  },
+  {
+    "id": "eaa34dea7cd4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected Bryan McClure for appointment to the Eldon House Board of Directors.",
+    "confidence": "high",
+    "quote": "Consideration of Appointment to the Eldon House Board of Directors.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "26dc0eb131a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected Tim Watson and Cedric Gomes for appointment to the London Hydro Board of Directors.",
+    "confidence": "high",
+    "quote": "Consideration of appointment to the London Hydro Board of Directors.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "e5d6a3c86d53",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported approving two delegations to be heard on the Health and Homelessness Whole of Community System Response Hubs Implementation Plan.",
+    "confidence": "high",
+    "quote": "That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-24 Special SPPC item 4.1, rollCall 1, quote verbatim): Passed (14 to 1) matches. Approving which delegations may speak is purely procedural, no issue keyword present in the text — issue=none confirmed."
+  },
+  {
+    "id": "cb38db322931",
+    "issue": "encampments",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported referring the Whole of Community System Response Hubs Implementation Plan to a future special meeting that would include a public participation meeting, rather than deciding it that day.",
+    "confidence": "high",
+    "quote": "That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-24 Special SPPC item 4.1, rollCall 4, quote verbatim): Motion Failed (4 to 11) matches. Per direction-rules.ts, a clause whose only verb is BE REFERRED is marked unclear regardless of pass/fail outcome (deferOnly guard does not condition on result) — polarity=null confirmed, not a missed classification."
+  },
+  {
+    "id": "3fc89c1dc5b9",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to secure financing for the first five Whole of Community System Response Hubs and to defer Community Improvement Plan loan repayments for participants who request it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homelessness Fund for Change",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Full (non-truncated) text obtained from meeting JSON (2023-07-24 Special SPPC item 4.1, motion 'approve the balance of the motion, including amended part g)', rollCall 9): Passed (14 to 1) matches manifest. Quote (part c, financing) verbatim; whatAYeaDid's second clause (deferring CIP loan repayments, part e) is also genuinely bundled into this SAME roll call, unlike the Richmond St. case below — confirmed accurate. response-scale/expansive confirmed."
+  },
+  {
+    "id": "ebe3c019a35d",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported accepting a $125,000 RFP contract with Sagecomm and authorizing related administrative actions for the Whole of Community System Response project.",
+    "confidence": "medium",
+    "quote": "the Request for Proposal (RFP-2023-174) submitted by 2190876 Ontario Inc. - Sagecomm www.sagecomm.com 117 York St, London ON N6A 1A8, at the cost of $125,000, plus H.S.T. BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-24 Special SPPC item 4.2, quote verbatim): Passed (12 to 1) matches. Genuine RFP contract acceptance — application-approval/expansive confirmed."
+  },
+  {
+    "id": "b03f8efffed3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported adjourning Council sitting as the Approving Authority for the East London Link expropriation and reconvening Municipal Council in regular session.",
+    "confidence": "high",
+    "quote": "That the meeting of the Approving Authority be adjourned and that the Municipal Council reconvene in regular session.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-25 Council item 6.1, rollCall 2, quote verbatim): Passed (14 to 1) matches. Confirmed via rollCallOrdinal that this is the adjourn-Approving-Authority/reconvene-Council procedural motion, not the substantive expropriation vote — issue=none confirmed, matches classifier's own disambiguation note."
+  },
+  {
+    "id": "b42d3da58b04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected members for appointment to the Community Advisory Committee on Planning.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "c25ff33ef839",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "cast a ranked selection-ballot vote that selected members for appointment to the Integrated Transportation Community Advisory Committee.",
+    "confidence": "high",
+    "quote": "Consideration of Appointments to the London Community Advisory Committees",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed via data/votes/_all-motions.json + full meeting JSON: this is a secret-ballot/selection-round personnel vote (motionText/result confirm 'Consideration/Appointment/Selection to' a board or committee). GLOBAL_EXCLUDE / GLOBAL_EXCLUDE_PATTERNS correctly zero this out — a personnel ballot is not a policy position. issue=none, polarity=null confirmed."
+  },
+  {
+    "id": "91bfab0188be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "supported introducing by-laws amending 49 separate Council administrative and governance policies as part of the 2023 Council Policy Manual Review.",
+    "confidence": "high",
+    "quote": "the attached proposed by-laws (Appendices C1 to C49) BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to make the specified amendments to the following Council Policies",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Obtained full (non-truncated) text from meeting JSON (2023-07-25 Council item 8.3.14): this is a governance-manual housekeeping vote introducing/amending/repealing by-laws for a list of internal administrative and HR/finance-admin-named policies (e.g. 'Multi-Year Budget Policy', 'Capital Budget and Financing Policy', 'Investment Policy' appear only as line-item NAMES in a housekeeping list — no dollar figures, levy, or funding decision is made). Same spirit as GLOBAL_EXCLUDE ('how council governs itself, not a substantive position') — issue=none confirmed, no missed classification despite bare keyword co-occurrence."
+  },
+  {
+    "id": "987455c16b8f",
+    "issue": "encampments",
+    "axis": "response-scale",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported directing Civic Administration to secure financing for the first five Whole of Community System Response Hubs and to defer Community Improvement Plan loan repayments for participants who request it.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homelessness Fund for Change",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Full (non-truncated) text obtained from meeting JSON (2023-07-25 Council item 9.2.2, motion 'approve parts c) through h)', quote verbatim part c): Passed (12 to 1) matches manifest exactly (disambiguated from the sibling part a)/b) sub-motions at 10-4 via rollCallOrdinal 3 in _all-motions.json). response-scale/expansive confirmed."
+  },
+  {
+    "id": "766b1f44d40c",
+    "issue": "encampments",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported accepting a $125,000 RFP contract with Sagecomm and authorizing related administrative actions for the Whole of Community System Response project.",
+    "confidence": "medium",
+    "quote": "the Request for Proposal (RFP-2023-174) submitted by 2190876 Ontario Inc. - Sagecomm www.sagecomm.com 117 York St, London ON N6A 1A8, at the cost of $125,000, plus H.S.T. BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2023-07-25 Council item 9.2.3, quote verbatim): Passed (11 to 1) matches. Genuine RFP contract acceptance — application-approval/expansive confirmed."
+  },
+  {
+    "id": "522fd6b0b246",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported introducing the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Refuted the whatAYeaDid's second clause. Checked j.bills for 2023-07-25: Bill No. 251 = 'By-law No. Z.-1-233130 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 599-601 Richmond Street' — the by-law text (and this First Reading's own 9-3 roll call) covers ONLY the rezoning (part a of item 8.2.16). The 'directed staff to work with the applicant toward affordable housing units' clause is part b) of item 8.2.16's motion, decided by a SEPARATE roll call ('the motion, as amended, BE APPROVED', Passed 12 to 3) with a different vote count (12 vs 9 — 3 additional yeas present for that vote who were absent by the time of the by-law reading), even though the same 3 nays (Hopkins, Trosow, Ferreira) appear in both. Attributing part b)'s substance to this specific First Reading overstates what this particular roll call decided (title/operative-clause mismatch pattern). Corrected whatAYeaDid to describe only the rezoning that Bill 251 itself enacts. issue=housing, axis=application-approval, polarity=expansive unchanged (BE APPROVED, no denial) — verbatim quote confirmed accurate as-is."
+  },
+  {
+    "id": "fe35f8c16d61",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the second reading of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Refuted the whatAYeaDid's second clause. Checked j.bills for 2023-07-25: Bill No. 251 = 'By-law No. Z.-1-233130 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 599-601 Richmond Street' — the by-law text (and this Second Reading's own 9-3 roll call) covers ONLY the rezoning (part a of item 8.2.16). The 'directed staff to work with the applicant toward affordable housing units' clause is part b) of item 8.2.16's motion, decided by a SEPARATE roll call ('the motion, as amended, BE APPROVED', Passed 12 to 3) with a different vote count (12 vs 9 — 3 additional yeas present for that vote who were absent by the time of the by-law reading), even though the same 3 nays (Hopkins, Trosow, Ferreira) appear in both. Attributing part b)'s substance to this specific Second Reading overstates what this particular roll call decided (title/operative-clause mismatch pattern). Corrected whatAYeaDid to describe only the rezoning that Bill 251 itself enacts. issue=housing, axis=application-approval, polarity=expansive unchanged (BE APPROVED, no denial) — verbatim quote confirmed accurate as-is."
+  },
+  {
+    "id": "ce54fd004fcc",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "supported the third reading and enactment of the by-law to rezone 599-601 Richmond Street from a Business District Commercial Special Provision Bonus Zone to a Business District Commercial Special Provision Zone for redevelopment.",
+    "confidence": "medium",
+    "quote": "the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 25, 2023, to amend Zoning By-law No. Z.-1, ... to change the zoning of the subject lands FROM a Business District Commercial Special Provision Bonus Zone (BDC(1)*B-87) Zone TO a Business District Commercial Special Provision (BDC(_)) Zone",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Refuted the whatAYeaDid's second clause. Checked j.bills for 2023-07-25: Bill No. 251 = 'By-law No. Z.-1-233130 – A by-law to amend By-law No. Z.-1 to rezone an area of land located at 599-601 Richmond Street' — the by-law text (and this Third Reading and Enactment's own 9-3 roll call) covers ONLY the rezoning (part a of item 8.2.16). The 'directed staff to work with the applicant toward affordable housing units' clause is part b) of item 8.2.16's motion, decided by a SEPARATE roll call ('the motion, as amended, BE APPROVED', Passed 12 to 3) with a different vote count (12 vs 9 — 3 additional yeas present for that vote who were absent by the time of the by-law reading), even though the same 3 nays (Hopkins, Trosow, Ferreira) appear in both. Attributing part b)'s substance to this specific Third Reading and Enactment overstates what this particular roll call decided (title/operative-clause mismatch pattern). Corrected whatAYeaDid to describe only the rezoning that Bill 251 itself enacts. issue=housing, axis=application-approval, polarity=expansive unchanged (BE APPROVED, no denial) — verbatim quote confirmed accurate as-is."
+  }
+]
