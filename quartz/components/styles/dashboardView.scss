@@ -105,7 +105,7 @@
   // Recent Meetings, Councillors) — a 2-column grid auto-places the
   // third (Councillors) alone into row 2, column 1, leaving the row-2
   // column-2 cell empty. Recent Meetings is height-capped
-  // (.meetings-list, max-height:300px) so it doesn't run tall enough to
+  // (.meetings-list, a 300px scroller) so it doesn't run tall enough to
   // visually excuse that gap; the empty cell reads as a void beside the
   // Councillors card, not a deliberate layout. At desktop widths (1200px+,
   // where there's room for three columns without the panel content
@@ -121,7 +121,23 @@
   }
 }
 
+// Design-gate finding (1240px): the three panels' *boxes* were already
+// equal height — grid items stretch — but only Committees' content ran
+// the full depth. Recent Meetings stopped ~111px short of its own border
+// and Councillors ~78px short, because each panel was a block box with
+// its content pinned to the top and the stretch showing up as dead paper
+// underneath. Recent Meetings was the worst of the three precisely
+// because .meetings-list was frozen at max-height:300px while holding
+// 3,609px of meetings: the panel had slack it refused to use.
+//
+// Column layout instead: the list is the flexible element, the "View
+// all ..." rule is a footer that sits on the panel's base. Recent
+// Meetings' scroller now grows into the slack (more meetings visible,
+// void gone rather than relocated), and all three columns end on a
+// common baseline the way broadsheet columns do.
 .dashboard-panel {
+  display: flex;
+  flex-direction: column;
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -148,6 +164,13 @@
   list-style: none;
   margin: 0;
   padding: 0;
+  // Takes the panel's spare height so the "View all ..." footer rule
+  // lands on the base instead of floating above dead space.
+  // `min-height: 0` because a flex item's default `min-height: auto`
+  // would let .meetings-list's 3,609px of content blow the panel open
+  // rather than scroll inside it.
+  flex: 1 1 auto;
+  min-height: 0;
 
   li {
     margin: 0;
@@ -186,7 +209,20 @@
 
 // Meetings specific
 .meetings-list {
-  max-height: 300px;
+  // `height`, deliberately, not the `max-height: 300px` this used to be.
+  // The two behave identically on their own, but they differ inside the
+  // flex column above in exactly the way this panel needs:
+  //   * for intrinsic sizing, a flex item's contribution is its flex base
+  //     size — 300px here — so the grid row is still sized by the
+  //     Committees panel and never by this list's 3,609px of meetings;
+  //   * `height` is a starting size that `flex-grow` may exceed, whereas
+  //     `max-height` is a ceiling that it may not. So when the row
+  //     stretches this panel, the scroller grows into the slack and
+  //     shows more meetings instead of leaving ~111px of dead paper
+  //     under the footer rule.
+  // Unstretched (single-column layouts, ≤768px) the base size stands and
+  // the list is the same 300px scroller it always was.
+  height: 300px;
   overflow-y: auto;
 }
 
