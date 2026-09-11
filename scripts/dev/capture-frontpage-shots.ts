@@ -17,7 +17,7 @@
 // runs in its own fresh tab, and a crashed browser is detected and
 // relaunched automatically with the failing shot retried once.
 //
-// Usage: npx tsx scripts/dev/capture-frontpage-shots.ts
+// Usage: npx tsx scripts/dev/capture-frontpage-shots.ts [nameFilter ...]
 // Output: PNGs written to OUT_DIR (see below).
 
 import { spawn, ChildProcess } from "node:child_process"
@@ -589,7 +589,22 @@ async function main() {
   const done: string[] = []
   const failed: string[] = []
 
-  for (const shot of shots) {
+  // Optional argv filters: each arg is matched as a substring against the
+  // shot name, so a targeted fix can re-prove only the shots it actually
+  // changed (e.g. `... capture-frontpage-shots.ts home-` after a stats-column
+  // fix) instead of paying for a full sweep of tall full-page captures.
+  const selectors = process.argv.slice(2).filter((a) => !a.startsWith("-"))
+  const selected =
+    selectors.length > 0 ? shots.filter((s) => selectors.some((f) => s.name.includes(f))) : shots
+  if (selectors.length > 0) {
+    console.log(`[capture] filter ${JSON.stringify(selectors)} -> ${selected.length} shot(s)`)
+    if (selected.length === 0) {
+      console.error(`[capture] no shot matched. Known shots: ${shots.map((s) => s.name).join(", ")}`)
+      process.exit(2)
+    }
+  }
+
+  for (const shot of selected) {
     let attempt = 0
     let ok = false
     while (attempt < 2 && !ok) {
@@ -614,7 +629,7 @@ async function main() {
   }
 
   await killChrome()
-  console.log(`[capture] done. ${done.length}/${shots.length} shots written to ${OUT_DIR}`)
+  console.log(`[capture] done. ${done.length}/${selected.length} shots written to ${OUT_DIR}`)
   for (const f of done) console.log(" -", f)
   if (failed.length) {
     console.error(`[capture] ${failed.length} shot(s) FAILED after retry: ${failed.join(", ")}`)

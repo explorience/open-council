@@ -31,7 +31,7 @@ export const committees: Committee[] = [
   { name: "Planning and Environment", slug: "planning-environment", count: 298 },
   { name: "Strategic Priorities and Policy", slug: "strategic-priorities", count: 282 },
   { name: "Corporate Services", slug: "corporate-services", count: 263 },
-  { name: "Community and Protective Services", slug: "community-protective-services", count: 208 },
+  { name: "Community and Protective Services", slug: "community-protective-services", count: 209 },
   { name: "Civic Works", slug: "civic-works", count: 203 },
   { name: "City Council", slug: "city-council", count: 185 },
   { name: "Audit Committee", slug: "audit", count: 70 },
