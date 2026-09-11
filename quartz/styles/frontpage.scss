@@ -160,6 +160,11 @@
   }
 }
 
+.header-mark {
+  flex-shrink: 0;
+  display: block;
+}
+
 .header-logo {
   position: relative;
   font-family: "Archivo Variable", Archivo, system-ui, sans-serif;
