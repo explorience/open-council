@@ -159,12 +159,49 @@ function wireTooltip(section: HTMLElement) {
     tip.appendChild(resultEl)
     tip.hidden = false
 
+    const M = 8
+    const vw = window.innerWidth
+    const vh = window.innerHeight
     const cellRect = cell.getBoundingClientRect()
     const tipRect = tip.getBoundingClientRect()
+
+    // The tip is position:fixed at z-index 1500, i.e. above both the
+    // fixed masthead (z-index 1000) and the wall's legend. Preferring
+    // "above the cell" and only bailing out at the raw viewport edge
+    // meant that on a phone — where the legend sits directly above the
+    // first rows and the cells are 24px tall — inspecting anything in
+    // the top rows drew the tip straight over the legend, i.e. over the
+    // one thing that explains the colours being inspected. Establish a
+    // floor that clears every fixed/preceding chrome that is currently
+    // on screen, and flip the tip below the cell rather than cross it.
+    let minTop = M
+    const clearances = [
+      document.querySelector(".unified-header"),
+      section.querySelector(".wall-legend"),
+    ]
+    for (const el of clearances) {
+      if (!el) continue
+      const r = el.getBoundingClientRect()
+      // only a box actually occupying screen space can be covered
+      if (r.height > 0 && r.bottom > 0 && r.top < vh) minTop = Math.max(minTop, r.bottom + M)
+    }
+
     let left = cellRect.left + cellRect.width / 2 - tipRect.width / 2
-    left = Math.max(8, Math.min(left, window.innerWidth - tipRect.width - 8))
-    let top = cellRect.top - tipRect.height - 8
-    if (top < 8) top = cellRect.bottom + 8
+    left = Math.max(M, Math.min(left, vw - tipRect.width - M))
+
+    const above = cellRect.top - tipRect.height - M
+    const below = cellRect.bottom + M
+    let top: number
+    if (above >= minTop) {
+      top = above
+    } else if (below + tipRect.height <= vh - M) {
+      top = below
+    } else {
+      // Neither side fits cleanly (a cell taller than the leftover
+      // viewport, or a very short viewport): sit at the floor, which
+      // still clears the masthead and the legend.
+      top = Math.max(minTop, Math.min(above, vh - tipRect.height - M))
+    }
     tip.style.left = `${left}px`
     tip.style.top = `${top}px`
   }
