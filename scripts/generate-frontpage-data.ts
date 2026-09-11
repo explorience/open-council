@@ -4,9 +4,12 @@
  * Reads data/votes/_all-motions.json (every motion the site has scraped)
  * and data/election/issues.json (the Election Hub's per-issue vote
  * clusters), and writes data/frontpage/division-wall.json: one compact
- * record per "divided" vote (not procedural, not unanimous) since the
- * site's established election-coverage cutoff, sorted chronologically
- * ascending.
+ * record per "divided" vote (not procedural, not unanimous, and — per the
+ * round-3 fixer, matching generate-stances.ts's own guards and
+ * methodology.ts's published definition of "divided" — not a one-sided
+ * tally, not a roster-conflict motion, not a secret-ballot appointment
+ * ballot) since the site's established election-coverage cutoff, sorted
+ * chronologically ascending.
  *
  * Cutoff: 2023-01-01, the same CUTOFF_DATE constant generate-stances.ts
  * uses (and issues.json's own `cutoffDate` field) — not the full 2011+
@@ -15,9 +18,11 @@
  * constant: (1) it's the boundary the rest of the election-coverage
  * surface (Election Hub, issue pages, councillor stance pages) already
  * uses, so "divided vote" means the same thing everywhere on the site;
- * (2) it yields 1,803 records, which lands inside the wall's stated
- * 600–2,000 cell performance envelope — the full-history count (5,170
- * divided votes back to 2011) does not.
+ * (2) it lands well inside the wall's stated 600–2,000 cell performance
+ * envelope — the full-history count (5,170+ divided votes back to 2011)
+ * does not. (Record count is computed at build time and logged below —
+ * not hand-typed here, since a comment claiming a specific figure is
+ * exactly the kind of second source of truth that drifts.)
  *
  * Output shape: { cutoffDate, recordCount, records }, where
  * each record is a 7-tuple (matches the approved prototype's compact
@@ -106,6 +111,73 @@ interface Motion {
   unanimous?: boolean;
   yeas: string[];
   nays: string[];
+  absent: string[];
+  recuse: string[];
+  abstain: string[];
+  other: string[];
+}
+
+/**
+ * Round-3 fixer (integrity, BLOCKING): the divided-vote filter below used to
+ * be only `!procedural && !unanimous && date>=cutoff` — three guards short of
+ * generate-stances.ts's own definition of a genuine division (see that
+ * file's isOneSidedTally/hasRosterConflict/isAppointmentBallot and
+ * methodology.ts's dividedVoteDefinition, which explicitly excludes "a vote
+ * decided by secret ballot to fill an appointment"). Concretely this let 70
+ * of 1,803 wall cells (3.9%) through: 26 secret-ballot committee-appointment
+ * "Majority Winner" picks (0 recorded yeas/nays), 31 roster-conflict
+ * motions, and 13 one-sided tallies — none of them a genuine division.
+ * Ported here verbatim (same logic, same field shapes) rather than imported,
+ * since generate-stances.ts's RawMotion/guard functions aren't exported for
+ * reuse and this generator has its own narrower Motion type.
+ */
+
+/** Same as generate-stances.ts's isOneSidedTally: a genuine division needs
+ * votes recorded on BOTH sides. */
+function isOneSidedTally(m: Motion): boolean {
+  return m.yeas.length === 0 || m.nays.length === 0;
+}
+
+/** Same as generate-stances.ts's hasRosterConflict: the same person named in
+ * more than one vote-kind bucket is a data-entry conflict, not a real
+ * position — drop the motion rather than let a bucket silently win. */
+function hasRosterConflict(m: Motion): boolean {
+  const seen = new Set<string>();
+  for (const bucket of [m.yeas, m.nays, m.recuse, m.absent, m.abstain, m.other]) {
+    for (const name of bucket) {
+      if (seen.has(name)) return true;
+      seen.add(name);
+    }
+  }
+  return false;
+}
+
+/** Same as generate-stances.ts's isAppointmentBallot: a secret-ballot
+ * "Majority Winner: ..." appointment round, not a divided policy decision —
+ * per methodology.ts's published definition of "divided". */
+function isAppointmentBallot(m: Motion): boolean {
+  return /^Majority Winner\b/i.test(m.result);
+}
+
+/** Same as generate-stances.ts's extractResultTally: parse the "(N to M)"
+ * tally out of a motion's own result string. */
+function extractResultTally(resultText: string): { yea: number; nay: number } | null {
+  const m = resultText.match(/\((\d+)\s*(?:to|[-–—])\s*(\d+)\)/i);
+  return m ? { yea: Number(m[1]), nay: Number(m[2]) } : null;
+}
+
+/** Same as generate-stances.ts's isSupermajorityFailure: the motion's own
+ * minuted tally and its parsed yeas/nays arrays fully agree, but it Failed
+ * despite a yea majority — the shape of a genuine supermajority requirement,
+ * not a data error. Without this carve-out the wall's blind `yea>nay`
+ * derivation shows "Passed" on the tooltip for a motion whose official
+ * result is "Motion Failed" — a real, confirmed factual error on 3 records
+ * (15e2e6266aa2, 7384547749fb, 797a57bae40a). */
+function isSupermajorityFailure(m: Motion): boolean {
+  const tally = extractResultTally(m.result);
+  if (!tally) return false;
+  if (tally.yea !== m.yeas.length || tally.nay !== m.nays.length) return false;
+  return /^Motion\s+Failed/i.test(m.result) && m.yeas.length > m.nays.length;
 }
 
 interface MotionsFile {
@@ -172,13 +244,25 @@ async function main() {
   }
 
   const divided = motionsFile.motions.filter(
-    (m) => !m.procedural && !m.unanimous && m.date >= CUTOFF_DATE,
+    (m) =>
+      !m.procedural &&
+      !m.unanimous &&
+      m.date >= CUTOFF_DATE &&
+      !isOneSidedTally(m) &&
+      !hasRosterConflict(m) &&
+      !isAppointmentBallot(m),
   );
 
   const withSortKey = divided.map((m) => {
     const yea = m.yeas.length;
     const nay = m.nays.length;
-    const passed: 0 | 1 = yea > nay ? 1 : 0;
+    // `passed` is yea>nay by default (per spec: recomputed, never trusted
+    // from source) EXCEPT for a confirmed supermajority failure, where the
+    // motion's own minuted result and vote arrays fully agree that it
+    // Failed despite a yea majority — a governance-rule outcome, not a data
+    // disagreement, so recomputing blind here would publish a factual error
+    // (see isSupermajorityFailure doc above).
+    const passed: 0 | 1 = isSupermajorityFailure(m) ? 0 : yea > nay ? 1 : 0;
     const anchor = motionAnchor(m.meetingSlug, m.itemNumber, m.result);
     const rawUrl = anchor?.url ?? `/${m.meetingSlug}`;
     const url = slugifyEvidenceUrl(rawUrl);
