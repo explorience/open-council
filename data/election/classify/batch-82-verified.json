@@ -1,0 +1,622 @@
+[
+  {
+    "id": "dc3d4397ae16",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time allocation of $135,270 from the Community Investment Reserve Fund to cover the Canada 150 Celebrations funding shortfall for eight local projects, including Fanshawe Pioneer Village – Dominion Day, the London Regional Children’s Museum, the London Heritage Council, Canada 150 London, Eldon House, East London, Museum London, and London Celebrates Canada – Harris Park.",
+    "confidence": "high",
+    "quote": "a) an amount equal to the funding shortfall in the amount of $135,270 for the following projects: i) Fanshawe Pioneer Village – Dominion Day ($3,150); ii) London Regional Children’s Museum ($1,700); iii) London Heritage Council ($20,700); iv) Canada 150 London ($48,045); v) Eldon House ($9,350); vi) East London ($3,000); vii) Museum London ($4,000); and viii) London Celebrates Canada – Harris Park ($45,325)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "7acf5cbf96a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time allocation of $25,000 from the Community Investment Reserve Fund to cover the Canada 150 Celebrations funding shortfall for the Hyde Park Business Improvement Area.",
+    "confidence": "high",
+    "quote": "b) an amount equal to the funding shortfall in the amount of $25,000 for the Hyde Park Business Improvement Area",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "db97d50d816e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved a one-time allocation of $13,000 from the Community Investment Reserve Fund to cover the Canada 150 Celebrations funding shortfall for the Tourism London – Ivey Park Festival.",
+    "confidence": "high",
+    "quote": "Motion to Approve a one-time allocation equal to the funding shortfall in the amount of $13,000 for the Tourism London – Ivey Park Festival",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "23ce7636bc82",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time allocation of $10,000 from the Community Investment Reserve Fund to cover the Canada 150 Celebrations funding shortfall for the Chippewas of the Thames.",
+    "confidence": "high",
+    "quote": "c) an amount equal to the funding shortfall in the amount of $10,000 for the Chippewas of the Thames",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "622f8c74171c",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the King Street/Queens Avenue couplet system as the preferred downtown east-west rapid transit corridor.",
+    "confidence": "high",
+    "quote": "the King Street/Queens Avenue couplet system BE APPROVED as the preferred downtown east-west corridors",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "58d37783eacb",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Richmond Street corridor as the preferred northern rapid transit corridor through downtown.",
+    "confidence": "high",
+    "quote": "the Richmond Street corridor BE APPROVED as the preferred northern corridor through the downtown",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "32dea691eea5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an at-grade level crossing at the CP Railway with dedicated bus lanes as the preferred cross-section on the Richmond Street rapid transit corridor at this time.",
+    "confidence": "high",
+    "quote": "an at-grade level crossing at the CP Railway with dedicated bus lanes BE APPROVED as the preferred cross section on the Richmond Street corridor at this time",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "19caae50608d",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that alternative methods (for example, a tunnel or grade separation) to separate automobile and transit traffic from the railway downtown be evaluated for long-term implementation, subject to a separate future assessment and business case.",
+    "confidence": "high",
+    "quote": "alternative methods to separate both automobile and transit vehicles from the railway in the downtown (for example, a tunnel or grade separation, etc.) BE EVALUATED for long term implementation; it being noted that this evaluation would be subject to a separate assessment and future business case for implementation",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "ed8ece731ec5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to undertake consultations with appropriate parties to investigate the potential relocation of CP railway operations within the City of London.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to undertake consultations with appropriate parties to investigate the potential relocation of CP railway operations within the City of London",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "Source part e) was AMENDED at committee before passing (\"Motion Approve part e) to read as follows: ... BE DIRECTED to undertake consultations ... investigate the potential relocation of CP railway operations\"); classifier quoted the pre-amendment staff-report text (CTA/CN-CP negotiation) instead of the text actually voted on. Fixed quote+whatAYeaDid to the enacted text; still an informational consult directive, issue/axis/polarity correctly stay none/null/null."
+  },
+  {
+    "id": "0d27f9d740e8",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that options to support Back to the River and service to Via Rail and the Airport be explored further during the Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "options to support Back to the River and service to Via and the Airport BE EXPLORED further during the Transit Project Assessment Process",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "f2e3324dedf4",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back with a communications plan for bus rapid transit.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back with a communications plan for bus rapid transit",
+    "flags": [
+      "wrapper_preamble",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "80d1d9d10360",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the West Corridor segment (west of the Thames River to the Wonderland Commercial Area), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Motion to Approve the portion of part f) that relates to the West Corridor: west of the Thames River to Wonderland Commercial Area. [part f)]: the Bus Rapid Transit Network, with the above-noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "a06d1726ef60",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the East Corridor segment (east of Wellington Street to Fanshawe College), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Motion to Approve the portion of part f) that relates to the East Corridor: east of Wellington Street to Fanshawe College. [part f)]: the Bus Rapid Transit Network, with the above-noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "208b06aeae12",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the Richmond Corridor segment (north of Queens Avenue), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Motion to Approve the portion of part f) that relates to the Richmond Corridor: north of Queens Avenue. [part f)]: the Bus Rapid Transit Network, with the above-noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "03de1b80ce6d",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the South Corridor segment (Wellington Road south of King Street, regardless of King Street or couplet), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Motion to Approve the portion of part f) that relates to the South Corridor: Wellington Road south of King Street regardless of King Street or couplet. [part f)]: the Bus Rapid Transit Network, with the above-noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "433582b171ed",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the King Street/Queens Avenue couplet system as the preferred downtown east-west rapid transit corridor.",
+    "confidence": "high",
+    "quote": "a) the King Street/Queens Avenue couplet system BE APPROVED as the preferred downtown east-west corridors",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "dfc13af1288e",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Richmond Street corridor as the preferred northern rapid transit corridor through downtown.",
+    "confidence": "high",
+    "quote": "b) the Richmond Street corridor BE APPROVED as the preferred northern corridor through the downtown",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "3bf3a10e546c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an at-grade level crossing at the CP Railway with dedicated bus lanes as the preferred cross-section on the Richmond Street rapid transit corridor at this time.",
+    "confidence": "high",
+    "quote": "c) an at-grade level crossing at the CP Railway with dedicated bus lanes BE APPROVED as the preferred cross section on the Richmond Street corridor at this time",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "d6c1c94b84a4",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the Richmond Corridor segment (north of Queens Avenue), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Approve part f) of clause 10 as it relates to the Richmond Corridor: north of Queens Avenue. [part f)]: the Bus Rapid Transit Network, with the above noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "0c96634667ba",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the South Corridor segment (Wellington Road south of King Street, regardless of King Street or couplet), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Approve part f) of clause 10 as it relates to the South Corridor: Wellington Road south of King Street regardless of King Street or couplet. [part f)]: the Bus Rapid Transit Network, with the above noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "2ec1dbfb3cd5",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the East Corridor segment (east of Wellington Street to Fanshawe College), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Approve part f) of clause 10 as it relates to the East Corridor: east of Wellington Street to Fanshawe College. [part f)]: the Bus Rapid Transit Network, with the above noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "bbf0bcf04998",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Bus Rapid Transit Network as the preferred alternative for the West Corridor segment (west of the Thames River to the Wonderland Commercial Area), as the basis for the updated Business Case and Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "Approve part f) of clause 10 as it relates to the West Corridor: west of the Thames River to Wonderland Commercial Area. [part f)]: the Bus Rapid Transit Network, with the above noted modifications BE APPROVED as the preferred alternative for the completion of the Rapid Transit Master Plan, as the basis for the updated Business Case and the undertaking of a Transit Project Assessment Process (as per Regulation 231/08)",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "a686bfd82e86",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deemed the Adelaide Street/CP railway grade separation, subject to approval of part c), a necessary element of the rapid transit system, and advanced a request for funding under the Public Transit Infrastructure Fund Phase II program.",
+    "confidence": "high",
+    "quote": "g) subject to the approval of c), the implementation of the Adelaide Street / CP railway grade separation BE CONSIDERED a necessary element of the rapid transit system and a request for funding under the Public Transit Infrastructure Fund Phase II program BE ADVANCED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "5b6e3ff7ad76",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed that options to support Back to the River and service to Via Rail and the Airport be explored further during the Transit Project Assessment Process.",
+    "confidence": "high",
+    "quote": "h) options to support Back to the River and service to Via and the Airport BE EXPLORED further during the Transit Project Assessment Process",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "cceeb1f6248f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to extend the Temporary Use (T-45) Zone at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three-year period.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 8, 2017, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2017 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-45) Zone to permit a golf driving range and accessory uses for an additional three (3) year period",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "1ad1daf1db1f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "The record for this vote substitutes an unrelated procedural note (a temporary Chair change) for the actual motion text on the 560/562 Wellington Street (OZ-8462) item, so the substance of what was moved cannot be recovered.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "1b2d6a862cce",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the application by GSP Group Inc. for 560 and 562 Wellington Street back to the Civic Administration to continue working with the applicant on a revised application, more in keeping with the West Woodfield Heritage Conservation District Plan, the Official Plan, and The London Plan, for a future Public Participation Meeting.",
+    "confidence": "medium",
+    "quote": "That the application by GSP Group Inc. for the property located at 560 and 562 Wellington Street BE REFERRED back to the Civic Administration to continue to work with the applicant to submit a revised application for consideration at a future Public Participation Meeting that is more in keeping with and conforms to the West Woodfield Heritage Conservation District Plan, the Official Plan and The London Plan",
+    "flags": [
+      "referral",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "7b99b95debac",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Designated the Appleseed Cider Festival (June 24, 2017, at Hassan Law Gallery, 142 Dundas Street, including an adjacent street closure on Dundas Street) as a municipally significant event.",
+    "confidence": "high",
+    "quote": "That the Appleseed Cider Festival, to be held on Saturday, June 24, 2017 from 3:00 PM to 11:00 PM, at Hassan Law Gallery, 142 Dundas Street and, subject to obtaining the necessary approvals, also at an adjacent street closure on Dundas Street as per the attached diagram, BE DESIGNATED as a municipally significant event",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "346a15375aef",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, as amended, a one-time allocation of $135,270 from the Community Investment Reserve Fund for eight Canada 150 celebration projects (part a)) and a $6,400 allocation (reduced from $25,000) for the Hyde Park Business Improvement Area (part b), as amended).",
+    "confidence": "high",
+    "quote": "Approve part a) and part b), as amended, of clause 6. [part b), as amended, deletes '$25,000' and replaces it with '$6,400']",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "f5707e48ee02",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a one-time allocation of $10,000 from the Community Investment Reserve Fund to cover the Chippewas of the Thames' Canada 150 funding shortfall.",
+    "confidence": "high",
+    "quote": "Approve part c). c) an amount equal to the funding shortfall in the amount of $10,000 for the Chippewas of the Thames",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "25d473223130",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to Bill No. 215, the by-law extending the Temporary Use (T-45) Zone at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three-year period.",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No.215.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "whatAYeaDid carried a stray, incorrect second sentence claiming this FIRST-reading vote \"enacts the by-law\" — enactment wording belongs only on the genuine third-reading+enactment entry (fb995be21711). Stripped the erroneous sentence; reading-stage text, quote, and expansive polarity are otherwise correct and unchanged."
+  },
+  {
+    "id": "af755f433b13",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to Bill No. 215, the by-law extending the Temporary Use (T-45) Zone at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three-year period.",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No.215.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "fb995be21711",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 215, the by-law extending the Temporary Use (T-45) Zone at 1992 Fanshawe Park Road West to permit a golf driving range and accessory uses for an additional three-year period.",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 215.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "571cda49612a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law at Council to set out the City of London's ward boundaries in preparation for the 2018 Municipal Election.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 23, 2017 BE INTRODUCED at the Municipal Council meeting to be held on May 30, 2017 to set out the City of London’s ward boundaries in preparation for the 2018 Municipal Election",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "7ee0972297e1",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing by-laws to redesignate 420 Fanshawe Park Road East from Low Density Residential to Multi-Family Medium Density Residential in the Official Plan and rezone it from Residential R1 to a holding Residential R1 Bonus Zone, permitting an apartment building up to 14.6 m (48 ft) with density up to 100 units per hectare in exchange for specified design and public-realm features.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 23, 2017 as Appendix \"A\" BE INTRODUCED ... to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation TO a Multi-family, Medium Density Residential designation; ... the Bonus Zone shall be implemented through a development agreement to provide for an apartment building of 14.6m (48 ft) with an increased density up to 100 units per hectare",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "4fe157350fcb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the application for 420 Fanshawe Park Road East back to the Civic Administration for further consultation with the community and the applicant.",
+    "confidence": "high",
+    "quote": "Motion to refer the application for the property located at 420 Fanshawe Park Road East back to the Civic Administration for further consultation with the community and the applicant.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "f0190b7cbf43",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the application by Mike Abualhayja for 8076 Longwoods Road back to the Civic Administration to report back with a revised by-law permitting the keeping of livestock as an accessory use to the abattoir, and requested the Site Plan Approval Authority to consider fencing, tree planting, and a holding provision through the site plan approval process.",
+    "confidence": "high",
+    "quote": "a) the application of Mike Abualhayja, for the above-noted property BE REFERRED to the Civic Administration to report back with a revised by-law that would permit the keeping of livestock as an accessory use to the abattoir; b) the Site Plan Approval Authority BE REQUESTED to consider the following through the site plan approval process",
+    "flags": [
+      "referral",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "0608933be757",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to consult with stakeholders and report back to the Community and Protective Services Committee on parking-infraction enforcement in privately-owned parking lots, examining fines, processing, fairness, and consistency.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to consult with applicable stakeholders and to report back to the Community and Protective Services Committee with respect to what steps could be taken by the City of London with respect to parking infractions in privately-owned parking lots, and enforcement, in order to examine fines, processing, fairness and consistency",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "1c87ddc61ed3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a revised by-law at Council to adopt a policy for publicly releasing enforcement conviction information.",
+    "confidence": "high",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting of May 30, 2017, to adopt a policy for publicly releasing enforcement conviction information",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "86358514a4da",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to purchase an additional community movie kit at a cost of up to $20,000, funded from the Community Investment Reserve Fund, in support of implementing the London Strengthening Neighbourhoods Strategy 2017-2020.",
+    "confidence": "high",
+    "quote": "in support of parts a) and b), above, the Civic Administration BE DIRECTED to purchase an additional community movie kit, at a cost of up to $20,000; it being noted that the Community Investment Reserve Fund would be the source of funding for this initiative",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "9becccb6bd53",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "The record shows only the label 'Motion to Approve a part b) to read as follows:' before the vote tally; the actual proposed wording of part b), added to the Strategic Plan Semi-Annual Progress Report item, was not preserved.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "9b5063fab25f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on consultations regarding appropriate arrangements for the City of London to become a Sanctuary City.",
+    "confidence": "high",
+    "quote": "the staff report dated May 29, 2017 on the consultations regarding appropriate arrangements for the City of London to become a Sanctuary City, BE RECEIVED for information",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "fb3f40d2b286",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have decided to take no further action to explore establishing London as a Sanctuary City, citing the City's existing immigration and refugee commitments and its status as a Compassionate City.",
+    "confidence": "high",
+    "quote": "NO FURTHER ACTION BE TAKEN to explore establishing London as a Sanctuary City; it being noted that: i) the City of London recognizes and supports immigration matters falling within the jurisdiction of the Federal Government",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "de6d76a56447",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the matter of reinstating escalating fines for special events back to the Civic Administration to monitor sound levels (dbA and dbC) at amplified-music special events across multiple locations in 2017 and report back on potential changes to the special events policy by the end of 2017.",
+    "confidence": "high",
+    "quote": "b) the matter of reinstating escalating fines BE REFERRED back to the Civic Administration to monitor sound at special events with amplified music from a variety of different locations, collecting both dbA and dbC weighted measurements, and consider the sound design plan and mitigation measures undertaken by event holders in 2017 and report back on any potential changes to the special events policy at the end of 2017",
+    "flags": [
+      "referral",
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "confirmed against full source motion text (committee/Council minutes JSON); quote verbatim and operative, issue/axis/polarity/hedging correct."
+  },
+  {
+    "id": "988847fc21ec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "The record for this roll call captures no real motion text — the field holds only the placeholder \"Motion passed\" with no mover/seconder, immediately after an unresolved referral motion (Councillor Cassidy's, itself missing a recorded vote) on the same item; the substance of what this specific 6-9 vote decided cannot be reliably identified from the source.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "wrapper_preamble",
+      "no_text"
+    ],
+    "verdict": "downgraded",
+    "verifierNote": "REFUTED and downgraded: classifier attributed the committee's 4-2 rezoning-approval text to this Council roll call by item-context inference, but the source's own motion_texts for this id is the placeholder \"Motion passed\" (blank mover/seconder) — the identical corrupted-node signature already correctly flagged no_text elsewhere in this same batch (1ad1daf1db1f, 9becccb6bd53). The preceding Cassidy referral motion (full text preserved) has NO recorded vote of its own, and this id's 6-9 yea/nay lineup mirrors the referral-opponent bloc, not necessarily the rezoning vote; the item's actual 11-4 passing vote is a separate id (6841ce6dc566) in batch 83. Cannot positively confirm this id's content -> issue none / polarity null, matching the corpus's own no_text convention."
+  }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "5f35bdfde24c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Rygar Properties Inc. application for 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue back to the Civic Administration for further consultation with the applicant to incorporate and retain the façade and depth of Camden Terrace, and to report back to a future meeting of the Planning and Environment Committee.",
+  "confidence": "high",
+  "quote": "That the application by Rygar Properties Inc., relating to the properties located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue BE REFERRED back to the Civic Administration for further consultation with the applicant to amend the proposal to incorporate and retain the façade and depth of Camden Terrace as well as the properties located at 93 to 95 Dufferin Avenue and to report back at a future meeting of the Planning and Environment Committee",
+  "flags": ["referral"]
+ },
+ {
+  "id": "8522be6eb232",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to a future meeting of the appropriate Standing Committee on Dundas Street Flex Programming, to be considered concurrently with the Environmental Assessment Terms of Reference, a Business Plan, and a Market Lane pilot project to help establish a Dundas Flex Street Programming Authority.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to report back at a future meeting of the appropriate Standing Committee with respect to the Dundas Street Flex Programming to be considered concurrently with: a) the report on the Environmental Assessment is brought forward with draft Terms of Reference; b) a Business Plan; and, c) a pilot project being undertaken during the study period to study Market Lane to assist in establishing the \"Dundas Flex Street Programming Authority\"",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "051a9212983e",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Advised the Approval Authority that Municipal Council supports a three-year extension of the draft-approved plan of subdivision submitted by Doman Developments Inc. for the north side of North Routledge Park west of Hyde Park Road, and approved financing for the project per the related estimated costs and revenues.",
+  "confidence": "medium",
+  "quote": "the Approval Authority BE ADVISED that the Municipal Council supports the request for a three (3) year extension of the draft plan of subdivision submitted by Doman Developments Inc., File No. 39T-78066... and, b) the financing for this project BE APPROVED in accordance with the \"Related Estimated Costs and Revenues\" as appended to the staff report dated September 6, 2016, as Schedule “B”",
+  "flags": []
+ },
+ {
+  "id": "53c15677ee7a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved establishing the W12A Landfill Public Liaison Committee Point of Source Water Treatment Program for qualifying nearby residents, and directed the Civic Administration to implement a Subsidy Agreement providing a 90% subsidy up to $6,000 per residence for water well treatment equipment.",
+  "confidence": "high",
+  "quote": "the establishment of the W12A Landfill Public Liaison Committee Point of Source Water Treatment Program BE APPROVED in order to allow qualifying residents access to the Program and the funds allocated to it... b) the Civic Administration BE DIRECTED to take the necessary steps to implement a form of Subsidy Agreement which provides for a 90% subsidy, with a maximum subsidy of $6,000 per residence, regardless of whether the residence is owner occupied or not",
+  "flags": []
+ },
+ {
+  "id": "d2c795d0a522",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Rygar Properties Inc. application for 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue back to the Civic Administration for further consultation with the applicant to incorporate and retain the façade and depth of Camden Terrace, rather than proceeding to the bonus-zone by-law.",
+  "confidence": "high",
+  "quote": "That the application by Rygar Properties Inc., relating to the properties located at 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue BE REFERRED back to the Civic Administration for further consultation with the applicant to amend the proposal to incorporate and retain the façade and depth of Camden Terrace as well as the properties located at 93 to 95 Dufferin Avenue and to report back at a future meeting of the Planning and Environment Committee",
+  "flags": ["referral"]
+ },
+ {
+  "id": "51628d6f250e",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a revised by-law to rezone 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue to a Downtown Area Bonus zone permitting an increased height of up to 129 metres and increased density of up to 1,200 units per hectare, in exchange for heritage conservation of 93-95 Dufferin Avenue, commemoration of the Camden Terrace façade, and a $250,000 public art contribution.",
+  "confidence": "high",
+  "quote": "the proposed attached revised by-law BE INTRODUCED... to change the zoning of the subject property FROM a Downtown Area Bonus (DA1●D350●B-25) Zone, a Downtown Area (DA2) Zone and a Holding Downtown Area (h-3●DA2●D350) Zone TO a Downtown Area Bonus (DA2●D350●B(_)) Zone; it being noted that the Bonus Zone shall be implemented through one or more agreements to provide for an increased height of up to 129 metres and an increased density of up to 1200 units per hectare",
+  "flags": ["substitution"]
+ },
+ {
+  "id": "11bbd3e5a310",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part c) of the Dundas Street Flex Programming directive to list specific organizations — Budweiser Gardens, the London Convention Centre, Downtown London Business Association, Tourism London, Fanshawe College, City of London Staff, the London Arts Council, London Music Hall, and the London Fringe Festival — rather than named individuals, as participants in forming the Dundas Flex Street Programming Authority.",
+  "confidence": "high",
+  "quote": "Approve an amendment to part c) to read as follows: c) a pilot project being undertaken during the study period to study Market Lane to assist in establishing the “Dundas Flex Street Programming Authority”... including, but not limited to, the following organizations: - Budweiser Gardens; - London Convention Centre; - Downtown London Business Association; - Tourism London; - Fanshawe College; - City of London Staff; - London Arts Council; - London Music Hall; and, - the London Fringe Festival",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "fa0825783157",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to a future meeting of the appropriate Standing Committee on Dundas Street Flex Programming, as amended, concurrent with the Environmental Assessment Terms of Reference, a Business Plan, and the Market Lane pilot project to help establish a Dundas Flex Street Programming Authority.",
+  "confidence": "high",
+  "quote": "Approve clause 18, as amended.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "9a0a519a5bd8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved establishing the W12A Landfill Public Liaison Committee Point of Source Water Treatment Program for qualifying nearby residents, and directed the Civic Administration to implement a Subsidy Agreement providing a 90% subsidy up to $6,000 per residence for water well treatment equipment.",
+  "confidence": "high",
+  "quote": "the establishment of the W12A Landfill Public Liaison Committee Point of Source Water Treatment Program BE APPROVED in order to allow qualifying residents access to the Program and the funds allocated to it... b) the Civic Administration BE DIRECTED to take the necessary steps to implement a form of Subsidy Agreement which provides for a 90% subsidy, with a maximum subsidy of $6,000 per residence, regardless of whether the residence is owner occupied or not",
+  "flags": []
+ },
+ {
+  "id": "84f6ef3a294d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 356.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 356.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "f4bbd8c62cfa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 356.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 356.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "e9b50b4e5561",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 356.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 356.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "873d7a2dbac1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 357.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 357.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "0eba019c9707",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 357.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 357.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "4fc441b5b51d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 357.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 357.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "520f9b88ecb4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Textbook (Ross Park) Inc. application for 1234-1246 Richmond Street back to the Civic Administration for further discussion with the applicant and the Upper Thames River Conservation Authority.",
+  "confidence": "high",
+  "quote": "That the application by Textbook (Ross Park) Inc., relating to the properties located at 1234 to 1246 Richmond Street BE REFERRED back to the Civic Administration for further discussion with the applicant and the Upper Thames River Conservation Authority",
+  "flags": ["referral"]
+ },
+ {
+  "id": "41d2a0bb4d0e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved renaming the London Diversity and Race Relations Advisory Committee to the Diversity, Inclusion and Anti-Oppression Advisory Committee (DIAAC), and received clauses 1 to 9 and clause 11 of its 8th Report.",
+  "confidence": "medium",
+  "quote": "the proposed name change of the “London Diversity and Race Relations Advisory Committee” to the “Diversity, Inclusion and Anti-Oppression Advisory Committee” (DIAAC) BE APPROVED; and, b) clauses 1 to 9 and clause 11, BE RECEIVED",
+  "flags": []
+ },
+ {
+  "id": "ea68856717f9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 10 of the 16th Report of the Planning and Environment Committee to refer the Textbook (Ross Park) Inc. application for 1234-1246 Richmond Street back to the Civic Administration to report back with further information on the recent Ontario Municipal Board appeals of the Official Plan and Zoning By-law Amendment applications.",
+  "confidence": "high",
+  "quote": "Approve that clause 10 of the 16th Report of the Planning and Environment Committee be amended to read as follows: “That the application by Textbook (Ross Park) Inc., relating to the properties located at 1234 to 1246 Richmond Street BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee with further information regarding the recent submission of appeals to the Ontario Municipal Board pertaining to this matter...”",
+  "flags": ["referral", "substitution"]
+ },
+ {
+  "id": "06397a0d60cb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the staff report on heritage matters pertaining to the South Street Campus lands under lease to the London Health Sciences Centre to later in the September 27, 2016 Council meeting, in order to receive additional information about financing the proposed initiatives.",
+  "confidence": "high",
+  "quote": "That consideration of the staff report dated September 26, 2016, with respect to heritage matters pertaining to the South Street Campus lands under lease to the London Health Sciences Centre BE REFERRED to the September 27, 2016 meeting of the Municipal Council in order to receive additional information with respect to financing the proposed initiatives.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "6a3f8fea0b60",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved renaming the London Diversity and Race Relations Advisory Committee to the Diversity, Inclusion and Anti-Oppression Advisory Committee (DIAAC).",
+  "confidence": "high",
+  "quote": "the proposed name change of the “London Diversity and Race Relations Advisory Committee” to the “Diversity, Inclusion and Anti-Oppression Advisory Committee” (DIAAC) BE APPROVED",
+  "flags": []
+ },
+ {
+  "id": "83d0241a070c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to review and report back on regulations, including possible amendments to the Property Standards By-law, that would require owners of heritage-listed properties to maintain them to the same standard required for designated or Heritage District properties.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE REQUESTED to review and report back with regulations that could be put in place, including, but not limited to amendments to By-law CP-16, A by-law prescribing standards for the maintenance and occupancy of property (Property Standards By-law) that would require owners of properties that are listed on the City’s Inventory of Heritage Resources, regardless of whether or not they are located within a Heritage District, to be maintained in a similar manner that is currently required for those properties that are designated and/or are located within a Heritage District under the Ontario Heritage Act.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "8e1e3952275d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "On reconsideration, requested the Civic Administration to review and report back on regulations, including possible amendments to the Property Standards By-law, that would require owners of heritage-listed properties to maintain them to the same standard required for designated or Heritage District properties.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE REQUESTED to review and report back with regulations that could be put in place, including, but not limited to amendments to By-law CP-16, A by-law prescribing standards for the maintenance and occupancy of property (Property Standards By-law) that would require owners of properties that are listed on the City’s Inventory of Heritage Resources, regardless of whether or not they are located within a Heritage District, to be maintained in a similar manner that is currently required for those properties that are designated and/or are located within a Heritage District under the Ontario Heritage Act.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "87a0f82f555d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 359.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 359.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "162a2ac74c80",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 359.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 359.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "0bd7d1161687",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 359.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 359.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "c438454da0d2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed the properties at 479-485, 487, and 489 Talbot Street from the Inventory of Heritage Resources (Register).",
+  "confidence": "high",
+  "quote": "a) the properties at 479-485, 487, and 489 Talbot Street BE REMOVED from the Inventory of Heritage Resources (Register)",
+  "flags": []
+ },
+ {
+  "id": "634a471b91dc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Advised the Chief Building Official that Municipal Council consents to the demolition of the structures at 479-485, 487, and 489 Talbot Street.",
+  "confidence": "high",
+  "quote": "b) the Chief Building Official BE ADVISED that the Municipal Council consents to the demolition of the structures on these properties",
+  "flags": []
+ },
+ {
+  "id": "962621133bba",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 2 — directing the Civic Administration to implement audio recording of closed meeting sessions — back to the Corporate Services Committee for further information and discussion.",
+  "confidence": "high",
+  "quote": "Approve referral of clause 2 back to the Corporate Services Committee in order to receive further information from the Civic Administration and to provide for additional discussion with respect to this matter.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "7fb0694fda2a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to implement audio recording of closed meeting sessions, including a report back on the necessary policies and procedures to be put in place.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to take the necessary steps to implement audio recording of closed meeting sessions, which would include a report back on the necessary policies and procedures, etc. that would need to be put in place as part of the implementation process.",
+  "flags": []
+ },
+ {
+  "id": "2179addeb16d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 7 — a staff report on parking between the sidewalk and roadway — back to the Civic Works Committee for further discussion and public consultation.",
+  "confidence": "high",
+  "quote": "Approve that clause 7 BE REFERRED back to the Civic Works Committee, for further discussion and public consultation.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "2a1d1abf3203",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to report back to a future Planning and Environment Committee meeting with an analysis of the Business Plan for the Chelsea Green subdivision Brownfield Incentive application relating to contaminated-soil removal, and on potential exposures relating to retroactive approvals.",
+  "confidence": "high",
+  "quote": "a) the Civic Administration BE REQUESTED to report back at a future meeting of the Planning and Environment Committee with an analysis of the Business Plan... relating to the removal of contaminated soil in the Chelsea Green subdivision (33M-686); and, b) the Civic Administration BE REQUESTED to report back at a future meeting of the Planning and Environment Committee, concurrent with the report noted in part a) above, with respect to any potential exposures with respect to retroactive approvals relating to this matter",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "c11f7e1d5f94",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have sustained the Chair's ruling that a proposed amendment to clause 10 required Council to approve a reconsideration of the matter, on Councillor Turner's challenge to that ruling.",
+  "confidence": "high",
+  "quote": "The Chair rules that a proposed amendment to clause 10 would require the Municipal Council to approve a reconsideration of the matter. Councillor S. Turner challenges the ruling of the Chair. Pursuant to section 10.5 of the Council Procedure By-law the question “Shall the ruling of the Chair be sustained?” is put.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "447fa4617049",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed the properties at 479-485, 487, and 489 Talbot Street from the Inventory of Heritage Resources (Register).",
+  "confidence": "high",
+  "quote": "a) the properties at 479-485, 487, and 489 Talbot Street BE REMOVED from the Inventory of Heritage Resources (Register)",
+  "flags": []
+ },
+ {
+  "id": "d621ace11c1e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Advised the Chief Building Official that Municipal Council consents to the demolition of the structures at 479-485, 487, and 489 Talbot Street.",
+  "confidence": "high",
+  "quote": "b) the Chief Building Official BE ADVISED that the Municipal Council consents to the demolition of the structures on these properties",
+  "flags": []
+ },
+ {
+  "id": "83cf1cf7fe9c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to revised Bill No. 369.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of revised Bill No. 369.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "70e77b35a39c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to revised Bill No. 369.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of revised Bill No. 369.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "7f51190a5216",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted revised Bill No. 369.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of revised Bill No. 369.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "4987de589212",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added Regina Mundi Catholic College (5200 Wellington Road South) to the Inventory of Heritage Resources (Register), and noted receipt of the Stewardship Sub-Committee minutes from its meeting held September 28, 2016.",
+  "confidence": "high",
+  "quote": "Regina Mundi Catholic College (5200 Wellington Road South) BE ADDED to the Inventory of Heritage Resources (Register) based on the cultural heritage value/interest information included in the Stewardship Sub-Committee Report; and, ii) it BE NOTED that the Stewardship Sub-Committee minutes appended to the 10th Report of the London Advisory Committee on Heritage from its meeting held on September 28, 2016, were received",
+  "flags": []
+ },
+ {
+  "id": "bed3a7f7b241",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the delegation request from the London Professional Fire Fighters' Association, on the understanding it was not a question-and-answer opportunity and that Members would not discuss the collective-bargaining matter delegated to the Civic Administration.",
+  "confidence": "high",
+  "quote": "That the delegation request from the London Professional Fire Fighters’ Association BE APPROVED on the understanding that this is not a question and answer opportunity and that Council Members will not engage in discussions given collective bargaining is a responsibility that has been delegated to the Civic Administration.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "542f30249b4f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have invited the London Professional Fire Fighters' Association to submit, in writing, its perspective on the labour dispute with the City of London to the Managing Director, Corporate Services and Chief Human Resources Officer.",
+  "confidence": "high",
+  "quote": "the London Professional Fire Fighters’ Association (LPFFA) BE INVITED to submit, in writing, its perspective on the ongoing labour dispute between The Corporation of the City of London and the LPFFA, to the Managing Director, Corporate Services and Chief Human Resources Officer",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "e1ac125b8b98",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the Managing Director, Corporate Services and Chief Human Resources Officer, upon receipt of the LPFFA's written submission, to transmit it unedited and in its entirety to the Strategic Priorities and Policy Committee.",
+  "confidence": "high",
+  "quote": "upon receipt of the written submission requested in a), above, the Managing Director, Corporate Services and Chief Human Resources Officer BE DIRECTED to transmit the LPFFA’s written submission, invited in a), above, unedited and in its entirety, under appropriate cover report from the Civic Administration to the Strategic Priorities and Policy Committee",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "6adc841a7e51",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to address the issues present in Market Lane with a coordinated approach including necessary care supports (health and mental health), enforcement, and programming.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to address the issues present in Market Lane with a coordinated approach to include the necessary supports with regards to care (health, mental health and the pertinent forms of care deemed necessary on an individual basis), enforcement and programming",
+  "flags": []
+ },
+ {
+  "id": "16a5a8f77ffe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to report back, at the earliest possible date, on the Council policy and procedure changes needed to eliminate the second Deputy Mayor position and redistribute its duties.",
+  "confidence": "high",
+  "quote": "That the City Clerk BE DIRECTED to report back, at the earliest possible date, with respect to the necessary changes to Council policies and procedures to implement the elimination of the second Deputy Mayor position, in which case the duties currently assigned to that position is to be appropriately redistributed.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "131f892d4432",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the delegation request associated with the 5th Report of the Outstanding London Ambassador Award Committee to address this meeting.",
+  "confidence": "medium",
+  "quote": "Motion to Approve the delegation request for this meeting.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "3274393ab110",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to proceed with renovations to complete the Cat Adoption Centre at an estimated cost of $274,000, and approved financing for the project as set out in the Sources of Financing Report.",
+  "confidence": "high",
+  "quote": "a) the Civic Administration BE DIRECTED to proceed with the renovations to complete the Cat Adoption Centre at an estimated cost of $274,000.00; and, b) the financing for the Cat Adoption Centre project BE APPROVED as set out in the Sources of Financing Report appended to the staff report dated October 18, 2016 as Appendix 'A'",
+  "flags": []
+ }
+]
