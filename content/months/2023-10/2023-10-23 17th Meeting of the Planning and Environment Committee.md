@@ -1304,6 +1304,150 @@ That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remo
 
 
 The meeting adjourned at 7:26 PM.
+
+---
+
+## Votes
+
+*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
+
+### 2.2. Contract Renewal for Management of Environmentally Significant Areas
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Contract Renewal for the Management of Environmentally Significant Areas; a)  approval BE GIVEN under Section 14.3 (c) of the Procurement of Goods and Serv...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Contract Renewal for Management of Environmentally Significant Areas
+
+> That a change in order BE APPROVED to allow consent item 2.3 to be heard before item 2.2.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Conservation Authority Cost Apportioning Agreements
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Conservation Authority Cost Apportioning Agreements: a) the proposed by-law appended to the staff report dated October 23, 2023 as Appendix “A” BE INTRODUC...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 1958 Duluth Crescent (OZ-9638 / 39T-23504)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Monteith Brown Planning Consultants, relating to the property located at 1958 Duluth Crescent: a)    the proposed by-law appended to the staff report dated Octo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Kindred Works, (c/o Zelinka Priamo Ltd.), relating to the property located at 1901 Jalna Boulevard: a)    the proposed, revised, attached by-law as...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> Motion to include part d), which reads as follows: “d)    that pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the changes related to the calculation of parking requirements is minor in nature ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. 1901 Jalna Boulevard (Z-9633)
+
+> That the motion BE APPROVED, as amended.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> Motion to amend clause b) as follows: “the proposed by-law appended to the staff report as Appendix ‘B’, being a by-law to amendment Zoning Bylaw Z.-1, BE REVISED by DELETING part 2) a) v) Landscaped Open Space (minimum): 24%, it being noted the Landscaped Open Space (minimum) in the R8-4 Zone is...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> Motion to amend clause c) by adding the following: “xvi)    additional tree plantings on the property or nearby properties will be required to compensate for loss of trees and exceed the minimum tree planting requirements; and,  xvii)    investigate a solar installation along top of the parking g...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 135 Villagewalk Boulevard (Z-9644)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2560334 Ontario Limited, (c/o York Developments), relating to the property located at 135 Villagewalk Boulevard: a)    the proposed, revised by-law, as appended...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. 1407 and 1427 Hyde Park Road (OZ-9438)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2134325 Ontario Inc., (York Developments), relating to the property located at 1407-1427 Hyde Park Road: a)    the proposed by-law appended to the staff report ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. ReThink Zoning - Progress Update
+
+> Motion to approve delegation status to A. Johnson, Greenspace Alliance and M. Wallace, London Development Institute, with respect to ReThink Zoning.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. 11th Report of the Community Advisory Committee on Planning
+
+> That clause a) of the 11th Report of the Community Advisory Committee on Planning BE RECEIVED; it being noted that clause a) reads as follows: “a)    the Planning and Environment Committee BE ADVISED that the Community Advisory Committee on Planning (CACP) made the following comments with respect...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 5.1. (ADDED) Deferred Matters List
+
+> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -2206,148 +2350,3 @@ And thank you committee members and clerk for doing the hard work and keeping me
 Thank you.
 
 </details>
-
----
-
-## Votes
-
-*15 substantive votes at this meeting (2 contested, 13 unanimous). Procedural motions excluded.*
-
-### 2.2. Contract Renewal for Management of Environmentally Significant Areas
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Contract Renewal for the Management of Environmentally Significant Areas; a)  approval BE GIVEN under Section 14.3 (c) of the Procurement of Goods and Serv...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.2. Contract Renewal for Management of Environmentally Significant Areas
-
-> That a change in order BE APPROVED to allow consent item 2.3 to be heard before item 2.2.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Conservation Authority Cost Apportioning Agreements
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Conservation Authority Cost Apportioning Agreements: a) the proposed by-law appended to the staff report dated October 23, 2023 as Appendix “A” BE INTRODUC...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.3. 1958 Duluth Crescent (OZ-9638 / 39T-23504)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Monteith Brown Planning Consultants, relating to the property located at 1958 Duluth Crescent: a)    the proposed by-law appended to the staff report dated Octo...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 1901 Jalna Boulevard (Z-9633)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Kindred Works, (c/o Zelinka Priamo Ltd.), relating to the property located at 1901 Jalna Boulevard: a)    the proposed, revised, attached by-law as...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 1901 Jalna Boulevard (Z-9633)
-
-> Motion to include part d), which reads as follows: “d)    that pursuant to Section 34(17) of the Planning Act, as determined by the Municipal Council, no further notice BE GIVEN in respect of the proposed by-law as the changes related to the calculation of parking requirements is minor in nature ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.6. 1901 Jalna Boulevard (Z-9633)
-
-> That the motion BE APPROVED, as amended.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
-
-> Motion to amend clause b) as follows: “the proposed by-law appended to the staff report as Appendix ‘B’, being a by-law to amendment Zoning Bylaw Z.-1, BE REVISED by DELETING part 2) a) v) Landscaped Open Space (minimum): 24%, it being noted the Landscaped Open Space (minimum) in the R8-4 Zone is...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
-
-> Motion to amend clause c) by adding the following: “xvi)    additional tree plantings on the property or nearby properties will be required to compensate for loss of trees and exceed the minimum tree planting requirements; and,  xvii)    investigate a solar installation along top of the parking g...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 610-620 Beaverbrook Avenue (OZ-9517)
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 135 Villagewalk Boulevard (Z-9644)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2560334 Ontario Limited, (c/o York Developments), relating to the property located at 135 Villagewalk Boulevard: a)    the proposed, revised by-law, as appended...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.10. 1407 and 1427 Hyde Park Road (OZ-9438)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2134325 Ontario Inc., (York Developments), relating to the property located at 1407-1427 Hyde Park Road: a)    the proposed by-law appended to the staff report ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. ReThink Zoning - Progress Update
-
-> Motion to approve delegation status to A. Johnson, Greenspace Alliance and M. Wallace, London Development Institute, with respect to ReThink Zoning.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. 11th Report of the Community Advisory Committee on Planning
-
-> That clause a) of the 11th Report of the Community Advisory Committee on Planning BE RECEIVED; it being noted that clause a) reads as follows: “a)    the Planning and Environment Committee BE ADVISED that the Community Advisory Committee on Planning (CACP) made the following comments with respect...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 5.1. (ADDED) Deferred Matters List
-
-> That the Committee Clerk BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

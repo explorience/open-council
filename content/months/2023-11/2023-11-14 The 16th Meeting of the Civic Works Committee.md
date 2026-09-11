@@ -288,6 +288,71 @@ None.
 
 
 The meeting adjourned at 2:20 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Northridge Neighbourhood Connectivity Plan
+
+> That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.2. Huron Heights Neighbourhood Connectivity Plan
+
+> Motion to amend the staff recommendation by adding the words “excluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.”
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.2. Huron Heights Neighbourhood Connectivity Plan
+
+> Motion to approve the motion as amended.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
 ---
 
 ## Full Transcript
@@ -928,69 +993,3 @@ Looking for a motion to adjourn. I'll move adjournment. Thank you, Councillor Gr
 Thank you, we are adjourned. Thank you everyone for your cooperation today, thanks. And thank you, Chair.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (3 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Northridge Neighbourhood Connectivity Plan
-
-> That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.2. Huron Heights Neighbourhood Connectivity Plan
-
-> Motion to amend the staff recommendation by adding the words “excluding the proposed Kaladar Drive, Cayuga Crescent, Mark Street and Michael Street sidewalks.”
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.2. Huron Heights Neighbourhood Connectivity Plan
-
-> Motion to approve the motion as amended.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-

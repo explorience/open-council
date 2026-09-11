@@ -74,6 +74,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:06 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Spring 2025 Debenture Issuance Update
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the issuance of serial debentures for a total of $26,200,000 BE APPROVED, noting the average all-in rate is 3.763% over a 10-year term and that all debt has been placed with investors i...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -118,18 +132,3 @@ And thank you to staff for that report and for RBC for being with us online as w
 Motion carries. Thanks everyone, have a great rest of your day.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. Spring 2025 Debenture Issuance Update
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the issuance of serial debentures for a total of $26,200,000 BE APPROVED, noting the average all-in rate is 3.763% over a 10-year term and that all debt has been placed with investors i...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

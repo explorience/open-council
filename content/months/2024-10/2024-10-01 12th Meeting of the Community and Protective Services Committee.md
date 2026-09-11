@@ -248,6 +248,28 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 1:24 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. (ADDED) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated October 1, 2024, related to the Award of RFP-2024-233 Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -368,26 +390,3 @@ Chair, reporting out from confidential session that the three items identified o
 Okay, the hand vote, all those in favor for adjournment? All those opposed? That motion carries. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 5.1. (ADDED) Award of RFP-2024-233 - Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block 5
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated October 1, 2024, related to the Award of RFP-2024-233 Municipal Land for Affordable Housing Development at 1958 Duluth Crescent, Block ...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-

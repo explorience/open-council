@@ -1234,6 +1234,85 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 6:54 PM.
 
 ****
+
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.4, and 2.5, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 3rd Report of the Community Advisory Committee on Planning
+
+> That the 3rd Report of the Community Advisory Committee on Planning from its meeting held on March 19, 2026, BE RECEVIED; it being noted that the Planning and Environment Committee heard a verbal delegation from J.M. Metrailler, Chair, Community Advisory Committee on Planning on this matter.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.7. 845-875 Commissioners Road East - Z-25141
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Auburn Developments relating to the properties located at 845-875 Commissioners Road East: a)    a by-law BE INTRODUCED at the Municipal Council meeting ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4. Items for Direction
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item #6.1 in Stage 6, Confidential, to be considered before Stage 4, Items for Direction.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
+
+> That the Civic Administration BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London by end of Q1 2027; it being noted that the Planning and Environment Committee received the following communication with respect...
+
+**✅ Motion Passed (2 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
+
+> That the delegation request from Ken on behalf of J. Smith, Chair, East of Adelaide London ACORN , be heard at this time.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 5.1. Deferred Matters List
+
+> That the April Deferred Matters List, BE REVEIVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -2618,83 +2697,3 @@ So I think that's just a motion to adjourn. I'll look from motion to turn, Counc
 Thanks everyone. My apologies for the intermittent internet.
 
 </details>
-
----
-
-## Votes
-
-*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.4, and 2.5, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 3rd Report of the Community Advisory Committee on Planning
-
-> That the 3rd Report of the Community Advisory Committee on Planning from its meeting held on March 19, 2026, BE RECEVIED; it being noted that the Planning and Environment Committee heard a verbal delegation from J.M. Metrailler, Chair, Community Advisory Committee on Planning on this matter.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.7. 845-875 Commissioners Road East - Z-25141
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Auburn Developments relating to the properties located at 845-875 Commissioners Road East: a)    a by-law BE INTRODUCED at the Municipal Council meeting ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4. Items for Direction
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item #6.1 in Stage 6, Confidential, to be considered before Stage 4, Items for Direction.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
-
-> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
-
-> That the Civic Administration BE DIRECTED to explore and report back on the feasibility of establishing a Tenant Assistance and Relocation Program for the City of London by end of Q1 2027; it being noted that the Planning and Environment Committee received the following communication with respect...
-
-**✅ Motion Passed (2 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (3):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Councillor S. Franke - Tenant Assistance and Relocation Program
-
-> That the delegation request from Ken on behalf of J. Smith, Chair, East of Adelaide London ACORN , be heard at this time.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 5.1. Deferred Matters List
-
-> That the April Deferred Matters List, BE REVEIVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-

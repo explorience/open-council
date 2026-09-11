@@ -315,6 +315,66 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:37 PM.
 
 ****
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.5 and 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
+
+> That the delegation request from S. Titiziani, University Students' Council BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
+
+> b)    the Civic Administration BE DIRECTED to take such steps as necessary to implement the recommendations contained in the report including: the leading pedestrian intervals with lagging left-turn phases, no turns on red,  new dedicated in-boulevard cycling infrastructure on Sarnia Road (from S...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
+
+> c)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestri...
+
+**❌ Motion Failed (1 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.1. 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+> That the delegation request from B. Samuels BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -755,64 +815,3 @@ Okay, Councillor, you can bring that to council. All right, looking for a motion
 We're adjourned, thank you.
 
 </details>
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (2 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.5 and 2.6 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
-
-> That the delegation request from S. Titiziani, University Students' Council BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
-
-> b)    the Civic Administration BE DIRECTED to take such steps as necessary to implement the recommendations contained in the report including: the leading pedestrian intervals with lagging left-turn phases, no turns on red,  new dedicated in-boulevard cycling infrastructure on Sarnia Road (from S...
-
-**❌ Motion Failed (1 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 2.3. Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Project Update
-
-> c)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with respect to other improvements at the Western Rd, Sarnia Ave / Phillip Aziz Ave intersection including more detailed information about the feasibility of a pedestri...
-
-**❌ Motion Failed (1 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Nay (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 3.1. 5th Report of the Environmental Stewardship and Action Community Advisory Committee
-
-> That the delegation request from B. Samuels BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

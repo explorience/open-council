@@ -458,6 +458,44 @@ None.
 
 
 The meeting adjourned at 11:11 AM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 and 2.5 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
+
+> Motion to approve part a) of the motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
+
+> Motion to approve part b) of the motion.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Harris Park Shoreline Reconstruction - A.M. Valastro - REQUEST FOR DELEGATION STATUS
+
+> Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -954,42 +992,3 @@ Thank you. Moving on, I've not made aware of any deferred matters or additional 
 Can we do a hand vote? Thanks everyone.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 and 2.5 to 2.12 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
-
-> Motion to approve part a) of the motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. 2024 Renew London Infrastructure Construction Program and 2023 Review
-
-> Motion to approve part b) of the motion.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Harris Park Shoreline Reconstruction - A.M. Valastro - REQUEST FOR DELEGATION STATUS
-
-> Motion to approve the delegation request from A.M. Valastro, to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

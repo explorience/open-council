@@ -1141,6 +1141,113 @@ None.
 
 
 The meeting adjourned at 6:13 PM.
+
+---
+
+## Votes
+
+*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the property located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appended ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 80 and 82 Base Line Road West (Z-9750)
+
+> That, the following actions be taken with respect to the application by 13759741 Canada Inc. (c/o Strik, Baldinelli, Moniz Ltd.), relating to the property located at 80-82 Base Line Road West: a) the proposed revised, attached by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 3.5. 1338-1388 Sunningdale Road E (Z-9740)
+
+> That, the following actions be taken with respect to the application by Auburn Homes Inc. (c/o Steve Stapleton), relating to the property located at 1338-1388 Sunningdale Road East: a) the proposed revised by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE I...
+
+**❌ (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
+
+> That, the following actions be taken with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan: a) the proposed revised by-law to be provided at the Municipal Council meeting to be held on September 24, 2024 as Appendix "A" to adopt Phase 2 of the Section 26 Review of The ...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
+
+> G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;
+
+**❌ Motion Failed (1 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
+
+> Motion to grant the Mayor an extension of five minutes.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
+
+> Motion to add the following to the Zoning By-law by deleting Emergency Care Establishment from Section 52.2 - Permitted Uses: -    That the  zoning by-law amendment relating to Protected Major Transit Station Areas be changed by deleting Emergency Care Establishment from Section 52.2 – Permitted ...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
+
+> Motion to proceed past 6:00 PM.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
+
+> Motion as amended
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -2597,111 +2704,3 @@ Okay, take a scare of our scheduled items. There are no items for direction. No 
 Deputy Mayor Lewis, seconded by Councilor Raman, the hand vote sufficient. Thank you everyone, thank you staff. And thank you for those that stayed in the gallery. We are adjourned.
 
 </details>
-
----
-
-## Votes
-
-*10 substantive votes at this meeting (3 contested, 7 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 2-4 Audrey Avenue and 186-188 Huron Street (Z-9755)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by KAP Holdings Inc. (c/o Zelinka Priamo Ltd.), relating to the property located at 2-4 Audrey Avenue and 186-188 Huron Street: a)    the proposed by-law appended ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 80 and 82 Base Line Road West (Z-9750)
-
-> That, the following actions be taken with respect to the application by 13759741 Canada Inc. (c/o Strik, Baldinelli, Moniz Ltd.), relating to the property located at 80-82 Base Line Road West: a) the proposed revised, attached by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 3.5. 1338-1388 Sunningdale Road E (Z-9740)
-
-> That, the following actions be taken with respect to the application by Auburn Homes Inc. (c/o Steve Stapleton), relating to the property located at 1338-1388 Sunningdale Road East: a) the proposed revised by-law appended to the Planning and Environment Committee Added Agenda as Appendix "A" BE I...
-
-**❌ (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
-
-> That, the following actions be taken with respect to Phase 2 of the Section 26 Official Plan Review of The London Plan: a) the proposed revised by-law to be provided at the Municipal Council meeting to be held on September 24, 2024 as Appendix "A" to adopt Phase 2 of the Section 26 Review of The ...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
-
-> G) amend Neighbourhoods Place Type Table 10 to permit stacked townhouses along primary transit routes;
-
-**❌ Motion Failed (1 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.6. Heights Review/Transit Village/Major Shopping Area (OZ-9726, OZ-9727, O-9752 and O-9753)
-
-> Motion to grant the Mayor an extension of five minutes.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
-
-> Motion to add the following to the Zoning By-law by deleting Emergency Care Establishment from Section 52.2 - Permitted Uses: -    That the  zoning by-law amendment relating to Protected Major Transit Station Areas be changed by deleting Emergency Care Establishment from Section 52.2 – Permitted ...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
-
-> Motion to proceed past 6:00 PM.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. Protected Major Transit Station Areas Zoning Review (OZ-9749)
-
-> Motion as amended
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-

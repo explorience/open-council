@@ -555,6 +555,104 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 10:04 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. June Progress Update - Health and Homelessness Whole of Community System Response
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.2. Core Area Action Plan 2022 Review
+
+> Motion to approve part a) of the clause: a)    the staff report dated June 20, 2023 entitled “Core Area Action Plan 2022 Review”, including its appendices, BE RECEIVED;
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.2. Core Area Action Plan 2022 Review
+
+> Motion to approve part b) of the clause: b)    one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve; and,
+
+**✅ Motion Passed (11 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.2. Core Area Action Plan 2022 Review
+
+> Motion to approve part c) of the clause: c)    a one-time funding increase of $50,000 to support 2023 Summer, Fall and Winter Core Area events and activations BE APPROVED from the Operating Budget Contingency Reserve;    it being noted that the Strategic Priorities and Policy Committee received a...
+
+**✅ Motion Passed (12 to 0)**
+
+Unanimous (12-0)
+
+### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority Board for the term ending November 14, 2026.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
+
+> That Councillor P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (9 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
 ---
 
 ## Full Transcript
@@ -2059,102 +2157,3 @@ Deferred matters in additional business, I'll look for any additional business o
 All those in favor? Motion carries. All right, thank you very much.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. June Progress Update - Health and Homelessness Whole of Community System Response
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the June Progress Update – Health & Homelessness Whole of Community System Response report BE RECEIVED for information.
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.2. Core Area Action Plan 2022 Review
-
-> Motion to approve part a) of the clause: a)    the staff report dated June 20, 2023 entitled “Core Area Action Plan 2022 Review”, including its appendices, BE RECEIVED;
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.2. Core Area Action Plan 2022 Review
-
-> Motion to approve part b) of the clause: b)    one-time funding of $100,000 in support of the Holly Jolly Market and Downtown for the Holidays events BE APPROVED from the Operating Budget Contingency Reserve; and,
-
-**✅ Motion Passed (11 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (3):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.2. Core Area Action Plan 2022 Review
-
-> Motion to approve part c) of the clause: c)    a one-time funding increase of $50,000 to support 2023 Summer, Fall and Winter Core Area events and activations BE APPROVED from the Operating Budget Contingency Reserve;    it being noted that the Strategic Priorities and Policy Committee received a...
-
-**✅ Motion Passed (12 to 0)**
-
-Unanimous (12-0)
-
-### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That Councillor H. McAlister BE APPOINTED to the Lower Thames Valley Conservation Authority Board for the term ending November 14, 2026.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That Councillor J. Pribil BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 4.1. Lower Thames Valley Conservation Authority (LTVCA) and Kettle Creek Conservation Authority (KCCA) - Ministry of Natural Resources and Forestry
-
-> That Councillor P. Van Meerbergen BE APPOINTED to the Kettle Creek Conservation Authority Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (9 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-

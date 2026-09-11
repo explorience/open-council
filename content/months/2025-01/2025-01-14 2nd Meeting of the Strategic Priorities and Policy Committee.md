@@ -337,6 +337,53 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:18 PM.
 
 ****
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
+
+> That the 1st Report of the Integrated Transportation Communication Advisory Committee from its meeting held on December 18, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN; it being noted that the Strategic Priorities and Policy Committee heard a verbal delegation from R. Buchal, Member, Integrat...
+
+**✅ Motion Passed (11 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
+
+> That the delegation request from R. Buchal, Member, Integrated Transportation Community Advisory Committee and Chair of the Mobility Master Plan Subcommittee, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Eldon House Board of Directors Change of Governance Structure Request
+
+> That the request from the Board of Directors Eldon House BE REFERRED to the Civic Administration to draft a revised Eldon House by-law and report back to the February 4, 2025 meeting of Strategic Priorities and Policy Committee; it being noted that the Strategic Priorities and Policy Committee re...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.4. Confirmation of Appointment to the Hamilton Road BIA
+
+> That Jim Dean, of Jim Dean Law BE APPOINTED to the Hamilton Road BIA for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated December 18, 2024 from C. Luistro, Executive Director, Hamilton Road BIA with respect to thi...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -779,51 +826,3 @@ Thank you, and through you, I'm happy to report out that we made progress on the
 Motion carries. Have a good evening.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
-
-> That the 1st Report of the Integrated Transportation Communication Advisory Committee from its meeting held on December 18, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN; it being noted that the Strategic Priorities and Policy Committee heard a verbal delegation from R. Buchal, Member, Integrat...
-
-**✅ Motion Passed (11 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.1. 1st Report of the Integrated Transportation Community Advisory Committee
-
-> That the delegation request from R. Buchal, Member, Integrated Transportation Community Advisory Committee and Chair of the Mobility Master Plan Subcommittee, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Eldon House Board of Directors Change of Governance Structure Request
-
-> That the request from the Board of Directors Eldon House BE REFERRED to the Civic Administration to draft a revised Eldon House by-law and report back to the February 4, 2025 meeting of Strategic Priorities and Policy Committee; it being noted that the Strategic Priorities and Policy Committee re...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.4. Confirmation of Appointment to the Hamilton Road BIA
-
-> That Jim Dean, of Jim Dean Law BE APPOINTED to the Hamilton Road BIA for the term ending November 14, 2026; it being noted that the Strategic Priorities and Policy Committee received a communication dated December 18, 2024 from C. Luistro, Executive Director, Hamilton Road BIA with respect to thi...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-

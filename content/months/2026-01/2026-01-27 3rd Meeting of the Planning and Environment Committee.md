@@ -1250,6 +1250,69 @@ That the meeting BE ADJOURNED.
 it being noted that the meeting adjourned at 5:58 PM.
 
 ****
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. 1st Report of the Community Advisory Committee on Planning
+
+> That the 1st Report of the Community Advisory Committee on Planning, from its meeting held on January 15, 2026, was received; it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the property located at 767 Fanshawe Park Road East & 679 Dunboyne Crescent: a)    the proposed attached b...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.12. 3680 Wonderland Road - OZ-25128
+
+> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.12. 3680 Wonderland Road - OZ-25128
+
+> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001320818 Ontario Inc. (c/o Miami Developments) relating to the property located at 3680 Wonderland Road South: a)    the proposed attached by-law BE AP...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor E. Peloza - Brownfield Community Improvement Plan Update Request
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee in Q2 2026 with a list of current Brownfield CIP approvals including the municipal funding allocation, project status updates for each site, and recommendations for any inactive ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -2602,67 +2665,3 @@ I'm saying the vote, the motion carries 4-0. Thank you, so that leaves the Germa
 Thank you, Moshe, or adjourned. Just before.
 
 </details>
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. 1st Report of the Community Advisory Committee on Planning
-
-> That the 1st Report of the Community Advisory Committee on Planning, from its meeting held on January 15, 2026, was received; it being noted that the verbal delegation from J. M. Metrailler, Chair, Community Advisory Committee on Planning, with respect to this matter, was received.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 767 Fanshawe Park Road East and 679 Dunboyne Crescent - Z-25151
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Northbound Development Corporation relating to the property located at 767 Fanshawe Park Road East & 679 Dunboyne Crescent: a)    the proposed attached b...
-
-**✅ Motion Passed (3 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 3.12. 3680 Wonderland Road - OZ-25128
-
-> That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.12. 3680 Wonderland Road - OZ-25128
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1001320818 Ontario Inc. (c/o Miami Developments) relating to the property located at 3680 Wonderland Road South: a)    the proposed attached by-law BE AP...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Councillor E. Peloza - Brownfield Community Improvement Plan Update Request
-
-> That the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee in Q2 2026 with a list of current Brownfield CIP approvals including the municipal funding allocation, project status updates for each site, and recommendations for any inactive ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

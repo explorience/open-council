@@ -176,6 +176,28 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 2:04 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor C. Rahman and Councillor D. Ferreira - CPKC Train Fire
+
+> That the following actions be taken with respect to the CPKC Train Fire: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with key learning from the Sunday April 21, 2024 CPKC train fire including any updates to the E...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -384,26 +406,3 @@ Moved by Councillor Pribble, seconded by Councillor Palosa. And we'll put that u
 That's carried. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. Councillor C. Rahman and Councillor D. Ferreira - CPKC Train Fire
-
-> That the following actions be taken with respect to the CPKC Train Fire: a)    the Civic Administration BE DIRECTED to report back to a future meeting of the Community and Protective Services Committee with key learning from the Sunday April 21, 2024 CPKC train fire including any updates to the E...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-

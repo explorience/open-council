@@ -569,6 +569,36 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:10 PM.
 
 ****
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 4.1. London Community Recovery Network – Recovery Funding Business Cases
+
+> Motion to approve Business Case #4: iv) Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Consideration of Appointment to Western University Board of Governors (Requires 2 Members)
+
+> That the following BE APPOINTED to Western University Board of Governors for the term July 1, 2022 to June 30, 2026:    Lori Higgs  Marlene McGrath    it being noted that the Strategic Priorities and Policy Committee received a communication dated June 3, 2022 from R. Konrad, Chair and K. Gibbons...
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
+
+### 5.1. (ADDED) Recruitment for the London and Middlesex Community Housing
+
+> That the application process BE RE-ADVERTISED to allow for additional outreach for applicants for the 2 vacant positions for the Board of Directors for the London and Middlesex Community Housing; it being noted that the Strategic Priorities and Policy Committee received a communication dated May ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -1711,34 +1741,3 @@ Screen's on please. All those in favor? Councillor Turner. That motion's carried
 Thank you. Motion to adjourn is a successful meeting adjourned.
 
 </details>
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 4.1. London Community Recovery Network – Recovery Funding Business Cases
-
-> Motion to approve Business Case #4: iv) Business Case #4: Talent Attraction and Labour Force Growth for Sustainable Economic Recovery
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Consideration of Appointment to Western University Board of Governors (Requires 2 Members)
-
-> That the following BE APPOINTED to Western University Board of Governors for the term July 1, 2022 to June 30, 2026:    Lori Higgs  Marlene McGrath    it being noted that the Strategic Priorities and Policy Committee received a communication dated June 3, 2022 from R. Konrad, Chair and K. Gibbons...
-
-**✅ Motion Passed (13 to 0)**
-
-Unanimous (13-0)
-
-### 5.1. (ADDED) Recruitment for the London and Middlesex Community Housing
-
-> That the application process BE RE-ADVERTISED to allow for additional outreach for applicants for the 2 vacant positions for the Board of Directors for the London and Middlesex Community Housing; it being noted that the Strategic Priorities and Policy Committee received a communication dated May ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-

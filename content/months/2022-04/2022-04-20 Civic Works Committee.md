@@ -278,6 +278,20 @@ That the Civic Works Committee Deferred Matters List as at April 11, 2022, BE RE
 
 
 The meeting adjourned at 12:41 PM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -484,18 +498,3 @@ Seeing no questions or hands raised, I will call the question. Closing the vote,
 Motion carries. Thank you everyone and have a wonderful day.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, and 2.8 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

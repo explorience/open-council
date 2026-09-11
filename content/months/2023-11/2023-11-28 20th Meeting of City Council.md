@@ -2058,6 +2058,227 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 5:38 PM.
 
 ****
+
+---
+
+## Votes
+
+*19 substantive votes at this meeting (9 contested, 10 unanimous). Procedural motions excluded.*
+
+### 8.1. 27th Report of the Strategic Priorities and Policy Committee
+
+> That the 27th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 10 (2.4) and 17 (4.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.10. (2.4) 2023-2027 City of London Strategic Plan: Core Area
+
+> That with respect to the 2023-2027 City of London Strategic Plan: Core Area, the following actions be taken:  a)    the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration;  b)    the Civic Administration BE DIRECTED to undertake a comprehensive review cons...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.1.17. (4.2) Community Cold Weather Response Update
+
+> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan: i)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.1.17. (4.2) Community Cold Weather Response Update
+
+> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  ii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.1.17. (4.2) Community Cold Weather Response Update
+
+> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missi...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 8.1.17. (4.2) Community Cold Weather Response Update
+
+> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iv)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.2. 18th Report of the Planning and Environment Committee
+
+> That the 18th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 8 (3.5).
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 8.2.8. (3.5) 978 Gainsborough Road (Z-9247) (Relates to Bill No.'s 422 and 459)
+
+> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a)    the request to amend the Official Plan, The London Plan...
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.3. 17th Report of the Community and Protective Services Committee
+
+> That the 17th Report of the Community and Protective Services Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4. 16th Report of the Civic Works Committee
+
+> That the 16th Report of the Civic Works Committee BE APPROVED, with the exception of items 4 (2.3), 5 (3.1), and 6 (3.2).
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
+
+> That the motion BE AMENDED to remove Dalkeith Avenue from the list of exempted streets for sidewalks in the Northridge Neighbourhood Connectivity Plan.
+
+**❌ Motion Failed (7 to 8) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
+
+> That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
+
+> That the motion BE AMENDED to remove Michael Street from the list of exempted streets for sidewalks in the Huron Heights Neighbourhood Connectivity Plan.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
+
+> That the Huron Heights Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Kaladar Drive, Cayuga Crescent, and Mark Street sidewalks; it being noted that no ...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 8.5. 3rd Report of the Audit Committee
+
+> That the 3rd Report of the Audit Committee BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 12. Emergent Motions
+
+> That, pursuant to section 20.2 of the Council Procedure By-law, Mayor J. Morgan BE GRANTED leave to bring forward an Emergent Motion with respect to a matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 13. By-laws
+
+> That Introduction and First Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Second Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
+
+### 13. By-laws
+
+> That Third Reading and Enactment of Bill No.’s 422 and Bill No. 459, BE APPROVED.
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
+
+</details>
 ---
 
 ## Full Transcript
@@ -3044,225 +3265,3 @@ So look for a motion to adjourn. Councillor Cuddy, seconded by Councillor Steven
 All right, thank you very much. We're adjourned.
 
 </details>
-
----
-
-## Votes
-
-*19 substantive votes at this meeting (9 contested, 10 unanimous). Procedural motions excluded.*
-
-### 8.1. 27th Report of the Strategic Priorities and Policy Committee
-
-> That the 27th Report of the Strategic Priorities and Policy Committee BE APPROVED, with the exception of items 10 (2.4) and 17 (4.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.10. (2.4) 2023-2027 City of London Strategic Plan: Core Area
-
-> That with respect to the 2023-2027 City of London Strategic Plan: Core Area, the following actions be taken:  a)    the 2023-2027 City of London Strategic Plan: Core Area BE REFERRED back to Civic Administration;  b)    the Civic Administration BE DIRECTED to undertake a comprehensive review cons...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.1.17. (4.2) Community Cold Weather Response Update
-
-> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan: i)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Mission ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.1.17. (4.2) Community Cold Weather Response Update
-
-> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  ii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (6):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.1.17. (4.2) Community Cold Weather Response Update
-
-> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iii)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missi...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 8.1.17. (4.2) Community Cold Weather Response Update
-
-> Motion to approve part b) as follows: b)    the Civic Administration BE DIRECTED by Municipal Council to proceed with the following contracts for overnight spaces to support the cold weather plan:  iv)    the Civic Administration BE DIRECTED to enter into a contract with The Ark Aid Street Missio...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.2. 18th Report of the Planning and Environment Committee
-
-> That the 18th Report of the Planning and Environment Committee BE APPROVED, with the exception of item 8 (3.5).
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 8.2.8. (3.5) 978 Gainsborough Road (Z-9247) (Relates to Bill No.'s 422 and 459)
-
-> That, notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Highland Communities Ltd., relating to the property located at 978 Gainsborough Road: a)    the request to amend the Official Plan, The London Plan...
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.3. 17th Report of the Community and Protective Services Committee
-
-> That the 17th Report of the Community and Protective Services Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4. 16th Report of the Civic Works Committee
-
-> That the 16th Report of the Civic Works Committee BE APPROVED, with the exception of items 4 (2.3), 5 (3.1), and 6 (3.2).
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
-
-> That the motion BE AMENDED to remove Dalkeith Avenue from the list of exempted streets for sidewalks in the Northridge Neighbourhood Connectivity Plan.
-
-**❌ Motion Failed (7 to 8) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (7):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (8):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 8.4.5. (3.1) Northridge Neighbourhood Connectivity Plan
-
-> That the Northridge Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Glengarry Avenue, Dalkeith Avenue, Algoma Avenue, Glengyle Crescent, Dunboyne Crescen...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (4):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
-
-> That the motion BE AMENDED to remove Michael Street from the list of exempted streets for sidewalks in the Huron Heights Neighbourhood Connectivity Plan.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 8.4.6. (3.2) Huron Heights Neighbourhood Connectivity Plan
-
-> That the Huron Heights Neighbourhood Connectivity Plan, as appended to the staff report dated November 14, 2023, BE APPROVED to inform the annual Renew London Construction Program with the exception of the proposed Kaladar Drive, Cayuga Crescent, and Mark Street sidewalks; it being noted that no ...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 8.5. 3rd Report of the Audit Committee
-
-> That the 3rd Report of the Audit Committee BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 12. Emergent Motions
-
-> That, pursuant to section 20.2 of the Council Procedure By-law, Mayor J. Morgan BE GRANTED leave to bring forward an Emergent Motion with respect to a matter pertaining to the proposed or pending acquisition of land by the municipality, including communications necessary for that purpose; advice ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 13. By-laws
-
-> That Introduction and First Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 13. By-laws
-
-> That Second Reading of Bill No.’s 422 and Bill No. 459, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-
-### 13. By-laws
-
-> That Third Reading and Enactment of Bill No.’s 422 and Bill No. 459, BE APPROVED.
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins)
-
-</details>
-

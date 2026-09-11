@@ -483,6 +483,93 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:24 PM.
 
 ****
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2.1. Biosolids Management Master Plan - Notice of Completion
+
+> That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Biosolids Management Master Plan:    a)    the Notice of Completion BE FILED with the Municipal Clerk;    b)    the Biosolids Management Master Plan report BE PLAC...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 2.8. Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. London Emergency Services Campus
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the Deputy City Manager, Neighbourhood and Community-Wide Services, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Housing and Community Growth, on the advice of...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. London Emergency Services Campus
+
+> That the delegation request from C. Colvin, P. Verkley and K. McLean, Ontario Federation of Agriculture BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. London Emergency Services Campus
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor E. Peloza BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. London Emergency Services Campus
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 1 minute with respect to this matter.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. London Emergency Services Campus
+
+> That the Infrastructure and Corporate Services Committee convenes In Closed Session for the purpose of considering advice that is subject to solicitor-client privilege, including communications necessary for that purpose related to the London Emergency Services Campus.
+
+**❌ Motion Failed (2 to 4) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
 ---
 
 ## Full Transcript
@@ -1061,91 +1148,3 @@ Thank you, I'm pleased to announce that we made huge progress for the items for 
 Thank you, everyone.
 
 </details>
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (3 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2.1. Biosolids Management Master Plan - Notice of Completion
-
-> That on the recommendation of Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the Biosolids Management Master Plan:    a)    the Notice of Completion BE FILED with the Municipal Clerk;    b)    the Biosolids Management Master Plan report BE PLAC...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 2.8. Expropriation of Lands - Phase 2 - Wellington Gateway Project Civil Works
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, Realty Services, approval BE GIVEN to the expropriation of land as may be required for the Welling...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. London Emergency Services Campus
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the Deputy City Manager, Neighbourhood and Community-Wide Services, with the concurrence of the Deputy City Manager, Environment and Infrastructure and the Deputy City Manager, Housing and Community Growth, on the advice of...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. London Emergency Services Campus
-
-> That the delegation request from C. Colvin, P. Verkley and K. McLean, Ontario Federation of Agriculture BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. London Emergency Services Campus
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor E. Peloza BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. London Emergency Services Campus
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 1 minute with respect to this matter.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. London Emergency Services Campus
-
-> That the Infrastructure and Corporate Services Committee convenes In Closed Session for the purpose of considering advice that is subject to solicitor-client privilege, including communications necessary for that purpose related to the London Emergency Services Campus.
-
-**❌ Motion Failed (2 to 4) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Jerry Pribil](/councillors/current/j-pribil), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Nay (4):** [Josh Morgan](/councillors/current/j-morgan), [Corrine Rahman](/councillors/current/c-rahman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-

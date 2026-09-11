@@ -585,6 +585,58 @@ Motion to change the order of business to deal with Item 5.1, Deferred Matters L
 
 
 The meeting adjourned at 4:00 PM.
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.3. 735 Wonderland Road North - (Z-9704)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 735 Wonderland Rd North Inc.  c/o Strik, Baldinelli, Moniz Ltd. relating to the property located at 735 Wonderland Road North: a)    the proposed by-law appende...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
+
+</details>
+
+### 3.4. Byron Gravel Pit Secondary Plan
+
+> Motion to amend the motion to: "AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys;"
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. Byron Gravel Pit Secondary Plan
+
+> AMEND Schedule 1 from 25% to 10% to 15% affordable housing;
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.4. Byron Gravel Pit Secondary Plan
+
+> Motion to approve the main motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1387,56 +1439,3 @@ Thank you, folks. Being that we've already dealt with deferred matters, that jus
 Thanks everyone.
 
 </details>
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 3.3. 735 Wonderland Road North - (Z-9704)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 735 Wonderland Rd North Inc.  c/o Strik, Baldinelli, Moniz Ltd. relating to the property located at 735 Wonderland Road North: a)    the proposed by-law appende...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Corrine Rahman](/councillors/current/c-rahman)
-
-</details>
-
-### 3.4. Byron Gravel Pit Secondary Plan
-
-> Motion to amend the motion to: "AMEND Schedule 1 from 18 storeys with an upper maximum of 22 storeys;"
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. Byron Gravel Pit Secondary Plan
-
-> AMEND Schedule 1 from 25% to 10% to 15% affordable housing;
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.4. Byron Gravel Pit Secondary Plan
-
-> Motion to approve the main motion, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-

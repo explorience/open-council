@@ -75,6 +75,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 11:39 AM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. 736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -139,18 +153,3 @@ So looking for a motion to adjourn moved by Councillor McAllister, seconded by C
 We are adjourned. Thank you.
 
 </details>
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2.1. 736-773 Dundas Street - Approval of Contribution Agreement with The London Cross-Cultural Learner Centre
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the following actions be taken with respect to the staff report, dated March 24, 2025, related to an Approval of a Contribution Agreement with The London Cross-Cultural Learner Centre for the property located at...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
