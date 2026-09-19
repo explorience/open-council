@@ -2,11 +2,11 @@
   "councillor": "Shawn Lewis",
   "slug": "s-lewis",
   "attendance": {
-    "totalMeetings": 500,
-    "present": 492,
+    "totalMeetings": 502,
+    "present": 494,
     "absent": 8,
     "remote": 2,
-    "attendanceRate": 98.4,
+    "attendanceRate": 98.40637450199203,
     "trend": [
       {
         "period": "2018",
@@ -58,99 +58,126 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 88.88888888888889,
-        "meetingsAttended": 24,
-        "meetingsTotal": 27
+        "attendanceRate": 89.65517241379311,
+        "meetingsAttended": 26,
+        "meetingsTotal": 29
       }
     ],
     "trendDirection": "declining"
   },
   "voting": {
-    "totalVotes": 9590,
-    "yeas": 8338,
-    "nays": 539,
+    "totalVotes": 9663,
+    "yeas": 8405,
+    "nays": 545,
     "absent": 262,
-    "participationRate": 92.56517205422314,
-    "yeaRate": 93.92812887236678,
-    "contestedDissentRate": 11.600471883602046,
-    "contestedVotes": 2543,
-    "substantiveVotes": 5792,
-    "substantiveYeas": 4684,
-    "substantiveNays": 539,
-    "substantiveParticipationRate": 90.1761049723757,
-    "substantiveYeaRate": 89.68026038675092
+    "participationRate": 92.621339128635,
+    "yeaRate": 93.91061452513966,
+    "contestedDissentRate": 11.58181111542946,
+    "contestedVotes": 2573,
+    "substantiveVotes": 5839,
+    "substantiveYeas": 4725,
+    "substantiveNays": 545,
+    "substantiveParticipationRate": 90.25518068162357,
+    "substantiveYeaRate": 89.6584440227704
   },
   "budgetVoting": {
-    "totalBudgetVotes": 893,
-    "budgetYeas": 726,
+    "totalBudgetVotes": 894,
+    "budgetYeas": 727,
     "budgetNays": 134,
     "budgetAbsent": 33
   },
   "topAlignments": [
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1806,
-      "agreedVotes": 1759,
-      "alignmentRate": 97.39756367663345
+      "sharedVotes": 1831,
+      "agreedVotes": 1784,
+      "alignmentRate": 97.43309666848717
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 4082,
-      "agreedVotes": 3952,
-      "alignmentRate": 96.81528662420382
+      "sharedVotes": 4107,
+      "agreedVotes": 3977,
+      "alignmentRate": 96.83467251034818
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3248,
-      "agreedVotes": 3124,
-      "alignmentRate": 96.18226600985221
+      "sharedVotes": 3262,
+      "agreedVotes": 3138,
+      "alignmentRate": 96.19865113427345
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 4112,
-      "agreedVotes": 3945,
-      "alignmentRate": 95.9387159533074
+      "sharedVotes": 4137,
+      "agreedVotes": 3968,
+      "alignmentRate": 95.91491418902586
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1574,
-      "agreedVotes": 1481,
-      "alignmentRate": 94.09148665819568
+      "sharedVotes": 1588,
+      "agreedVotes": 1495,
+      "alignmentRate": 94.14357682619648
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1563,
-      "agreedVotes": 1290,
-      "alignmentRate": 82.53358925143954
+      "sharedVotes": 1576,
+      "agreedVotes": 1302,
+      "alignmentRate": 82.61421319796955
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1622,
-      "agreedVotes": 1425,
-      "alignmentRate": 87.85450061652281
+      "sharedVotes": 1643,
+      "agreedVotes": 1444,
+      "alignmentRate": 87.88800973828363
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1625,
-      "agreedVotes": 1446,
-      "alignmentRate": 88.98461538461538
+      "sharedVotes": 1639,
+      "agreedVotes": 1457,
+      "alignmentRate": 88.89566809029897
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3603,
-      "agreedVotes": 3287,
-      "alignmentRate": 91.22953094643353
+      "sharedVotes": 3617,
+      "agreedVotes": 3299,
+      "alignmentRate": 91.20818357755046
     },
     {
-      "councillor": "Skylar Franke",
-      "sharedVotes": 1837,
-      "agreedVotes": 1676,
-      "alignmentRate": 91.23571039738705
+      "councillor": "Paul Van Meerbergen",
+      "sharedVotes": 3024,
+      "agreedVotes": 2760,
+      "alignmentRate": 91.26984126984127
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That Council convenes In Closed session for the purpose of considering the following: A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with r...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-07-21",
       "meetingTitle": "12th Meeting of Council",
@@ -213,49 +240,22 @@
       "vote": "nay",
       "result": "Motion Passed (13 to 1)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-09",
-      "meetingTitle": "The 9th Meeting of the Planning and Environment Committee",
-      "itemTitle": "Solicitor-Client Privilege",
-      "motionText": "That the Planning and Environment Committee rise and go into Committee, In Closed Session, for the purpose of considering the following: a matter pertaining to advice that is subject to solicitor-clie...",
-      "vote": "nay",
-      "result": "Motion Passed (5 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-02",
-      "meetingTitle": "9th Meeting of Council",
-      "itemTitle": "(3.3) 1103 & 1111 Westdel Bourne - OZ-25072",
-      "motionText": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 7)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-05-12",
-      "meetingTitle": "8th Meeting of Council",
-      "itemTitle": "(2.5) Next Steps for the Provincial Cargo Power-Assisted Bicycle Pilot (Relates to Bill No. 195)",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, with respect to the City’s participation in the Province of Ontario’s Cargo Power-assisted Bicycle (cargo e-bike) p...",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=36196cde-4600-4e4f-8874-7125d4e3232b&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4232,
-      "yeas": 3895,
-      "nays": 260,
-      "participationRate": 98.18052930056712
+      "totalVotes": 4278,
+      "yeas": 3935,
+      "nays": 266,
+      "participationRate": 98.20009350163627
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 2227,
-      "yeas": 2080,
+      "totalVotes": 2254,
+      "yeas": 2107,
       "nays": 42,
-      "participationRate": 95.28513695554558
+      "participationRate": 95.34161490683229
     },
     {
       "committee": "Strategic Priorities and Policy Committee",

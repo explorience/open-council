@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 598,
-    "present": 570,
+    "totalMeetings": 600,
+    "present": 572,
     "absent": 28,
     "remote": 6,
-    "attendanceRate": 95.31772575250837,
+    "attendanceRate": 95.33333333333334,
     "trend": [
       {
         "period": "2011",
@@ -82,99 +82,135 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 96.15384615384616,
-        "meetingsAttended": 25,
-        "meetingsTotal": 26
+        "attendanceRate": 96.42857142857143,
+        "meetingsAttended": 27,
+        "meetingsTotal": 28
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9884,
-    "yeas": 7678,
-    "nays": 1067,
-    "absent": 617,
-    "participationRate": 88.47632537434237,
-    "yeaRate": 87.79874213836479,
-    "contestedDissentRate": 33.1267217630854,
-    "contestedVotes": 2904,
-    "substantiveVotes": 7474,
-    "substantiveYeas": 5502,
-    "substantiveNays": 1067,
-    "substantiveParticipationRate": 87.89135670323789,
-    "substantiveYeaRate": 83.75704064545593
+    "totalVotes": 9937,
+    "yeas": 7707,
+    "nays": 1069,
+    "absent": 639,
+    "participationRate": 88.31639327764918,
+    "yeaRate": 87.81905195989061,
+    "contestedDissentRate": 33.104866346812884,
+    "contestedVotes": 2918,
+    "substantiveVotes": 7515,
+    "substantiveYeas": 5525,
+    "substantiveNays": 1069,
+    "substantiveParticipationRate": 87.7445109780439,
+    "substantiveYeaRate": 83.7882923870185
   },
   "budgetVoting": {
-    "totalBudgetVotes": 1277,
-    "budgetYeas": 954,
+    "totalBudgetVotes": 1278,
+    "budgetYeas": 955,
     "budgetNays": 261,
     "budgetAbsent": 39
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2980,
-      "agreedVotes": 2751,
-      "alignmentRate": 92.31543624161074
+      "sharedVotes": 2990,
+      "agreedVotes": 2760,
+      "alignmentRate": 92.3076923076923
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1541,
-      "agreedVotes": 1421,
-      "alignmentRate": 92.21284879948087
+      "sharedVotes": 1551,
+      "agreedVotes": 1430,
+      "alignmentRate": 92.19858156028369
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2943,
-      "agreedVotes": 2713,
-      "alignmentRate": 92.18484539585458
+      "sharedVotes": 2953,
+      "agreedVotes": 2720,
+      "alignmentRate": 92.1097189299018
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3014,
-      "agreedVotes": 2751,
-      "alignmentRate": 91.27405441274054
+      "sharedVotes": 3024,
+      "agreedVotes": 2760,
+      "alignmentRate": 91.26984126984127
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3074,
-      "agreedVotes": 2796,
-      "alignmentRate": 90.95640858815875
+      "sharedVotes": 3088,
+      "agreedVotes": 2809,
+      "alignmentRate": 90.96502590673575
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1416,
-      "agreedVotes": 1105,
-      "alignmentRate": 78.0367231638418
+      "sharedVotes": 1425,
+      "agreedVotes": 1113,
+      "alignmentRate": 78.10526315789474
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1407,
-      "agreedVotes": 1166,
-      "alignmentRate": 82.87135749822318
+      "sharedVotes": 1417,
+      "agreedVotes": 1176,
+      "alignmentRate": 82.99223712067749
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1503,
-      "agreedVotes": 1275,
-      "alignmentRate": 84.83033932135729
+      "sharedVotes": 1517,
+      "agreedVotes": 1288,
+      "alignmentRate": 84.90441661173368
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3017,
-      "agreedVotes": 2594,
-      "alignmentRate": 85.97944978455419
+      "sharedVotes": 3027,
+      "agreedVotes": 2604,
+      "alignmentRate": 86.02576808721506
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1541,
-      "agreedVotes": 1357,
-      "alignmentRate": 88.05970149253731
+      "sharedVotes": 1555,
+      "agreedVotes": 1370,
+      "alignmentRate": 88.10289389067523
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)",
+      "motionText": "That the following part BE APPROVED: i)   Council approval of the proposed Ark Aid location be required prior to the execution of any contract related to that location;",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...",
+      "vote": "yea",
+      "result": "Motion Failed (7 to 8)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...",
+      "vote": "yea",
+      "result": "Motion Failed (6 to 9)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That Council convenes In Closed session for the purpose of considering the following: A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with r...",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-07-21",
       "meetingTitle": "12th Meeting of Council",
@@ -228,51 +264,15 @@
       "vote": "yea",
       "result": "Motion Failed (3 to 11)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-16",
-      "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Downtown Reimagined: City of London Downtown Plan",
-      "motionText": "That the following part BE APPROVED: b)   the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-15",
-      "meetingTitle": "11th Meeting of the Infrastructure and Corporate Services Committee",
-      "itemTitle": "Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street",
-      "motionText": "That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...",
-      "vote": "nay",
-      "result": "Motion Passed (3 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=9c36b95b-0f57-4dda-b979-57f7b092d2f6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-02",
-      "meetingTitle": "9th Meeting of Council",
-      "itemTitle": "Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2",
-      "motionText": "That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deput...",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-02",
-      "meetingTitle": "9th Meeting of Council",
-      "itemTitle": "Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2",
-      "motionText": "That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6352,
-      "yeas": 5171,
-      "nays": 695,
-      "participationRate": 92.34886649874056
+      "totalVotes": 6398,
+      "yeas": 5193,
+      "nays": 697,
+      "participationRate": 92.06001875586121
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -304,10 +304,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 170,
-      "yeas": 146,
+      "totalVotes": 177,
+      "yeas": 153,
       "nays": 19,
-      "participationRate": 97.05882352941177
+      "participationRate": 97.17514124293785
     }
   ]
 }

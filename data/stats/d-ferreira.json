@@ -2,11 +2,11 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 240,
-    "present": 234,
+    "totalMeetings": 242,
+    "present": 236,
     "absent": 6,
     "remote": 1,
-    "attendanceRate": 97.5,
+    "attendanceRate": 97.52066115702479,
     "trend": [
       {
         "period": "2022",
@@ -35,196 +35,196 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 25,
-        "meetingsTotal": 25
+        "meetingsAttended": 27,
+        "meetingsTotal": 27
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4038,
-    "yeas": 3224,
-    "nays": 417,
-    "absent": 144,
-    "participationRate": 90.16840019811788,
-    "yeaRate": 88.54710244438341,
-    "contestedDissentRate": 27.099737532808398,
-    "contestedVotes": 1524,
-    "substantiveVotes": 3046,
-    "substantiveYeas": 2272,
-    "substantiveNays": 417,
-    "substantiveParticipationRate": 88.27971109652003,
-    "substantiveYeaRate": 84.49237634808479
+    "totalVotes": 4091,
+    "yeas": 3253,
+    "nays": 432,
+    "absent": 153,
+    "participationRate": 90.07577609386458,
+    "yeaRate": 88.27679782903664,
+    "contestedDissentRate": 27.566171723692705,
+    "contestedVotes": 1549,
+    "substantiveVotes": 3089,
+    "substantiveYeas": 2297,
+    "substantiveNays": 432,
+    "substantiveParticipationRate": 88.34574295888638,
+    "substantiveYeaRate": 84.1700256504214
   },
   "budgetVoting": {
-    "totalBudgetVotes": 463,
-    "budgetYeas": 364,
+    "totalBudgetVotes": 465,
+    "budgetYeas": 366,
     "budgetNays": 88,
     "budgetAbsent": 11
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1617,
-      "agreedVotes": 1524,
-      "alignmentRate": 94.24860853432281
+      "sharedVotes": 1635,
+      "agreedVotes": 1541,
+      "alignmentRate": 94.25076452599387
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1552,
-      "agreedVotes": 1452,
-      "alignmentRate": 93.55670103092784
+      "sharedVotes": 1566,
+      "agreedVotes": 1463,
+      "alignmentRate": 93.42273307790549
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1663,
-      "agreedVotes": 1546,
-      "alignmentRate": 92.96452194828623
+      "sharedVotes": 1677,
+      "agreedVotes": 1557,
+      "alignmentRate": 92.84436493738819
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1758,
-      "agreedVotes": 1617,
-      "alignmentRate": 91.97952218430035
+      "sharedVotes": 1775,
+      "agreedVotes": 1632,
+      "alignmentRate": 91.94366197183098
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1606,
-      "agreedVotes": 1464,
-      "alignmentRate": 91.15815691158157
+      "sharedVotes": 1620,
+      "agreedVotes": 1475,
+      "alignmentRate": 91.0493827160494
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1571,
-      "agreedVotes": 1277,
-      "alignmentRate": 81.28580521960535
+      "sharedVotes": 1585,
+      "agreedVotes": 1286,
+      "alignmentRate": 81.13564668769716
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1407,
-      "agreedVotes": 1166,
-      "alignmentRate": 82.87135749822318
+      "sharedVotes": 1417,
+      "agreedVotes": 1176,
+      "alignmentRate": 82.99223712067749
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1467,
-      "agreedVotes": 1268,
-      "alignmentRate": 86.43490115882754
+      "sharedVotes": 1481,
+      "agreedVotes": 1277,
+      "alignmentRate": 86.2255232950709
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1514,
-      "agreedVotes": 1339,
-      "alignmentRate": 88.44121532364598
+      "sharedVotes": 1528,
+      "agreedVotes": 1350,
+      "alignmentRate": 88.35078534031413
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1607,
-      "agreedVotes": 1423,
-      "alignmentRate": 88.55009334163036
+      "sharedVotes": 1621,
+      "agreedVotes": 1434,
+      "alignmentRate": 88.46391116594695
     }
   ],
   "notableDissents": [
     {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue",
-      "motionText": "That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the He...",
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)",
+      "motionText": "That the following part BE APPROVED: iii)   all proposed locations be subject to fire and by-law compliance review and sign-off by the appropriate City officials prior to the execution of any related ...",
       "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (10 to 5)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(3.7) 755-765, 785 and 815 Wonderland Road South - OZ-26061",
-      "motionText": "That the application dated July 14, 2026, from Westmount Development London Corporation related to the property at 755-765, 785 and 815 Wonderland Road South BE REFERRED to a future meeting of the Pla...",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That the matter relating to a City of London Special Constable Program BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of th...",
-      "vote": "yea",
-      "result": "Motion Failed (5 to 10)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That part e) of the motion be amended to read as follows: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Inform...",
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the amendment to the Emergency Shelter Guidelines motion, part d) i), BE RECONSIDERED to provide for...",
       "vote": "nay",
       "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That the following part BE APPROVED: That the motion BE AMENDED by replacing the words \"establishing a City of London Special Constable Program\" with \"implementing a permanent City of London Special C...",
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...",
       "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
+      "result": "Motion Passed (9 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That the following parts of the main motion, as amended, BE APPROVED: That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of ...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 5)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.4) City of London Special Constable Program",
-      "motionText": "That the following part of the main motion, as amended, BE APPROVED: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordin...",
-      "vote": "nay",
-      "result": "Motion Passed (13 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.5) By-law Enforcement Administrative Fees",
-      "motionText": "That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...",
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...",
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     },
     {
-      "date": "2026-06-17",
-      "meetingTitle": "10th Special Meeting of Council",
-      "itemTitle": "Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program",
-      "motionText": "That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...",
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the following part b) BE APPROVED: b)    the Civic Administration BE DIRECTED to implement the updated Emergency Shelter Guidelines;",
+      "vote": "nay",
+      "result": "Motion Passed (9 to 4)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
+      "motionText": "That the remainder of the motion, as amended, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)",
+      "motionText": "That, on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated August 12, 2026 as Appendix \"A\", BE INTRODUCED at the August 25, 2026 meeting of Municipal Cou...",
+      "vote": "nay",
+      "result": "Motion Passed (10 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "(2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)",
+      "motionText": "That the staff report dated August 12, 2026 related to amending the Council Procedure By-law A-61, by removing the requirement for the appointment of a Striking Committee for initial citizen appointme...",
       "vote": "yea",
-      "result": "Motion Failed (9 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English"
+      "result": "Motion Failed (3 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Introduction and First Reading of Bill No. 302, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-08-25",
+      "meetingTitle": "13th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No. 302, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (11 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 2119,
-      "yeas": 1795,
-      "nays": 241,
-      "participationRate": 96.08305804624823
+      "totalVotes": 2165,
+      "yeas": 1817,
+      "nays": 256,
+      "participationRate": 95.75057736720555
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
@@ -235,10 +235,10 @@
     },
     {
       "committee": "Community and Protective Services Committee",
-      "totalVotes": 468,
-      "yeas": 417,
+      "totalVotes": 475,
+      "yeas": 424,
       "nays": 35,
-      "participationRate": 96.58119658119658
+      "participationRate": 96.63157894736842
     },
     {
       "committee": "Budget Committee",
