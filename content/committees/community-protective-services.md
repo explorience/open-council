@@ -11,7 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
-- [Community and Protective Services Committee](</months/2026-09/2026-09-08 - Community and Protective Services Committee>) - Tue Sep 8 2026
+- [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026

@@ -2,21 +2,21 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 236
+meetingCount: 238
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4411
-votesYea: 3712
-votesNay: 355
+totalVotes: 4484
+votesYea: 3782
+votesNay: 358
 votesAbsent: 97
 votesRecused: 11
 votesAbstained: 1
 votesOther: 235
 attendanceRate: 98.3
-participationRate: 92.2
-yeaRate: 91.3
+participationRate: 92.3
+yeaRate: 91.4
 contestedDissentRate: 11.6
-contestedVotes: 1549
+contestedVotes: 1579
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,411 |
-| Voted Yea | 3,712 (84.2%) |
-| Voted Nay | 355 (8.0%) |
+| Total Votes | 4,484 |
+| Voted Yea | 3,782 (84.3%) |
+| Voted Nay | 358 (8.0%) |
 | Absent | 97 (2.2%) |
 | Recused (conflict of interest) | 11 (0.2%) |
 | Abstained | 1 (0.0%) |
-| Other/Unrecorded | 235 (5.3%) |
+| Other/Unrecorded | 235 (5.2%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,991 |
-| Voted Yea | 2,339 (86.8%) |
-| Voted Nay | 355 (13.2%) |
+| Substantive Votes | 3,038 |
+| Voted Yea | 2,383 (86.9%) |
+| Voted Nay | 358 (13.1%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 11.6%
-- **Contested Votes**: 1,549
+- **Contested Votes**: 1,579
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 460 |
-| Voted Yea | 340 (74.6%) |
+| Budget Votes | 461 |
+| Voted Yea | 341 (74.6%) |
 | Voted Nay | 116 (25.4%) |
 | Absent | 4 |
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.3%
-- **Meetings Attended**: 231 of 235
+- **Meetings Attended**: 233 of 237
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -88,7 +88,7 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 92.9% (26/28 meetings)
+  - 2026: 93.3% (28/30 meetings)
 
 
 ## Voting Alignment
@@ -96,12 +96,12 @@ prefillQuestions:
 **Most aligned with:**
 - Shawn Lewis (97.4%)
 - Steve Lehman (96.3%)
-- Steve Hillier (95.5%)
+- Steve Hillier (95.4%)
 
 **Least aligned with:**
-- Sam Trosow (82.7%)
-- Anna Hopkins (88.2%)
-- David Ferreira (88.6%)
+- Sam Trosow (82.8%)
+- Anna Hopkins (88.1%)
+- David Ferreira (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,882 | 165 | 96.6% |
+| Council | 2,165 | 1,925 | 168 | 96.7% |
 | Strategic Priorities and Policy Committee | 1,092 | 780 | 86 | 79.3% |
-| Planning and Environment Committee | 720 | 678 | 10 | 95.6% |
+| Planning and Environment Committee | 747 | 705 | 10 | 95.7% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
 | Community and Protective Services Committee | 122 | 101 | 13 | 93.4% |
 | Civic Works Committee | 102 | 95 | 7 | 100.0% |
@@ -122,6 +122,38 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Peter Cuddy voted against the final outcome:*
+
+### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: i)   Council approval of the proposed Ark Aid location be required prior to the execution of any contract related to that location;
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...
+
+Voted **Yea** - Motion Failed (6 to 9)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That Council convenes In Closed session for the purpose of considering the following: A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with r...
+
+Voted **Nay** - Motion Passed (9 to 6)
 
 ### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
 
@@ -171,42 +203,6 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 Voted **Yea** - Motion Failed (2 to 3)
 
-### 2026-06-09: Councillor C. Rahman - Third-Party Appeal Mechanism 
-
-[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
-
-> That the submission dated June 9, 2026, from Councillor C. Rahman related to Third-Party Appeal Mechanism, BE RECEIVED; 
-
-
-
-it being noted that the Planning and Environment Committee received the foll...
-
-Voted **Nay** - Motion Passed (3 to 2)
-
-### 2026-06-02: (3.3) 1103 & 1111 Westdel Bourne - OZ-25072
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a futu...
-
-Voted **Yea** - Motion Failed (7 to 7)
-
-### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
-
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
-
-Voted **Nay** - Motion Passed (10 to 4)
-
-### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
-
-Voted **Nay** - Motion Passed (7 to 6)
-
 
 ## Committees Served
 
@@ -220,8 +216,10 @@ Voted **Nay** - Motion Passed (7 to 6)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (236 total)
+## Recent Meetings (238 total)
 
+- [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
+- [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
@@ -230,5 +228,3 @@ Voted **Nay** - Motion Passed (7 to 6)
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026

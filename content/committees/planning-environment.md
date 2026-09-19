@@ -11,7 +11,7 @@ prefillQuestions:
 
 ## Recent Meetings
 
-- [Planning and Environment Committee](</months/2026-09/2026-09-09 - Planning and Environment Committee>) - Wed Sep 9 2026
+- [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026

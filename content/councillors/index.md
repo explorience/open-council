@@ -9,21 +9,21 @@ Browse London City Council members by their meeting attendance and voting record
 
 ## Current Council (2022-2026)
 
-- [Josh Morgan](/councillors/current/j-morgan) - 685 meetings
-- [Anna Hopkins](/councillors/current/a-hopkins) - 666 meetings
-- [Shawn Lewis](/councillors/current/s-lewis) - 529 meetings
-- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 528 meetings
-- [Elizabeth Peloza](/councillors/current/e-peloza) - 486 meetings
-- [Steve Hillier](/councillors/current/s-hillier) - 484 meetings
-- [Steve Lehman](/councillors/current/s-lehman) - 414 meetings
-- [Corrine Rahman](/councillors/current/c-rahman) - 270 meetings
-- [Jerry Pribil](/councillors/current/j-pribil) - 245 meetings
-- [David Ferreira](/councillors/current/d-ferreira) - 240 meetings
-- [Sam Trosow](/councillors/current/s-trosow) - 238 meetings
-- [Peter Cuddy](/councillors/current/p-cuddy) - 236 meetings
-- [Hadleigh McAlister](/councillors/current/h-mcalister) - 235 meetings
-- [Skylar Franke](/councillors/current/s-franke) - 225 meetings
-- [Susan Stevenson](/councillors/current/s-stevenson) - 221 meetings
+- [Josh Morgan](/councillors/current/j-morgan) - 687 meetings
+- [Anna Hopkins](/councillors/current/a-hopkins) - 668 meetings
+- [Shawn Lewis](/councillors/current/s-lewis) - 531 meetings
+- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 530 meetings
+- [Elizabeth Peloza](/councillors/current/e-peloza) - 488 meetings
+- [Steve Hillier](/councillors/current/s-hillier) - 486 meetings
+- [Steve Lehman](/councillors/current/s-lehman) - 416 meetings
+- [Corrine Rahman](/councillors/current/c-rahman) - 273 meetings
+- [Jerry Pribil](/councillors/current/j-pribil) - 247 meetings
+- [David Ferreira](/councillors/current/d-ferreira) - 242 meetings
+- [Sam Trosow](/councillors/current/s-trosow) - 240 meetings
+- [Peter Cuddy](/councillors/current/p-cuddy) - 238 meetings
+- [Hadleigh McAlister](/councillors/current/h-mcalister) - 237 meetings
+- [Skylar Franke](/councillors/current/s-franke) - 227 meetings
+- [Susan Stevenson](/councillors/current/s-stevenson) - 223 meetings
 
 ## Former Councillors
 

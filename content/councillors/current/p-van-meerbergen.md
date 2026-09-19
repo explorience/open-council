@@ -2,21 +2,21 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 528
+meetingCount: 530
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 9884
-votesYea: 7678
-votesNay: 1067
-votesAbsent: 617
+totalVotes: 9937
+votesYea: 7707
+votesNay: 1069
+votesAbsent: 639
 votesRecused: 74
 votesAbstained: 23
 votesOther: 425
 attendanceRate: 95.3
-participationRate: 88.5
+participationRate: 88.3
 yeaRate: 87.8
 contestedDissentRate: 33.1
-contestedVotes: 2904
+contestedVotes: 2918
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,10 +34,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,884 |
-| Voted Yea | 7,678 (77.7%) |
-| Voted Nay | 1,067 (10.8%) |
-| Absent | 617 (6.2%) |
+| Total Votes | 9,937 |
+| Voted Yea | 7,707 (77.6%) |
+| Voted Nay | 1,069 (10.8%) |
+| Absent | 639 (6.4%) |
 | Recused (conflict of interest) | 74 (0.7%) |
 | Abstained | 23 (0.2%) |
 | Other/Unrecorded | 425 (4.3%) |
@@ -51,9 +51,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,474 |
-| Voted Yea | 5,502 (83.8%) |
-| Voted Nay | 1,067 (16.2%) |
+| Substantive Votes | 7,515 |
+| Voted Yea | 5,525 (83.8%) |
+| Voted Nay | 1,069 (16.2%) |
 
 
 ### Dissent on Contested Votes
@@ -61,7 +61,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 33.1%
-- **Contested Votes**: 2,904
+- **Contested Votes**: 2,918
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,8 +72,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,277 |
-| Voted Yea | 954 (78.5%) |
+| Budget Votes | 1,278 |
+| Voted Yea | 955 (78.5%) |
 | Voted Nay | 261 (21.5%) |
 | Absent | 39 |
 
@@ -81,7 +81,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.3%
-- **Meetings Attended**: 570 of 598
+- **Meetings Attended**: 572 of 600
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -89,7 +89,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.2% (25/26 meetings)
+  - 2026: 96.4% (27/28 meetings)
 
 
 ## Voting Alignment
@@ -97,12 +97,12 @@ prefillQuestions:
 **Most aligned with:**
 - Steve Lehman (92.3%)
 - Peter Cuddy (92.2%)
-- Steve Hillier (92.2%)
+- Steve Hillier (92.1%)
 
 **Least aligned with:**
-- Sam Trosow (78.0%)
-- David Ferreira (82.9%)
-- Skylar Franke (84.8%)
+- Sam Trosow (78.1%)
+- David Ferreira (83.0%)
+- Skylar Franke (84.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,17 +111,49 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,352 | 5,171 | 695 | 92.3% |
+| Council | 6,398 | 5,193 | 697 | 92.1% |
 | Strategic Priorities and Policy Committee | 2,453 | 1,612 | 241 | 75.5% |
 | Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 187 | 168 | 9 | 94.7% |
-| Infrastructure and Corporate Services Committee | 170 | 146 | 19 | 97.1% |
+| Infrastructure and Corporate Services Committee | 177 | 153 | 19 | 97.2% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: i)   Council approval of the proposed Ark Aid location be required prior to the execution of any contract related to that location;
+
+Voted **Yea** - Motion Failed (5 to 10)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
+
+Voted **Yea** - Motion Failed (7 to 8)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...
+
+Voted **Yea** - Motion Failed (6 to 9)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That Council convenes In Closed session for the purpose of considering the following: A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with r...
+
+Voted **Nay** - Motion Passed (9 to 6)
 
 ### 2026-07-21: (2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
 
@@ -175,38 +207,6 @@ Voted **Nay** - Motion Passed (10 to 2)
 
 Voted **Yea** - Motion Failed (3 to 11)
 
-### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
-
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: b)   the actions identified in this Plan, that can be accommodated within existing approved budgets, BE IMPLEMENTED;
-
-Voted **Nay** - Motion Passed (11 to 2)
-
-### 2026-06-15: Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
-
-[11th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=9c36b95b-0f57-4dda-b979-57f7b092d2f6&Agenda=PostMinutes&lang=English)
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the award of contracts for Wellington Gateway and Municipal Infrastr...
-
-Voted **Nay** - Motion Passed (3 to 2)
-
-### 2026-06-02: Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That Council convene as the Approving Authority pursuant to the provisions of the Expropriations Act, R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication No. 1 from the Deput...
-
-Voted **Nay** - Motion Passed (13 to 1)
-
-### 2026-06-02: Expropriation of Lands - Wellington Gateway Project - Civil Works – Phase 2 – Report 2
-
-[9th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with the concurrence of the Director, Construction and Infrastructure Services, on the advice of the Director, R...
-
-Voted **Nay** - Motion Passed (13 to 1)
-
 
 ## Committees Served
 
@@ -219,8 +219,10 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (528 total)
+## Recent Meetings (530 total)
 
+- [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
+- [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
@@ -229,5 +231,3 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
 - [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [10th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-05/2026-05-27 10th Meeting of the Infrastructure and Corporate Services Committee>) - Wed May 27 2026
-- [8th Meeting of Council](</months/2026-05/2026-05-12 8th Meeting of Council>) - Tue May 12 2026

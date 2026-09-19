@@ -2,21 +2,21 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 240
+meetingCount: 242
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4038
-votesYea: 3224
-votesNay: 417
-votesAbsent: 144
+totalVotes: 4091
+votesYea: 3253
+votesNay: 432
+votesAbsent: 153
 votesRecused: 1
 votesAbstained: 4
 votesOther: 248
 attendanceRate: 97.5
-participationRate: 90.2
-yeaRate: 88.5
-contestedDissentRate: 27.1
-contestedVotes: 1524
+participationRate: 90.1
+yeaRate: 88.3
+contestedDissentRate: 27.6
+contestedVotes: 1549
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,038 |
-| Voted Yea | 3,224 (79.8%) |
-| Voted Nay | 417 (10.3%) |
-| Absent | 144 (3.6%) |
+| Total Votes | 4,091 |
+| Voted Yea | 3,253 (79.5%) |
+| Voted Nay | 432 (10.6%) |
+| Absent | 153 (3.7%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 4 (0.1%) |
 | Other/Unrecorded | 248 (6.1%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,046 |
-| Voted Yea | 2,272 (84.5%) |
-| Voted Nay | 417 (15.5%) |
+| Substantive Votes | 3,089 |
+| Voted Yea | 2,297 (84.2%) |
+| Voted Nay | 432 (15.8%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.1%
-- **Contested Votes**: 1,524
+- **Dissent Rate**: 27.6%
+- **Contested Votes**: 1,549
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 463 |
-| Voted Yea | 364 (80.5%) |
-| Voted Nay | 88 (19.5%) |
+| Budget Votes | 465 |
+| Voted Yea | 366 (80.6%) |
+| Voted Nay | 88 (19.4%) |
 | Absent | 11 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 97.5%
-- **Meetings Attended**: 234 of 240
+- **Meetings Attended**: 236 of 242
 - **Meetings Missed**: 6
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 100.0% (25/25 meetings)
+  - 2026: 100.0% (27/27 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (94.2%)
-- Skylar Franke (93.6%)
-- Hadleigh McAlister (93.0%)
+- Anna Hopkins (94.3%)
+- Skylar Franke (93.4%)
+- Hadleigh McAlister (92.8%)
 
 **Least aligned with:**
-- Susan Stevenson (81.3%)
-- Paul Van Meerbergen (82.9%)
-- Steve Hillier (86.4%)
+- Susan Stevenson (81.1%)
+- Paul Van Meerbergen (83.0%)
+- Steve Hillier (86.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,795 | 241 | 96.1% |
+| Council | 2,165 | 1,817 | 256 | 95.8% |
 | Strategic Priorities and Policy Committee | 1,084 | 729 | 91 | 75.6% |
-| Community and Protective Services Committee | 468 | 417 | 35 | 96.6% |
+| Community and Protective Services Committee | 475 | 424 | 35 | 96.6% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 123 | 92 | 0 | 74.8% |
 | Civic Works Committee | 55 | 52 | 0 | 94.5% |
@@ -122,85 +122,85 @@ prefillQuestions:
 
 *Recent split votes where David Ferreira voted against the final outcome:*
 
-### 2026-07-21: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
+### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the He...
+> That the following part BE APPROVED: iii)   all proposed locations be subject to fire and by-law compliance review and sign-off by the appropriate City officials prior to the execution of any related ...
 
-Voted **Nay** - Motion Passed (11 to 4)
+Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-07-21: (3.7) 755-765, 785 and 815 Wonderland Road South - OZ-26061
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That the application dated July 14, 2026, from Westmount Development London Corporation related to the property at 755-765, 785 and 815 Wonderland Road South BE REFERRED to a future meeting of the Pla...
-
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-07-21: (4.4) City of London Special Constable Program
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the matter relating to a City of London Special Constable Program BE REFERRED to the Municipal Council meeting to be held on August 25, 2026, in order to provide additional time for members of th...
-
-Voted **Yea** - Motion Failed (5 to 10)
-
-### 2026-07-21: (4.4) City of London Special Constable Program
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That part e) of the motion be amended to read as follows: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordinated Inform...
+> That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the amendment to the Emergency Shelter Guidelines motion, part d) i), BE RECONSIDERED to provide for...
 
 Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-07-21: (4.4) City of London Special Constable Program
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special C...
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
 
-Voted **Nay** - Motion Passed (10 to 5)
+Voted **Nay** - Motion Passed (9 to 6)
 
-### 2026-07-21: (4.4) City of London Special Constable Program
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...
-
-Voted **Nay** - Motion Passed (10 to 5)
-
-### 2026-07-21: (4.4) City of London Special Constable Program
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the following parts of the main motion, as amended, BE APPROVED: That the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee on the feasibility of ...
-
-Voted **Nay** - Motion Passed (10 to 5)
-
-### 2026-07-21: (4.4) City of London Special Constable Program
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the following part of the main motion, as amended, BE APPROVED: e) potential impacts on existing municipal service delivery models, including security services, Municipal Law Enforcement, Coordin...
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+> That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+> That the following part b) BE APPROVED: b)    the Civic Administration BE DIRECTED to implement the updated Emergency Shelter Guidelines;
 
-Voted **Yea** - Motion Failed (9 to 4)
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the remainder of the motion, as amended, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated August 12, 2026 as Appendix "A", BE INTRODUCED at the August 25, 2026 meeting of Municipal Cou...
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated August 12, 2026 related to amending the Council Procedure By-law A-61, by removing the requirement for the appointment of a Striking Committee for initial citizen appointme...
+
+Voted **Yea** - Motion Failed (3 to 10)
+
+### 2026-08-25: By-laws
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 302, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
+
+### 2026-08-25: By-laws
+
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 302, BE APPROVED.
+
+Voted **Nay** - Motion Passed (11 to 2)
 
 
 ## Committees Served
@@ -215,8 +215,10 @@ Voted **Yea** - Motion Failed (9 to 4)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (240 total)
+## Recent Meetings (242 total)
 
+- [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
+- [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
@@ -225,5 +227,3 @@ Voted **Yea** - Motion Failed (9 to 4)
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
