@@ -87,6 +87,18 @@ export const defaultContentPageLayout: PageLayout = {
     // Unified header for all pages (transparent on homepage, solid elsewhere)
     Component.UnifiedHeader(),
 
+    // Front Page v3: broadsheet hero + ghost numeral + stats column + the
+    // Division Wall. A LENS in front of the real homepage, not a
+    // replacement for it — HomepageHero's real chat (its idle prompt is
+    // hidden in favor of FrontpageWall's own .fp-assistant card, which
+    // forwards into it; see homepageHero.scss), DashboardView's browse
+    // rails, and the explorer all still render below, unchanged and
+    // fully working (see afterBody).
+    Component.ConditionalRender({
+      component: Component.FrontpageWall(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+
     // Homepage-specific components
     Component.ConditionalRender({
       component: Component.HomepageHero({
@@ -97,19 +109,10 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug === "index",
     }),
     // NavDropdowns removed - navigation now in hamburger menu (Issue #129)
-    Component.ConditionalRender({
-      component: Component.PrefillQuestions({
-        title: "Try asking:",
-        questions: [
-          "What major decisions did council make this year?",
-          "How has the budget changed over time?",
-          "What's the most debated topic in recent years?",
-          "What zoning changes were approved recently?",
-          "How did council vote on transit issues?",
-        ]
-      }),
-      condition: (page) => page.fileData.slug === "index",
-    }),
+    // PrefillQuestions removed from the homepage (verified design-gate
+    // finding: it duplicated FrontpageWall's own .fp-assistant-chips —
+    // two "Try asking" chip rows for the same underlying chat, "pick
+    // one"). The component itself is untouched for reuse elsewhere.
 
     // Non-homepage: show article title and watch button
     Component.ConditionalRender({

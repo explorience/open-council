@@ -19,7 +19,8 @@ body.advanced-mode {
   }
 }
 
-// Hide explorer on homepage initially (only show in advanced mode when toggled)
+// Hide explorer on homepage initially (revealed on demand by the
+// dashboard's "Browse All" action - see dashboardView.inline.ts).
 .page-footer > .explorer {
   display: none;
   max-width: 1000px;
@@ -30,8 +31,19 @@ body.advanced-mode {
   background: var(--light);
 }
 
-// Only show explorer when visible class is added AND in advanced mode
-body.advanced-mode .page-footer > .explorer.visible {
+// Verified design-gate finding: this used to require `body.advanced-mode`
+// as well, but nothing on the homepage ever adds that class - ModeToggle
+// (the only component that calls applyMode()/sets it) isn't wired into
+// quartz.layout.ts, so the "nav" listener that sets it always early-
+// returns on a missing .mode-toggle-btn. That made this rule permanently
+// unreachable: dashboardView.inline.ts's browseAllBtn handler could add
+// .visible all day and the explorer's `display: none` above would never
+// be overridden, which is exactly what the gate observed (Explorer's own
+// toggle buttons flipped their own aria-expanded state but the outer
+// wrapper's computed display never moved). The .visible class toggle is
+// already the real, sufficient signal - drop the dead prerequisite
+// instead of reviving a mode system nothing else in this build uses.
+.page-footer > .explorer.visible {
   display: block;
 }
 

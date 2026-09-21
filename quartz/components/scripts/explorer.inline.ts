@@ -267,12 +267,24 @@ document.addEventListener("prenav", async () => {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  await setupExplorer(currentSlug)
 
-  // if mobile hamburger is visible, collapse by default
+  // Verified design-gate finding: this "start collapsed on mobile" reset
+  // used to run AFTER `await setupExplorer()` below, which itself awaits
+  // a fetch of the site's content index. That gap is a real race - any
+  // explorer-open triggered while the fetch is still in flight (our own
+  // dashboardView "Browse All" reveal on the homepage, the header's mobile
+  // Browse trigger, or just a user tapping the toggle right after page
+  // load) got silently force-collapsed back out from under them the
+  // instant the fetch resolved, up to ~2s later on this build. The reset
+  // only ever touches static DOM (the `.explorer`/`.mobile-explorer`
+  // elements are already in the SSR'd page; setupExplorer only appends
+  // file-tree `<li>` nodes inside them), so it doesn't need the fetched
+  // data and belongs before the await, not after - this makes "start
+  // collapsed on a fresh nav" atomic with the nav event itself instead of
+  // racing whatever the user does in the meantime.
   for (const explorer of document.getElementsByClassName("explorer")) {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) return
+    if (!mobileExplorer) continue
 
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
@@ -284,6 +296,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
 
     mobileExplorer.classList.remove("hide-until-loaded")
   }
+
+  await setupExplorer(currentSlug)
 })
 
 window.addEventListener("resize", function () {
