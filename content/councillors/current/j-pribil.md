@@ -148,7 +148,7 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 ### 2026-06-08: Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 
 
-[9th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
+[9th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
 
 > That part c) BE APPROVED.
 
