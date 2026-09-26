@@ -1,1 +1,847 @@
-{"title": "The 8th Meeting of the Planning and Environment Committee", "datetime": "2026-05-26 13:00:00", "url": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=79a93c27-efca-4692-b074-6683fd02af6f&Agenda=PostMinutes&lang=English", "meeting_type": "Planning and Environment Committee", "bills": null, "present": ["S. Lehman", "S. Lewis", "P. Cuddy", "S. Stevenson", "S. Hillier"], "also_present": ["J. Pribil", "S. Trosow", "A. Hopkins", "S. Franke", "A. Abraham", "M. Butlin", "C. Cernanec", "M. Corby", "K. Gonyou", "P. Kavcic", "B. Lambert", "K. Mason", "S. Mathers", "C. Maton", "H. McNeely", "B. O'Hagan", "A. Riley", "A. Shaw", "M. Vivian", "L. Ahima"], "remote_attendance": ["D. Ferreira", "P. Lupa", "E. Skalski", "A. Yousfani"], "content": {"string": "The meeting was called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis and Councillor S. Hillier were in remote attendance.", "__class__": "Paragraph"}, "absent": [], "items": {"1": {"title": "Disclosures of Pecuniary Interest", "number": "1", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "2": {"title": "Consent", "number": "2", "content": [], "items": {"1": {"title": "(ADDED) 5th Report of the Community Advisory Committee on Planning", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Hillier", "__class__": "Mover"}, "motion_texts": [{"string": "That the 5th Report of the Community Advisory Committee on Planning, from its meeting held on May 21, 2026, BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}, {"vote": "Absent:", "voters": ["S. Lewis"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [{"empty_flag": false, "title": "2026-05-21 CACP Report", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124037", "date": "2026-05-21 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "3": {"title": "Scheduled Items", "number": "3", "content": [], "items": {"1": {"title": "198-200 Maitland Street - OZ-26026", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "", "__class__": "Mover"}, "seconded_by": {"string": "", "__class__": "Mover"}, "motion_texts": [{"string": "That the following actions be taken with respect to the application of 14264495 Canada Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 198-200 Maitland Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the proposed by-law as appended to the staff report dated May 26, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy in the Specific Polices for the Neighbourhoods Place Type and by ADDING the lands to Map 7 \u2013 Specific Policy Areas \u2013 of the Official Plan; and,\n\n\n\nb)\u00a0 \u00a0 the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone;\n\n\n\nIT BEING NOTED TO THE APPLICANT that CN Rail be contacted for the execution of an Agreement, registration of an environmental easement and to ensure the implementation of all other requirements in the Guidelines for New Development in Proximity to Railway Operations documents be incorporated into the development of the lands;\n\n\n\nit being noted that the Planning and Environment Committee received the following communication with respect to this matter:\n\n\n\n- \u00a0 \u00a0a communication dated April 13, 2026, from Gianfranco;\n\n\n\nit being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:", "__class__": "Paragraph"}, {"string": "-\u00a0 \u00a0 D. Murphy, Siv-ik Planning and Design Inc.;\n\n\n\nit being noted that, the Municipal Council approves this application for the following reasons:\n\n\n\n- \u00a0the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);\n\n- \u00a0the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and,\n\n- \u00a0the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Additional Votes:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 14264495 Canada Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 198-200 Maitland Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the proposed by-law as appended to the staff report dated May 26, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy in the Specific Polices for the Neighbourhoods Place Type and by ADDING the lands to Map 7 \u2013 Specific Policy Areas \u2013 of the Official Plan; and,\n\nb) \u00a0 \u00a0the proposed by-law as appended to the above noted staff report as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on June 2, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in the above-noted part a), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone;", "__class__": "Paragraph"}, {"string": "IT BEING NOTED TO THE APPLICANT that CN Rail be contacted for the execution of an Agreement, registration of an environmental easement and to ensure the implementation of all other requirements in the Guidelines for New Development in Proximity to Railway Operations documents be incorporated into the development of the lands;", "__class__": "Paragraph"}, {"string": "it being noted that, the Municipal Council approves this application for the following reasons:", "__class__": "Paragraph"}, {"string": "- \u00a0the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);\n\n- \u00a0the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and,\n\n- \u00a0the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the proposed by-law as appended to the above noted staff report as Appendix \"B\" to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone BE AMENDED to delete the text \u201cwhere there are no windows to habitable rooms\u201d from Part 2. b. iv. (Interior Side Yard Depth (minimum))", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the motion, as amended, BE APPROVED", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to open the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}, {"vote": "Absent:", "voters": ["S. Lewis"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (4 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to close the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [{"empty_flag": false, "title": "2026-05-26 (3.1) Staff Report - 198-200 Maitland St", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124033", "date": "2026-05-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "2": {"title": "119 & 127 Centre Street - OZ-26029", "number": "2", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kingsdale Development Inc. (Siv-ik Planning & Design Inc.) relating to the property located at 119 & 127 Centre Street:", "__class__": "Paragraph"}, {"string": "a) \u00a0 \u00a0the request to amend The Official Plan for the City of London, 2016 (The London Plan), by adding a new policy to the Specific Policies for the Neighbourhoods Place Type and adding the lands to Map 7 \u2013 Specific Area Policies, BE REFUSED for the following reasons:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0 the requested amendment is not consistent with the Provincial Planning Statement, 2024;\n\nii) \u00a0 \u00a0the requested amendment does not satisfy the criteria for adoption of Specific Area Policies; and,\n\niii) \u00a0 the requested amendment does not facilitate an appropriate form of residential intensification that is sensitive to and a good fit within the existing neighbourhood context, as required by the intensity and residential intensification policies for the Neighbourhoods Place Type;", "__class__": "Paragraph"}, {"string": "b) \u00a0 \u00a0the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R5 (h-101*R5-4) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED for the following reasons:", "__class__": "Paragraph"}, {"string": "i) \u00a0 \u00a0 the requested amendment is not consistent with the Provincial Planning Statement, 2024;\n\nii) \u00a0 \u00a0the requested amendment is not in conformity with The London Plan, including but not limited to the Residential Intensification policies in the Neighbourhoods Place Type;\n\niii) \u00a0 the proposed density cannot be appropriately accommodated on the subject lands and is not compatible with the surrounding neighbourhood; and,\n\niv) \u00a0 the requested amendment would result in over-intensification of the site;", "__class__": "Paragraph"}, {"string": "it being noted that the Planning and Environment Committee received the following communications with respect to this matter:", "__class__": "Paragraph"}, {"string": "- \u00a0 \u00a0a communication dated May 26, 2026, from L. Sooley, Siv-ik Planning and Design Inc.;\u00a0\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from A. Roa;\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from A. Roa;\n\n- \u00a0 \u00a0a communication dated May 20, 2026, from C. Reid;\n\n- \u00a0 \u00a0a communication dated May 22, 2026, from D. Murray;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from J. Whittingham;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from K. Krige;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from M. MacDonell;\n\n- \u00a0 \u00a0a communication dated May 22, 2026, from P. Ellison;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from S. Wright;\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from K. Gifford;\n\n\n\nit being pointed out that the following individuals made a verbal presentation at the public participation meeting held in conjunction with these matters:\n\n\n\n- \u00a0 \u00a0L. Sooley, Siv-ik Planning and Design Inc;\n\n- \u00a0 \u00a0D. Proctor;\n\n- \u00a0 \u00a0D. Murray; and,\n\n- \u00a0 \u00a0D. Camargo;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Additional Votes:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to open the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to close the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [{"empty_flag": false, "title": "2026-05-26  (3.2) Staff Report - 119 and 127 Centre Street", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124036", "date": "2026-05-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}, "3": {"title": "1103 & 1111 Westdel Bourne - OZ-25072", "number": "3", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the consolidation of additional lands to the subject property;\n\n\n\nit being noted that the referral was supported by the applicant in a verbal presentation;\n\n\n\nit being noted that the Planning and Environment Committee received the following communication with respect to this matter:\n\n\n\n- \u00a0 \u00a0a communication dated May 21, 2026, from P. Kitson, Westdell Development Corp.;\n\n\n\nit being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:", "__class__": "Paragraph"}, {"string": "- \u00a0 \u00a0S. Allen, MHBC Planning Urban Design and Landscape Architecture;\n\n- \u00a0 \u00a0C. Hayes;\n\n- \u00a0 \u00a0V. Stark;\n\n- \u00a0 \u00a0R. Stevenson; and,\n\n- \u00a0 \u00a0A. Papmehl;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "Additional Votes:", "__class__": "Paragraph"}], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by P. Cuddy", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by S. Stevenson", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to open the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}, {"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "Motion to close the public participation meeting.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [{"empty_flag": false, "title": "2026-05-26 (3.3) Staff Report - 1103 and 1111 Westdel Bourne", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124034", "date": "2026-05-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "4": {"title": "Items for Direction", "number": "4", "content": [{"string": "None.", "__class__": "Paragraph"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "5": {"title": "Deferred Matters/Additional Business", "number": "5", "content": [], "items": {"1": {"title": "Deferred Matters List", "number": "1", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the Deferred Matters List BE RECEIVED.", "__class__": "Paragraph"}], "vote": {"rows": [{"vote": "Yeas:", "voters": ["S. Lewis", "S. Hillier", "S. Lehman", "P. Cuddy", "S. Stevenson"]}], "__class__": "Vote"}, "result": {"string": "Motion Passed (5 to 0)", "__class__": "MotionResult"}, "post_motion_texts": [], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [{"empty_flag": false, "title": "2026-05-26 PEC Deferred Matters List", "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124035", "date": "2026-05-26 00:00:00", "local_page": null, "__class__": "Attachment"}], "report": null, "__class__": "MeetingItem"}}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}, "6": {"title": "Adjournment", "number": "6", "content": [{"pre_motion_texts": [], "moved_by": {"string": "Moved by S. Stevenson", "__class__": "Mover"}, "seconded_by": {"string": "Seconded by P. Cuddy", "__class__": "Mover"}, "motion_texts": [{"string": "That the meeting BE ADJOUNRNED.", "__class__": "Paragraph"}], "vote": {"rows": [], "__class__": "Vote"}, "result": {"string": "Motion Passed", "__class__": "MotionResult"}, "post_motion_texts": [{"string": "The meeting adjourned at 2:12 PM.", "__class__": "Paragraph"}], "__class__": "Motion"}], "items": {}, "datetime": "2026-05-26 13:00:00", "attachments": [], "report": null, "__class__": "MeetingItem"}}, "__class__": "Meeting"}
+{
+  "title": "The 8th Meeting of the Planning and Environment Committee",
+  "datetime": "2026-05-26 13:00:00",
+  "url": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=79a93c27-efca-4692-b074-6683fd02af6f&Agenda=PostMinutes&lang=English",
+  "meeting_type": "Planning and Environment Committee",
+  "bills": null,
+  "present": [
+    "S. Lehman",
+    "S. Lewis",
+    "P. Cuddy",
+    "S. Stevenson",
+    "S. Hillier"
+  ],
+  "also_present": [
+    "J. Pribil",
+    "S. Trosow",
+    "A. Hopkins",
+    "S. Franke",
+    "A. Abraham",
+    "M. Butlin",
+    "C. Cernanec",
+    "M. Corby",
+    "K. Gonyou",
+    "P. Kavcic",
+    "B. Lambert",
+    "K. Mason",
+    "S. Mathers",
+    "C. Maton",
+    "H. McNeely",
+    "B. O'Hagan",
+    "A. Riley",
+    "A. Shaw",
+    "M. Vivian",
+    "L. Ahima"
+  ],
+  "remote_attendance": [
+    "D. Ferreira",
+    "P. Lupa",
+    "E. Skalski",
+    "A. Yousfani"
+  ],
+  "content": {
+    "string": "The meeting was called to order at 1:03 PM; it being noted that Deputy Mayor S. Lewis and Councillor S. Hillier were in remote attendance.",
+    "__class__": "Paragraph"
+  },
+  "absent": [],
+  "items": {
+    "1": {
+      "title": "Disclosures of Pecuniary Interest",
+      "number": "1",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "2": {
+      "title": "Consent",
+      "number": "2",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "(ADDED) 5th Report of the Community Advisory Committee on Planning",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Hillier",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the 5th Report of the Community Advisory Committee on Planning, from its meeting held on May 21, 2026, BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Lewis"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (4 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-05-26 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-05-21 CACP Report",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124037",
+              "date": "2026-05-21 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "3": {
+      "title": "Scheduled Items",
+      "number": "3",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "198-200 Maitland Street - OZ-26026",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the following actions be taken with respect to the application of 14264495 Canada Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 198-200 Maitland Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the proposed by-law as appended to the staff report dated May 26, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy in the Specific Polices for the Neighbourhoods Place Type and by ADDING the lands to Map 7 \u2013 Specific Policy Areas \u2013 of the Official Plan; and,\n\n\n\nb)\u00a0 \u00a0 the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone;\n\n\n\nIT BEING NOTED TO THE APPLICANT that CN Rail be contacted for the execution of an Agreement, registration of an environmental easement and to ensure the implementation of all other requirements in the Guidelines for New Development in Proximity to Railway Operations documents be incorporated into the development of the lands;\n\n\n\nit being noted that the Planning and Environment Committee received the following communication with respect to this matter:\n\n\n\n- \u00a0 \u00a0a communication dated April 13, 2026, from Gianfranco;\n\n\n\nit being pointed out that the following individual made a verbal presentation at the public participation meeting held in conjunction with these matters:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "-\u00a0 \u00a0 D. Murphy, Siv-ik Planning and Design Inc.;\n\n\n\nit being noted that, the Municipal Council approves this application for the following reasons:\n\n\n\n- \u00a0the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);\n\n- \u00a0the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and,\n\n- \u00a0the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Additional Votes:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 14264495 Canada Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 198-200 Maitland Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the proposed by-law as appended to the staff report dated May 26, 2026, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on June 2, 2026, to amend The Official Plan for the City of London, 2016 (The London Plan), by ADDING a new policy in the Specific Polices for the Neighbourhoods Place Type and by ADDING the lands to Map 7 \u2013 Specific Policy Areas \u2013 of the Official Plan; and,\n\nb) \u00a0 \u00a0the proposed by-law as appended to the above noted staff report as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting on June 2, 2026, to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), as amended in the above-noted part a), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "IT BEING NOTED TO THE APPLICANT that CN Rail be contacted for the execution of an Agreement, registration of an environmental easement and to ensure the implementation of all other requirements in the Guidelines for New Development in Proximity to Railway Operations documents be incorporated into the development of the lands;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that, the Municipal Council approves this application for the following reasons:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- \u00a0the recommended amendment is consistent with the Provincial Planning Statement, 2024 (PPS);\n\n- \u00a0the recommended amendment conforms to The London Plan, including but not limited to the Key Directions, City Building policies, and the Neighbourhoods Place Type policies; and,\n\n- \u00a0the recommended amendment would permit residential intensification that is appropriate for the existing and planned context of the site and surrounding neighbourhood.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the proposed by-law as appended to the above noted staff report as Appendix \"B\" to amend Zoning By-law No. Z.-1, in conformity with The Official Plan for the City of London, 2016 (The London Plan), to change the zoning of the subject property FROM a Residential R2 (R2-2) Zone, TO a Residential R2/holding Residential R8 Special Provision (R2-2/h-6*R8-4(_)) Zone BE AMENDED to delete the text \u201cwhere there are no windows to habitable rooms\u201d from Part 2. b. iv. (Interior Side Yard Depth (minimum))",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the motion, as amended, BE APPROVED",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to open the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  },
+                  {
+                    "vote": "Absent:",
+                    "voters": [
+                      "S. Lewis"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (4 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to close the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-05-26 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-05-26 (3.1) Staff Report - 198-200 Maitland St",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124033",
+              "date": "2026-05-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "2": {
+          "title": "119 & 127 Centre Street - OZ-26029",
+          "number": "2",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kingsdale Development Inc. (Siv-ik Planning & Design Inc.) relating to the property located at 119 & 127 Centre Street:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "a) \u00a0 \u00a0the request to amend The Official Plan for the City of London, 2016 (The London Plan), by adding a new policy to the Specific Policies for the Neighbourhoods Place Type and adding the lands to Map 7 \u2013 Specific Area Policies, BE REFUSED for the following reasons:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0 the requested amendment is not consistent with the Provincial Planning Statement, 2024;\n\nii) \u00a0 \u00a0the requested amendment does not satisfy the criteria for adoption of Specific Area Policies; and,\n\niii) \u00a0 the requested amendment does not facilitate an appropriate form of residential intensification that is sensitive to and a good fit within the existing neighbourhood context, as required by the intensity and residential intensification policies for the Neighbourhoods Place Type;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "b) \u00a0 \u00a0the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Residential R5 (h-101*R5-4) Zone TO a Residential R9 Special Provision (R9-7(_)) Zone, BE REFUSED for the following reasons:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "i) \u00a0 \u00a0 the requested amendment is not consistent with the Provincial Planning Statement, 2024;\n\nii) \u00a0 \u00a0the requested amendment is not in conformity with The London Plan, including but not limited to the Residential Intensification policies in the Neighbourhoods Place Type;\n\niii) \u00a0 the proposed density cannot be appropriately accommodated on the subject lands and is not compatible with the surrounding neighbourhood; and,\n\niv) \u00a0 the requested amendment would result in over-intensification of the site;",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "it being noted that the Planning and Environment Committee received the following communications with respect to this matter:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- \u00a0 \u00a0a communication dated May 26, 2026, from L. Sooley, Siv-ik Planning and Design Inc.;\u00a0\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from A. Roa;\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from A. Roa;\n\n- \u00a0 \u00a0a communication dated May 20, 2026, from C. Reid;\n\n- \u00a0 \u00a0a communication dated May 22, 2026, from D. Murray;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from J. Whittingham;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from K. Krige;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from M. MacDonell;\n\n- \u00a0 \u00a0a communication dated May 22, 2026, from P. Ellison;\n\n- \u00a0 \u00a0a communication dated May 24, 2026, from S. Wright;\n\n- \u00a0 \u00a0a communication dated May 25, 2026, from K. Gifford;\n\n\n\nit being pointed out that the following individuals made a verbal presentation at the public participation meeting held in conjunction with these matters:\n\n\n\n- \u00a0 \u00a0L. Sooley, Siv-ik Planning and Design Inc;\n\n- \u00a0 \u00a0D. Proctor;\n\n- \u00a0 \u00a0D. Murray; and,\n\n- \u00a0 \u00a0D. Camargo;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Additional Votes:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to open the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to close the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-05-26 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-05-26  (3.2) Staff Report - 119 and 127 Centre Street",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124036",
+              "date": "2026-05-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        },
+        "3": {
+          "title": "1103 & 1111 Westdel Bourne - OZ-25072",
+          "number": "3",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the application of Westdell Development Corporation (c/o MHBC Planning, Urban Design & Landscape Architecture) relating to the property located at 1103 & 1111 Westdel Bourne BE REFERRED to a future meeting of the Planning and Environment Committee to allow the applicant to consider the consolidation of additional lands to the subject property;\n\n\n\nit being noted that the referral was supported by the applicant in a verbal presentation;\n\n\n\nit being noted that the Planning and Environment Committee received the following communication with respect to this matter:\n\n\n\n- \u00a0 \u00a0a communication dated May 21, 2026, from P. Kitson, Westdell Development Corp.;\n\n\n\nit being pointed out that the following individuals made verbal presentations at the public participation meeting held in conjunction with these matters:",
+                  "__class__": "Paragraph"
+                },
+                {
+                  "string": "- \u00a0 \u00a0S. Allen, MHBC Planning Urban Design and Landscape Architecture;\n\n- \u00a0 \u00a0C. Hayes;\n\n- \u00a0 \u00a0V. Stark;\n\n- \u00a0 \u00a0R. Stevenson; and,\n\n- \u00a0 \u00a0A. Papmehl;\n\n\n\nit being acknowledged that any and all oral and written submissions from the public, related to this application have been, on balance, taken into consideration by Council as part of its deliberations and final decision regarding these matters.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [
+                {
+                  "string": "Additional Votes:",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to open the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            },
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "Motion to close the public participation meeting.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-05-26 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-05-26 (3.3) Staff Report - 1103 and 1111 Westdel Bourne",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124034",
+              "date": "2026-05-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "4": {
+      "title": "Items for Direction",
+      "number": "4",
+      "content": [
+        {
+          "string": "None.",
+          "__class__": "Paragraph"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "5": {
+      "title": "Deferred Matters/Additional Business",
+      "number": "5",
+      "content": [],
+      "items": {
+        "1": {
+          "title": "Deferred Matters List",
+          "number": "1",
+          "content": [
+            {
+              "pre_motion_texts": [],
+              "moved_by": {
+                "string": "Moved by S. Stevenson",
+                "__class__": "Mover"
+              },
+              "seconded_by": {
+                "string": "Seconded by P. Cuddy",
+                "__class__": "Mover"
+              },
+              "motion_texts": [
+                {
+                  "string": "That the Deferred Matters List BE RECEIVED.",
+                  "__class__": "Paragraph"
+                }
+              ],
+              "vote": {
+                "rows": [
+                  {
+                    "vote": "Yeas:",
+                    "voters": [
+                      "S. Lewis",
+                      "S. Hillier",
+                      "S. Lehman",
+                      "P. Cuddy",
+                      "S. Stevenson"
+                    ]
+                  }
+                ],
+                "__class__": "Vote"
+              },
+              "result": {
+                "string": "Motion Passed (5 to 0)",
+                "__class__": "MotionResult"
+              },
+              "post_motion_texts": [],
+              "__class__": "Motion"
+            }
+          ],
+          "items": {},
+          "datetime": "2026-05-26 13:00:00",
+          "attachments": [
+            {
+              "empty_flag": false,
+              "title": "2026-05-26 PEC Deferred Matters List",
+              "url": "https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=124035",
+              "date": "2026-05-26 00:00:00",
+              "local_page": null,
+              "__class__": "Attachment"
+            }
+          ],
+          "report": null,
+          "__class__": "MeetingItem"
+        }
+      },
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    },
+    "6": {
+      "title": "Adjournment",
+      "number": "6",
+      "content": [
+        {
+          "pre_motion_texts": [],
+          "moved_by": {
+            "string": "Moved by S. Stevenson",
+            "__class__": "Mover"
+          },
+          "seconded_by": {
+            "string": "Seconded by P. Cuddy",
+            "__class__": "Mover"
+          },
+          "motion_texts": [
+            {
+              "string": "That the meeting BE ADJOUNRNED.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "vote": {
+            "rows": [],
+            "__class__": "Vote"
+          },
+          "result": {
+            "string": "Motion Passed",
+            "__class__": "MotionResult"
+          },
+          "post_motion_texts": [
+            {
+              "string": "The meeting adjourned at 2:12 PM.",
+              "__class__": "Paragraph"
+            }
+          ],
+          "__class__": "Motion"
+        }
+      ],
+      "items": {},
+      "datetime": "2026-05-26 13:00:00",
+      "attachments": [],
+      "report": null,
+      "__class__": "MeetingItem"
+    }
+  },
+  "__class__": "Meeting",
+  "transcript": "Good afternoon, everyone. It's just a little past one o'clock, so I'm gonna call the eighth meeting of the Planning Environment Committee to order. Please check the city website for additional meeting detail information. The city of London is situated on the traditional lands of the Anishinaabak, Odenotianay, Lenapeiwaak, and Adirondaran. We honor and respect the history, languages, and culture of the diverse, indigenous people who call this territory home. The city of London is currently home to many First Nations, M\u00c3\u00a9tis, and Inuit today, as representatives of the people of the City of London, we are grateful to have the opportunity to work and live in this territory. The City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact PEC at London.ca or 519-661-2489, extension 2425. At this time, I'd like to just like to mention that Councillor, Councillor Hillier has joined us online and I expect the Deputy Mayor Lewis to be joining us as well shortly. First item, I'll look for any disclosures of pecuniary interest. Seeing none, we will move to a consent item. We had one added, so I'll look for a motion from committee, Councillor Cuddy. I'll move the motion. You're gonna move to receive that report. All of our seconder, Councillor Hill here has seconded. Any comments or questions? Seeing none, we'll call the vote. Close in the vote, the motion carries 40-0. Okay, moving on to 3.2, I'm sorry, 3.1 of our first scheduled item. This is regarding 198 to 200 Maitland Street. I'll look for a motion to open the public participation meeting. Councillor Stevenson seconded by Councillor Cudi and we'll call that vote. Close in the vote, the motion carries 40-0. Okay, before I go to the folks in the gallery, I wanna apologize folks for the darkness up there . We're having some repairs done. So bear with me, I know especially at this side, it's probably difficult to read your notes. So again, I apologize with that. So I'll look for the applicant. Please give us your name and you have five minutes. Good afternoon, chairs, chair and members of committee. My name is Dan Murphy. I'm a planner with civic planning and design. On behalf of our applicant, Oscar Holmes. The subject land at 200 Maitland Street is a vacant corner law to the intersection of Maitland and Simcoe streets in the Soho neighborhood. A single detached dwelling was demolished here in 2022 and the site has sat empty ever since. This application proposes to return this vacant site into a productive use. We're seeking a official plan amendment and zoning bylaw amendment to permit three and a half story eight unit residential building, representing a modest missing middle form on a unique site that's compatible with its surrounding neighborhood and is consistent with the city's intensification objectives close to existing and future transit opportunities. This proposal is consistent with the provincial policy statement, planning statement, and the London plan. We do wish to raise one clarification in regard to the proposed zoning by-law. The 1.8 meter interior side yard setback was previously established through the minor variance, which is approved by the Committee of Adjustment in January 2025. The setback was carried forward into the requested by-law. However, there was some confusion some of the finer details of the by-law resulting in that alternative provision of 1.8 meters where there are no windows to habitable rooms. This qualification was not part of the approved variance and introduces a condition that goes beyond what was previously accepted. We've had really productive discussions with staff towards a resolution here. Staff are amenable to removing this qualification and we are respectfully requesting the committee endorse the minor adjustment to to the proposed by-law to reflect the 1.8 meter interior side yard, setback as it was originally approved a committee of adjustment without the habitable room condition. With that said, we're supportive of the staff recommendation, and I'm here to answer any questions. Thank you. I'll look for other members of the public. I would like to address the committee on this matter. Clerk, if there's anyone online, nobody online. I don't see anyone approaching the microphone. So I'll look for motion to close the PPM. Councillor Stevenson seconded by Councillor Cardi, and we'll call that vote. Okay. Close in the vote, the motion carries five to zero. Okay, thank you. Okay, I'll put this item on the floor for committee. Councillor Cudi, thank you Chair and through you. I'd like to move the staff recommendation. Okay. I'll look for a seconder. Councillor Stevenson is seconded. The motion moved and seconded. I'll look for, I'll answer questions. Councillor Stevenson. It's all working you. You know, it's good. Do we have the, Could we hear from staff regarding the change that was just discussed? I'll go to staff. Thank you, through the chair. Staff are agreeable to the changes. The requested revisions are appropriate given the neighborhood context and would be consistent with the underlying our residential R2 zone and the proposed residential R8 zone. We did provide language in advance to the clerk's department for this change. Councilor. Thank you. I'd like to move that change then, that amendment . Okay, just hold on a second, okay. Okay, we're gonna treat that as amendment to the main motion. So I'll need a seconder for that. I mean, Councilor Cuddy has seconded that amendment. I look for any conversation on that for a call to vote. Seeing none, we'll call the vote on the amendment . Those in the vote, the motion carries five to zero. I'm gonna go back to the original mover and seconder to see if I assume you are being supported. Okay, so there are in support. So now we've got the motion in front of us as amended. So I'll look for any comments on that. Councilor Stevenson. Thank you through you the staff. I just wondered if there was a comment. There was one letter in here that asked about parking. So I know this is at the 0.5 parking spaces. Was there any talk or any way to accommodate more parking? I'll go to staff. Thank you through the chair. Staff are supportive of the current parking rate of 0.5 spaces totaling four units for the number of, four spaces, sorry for the number of residential units. Given the location of this property being within central London in close proximity to the, So it's in the primary transit area and in close proximity to the rapid transit corridor. It does provide access to public transit options. So staff are accepting of that reduced rate of, sorry, the current rate at 0.5 for four spaces. Tell us right. Thank you. Yeah, just given that there's a lot of discussion about 0.5 not being adequate and us looking at the one to one, just wondering maybe, I don't know if the developer has anything to say or staff around, Could we put something in here to ask for the in the site review to just explore additional parking spaces or any recommendations that way to honor the concern around parking? I'll go staff. Thank you. Through the chair, given that this application does not proceed through site plan, it would proceed right to the building permit stage where the current zoning bylaws 0.5 would apply requiring those four spaces. Councilor. Okay, that's it for now, thanks. I look for other comments or questions from committee members who are visiting council ors. Councilor Ferrer. Thanks, Chair. Through you, I got into this meeting while I heard the proponent speaking there. I do hear, I did see the comment for the parking. I did meet with the proponent previously on parking and I do understand that there is a couple of accessibility spots and other spots. So from what I understand, there were some constraints on the parking. I was wondering if we could go to the proponent and maybe speak to just the site itself and the discussion that we had on the parking and the, I guess the existing constraints we had on that. So I'll go to the applicant care to comment on kind of the, I guess some comments in general in the parking situation you've heard from committee members and councilor Freire as well as his comments. Through the chair, the site as staff mentioned is then a readily accessible area for transit BRT within less than a five minute walk, there's five existing LTC stops within a two minute walk. With that, the site is relatively small. There's only a room to feasibly fit those four spaces. Our client is also looking to rent out these two individuals who may not have a car, and that would be advertised in the rental ad. Thank you, our councilor. Thank you for that. And then just one last question. regarding the railroad tracks right behind there and sound mitigation between the rear apartments facing the rail line and the actual tracks themselves. I just wanted to know if we could get on the record what has been planned for that. So I'll go to staff on that question regarding sound mitigation from the tracks behind the property. Thank you through the chair. So CN rail was circulated and did provide common as part of this application. Given this is not going through site plan. We are limited in terms of requiring certain mitigation measures in a development agreement. However, as part of the recommendation, we have noted to the applicant that they are to contact CN Rail for an execution of the agreement with CN Rail, the environmental easements, and then just implementing the full guideline requirements provided by the railway operations. Councillor. Okay. Thank you for that. No questions. I appreciate the application. I do see that this is a underutilized space obviously. I have spoken with some residents. I do understand the parking concerns. I spoke with the neighborhood community association as well. They're seeking to bring a space that is not used with some use to it. So I think just everything that I saw in the report, I support the report. I support the the amendment here and I'll be doing that at council. So thank you. I look for other comments or questions. We have a motion moved in and second, I'll call the vote. Close in the vote, the motion carries five to zero. Thank you, I'm moving on to 3.2, this is regarding 119 and 127th Center Street. I'll open the public participation meeting, Councillor Stevenson, seconded by Councillor Cudi , and we'll call that vote. Close in the vote, the motion carries five to zero. Thank you, so I'll look to the applicant, the applicant would like to address committee. Please give us your name, and you have five minutes. Good afternoon, Chair, members of committee. My name is Lauren Suley, and I'm a planner with Civic Planning and Design Inc. I'm here today representing our applicant for this project, Kingsdale Development Inc, who's a leading land developer with over 20 years of experience in the greater Toronto area. In response to staff's recommendation, we respectfully disagree with the rationale for refusal of this application. We feel the proposal before you represent, represents an efficient use of land and represents good planning without undermining the policies of the London Plan. Contrary to staff's position, this site is sufficiently unique to warrant a special policy area. It is the last remaining viable infill development parcel in this area and occupies a distinct location between an area of established low density residential to the west and a significant cluster of high rise development to the east. Given this context, we see this as a perfect fit and a logical transition site rather than imposing a firm divider line between the high-rise apartment buildings and the existing townhouses. The proposal represents an opportunity to make efficient use of the underutilized lands consistent with the policies of both the London Plan and the Provincial Planning Statement. Given the unique context of the property, intensification can occur in a matter that provides an appropriate transition in scale and intensity and is simply a logical fit. Furthermore, the proposed concept does not result and adverse impacts with respect to shadowing, servicing or traffic as outlined in the planning and design brief that was submitted as part of this application. It's our opinion that this is a highly defensible plan and that balances municipal and provincial planning priorities. We feel that staff's position for development on this property would be an underutilization of the site and doesn't give specific regard for the uniqueness of the situation nor an efficient use of land and infrastructure. Unfortunately, through conversations with staff, there appears to be limited openness towards an official plan amendment, and there's no clear path towards a resolution through this process. We respectfully ask the planning and environment committee to support our applications and direct staff to prepare the necessary official plan and zoning by-law amendments for council approval . Thank you for your time, and I'm available to answer any questions. Thank you. I'll look for other speakers from the public on this particular item. please sir, give us your name and you have five minutes. Doug Proctor, and I wanna thank you for allowing me to have this opportunity. I'm glad to see that the committee, the staff have refused two items on this. I'm not familiar with the R5 and the R9 and all this sort of stuff, but there are issues here that I've raised in my submission that I have provided to the committee. The area is designated for a heights of one to three stories and the proposed plan is for a 10 story building the 156 units. This well exceeds the current permissible property standards and apartments are not listed as not permitted in this area. The plan is not compatible with the existing surrounding neighborhood, which is characterized by lower and density development. And I've also provided a breakdown on the high-rise buildings that are in the area. They're currently within that area between Warren Cliff and West Street is 8.8/10 of a kilometer and there there are 1,369 apartment units. This does not, the department units, townhouses and condos. This does not include the individual houses on Center Street, Gateswood, Galt or on baseline road. And as well, there is already a proposed or a planned apartment building to go on baseline road west for 174 units. It's been in the planning session for, I guess, has been approved for probably four years or more. And as well, it looks like from what I can see and information has been provided by the committee and the staff is that everything that goes along with this plan which is required is all falls below what is required by the by the regulations front yard depth 10 meters proposed 6 meters so in essence what they're doing is reducing all of the frontage and property value property determinations within this within this plan and thank you thank you a look for the next speaker please ma'am give us your name you have five minutes thank Thank you. My name is Donna Murray. I am a resident at 120 Center Street, which is directly across from the proposed site. I have many concerns, some of which have already said, but I'm particularly concerned about the increased traffic that this proposed building would bring to our area. Center Street is located off warm cliff, but because trying to turn onto warm cliff is usually a nightmare and often unsafe with the heavy, heavy traffic, what people do is Because they will come down Center Street to turn left onto Cotswold and go up to baseline. This makes that area very busy already. When you come just past the, right in front of the building, the road narrows. So you literally, one person has to pull over for another person to go through. So having added traffic into that is not going to help already. In my complex, so directly across, there are over 100 units in that complex alone. In addition to the two other complexes on baseline or around center and the two apartment buildings. In addition, twice a day, parents are parked on both sides of Cotswold near baseline because they're waiting for the school bus to come. School bus, they're lined up with kids in the morning. The school bus comes. There's also, if you turn right on to baseline, there's a city bus stop right there. The area can become very, very congested. There's a lot of pedestrians and children around. So I think it is really unsafe to think of adding hundreds more, not hundreds, but maybe a hundred more cars because many of those apartment buildings will have two cars. I'm also very concerned about the building not having enough parking because many of the residents on Center use Center Street for extra parking. And I don't know where we would have anybody park because residents would be using that. In the winter, they wouldn't be able to be there overnight, so I don't know where they would put their cars then. It just seems like they are trying to cram way too many people into this very small area and the traffic in that whole area, Baseline Morn cliffe Center, has become very, very heavy and very unsafe at times. Also I don't live on Godswell, but I feel for the people who would have a 10-story apartment building looming over their home and backyard. I think we also have to think about the people living in that area and keeping it a livable area and an enjoyable area to live and I don't think putting a 10-story apartment building is going to be good for any of the residents in that area. Thank you. Thank you. I'll look for that speaker. See someone is online. Deborah, can you hear me? Yes, I can hear you. Please go ahead. You have five minutes. Okay. My name is Deborah. I'm a resident on the neighborhood near the proposed development area and I want to express my opposition to the building construction and here are a few reasons why. So the first one, the proposed 10-starred building isn't comfortable with the existing low-rise character of the neighborhood and so the development would impact the visual harmony and residential character of the area nearby homes and it would experience reduced privacy and increased overshadowing. The second reason is approving this project would create a harmful present for future over development in the community as is proposed to undermine is the intent of existing zoning regulations designed to protect neighborhood. The third reason is parking is insufficient as it is, with only 119 spaces proposed out of the 156 units. The parking shortage will likely force residents to rely heavily on street parking, especially considering that central street is narrow and already difficult for the two-way traffic. development of this magnitude would increase traffic congestion, exit parking would interfere with emergency and service vehicles. The fourth reason is there's no sidewalk on the one side of the street forcing pedestrians to walk on the roadway, increase traffic and park vehicles would reduce pedestrian safety. The fifth reason is that the exit of warning cliff is already congested as it is and as far as I know this project does not take this issue into accounting so having more than 200 residents would likely require trough collides and more infrastructure there and lastly the developer I don't know I think the developer has not clearly explained how drainage and water management issues would be addressed and this is a huge concern of mine but that's it thank you for the opportunity to express my concerns. Thank you I look for other speakers on this application I don't see anyone coming to the mic I'll check with the clerk. See if there's anyone else online. There's nobody else online. So I'll look for motion to close the PPM, Councillor Cudi, seconded by Councillor will call the vote. The motion carries by Bezier. So I will put this on the floor for committee members. Councillor C udi, thank you Chair and through you. I'll move the staff recommendation. And I see Councillor Stevenson will second that. So we have a motion moved and seconded and I'll look for comments or questions from committee members or visiting Councillor Councilor Frank. Thank you and I appreciate coming to this committee for folks who don't know I'm not on this committee but we're always welcome as visitors and I just wanted to first off thank staff for their work on the file as well as the engagement of the residents. We had a couple in the gallery and online but as you guys saw in the report and via email we had many more residents share their thoughts and I just wanted to kind of summarize where I'm landing and I appreciate council members for putting the staff refusal on the floor. for the past four years at council, I've very consistently supported Infill and Intensification because I believe we need more housing in our city. But I also believe that we need complete communities growing inwards and upwards, and I've generally supported developments that create that density and those infill opportunities. But that doesn't mean that we support every single proposal that goes forward, and I personally have not supported every application. But in this case, I am not supportive of the application and I would support the staff refusal at council. In the past four years, this area has had many infill applications and appreciate the patience of the neighbors. There's nine townhouses at 144 baseline road, which used to be a single family home, a jump from 15 units to 30 units at 145 baseline road, which we've seen in the news. We've had some struggles with that. 61 units at 122 baseline road, which is just south, 77 units at 80 to 82 baseline road west, 176 units as was referenced at 129 and 131 baseline road. And that's all within a one kilometer radius and within the last three to four years. So, I appreciate the community's ability to accept those infill applications that already exist. And I also know that there is still potential for infill applications in the general neighborhood. So, I don't think that this has come to fully to rest. So, what I'm trying to say is, I think that this neighborhood and area has already had an incredible amount of intens ification. And I appreciate now how the cumulative changes are impacting the residents, which is what we saw in a lot of their engagement . And for me, in my four years as the word counselor, this application has been the one that I've received the most communication on. And I think that you notice in most of the emails that folks are generally okay with a three to four-story apartment building, they have indicated that they want perhaps something that's a bit more gradual into area, east and north, or west and north of this site, there's single family homes and townhouses. And yes, there are apartment buildings to the east, but this is at the very end of that corridor. If this was downtown, I would probably have a different opinion, but it 's not. So having listened to residents and again, appreciate the emails and the phone calls and the offering of a meeting, reviewing the playing materials, discussing with the applicant and weighing the need for housing in the area. I don't necessarily think this is the right fit, so I will be supporting staff's refusal at council. Thank you. I'll look for other comments or questions from committee or visiting councilors. Councilor Trassel. Thank you, thank you very much through the chair. Also, I'm not a member of this committee. I'm here as a guest. I've read through all of the staff report and all of the, I think, very well-written comments that have been received in this file. I've listened to the developer's application today trying to explain why the staff report is maybe should be reviewed. I don't think it's persuasive, And I will be supporting the staff report. I will always err on the side of supporting the ward counselor, if it's a reasonable argument, which it is here. No, I don't want to sound like a broken record. And you know what's coming, because I say this about every application. And when I say that you receive these, rather-- and I'm using the term very decidedly. Boiler plate transportation impact analysis. They all look the same and they're all predictable. I don't even, I could just go down to the bottom and see that what's happening is time and time again, we don't look at the overall context of the community. Time and time again, we don't look at the cumulative impacts of this particular project taken together with others that have recently been done or are in the works. So I particularly appreciated the word counselor running through what some of the other applications and developments are in the area. This should not be confused with a group of residents that are single-mindedly opposing an application just because they don't want any change. Everyone understands that we are going to be going through a period of intensification. And there's quite a bit of territory within the scope of this missing middle. And we've got a missing, missing middle. And I'd like to see some of these applications pushed back into a category of missing middle. And I think you would see less resistance from the neighborhood. The particular question I have for staff through the chair. I understand that these transportation impact analyses are written pursuant to a set of guidelines that the city has. Would it be within the ability of this council to make some changes in those guidelines? Councilor. I want you to focus on this. I am absolutely focusing on that. I don't want to get into generalities here. You could tie your question back into this particular application, please. Was there a way that this particular application could have been not accepted as complete on the grounds that there needed to be a cumulative impact analysis for traffic and transportation they'll go to staff through the chair our transportation colleagues are online and i'll pass it to them if they want to comment first yeah through the chair yeah we have received the transportation impact assessment for this proposed development and staff has identified some of the key issues which we are waiting for the consultant to respond back to us like the inclusion of the are the warrant analysis for the left-running land on Warrenklef Road at Central Avenue Street, and also there should be an eastbound left-run land on Central Avenue which will mitigate the congestion and delay to the left-running traffic. So, obviously, there are some parking issues, so we have raised those issues. Thank you. Sounds good. Thank you. That's somewhat helpful. If, how can we approve this application at this table if we're still waiting for these, think very important issues to be resolved. I'll go stop. Through the chair I can take that question. So with this being the official plan and zoning by-law amendment right now, the transportation impact assessment can be refined through the site plan process, but in saying that the public won't see that, that review, that detailed review, so I can appreciate the concern. With some of the changes, recent changes to the Planning Act, specifically around prescribed persons. If there is an engineer stamp on an engineering report, the city has to accept that report in its entirety as part of a complete application for an official plan and zoning by-law amendment. At the state of accepting the application is complete, does the city have any latitude in terms of putting an additional requirement in the traffic study. Go staff. Yeah, go to the chair. Sorry. I'll, I'll take this one. Please go through the chair. Those would be matters as Mr. Kavic identified as more for the detailed design review that would be managed for the site plan approval authority to consider should committee and ultimately council request certain things for the approval authority to site plan approval authority to consider you could add that in now. Also answering in terms of that the community impact there is the master mobility plan that is an overarching study of city wide and then these assessments the traffic impact assessments then would look at more than neighborhood context so that's the the hierarchy in the structure and that's what our transportation division would be looking at. Councilor then if i may ask through the chair how do we ensure some some compliance and harmony with the master mobility plan? How about staff? Through the chair, that would be a question for transportation. Transportation, please go ahead. Through the chair, can you please repeat the question? Sorry. Please repeat the question, Councillor. How does the staff reviewing an application ensure that it is in keeping is consistent, is in harmony with the master mobility plan, which is a decided matter of this council? Right, so through the chair, we have transportation impact assessment guidelines and according to the TIA guidelines, the new development proposal along any street, along any public street will need to be reviewed in terms of master mobility directions and actions like the report should or the development should comply with the multimodal transportation perspective like minimizing the single occupancy vehicles and having pedestrians sidewalks connections which are connected to the site plan and something. So also the new proposed development will not have negative impact on the existing network if there is any impact so that impact should be evaluated in terms of in terms of safety or in terms of congestion and so on. So the proper mitigation measures have to be identified in the traffic report. So there is a collaborative effort between the TIA guidelines and the multimodal master plan. I think I won't wait until I go. Sorry, I'll call on you, okay? Please go ahead. I'm not going to pursue this further. I feel like we're going around in a circle. I am going to be voting against this because I think the transportation analysis among other reasons. But once again, I think the transportation analysis is inadequate. It needs to be fixed. There needs to be better coordination here. I won 't get into what we need to do prospectively, but I cannot support this plan. So thank you very much for hearing me out. Thank you. I'll look for other speakers from committee or visiting councilors. We have motion moved and seconded. I'll call the vote. Sorry, I'm sorry I missed you Deputy Mayor. Sorry I was trying to find the raised hand thing. One eye that's not easy. Please go ahead. I just wanted to take a moment, especially following the last comments about voting against this. The recommendation is actually a refusal. So if we don't want this development to go ahead, we should be voting for it. I realize that councilor who made that comment is not a is a visiting member and not voting at this committee. But I will say that with respect to this with concerns that I've heard with the plan that I've seen and with councilor Frank's comments I concur this is not this is not an application I can support for infill here. I think that there is an opportunity for infill but I think this is going well beyond what's appropriate on this parcel. Thank you. We'll call one more time for other speakers. I'm looking around and I'm checking online this time. So I know we have a couple of committee members online. We have a motion moved in second and we'll call the vote. Opposed in the vote. The motion carries five zero . Thank you. Moving on to 3.3. This is regarding 1103 and 1111 Westdale Born. I'll look for motion to open the PPM. Councilor Cudi second by Councilor Mr. Stevenson, we'll call the vote. Close in the vote. The motion carries five, deserve. So I'll look for the applicant, address the committee, believe he is online. Mr. Allen. Good afternoon, you see it. Good afternoon, there we are. Please go ahead, you have five minutes. Apologies. Chair, good afternoon. My name is Scott Allen, I'm with MHBC Planning and we are acting on behalf of the registered owner of the subject lands and the applicant Westell Development Corporation. Westell has provided counsel with a letter addressing comments received through the planning staff report, including staff's recommendation for refusal. I settled in the letter we'd like to advise the committee that the modified project design is intended to mitigate concerns previously expressed by planning staff and local residents regarding the overall intensity and the built form of the original development plan. Notably, the revised design reduces the height of the apartment tower positioned adjacent to west outborn from 12 to nine stories, while also removing the 14 unit stack townhouse block plan for the western portion of the site. In effect, these revisions decrease the total number of units proposed for the site by almost half from 220 to 118, which equates to a reduction in the project's density overall density from 300 units per hectare to 160 units per hectare. The revised project layout has been carefully considered by our project team as intended to be compatible with the broad mix of existing and planned uses within the river band and West 5 community. Notwithstanding this design objective, we acknowledge that planning staff and local residents continue to have concerns with the modified development proposal that require further consideration. Additionally, Mr. Chair, within approximately the last week in adjacent landowner approached Westdale to discuss the potential acquisition and consolidation of the abutting Oxford street lands into the development proposal. For West Dell, this opportunity introduces the potential for more cohesive and comprehensive residential development concept that could accommodate a more appropriate built form transition. Also during previous discussions following referral of the original application, planning staff had encouraged the consolidation of these lands to achieve a more functional and comprehensive development approach. And I should clarify, Mr. Chair, that these lands are located budding lands to the west, fronting Oxford Street East, Oxford Street West, apologies. So in light of these new circumstances, as well as recent comments received from staff and members of the public, we respectfully request that the committee consider referring this application back to city staff for further review while we work through this revised development concept and potential opportunity with these additional lands. In this respect, our project team seeking additional time to explore the viability of the proposal and all of the design and engineering implications. So thank you, Mr. Chairman. Gladly answer any questions committee may have. Thank you. I'll look for other speakers in this application. Please, sir, go ahead. You have five minutes. Give us your name, please. Thank you. Thank you. Good evening, Chair and members of the Planning and Environment Committee. My name is Carson Haidt. I was born here in London. I spent time working in other major Canadian cities and ultimately chose the return here to raise my family. I appreciate that London continues to grow and I support thoughtful and appropriate intens ification. However, the London Plan is clear that growth must also be compatible, context-sensitive, and supported by infrastructure. In my view, this proposal does not meet those principles. I am speaking regarding the proposed amendment to permit a nine-story development on a site currently zoned for only three. A change from three to nine, Stories is not a minor increase in density. It represents a significant intensification that fundamentally changes the scale and character of the corridor. While this street is identified as a connector corridor under the London Plan, that designation does not automatically justify any scale of development regardless of context. The London Plan requires a development along these corridors demonstrate compatibility with surrounding uses, provide appropriate transition in scale and intensity, and align with available infrastructure mobility systems. In this case, there are several concerns suggest those standards are not being met. First, the site design and landscaping appear inadequate for development of this scale. The London Plan emphasizes high quality urban design, usable open space, and attractive public realm improvements. The limited space surrounding the building leaves little opportunity for meaningful landscaping, buffering, or transition to adjacent properties. This raises concerns about compatibility and long-term fit within the neighbourhood. Second, the transportation impact have not been adequately addressed, existing congestion in the area is already concerned and the traffic study submitted with the application appears insufficient given the realities of residents experience their residents experience today. More importantly, this is not just the traffic issue, it is a pedestrian safety issue. Many students and families cross while still born each day to access St. Nicholas Catholic Elementary Schools, a school existing crossing conditions are already challenging during peak hours and additional density at this scale will inevitably increase vehicle activity and congestion. a plan places strong emphasis on walkability, mobility, and safe movement for all users, especially vulnerable users like children. Given the current conditions, I do not believe the existing analysis adequately measures the impact this proposal could have on pedestrian safety. A more comprehensive pedestrian and school area safety study should be required before any approval is considered. Finally, the site is outside of a primary transit area that the London Plan directs the highest intensity development towards areas with strong transit infrastructure and frequent service. Approving this level of density in a location without that level of transit supports risks increasing automobile dependency and worsening congestion which runs counter to the broader transportation goals of the plan. I would also like to emphasize that the city planning staff themselves are recommending that this application not proceed. I strongly urge the committee to give significant weight to the professional recommendation of your planning team. Planning staff are responsible for applying the London plan consistently and objectively. The recommendation reflects concerns of a compatibility, transportation impacts and appropriate intensification. As residents, we are asking you to trust the expertise analysis of the professionals tasked with protecting the integrity of the city's planning framework. The question before committee is not whether London should grow and absolutely should grow. Question is whether the proposal represents appropriate and compatible growth in this specific location, consistent with the policies and the intent of the London plan. In my opinion it does not. Our Our specily asked committee to support the recommendation of city planning staff and refuse the application . Thank you for your time and consideration. Thank you. I'll look for the next speaker. Please give us your name and you have five minutes. My name is Vance Stark. I live on the property adjacent to this proposal. I encourage you guys to read the feedback from our community, including mine. I'm not gonna go over it. I left many good details. So I encourage you to read everything that you found from all of us and our neighbors. I also want to thank Anna Hopkins for allowing us to get some feedback and just give a voice to us in this confusing time. So I oppose this and, yeah, I support our city staff. Thank you. Thank you. Hello. Look for the next speaker. Please, sir, give us your name and you have five minutes. I'm Robert Stevenson. I live on 2172 Linquay Boulevard, which is a crossroad from the proposed development. I support the recommendations and the opinions of my neighbors and I encourage the committee to refuse the application. Thank you very much. Thank you. I'll look for the next speaker. I'll ask the clerk if there's anybody online. Anna, can you hear me? Anne, sorry. I just, the clerk had you, indicated you'd like to speak online. Anne, not many. And, okay, I don't see, and I don't hear, Anne. Okay, can you hear me now? Ah, there we go, okay, good. If you have five minutes, please go ahead. Okay, thank you very much. I support staff's two recommendations to refuse this application for the amendment to the official London plan and the zoning by-law change, respectively. I believe this is the right course of action, and would ask the planning and environment committee to accept it. While I do not reside in the immediate vicinity of the proposed site, the way the other participants who have contributed their remarks have. I and other residents of Byron would be affected by the increase in traffic issues. And moreover, as a general comment, I fully understand and am empathetic to the concerns of those who live close to the proposed site, which include loss of privacy, change of neighborhood character, livability, increased activity, pedestrian safety risks, noise issues, light issues, waste management, and various other issues that would affect their quality of life. There are also questions of suitability and need here, given there are already numerous other apartment buildings in the area with several vacancies. As one participant indicated, this site is designated as a neighborhood's place type, which I believe means according to the London plan that the standard maximum height may not exceed three stories. Therefore, a nine-story building is triple that height and a major and not a minor variance. So it is a fundamental shift that were worth surrounding residential buildings . The subdivision was not designed to accommodate a structure this size and allowing a nine story building and the site disregards and disrespects the original planning principles for this community. Moreover, people have invested their life savings into homes, whether or not your surroundings, mature trees and a general peaceful character under the impression that the area would retain these characteristics. To introduce a radical change is disrespectful and irresponsible, ensure the building as well beyond the carrying capacity of the area and is therefore right that the proposal be rejected. So in closing, I'd like to thank Ward nine city councilor Anna Hopkins for listening to our concerns and for her help in advocacy and for encouraging public participation in this process. And I will restate my request to the planning and environment committee to approve staff's recommendation to reject this application. Thank you very much for listening to my concerns. Thank you. I'll look for the next speaker. I don't see anyone approaching the mics in chambers. I'll ask the clerk if there's anyone else online. There's nobody else online. So I'll look for a motion to close the PPM. Councillor Stevenson, seconded by Councillor Cady , and we'll call the vote. Closing the vote, the motion carries five to zero. Okay, I will put this on the floor for our committee members, Councillor Cady. Thank you, Chair and through you. In light of the fact that the applicant has really has changed his application with the purchase or the potential purchase of joining property. I don't even think this is the same application that came before planning. So Chair respectfully and through you, I'd like to suggest that we do make a referral to staff. Okay, I'll look for a seconder on the referral, Councillor Stevenson. So we have a referral on the floor. I'll look for comments or questions on the referral. Councillor Hopkins. Yeah, I didn't mean to jump in. I know committee members have the right to go first to ask questions about the referral, but I'm more than happy to share my comments. And I do have a couple of questions, not that it relates on the referral, but if you would allow me. Sure, go ahead. Thank you. So this is a surprise, the referral coming to committee. I wanna first of all start off with thanking the community for coming out and speaking in support of staff's refusal. This is the second time. This application has been in front of us. I won't go through all the comments that the community has made and concerns. We heard some this afternoon, and we know there's a number of other concerns in the report. I want to appreciate the applicant's revision going from 12 stories to 9 stories. But as a reminder, this is a neighborhood connector. Three stories. This is three times the amount that is allowed. The community received a notice in the mail, maybe about a week or so ago. I didn't receive it, but for a consent to sever some land, had no idea what this meant and how it relates to this application. So I'm starting to understand a little bit more now, as we are going to be asking for a referral, and more time to come up with not a three-story, but more development in this area. And we know from staff's comments that it is too intense. This is a neighborhood. There's no, there's west five to the west. Lots of intensification development happening in that area and will happen. To the northwest, we've seen further intensification and there'll be more development on the southeast corner. I want the committee to focus back on this as a neighborhood connector, three-story, intens ification, we support intensification here. So I would respectfully ask the committee to support staff's refusal of this application. And the reason I think this is very important is that the public-- Councilor. I'm sorry to interrupt there. I had to give you some leeway, but the clerk 'cause I've kind of stepped in and just requested that you kind of get a little closer to the actual referral in your comments. That's why I asked if I could speak. I know, probably my fall for giving you something like that. So, like I said, the referral is a surprise to me. I would like an opportunity to make further comments then, will I have an opportunity or is this my last picket? Oh, you can, you've got the floor right now. So go ahead on the referral. So on the referral, I would ask the committee not to support it. And I think the public was very clear here in the importance of trust in us and when we make decisions. And I'm not even sure how I can even trust me, us . If we don't look at what the recommendation is and support the refusal, so I would encourage you not to support the referral. Thank you, I'll look for other comments or questions from committee members or Councillor Cudi. I yield to Councillor Stevenson, Councillor Stevenson. Thank you, I was just gonna ask through you to staff if we could get their input on this referral. Well, I'll go to staff, not too sure if you're prepared to do that or what, but go ahead. Thank you, through the chair. In staff's opinion, a new application would be warranted here rather than a referral back. This would be a substantial change to the application through both a substantially different development concept, as well as through the inclusion of additional lands that weren't previously included in the initial application. So for this reason, a new application would be required so staff could do a comprehensive planning analysis, as well as to give us the opportunity to recirc ulate, do a broader public circulation due to the inclusion of additional lands. Thank you. Thank you, Councilor. Thank you, so just so that I understand and maybe the public understands too, the if we were to refer it, would not all of those things need to take place anyway. I'm just wondering what the consequences are, say , for the public. To me, it all has to come back through. We're gonna have a chance to look at it and decide and have full participation. If it comes back as a referral versus it coming back as a new application, what are the pros and cons there if you could just help educate me on that? That'd be great. I'll go stuff. Through the chair, as I mentioned, we would need a new application because there are additional lands proposed to be added. So there's an additional landowner that would be reflected in the application. We'd also have to do a new circulation based on the new site boundary. So we have to give notice within 120 meters of the subject lands. And that was given based on the site subject to this application, but if additional lands are added, then a broader circulation will be required. The other issue is we are already beyond the maximum planning act timelines of 120 days given that this application was already referred back to staff once before and if any further referrals would just further expose council to a potential appeal for non-decision. Councilor. Thank you, I appreciate that. And so on the other side, what like it sounds like everything that needs to be done could be done, either way, referral or new application. So is it about the application fee for the developers? Is that the big difference? Ms. McNeely. Thank you, through the chair, we're comparing apples and oranges here, two different scenarios. Referral back would be very similar to the referral back this last time, where there was a reduction in height and staff came back with a recommended action. Referral back does not guarantee a staff recommendation for approval. the new scenario that we've received today is a whole new application. And as Ms. Matton has identified, it expands the area of notification because the geographic area is now expanded. So we need to do the proper notice following the Planning Act requirements. So again, there are two different scenarios here and I just wanna be very clear on that. Thank you. Thank you, Councillor. That's all for now. Councillor or Deputy Mayor Lewis. Thank you, Chair. So I wanna be cautious I think we've got to be careful about drawing staff into a debate about what we may or may not approve here. I think we also have to be cautious about saying three stories is the only thing that would ever be approved here as well because as a number of folks have said this is a neighborhood connector. And while the zoning currently may be for three stories, as we know, neighborhood connectors do allow for higher stories. Now, I'm not suggesting that I'm supportive of this application as it came through in our package. However, we have in the past done a number of things where we've kept a file just open and allowed some things to be made and come back to us that has included the applicant withdrawing the application and staff simply holding the fee to apply to a new application. If staff are open to that sort of approach, noting that the applicant would be responsible for the recirculation or the new circulation costs. I'd be willing to hear them out on that if they're they're willing to recommend an alternate to a referral, which might be what I was just suggesting, the withdrawal of the application. I do understand the applicant missed the deadline to submit a withdrawal. And so that's why they come back to ask for the referral because of this new piece of property potentially being involved. However, as Councillor Stevenson was alluding to, I don't think that anything that staff has raised wouldn 't happen with the result of the referral anyway. There would still be a new analysis of the new submission, whatever that is. There'd still be a recirculation to the neighborhood. Yep, the boundaries might change, but that is still going to happen. So to me, and obviously if the applicant has indicated as they have here at the meeting, that they'd like this to be referred back to staff, I'm not so worried about an appeal for non-decision. When we decide to refer something without consulting or without hearing from the applicant, and we just decide we're going to kick it back to staff, that's one thing. And we saw that a lot in some previous terms of counsel. But when the applicant has indicated they're amenable to a referral, I'm much less concerned because it's now a matter of public record that they were amenable to it. So an appeal for non- decision at the OLT is not a particular concern for me. So I'm inclined to support the referral, but I would like staff to comment on the other option that we have used in the past , which is the applicant just indicating that they're withdrawing and will resubmit. I understand that they missed the deadline today. Is that something that could be accomplished between now and council? Go to staff. Thank you through the chair. In terms of the withdrawal, that's the applicant's choice to do so. However, typically, when we've done the referral back or withdrawal with a new application, the fee isn't always carried forward. This, in our minds, is a new application that would require the full application fee. It's a substantial change. It's looking at a different comprehensive, different land uses, potentially. And so that may have impact in terms of all things, servicing, traffic, as well as the land use from the land use planning perspective. So this would not in our opinion be something that is, we're not very close in terms of an approval in this instance where we have used that, we'll say the mailing cost fee as we're very close and we wanna bring it across the finish line. This is not the case in the situation. Deputy Mayor. Hey, I appreciate that. I may have a slight difference of opinion, but that's my opinion and I'm not gonna debate staff on that. I do think that we have a little bit of time before council, I'm gonna support the referral because I think what the referral does today is gives an opportunity for the applicant and staff to have a little bit of discussion between now and council, perhaps put something alternate on the council agenda because I also do not want to create a false perception with the community that this is just defeated and nothing's ever going to happen here. I agree with some of the comments that I've heard about the nine stories being very intense. I do appreciate that the townhouse block has been removed. They have made some movements to reduce the intensification, but I understand why staff are saying, we're still not there yet. Where I struggle is I don't think, I think we have some policies that frankly conflicts, 'cause I don't think three stories is also the maximum. And that's why we have zoning bylaw amendments, because we have different policies in different parts of the London plan and zoning bylaws that don't always line up and need to be sorted out. So I'm inclined to support the referral today, but I may change my mind at council because I think it's very important that both the applicant and staff have some further discussion. I understand that this was only received by staff this morning. I only heard about it as well this morning. So it's not a lot of time to make a decision. And so for that reason, I'm gonna support the referral for now, but I would encourage the applicant to have some serious discussions with staff Council, and I'm gonna listen to what comes to us at Council before making a final decision on this. Thank you, Councilor Cady. Thank you, Chair, and through you. First of all, I wanna thank Councilor Hopkins for the work you've done on this file. It's excellent. And obviously, but from your residents and constituents talking about it, it's very impressive. And I wanna thank everybody for coming out today to speak. And I wanted to mention that when I first got this file in this application, I was prepared to accept the staff recommendation. But I think the application changed significantly . It's significantly enough, Chair, that it is, as I think Ms. Matton said, it's really a new application. And I think that was also echoed by Ms. McNeil. I'm not asking anybody for opinions. I'm just telling you what I heard. So this is a new application. I think if we're doing our due diligence, which we are required to do here in planning, this is a new application to come forward to us at a later date. And so that was my choice for putting forward the motion for the referral. And I'll be supporting that, thank you. Thank you, I look for other people. We have a motion moved and seconded, I'll call the vote. Close in the vote, the motion carries five to zero. Thank you, we have no items for direction. We have one, we have deferred matters list. I just wanna go to staff. We have one item left on our deferred matters. Where are we at on that? Thank you through the chair. I have some good news on this one. The referral back to staff was to consult with the Ministry of Municipal Affairs and Housing. And we have done so, and we received communication from them on May 15th, that this is related to the Green Development Framework in terms of voluntary requirements for incentive-based metrics, things like that, not to the question and the debate was around it making it mandatory, which is not the case. And the province is amenable to the voluntary approach. So we will be bringing forward a report on June 22nd that brings back the terms of reference for Council's consideration. Great, and thank you for the work on that. We appreciate it. I'll look for a motion to receive the defer matters list, Councilor Stevenson, seconded by Councilor Cuddy. Any further questions or comments on that? Seeing none, we'll call the vote. Close in the vote, the motion carries by. Thank you, that just leaves a german of promotion to adjourn. Councillor Stevenson, seconded by Councillor Cut ty, and just a hand vote on that one. Close in the vote, the motion carries. Thank you, we're adjourned.",
+  "transcript_duration": "1 hour, 40 minutes",
+  "transcript_source": "lillian_skinner_archive",
+  "transcript_source_url": "https://london.lillianskinner.ca/Meetings/Planning%20and%20Environment%20Committee/2026/05-26/.transcript.srt"
+}
