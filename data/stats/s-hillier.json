@@ -2,11 +2,11 @@
   "councillor": "Steve Hillier",
   "slug": "s-hillier",
   "attendance": {
-    "totalMeetings": 469,
-    "present": 439,
+    "totalMeetings": 472,
+    "present": 442,
     "absent": 30,
     "remote": 0,
-    "attendanceRate": 93.60341151385929,
+    "attendanceRate": 93.64406779661016,
     "trend": [
       {
         "period": "2018",
@@ -58,99 +58,144 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 92.5925925925926,
-        "meetingsAttended": 25,
-        "meetingsTotal": 27
+        "attendanceRate": 93.33333333333333,
+        "meetingsAttended": 28,
+        "meetingsTotal": 30
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9260,
-    "yeas": 7856,
-    "nays": 581,
+    "totalVotes": 9341,
+    "yeas": 7931,
+    "nays": 587,
     "absent": 541,
-    "participationRate": 91.11231101511879,
-    "yeaRate": 93.11366599502193,
-    "contestedDissentRate": 17.524916943521596,
-    "contestedVotes": 2408,
-    "substantiveVotes": 5517,
-    "substantiveYeas": 4327,
-    "substantiveNays": 581,
-    "substantiveParticipationRate": 88.96139206090267,
-    "substantiveYeaRate": 88.16218418907906
+    "participationRate": 91.18938015201799,
+    "yeaRate": 93.10871096501526,
+    "contestedDissentRate": 17.637339942172655,
+    "contestedVotes": 2421,
+    "substantiveVotes": 5548,
+    "substantiveYeas": 4352,
+    "substantiveNays": 587,
+    "substantiveParticipationRate": 89.02307137707281,
+    "substantiveYeaRate": 88.11500303705203
   },
   "budgetVoting": {
-    "totalBudgetVotes": 898,
-    "budgetYeas": 693,
+    "totalBudgetVotes": 900,
+    "budgetYeas": 695,
     "budgetNays": 140,
     "budgetAbsent": 65
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3840,
-      "agreedVotes": 3698,
-      "alignmentRate": 96.30208333333333
+      "sharedVotes": 3879,
+      "agreedVotes": 3734,
+      "alignmentRate": 96.26192317607631
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 4137,
-      "agreedVotes": 3968,
-      "alignmentRate": 95.91491418902586
+      "sharedVotes": 4164,
+      "agreedVotes": 3993,
+      "alignmentRate": 95.89337175792507
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1777,
-      "agreedVotes": 1696,
-      "alignmentRate": 95.44175576814857
+      "sharedVotes": 1816,
+      "agreedVotes": 1733,
+      "alignmentRate": 95.42951541850219
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3170,
-      "agreedVotes": 2989,
-      "alignmentRate": 94.29022082018928
+      "sharedVotes": 3184,
+      "agreedVotes": 3001,
+      "alignmentRate": 94.25251256281408
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1494,
-      "agreedVotes": 1388,
-      "alignmentRate": 92.904953145917
+      "sharedVotes": 1508,
+      "agreedVotes": 1400,
+      "alignmentRate": 92.83819628647215
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1418,
-      "agreedVotes": 1147,
-      "alignmentRate": 80.8885754583921
+      "sharedVotes": 1431,
+      "agreedVotes": 1158,
+      "alignmentRate": 80.92243186582809
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1481,
-      "agreedVotes": 1277,
-      "alignmentRate": 86.2255232950709
+      "sharedVotes": 1495,
+      "agreedVotes": 1289,
+      "alignmentRate": 86.22073578595317
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1505,
-      "agreedVotes": 1329,
-      "alignmentRate": 88.30564784053156
+      "sharedVotes": 1528,
+      "agreedVotes": 1349,
+      "alignmentRate": 88.28534031413614
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1776,
-      "agreedVotes": 1590,
-      "alignmentRate": 89.52702702702703
+      "sharedVotes": 1790,
+      "agreedVotes": 1602,
+      "alignmentRate": 89.49720670391062
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3488,
-      "agreedVotes": 3148,
-      "alignmentRate": 90.25229357798165
+      "sharedVotes": 3502,
+      "agreedVotes": 3160,
+      "alignmentRate": 90.23415191319246
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "(2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Wastell Homes relating to the property located at 725 Notre Dam...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "(3.7) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - SPA-26030",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Nine Eyes Capital Partners Ltd / 767 Fanshawe LP relating to th...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Introduction and First Reading of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-09-09",
       "meetingTitle": "The 13th Meeting of the Planning and Environment Committee",
@@ -195,67 +240,22 @@
       "vote": "yea",
       "result": "Motion Failed (6 to 9)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That Council convenes In Closed session for the purpose of considering the following: A matter that is subject to solicitor-client privilege, including communications necessary for that purpose with r...",
-      "vote": "nay",
-      "result": "Motion Passed (9 to 6)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.1) School Crossing Guard Program Review",
-      "motionText": "That part b) of the motion BE AMENDED to read as follows: b) the collection and analysis of traffic data at existing crossing guard locations BE COMPLETED, (including accidents, reported near-accident...",
-      "vote": "nay",
-      "result": "Motion Passed (12 to 1)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No.’s 305 and 324, BE APPROVED. At 7:36 PM, Councillor D. Ferreira leaves the meeting.",
-      "vote": "nay",
-      "result": "Motion Passed (9 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No.’s 305 and 324, BE APPROVED. At 7:37 PM, Councillor H. McAlister enters the meeting.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4286,
-      "yeas": 3737,
-      "nays": 316,
-      "participationRate": 94.56369575361643
+      "totalVotes": 4313,
+      "yeas": 3758,
+      "nays": 322,
+      "participationRate": 94.5977277996754
     },
     {
       "committee": "Planning and Environment Committee",
-      "totalVotes": 2250,
-      "yeas": 2072,
+      "totalVotes": 2304,
+      "yeas": 2126,
       "nays": 48,
-      "participationRate": 94.22222222222221
+      "participationRate": 94.35763888888889
     },
     {
       "committee": "Strategic Priorities and Policy Committee",

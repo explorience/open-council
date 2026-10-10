@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 600,
-    "present": 572,
+    "totalMeetings": 601,
+    "present": 573,
     "absent": 28,
     "remote": 6,
-    "attendanceRate": 95.33333333333334,
+    "attendanceRate": 95.34109816971714,
     "trend": [
       {
         "period": "2011",
@@ -82,27 +82,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 96.42857142857143,
-        "meetingsAttended": 27,
-        "meetingsTotal": 28
+        "attendanceRate": 96.55172413793103,
+        "meetingsAttended": 28,
+        "meetingsTotal": 29
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9937,
-    "yeas": 7707,
-    "nays": 1069,
-    "absent": 639,
-    "participationRate": 88.31639327764918,
-    "yeaRate": 87.81905195989061,
-    "contestedDissentRate": 33.104866346812884,
-    "contestedVotes": 2918,
-    "substantiveVotes": 7515,
-    "substantiveYeas": 5525,
-    "substantiveNays": 1069,
-    "substantiveParticipationRate": 87.7445109780439,
-    "substantiveYeaRate": 83.7882923870185
+    "totalVotes": 9964,
+    "yeas": 7724,
+    "nays": 1074,
+    "absent": 640,
+    "participationRate": 88.29787234042553,
+    "yeaRate": 87.79268015458058,
+    "contestedDissentRate": 33.11710481392967,
+    "contestedVotes": 2929,
+    "substantiveVotes": 7531,
+    "substantiveYeas": 5535,
+    "substantiveNays": 1074,
+    "substantiveParticipationRate": 87.75726995086974,
+    "substantiveYeaRate": 83.74943259192011
   },
   "budgetVoting": {
     "totalBudgetVotes": 1278,
@@ -113,68 +113,104 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 2990,
-      "agreedVotes": 2760,
-      "alignmentRate": 92.3076923076923
+      "sharedVotes": 3002,
+      "agreedVotes": 2771,
+      "alignmentRate": 92.30512991339107
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1551,
-      "agreedVotes": 1430,
-      "alignmentRate": 92.19858156028369
+      "sharedVotes": 1563,
+      "agreedVotes": 1441,
+      "alignmentRate": 92.19449776071657
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2953,
-      "agreedVotes": 2720,
-      "alignmentRate": 92.1097189299018
+      "sharedVotes": 2965,
+      "agreedVotes": 2731,
+      "alignmentRate": 92.1079258010118
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3024,
-      "agreedVotes": 2760,
-      "alignmentRate": 91.26984126984127
+      "sharedVotes": 3036,
+      "agreedVotes": 2771,
+      "alignmentRate": 91.27140974967062
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3088,
-      "agreedVotes": 2809,
-      "alignmentRate": 90.96502590673575
+      "sharedVotes": 3100,
+      "agreedVotes": 2820,
+      "alignmentRate": 90.96774193548387
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1425,
-      "agreedVotes": 1113,
-      "alignmentRate": 78.10526315789474
+      "sharedVotes": 1436,
+      "agreedVotes": 1121,
+      "alignmentRate": 78.06406685236769
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1417,
-      "agreedVotes": 1176,
-      "alignmentRate": 82.99223712067749
+      "sharedVotes": 1429,
+      "agreedVotes": 1187,
+      "alignmentRate": 83.06508047585724
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1517,
-      "agreedVotes": 1288,
-      "alignmentRate": 84.90441661173368
+      "sharedVotes": 1529,
+      "agreedVotes": 1299,
+      "alignmentRate": 84.95748855461086
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3027,
-      "agreedVotes": 2604,
-      "alignmentRate": 86.02576808721506
+      "sharedVotes": 3039,
+      "agreedVotes": 2615,
+      "alignmentRate": 86.04804211911812
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1555,
-      "agreedVotes": 1370,
-      "alignmentRate": 88.10289389067523
+      "sharedVotes": 1567,
+      "agreedVotes": 1381,
+      "alignmentRate": 88.13018506700702
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "(2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Wastell Homes relating to the property located at 725 Notre Dam...",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Introduction and First Reading of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Second Reading of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-09-22",
+      "meetingTitle": "14th Meeting of Council",
+      "itemTitle": "By-laws",
+      "motionText": "That Third Reading and Enactment of Bill No. 335, BE APPROVED.",
+      "vote": "nay",
+      "result": "Motion Passed (12 to 3)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-08-25",
       "meetingTitle": "13th Meeting of Council",
@@ -228,51 +264,15 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Introduction and First Reading of Bill No. 268 BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No. 268 BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Third Reading and Enactment of Bill No. 268 BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 2)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-16",
-      "meetingTitle": "8th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Downtown Reimagined: City of London Downtown Plan",
-      "motionText": "That the staff report dated June 16, 2026, entitled “Downtown Reimagined: City of London Downtown Plan”, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the C...",
-      "vote": "yea",
-      "result": "Motion Failed (3 to 11)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6398,
-      "yeas": 5193,
-      "nays": 697,
-      "participationRate": 92.06001875586121
+      "totalVotes": 6425,
+      "yeas": 5210,
+      "nays": 702,
+      "participationRate": 92.01556420233463
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
