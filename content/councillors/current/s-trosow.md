@@ -2,21 +2,21 @@
 title: "Sam Trosow"
 type: councillor
 slug: "s-trosow"
-meetingCount: 240
+meetingCount: 242
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4035
-votesYea: 2940
-votesNay: 650
-votesAbsent: 257
+totalVotes: 4067
+votesYea: 2960
+votesNay: 661
+votesAbsent: 258
 votesRecused: 9
 votesAbstained: 16
 votesOther: 163
 attendanceRate: 96.3
 participationRate: 89.0
-yeaRate: 81.9
-contestedDissentRate: 45.4
-contestedVotes: 1530
+yeaRate: 81.7
+contestedDissentRate: 45.7
+contestedVotes: 1541
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,035 |
-| Voted Yea | 2,940 (72.9%) |
-| Voted Nay | 650 (16.1%) |
-| Absent | 257 (6.4%) |
+| Total Votes | 4,067 |
+| Voted Yea | 2,960 (72.8%) |
+| Voted Nay | 661 (16.3%) |
+| Absent | 258 (6.3%) |
 | Recused (conflict of interest) | 9 (0.2%) |
 | Abstained | 16 (0.4%) |
 | Other/Unrecorded | 163 (4.0%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,023 |
-| Voted Yea | 2,021 (75.7%) |
-| Voted Nay | 650 (24.3%) |
+| Substantive Votes | 3,043 |
+| Voted Yea | 2,029 (75.4%) |
+| Voted Nay | 661 (24.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 45.4%
-- **Contested Votes**: 1,530
+- **Dissent Rate**: 45.7%
+- **Contested Votes**: 1,541
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 463 |
-| Voted Yea | 359 (79.2%) |
-| Voted Nay | 94 (20.8%) |
+| Budget Votes | 464 |
+| Voted Yea | 360 (79.3%) |
+| Voted Nay | 94 (20.7%) |
 | Absent | 10 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.3%
-- **Meetings Attended**: 233 of 242
+- **Meetings Attended**: 235 of 244
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -88,15 +88,15 @@ prefillQuestions:
   - 2023: 94.8% (73/77 meetings)
   - 2024: 93.2% (69/74 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (27/27 meetings)
+  - 2026: 100.0% (29/29 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (92.5%)
-- David Ferreira (91.9%)
-- Skylar Franke (90.0%)
+- Anna Hopkins (92.4%)
+- David Ferreira (91.8%)
+- Skylar Franke (89.8%)
 
 **Least aligned with:**
 - Susan Stevenson (76.8%)
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,165 | 1,557 | 422 | 91.4% |
+| Council | 2,192 | 1,572 | 433 | 91.5% |
 | Strategic Priorities and Policy Committee | 1,021 | 678 | 133 | 79.4% |
-| Community and Protective Services Committee | 382 | 335 | 37 | 97.4% |
+| Community and Protective Services Committee | 387 | 340 | 37 | 97.4% |
 | Budget Committee | 189 | 141 | 44 | 97.9% |
 | Civic Works Committee | 157 | 140 | 11 | 96.2% |
 | Corporate Services Committee | 121 | 89 | 3 | 76.0% |
@@ -122,85 +122,85 @@ prefillQuestions:
 
 *Recent split votes where Sam Trosow voted against the final outcome:*
 
-### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
+### 2026-09-22: London Transit Commission (LTC) Governance Changes - Councillor S. Franke 
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: iii)   all proposed locations be subject to fire and by-law compliance review and sign-off by the appropriate City officials prior to the execution of any related ...
+> That the following actions BE TAKEN with respect to the LTC Governance Review: a)    the Civic Administration BE DIRECTED to prepare and bring forward a by-law to amend By-law A.-6377-206 to a future ...
 
-Voted **Nay** - Motion Passed (10 to 5)
+Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-09-22: (2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Wastell Homes relating to the property located at 725 Notre Dam...
 
-Voted **Nay** - Motion Passed (9 to 6)
+Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-09-22: (3.6) 350-356 Windermere Road - Z-26014 (Relates to Bill No. 338)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Distinctive Homes London Ltd. relating to the property located ...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-09-22: (3.7) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - SPA-26030
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Nine Eyes Capital Partners Ltd / 767 Fanshawe LP relating to th...
 
-Voted **Nay** - Motion Passed (11 to 4)
+Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-09-22: By-laws
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the following part b) BE APPROVED: b)    the Civic Administration BE DIRECTED to implement the updated Emergency Shelter Guidelines;
+> That Introduction and First Reading of Bill No. 335, BE APPROVED.
 
-Voted **Nay** - Motion Passed (9 to 4)
+Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+### 2026-09-22: By-laws
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated August 12, 2026 as Appendix "A", BE INTRODUCED at the August 25, 2026 meeting of Municipal Cou...
+> That Second Reading of Bill No. 335, BE APPROVED.
 
-Voted **Nay** - Motion Passed (10 to 3)
+Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+### 2026-09-22: By-laws
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the staff report dated August 12, 2026 related to amending the Council Procedure By-law A-61, by removing the requirement for the appointment of a Striking Committee for initial citizen appointme...
+> That Third Reading and Enactment of Bill No. 335, BE APPROVED.
 
-Voted **Yea** - Motion Failed (3 to 10)
+Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-08-25: By-laws
+### 2026-09-22: By-laws
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That Introduction and First Reading of Bill No. 306, BE APPROVED.
+> That Introduction and First Reading of Bill No. 338, BE APPROVED.
 
-Voted **Nay** - Motion Passed (8 to 5)
+Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-08-25: By-laws
+### 2026-09-22: By-laws
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That the motion to refer BE AMENDED to bring forward Bill No. 306 to the October 14th, 2026 meeting of Municipal Council.
+> That Second Reading of Bill No. 338, BE APPROVED.
 
-Voted **Nay** - Motion Passed (7 to 6)
+Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-07-21: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
+### 2026-09-22: By-laws
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
 
-> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the He...
+> That Third Reading and Enactment of Bill No. 338, BE APPROVED.
 
-Voted **Nay** - Motion Passed (11 to 4)
+Voted **Nay** - Motion Passed (14 to 1)
 
 
 ## Committees Served
@@ -214,8 +214,10 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (240 total)
+## Recent Meetings (242 total)
 
+- [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
@@ -224,5 +226,3 @@ Voted **Nay** - Motion Passed (11 to 4)
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026

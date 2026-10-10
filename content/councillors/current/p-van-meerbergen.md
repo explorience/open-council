@@ -2,21 +2,21 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 530
+meetingCount: 531
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 9937
-votesYea: 7707
-votesNay: 1069
-votesAbsent: 639
-votesRecused: 74
+totalVotes: 9964
+votesYea: 7724
+votesNay: 1074
+votesAbsent: 640
+votesRecused: 78
 votesAbstained: 23
 votesOther: 425
 attendanceRate: 95.3
 participationRate: 88.3
 yeaRate: 87.8
 contestedDissentRate: 33.1
-contestedVotes: 2918
+contestedVotes: 2929
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,11 +34,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,937 |
-| Voted Yea | 7,707 (77.6%) |
-| Voted Nay | 1,069 (10.8%) |
-| Absent | 639 (6.4%) |
-| Recused (conflict of interest) | 74 (0.7%) |
+| Total Votes | 9,964 |
+| Voted Yea | 7,724 (77.5%) |
+| Voted Nay | 1,074 (10.8%) |
+| Absent | 640 (6.4%) |
+| Recused (conflict of interest) | 78 (0.8%) |
 | Abstained | 23 (0.2%) |
 | Other/Unrecorded | 425 (4.3%) |
 
@@ -51,9 +51,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,515 |
-| Voted Yea | 5,525 (83.8%) |
-| Voted Nay | 1,069 (16.2%) |
+| Substantive Votes | 7,531 |
+| Voted Yea | 5,535 (83.7%) |
+| Voted Nay | 1,074 (16.3%) |
 
 
 ### Dissent on Contested Votes
@@ -61,7 +61,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 33.1%
-- **Contested Votes**: 2,918
+- **Contested Votes**: 2,929
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -81,7 +81,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.3%
-- **Meetings Attended**: 572 of 600
+- **Meetings Attended**: 573 of 601
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -89,7 +89,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.4% (27/28 meetings)
+  - 2026: 96.6% (28/29 meetings)
 
 
 ## Voting Alignment
@@ -101,8 +101,8 @@ prefillQuestions:
 
 **Least aligned with:**
 - Sam Trosow (78.1%)
-- David Ferreira (83.0%)
-- Skylar Franke (84.9%)
+- David Ferreira (83.1%)
+- Skylar Franke (85.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,7 +111,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,398 | 5,193 | 697 | 92.1% |
+| Council | 6,425 | 5,210 | 702 | 92.0% |
 | Strategic Priorities and Policy Committee | 2,453 | 1,612 | 241 | 75.5% |
 | Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
@@ -122,6 +122,38 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-09-22: (2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Wastell Homes relating to the property located at 725 Notre Dam...
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-09-22: By-laws
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 335, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-09-22: By-laws
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 335, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-09-22: By-laws
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 335, BE APPROVED.
+
+Voted **Nay** - Motion Passed (12 to 3)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -175,43 +207,11 @@ Voted **Nay** - Motion Passed (12 to 3)
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2026-07-21: By-laws
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 268 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 2)
-
-### 2026-07-21: By-laws
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 268 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 2)
-
-### 2026-07-21: By-laws
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Bill No. 268 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 2)
-
-### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
-
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
-
-> That the staff report dated June 16, 2026, entitled “Downtown Reimagined: City of London Downtown Plan”, BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee to allow the C...
-
-Voted **Yea** - Motion Failed (3 to 11)
-
 
 ## Committees Served
 
-- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [City Council](/committees/city-council)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
@@ -219,8 +219,9 @@ Voted **Yea** - Motion Failed (3 to 11)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (530 total)
+## Recent Meetings (531 total)
 
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
@@ -230,4 +231,3 @@ Voted **Yea** - Motion Failed (3 to 11)
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026

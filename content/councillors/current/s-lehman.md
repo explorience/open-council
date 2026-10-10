@@ -2,21 +2,21 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 416
+meetingCount: 419
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9084
-votesYea: 7770
-votesNay: 489
+totalVotes: 9165
+votesYea: 7849
+votesNay: 491
 votesAbsent: 325
 votesRecused: 54
 votesAbstained: 18
 votesOther: 428
 attendanceRate: 96.5
-participationRate: 90.9
+participationRate: 91.0
 yeaRate: 94.1
-contestedDissentRate: 12.3
-contestedVotes: 2456
+contestedDissentRate: 12.2
+contestedVotes: 2469
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,084 |
-| Voted Yea | 7,770 (85.5%) |
-| Voted Nay | 489 (5.4%) |
-| Absent | 325 (3.6%) |
+| Total Votes | 9,165 |
+| Voted Yea | 7,849 (85.6%) |
+| Voted Nay | 491 (5.4%) |
+| Absent | 325 (3.5%) |
 | Recused (conflict of interest) | 54 (0.6%) |
 | Abstained | 18 (0.2%) |
 | Other/Unrecorded | 428 (4.7%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,512 |
-| Voted Yea | 4,374 (89.9%) |
-| Voted Nay | 489 (10.1%) |
+| Substantive Votes | 5,543 |
+| Voted Yea | 4,403 (90.0%) |
+| Voted Nay | 491 (10.0%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.3%
-- **Contested Votes**: 2,456
+- **Dissent Rate**: 12.2%
+- **Contested Votes**: 2,469
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 856 |
-| Voted Yea | 703 (85.0%) |
+| Budget Votes | 858 |
+| Voted Yea | 705 (85.0%) |
 | Voted Nay | 124 (15.0%) |
 | Absent | 17 |
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.5%
-- **Meetings Attended**: 408 of 423
+- **Meetings Attended**: 411 of 426
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 96.3% (26/27 meetings)
+  - 2026: 96.7% (29/30 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (96.8%)
+- Shawn Lewis (96.9%)
 - Peter Cuddy (96.3%)
 - Josh Morgan (96.3%)
 
 **Least aligned with:**
-- Sam Trosow (83.3%)
-- Susan Stevenson (88.3%)
-- David Ferreira (88.4%)
+- Sam Trosow (83.2%)
+- Susan Stevenson (88.4%)
+- David Ferreira (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,8 +110,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,285 | 3,866 | 262 | 96.3% |
-| Planning and Environment Committee | 2,254 | 2,084 | 39 | 94.2% |
+| Council | 4,312 | 3,892 | 263 | 96.4% |
+| Planning and Environment Committee | 2,308 | 2,137 | 40 | 94.3% |
 | Strategic Priorities and Policy Committee | 2,150 | 1,492 | 124 | 75.2% |
 | Civic Works Committee | 206 | 198 | 6 | 99.0% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
@@ -120,6 +120,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Lehman voted against the final outcome:*
+
+### 2026-09-29: Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
+
+[The 15th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=b16c0f5c-465d-421f-a042-658b33eddaae&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 29, 2026, related to the heritage listed property...
+
+Voted **Nay** - Motion Passed (2 to 1)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -193,14 +201,6 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
-
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED by adding a new part e) and f) to read as follows: e) to map the relative availability of on-street parking in different parts of the city and evaluate on street parking cap...
-
-Voted **Yea** - Motion Failed (4 to 10)
-
 
 ## Committees Served
 
@@ -212,8 +212,11 @@ Voted **Yea** - Motion Failed (4 to 10)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (416 total)
+## Recent Meetings (419 total)
 
+- [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
+- [The 14th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee>) - Mon Sep 21 2026
 - [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
@@ -221,6 +224,3 @@ Voted **Yea** - Motion Failed (4 to 10)
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [The 9th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>) - Tue Jun 9 2026

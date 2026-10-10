@@ -2,21 +2,21 @@
 title: "Skylar Franke"
 type: councillor
 slug: "s-franke"
-meetingCount: 227
+meetingCount: 228
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4495
-votesYea: 3725
+totalVotes: 4522
+votesYea: 3752
 votesNay: 354
 votesAbsent: 157
 votesRecused: 24
 votesAbstained: 0
 votesOther: 235
 attendanceRate: 96.1
-participationRate: 90.7
-yeaRate: 91.3
-contestedDissentRate: 23.5
-contestedVotes: 1546
+participationRate: 90.8
+yeaRate: 91.4
+contestedDissentRate: 23.4
+contestedVotes: 1557
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,495 |
-| Voted Yea | 3,725 (82.9%) |
-| Voted Nay | 354 (7.9%) |
+| Total Votes | 4,522 |
+| Voted Yea | 3,752 (83.0%) |
+| Voted Nay | 354 (7.8%) |
 | Absent | 157 (3.5%) |
 | Recused (conflict of interest) | 24 (0.5%) |
 | Abstained | 0 (0.0%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,978 |
-| Voted Yea | 2,272 (86.5%) |
-| Voted Nay | 354 (13.5%) |
+| Substantive Votes | 2,994 |
+| Voted Yea | 2,288 (86.6%) |
+| Voted Nay | 354 (13.4%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 23.5%
-- **Contested Votes**: 1,546
+- **Dissent Rate**: 23.4%
+- **Contested Votes**: 1,557
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.1%
-- **Meetings Attended**: 220 of 229
+- **Meetings Attended**: 221 of 230
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -88,19 +88,19 @@ prefillQuestions:
   - 2023: 98.4% (60/61 meetings)
   - 2024: 97.4% (75/77 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 92.9% (26/28 meetings)
+  - 2026: 93.1% (27/29 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Hadleigh McAlister (95.0%)
-- Anna Hopkins (94.8%)
-- David Ferreira (93.4%)
+- Anna Hopkins (94.9%)
+- David Ferreira (93.5%)
 
 **Least aligned with:**
-- Susan Stevenson (80.9%)
-- Paul Van Meerbergen (84.9%)
+- Susan Stevenson (81.0%)
+- Paul Van Meerbergen (85.0%)
 - Steve Hillier (89.5%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,165 | 1,864 | 195 | 95.1% |
+| Council | 2,192 | 1,891 | 195 | 95.2% |
 | Strategic Priorities and Policy Committee | 1,091 | 736 | 75 | 74.3% |
 | Planning and Environment Committee | 818 | 784 | 23 | 98.7% |
 | Budget Committee | 189 | 142 | 47 | 100.0% |
@@ -121,6 +121,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Skylar Franke voted against the final outcome:*
+
+### 2026-09-22: (3.3) 299-307 Sarnia Road - Z-26076 (Relates to Bill No. 336)
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. relating to the property ...
+
+Voted **Yea** - Motion Failed (2 to 13)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -194,19 +202,11 @@ Voted **Nay** - Motion Passed (13 to 2)
 
 Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-07-21: (4.4) City of London Special Constable Program
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...
-
-Voted **Nay** - Motion Passed (10 to 5)
-
 
 ## Committees Served
 
-- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [City Council](/committees/city-council)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -214,8 +214,9 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (227 total)
+## Recent Meetings (228 total)
 
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
@@ -225,4 +226,3 @@ Voted **Nay** - Motion Passed (10 to 5)
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
 - [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026

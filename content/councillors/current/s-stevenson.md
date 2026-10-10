@@ -2,21 +2,21 @@
 title: "Susan Stevenson"
 type: councillor
 slug: "s-stevenson"
-meetingCount: 223
+meetingCount: 225
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4165
-votesYea: 2951
-votesNay: 644
-votesAbsent: 337
+totalVotes: 4246
+votesYea: 2990
+votesNay: 646
+votesAbsent: 377
 votesRecused: 3
 votesAbstained: 0
 votesOther: 230
-attendanceRate: 88.8
-participationRate: 86.3
-yeaRate: 82.1
-contestedDissentRate: 38.5
-contestedVotes: 1498
+attendanceRate: 88.5
+participationRate: 85.6
+yeaRate: 82.2
+contestedDissentRate: 38.3
+contestedVotes: 1510
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,165 |
-| Voted Yea | 2,951 (70.9%) |
-| Voted Nay | 644 (15.5%) |
-| Absent | 337 (8.1%) |
+| Total Votes | 4,246 |
+| Voted Yea | 2,990 (70.4%) |
+| Voted Nay | 646 (15.2%) |
+| Absent | 377 (8.9%) |
 | Recused (conflict of interest) | 3 (0.1%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 230 (5.5%) |
+| Other/Unrecorded | 230 (5.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 2,945 |
-| Voted Yea | 1,864 (74.3%) |
-| Voted Nay | 644 (25.7%) |
+| Substantive Votes | 2,976 |
+| Voted Yea | 1,886 (74.5%) |
+| Voted Nay | 646 (25.5%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 38.5%
-- **Contested Votes**: 1,498
+- **Dissent Rate**: 38.3%
+- **Contested Votes**: 1,510
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,37 +71,37 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 462 |
-| Voted Yea | 328 (74.0%) |
-| Voted Nay | 115 (26.0%) |
+| Budget Votes | 464 |
+| Voted Yea | 330 (74.2%) |
+| Voted Nay | 115 (25.8%) |
 | Absent | 19 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 88.8%
-- **Meetings Attended**: 214 of 241
-- **Meetings Missed**: 27
+- **Attendance Rate**: 88.5%
+- **Meetings Attended**: 216 of 244
+- **Meetings Missed**: 28
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 88.4% (38/43 meetings)
+  - 2026: 87.0% (40/46 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Paul Van Meerbergen (88.8%)
-- Peter Cuddy (88.6%)
-- Steve Hillier (88.3%)
+- Paul Van Meerbergen (88.9%)
+- Peter Cuddy (88.7%)
+- Steve Lehman (88.4%)
 
 **Least aligned with:**
 - Sam Trosow (76.8%)
-- Anna Hopkins (80.1%)
-- Skylar Franke (80.9%)
+- Anna Hopkins (80.3%)
+- Skylar Franke (81.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,165 | 1,533 | 443 | 91.3% |
+| Council | 2,192 | 1,559 | 444 | 91.4% |
 | Strategic Priorities and Policy Committee | 1,072 | 708 | 110 | 76.3% |
-| Planning and Environment Committee | 362 | 304 | 10 | 86.7% |
+| Planning and Environment Committee | 416 | 317 | 11 | 78.8% |
 | Corporate Services Committee | 190 | 129 | 10 | 73.2% |
 | Budget Committee | 189 | 137 | 45 | 96.3% |
 | Infrastructure and Corporate Services Committee | 94 | 62 | 19 | 86.2% |
@@ -122,6 +122,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Susan Stevenson voted against the final outcome:*
+
+### 2026-09-21: Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 33 Bromleigh Avenue
+
+[The 14th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=daf0f86c-cc5f-4045-97db-4fb49988148c&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 21, 2026 related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 33 Bromleigh Avenue BE REFERRED to the December ...
+
+Voted **Nay** - Motion Passed (4 to 1)
 
 ### 2026-09-09: 299-307 Sarnia Road - Z-26076 
 
@@ -195,19 +203,11 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Yea** - Motion Failed (6 to 9)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
-- [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
+- [Planning and Environment Committee](/committees/planning-environment)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -216,8 +216,10 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (223 total)
+## Recent Meetings (225 total)
 
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
+- [The 14th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee>) - Mon Sep 21 2026
 - [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
@@ -226,5 +228,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
-- [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026

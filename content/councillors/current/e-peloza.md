@@ -2,21 +2,21 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 488
+meetingCount: 489
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7979
-votesYea: 6331
-votesNay: 634
+totalVotes: 8006
+votesYea: 6353
+votesNay: 635
 votesAbsent: 480
-votesRecused: 16
+votesRecused: 20
 votesAbstained: 7
 votesOther: 511
 attendanceRate: 98.0
 participationRate: 87.3
 yeaRate: 90.9
-contestedDissentRate: 20.2
-contestedVotes: 2303
+contestedDissentRate: 20.1
+contestedVotes: 2314
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,11 +33,11 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,979 |
-| Voted Yea | 6,331 (79.3%) |
-| Voted Nay | 634 (7.9%) |
+| Total Votes | 8,006 |
+| Voted Yea | 6,353 (79.4%) |
+| Voted Nay | 635 (7.9%) |
 | Absent | 480 (6.0%) |
-| Recused (conflict of interest) | 16 (0.2%) |
+| Recused (conflict of interest) | 20 (0.2%) |
 | Abstained | 7 (0.1%) |
 | Other/Unrecorded | 511 (6.4%) |
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,513 |
-| Voted Yea | 3,980 (86.3%) |
-| Voted Nay | 634 (13.7%) |
+| Substantive Votes | 5,529 |
+| Voted Yea | 3,995 (86.3%) |
+| Voted Nay | 635 (13.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.2%
-- **Contested Votes**: 2,303
+- **Dissent Rate**: 20.1%
+- **Contested Votes**: 2,314
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 443 of 452
+- **Meetings Attended**: 444 of 453
 - **Meetings Missed**: 9
 - **Trend**: Declining v
 
@@ -88,7 +88,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 93.3% (28/30 meetings)
+  - 2026: 93.5% (29/31 meetings)
 
 
 ## Voting Alignment
@@ -99,8 +99,8 @@ prefillQuestions:
 - Steve Lehman (93.3%)
 
 **Least aligned with:**
-- Susan Stevenson (83.2%)
-- Sam Trosow (85.7%)
+- Susan Stevenson (83.3%)
+- Sam Trosow (85.5%)
 - Paul Van Meerbergen (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,286 | 3,613 | 340 | 92.2% |
+| Council | 4,313 | 3,635 | 341 | 92.2% |
 | Strategic Priorities and Policy Committee | 2,195 | 1,424 | 158 | 72.1% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Civic Works Committee | 378 | 355 | 13 | 97.4% |
@@ -207,8 +207,8 @@ Voted **Nay** - Motion Passed (10 to 3)
 
 ## Committees Served
 
-- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [City Council](/committees/city-council)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
@@ -218,8 +218,9 @@ Voted **Nay** - Motion Passed (10 to 3)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (488 total)
+## Recent Meetings (489 total)
 
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
@@ -229,4 +230,3 @@ Voted **Nay** - Motion Passed (10 to 3)
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
-- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026

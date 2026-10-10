@@ -2,21 +2,21 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 531
+meetingCount: 534
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9663
-votesYea: 8405
+totalVotes: 9744
+votesYea: 8456
 votesNay: 545
-votesAbsent: 262
+votesAbsent: 292
 votesRecused: 0
 votesAbstained: 24
 votesOther: 427
 attendanceRate: 98.4
-participationRate: 92.6
+participationRate: 92.4
 yeaRate: 93.9
 contestedDissentRate: 11.6
-contestedVotes: 2573
+contestedVotes: 2585
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,663 |
-| Voted Yea | 8,405 (87.0%) |
+| Total Votes | 9,744 |
+| Voted Yea | 8,456 (86.8%) |
 | Voted Nay | 545 (5.6%) |
-| Absent | 262 (2.7%) |
+| Absent | 292 (3.0%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 24 (0.2%) |
 | Other/Unrecorded | 427 (4.4%) |
@@ -50,8 +50,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,839 |
-| Voted Yea | 4,725 (89.7%) |
+| Substantive Votes | 5,870 |
+| Voted Yea | 4,750 (89.7%) |
 | Voted Nay | 545 (10.3%) |
 
 
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 11.6%
-- **Contested Votes**: 2,573
+- **Contested Votes**: 2,585
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 894 |
-| Voted Yea | 727 (84.4%) |
-| Voted Nay | 134 (15.6%) |
+| Budget Votes | 896 |
+| Voted Yea | 729 (84.5%) |
+| Voted Nay | 134 (15.5%) |
 | Absent | 33 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.4%
-- **Meetings Attended**: 494 of 502
+- **Meetings Attended**: 497 of 505
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 89.7% (26/29 meetings)
+  - 2026: 90.6% (29/32 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Peter Cuddy (97.4%)
-- Steve Lehman (96.8%)
+- Peter Cuddy (97.5%)
+- Steve Lehman (96.9%)
 - Josh Morgan (96.2%)
 
 **Least aligned with:**
-- Sam Trosow (82.6%)
-- Susan Stevenson (87.9%)
-- David Ferreira (88.9%)
+- Sam Trosow (82.5%)
+- Susan Stevenson (88.0%)
+- David Ferreira (89.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,8 +110,8 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,278 | 3,935 | 266 | 98.2% |
-| Planning and Environment Committee | 2,254 | 2,107 | 42 | 95.3% |
+| Council | 4,305 | 3,962 | 266 | 98.2% |
+| Planning and Environment Committee | 2,308 | 2,131 | 42 | 94.2% |
 | Strategic Priorities and Policy Committee | 2,125 | 1,530 | 144 | 78.8% |
 | Community and Protective Services Committee | 386 | 366 | 13 | 98.2% |
 | Civic Works Committee | 220 | 203 | 3 | 93.6% |
@@ -123,6 +123,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Shawn Lewis voted against the final outcome:*
+
+### 2026-09-22: (3.3) 299-307 Sarnia Road - Z-26076 (Relates to Bill No. 336)
+
+[14th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8112f10f-0c58-4797-88ce-203b5786a372&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Kimko Inc. and 20223388 Holdings Inc. relating to the property ...
+
+Voted **Yea** - Motion Failed (2 to 13)
 
 ### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
@@ -196,14 +204,6 @@ Voted **Nay** - Motion Passed (13 to 2)
 
 Voted **Nay** - Motion Passed (11 to 3)
 
-### 2026-06-16: Downtown Reimagined: City of London Downtown Plan
-
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 31.6 of the Council Procedure By-law, His Worship Mayor J. Morgan, BE PERMITTED to speak an additional 2 minutes with respect to this matter.
-
-Voted **Nay** - Motion Passed (13 to 1)
-
 
 ## Committees Served
 
@@ -217,8 +217,11 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (531 total)
+## Recent Meetings (534 total)
 
+- [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
+- [The 14th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee>) - Mon Sep 21 2026
 - [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
@@ -226,6 +229,3 @@ Voted **Nay** - Motion Passed (13 to 1)
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
 - [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
-- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
