@@ -24,6 +24,14 @@ export default ((opts?: Options) => {
             <a href="/topics">Topics</a>
             <a href="/councillors/alignment">Voting Alignment</a>
             <a href="/committees">Committees</a>
+            {/* Verified design-gate finding: content/election/ (the
+                Election Lens hub - issues, ward pages, councillor
+                positions) had no working entry point anywhere on the
+                site once the homepage's copy of the Explorer browse-tree
+                went dark - it was only ever reachable through that
+                tree's file listing. A direct link here doesn't depend
+                on Explorer being open. */}
+            <a href="/election">Election Hub</a>
           </div>
           <div class="footer-col">
             <strong>Tools</strong>

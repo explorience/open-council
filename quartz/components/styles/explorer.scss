@@ -30,6 +30,27 @@
   display: flex;
   flex-direction: column;
   overflow-y: hidden;
+  // Verified design-gate finding: the mobile ($mobile media query below)
+  // makes `.explorer-content` `position: absolute; top: 0; left: 0` to
+  // slide it in as a full-viewport drawer - but `.explorer` itself was
+  // never a positioning context, so that absolute box had no positioned
+  // ancestor and resolved against the document root instead: it always
+  // rendered pinned to the very top of the PAGE (document y:0), not to
+  // wherever `.explorer` itself sits. Harmless on pages where `.explorer`
+  // already lives near the top of a right sidebar (the offset is small
+  // and easy to miss), but on the homepage - where `.explorer` is
+  // deliberately the last thing in afterBody, and opening it also
+  // auto-scrolls the page down to bring that 34px toggle row into view
+  // (dashboardView.inline.ts / unifiedHeader.inline.ts's browse-trigger
+  // handlers) - the drawer rendered thousands of pixels above the
+  // now-scrolled viewport: functionally open (the CSS class was correct)
+  // but invisible. `position: relative` here is a no-op on desktop
+  // (`.explorer-content` is only `position: absolute` inside the mobile
+  // media query - nothing else in this file positions against `.explorer`
+  // on wider viewports) and makes the mobile drawer anchor to its own
+  // component root everywhere, matching what `top: 0; left: 0` always
+  // intended.
+  position: relative;
 
   min-height: 1.2rem;
   flex: 0 1 auto;
