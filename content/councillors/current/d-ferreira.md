@@ -5,15 +5,15 @@ slug: "d-ferreira"
 meetingCount: 244
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4123
+totalVotes: 4132
 votesYea: 3284
 votesNay: 433
-votesAbsent: 153
+votesAbsent: 162
 votesRecused: 1
 votesAbstained: 4
 votesOther: 248
-attendanceRate: 97.5
-participationRate: 90.2
+attendanceRate: 97.1
+participationRate: 90.0
 yeaRate: 88.4
 contestedDissentRate: 27.4
 contestedVotes: 1560
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,123 |
-| Voted Yea | 3,284 (79.7%) |
+| Total Votes | 4,132 |
+| Voted Yea | 3,284 (79.5%) |
 | Voted Nay | 433 (10.5%) |
-| Absent | 153 (3.7%) |
+| Absent | 162 (3.9%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 4 (0.1%) |
 | Other/Unrecorded | 248 (6.0%) |
@@ -50,7 +50,7 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,109 |
+| Substantive Votes | 3,112 |
 | Voted Yea | 2,316 (84.2%) |
 | Voted Nay | 433 (15.8%) |
 
@@ -71,24 +71,24 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 466 |
+| Budget Votes | 467 |
 | Voted Yea | 367 (80.7%) |
 | Voted Nay | 88 (19.3%) |
-| Absent | 11 |
+| Absent | 12 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 97.5%
-- **Meetings Attended**: 238 of 244
-- **Meetings Missed**: 6
+- **Attendance Rate**: 97.1%
+- **Meetings Attended**: 238 of 245
+- **Meetings Missed**: 7
 - **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 100.0% (29/29 meetings)
+  - 2026: 96.7% (29/30 meetings)
 
 
 ## Voting Alignment
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,192 | 1,843 | 257 | 95.8% |
-| Strategic Priorities and Policy Committee | 1,084 | 729 | 91 | 75.6% |
+| Strategic Priorities and Policy Committee | 1,093 | 729 | 91 | 75.0% |
 | Community and Protective Services Committee | 480 | 429 | 35 | 96.7% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 123 | 92 | 0 | 74.8% |

@@ -2,12 +2,12 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 489
+meetingCount: 491
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8006
-votesYea: 6353
-votesNay: 635
+totalVotes: 8017
+votesYea: 6363
+votesNay: 636
 votesAbsent: 480
 votesRecused: 20
 votesAbstained: 7
@@ -15,8 +15,8 @@ votesOther: 511
 attendanceRate: 98.0
 participationRate: 87.3
 yeaRate: 90.9
-contestedDissentRate: 20.1
-contestedVotes: 2314
+contestedDissentRate: 20.2
+contestedVotes: 2315
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,006 |
-| Voted Yea | 6,353 (79.4%) |
-| Voted Nay | 635 (7.9%) |
+| Total Votes | 8,017 |
+| Voted Yea | 6,363 (79.4%) |
+| Voted Nay | 636 (7.9%) |
 | Absent | 480 (6.0%) |
 | Recused (conflict of interest) | 20 (0.2%) |
 | Abstained | 7 (0.1%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,529 |
-| Voted Yea | 3,995 (86.3%) |
-| Voted Nay | 635 (13.7%) |
+| Substantive Votes | 5,532 |
+| Voted Yea | 3,997 (86.3%) |
+| Voted Nay | 636 (13.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.1%
-- **Contested Votes**: 2,314
+- **Dissent Rate**: 20.2%
+- **Contested Votes**: 2,315
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,36 +71,36 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 880 |
-| Voted Yea | 696 (83.6%) |
-| Voted Nay | 137 (16.4%) |
+| Budget Votes | 881 |
+| Voted Yea | 696 (83.5%) |
+| Voted Nay | 138 (16.5%) |
 | Absent | 45 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 444 of 453
+- **Meetings Attended**: 446 of 455
 - **Meetings Missed**: 9
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 93.5% (29/31 meetings)
+  - 2026: 93.9% (31/33 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (94.1%)
+- Josh Morgan (94.2%)
 - Shawn Lewis (93.9%)
 - Steve Lehman (93.3%)
 
 **Least aligned with:**
-- Susan Stevenson (83.3%)
-- Sam Trosow (85.5%)
+- Susan Stevenson (83.4%)
+- Sam Trosow (85.6%)
 - Paul Van Meerbergen (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -111,18 +111,26 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,313 | 3,635 | 341 | 92.2% |
-| Strategic Priorities and Policy Committee | 2,195 | 1,424 | 158 | 72.1% |
+| Strategic Priorities and Policy Committee | 2,204 | 1,432 | 159 | 72.2% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Civic Works Committee | 378 | 355 | 13 | 97.4% |
 | Community and Protective Services Committee | 374 | 316 | 30 | 92.5% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 116 | 87 | 2 | 76.7% |
-| Infrastructure and Corporate Services Committee | 56 | 50 | 5 | 98.2% |
+| Infrastructure and Corporate Services Committee | 58 | 52 | 5 | 98.3% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
+
+### 2026-10-06: Not to be heard before 1:05 PM - Public Participation Meeting - 2027 Amendments to Consolidated Fees and Charges By-law
+
+[9th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5a0fe1cb-c138-464a-af8d-595d0827ec74&Agenda=PostMinutes&lang=English)
+
+> That the motion BE AMENDED to revise Schedule 1 of the proposed 2027 Consolidated Fees and Charges By-law, as appended to the staff report dated October 6, 2026 as Appendix “B”, to maintain the existi...
+
+Voted **Nay** - Motion Passed (13 to 1)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -196,30 +204,24 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 Voted **Yea** - Motion Failed (7 to 8)
 
-### 2026-06-23: (3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
-
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
-
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...
-
-Voted **Nay** - Motion Passed (10 to 3)
-
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Audit Committee](/committees/audit)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (489 total)
+## Recent Meetings (491 total)
 
+- [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
+- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
@@ -228,5 +230,3 @@ Voted **Nay** - Motion Passed (10 to 3)
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026

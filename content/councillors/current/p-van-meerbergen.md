@@ -2,21 +2,21 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 531
+meetingCount: 533
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 9964
-votesYea: 7724
+totalVotes: 9975
+votesYea: 7735
 votesNay: 1074
 votesAbsent: 640
 votesRecused: 78
 votesAbstained: 23
 votesOther: 425
-attendanceRate: 95.3
+attendanceRate: 95.4
 participationRate: 88.3
 yeaRate: 87.8
 contestedDissentRate: 33.1
-contestedVotes: 2929
+contestedVotes: 2930
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,8 +34,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,964 |
-| Voted Yea | 7,724 (77.5%) |
+| Total Votes | 9,975 |
+| Voted Yea | 7,735 (77.5%) |
 | Voted Nay | 1,074 (10.8%) |
 | Absent | 640 (6.4%) |
 | Recused (conflict of interest) | 78 (0.8%) |
@@ -51,9 +51,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,531 |
-| Voted Yea | 5,535 (83.7%) |
-| Voted Nay | 1,074 (16.3%) |
+| Substantive Votes | 7,534 |
+| Voted Yea | 5,538 (83.8%) |
+| Voted Nay | 1,074 (16.2%) |
 
 
 ### Dissent on Contested Votes
@@ -61,7 +61,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 33.1%
-- **Contested Votes**: 2,929
+- **Contested Votes**: 2,930
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -72,16 +72,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,278 |
-| Voted Yea | 955 (78.5%) |
-| Voted Nay | 261 (21.5%) |
+| Budget Votes | 1,279 |
+| Voted Yea | 956 (78.6%) |
+| Voted Nay | 261 (21.4%) |
 | Absent | 39 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 95.3%
-- **Meetings Attended**: 573 of 601
+- **Attendance Rate**: 95.4%
+- **Meetings Attended**: 575 of 603
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -89,7 +89,7 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.6% (28/29 meetings)
+  - 2026: 96.8% (30/31 meetings)
 
 
 ## Voting Alignment
@@ -112,11 +112,11 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 6,425 | 5,210 | 702 | 92.0% |
-| Strategic Priorities and Policy Committee | 2,453 | 1,612 | 241 | 75.5% |
+| Strategic Priorities and Policy Committee | 2,462 | 1,621 | 241 | 75.6% |
 | Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
 | Corporate Services Committee | 187 | 168 | 9 | 94.7% |
-| Infrastructure and Corporate Services Committee | 177 | 153 | 19 | 97.2% |
+| Infrastructure and Corporate Services Committee | 179 | 155 | 19 | 97.2% |
 
 
 ## Notable Dissenting Votes
@@ -210,17 +210,19 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
-- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
+- [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (531 total)
+## Recent Meetings (533 total)
 
+- [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
+- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
@@ -229,5 +231,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
 - [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026

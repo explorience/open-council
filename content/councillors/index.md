@@ -9,21 +9,21 @@ Browse London City Council members by their meeting attendance and voting record
 
 ## Current Council (2022-2026)
 
-- [Josh Morgan](/councillors/current/j-morgan) - 688 meetings
-- [Anna Hopkins](/councillors/current/a-hopkins) - 670 meetings
-- [Shawn Lewis](/councillors/current/s-lewis) - 534 meetings
-- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 531 meetings
-- [Steve Hillier](/councillors/current/s-hillier) - 489 meetings
-- [Elizabeth Peloza](/councillors/current/e-peloza) - 489 meetings
-- [Steve Lehman](/councillors/current/s-lehman) - 419 meetings
-- [Corrine Rahman](/councillors/current/c-rahman) - 275 meetings
-- [Jerry Pribil](/councillors/current/j-pribil) - 249 meetings
+- [Josh Morgan](/councillors/current/j-morgan) - 690 meetings
+- [Anna Hopkins](/councillors/current/a-hopkins) - 671 meetings
+- [Shawn Lewis](/councillors/current/s-lewis) - 536 meetings
+- [Paul Van Meerbergen](/councillors/current/p-van-meerbergen) - 533 meetings
+- [Elizabeth Peloza](/councillors/current/e-peloza) - 491 meetings
+- [Steve Hillier](/councillors/current/s-hillier) - 490 meetings
+- [Steve Lehman](/councillors/current/s-lehman) - 420 meetings
+- [Corrine Rahman](/councillors/current/c-rahman) - 276 meetings
+- [Jerry Pribil](/councillors/current/j-pribil) - 250 meetings
 - [David Ferreira](/councillors/current/d-ferreira) - 244 meetings
-- [Sam Trosow](/councillors/current/s-trosow) - 242 meetings
-- [Peter Cuddy](/councillors/current/p-cuddy) - 241 meetings
-- [Hadleigh McAlister](/councillors/current/h-mcalister) - 238 meetings
-- [Skylar Franke](/councillors/current/s-franke) - 228 meetings
-- [Susan Stevenson](/councillors/current/s-stevenson) - 225 meetings
+- [Sam Trosow](/councillors/current/s-trosow) - 243 meetings
+- [Peter Cuddy](/councillors/current/p-cuddy) - 242 meetings
+- [Hadleigh McAlister](/councillors/current/h-mcalister) - 240 meetings
+- [Skylar Franke](/councillors/current/s-franke) - 230 meetings
+- [Susan Stevenson](/councillors/current/s-stevenson) - 227 meetings
 
 ## Former Councillors
 

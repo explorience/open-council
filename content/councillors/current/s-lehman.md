@@ -2,11 +2,11 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 419
+meetingCount: 420
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9165
-votesYea: 7849
+totalVotes: 9174
+votesYea: 7858
 votesNay: 491
 votesAbsent: 325
 votesRecused: 54
@@ -16,7 +16,7 @@ attendanceRate: 96.5
 participationRate: 91.0
 yeaRate: 94.1
 contestedDissentRate: 12.2
-contestedVotes: 2469
+contestedVotes: 2470
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,8 +33,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,165 |
-| Voted Yea | 7,849 (85.6%) |
+| Total Votes | 9,174 |
+| Voted Yea | 7,858 (85.7%) |
 | Voted Nay | 491 (5.4%) |
 | Absent | 325 (3.5%) |
 | Recused (conflict of interest) | 54 (0.6%) |
@@ -50,8 +50,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,543 |
-| Voted Yea | 4,403 (90.0%) |
+| Substantive Votes | 5,546 |
+| Voted Yea | 4,406 (90.0%) |
 | Voted Nay | 491 (10.0%) |
 
 
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.2%
-- **Contested Votes**: 2,469
+- **Contested Votes**: 2,470
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 858 |
-| Voted Yea | 705 (85.0%) |
-| Voted Nay | 124 (15.0%) |
+| Budget Votes | 859 |
+| Voted Yea | 706 (85.1%) |
+| Voted Nay | 124 (14.9%) |
 | Absent | 17 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 96.5%
-- **Meetings Attended**: 411 of 426
+- **Meetings Attended**: 412 of 427
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -88,14 +88,14 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 96.7% (29/30 meetings)
+  - 2026: 96.8% (30/31 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Shawn Lewis (96.9%)
-- Peter Cuddy (96.3%)
+- Peter Cuddy (96.4%)
 - Josh Morgan (96.3%)
 
 **Least aligned with:**
@@ -112,7 +112,7 @@ prefillQuestions:
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,312 | 3,892 | 263 | 96.4% |
 | Planning and Environment Committee | 2,308 | 2,137 | 40 | 94.3% |
-| Strategic Priorities and Policy Committee | 2,150 | 1,492 | 124 | 75.2% |
+| Strategic Priorities and Policy Committee | 2,159 | 1,501 | 124 | 75.3% |
 | Civic Works Committee | 206 | 198 | 6 | 99.0% |
 | Budget Committee | 189 | 130 | 58 | 99.5% |
 
@@ -204,16 +204,17 @@ Voted **Nay** - Motion Passed (14 to 1)
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [City Council](/committees/city-council)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Budget Committee](/committees/budget)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (419 total)
+## Recent Meetings (420 total)
 
+- [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [The 14th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee>) - Mon Sep 21 2026
@@ -223,4 +224,3 @@ Voted **Nay** - Motion Passed (14 to 1)
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [The 10th Meeting of the Planning and Environment Committee](</months/2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>) - Mon Jun 22 2026
