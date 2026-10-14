@@ -2,11 +2,11 @@
   "councillor": "David Ferreira",
   "slug": "d-ferreira",
   "attendance": {
-    "totalMeetings": 244,
+    "totalMeetings": 245,
     "present": 238,
-    "absent": 6,
+    "absent": 7,
     "remote": 1,
-    "attendanceRate": 97.54098360655738,
+    "attendanceRate": 97.14285714285714,
     "trend": [
       {
         "period": "2022",
@@ -34,33 +34,33 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 100,
+        "attendanceRate": 96.66666666666667,
         "meetingsAttended": 29,
-        "meetingsTotal": 29
+        "meetingsTotal": 30
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4123,
+    "totalVotes": 4132,
     "yeas": 3284,
     "nays": 433,
-    "absent": 153,
-    "participationRate": 90.15280135823429,
+    "absent": 162,
+    "participationRate": 89.95643756050339,
     "yeaRate": 88.35082055421039,
     "contestedDissentRate": 27.371794871794876,
     "contestedVotes": 1560,
-    "substantiveVotes": 3109,
+    "substantiveVotes": 3112,
     "substantiveYeas": 2316,
     "substantiveNays": 433,
-    "substantiveParticipationRate": 88.42071405596656,
+    "substantiveParticipationRate": 88.33547557840618,
     "substantiveYeaRate": 84.24881775190978
   },
   "budgetVoting": {
-    "totalBudgetVotes": 466,
+    "totalBudgetVotes": 467,
     "budgetYeas": 367,
     "budgetNays": 88,
-    "budgetAbsent": 11
+    "budgetAbsent": 12
   },
   "topAlignments": [
     {
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1084,
+      "totalVotes": 1093,
       "yeas": 729,
       "nays": 91,
-      "participationRate": 75.64575645756457
+      "participationRate": 75.02287282708143
     },
     {
       "committee": "Community and Protective Services Committee",

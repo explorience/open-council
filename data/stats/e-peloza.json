@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 453,
-    "present": 444,
+    "totalMeetings": 455,
+    "present": 446,
     "absent": 9,
     "remote": 1,
-    "attendanceRate": 98.01324503311258,
+    "attendanceRate": 98.02197802197801,
     "trend": [
       {
         "period": "2018",
@@ -58,84 +58,84 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 93.54838709677419,
-        "meetingsAttended": 29,
-        "meetingsTotal": 31
+        "attendanceRate": 93.93939393939394,
+        "meetingsAttended": 31,
+        "meetingsTotal": 33
       }
     ],
-    "trendDirection": "declining"
+    "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8006,
-    "yeas": 6353,
-    "nays": 635,
+    "totalVotes": 8017,
+    "yeas": 6363,
+    "nays": 636,
     "absent": 480,
-    "participationRate": 87.28453659755183,
-    "yeaRate": 90.9129937034917,
-    "contestedDissentRate": 20.138288677614522,
-    "contestedVotes": 2314,
-    "substantiveVotes": 5529,
-    "substantiveYeas": 3995,
-    "substantiveNays": 635,
-    "substantiveParticipationRate": 83.74027853138,
-    "substantiveYeaRate": 86.28509719222463
+    "participationRate": 87.30198328551828,
+    "yeaRate": 90.9129875696528,
+    "contestedDissentRate": 20.17278617710583,
+    "contestedVotes": 2315,
+    "substantiveVotes": 5532,
+    "substantiveYeas": 3997,
+    "substantiveNays": 636,
+    "substantiveParticipationRate": 83.74909616775128,
+    "substantiveYeaRate": 86.27239369738831
   },
   "budgetVoting": {
-    "totalBudgetVotes": 880,
+    "totalBudgetVotes": 881,
     "budgetYeas": 696,
-    "budgetNays": 137,
+    "budgetNays": 138,
     "budgetAbsent": 45
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3196,
-      "agreedVotes": 3009,
-      "alignmentRate": 94.14893617021278
+      "sharedVotes": 3202,
+      "agreedVotes": 3015,
+      "alignmentRate": 94.15990006246096
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3453,
-      "agreedVotes": 3243,
-      "alignmentRate": 93.91833188531712
+      "sharedVotes": 3457,
+      "agreedVotes": 3247,
+      "alignmentRate": 93.92536881689327
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3319,
-      "agreedVotes": 3097,
-      "alignmentRate": 93.31123832479663
+      "sharedVotes": 3323,
+      "agreedVotes": 3101,
+      "alignmentRate": 93.31928979837497
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3091,
-      "agreedVotes": 2881,
-      "alignmentRate": 93.2060821740537
+      "sharedVotes": 3095,
+      "agreedVotes": 2885,
+      "alignmentRate": 93.21486268174475
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1487,
-      "agreedVotes": 1380,
-      "alignmentRate": 92.80430396772024
+      "sharedVotes": 1493,
+      "agreedVotes": 1386,
+      "alignmentRate": 92.8332217012726
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1464,
-      "agreedVotes": 1220,
-      "alignmentRate": 83.33333333333334
+      "sharedVotes": 1470,
+      "agreedVotes": 1226,
+      "alignmentRate": 83.40136054421768
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1444,
-      "agreedVotes": 1235,
-      "alignmentRate": 85.52631578947368
+      "sharedVotes": 1448,
+      "agreedVotes": 1239,
+      "alignmentRate": 85.56629834254143
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 3130,
-      "agreedVotes": 2763,
-      "alignmentRate": 88.27476038338659
+      "sharedVotes": 3136,
+      "agreedVotes": 2769,
+      "alignmentRate": 88.29719387755102
     },
     {
       "councillor": "David Ferreira",
@@ -145,12 +145,21 @@
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1523,
-      "agreedVotes": 1387,
-      "alignmentRate": 91.07025607353907
+      "sharedVotes": 1527,
+      "agreedVotes": 1391,
+      "alignmentRate": 91.0936476751801
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-10-06",
+      "meetingTitle": "9th Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Not to be heard before 1:05 PM - Public Participation Meeting - 2027 Amendments to Consolidated Fees and Charges By-law",
+      "motionText": "That the motion BE AMENDED to revise Schedule 1 of the proposed 2027 Consolidated Fees and Charges By-law, as appended to the staff report dated October 6, 2026 as Appendix “B”, to maintain the existi...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=5a0fe1cb-c138-464a-af8d-595d0827ec74&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-08-25",
       "meetingTitle": "13th Meeting of Council",
@@ -231,15 +240,6 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 8)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-06-23",
-      "meetingTitle": "11th Meeting of Council",
-      "itemTitle": "(3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)",
-      "motionText": "Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 3)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2195,
-      "yeas": 1424,
-      "nays": 158,
-      "participationRate": 72.07289293849658
+      "totalVotes": 2204,
+      "yeas": 1432,
+      "nays": 159,
+      "participationRate": 72.1869328493648
     },
     {
       "committee": "Planning and Environment Committee",
@@ -294,10 +294,10 @@
     },
     {
       "committee": "Infrastructure and Corporate Services Committee",
-      "totalVotes": 56,
-      "yeas": 50,
+      "totalVotes": 58,
+      "yeas": 52,
       "nays": 5,
-      "participationRate": 98.21428571428571
+      "participationRate": 98.27586206896551
     }
   ]
 }

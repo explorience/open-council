@@ -2,11 +2,11 @@
   "councillor": "Jerry Pribil",
   "slug": "j-pribil",
   "attendance": {
-    "totalMeetings": 256,
-    "present": 247,
+    "totalMeetings": 257,
+    "present": 248,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.484375,
+    "attendanceRate": 96.49805447470817,
     "trend": [
       {
         "period": "2022",
@@ -34,84 +34,84 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 93.75,
-        "meetingsAttended": 30,
-        "meetingsTotal": 32
+        "attendanceRate": 93.93939393939394,
+        "meetingsAttended": 31,
+        "meetingsTotal": 33
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4091,
-    "yeas": 3451,
+    "totalVotes": 4100,
+    "yeas": 3460,
     "nays": 342,
     "absent": 52,
-    "participationRate": 92.71571742850159,
-    "yeaRate": 90.98339045610335,
-    "contestedDissentRate": 12.061538461538461,
-    "contestedVotes": 1625,
-    "substantiveVotes": 3079,
-    "substantiveYeas": 2464,
+    "participationRate": 92.73170731707317,
+    "yeaRate": 91.00473435034192,
+    "contestedDissentRate": 12.054120541205412,
+    "contestedVotes": 1626,
+    "substantiveVotes": 3082,
+    "substantiveYeas": 2467,
     "substantiveNays": 342,
-    "substantiveParticipationRate": 91.13348489769406,
-    "substantiveYeaRate": 87.81183178902351
+    "substantiveParticipationRate": 91.14211550940948,
+    "substantiveYeaRate": 87.8248487006052
   },
   "budgetVoting": {
-    "totalBudgetVotes": 476,
-    "budgetYeas": 366,
+    "totalBudgetVotes": 477,
+    "budgetYeas": 367,
     "budgetNays": 103,
     "budgetAbsent": 1
   },
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 1558,
-      "agreedVotes": 1489,
-      "alignmentRate": 95.57124518613607
+      "sharedVotes": 1562,
+      "agreedVotes": 1493,
+      "alignmentRate": 95.58258642765685
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1649,
-      "agreedVotes": 1567,
-      "alignmentRate": 95.02728926622194
+      "sharedVotes": 1653,
+      "agreedVotes": 1571,
+      "alignmentRate": 95.03932244404115
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1658,
-      "agreedVotes": 1572,
-      "alignmentRate": 94.8130277442702
+      "sharedVotes": 1662,
+      "agreedVotes": 1576,
+      "alignmentRate": 94.82551143200962
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1602,
-      "agreedVotes": 1509,
-      "alignmentRate": 94.19475655430712
+      "sharedVotes": 1606,
+      "agreedVotes": 1513,
+      "alignmentRate": 94.20921544209216
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1755,
-      "agreedVotes": 1643,
-      "alignmentRate": 93.61823361823362
+      "sharedVotes": 1759,
+      "agreedVotes": 1647,
+      "alignmentRate": 93.63274587833996
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1745,
-      "agreedVotes": 1487,
-      "alignmentRate": 85.21489971346705
+      "sharedVotes": 1749,
+      "agreedVotes": 1491,
+      "alignmentRate": 85.24871355060034
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1555,
-      "agreedVotes": 1372,
-      "alignmentRate": 88.2315112540193
+      "sharedVotes": 1559,
+      "agreedVotes": 1376,
+      "alignmentRate": 88.26170622193715
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1500,
-      "agreedVotes": 1349,
-      "alignmentRate": 89.93333333333334
+      "sharedVotes": 1504,
+      "agreedVotes": 1353,
+      "alignmentRate": 89.96010638297872
     },
     {
       "councillor": "David Ferreira",
@@ -121,9 +121,9 @@
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1727,
-      "agreedVotes": 1568,
-      "alignmentRate": 90.79328314997105
+      "sharedVotes": 1731,
+      "agreedVotes": 1572,
+      "alignmentRate": 90.81455805892547
     }
   ],
   "notableDissents": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1092,
-      "yeas": 780,
+      "totalVotes": 1101,
+      "yeas": 789,
       "nays": 73,
-      "participationRate": 78.11355311355311
+      "participationRate": 78.29246139872843
     },
     {
       "committee": "Community and Protective Services Committee",

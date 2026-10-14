@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 244,
-    "present": 235,
+    "totalMeetings": 245,
+    "present": 236,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.31147540983606,
+    "attendanceRate": 96.3265306122449,
     "trend": [
       {
         "period": "2022",
@@ -35,39 +35,39 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 29,
-        "meetingsTotal": 29
+        "meetingsAttended": 30,
+        "meetingsTotal": 30
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4067,
-    "yeas": 2960,
+    "totalVotes": 4076,
+    "yeas": 2969,
     "nays": 661,
     "absent": 258,
-    "participationRate": 89.03368576346202,
-    "yeaRate": 81.74537420602044,
-    "contestedDissentRate": 45.68462037637897,
-    "contestedVotes": 1541,
-    "substantiveVotes": 3043,
-    "substantiveYeas": 2029,
+    "participationRate": 89.05789990186457,
+    "yeaRate": 81.79063360881543,
+    "contestedDissentRate": 45.654993514915695,
+    "contestedVotes": 1542,
+    "substantiveVotes": 3046,
+    "substantiveYeas": 2032,
     "substantiveNays": 661,
-    "substantiveParticipationRate": 88.3996056523168,
-    "substantiveYeaRate": 75.42750929368029
+    "substantiveParticipationRate": 88.41103086014445,
+    "substantiveYeaRate": 75.45488303007798
   },
   "budgetVoting": {
-    "totalBudgetVotes": 464,
-    "budgetYeas": 360,
+    "totalBudgetVotes": 465,
+    "budgetYeas": 361,
     "budgetNays": 94,
     "budgetAbsent": 10
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1597,
-      "agreedVotes": 1475,
-      "alignmentRate": 92.3606762680025
+      "sharedVotes": 1601,
+      "agreedVotes": 1479,
+      "alignmentRate": 92.3797626483448
     },
     {
       "councillor": "David Ferreira",
@@ -77,53 +77,53 @@
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1515,
-      "agreedVotes": 1361,
-      "alignmentRate": 89.83498349834983
+      "sharedVotes": 1519,
+      "agreedVotes": 1365,
+      "alignmentRate": 89.86175115207374
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1700,
-      "agreedVotes": 1518,
-      "alignmentRate": 89.29411764705883
+      "sharedVotes": 1704,
+      "agreedVotes": 1522,
+      "alignmentRate": 89.31924882629107
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1623,
-      "agreedVotes": 1402,
-      "alignmentRate": 86.38324091189156
+      "sharedVotes": 1627,
+      "agreedVotes": 1406,
+      "alignmentRate": 86.41671788567916
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1484,
-      "agreedVotes": 1139,
-      "alignmentRate": 76.75202156334232
+      "sharedVotes": 1488,
+      "agreedVotes": 1143,
+      "alignmentRate": 76.81451612903226
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1436,
-      "agreedVotes": 1121,
-      "alignmentRate": 78.06406685236769
+      "sharedVotes": 1440,
+      "agreedVotes": 1125,
+      "alignmentRate": 78.125
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 1431,
-      "agreedVotes": 1158,
-      "alignmentRate": 80.92243186582809
+      "sharedVotes": 1435,
+      "agreedVotes": 1162,
+      "alignmentRate": 80.97560975609757
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 1589,
-      "agreedVotes": 1311,
-      "alignmentRate": 82.50471994965388
+      "sharedVotes": 1593,
+      "agreedVotes": 1315,
+      "alignmentRate": 82.54865034526051
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1641,
-      "agreedVotes": 1357,
-      "alignmentRate": 82.69347958561852
+      "sharedVotes": 1645,
+      "agreedVotes": 1361,
+      "alignmentRate": 82.7355623100304
     }
   ],
   "notableDissents": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1021,
-      "yeas": 678,
+      "totalVotes": 1030,
+      "yeas": 687,
       "nays": 133,
-      "participationRate": 79.43192948090108
+      "participationRate": 79.6116504854369
     },
     {
       "committee": "Community and Protective Services Committee",
