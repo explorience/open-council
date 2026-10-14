@@ -112,9 +112,16 @@ RE_D_NEGATED = re.compile(r"\b(without|not|never)\s+enact\w*\b", re.I)
 # true third-reading match as already-correct and never flag the garble).
 RE_F = re.compile(r"^Enacted (Introduction and )?(First|Second|Third) reading and (final )?enactment of ", re.I)
 
-RE_STAGE_FIRST = re.compile(r"introduction and first reading", re.I)
-RE_STAGE_SECOND = re.compile(r"\bsecond reading\b", re.I)
-RE_STAGE_THIRD = re.compile(r"third reading and enactment\b", re.I)
+# Pre-2018 Word-format eSCRIBE sources sometimes abbreviate the ordinal
+# ("3rd Reading and Enactment of Bill No. 52." -- see ad585adeb78b) where the
+# 2023+ corpus always spells it out ("Third Reading and Enactment of Bill No.
+# X, BE APPROVED."). "3rd"/"1st"/"2nd" mean exactly "third"/"first"/"second"
+# with zero ambiguity, so recognizing either spelling only ADDS correct
+# stage-derivations -- it can never turn a genuine non-match into a false
+# stage hit, since the numeral and the word are perfect synonyms.
+RE_STAGE_FIRST = re.compile(r"introduction and (?:1st|first) reading", re.I)
+RE_STAGE_SECOND = re.compile(r"\b(?:2nd|second) reading\b", re.I)
+RE_STAGE_THIRD = re.compile(r"(?:3rd|third) reading and enactment\b", re.I)
 
 
 def stage_from_quote(quote: str) -> str | None:

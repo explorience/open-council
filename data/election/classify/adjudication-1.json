@@ -1,0 +1,461 @@
+[
+  {
+    "id": "b0dba74c1b25",
+    "field": "issue",
+    "live_value": "none",
+    "pass2_value": "housing",
+    "decision": "keep_pass1",
+    "chosen_value": "none",
+    "quote": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "reason": "Convention: issue is taken from the motion BODY only. The body names no land use/zone; pass2's 'housing' derives solely from the item TITLE's OZ-8279 file code (pass2's own verifierNote admits this: 'item title carries a structural rezoning code ... this corpus's own signal ... regardless of body wording'), which is explicitly the source the convention forbids. Keep pass1 none.",
+    "checkVerdict": "upheld",
+    "checkNote": "Source item 8 (2015-08-24 P&E Committee) body names no land use/zone; pass2's 'housing' derives solely from the item TITLE's OZ-8279 code, which the issue-from-body-only convention forbids. Confirmed keep pass1 'none'."
+  },
+  {
+    "id": "b0dba74c1b25",
+    "field": "whatAYeaDid",
+    "live_value": "Referred the site plan application by Rand Developments Inc. for 250, 268, 270 and 272 Springbank Drive (OZ-8279) to the Civic Administration for further discussion with the applicant and a report back to a future Planning and Environment Committee meeting.",
+    "pass2_value": "Referred the site plan application by Rand Developments Inc. for the properties at 250, 268, 270 and 272 Springbank Drive to the Civic Administration for further discussion with the applicant, with a report back to a future Planning and Environment Committee meeting.",
+    "decision": "keep_pass1",
+    "chosen_value": "Referred the site plan application by Rand Developments Inc. for 250, 268, 270 and 272 Springbank Drive (OZ-8279) to the Civic Administration for further discussion with the applicant and a report back to a future Planning and Environment Committee meeting.",
+    "quote": "the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "reason": "Both wordings are accurate paraphrases of the referral; pass1's is equally correct and additionally carries the OZ-8279 file number from the item title for identification. No provable improvement in pass2; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Source confirms this is a referral with no housing content in the body. Both paraphrases are accurate; pass1's added '(OZ-8279)' identifier is not a defect. No missed improvement."
+  },
+  {
+    "id": "b0dba74c1b25",
+    "field": "quote",
+    "live_value": "the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "pass2_value": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "decision": "adopt_pass2",
+    "chosen_value": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "quote": "That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "reason": "Source paragraph begins verbatim 'That, the site plan application...'. Pass1 silently dropped the leading 'That,'; pass2's quote matches the source string exactly from its first word. More verbatim wins per the quoting convention.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw 2015-08-24 P&E Committee item 8 content[0]: paragraph begins verbatim 'That, the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED...'. Pass2's quote matches exactly; pass1 silently dropped the leading 'That,'. Adoption confirmed correct."
+  },
+  {
+    "id": "b0dba74c1b25",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "That, the site plan application by Rand Developments Inc. ... BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "reason": "The referral text is a single unambiguous clause with no missing/garbled portion and a clean 5-1 recorded vote; nothing in the source supports only 'medium' confidence. High is the better-supported rating.",
+    "checkVerdict": "upheld",
+    "checkNote": "Vote confirmed 5-1 (Yeas M. Brown/P. Hubert/M. Cassidy/P. Squire/S. Turner, Nay J. Helmer) on one clean, ungarbled referral clause. 'High' is at least as well supported as 'medium' and makes no claim about any named councillor's vote direction. Adoption confirmed."
+  },
+  {
+    "id": "8c6af3b2dfbe",
+    "field": "whatAYeaDid",
+    "live_value": "Carried a procedural motion to take up, for a separate recorded vote, clause c) part v) of the Committee's site-plan design conditions for 3100 Colonel Talbot Road (OZ-8486) — the requirement that all building façades contain 50% transparent glazing.",
+    "pass2_value": "Put to a vote clause c) part v) of the Committee's recommendation on the Speyside East Corporation application at 3100 Colonel Talbot Road — a design matter for the Site Plan Approval Authority to consider requiring that building façades on the site contain 50% transparent glazing.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Put to a vote clause c) part v) of the Committee's recommendation on the Speyside East Corporation application at 3100 Colonel Talbot Road — a design matter for the Site Plan Approval Authority to consider requiring that building façades on the site contain 50% transparent glazing.",
+    "quote": "Motion to move clause c), part v) which reads “all building façades are to contain 50% transparent glazing;”",
+    "reason": "This is not a procedural agenda-splitting motion: the paragraph immediately preceding the 4-1 vote is 'Motion to move clause c) part v)' -- i.e. the vote itself adopting that specific Committee recommendation clause, which reads (per the item body) 'the Site Plan Approval Authority BE REQUESTED to consider ... all building facades are to contain 50% transparent glazing.' Pass1's 'procedural motion to take up... for a separate recorded vote' mischaracterizes a substantive design-request vote as mere agenda procedure. Adopt pass2's action-focused wording.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw item 9 content: 'Motion to move clause c) part v)' is immediately followed by its own 4-1 roll call (P. Squire dissenting) — this is the substantive vote adopting that design clause, structurally identical to the adjacent 'Motion to move clause b)' vote that pass1 itself treats as substantive in sibling id ab98bcbd5cc4. Pass1's 'procedural motion to take up... for a separate recorded vote' mischaracterized a real 4-1 design-condition vote as mere agenda housekeeping. Pass2's 'to consider requiring' wording also correctly preserves the clause's own 'BE REQUESTED to consider' hedge (source: clause c) preamble) — no overclaim, no stance verb, 'Put to a vote...' matches an established pattern already used elsewhere in this same batch (e.g. 039017af0740). Adoption confirmed correct and makes the P. Squire dissent record MORE accurate, not less."
+  },
+  {
+    "id": "8c6af3b2dfbe",
+    "field": "flags",
+    "live_value": [
+      "procedural"
+    ],
+    "pass2_value": [],
+    "decision": "adopt_pass2",
+    "chosen_value": [],
+    "quote": "Motion to move clause c), part v) which reads “all building façades are to contain 50% transparent glazing;”",
+    "reason": "Same reasoning as whatAYeaDid: this clause is a substantive site-plan design request voted 4-1 (P. Squire dissenting), not a governance/timeline procedural item, so the 'procedural' flag is wrong and should be dropped.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source finding as whatAYeaDid: this is a substantive 4-1 design-request vote (Squire dissenting), not a governance/timeline procedural item. Dropping the 'procedural' flag is correct. Adoption confirmed."
+  },
+  {
+    "id": "ab98bcbd5cc4",
+    "field": "whatAYeaDid",
+    "live_value": "Carried clause b) of the Committee's recommendation on 3100 Colonel Talbot Road (OZ-8486): introduced a by-law to rezone the property from a holding Residential R5/Residential R6/Community Facility Zone to a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision Zone.",
+    "pass2_value": "On a 4-1 Committee vote, introduced a by-law to amend Zoning By-law No. Z.-1 to rezone a portion of 3100 Colonel Talbot Road (Speyside East Corporation application) FROM a holding Residential R5/Residential R6/Community Facility zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision zone, permitting a Convenience Commercial use on the site.",
+    "decision": "keep_pass1",
+    "chosen_value": "Carried clause b) of the Committee's recommendation on 3100 Colonel Talbot Road (OZ-8486): introduced a by-law to rezone the property from a holding Residential R5/Residential R6/Community Facility Zone to a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision Zone.",
+    "quote": "the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED ... to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility ... Zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision ... Zone",
+    "reason": "Pass1 correctly states the by-law action in motion-action voice without a stance verb. Pass2 is also accurate but embeds the 4-1 vote tally inside whatAYeaDid, which is not this corpus's convention (vote counts are tracked separately, not narrated in the action summary). No provable defect in pass1; keep it.",
+    "checkVerdict": "upheld",
+    "checkNote": "Source item 9 clause b) confirms pass1's by-law/rezone description verbatim (FROM holding R5/R6/CF TO holding R5/R6/CF/Convenience Commercial SP). Pass2 is also accurate but embeds the 4-1 tally inside whatAYeaDid, not this corpus's convention (votes tracked separately from action summaries). No defect in pass1; no missed improvement."
+  },
+  {
+    "id": "ab98bcbd5cc4",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility (h-h-53-h-56-h-91-R5-2/R6-4/CF3) Zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-h-56-h-91-R5-2/R6-4/CF3/CC(_)) Zone",
+    "pass2_value": "Motion to move clause b) which reads “the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility (h-h-53-h-56-h-91-R5-2/R6-4/CF3) Zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-h-56-h-91-R5-2/R6-4/CF3/CC(_)) Zone;”",
+    "decision": "keep_pass1",
+    "chosen_value": "the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility (h-h-53-h-56-h-91-R5-2/R6-4/CF3) Zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-h-56-h-91-R5-2/R6-4/CF3/CC(_)) Zone",
+    "quote": "the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1 ... TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-h-56-h-91-R5-2/R6-4/CF3/CC(_)) Zone",
+    "reason": "Both quotes are verbatim from the source (the operative clause b) text); pass1's is the clean operative language, pass2 wraps it in the 'Motion to move clause b) which reads...' framing sentence. The operative clause text is the more useful, equally verbatim quote; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Both quotes verbatim from source clause b). Pass1's is the clean operative clause text; pass2 wraps the same text in the 'Motion to move clause b) which reads...' framing sentence. Pass1's is the more useful equally-verbatim quote. No missed improvement."
+  },
+  {
+    "id": "cb32785be55a",
+    "field": "whatAYeaDid",
+    "live_value": "Carried part a)i) of the Committee's recommendation on Council Policy 28(2) (Council Members' Expense Account): directed the City Clerk to report back with a proposed by-law replacing in-town vehicle-expense reimbursement with either a flat-rate transportation allowance or a Car Allowance Statement, at each Councillor's discretion.",
+    "pass2_value": "Carried a Corporate Services Committee recommendation on an amendment to Council Policy 28(2), Council Members' Expense Account (the Committee's own motion text was not captured in the source record).",
+    "decision": "keep_pass1",
+    "chosen_value": "Carried part a)i) of the Committee's recommendation on Council Policy 28(2) (Council Members' Expense Account): directed the City Clerk to report back with a proposed by-law replacing in-town vehicle-expense reimbursement with either a flat-rate transportation allowance or a Car Allowance Statement, at each Councillor's discretion.",
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) by deleting the current requirements for reimbursement of in-town vehicle expenses and by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement",
+    "reason": "The item's preamble paragraph (content[0]) contains full recoverable text for clause a)i), immediately followed by 'Motion to Approve part a)i).' and a 5-0 vote. Pass1's whatAYeaDid/quote accurately reflect this real text. Pass2's 'Motion Passed'/no_text claim is factually wrong -- the text exists and is not boilerplate; pass2's own verifierNote elsewhere even concedes 'the item's own preamble text is recoverable.'",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw 2015-08-25 Corporate Services Committee item 7 content[0]: full clause a)i) text is present verbatim ('the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2)...by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement'), immediately followed by 'Motion to Approve part a)i)' at rollCallOrdinal 1 with a 5-0 vote. Pass1's whatAYeaDid is accurate; pass2's no_text/'Motion Passed' claim is false against the source."
+  },
+  {
+    "id": "cb32785be55a",
+    "field": "quote",
+    "live_value": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) by deleting the current requirements for reimbursement of in-town vehicle expenses and by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement",
+    "pass2_value": "Motion Passed",
+    "decision": "keep_pass1",
+    "chosen_value": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) by deleting the current requirements for reimbursement of in-town vehicle expenses and by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement",
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) by deleting the current requirements for reimbursement of in-town vehicle expenses and by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement",
+    "reason": "Verbatim from the item body (content[0]); pass2's quote 'Motion Passed' is not the motion's substantive text and is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source verification: clause a)i) text is verbatim and recoverable; pass2's 'Motion Passed' is not the substantive text and is factually wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "cb32785be55a",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) ...",
+    "reason": "Real, specific clause text is recoverable in the source; this is not the textless-boilerplate era pattern, so no_text is incorrect. Keep pass1's empty flag list.",
+    "checkVerdict": "upheld",
+    "checkNote": "Real, specific clause text is recoverable in the source (confirmed above); this is not the textless-boilerplate era pattern, so pass2's 'no_text' flag is incorrect. Keep pass1's empty flag list confirmed."
+  },
+  {
+    "id": "cb32785be55a",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) ...",
+    "reason": "Consistent with the above: pass1 correctly captured and corrected the record with real text; pass2's 'confirmed' (of a no_text/boilerplate reading) is the wrong verdict given the recoverable text.",
+    "checkVerdict": "upheld",
+    "checkNote": "Consistent with the recovered text: pass1's 'corrected' (real text used to fix a false no_text classification) is right; pass2's 'confirmed' (of a no_text reading) is wrong given the recoverable text."
+  },
+  {
+    "id": "cb32785be55a",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "medium",
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) ...",
+    "reason": "Text is recoverable but this is one clause (a)i) split out of a five-part omnibus motion voted in pieces, warranting a measured (not top) confidence; medium is defensible and unchanged.",
+    "checkVerdict": "upheld",
+    "checkNote": "Text is recoverable but this is one clause (a)i) split out of a five-part omnibus motion voted in pieces; 'medium' remains defensible and unchanged."
+  },
+  {
+    "id": "039017af0740",
+    "field": "whatAYeaDid",
+    "live_value": "Put to a vote parts a), b) and c) of the Local Improvement Initiation report for Franklinway Crescent and Franklinway Gate: authorized notice of a $690,000 local-improvement project (Owner's Share $408,723.75 / Corporation's Share $281,276.25), approved its financing, and authorized the related administrative acts.",
+    "pass2_value": "Put to a vote parts a), b) and c) of the Local Improvement Initiation report for Franklinway Crescent and Franklinway Gate (the parts' own operative text was not captured in the source record).",
+    "decision": "keep_pass1",
+    "chosen_value": "Put to a vote parts a), b) and c) of the Local Improvement Initiation report for Franklinway Crescent and Franklinway Gate: authorized notice of a $690,000 local-improvement project (Owner's Share $408,723.75 / Corporation's Share $281,276.25), approved its financing, and authorized the related administrative acts.",
+    "quote": "Location Owner's Share Corporation's Share Gross Cost / Franklinway Crescent $408,723.75 $281,276.25 $690,000.00 & Franklinway Gate",
+    "reason": "The item's preamble (content[0]) gives full recoverable text for parts a)-c), including the exact cost table ($690,000 gross; $408,723.75 owner's share; $281,276.25 corporation's share), immediately followed by the roll-call motion 'The motion to Approve parts a), b) and c) of clause 7 is put.' Pass1's whatAYeaDid/quote reflect this real, specific text; pass2's no_text/'operative text not captured' claim is factually wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw 2015-09-01 Minutes 24th Meeting item 7#4 content[0]: full text for parts a)-c) is present verbatim, including the exact cost table ($690,000 gross / $408,723.75 owner's share / $281,276.25 corporation's share), immediately followed by 'The motion to Approve parts a), b) and c) of clause 7 is put' with an 11-4 roll call. Pass1's whatAYeaDid is accurate; pass2's 'operative text not captured' claim is false against the source."
+  },
+  {
+    "id": "039017af0740",
+    "field": "quote",
+    "live_value": "the City Clerk BE AUTHORIZED to proceed under the provisions of The Municipal Act, 2001, Ontario Regulation 586/06 with the publishing and the serving of Notice of the Municipal Council’s intention to undertake these works",
+    "pass2_value": "The motion to Approve parts a), b) and c) of clause 7 is put.",
+    "decision": "keep_pass1",
+    "chosen_value": "the City Clerk BE AUTHORIZED to proceed under the provisions of The Municipal Act, 2001, Ontario Regulation 586/06 with the publishing and the serving of Notice of the Municipal Council’s intention to undertake these works",
+    "quote": "the City Clerk BE AUTHORIZED to proceed under the provisions of The Municipal Act, 2001, Ontario Regulation 586/06 with the publishing and the serving of Notice of the Municipal Council’s intention to undertake these works",
+    "reason": "Verbatim from clause a) in the item body; pass2 instead quotes only the roll-call framing sentence ('The motion to Approve parts a), b) and c) of clause 7 is put'), which is not the substantive text and is available in the same body.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source verification: clause a) text is verbatim and recoverable; pass2 instead quotes only the roll-call framing sentence ('The motion to Approve parts a), b) and c) of clause 7 is put'), which is not the substantive text. Keep pass1 confirmed."
+  },
+  {
+    "id": "039017af0740",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the City Clerk BE AUTHORIZED to proceed ... with the publishing and the serving of Notice ...",
+    "reason": "Full substantive text with dollar figures is present in the source; not the boilerplate era pattern, so no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Full substantive text with dollar figures is present in the source (confirmed above); not the boilerplate era pattern, so pass2's 'no_text' flag is wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "039017af0740",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the City Clerk BE AUTHORIZED to proceed ... with the publishing and the serving of Notice ...",
+    "reason": "Pass1 correctly recovered and used the real clause text; pass2's 'confirmed' of a no-text reading is wrong given the recoverable text.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered and used the real clause text (confirmed above); pass2's 'confirmed' of a no-text reading is wrong given the recoverable text."
+  },
+  {
+    "id": "039017af0740",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "medium",
+    "quote": "the City Clerk BE AUTHORIZED to proceed ... with the publishing and the serving of Notice ...",
+    "reason": "Text is fully recoverable but the roll call covers three combined sub-parts (a,b,c) voted together 11-4; medium remains a defensible, unchanged rating.",
+    "checkVerdict": "upheld",
+    "checkNote": "Text is fully recoverable but the roll call covers three combined sub-parts (a,b,c) voted together 11-4; 'medium' remains defensible and unchanged."
+  },
+  {
+    "id": "160250c34ace",
+    "field": "whatAYeaDid",
+    "live_value": "Gave first reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave third reading to, and enacted, Bill Nos. 276 and 277 (the bills' own subject matter was not captured in this record beyond their numbers).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave first reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Introduction and First Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw 2015-09-01 Minutes item XIII: 16 sequential roll calls; motion index 8 (rollCallOrdinal 7) reads 'Approve Introduction and First Reading of Bill No. 303' with a 14-1 vote (P. Squire dissenting) — matches pass1 exactly. Pass2's Bill 276/277 third-reading/enactment attribution belongs to unrelated unanimous (15-0) roll calls at different ordinals outside this batch. Keep pass1 confirmed."
+  },
+  {
+    "id": "160250c34ace",
+    "field": "quote",
+    "live_value": "Approve Introduction and First Reading of Bill No. 303.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No.s 276 and 277.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Introduction and First Reading of Bill No. 303.",
+    "quote": "Approve Introduction and First Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source confirmation: motion index 8 text is exactly 'Approve Introduction and First Reading of Bill No. 303.' Pass2's Bill 276/277 quote is from an unrelated unanimous roll call. Keep pass1 confirmed."
+  },
+  {
+    "id": "160250c34ace",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [
+      "no_text",
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "no_text"
+    ],
+    "quote": "Approve Introduction and First Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1. 'not_divided' is additionally factually wrong: each of these 6 roll calls is a divided vote (14-1 or 11-4), not unanimous.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed 14-1 (not unanimous) at this ordinal; pass2's added 'not_divided' flag is factually false. Keep pass1 confirmed."
+  },
+  {
+    "id": "160250c34ace",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Introduction and First Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered real, specific text (bill number + reading stage + true vote tally); pass2's 'confirmed' of a mis-mapped, wrongly-unanimous reading is wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "f45349024c83",
+    "field": "whatAYeaDid",
+    "live_value": "Gave second reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first, second, and third reading to, and enacted, Bill No. 285 (the bill's own subject matter was not captured in this record beyond its number).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave second reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Second Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw item XIII: motion index 9 (ordinal 8) reads 'Approve Second Reading of Bill No. 303' with a 14-1 vote — matches pass1 exactly. Pass2's Bill 285 first/second/third/enactment attribution belongs to an unrelated unanimous (15-0) roll call outside this batch. Keep pass1 confirmed."
+  },
+  {
+    "id": "f45349024c83",
+    "field": "quote",
+    "live_value": "Approve Second Reading of Bill No. 303.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No. 285.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Second Reading of Bill No. 303.",
+    "quote": "Approve Second Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source confirmation: motion index 9 text is exactly 'Approve Second Reading of Bill No. 303.' Keep pass1 confirmed."
+  },
+  {
+    "id": "f45349024c83",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [
+      "no_text",
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "no_text"
+    ],
+    "quote": "Approve Second Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1. 'not_divided' is additionally factually wrong: each of these 6 roll calls is a divided vote (14-1 or 11-4), not unanimous.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed 14-1 (not unanimous); pass2's 'not_divided' flag is factually false. Keep pass1 confirmed."
+  },
+  {
+    "id": "f45349024c83",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Second Reading of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered real text and true (14-1) tally; pass2's 'confirmed' of a mis-mapped unanimous reading is wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "a7bf2a1af5ca",
+    "field": "whatAYeaDid",
+    "live_value": "Gave third reading to, and enacted, Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first, second, and third reading to, and enacted, Bill No. 297 (the bill's own subject matter was not captured in this record beyond its number).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave third reading to, and enacted, Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Third Reading and Enactment of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw item XIII: motion index 10 (ordinal 9) reads 'Approve Third Reading and Enactment of Bill No. 303' with a 14-1 vote — matches pass1 exactly. Pass2's Bill 297 attribution belongs to an unrelated unanimous roll call outside this batch. Keep pass1 confirmed."
+  },
+  {
+    "id": "a7bf2a1af5ca",
+    "field": "quote",
+    "live_value": "Approve Third Reading and Enactment of Bill No. 303.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No. 297.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Third Reading and Enactment of Bill No. 303.",
+    "quote": "Approve Third Reading and Enactment of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source confirmation: motion index 10 text is exactly 'Approve Third Reading and Enactment of Bill No. 303.' Keep pass1 confirmed."
+  },
+  {
+    "id": "a7bf2a1af5ca",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [
+      "no_text",
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "no_text"
+    ],
+    "quote": "Approve Third Reading and Enactment of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1. 'not_divided' is additionally factually wrong: each of these 6 roll calls is a divided vote (14-1 or 11-4), not unanimous.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed 14-1 (not unanimous); pass2's 'not_divided' flag is factually false. Keep pass1 confirmed."
+  },
+  {
+    "id": "a7bf2a1af5ca",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Third Reading and Enactment of Bill No. 303.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered real text and true (14-1) tally; pass2's 'confirmed' of a mis-mapped unanimous reading is wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "0f7c2a6f781f",
+    "field": "whatAYeaDid",
+    "live_value": "Gave first reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first, second, and third reading to, and enacted, Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave first reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Introduction and First Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw item XIII: motion index 11 (ordinal 10) reads 'Approve Introduction and First Reading of Bill No. 306' with an 11-4 vote — matches pass1 exactly. Pass2's Bill 303 first/second/third/enactment attribution belongs to a different, already-distinct roll call (0f7c2a6f781f's own sibling ordinal 9). Keep pass1 confirmed."
+  },
+  {
+    "id": "0f7c2a6f781f",
+    "field": "quote",
+    "live_value": "Approve Introduction and First Reading of Bill No. 306.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No. 303.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Introduction and First Reading of Bill No. 306.",
+    "quote": "Approve Introduction and First Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source confirmation: motion index 11 text is exactly 'Approve Introduction and First Reading of Bill No. 306.' Keep pass1 confirmed."
+  },
+  {
+    "id": "0f7c2a6f781f",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Introduction and First Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered real, specific text and correct bill number/stage; pass2's 'confirmed' of a mis-mapped reading is wrong. Keep pass1 confirmed."
+  },
+  {
+    "id": "4110ecfa5c4f",
+    "field": "whatAYeaDid",
+    "live_value": "Gave second reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first, second, and third reading to, and enacted, Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave second reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Second Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against raw item XIII: motion index 12 (ordinal 11) reads 'Approve Second Reading of Bill No. 306' with an 11-4 vote — matches pass1 exactly. Pass2's Bill 306 third-reading/enactment attribution is the wrong stage (that is ordinal 12, a separate id). Keep pass1 confirmed."
+  },
+  {
+    "id": "4110ecfa5c4f",
+    "field": "quote",
+    "live_value": "Approve Second Reading of Bill No. 306.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No. 306.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Second Reading of Bill No. 306.",
+    "quote": "Approve Second Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source confirmation: motion index 12 text is exactly 'Approve Second Reading of Bill No. 306.' Keep pass1 confirmed."
+  },
+  {
+    "id": "4110ecfa5c4f",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Second Reading of Bill No. 306.",
+    "reason": "Source has 16 sequential XIII roll calls that night; only 6 are divided (non-unanimous) votes -- Bill 303's first/second/third readings (each Yeas 14, Nays 1: P. Squire) and Bill 306's first/second/third readings (each Yeas 11, Nays 4). This manifest's 5 disputed ids plus a 6th outside this slice are exactly those 6 divided roll calls, each with its own distinct vote tally, confirming pass1's own rollCallOrdinal-by-rollCallOrdinal mapping. Pass2 instead grouped readings by the meeting's 6 bill-UNITS (wrongly pulling in the unanimous 15-0 Bills 276/277/285/297 readings, none of which are divided votes and none of which belong to this manifest batch) -- exactly the mapping error pass1's verifierNote pre-emptively refutes ('the classifier appears to have mapped the 6 divided-vote ids ... sequentially onto the meeting's 6 GROUPED bill-units ... instead of onto their own actual rollCallOrdinals'). Confirmed directly against the raw source vote list; keep pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pass1 correctly recovered real, specific text and correct reading stage; pass2's 'confirmed' of a wrong-stage reading is wrong. Keep pass1 confirmed."
+  }
+]

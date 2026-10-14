@@ -1,0 +1,277 @@
+[
+  {
+    "id": "48017eef0e5d",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Motion to Approve a new part be added to the staff recommendation as follows: “in the event that staff feel that there is a viable opportunity for retention of the building that comes forward prior to its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for the consideration of the Municipal Council;”",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to Approve a new part be added to the staff recommendation as follows: “in the event that staff feel that there is a viable opportunity for retention of the building that comes forward prior to its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for the consideration of the Municipal Council;”",
+    "quote": "Source 2017-02-21 Corporate Services Committee item 8, content block 4: 'Motion to Approve a new part be added to the staff recommendation as follows: “in the event that staff feel that there is a viable opportunity for retention of the building that comes forward prior to its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for the consideration of the Municipal Council;”' -- exact match to pass2's quote, immediately preceding this motion's 4-1 Passed vote block.",
+    "reason": "Pass1 left quote blank and flagged no_text despite the operative amendment text being verbatim present in the source paragraph directly preceding the vote. Pass2 populated it correctly; confidence high is justified by the exact match.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-02-21 CSC item 8 content block 4: quote is byte-verbatim, immediately precedes the 4-1 Passed vote."
+  },
+  {
+    "id": "99378ff56eaf",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+    "quote": "Source item 8, content block 6, paragraph directly preceding the 2-3 Failed vote: identical text found verbatim.",
+    "reason": "Pass1 left quote blank/no_text despite the text being present verbatim in the paragraph preceding the Failed vote. Pass2's quote is an exact match; whatAYeaDid's 'not clear what distinguished this vote' hedge is unchanged and remains correct (voting bloc genuinely reverses with no stated reason) so only quote/verdict move.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-02-21 CSC item 8 content block 6: quote is byte-verbatim, immediately precedes the 2-3 Failed vote; whatAYeaDid hedge left correctly unchanged."
+  },
+  {
+    "id": "68f05230f0fe",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "At 6:34 PM, Mayor M. Brown places Councillor A. Hopkins in the Chair and takes a seat at the Council Board. At 6:39 PM, Mayor M. Brown resumes the Chair, and Councillor A. Hopkins takes her seat at the Council Board.",
+    "decision": "adopt_pass2",
+    "chosen_value": "At 6:34 PM, Mayor M. Brown places Councillor A. Hopkins in the Chair and takes a seat at the Council Board. At 6:39 PM, Mayor M. Brown resumes the Chair, and Councillor A. Hopkins takes her seat at the Council Board.",
+    "quote": "Source 2017-03-02 MINUTES NINTH MEETING item 10, motion_texts field (the vote's own recorded text) reads exactly: 'At 6:34 PM, Mayor M. Brown places Councillor A. Hopkins in the Chair and takes a seat at the Council Board.  At 6:39 PM, Mayor M. Brown resumes the Chair, and Councillor A. Hopkins takes her seat at the Council Board.'",
+    "reason": "This chair-change narrative IS the motion object's own motion_texts field (not an inferred/adjacent paragraph) -- pass1 left it blank despite being literally present. Pass2 correctly populated it verbatim.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-02 MINUTES NINTH MEETING item 10#2: chair-change text is the votes own motion_texts field, byte-verbatim, 10-3 Passed."
+  },
+  {
+    "id": "6b521bacda9d",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "At 5:41 PM Mayor M. Brown resumes the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+    "decision": "adopt_pass2",
+    "chosen_value": "At 5:41 PM Mayor M. Brown resumes the Chair, and Councillor P. Hubert takes his seat at the Council Board.",
+    "quote": "Source item 17 (Request for Naming of Vimy Ridge Park), motion_texts field of the relevant vote block reads exactly: 'At 5:41 PM Mayor M. Brown resumes the Chair, and Councillor P. Hubert takes his seat at the Council Board.'",
+    "reason": "Same pattern as 68f05230f0fe: this is the vote's own recorded motion_texts, not an inference. Pass1 blanked it; pass2 correctly populated verbatim.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-02 MINUTES NINTH MEETING item 17: chair-change text is the votes own motion_texts field, byte-verbatim, 12-1 Passed."
+  },
+  {
+    "id": "c4714998b2aa",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "That the request to rename Mildred Barons Park, located at 444 Kathleen Avenue, to “Vimy Ridge Park” BE REFERRED to a future meeting of the Community and Protective Services Committee when additional information is available related to this matter.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That the request to rename Mildred Barons Park, located at 444 Kathleen Avenue, to “Vimy Ridge Park” BE REFERRED to a future meeting of the Community and Protective Services Committee when additional information is available related to this matter.",
+    "quote": "Source item 18, content block 1 (the printed recommendation clause immediately preceding the specific 11-2 roll call on this item): 'That the request to rename Mildred Barons Park, located at 444 Kathleen Avenue, to “Vimy Ridge Park” BE REFERRED to a future meeting of the Community and Protective Services Committee when additional information is available related to this matter.'",
+    "reason": "The item's own motion_texts field is bare 'Motion Passed', but the printed recommendation clause it enacts is present verbatim immediately above the vote and is what whatAYeaDid already paraphrased -- same accepted pattern as the other adjacent-paragraph quotes in this batch. Pass2 correctly populated it.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-02 MINUTES NINTH MEETING item 18 content block 1: referral clause is byte-verbatim, immediately precedes the 11-2 Passed vote."
+  },
+  {
+    "id": "041fa583b320",
+    "field": "whatAYeaDid",
+    "live_value": "Would have adopted a motion on 'Audio Recording of Municipal Council and Standing Committee In Closed Session Meetings'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "pass2_value": "Would have requested that the Ontario Ombudsman advocate for increased protections, similar to those in other jurisdictions, for municipalities that wish to audio-record their in camera/closed session meetings.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Would have requested that the Ontario Ombudsman advocate for increased protections, similar to those in other jurisdictions, for municipalities that wish to audio-record their in camera/closed session meetings.",
+    "quote": "Source 2017-03-07 Corporate Services Committee item 14, content block 1 (recommendation clause immediately preceding the 2-2 Failed vote): 'That the Ontario Ombudsman BE REQUESTED to advocate for increased protections for municipalities, similar to those provided in other jurisdictions, for municipalities who wish to record their in camera/closed session meetings...'",
+    "reason": "Pass1's 'not recorded' claim is false -- the recommendation text is directly present and unambiguous. Pass2's rewrite correctly keeps the FAILED-motion 'Would have' hedge per convention while stating the real content.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-07 CSC item 14: recommendation clause is byte-verbatim, 2-2 Failed; Would have hedge correctly kept; pass1s not recorded claim was false."
+  },
+  {
+    "id": "041fa583b320",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "That the Ontario Ombudsman BE REQUESTED to advocate for increased protections for municipalities, similar to those provided in other jurisdictions, for municipalities who wish to record their in camera/closed session meetings; it being noted that the Corporate Services Committee received a report entitled “Audio Recording of Municipal Council and Standing Committees In Closed Session Meetings”.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That the Ontario Ombudsman BE REQUESTED to advocate for increased protections for municipalities, similar to those provided in other jurisdictions, for municipalities who wish to record their in camera/closed session meetings; it being noted that the Corporate Services Committee received a report entitled “Audio Recording of Municipal Council and Standing Committees In Closed Session Meetings”.",
+    "quote": "Same source item 14 recommendation clause, exact match confirmed against raw minutes.",
+    "reason": "Same as whatAYeaDid above.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-07 CSC item 14: recommendation clause is byte-verbatim, 2-2 Failed; Would have hedge correctly kept; pass1s not recorded claim was false."
+  },
+  {
+    "id": "041fa583b320",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [],
+    "decision": "adopt_pass2",
+    "chosen_value": [],
+    "quote": "Same source item 14 -- real recommendation text is present verbatim, so no_text is factually wrong.",
+    "reason": "Since the motion's operative text is genuinely available and quoted, the no_text flag must be dropped; matches pass2.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-07 CSC item 14: recommendation clause is byte-verbatim, 2-2 Failed; Would have hedge correctly kept; pass1s not recorded claim was false."
+  },
+  {
+    "id": "041fa583b320",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "N/A (verdict field, not source text) -- follows from the whatAYeaDid/quote/flags correction above.",
+    "reason": "Pass1's verifier wrongly reconfirmed a false 'not recorded' claim; pass2 correctly flags this as a real correction.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-07 CSC item 14: recommendation clause is byte-verbatim, 2-2 Failed; Would have hedge correctly kept; pass1s not recorded claim was false."
+  },
+  {
+    "id": "041fa583b320",
+    "field": "confidence",
+    "live_value": "low",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "N/A (confidence field) -- the operative text is an exact, unambiguous verbatim match.",
+    "reason": "Confidence should reflect the exact source match now that the real text is used.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-07 CSC item 14: recommendation clause is byte-verbatim, 2-2 Failed; Would have hedge correctly kept; pass1s not recorded claim was false."
+  },
+  {
+    "id": "8c25afccefc8",
+    "field": "whatAYeaDid",
+    "live_value": "Adopted a motion on the 2017 Rock the Park One-Time Exemption Request; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "pass2_value": "Approved introducing a by-law granting a one-time exemption to amend the 2017 Special Events Policies and Procedures Manual, adding a fifth day (Sunday, July 16, 2017) to the Rock the Park festival, with sound checks not to occur before 12:00 Noon that day.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved introducing a by-law granting a one-time exemption to amend the 2017 Special Events Policies and Procedures Manual, adding a fifth day (Sunday, July 16, 2017) to the Rock the Park festival, with sound checks not to occur before 12:00 Noon that day.",
+    "quote": "Source 2017-03-20 Strategic Priorities and Policy Committee item 2, content block 1 (recommendation clause immediately preceding the 8-4 Passed vote): 'That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.'",
+    "reason": "Pass1's 'not recorded' claim is false -- the recommendation text is directly present and unambiguous. Pass2's rewrite matches it verbatim.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 2: by-law introduction clause is byte-verbatim, 8-4 Passed; Approved is not a banned stance verb; pass1s not recorded claim was false."
+  },
+  {
+    "id": "8c25afccefc8",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.",
+    "quote": "Same source item 2 recommendation clause, exact match confirmed against raw minutes.",
+    "reason": "Same as whatAYeaDid above.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 2: by-law introduction clause is byte-verbatim, 8-4 Passed; Approved is not a banned stance verb; pass1s not recorded claim was false."
+  },
+  {
+    "id": "8c25afccefc8",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [],
+    "decision": "adopt_pass2",
+    "chosen_value": [],
+    "quote": "Same source item 2 -- real recommendation text is present verbatim.",
+    "reason": "No_text is factually wrong once the real operative text is used; matches pass2.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 2: by-law introduction clause is byte-verbatim, 8-4 Passed; Approved is not a banned stance verb; pass1s not recorded claim was false."
+  },
+  {
+    "id": "8c25afccefc8",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "N/A (verdict field) -- follows from the content correction above.",
+    "reason": "Pass1 wrongly reconfirmed a false 'not recorded' claim; pass2's 'corrected' is the honest verdict.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 2: by-law introduction clause is byte-verbatim, 8-4 Passed; Approved is not a banned stance verb; pass1s not recorded claim was false."
+  },
+  {
+    "id": "8c25afccefc8",
+    "field": "confidence",
+    "live_value": "low",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "N/A (confidence field) -- exact, unambiguous verbatim match.",
+    "reason": "Confidence should reflect the exact source match now that the real text is used.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 2: by-law introduction clause is byte-verbatim, 8-4 Passed; Approved is not a banned stance verb; pass1s not recorded claim was false."
+  },
+  {
+    "id": "7d0da833aef5",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Motion to Open the Public Participation Meeting",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to Open the Public Participation Meeting",
+    "quote": "Source 2017-03-20 Strategic Priorities and Policy Committee item 4, content block 2, paragraph immediately preceding the 12-1 Passed vote: 'Motion to Open the Public Participation Meeting' -- exact match.",
+    "reason": "Pass1's whatAYeaDid already correctly named this text as its source but left the quote field blank and flagged no_text. Pass2 correctly populated it.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: Motion to Open the Public Participation Meeting is byte-verbatim, 12-1 Passed."
+  },
+  {
+    "id": "7d0da833aef5",
+    "field": "flags",
+    "live_value": [
+      "procedural",
+      "no_text"
+    ],
+    "pass2_value": [
+      "procedural"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "procedural"
+    ],
+    "quote": "Same source paragraph -- exact match, not an inference.",
+    "reason": "Since the exact operative text is now quoted verbatim (not inferred from an adjacent clerk's paragraph as originally described), no_text should be dropped; procedural correctly stays.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: Motion to Open the Public Participation Meeting is byte-verbatim, 12-1 Passed."
+  },
+  {
+    "id": "7d0da833aef5",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "N/A (verdict field) -- follows from the quote/flags correction above.",
+    "reason": "Pass1 wrongly reconfirmed a blank quote/no_text state when the exact text was available; pass2's 'corrected' is accurate.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: Motion to Open the Public Participation Meeting is byte-verbatim, 12-1 Passed."
+  },
+  {
+    "id": "e93ff2d8259a",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Motion to exclude the following matters from the approval of the proposed Strategy (Pages 63 to 65 of the Feasibility Study): i) Operating Hours of Festivals and Events ii) Volume of Noise",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to exclude the following matters from the approval of the proposed Strategy (Pages 63 to 65 of the Feasibility Study): i) Operating Hours of Festivals and Events ii) Volume of Noise",
+    "quote": "Source item 4 (same meeting as 7d0da833aef5), content block later in the same item, paragraph immediately preceding the 11-2 Passed vote: exact match, including the roman-numeral sub-items.",
+    "reason": "Pass1's whatAYeaDid already correctly described this content but left quote blank/no_text. Pass2 correctly populated the exact adjacent paragraph; pass2 also explicitly checked for and correctly rejected importing a 'downtown' issue tag from a different, later motion in the same item -- consistent with the issue-from-motion-body-only rule.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: exclusion-of-noise/hours quote is byte-verbatim, 11-2 Passed; confirmed the later downtown-district clause in the same item is a separate motion, correctly not imported as an issue tag."
+  },
+  {
+    "id": "e93ff2d8259a",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "N/A (verdict field) -- follows from the quote correction above.",
+    "reason": "Pass1 wrongly reconfirmed a blank quote when the exact text was available; pass2's 'corrected' is accurate.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: exclusion-of-noise/hours quote is byte-verbatim, 11-2 Passed; confirmed the later downtown-district clause in the same item is a separate motion, correctly not imported as an issue tag."
+  },
+  {
+    "id": "e93ff2d8259a",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "N/A (confidence field) -- exact, unambiguous verbatim match.",
+    "reason": "Confidence should reflect the exact source match now that the real text is used.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2017-03-20 SPPC item 4: exclusion-of-noise/hours quote is byte-verbatim, 11-2 Passed; confirmed the later downtown-district clause in the same item is a separate motion, correctly not imported as an issue tag."
+  },
+  {
+    "id": "92934016e4e8",
+    "field": "issue",
+    "live_value": "bikes",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "bikes",
+    "quote": "Source 2017-03-21 MINUTES 10TH MEETING item 9 ('Queens Avenue and Colborne Street Cycle Tracks'), content block 1, the single printed recommendation clause covering both parts a) and b): 'That...actions be taken with respect to the Queens Avenue and Colborne Street Cycle Tracks: a) the staff report...BE RECEIVED for information; and, b) the tender award BE SUBJECT TO...'; part a) was then voted on separately ('Approve part a) of clause 9').",
+    "reason": "The specific roll call ('part a) of clause 9') is a procedural division of this single printed clause, not a separate motion with its own text -- the clause's own body (not the item title) names 'Cycle Tracks' as the subject of the report being received. Pass2's stricter reading (using only the words 'Approve part a)' and the isolated receive-clause) discards context that is part of the same printed motion body, the same standard this batch already used to accept adjacent-paragraph text as valid motion body elsewhere (e.g. 48017eef0e5d, c4714998b2aa). Since issue tagging (unlike polarity, which stays null here) carries no risk of misstating a vote direction, and pass1's basis is the clause's own operative text rather than the item title, pass1's 'bikes' is the better-supported call; pass2's 'none' is not adopted.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked (keep_pass1): item 9#2 (2017-03-21) Approve part a) of clause 9 = receiving the staff report on Queens Avenue and Colborne Street Cycle Tracks; bikes is a defensible topic tag from the printed clause body per this batchs own adjacent-clause precedent, carries no polarity claim, no missed improvement found."
+  }
+]

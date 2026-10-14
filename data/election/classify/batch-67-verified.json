@@ -1,0 +1,594 @@
+[
+  {
+    "id": "ba6eafcd5cc5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 15: no preceding paragraph text in source; no_text/none correctly applied."
+  },
+  {
+    "id": "3b020e746c62",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved one-time funding of $18,009 for the London Middlesex Immigrant Employment Council (LMIEC) from the Economic Development Reserve Fund.",
+    "confidence": "high",
+    "quote": "Motion to approve one time funding for the London Middlesex Immigrant Employment Council (LMIEC) in the amount of $18,009 to be funded from the Economic Development Reserve Fund; it being noted that future funding request would be eligible for consideration as part of the multi-year budget process.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against raw meeting JSON (item 2 ord 16): quote is verbatim LMIEC $18,009 text; motion Passed 13-1(recused); 'Approved' non-hedged voice correct for a passing motion."
+  },
+  {
+    "id": "0c6fca33c872",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved one-time funding of $3,600 for Hutton House for the acquisition of iPads.",
+    "confidence": "high",
+    "quote": "Motion to approve one-time funding in the amount of $3,600 for Hutton House for the acquisition of iPads.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 17): quote verbatim; Motion Failed 3-12; 'Would have approved' hedge correct."
+  },
+  {
+    "id": "290919f93abb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 19: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "6c278f376bd0",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Could not be confirmed with confidence which of the two pending Pillar Nonprofit Network motions (the original $339,000 request, or the amendment reducing it to $50,000) this specific roll call decided — the vote's bled-through caption text duplicates the original $339,000 paragraph verbatim rather than the closer amendment paragraph, an ambiguity this batch's other duplicate-caption case (Parks/Urban Forestry, ord 26) resolves the opposite way the original classification assumed.",
+    "confidence": "low",
+    "quote": "Motion to approve that the one-time capital funding request of Pillar Nonprofit Network BE APPROVED in the amount of $339,000, to be funded from the 2014 Surplus. / Motion to amend the provision of one-time capital funding to Pillar Nonprofit Network to $50,000 to match other governmental funding.",
+    "flags": [
+      "ambiguous_attribution"
+    ],
+    "verdict": "downgraded",
+    "verifierNote": "REFUTED: checked raw JSON — the vote's nays cell carries bled-through caption text that duplicates the ORIGINAL $339,000 Pillar paragraph verbatim, not the $50,000 amendment paragraph that sits closer to the vote. The one other cluster in this item with the same bleed pattern (Parks/Urban Forestry, ord 26) showed the caption always matches the FIRST of two preceding paragraphs and describes THAT vote's own content — applying the same rule here points to this vote being on the original $339,000 motion, not the amendment, which would flip the framing entirely. Cannot positively confirm either reading."
+  },
+  {
+    "id": "90acfdf779a6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Left no_text/null; genuinely ambiguous which Pillar-cluster vote this is (see 6c278f376bd0 note) — conservative choice correct, could not positively resolve to a specific motion either."
+  },
+  {
+    "id": "f01f05ce543b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred consideration of funding for the South London Neighbourhood Resource Centre to the multi-year budget process.",
+    "confidence": "medium",
+    "quote": "Motion to refer consideration of funding for the South London Neighbourhood Resource Centre to the multi-year budget process.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: bled-through caption text is a unique (non-duplicated) fragment matching the SLNRC referral wording exactly; issue=budget/polarity=null (referral) correct."
+  },
+  {
+    "id": "315cfab18d40",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have provided a $100,000 interest-free loan to the Palace Theatre, with staff directed to identify a source of funding prior to budget finalization.",
+    "confidence": "high",
+    "quote": "Motion to approve that a $100,000 interest free loan BE PROVIDED to the Palace Theatre with staff to identify, and report back prior to the budget finalization, with a source of funding.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 23): quote verbatim, Motion Failed 7-8, 'Would have provided' hedge correct."
+  },
+  {
+    "id": "dba114919255",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 24: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "913f2782de3e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 25: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "34973459c907",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have increased the Parks and Urban Forestry budget allocation by $675,000 in 2015, for a total 2015 allocation of $12,042,000.",
+    "confidence": "high",
+    "quote": "Motion to approve part 2e)ii) with an increased allocation to Parks and Urban Forestry in the amount of $675,000 in 2015; for a total 2015 allocation of $12,042,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 26): bled caption duplicates the $675,000-increase paragraph exactly; Motion Failed 6-8, 'Would have increased' hedge correct."
+  },
+  {
+    "id": "b7a80b51aeca",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved budget part 2e)ii) (the Parks and Urban Forestry allocation) as originally submitted, without the separately-failed $675,000 increase.",
+    "confidence": "low",
+    "quote": "Motion to approve part 2e)ii), as submitted.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 27): unique bled caption 'approve part 2e)ii), as submitted' with no $ figure given — correctly left polarity=null per 'no derivable $ line' rule."
+  },
+  {
+    "id": "c67b6994ef06",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 29: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "c28648be3d3c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 30: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "9e34338784cd",
+    "issue": "climate",
+    "axis": "natural-heritage",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved an additional $175,000 in 2015 operating funding for implementation of the Urban Forest Strategy.",
+    "confidence": "high",
+    "quote": "Motion to approve an additional $175,000 for 2015 for operating costs associated with the implementation of the Urban Forest Strategy.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Quote/direction confirmed verbatim and correct (Motion Passed 12-3, 'Approved' non-hedged). But axis 'program-funding' does not exist anywhere in direction-rules.ts — the vocabulary for issue=climate is only {target-strength, natural-heritage}. Corrected axis to 'natural-heritage' (funding to expand Urban Forest Strategy implementation = increased tree-canopy/natural-heritage program), the closest valid key."
+  },
+  {
+    "id": "47f0abd67d44",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 2 ordinal 32: no preceding paragraph text; no_text/none correct."
+  },
+  {
+    "id": "2ce9b0c30e4f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved the Financial Management (Base Budget) allocation in the amount of $94,736,000, over two proposed reductions to $94,236,000 or $93,736,000.",
+    "confidence": "medium",
+    "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 37): unique bled caption '...Financial Management Budget in the amount of $94,736,000' appears nowhere else as a clean paragraph, confirming it describes this vote's own content; Motion Failed 4-9, 'Would have approved' hedge correct."
+  },
+  {
+    "id": "8472d08a14e3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved the Financial Management (Base Budget) allocation in the amount of $94,736,000, over two proposed reductions to $94,236,000 or $93,736,000.",
+    "confidence": "medium",
+    "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 39): source genuinely repeats the same two reduction paragraphs + identical Failed 4-9 vote a second time (checked raw JSON, idx 58-60) — duplicate-parsed row correctly classified identically to ord 37/40, medium confidence appropriate."
+  },
+  {
+    "id": "5d09f101f7c3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved the Financial Management (Base Budget) allocation in the amount of $94,736,000, over two proposed reductions to $94,236,000 or $93,736,000.",
+    "confidence": "medium",
+    "quote": "Motion to approve the Financial Management Budget in the amount of $94,736,000.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 2 ord 40): source genuinely repeats the same vote a third time (raw JSON idx 61-62) with identical tally and caption — duplicate-parsed row correctly classified identically."
+  },
+  {
+    "id": "40410376574c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 3 ordinal 3: only 'part 3b)ii)' identifies this vote, no substantive content recoverable; issue=none/no_text correctly conservative."
+  },
+  {
+    "id": "fe9ec6d47fea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "No operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Item 3 ordinal 5: duplicate of ord 3 (same 'part 3b)ii)' vote, same tally); correctly classified identically."
+  },
+  {
+    "id": "5e0222ee6f46",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have allocated $120,000 in the 2015 operating budget for two professional internships (12-month placements for foreign-trained individuals), with the business case forwarded to the 2016-2019 budget planning process.",
+    "confidence": "high",
+    "quote": "That $120,000 BE ALLOCATED in the 2015 operating budget for the purpose of the creation of two professional internships (12 month placement of foreign-trained individuals) and the associated Business Case BE FORWARDED to the 2016-2019 Budget Planning Process.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 3 ord 16): quote verbatim, Motion Failed 2-13, 'Would have allocated' hedge correct."
+  },
+  {
+    "id": "6377faf82ea7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part a) of clause 6 of the 2nd Report of the Advisory Committee on the Environment to the Civic Administration for a recommendation to the next Planning and Environment Committee meeting.",
+    "confidence": "medium",
+    "quote": "Motion to refer part a) of clause 6 of the 2nd Report of the Advisory Committee on the Environment to the Civic Administration to provide a recommendation to the next Planning and Environment Committee meeting.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: referral of 'part a) of clause 6' names no substance in its own text; issue=none correct per 'issue from motion body only.'"
+  },
+  {
+    "id": "2d1084719817",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Mr. P. Beechey delegation status relating to the North London Housing Concerns matter.",
+    "confidence": "high",
+    "quote": "Motion to grant Mr. P. Beechey delegation status relating to this matter.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: delegation-status grant, procedural, correctly issue=none."
+  },
+  {
+    "id": "a5125d0e12e5",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested the Civic Administration to report back on possible means for addressing landscaping and tree protection, for the Committee's consideration in the Zelinka Priamo Ltd. boulevard-parking appeal.",
+    "confidence": "medium",
+    "quote": "Motion to approve that the Civic Administration BE REQUESTED to report back on possible means for addressing landscaping and tree protection, for the Civic Works Committee's consideration in determining whether or not it wishes to uphold the appeal by Zelinka Priamo Ltd., on behalf of Dan Bursic, with respect to a commercial boulevard parking agreement for three parking spaces for the property located at 552 Colborne Street.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (Civic Works item 10 ord 2): quote verbatim; 'tree protection' is a literal issue-rules.ts climate keyword hit — issue=climate correctly applied to this informational_ask."
+  },
+  {
+    "id": "472e1d31505b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved denial of the Zelinka Priamo Ltd. appeal for a third commercial boulevard parking space at 552 Colborne Street.",
+    "confidence": "high",
+    "quote": "Motion to approve denial of the appeal.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (Civic Works item 10 ord 3): quote verbatim ('Motion to approve denial of the appeal.'); appeal outcome carries no issue-vocabulary keyword of its own — issue=none correct."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a substitute clause 10, replacing the original in its entirety, allowing the Zelinka Priamo Ltd. appeal in part: two commercial boulevard parking spaces were approved for 552 Colborne Street, subject to conditions, and the request for a third space was denied.",
+    "confidence": "high",
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10: “That...the following actions be taken with respect to the appeal...: a) that appeal BE ALLOWED IN PART to grant the approval of two commercial boulevard parking spaces for 552 Colborne Street subject to the following conditions...; and, b) the request for a third parking space BE DENIED for the following reasons: i) the third parking space is not functional for larger vehicles without the removal of a City boulevard tree; ii) three parking spaces would encompass almost the entire lot frontage and front yard parking is not supported by the West Woodfield Heritage Conservation Plan policies unless no other alternatives exist; and, iii) approval of a wide front yard parking area in the requested location may establish a precedent for more requests for similar front yard/boulevard parking in the area...”",
+    "flags": [
+      "substitution"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED the 'no operative motion text was recovered' claim: checked raw JSON (2015-02-09 MINUTES, item 10, ord 0) and the full substitute-clause text IS present and lengthy (Zelinka Priamo Ltd. appeal, 552 Colborne St. — appeal ALLOWED IN PART for two spaces, third space DENIED). issue=none/polarity=null still correct (boulevard-parking appeal isn't in the 8-issue vocabulary) but the false no_text claim and flag are corrected; quote and whatAYeaDid now reflect the actual recovered text."
+  },
+  {
+    "id": "e7efbd6d7c2d",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved referral of 'Our Move Forward: London's Downtown Plan' back to staff to undertake wording and graphics refinements — not adoption of the Plan. The staff recommendation on the table that night had asked Council to adopt the Plan as a Guideline Document and introduce the implementing by-law; Council referred it instead.",
+    "confidence": "high",
+    "quote": "Approve referral of the “Our Move Forward” London’s Downtown Plan back to staff to undertake wording and graphics refinements.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "MAJOR CORRECTION: checked raw JSON (2015-02-09 MINUTES, item 10#2, ord 0) — the classifier quoted the PRECEDING staff-recommendation paragraph (adopt Downtown Plan as Guideline Document + introduce by-law), but the item's own motion_texts field — what was actually moved, voted on, and PASSED 11-2 — reads 'Approve referral of the \"Our Move Forward\" London's Downtown Plan back to staff to undertake wording and graphics refinements.' Council referred the plan, it did NOT adopt it that night (consistent with dc20140cccf7, which shows the same plan being referred AGAIN a month later). Downgraded expansive/application-approval to null; this was a genuine wrong-direction risk on a real person's vote."
+  },
+  {
+    "id": "4e87cabbc574",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Replaced clause 15 (Canada Post Community Mailbox Program) with a new clause directing Civic Administration to investigate and report back on other municipalities' approaches, and to write to Canada Post requesting enhanced public consultation.",
+    "confidence": "high",
+    "quote": "Approve that clause 15 be amended by deleting the clause in its entirety and by replacing it with the following new clause: a) the Civic Administration BE DIRECTED to investigate and report back at the March 3, 2015 Civic Works Committee meeting on how other municipalities have approached this matter; and, b) the Civic Administration BE DIRECTED to submit a letter to Canada Post requesting that Canada Post undertake an enhanced public consultation process prior to the implementation of the Community Mail Box (CMB) Program and the installation of the CMB's and inform the Municipality as to the results of that consultation.",
+    "flags": [
+      "informational_ask",
+      "substitution"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified word-for-word against raw JSON (item 15 ord 0); substitution of clause 15 correctly described, issue=none correct (Canada Post isn't in the 8-issue vocabulary)."
+  },
+  {
+    "id": "e779642ed836",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the proposed refreshment-vehicle (food truck) licensing by-law in clause b) to remove the GPS-tracking requirement (Section 18.22(j)).",
+    "confidence": "high",
+    "quote": "Motion to amend the proposed by-law in clause b) to remove the GPS requirement (Section 18.22(j)).",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Food-truck licensing (GPS requirement removal) — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "08ba0ba8f526",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Category 7 (refreshment vehicle) licence fee of $1,225 for new licences, or $760 for currently-licensed vehicles.",
+    "confidence": "high",
+    "quote": "Motion to approve the license fee for new licenses to be set at $1,225, or $760 for currently licensed vehicles.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Refreshment-vehicle licence fee schedule — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "76edc8e3244f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the proposed food-truck licensing by-law to reduce the limit on Category 7 Refreshment Vehicle Licenses from 8 to 6 (Section 18.20.1(a)).",
+    "confidence": "high",
+    "quote": "Motion to amend the proposed by-law in part b) to change the limit of Category 7 Refreshment Vehicle Licenses from 8 to 6 (Section 18.20.1(a)).",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Food-truck licence cap reduction — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "cb4b380a2aa8",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have made a pro-rated $50,000 contribution available in 2015 to the Middlesex-London Health Unit, conditional on the Health Unit's Board approving a dentistry-program expansion and reporting back on its success in January 2016.",
+    "confidence": "high",
+    "quote": "That a pro-rated sum of $50,000 BE MADE available, in 2015, to the Middlesex-London Health Unit, on the conditions that: a) their Board approves and establishes an expansion to its dentistry program by hiring an additional dentist(s); and b) they agree to report back on the success of the program in January of 2016.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (item 21 ord 0): quote verbatim, Motion Failed 2-11, 'Would have made' hedge correct."
+  },
+  {
+    "id": "bbeefc2acc7e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed John Peaire and Kathy Kaill as Alternate Members-at-Large to the London Housing Advisory Committee.",
+    "confidence": "high",
+    "quote": "Motion to approve a portion of part k) to appoint John Peaire and Kathy Kaill as Alternate Members-at-Large to the London Housing Advisory Committee.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Appointment to an advisory committee — appointments are direction-null by convention; issue=none correct."
+  },
+  {
+    "id": "658f759dd249",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the 'Strengthening our Community' section of the draft 2015-2019 Strategic Plan to add a bullet point on considering a gender lens in the development and execution of new policies.",
+    "confidence": "high",
+    "quote": "Motion to approve that the section entitled \"Strengthening our Community\" BE AMENDED in Section 2, Part B, by adding the bullet point \"Consider a gender lens during the development and execution of new policies\".",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Strategic Plan wording amendment (gender lens) — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "2a18338125b1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Suspended sections of the Council Procedure By-law to permit an emergent employee-negotiations matter to be dealt with in camera at the meeting.",
+    "confidence": "high",
+    "quote": "Motion to approve that pursuant to section 2.4 of the Council Procedure By-law, sections 4.3 (Agenda - special meetings - notice - delivered - 24 hours) and 24.7 (Corporate Services Committee - matters) of the said by-law BE SUSPENDED to permit the following emergent matter to be dealt with, in camera, at the February 23, 2015 Strategic Priorities and Policy Committee meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedure by-law suspension for an in-camera matter — governance/procedural, GLOBAL_EXCLUDE territory; issue=none correct."
+  },
+  {
+    "id": "58e2048ac4eb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted Clause 12 (Food Trucks / Business Licensing By-law L-6 amendments) of the 3rd Report of the Community and Protective Services Committee; this vote was reconsidered and re-taken later in the same meeting after a stated misunderstanding of the question.",
+    "confidence": "medium",
+    "quote": "That on the recommendation of the Managing Director, Development and Compliance Services and the Chief Building Official, the following actions be taken with respect to the amendments to the Business Licensing By-law L-6...",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Food-truck/business-licensing adoption with same-meeting reconsideration — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "f3482333bcad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred clause 2 of the 1st Report of the Town and Gown Committee back to that Committee for the election of a Vice-Chair, and received clauses 1 and 3 to 16.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 1st Report of the Town and Gown Committee from its meeting held on January 28, 2015: a) clause 2 of the 1st Report of the Town and Gown Committee BE REFERRED back to the Town and Gown Committee for the election of a Vice-Chair, as M. Cassidy, Deputy Mayor, currently fulfills that role as Chair, in accordance with a previous Council decision; and, b) clauses 1 and 3 to 16 BE RECEIVED.",
+    "flags": [
+      "referral",
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Town and Gown Committee vice-chair referral + receipt of remaining clauses — procedural, issue=none correct."
+  },
+  {
+    "id": "dc20140cccf7",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred 'Our Move Forward: London's Downtown Plan' to the Civic Administration to report back at the April 7, 2015 Planning and Environment Committee meeting to permit further refinement.",
+    "confidence": "high",
+    "quote": "Recommendation: That, \"Our Move Forward\" London's Downtown Plan, BE REFERRED to the Civic Administration to report back at the April 7, 2015, Planning and Environment Committee meeting to permit the Civic Administration to further refine the document.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified (2015-03-02 P&E item 4 ord 0): the preceding 'Recommendation' text IS what was moved (motion_texts is a bare 'Motion Passed', no substitute clause) — unlike e7efbd6d7c2d this one's quote is exactly what passed. Referral, issue=downtown/polarity=null correct."
+  },
+  {
+    "id": "38ec3ff67542",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration to review and report back on improving snow-removal practices at London Transit stops, and to consider alternatives to road salt on sidewalks and transit stops.",
+    "confidence": "high",
+    "quote": "Recommendation: That the following actions be taken with respect to the City of London's Winter Maintenance Program: a) the Civic Administration BE REQUESTED to review and report back to the Civic Works Committee on how current snow removal practices at London Transit stops can be improved to ensure that snow removed from those stops is not placed on adjacent private property; and b) the Civic Administration BE REQUESTED to consider alternatives to use of road salt on sidewalks and transit stops.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Snow-removal/road-salt report-back request — 'road salt' and 'snow removal' are not climate-vocabulary keywords; issue=none correct."
+  },
+  {
+    "id": "35c1f2fcbea1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a set of requested actions on Canada Post's Community Mailbox Program, including public-engagement requests, a statement that the City would not endorse the program pending consultation, a directive to negotiate a right-of-way agreement, and a mayoral letter supporting retention of door-to-door delivery.",
+    "confidence": "medium",
+    "quote": "THEREFORE BE IT RESOLVED THAT: The following actions be taken prior to Canada Post making efforts to replace the door-to-door mail delivery service with community mailboxes (CMB) within the City of London: a) Canada Post BE REQUESTED to conduct public engagement sessions...; c) Canada Post BE ADVISED that the City of London will not endorse Canada Post's actions prior to the public engagement process being satisfactorily completed; ...; e) the Mayor BE REQUESTED to send a letter to Deepak Chopra, Chief Executive Officer, Canada Post, to inform Canada Post that the City of London supports the existing delivery system and wishes to retain this valuable service for our community.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Canada Post community-mailbox actions — not in the 8-issue vocabulary; issue=none correct."
+  },
+  {
+    "id": "c04b102f8398",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to consider, as part of the requested report back on the Council Members' Expense Policy, tighter expense-claim deadlines, a monthly transportation allowance, and restrictions on use of the annual expense allocation from Nomination Day to the end of the Council term.",
+    "confidence": "high",
+    "quote": "That the City Clerk BE DIRECTED to consider, as part of the previously-requested report back on possible changes to the Council Members' Expense Policy, the matters included in the February 27, 2015 communication from Councillor J. Morgan regarding tighter deadlines for expense claims, a monthly transportation allowance within the existing expense allocation, and restrictions on use of the annual expense allocation from Nomination day to the end of a Council term.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Council members' expense-policy directive — governance/administrative, not in vocabulary; issue=none correct."
+  },
+  {
+    "id": "235b84c69dee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved preserving the Health Services building on the Old Victoria Hospital lands.",
+    "confidence": "high",
+    "quote": "Motion to preserve the Health Services building.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Heritage-building preservation (Old Victoria Hospital lands) — checked issue-rules.ts housing include-list, no match (heritage/demolition isn't a housing-vocabulary term); issue=none correct."
+  },
+  {
+    "id": "45a1610eda34",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Consented to the demolition of the 1945 and later additions to the War Memorial Children's Hospital building, the buildings at 385, 373 and 351 Hill Street, and the building at the southeast corner of Hill Street and Waterloo Street.",
+    "confidence": "high",
+    "quote": "Motion to consent to the demolition of the 1945 and later additions to the War Memorial Children's Hospital building, the buildings at 385, 373, and 351 Hill Street and the building at southeast corner of Hill Street and Waterloo Street.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Heritage-building demolition consent — same as above, not in housing vocabulary; issue=none correct."
+  },
+  {
+    "id": "ca5732aa74e6",
+    "issue": "climate",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reduced the 2015 Assessment Growth Funding allocation for Street Light Maintenance (Contracted Service) by $52,000 and increased the allocation for Urban Forestry (Contracted Service) proportionately by the same $52,000, a net-zero reallocation between the two programs.",
+    "confidence": "high",
+    "quote": "the allocation for Program/Case # 15 - Street Light Maintenance (Contracted Service) BE REDUCED by $52,000 and the allocation for Program/Case #8 - Urban Forestry (Contracted Service) BE INCREASED proportionately by $52,000.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Quote and no-direction call confirmed (net-zero reallocation, correctly polarity=null). But issue was tagged 'none' even though the motion's OWN text names 'Urban Forestry' — a literal climate-vocabulary keyword hit ('urban forest'), and this exact batch tags the sibling Urban Forest Strategy funding motion (9e34338784cd) as climate. Corrected issue to climate for consistency; polarity stays null (budget-neutral swap between two program lines, not a clean net change)."
+  }
+]

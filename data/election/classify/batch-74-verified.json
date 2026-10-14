@@ -1,0 +1,577 @@
+[
+ {
+  "id": "6dbf53cb6a71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred part a) of the “One River” Master Plan Environmental Assessment clause to later in the meeting, in order to obtain additional legal information in closed session before consideration.",
+  "confidence": "high",
+  "quote": "Approve referral of part a) of clause 12 to later in the meeting, in order to obtain additional legal information in closed session, prior to consideration.",
+  "flags": [
+   "referral",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 12 (“One River” EA) in source: quote verbatim, whatAYeaDid correctly hedged (Failed) and describes the referral-only act (motion-action voice, no stance verb). Axis/polarity correctly null — the clause's only verb is a referral, a non-decision per direction-rules.ts."
+ },
+ {
+  "id": "9a2e9e35679e",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended the Creating a Vibrant and Competitive Downtown clause to approve $100,000 in immediate funding from the Economic Development Reserve Fund for Downtown London to engage Live Work Learn Play on its recruitment initiative, contingent on a matching $100,000 from Downtown London, and would have requested Downtown London report back to the Strategic Priorities and Policy Committee by December 2016 with progress and a revised business plan.",
+  "confidence": "high",
+  "quote": "immediate funding in the amount of $100,000, to be paid from the Economic Development Reserve Fund, BE APPROVED in order for Downtown London to engage Live Work Learn Play (LWLP) to commence their “Creating a Vibrant and Competitive Downtown” recruitment initiative, contingent on Downtown London contributing $100,000",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified against full source (item 4#4, 2016-03-22): quote is a verbatim, complete match of the amendment text; roll call is 7-8 Failed as recorded, whatAYeaDid correctly hedged (“Would have...”), no stance verb. downtown/application-approval/expansive confirmed — the $100k funding line is the motion's own printed net-effect-of-passing figure, correctly signed."
+ },
+ {
+  "id": "805c86b5ff88",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced the proposed by-law appended to the staff report dated March 29, 2016 (Appendix “A”) at the April 5, 2016 Municipal Council meeting, to amend the Traffic and Parking By-law (P.S. 111).",
+  "confidence": "low",
+  "quote": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): item 3 (Civic Works Committee, 2016-03-29) is not boilerplate — full operative text precedes this 4-1 vote (only this specific motion node's own text says \"Motion Passed\"). Corrected the false “no text recorded” claim with the actual by-law-introduction text. Issue stays none: “traffic and parking by-law” matches no tracked-issue keyword (not “transit” — no “traffic calming”/“road widening”/“bus route” etc. present)."
+ },
+ {
+  "id": "9476baec322f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have substituted a revised by-law excluding the Community Mail Box “No Parking in Posted Locations” provisions from part 7 of the original draft, requested the Civic Administration report back on enforcing parking restrictions on a complaint basis at Community Mail Box locations, and received a communication from J. Ostrom on the matter.",
+  "confidence": "medium",
+  "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111); it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes as originally contained in part 7 of the draft by-law submitted by the Civic Administration",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): this 2-3 failed vote's own node just says “Motion Failed” but the preceding PARA carries the full substitute-motion text. Corrected the false “no text recorded” claim; issue stays none (same traffic/parking-by-law reasoning as its twin item, 805c86b5ff88)."
+ },
+ {
+  "id": "aab1d0fc1bdc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved part c) of the recommendation on the Victoria on the River plan of subdivision revisions submitted by Sifton Properties Limited, introducing the by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "OVERTURNED (no_text/none was false): committee-stage item 13 (Planning and Environment Committee, 2016-03-29) is not boilerplate — full parts a)/b)/c) text precedes the roll calls, and this specific 3-2 divided vote is separately labeled \"Motion to approve part c) of the staff report\": part c) is the rezoning by-law introduction, the identical clause later re-adopted 10-1 at Council (1d40691a851c/307acbe2abec). Reclassified housing/application-approval/expansive with its own verbatim quote."
+ },
+ {
+  "id": "9da63985bc96",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 2nd Report of the Community Safety and Crime Prevention Advisory Committee: approving the Committee's 2016 Work Plan; advising Council that the Committee expressed support for Business Case #17 (Winter Maintenance) and requested snow removal for schools and seniors' areas be made a higher priority; taking no action on the Committee's proposed letters to Council and the London Police Services Board regarding Community Resource Officer and Children's Safety Village consultation and School Crossing Guard support; noting that the 2016-2019 Multi-Year Budget process had been finalized; and receiving clauses 1 to 2 and 4 to 8.",
+  "confidence": "medium",
+  "quote": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): item 21 (Community and Protective Services Committee, 2016-03-30) carries full a)-f) text, not boilerplate, preceding this 4-1 vote. Corrected the false claim. Issue stays none: this is an omnibus bundle (work-plan approval + advisory notes + declined correspondence + budget-process noting + receipt of other clauses) with no single substantive tracked-issue axis — parts c)/d)/e) decline to send letters ABOUT consultation on the police budget process, not a direct policing-budget position."
+ },
+ {
+  "id": "32ba74890b39",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 10 of the 5th Report of the Community and Protective Services Committee, as amended, authorizing the City, in partnership with The Royal Canadian Regiment Museum, to submit a joint application for a LAV III Public Art Monument at Wolseley Barracks; approving up to $100,000 in funding from the Public Art Acquisition Reserve Fund to implement the project; and directing the Civic Administration to explore potential federal funding opportunities to assist with implementation.",
+  "confidence": "high",
+  "quote": "funding of up to $100,000, to be drawn from the existing City of London Public Art Acquisition Reserve Fund, BE APPROVED, to implement the LAV III Public Art Monument project",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 10#2 (LAV III Public Art Monument) in source: this motion's own node reads only “Approve clause 10, as amended” (a wrapper), but the preceding PARA (parts a/b) plus the amendment motion (adding part c, federal-funding exploration, Passed 10-0) together give the full substance; whatAYeaDid and the $100,000 quote verified verbatim against the PARA. issue:none correct — a public-art monument authorization/funding item matches no tracked-issue keyword."
+ },
+ {
+  "id": "1d40691a851c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved revisions to the draft-approved Victoria on the River plan of subdivision submitted by Sifton Properties Limited (lands north of Commissioners Road East, east and west of Sheffield Boulevard), showing 172 single-family lots and a mix of multi-family, commercial/office, park, and stormwater blocks, and introduced a by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified against full source (item 13, Council, 2016-04-05): quote verbatim and complete, 10-1 Passed as recorded, whatAYeaDid unhedged (correct for Passed) with no stance verb. housing/application-approval/expansive confirmed — introducing the rezoning by-law is the motion's own operative act."
+ },
+ {
+  "id": "307acbe2abec",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved revisions to the draft-approved Victoria on the River plan of subdivision submitted by Sifton Properties Limited (lands north of Commissioners Road East, east and west of Sheffield Boulevard), and introduced a by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards; a further, more divided vote on the same clause 13.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: same item 13, a second, immediately-consecutive roll call (9-2 Passed) on the identical clause with no intervening business — the source records its own text only as “Motion Passed” (a recorded-vote artifact), so the quote is inherited from the first roll call's identical clause rather than this specific node's own placeholder text. Confidence correctly downgraded to medium; whatAYeaDid explicitly flags it as “a further, more divided vote on the same clause 13” (the convention's re-vote qualifier). No false direction: same clause, same polarity as its paired vote."
+ },
+ {
+  "id": "d537dc042224",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of climate change risk disclosures on gas pumps to the Civic Administration to be considered in its review of the L-6 Business Licensing By-law, to be reported back to the Community and Protective Services Committee in June 2016, and requested the Mayor petition the provincial government for a province-wide initiative on this matter following that report back.",
+  "confidence": "medium",
+  "quote": "this matter BE REFERRED to the Civic Administration to be considered in its review of the L-6 Business Licensing By-law, which will be reported back to the Community and Protective Services Committee in June 2016; and, c) subsequent to the report back in part b), the Mayor BE REQUESTED to petition the provincial government with respect to a province-wide initiative, with respect to this matter.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 14 (Climate Change Risk Disclosures on Gas Pumps) in source: this 7-4 vote's own node reads only “The motion to Approve parts b) and c) of the clause is put,” but the preceding PARA gives parts b)/c) verbatim, matching the quote exactly. climate/null/null confirmed — both verbs are BE REFERRED/BE REQUESTED (non-decisions)."
+ },
+ {
+  "id": "a72b1a91dec6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended the Transportation Network Companies licensing-options clause to add a requirement that the recommended actions be contingent on all Transportation Network Company platforms withdrawing or suspending current services in London until vehicle-for-hire regulations are in place.",
+  "confidence": "high",
+  "quote": "Approve an amendment to part b) to add the following: \"and that these actions BE CONTINGENT upon the withdrawal/suspension of all current services by all platforms of TNC companies, until regulations are in place;\"",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item 18, 2016-04-05): quote verbatim and complete, 3-8 Failed as recorded, whatAYeaDid correctly hedged, no stance verb. issue:none correct — Transportation Network Company / vehicle-for-hire licensing matches no tracked-issue keyword."
+ },
+ {
+  "id": "fa4310080218",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received a staff report on licensing options for Transportation Network Companies, directed the Civic Administration to hold public consultation sessions on vehicle-for-hire regulation with a report back to the Community and Protective Services Committee, and directed the Civic Administration to request that electronic vehicle-sourcing platforms matching passengers with unlicensed vehicles for hire immediately stop operating in London until by-law amendments addressing vehicles for hire and brokers are in force.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to organize public consultation sessions to allow for public feedback on the form and regulation of the vehicle for hire industry, with a report back at a future meeting of the Community and Protective Services Committee; and... the Civic Administration BE DIRECTED to request that any electronic vehicle sourcing platforms used to match passengers with unlicensed vehicles for hire (as they are currently not permitted) immediately stop operating in London, until any future by-law amendments addressing vehicles for hire and brokers are in full force and effect",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item 18, second roll call, 10-1 Passed): this node's own text is only “Motion Passed,” but the item's base recommendation PARA (parts a/b/c, standing unamended since the only proposed amendment, a72b1a91dec6, failed) matches the quote verbatim. issue:none correct (same reasoning as a72b1a91dec6)."
+ },
+ {
+  "id": "bdfc70793f5d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have deferred clauses 17 and 18 of the 9th Report of the Corporate Services Committee, including Deputy Mayor M. Cassidy's request to stand for election to the Federation of Canadian Municipalities Board of Directors, to the April 26, 2016 Corporate Services Committee meeting for consideration.",
+  "confidence": "high",
+  "quote": "Approve that clauses 17 and 18 BE DEFERRED to the April 26, 2016 Corporate Services Committee meeting for consideration.",
+  "flags": [
+   "referral",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 18#2 (FCM Board of Directors nomination, deferred) in source: quote verbatim and complete, correctly hedged (Failed → deferral did not pass, meaning the underlying clauses proceeded rather than being deferred — re-checked: the deferral motion itself is what's recorded here and is what failed; whatAYeaDid accurately describes what the deferral WOULD have done). issue:none/null correct — procedural deferral, no substantive position."
+ },
+ {
+  "id": "c3646a62f0c5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a lease between The Corporation of the City of London and the Western Fair Association, attached as Schedule “A” to the report from the Director, Financial Services.",
+  "confidence": "high",
+  "quote": "the lease between The Corporation of the City of London and the Western Fair Association, attached as Schedule “A”, BE APPROVED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 22#2 in source and confirmed the classifier's own noted title/item-number reuse quirk: item 22#2 bundles three unrelated motions (Canada Post no-parking-sign costs, an unrelated Committee-of-the-Whole environmental/engineering forwarding motion, and this 9-1 Western Fair Association lease approval) — disambiguated correctly by yea/nay match to the THIRD (lease) motion, not the stale “Canada Post” item title. Quote verbatim. issue:none correct — a facility lease matches no tracked-issue keyword."
+ },
+ {
+  "id": "0697bb76dbd8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 3 to introduce a revised Traffic and Parking By-law (P.S. 111) at the April 5, 2016 Council meeting, excluding the “No Parking in Posted Locations” provision for Canada Post community mail boxes, and referred a separate proposed by-law on “No Parking” within one metre of certain Canada Post community mail boxes back to staff to develop clearer wording.",
+  "confidence": "high",
+  "quote": "the attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016... and b) the attached proposed by-law (Appendix “B”) BE REFERRED back to staff develop clearer wording to provide for “No Parking” within 1 metre of certain Canada Post community mail boxes",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 3#5 (Council, 2016-04-05) in source: quote verbatim and complete (the amended clause 3 text, excluding Canada Post community mail box “No Parking in Posted Locations” provisions, plus the referral of the separate mailbox by-law back to staff). issue:none correct (traffic/parking by-law, no tracked-issue keyword); axis/polarity null correct — the operative parts are an introduction-with-exclusion plus a referral, not a contested approve/deny on a tracked issue."
+ },
+ {
+  "id": "3c8b0641b5b8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the introduction to the Dog Licensing and Control By-law (By-law PH-4) clause to add reference to “the related matter of outdoor tethering of dogs” in its opening sentence.",
+  "confidence": "high",
+  "quote": "Approve that clause 9 be amended in the introduction, to read as follows: “8. That the following actions be taken with respect to the Dog Licensing and Control By-law (By-law PH-4), and the related matter of outdoor tethering of dogs:”",
+  "flags": [
+   "wrapper_preamble",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 8#2 (Dog Licensing and Control By-law / outdoor tethering) in source: quote verbatim and complete (a wrapper-preamble amendment adding “and the related matter of outdoor tethering of dogs” to the introductory sentence only — no substantive standard changed). issue:none/null correct — a preamble-wording amendment, not a substantive dog-control decision, and dogs/tethering is not a tracked issue regardless."
+ },
+ {
+  "id": "63cc49a1e8e2",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 149.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: Bill 149's first reading is separated from the block reading (Bill No.s 124-148/152-156) with its own 8-2 roll call, consistent across all three readings; item 13's title itself confirms “(Relates to Bill No. 149).” housing/application-approval/expansive, reading-voice lowercase stage phrase correct, no enactment wording (first reading only)."
+ },
+ {
+  "id": "15c133163146",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 149",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: same Bill 149, second reading, 8-2, consistent with first/third reading tallies. Reading-voice correct."
+ },
+ {
+  "id": "f85eb0b8aa9c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 149, the by-law rezoning the Victoria on the River subdivision lands (39T-09502/Z-8528) submitted by Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 149.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: same Bill 149, third reading, 8-2, consistent with first/second reading tallies; “Gave third reading and enacted” correctly used only here (genuine third-reading+enactment per the quote “Third Reading and Enactment”), not on the first/second-reading rows."
+ },
+ {
+  "id": "a340affea5b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Introduction and First Reading of Bill No. 151.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: Bill 151's subject is genuinely unidentifiable anywhere in the 2016-04-05 meeting file — grepped every occurrence of “151” in the raw JSON; each is only a reading-motion label, no descriptive text anywhere. issue:none/confidence:low correctly reflects this, not a guess from a title (there is no title to guess from)."
+ },
+ {
+  "id": "75e9ddf2c1e1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Second Reading of Bill No. 151.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: same Bill 151 second reading, same unidentifiable-subject finding as a340affea5b2."
+ },
+ {
+  "id": "e9ae41bff02d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 151; the by-law's subject is not identified anywhere else in the meeting record.",
+  "confidence": "low",
+  "quote": "Approve Third Reading and Enactment of Bill No. 151.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: same Bill 151 third reading/enactment, same unidentifiable-subject finding; “Gave third reading and enacted” correctly reserved for this genuine third-reading+enactment row only."
+ },
+ {
+  "id": "b1fb8e0b0b43",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the recommendation on the Thames Valley District School Board's application for the property at a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road, introducing a by-law to rezone the property from Holding Residential R1 zones to a Neighbourhood Facility Special Provision/Holding Residential R1 zone permitting single detached dwellings and a Neighbourhood Facility (places of worship, elementary schools, day care centres), and requesting the Site Plan Approval Authority to consider specified urban design and pedestrian/traffic-safety measures through the site plan process.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 19, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h*R1-3) Zone, a Holding Residential R1 (h*R1-4) Zone and a Residential R1 Special Provision (R1-3(7)) Zone TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF(   )/h*R1-3) Zone",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "OVERTURNED (no_text/none was false): committee-stage item 8 (Planning and Environment Committee, 2016-04-11) carries the full a)/b) recommendation text, not boilerplate — this 4-1 vote IS that recommendation. Per convention \"committee and Council twins with identical text carry ONE verdict\": same clause re-adopted 10-1 at Council (9f51805affed). Reclassified housing/application-approval/expansive to match its Council twin."
+ },
+ {
+  "id": "b0e9db24ec4b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part a) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the candidate names to form a ballot be determined by the Strategic Priorities and Policy Committee, per the attached slate.",
+  "confidence": "low",
+  "quote": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): item 9 (SPPC, 2016-04-18) carries full a)-d) operative text, not boilerplate. Corrected the false claim on this 12-1 vote. Issue stays none: board-nominee ballot PROCESS (GLOBAL_EXCLUDE “consideration of appointment to” / personnel-process, not a policy position)."
+ },
+ {
+  "id": "a1d9982f0ce6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part d) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the top six candidates from the ranked ballot process be invited to participate in an interview at a future Corporate Services Committee meeting.",
+  "confidence": "low",
+  "quote": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): same item as b0e9db24ec4b — full text present, not boilerplate. Corrected the false claim on this 8-5 divided vote. Issue stays none: board-nominee interview-shortlist process (personnel-appointment process, not a policy position)."
+ },
+ {
+  "id": "a8961edabab7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have received a staff report on the RFP process for internal and external audit services and approved it in principle.",
+  "confidence": "high",
+  "quote": "on the recommendation of the Deputy City Treasurer, the staff report dated April 13, 2016 regarding the RFP process for internal and external audit services BE RECEIVED and endorsed in principle",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Convention violation: original whatAYeaDid read \"...received and endorsed in principle...\" — \"and endorsed\" is a coordinator-preceded, transitive-object stance verb per verify-no-stance-verb-whataeadid.py's mid-sentence DETECTION RULE (would fail the corpus-wide gate). Reworded to \"approved... in principle\" (motion-action voice, matching round-7 precedent of rewording Endorsed rows to Approved/Adopted). Quote (verbatim, part a) of the item 2#5 PARA, matching this motion's own reference text \"The motion to Approve part a) of clause 2 is put.\", 3-9 Failed) and issue/axis/polarity (none/null/null) unchanged — correctly null; note the item's actual substitute for part a) (a narrower ‘BE RECEIVED’-only clause, passed 12-0) is a different motion not present in this batch."
+ },
+ {
+  "id": "d135d8f469bb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Scheduled a further additional meeting of the Audit Committee for a time in advance of the June 14, 2016 Municipal Council meeting.",
+  "confidence": "high",
+  "quote": "a further additional meeting of the Audit Committee BE SCHEDULED for a time in advance of the June 14, 2016 Municipal Council meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item 2#5, new part d, 10-1 Passed): this is the ONE motion in the whole item 2#5 sequence whose own node carries the full, real operative text (“Approve a new part d) as follows: d) a further additional meeting of the Audit Committee BE SCHEDULED...”) — quote verbatim. issue:none/null correct — scheduling a committee meeting is a governance/timeline protocol, not a tracked-issue position."
+ },
+ {
+  "id": "9f51805affed",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a by-law (Bill No. 157) rezoning the Cedarhollow Subdivision property at 1800 Cedarhollow Boulevard and 776-802 Killarney Road, submitted by the Thames Valley District School Board, from Holding Residential R1 zones to a Neighbourhood Facility Special Provision/Holding Residential R1 zone permitting single detached dwellings and a Neighbourhood Facility (places of worship, elementary schools, day care centres), and requested the Site Plan Approval Authority to consider specified urban design and pedestrian/traffic-safety measures through the site plan process.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on April 19, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h*R1-3) Zone, a Holding Residential R1 (h*R1-4) Zone and a Residential R1 Special Provision (R1-3(7)) Zone TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified against full source (item 8#3, Council, 2016-04-19): quote verbatim and complete (parts a and b), 10-1 Passed as recorded, whatAYeaDid accurately covers both the rezoning introduction and the Site Plan Approval Authority design-issue request. housing/application-approval/expansive confirmed; twin of committee-stage b1fb8e0b0b43 (corrected above to match)."
+ },
+ {
+  "id": "4159c6ad84be",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 157.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: Bill 157's first reading separated from the block (152-156) with its own 10-1 roll call, matching item 8#3's 10-1 vote (same nay, J. Helmer). housing/application-approval/expansive confirmed."
+ },
+ {
+  "id": "a341ceb3a161",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 157.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: same Bill 157, second reading, 10-1, consistent."
+ },
+ {
+  "id": "81e6a3def5fc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 157, the by-law rezoning the Cedarhollow Subdivision lands (Z-8596) at 1800 Cedarhollow Boulevard and 776-802 Killarney Road for the Thames Valley District School Board application.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 157.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "DIRECTION-BEARING — verified: same Bill 157, third reading, 10-1, consistent; enactment wording correctly reserved for this genuine third-reading+enactment row."
+ },
+ {
+  "id": "58c0af234722",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Mushroom Farm Zoning Review back to the Civic Administration to report back to the Planning and Environment Committee with further amendments to the proposed by-law, and determined under section 34(17) of the Planning Act that no further public notice was required as the amendments were minor and in accordance with the public notice already given.",
+  "confidence": "high",
+  "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "OVERTURNED (no_text was false): item 10 (Planning and Environment Committee, 2016-04-25) carries full operative text, not boilerplate, preceding this 4-1 vote. Reclassified issue:housing (Z-8513 code + zoning-by-law content, matching d537dc042224's own precedent of assigning a tracked issue to a referral) but axis/polarity stay null: the clause's only verb is BE REFERRED, a non-decision per direction-rules.ts — no direction is asserted."
+ },
+ {
+  "id": "78b0de947f0d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred L. N. Garrison's delegation presentation on the application of a gender lens to the Civic Administration and the Municipal Council's Advisory Committees for consideration, particularly the London Diversity and Race Relations Advisory Committee, for feedback.",
+  "confidence": "high",
+  "quote": "The motion to refer the presentation to the Civic Administration and the Municipal Council's Advisory Committees for consideration, and particularly to the London Diversity and Race Relations Advisory Committee for feedback, is put.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 11 (delegation, gender lens) in source: quote verbatim and complete. issue:none/null correct — a referral of a delegation presentation to committees for feedback, no tracked-issue keyword and no approve/deny decision."
+ },
+ {
+  "id": "58cf05d299be",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of a proposed amendment to the Ontario Police Services Act Review — London Submission to the Civic Administration for a report back.",
+  "confidence": "medium",
+  "quote": "Approve that the matter of the amendment BE REFERRED to the Civic Administration for a report back with respect to the proposed amendment.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 2 (Ontario Police Services Act Review) in source: the scraper split this motion's real text across THREE JSON fields — “Approve that the matter of the amendment” (one node's motion_texts), “BE REFERRED” (mis-attached to the NEXT node's seconded_by field), and “the Civic Administration for a report back with respect to the proposed amendment” (that node's own motion_texts) — confirmed the classifier reassembled these three fragments into one verbatim, word-for-word-accurate quote. issue:none correct — “police service” (singular) keyword does not match “police services” (word-boundary mismatch), and this is a referral for a report back, not a substantive policing position."
+ },
+ {
+  "id": "f89964c57462",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the proposal from LK Promotions and Advertising and Global Spectrum Facility Management L.P. to implement a Naming Rights, Sponsorship, and Advertising Program for City of London recreation facilities, introduced a by-law authorizing an agreement with LK Promotions and Advertising and delegated authority under that agreement, and authorized the Civic Administration to undertake the necessary administrative acts.",
+  "confidence": "high",
+  "quote": "the proposal submitted by LK Promotions and Advertising and Global Spectrum Facility Management L.P. (hereinafter collectively known as LK Promotions and Advertising), 99 Dundas Street, London, Ontario, to implement a Naming Rights, Sponsorship, and Advertising Program for City of London Recreation Facilities BE ACCEPTED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item 2#4, Naming Rights/LK Promotions, Council 2016-05-03): quote verbatim and complete. issue:none correct — a recreation-facility naming-rights/sponsorship agreement matches no tracked-issue keyword."
+ },
+ {
+  "id": "68e3f458ef8c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Fireworks By-law amendments back to the Civic Administration to report back with two separate by-laws — one addressing sky lanterns alone, the other addressing the remaining amendments proposed in the original draft by-law.",
+  "confidence": "high",
+  "quote": "Approve that clause 7 BE REFERRED back to the Civic Administration to report back with two by-laws, one of which would deal solely with the matter of sky lanterns, the other of which would deal with all other amendments proposed in the original draft by-law submitted with the staff report dated April 26, 2016, entitled “Amend Fireworks By-law”.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item 7#4 (Fireworks By-law amendments) in source: quote verbatim and complete. issue:none/null correct — a referral back to staff for two separate by-laws, no tracked-issue keyword, non-decision verb (BE REFERRED)."
+ },
+ {
+  "id": "5da8c9a90720",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave, under section 17 of the Council Procedure By-law, for discussion, debate, and the making of a substantive motion on holding an additional Strategic Priorities and Policy Committee meeting to accommodate a public participation meeting on Shift Rapid Transit.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 17 of the Council Procedure By-law, leave BE GIVEN for discussion and debate and the making of a substantive motion with respect to holding an additional Strategic Priorities and Policy Committee meeting in order to accommodate a public participation meeting with respect to Shift Rapid Transit.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Read full item XII (EMERGENT MOTIONS, leave to debate) in source: quote verbatim and complete, 13-1 Passed. issue:none correctly excludes “Shift Rapid Transit”/“rapid transit” keyword hits via GLOBAL_EXCLUDE “council procedure by-law” (this motion only grants leave under section 17 of the Procedure By-law to debate a substantive motion — it decides nothing about transit itself, unlike its two sibling entries below which ARE the substantive transit motions)."
+ },
+ {
+  "id": "1d93d82d8820",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred consideration of an additional special Strategic Priorities and Policy Committee meeting in May 2016, for a Shift Rapid Transit public participation meeting, to the SPPC meeting scheduled for May 5, 2016, for discussion and debate.",
+  "confidence": "high",
+  "quote": "Approve referral of consideration of an additional special meeting of the Strategic Priorities and Policy Committee (SPPC) in the month of May for a public participation meeting related to Shift Rapid Transit, to the SPPC meeting scheduled for May 5, 2016 for discussion and debate.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item XII, third roll call, 2-12 Failed): quote verbatim and complete (the referral-to-SPPC-May-5 motion). transit/null/null correct — referral is a non-decision."
+ },
+ {
+  "id": "54171de74213",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have held an additional Strategic Priorities and Policy Committee meeting in May 2016, for a public participation meeting on Shift Rapid Transit, to be dealt with by Municipal Council no later than its May 31, 2016 meeting.",
+  "confidence": "medium",
+  "quote": "That an additional Strategic Priorities and Policy Committee meeting BE HELD in May for the purpose of holding a public participation meeting with respect to Shift Rapid Transit, in sufficient time for the matter to be dealt with by the Municipal Council by no later than its meeting scheduled for May 31, 2016; it being understood that the City Clerk will consult with the Chair and the Members in identifying a suitable meeting date.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (item XII, fourth roll call, 7-7 Failed): this specific roll call's own node carries only “Motion Failed” with no text, but it is unambiguously the tied final vote on the main motion moved earlier in the same item (“that an additional SPPC meeting BE HELD...”, itself un-voted in its own node because an intervening referral attempt, 1d93d82d8820, was moved and failed first) — standard move-then-referral-attempt-then-vote-on-main-motion sequence, same item, no other business intervening. Quote is that main motion's own verbatim text. Confidence correctly medium given the reconstruction; transit/null/null correct — this row is already unclear so no false-direction risk either way."
+ },
+ {
+  "id": "52e3769b1955",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 170.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against full source (Bill 170, first reading, item XIII): quote verbatim, matches Bill 170's block-separated readings (all three unanimous per _all-motions). issue:none/reading-voice correct."
+ },
+ {
+  "id": "670beb6fc20b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 170.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: same Bill 170, second reading, consistent."
+ },
+ {
+  "id": "0c30c5d69633",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 170, the by-law authorizing the Naming Rights, Sponsorship, and Advertising Program agreement between the City and LK Promotions and Advertising for City of London recreation facilities.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 170.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified: same Bill 170, third reading/enactment, consistent; enactment wording correctly reserved for this row."
+ },
+ {
+  "id": "a42e3b94c6e6",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a by-law rezoning the property at 1602 Sunningdale Road West submitted by Foxwood Development (London) Inc., revising the Residential R1 Special Provision zone's front and garage yard setbacks and maximum lot coverage (front yard setback from 3.0-4.5m to 4.5-7.5m, garage setback minimum from 6.0m to 5.5m, and maximum lot coverage from 40% to 45%).",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*R1-4(26)) Zone, which permits single detached lots with a minimum lot frontage of  12m, a minimum lot area of 360m2, a 3.0m minimum and 4.5m maximum front yard setback to a dwelling, a 6.0m minimum setback to a garage and a maximum lot coverage of 40% TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots with a minimum lot frontage of 12m, a minimum lot area of 360m2, a 4.5m minimum and a 7.5m maximum front yard setback to a dwelling, a 5.5m minimum setback to a garage and a maximum lot coverage of 45%",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "OVERTURNED (no_text/none was false): item 8 (Planning and Environment Committee, 2016-05-09) carries full operative text, not boilerplate, preceding this 4-1 divided vote; item title carries a Z-#### code (structural housing signal). Reclassified housing/application-approval/expansive with a verbatim quote."
+ },
+ {
+  "id": "f480de5c2bdd",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a revised by-law extending the Temporary Use (T-54) zoning at 195 Dundas Street, submitted by Ayerswood Development Corp., for a period not exceeding one year.",
+  "confidence": "high",
+  "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "OVERTURNED (no_text/none was false): item 9 (Planning and Environment Committee, 2016-05-09) is not boilerplate — full operative text precedes this 4-1 divided vote, and the item title itself carries a TZ-#### code (structural housing signal per CODE_PATTERNS). Reclassified housing/application-approval/expansive with a verbatim quote."
+ },
+ {
+  "id": "bfc1d8597975",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Authorized the Civic Administration to undertake a community information and engagement process on reducing the garbage container set-out limit, with a report back to the June 8, 2016 Civic Works Committee meeting, and directed that a Public Participation Meeting on the matter be held at that same meeting.",
+  "confidence": "low",
+  "quote": "the Civic Administration BE AUTHORIZED to undertake a community information and engagement process to receive feedback regarding reducing the garbage container set out limit and BE DIRECTED to report back at the June 8, 2016 meeting of the Civic Works Committee with the results of the community information and engagement process",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Accuracy fix (no_text was false): item 6 (Civic Works Committee, 2016-05-10) carries full a)/b) text, not boilerplate, preceding this 5-1 vote. Corrected the false claim. Issue stays none: “garbage container limits”/“waste diversion” matches no tracked-issue keyword (not climate — no “climate”/“emissions”/etc.)."
+ }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "id": "3b217a7bce09",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a motion under 'Request for Delegation Status - Jason Timlick, President, London Professional Fire Fighters Association'; the source minutes attach this vote's tally to an unrelated procedural note about a temporary change in the chair, not to any recoverable motion text.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "658be4264544",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the letter from Jason Timlick, President, London Professional Fire Fighters' Association, dated September 21, 2016.",
+    "confidence": "high",
+    "quote": "Approve that the letter from Jason Timlick, President, London Professional Fire Fighters Association, dated September 21, 2016 BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "75ffd19c66d1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 2 (Amendment to Consolidated Fees and Charges), as amended, including a new part directing the Civic Administration to find means to better inform and engage the public on future proposed Fees and Charges changes; the base clause's own fee-schedule amendments are not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "c6b41f701c01",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended clause 3 (Live Work Learn Play Update) by directing the Civic Administration to move forward with coordinating supports for addressing issues in downtown London -- including health and mental health care, enforcement, and programming -- with Market Lane put forward as a pilot project.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to move forward with the coordination of addressing issues in downtown London, including the necessary supports with regard to care (health, mental health and the pertinent forms of care deemed necessary on an individual basis), enforcement and programming with Market Lane being put forward as a pilot project in this matter.",
+    "flags": []
+  },
+  {
+    "id": "06a2ee514adb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 3 (Live Work Learn Play Update), as amended, comprising parts a) and b) (whose operative text is not preserved in the source minutes) and part c) as just amended (directing the Civic Administration to coordinate downtown London health, mental health, enforcement, and programming supports, with Market Lane as a pilot project).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "2ed9e62144bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Deputy Mayors'; the motion's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text",
+      "appointment"
+    ]
+  },
+  {
+    "id": "a636518b5c27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved extending the Council meeting beyond 11:00 PM, pursuant to section 11.11 of the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "Approve that pursuant to section 11.11 of the Council Procedure By-law the Council Meeting be permitted to proceed beyond 11:00 PM.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "96d194eff0b4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part c) i) of the 10th Report of the London Advisory Committee on Heritage: adding Regina Mundi Catholic College (5200 Wellington Road South) to the Inventory of Heritage Resources (Register), based on the cultural heritage value/interest information in the Stewardship Sub-Committee Report.",
+    "confidence": "high",
+    "quote": "Regina Mundi Catholic College (5200 Wellington Road South) BE ADDED to the Inventory of Heritage Resources (Register) based on the cultural heritage value/interest information included in the Stewardship Sub-Committee Report",
+    "flags": []
+  },
+  {
+    "id": "7cd3deaaf8a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Lease Agreement between the City and 1891614 Ontario Inc. (Copia Developments) for the lease of space at 1835 Dundas Street, per the recommendation in the 8th Public Report of the Council in Closed Session.",
+    "confidence": "high",
+    "quote": "the Lease Agreement between The Corporation of the City of London and 1891614 Ontario Inc. (Copia Developments), attached as Appendix \"A\", for the lease of space at 1835 Dundas Street, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "e818055bf01c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the sale of City-owned industrial land at the southeast end of Belleisle Court in Trafalgar Industrial Park to John J. Vanderwal for $127,600.00, and accepted an initial building coverage of 10% in place of the required 15%.",
+    "confidence": "high",
+    "quote": "the offer submitted by John J. Vanderwal (the \"Purchaser\") to purchase the subject property from the City, at a purchase price of $127,600.00 (reflecting a sale price of $55,000.00 per acre)...BE APPROVED; and an initial building coverage of 10% in place of the required 15%, BE ACCEPTED.",
+    "flags": []
+  },
+  {
+    "id": "a81d6f557498",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Added Bill No. 390.",
+    "confidence": "high",
+    "quote": "Approve Second Reading of Added Bill No. 390.",
+    "flags": []
+  },
+  {
+    "id": "f40590ea595a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading to and enacted Added Bill No. 390.",
+    "confidence": "high",
+    "quote": "Approve Third Reading and Enactment of Added Bill No. 390.",
+    "flags": []
+  },
+  {
+    "id": "e8b7223d2865",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on the One River Master Plan Environmental Assessment Terms of Reference (Civic Works Committee); the source minutes describe this as approving 'the staff recommendation as amended' without clearly separating its content from a further amendment voted on immediately afterward.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "ad91724d8400",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a further amendment to the draft EA Problem/Opportunity Statement for the One River Master Plan Environmental Assessment Terms of Reference; the amendment's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "300350a26f46",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a further motion related to the length of time Council spends in Closed Session (Council Member Submission); the motion's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "dd784a1f9745",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast one of the recorded votes on the proposed Vehicle for Hire By-law action items (Community and Protective Services Committee), referencing 'part a) i)' (the Executive Limousine minimum-fare amendment) in a Voting Record note; the source minutes intermix this vote's tally with another sub-motion's text and do not reliably isolate its own operative content.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "0a46c14af455",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred consideration of the appointment of a Chair of the Corporate Services Committee until Council has dealt with the City Clerk's report back on related Procedure By-law changes arising from the elimination of the Council-selected Deputy Mayor position.",
+    "confidence": "high",
+    "quote": "Motion to Defer consideration of the appointment of a Chair of the Corporate Services Committee until such time as the Municipal Council has dealt with the related report back from the City Clerk regarding changes to the Procedure By-law, and any related policies, arising from the elimination of the position of Deputy Mayor selected by the Municipal Council.",
+    "flags": [
+      "appointment",
+      "referral"
+    ]
+  },
+  {
+    "id": "7586c6727233",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the appointment of Councillor M. Salih as Chair of the Community and Protective Services Committee.",
+    "confidence": "high",
+    "quote": "Motion to Approve the appointment of Councillor M. Salih as Chair of the Community and Protective Services Committee.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "1160a98e4d2a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the appointment of Councillor M. van Holst as Chair of the Civic Works Committee.",
+    "confidence": "high",
+    "quote": "Motion to Approve the appointment of Councillor M. van Holst as Chair of the Civic Works Committee.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "a4766d6637ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 12 (One River Master Plan Environmental Assessment Terms of Reference, including the revised draft EA Problem/Opportunity Statement), as amended by Council to add wording in the statement of objectives requiring an understanding of the impacts that critical infrastructure projects may have on species at risk and/or endangered species.",
+    "confidence": "medium",
+    "quote": "Approve that clause 12 be amended to include wording in the statement of objectives that requires that there be an understanding of the impacts that critical infrastructure projects may have on species at risk, and/or endangered species.",
+    "flags": []
+  },
+  {
+    "id": "bf79e594981d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amending the Vehicle for Hire By-law (By-law No. L.-129-51) to replace section 6.6, and referred further discussion of the proposed Vehicle for Hire By-law to a Special Meeting of the Community and Protective Services Committee to be held before the November 8, 2016 Council meeting.",
+    "confidence": "high",
+    "quote": "the attached by-law to amend By-law No. L.-129-51 being \"A by-law to provide for the licensing, regulation and governing of vehicles for hire...\" to replace section 6.6 of the by-law, BE INTRODUCED at the Municipal Council meeting of November 8, 2016; and further discussion with respect to the proposed Vehicle for Hire By-law BE REFERRED to a Special Meeting of the Community and Protective Services Committee (CPSC), to be held prior to the November 8, 2016 meeting of the Municipal Council",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "d8b43a7fd9b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred clause 2 (Vehicle for Hire By-law action items), as amended, to the November 22, 2016 Council meeting for further consideration.",
+    "confidence": "high",
+    "quote": "Approve that clause 2, as amended, be referred to the Municipal Council meeting to be held on November 22, 2016 for further consideration.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "164d5b669eac",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 6 to further refer consideration of designating a City of London representative(s) to the Network of Canada 150 Community Leaders (including related travel-expense financing) to the November 22, 2016 Council meeting.",
+    "confidence": "high",
+    "quote": "That consideration of the designation of a City of London representative(s) to the newly-created Network of Canada 150 Community Leaders, including the matter of financing related travel expenses for that individual(s), if any, BE REFERRED to the November 22, 2016 meeting of the Municipal Council; it being understood that Council Members should come prepared with any names for consideration.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "943db430ca60",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a councillor communication on the use of by-laws to appoint members of the Senior Leadership Team and other statutory officers to a future Corporate Services Committee meeting, for additional information including on the currency of Council Policy 18(17) ('Appointments Requiring Council Approval').",
+    "confidence": "high",
+    "quote": "the communication dated October 24, 2016, from Councillor J. Morgan, with respect to the utilization of by-laws to appoint members of the Senior Leadership Team and any other statutory officers of The Corporation of the City of London, BE REFERRED to a future meeting of the Corporate Services Committee in order to receive additional information, including information regarding the currency of Council Policy 18(17) entitled \"Appointments Requiring Council Approval\".",
+    "flags": [
+      "referral",
+      "appointment"
+    ]
+  },
+  {
+    "id": "cf6861c290fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 9 to appoint Chris Evans, Alison Regehr, and Ian Whiteside (removing Berta Krichker from the originally proposed slate) as Voting Members-at-Large to the Environmental and Ecological Planning Advisory Committee, for the term ending February 28, 2019.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Environmental and Ecological Planning Advisory Committee as Voting Members-at-Large for the term ending February 28, 2019: Chris Evans, Alison Regehr, Ian Whiteside",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "ef4d7fc590ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Properties located at 1577 and 1687 Wilton Grove Road (OZ-8667)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "e53ee878c941",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part c) of the recommendation for the properties at 185 and 199 Commissioners Road East (39T-108501/Z-8682) to change a setback figure from 8m to 10m; the source minutes do not record the full text of part c) or of this amendment (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "3cfd988376d2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Limited speakers to 3 minutes each during the Committee's consideration of the Public Submission on the OCPC process and interactions between the London Police Services Board and the Chief Administrator's Office.",
+    "confidence": "high",
+    "quote": "Motion to Approve that speakers be limited to 3 minutes.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "50615a8a98d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to solicit input from Council Members and report back to the Corporate Services Committee with proposed Terms of Reference for allocating funds in the Community Investment Reserve Fund.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to solicit input from Council Members and report back to the Corporate Services Committee with proposed Terms of Reference for the allocation of funds included in the Community Investment Reserve Fund, with a view to ensuring that any allocation of those funds is done in a consistent and appropriate manner.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "503f5daa8b07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a divided sub-motion related to clause 12 (Properties located at 1349, 1351, 1357 and 1361 Commissioners Road West, Z-8635, relating to Bill No. 430); the source minutes attach this vote's tally to an unrelated procedural note about a temporary change in the chair, not to any recoverable motion text.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "ebd52906fc2d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a recorded vote under 'Properties located at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)' (relating to Bill No. 430), immediately after a divided vote (503f5daa8b07) whose own text is also not recorded; the source minutes do not preserve this motion's own operative text, though it most likely reflects final adoption of clause 12 as amended.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "5533d8a8c23a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Vehicle for Hire By-law action items (2nd Report of the Community and Protective Services Committee, as amended), except for part 2a)vi) (third-party record-check grading) and part 2b)i) (uniform 'cloud-based' camera system options report-back), which were carved out for separate consideration.",
+    "confidence": "high",
+    "quote": "Approve the above-noted clause, with the exception of the following parts: a) part 2a)vi): \"allow for third party record checks with a grading of: Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved;\"; and b) part 2b)i): \"uniform 'cloud-based' camera system options for all vehicles for hire; it being noted that this report will be brought forward one year after the proposed by-law comes into force and effect;\".",
+    "flags": []
+  },
+  {
+    "id": "dc7129446a74",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part 2a)vi) of the Vehicle for Hire By-law action items: allowing for third-party record checks with a grading of Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved.",
+    "confidence": "high",
+    "quote": "allow for third party record checks with a grading of: Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved",
+    "flags": []
+  },
+  {
+    "id": "b390b38a6ca8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Limited speakers to 3 minutes during Council's consideration of the Manager, Realty Services report on the expropriation of land for the Western Road Widening and Improvement Project (TS1489-1).",
+    "confidence": "high",
+    "quote": "Approve that speakers be limited to 3 minutes.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f26992018b5d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved funding for part d) of the 2017-2019 Operating Budget Amendments: $179,000 net (2017), $372,000 net (2018), and $580,000 net (2019) for the Upper Thames River Conservation Authority's Environmental Targets Strategic Plan (Case #4).",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part d) as follows: Upper Thames River Conservation Authority (UTRCA) - Environmental Targets Strategic Plan (Case #4): $179,000 Net (2017) $372,000 Net (2018) $580,000 Net (2019);",
+    "flags": []
+  },
+  {
+    "id": "421b53c17032",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part d) of the 2017-2019 Operating Budget Amendments (after a larger version failed): $179,000 net for each of 2017, 2018 and 2019 for the Upper Thames River Conservation Authority's Environmental Targets Strategic Plan (Case #4), with the 2017 amount financed from assessment growth notwithstanding the City's Assessment Growth Policy.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part d) as follows: Upper Thames River Conservation Authority - Environmental Targets Strategic Plan (Case #4): $179,000 Net (2017); it being noted that notwithstanding the City of London's Assessment Growth Policy, $179,000 would be financed from assessment growth in 2017; $179,000 Net (2018) $179,000 Net (2019)",
+    "flags": []
+  },
+  {
+    "id": "a7b84bce7c1b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part e) of the 2017-2019 Operating Budget Amendments: $258,000 net (2017), $323,000 net (2018), and $389,000 net (2019), with $258,000 per year drawn from the Social Housing Major Repairs Reserve Fund and the balance of the 2018-2019 amounts funded from the tax base.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part e) as follows: $258,000 (Net) 2017 $323,000 (Net) 2018 $389,000 (Net) 2019; it being noted that $258,000 in each year would be drawn down from the Social Housing Major Repairs Reserve Fund for each of the three years; with the balance of the 2018 and 2019 amounts being funded from the tax base.",
+    "flags": []
+  },
+  {
+    "id": "97e473005c2b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part f) of the 2017-2019 Operating Budget Amendments: $100,000 net for each of 2017, 2018 and 2019, funded from the Economic Development Reserve Fund with no tax levy impact.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part f) as follows: $100,000 Net (2017) $100,000 Net (2018) $100,000 Net (2019); it being noted that the source of financing for the above-noted years will be the Economic Development Reserve Fund and will, therefore, have no tax levy impact.",
+    "flags": []
+  },
+  {
+    "id": "ab1f1f8c736b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved parts d) and e) of the 2017-2019 Capital Budget changes: Lifecycle Renewal adjustments (Case #11: Library Capital Plan, Covent Garden Roof Replacement) and library Growth-related adjustments (Case #14: Northwest/Southeast Libraries, including project deferrals and an increase reflecting higher tender results), funded in part from the Library Facilities & Equipment Reserve Fund and Covent Garden Market Reserve Fund; the combined dollar effect of the two parts together is not stated as a single net figure.",
+    "confidence": "medium",
+    "quote": "d) Other Lifecycle Renewal Amendments (2016-2019) (Case #11): i) Library Capital Plan (e.g. Facility Renewal): ($419,000) (2017) $225,000 (2018) $126,000 (2019); ii) Covent Garden Roof Replacement: ($350,000) Net (2019); e) Northwest and Southeast Libraries (Case #14): i) Defer Northwest from 2019 to 2020 ($3,330,000)(2019); ii) Defer Southeast from 2018 to 2019 ($3,330,000)(2018) $3,330,000(2019); iii) Increase funding to Southeast Library to reflect recent higher tender results for facility projects $1,038,000(2019)",
+    "flags": []
+  },
+  {
+    "id": "e237ed1060ba",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part l) of the 2017-2019 Capital Budget changes -- Facility Energy Management (Case #19), funded at $400,000 net (2017), $400,000 net (2018) and $200,000 net (2019) -- excluding the Solar Photovoltaic portion of that funding, which was voted on separately.",
+    "confidence": "medium",
+    "quote": "Motion to approve part l), with the exception of the Solar Photovoltaic portion of Case #19. Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019).",
+    "flags": []
+  },
+  {
+    "id": "fbecb5e81bc7",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the balance of part l) of the 2017-2019 Capital Budget changes -- Facility Energy Management (Case #19), funded at $400,000 net (2017), $400,000 net (2018) and $200,000 net (2019) -- specifically the portion pertaining to the Solar Photovoltaic project.",
+    "confidence": "medium",
+    "quote": "Motion to Approve the balance of part l), which pertains to the Solar Photovoltaic project. Facility Energy Management (Case #19): $400,000 (2017) $400,000 (2018) $200,000 (2019).",
+    "flags": []
+  },
+  {
+    "id": "133f2b206968",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part i) of the 2020-2025 forecasted Capital Budget changes, approved in principle subject to annual review: $4,704,000 for the Northwest Library (Case #14), deferred from 2019 to 2020.",
+    "confidence": "high",
+    "quote": "Motion to Approve part i). Northwest Library (deferred from 2019 to 2020) $4,704,000 (Case #14).",
+    "flags": []
+  },
+  {
+    "id": "71e64dc41cb4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration, notwithstanding the City Engineer's recommendation, to install a traffic signal at the South Carriage Road/Hyde Park Road intersection to address the intersection's circumstances and the introduction of school buses in September 2017, with the cost covered within the existing budget.",
+    "confidence": "high",
+    "quote": "notwithstanding the direction of the City Engineer, and noting that the intersection of South Carriage Road and Hyde Park Road has not yet met the warrant for a traffic signal, the Civic Administration BE DIRECTED to proceed with the installation of a traffic signal at this intersection in order to address the unique circumstances of the intersection and the introduction of the school busses in September 2017; it being understood that the cost of the installation of this traffic signal would be covered within the existing budget.",
+    "flags": []
+  },
+  {
+    "id": "affd3178709b",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed the Civic Administration, notwithstanding the City Engineer's recommendation, to initiate detailed design work at the South Carriage Road/Hyde Park Road intersection using available funding from the Hyde Park Road widening project.",
+    "confidence": "medium",
+    "quote": "notwithstanding the recommendation of the City Engineer, the Civic Administration BE DIRECTED to initiate the detailed design utilizing the available funding from the Hyde Park Road widening project",
+    "flags": []
+  },
+  {
+    "id": "e24eceae6488",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back to the Strategic Priorities and Policy Committee on the potential financial, economic and legal implications of London Hydro investigating possible mergers, acquisitions, amalgamations, dispositions, or taking on strategic partners.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee, with respect to potential financial, economic and legal implications that may result from London Hydro investigating possible mergers, acquisitions, amalgamations and dispositions, which may include taking on strategic partners.",
+    "flags": [
+      "informational_ask"
+    ]
+  }
+]
