@@ -116,7 +116,7 @@ That Council convenes In Closed Session, from 1:22 PM to 1:35 PM.
 
 ## 5.1&nbsp;&nbsp;&nbsp;13th Meeting held on August 25, 2026
 
-[2026-08-25 Council Minutes](</2026-08/2026-08-25 13th Meeting of Council>)
+[2026-08-25 Council Minutes](</2026-08/2026-08-25 - Council>)
 
 > Motion made by C. Rahman
 
@@ -1128,7 +1128,7 @@ the Civic Administration BE DIRECTED to consult with any applicant that entered 
 
 ## 8.2&nbsp;&nbsp;&nbsp;13th Report of the Community and Protective Services Committee
 
-[2026-09-08 CPSC Report](</2026-09/2026-09-08 - Community and Protective Services Committee>)
+[2026-09-08 CPSC Report](</2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>)
 
 At 2:34 PM, Councillor S. Trosow enters the meeting.
 
@@ -1170,7 +1170,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) 4th Report of the Accessibility Community Advisory Committee
+### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee#214th-report-of-the-accessibility-community-advisory-committee>) 4th Report of the Accessibility Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -1180,7 +1180,7 @@ That the 4th Report of the Accessibility Community Advisory Committee, from the 
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Parks and Recreation Master Plan - 2026 Update
+### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee#22parks-and-recreation-master-plan---2026-update>) Parks and Recreation Master Plan - 2026 Update
 
 > Motion made by C. Rahman
 
@@ -1204,7 +1204,7 @@ it being further noted that communications from the following individuals, with 
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Enhanced Response to Public Safety Risk Dogs
+### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee#23enhanced-response-to-public-safety-risk-dogs>) Enhanced Response to Public Safety Risk Dogs
 
 > Motion made by C. Rahman
 
@@ -1234,7 +1234,7 @@ it being noted that communications from the following individuals, with respect 
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;(4.1) Addressing Chronic Non-Compliance in Vacant Buildings
+### 8.2.5&nbsp;&nbsp;&nbsp;[(4.1)](</2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee#41addressing-chronic-non-compliance-in-vacant-buildings>) Addressing Chronic Non-Compliance in Vacant Buildings
 
 > Motion made by C. Rahman
 

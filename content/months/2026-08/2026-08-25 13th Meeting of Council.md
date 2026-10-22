@@ -195,7 +195,7 @@ None.
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Planning and Environment Committee
 
-[2026-08-11 PEC Report](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>)
+[2026-08-11 PEC Report](</2026-08/2026-08-11 - Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -234,7 +234,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.2)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#22building-services-report---q2-2026>) Building Services Report - Q2 2026
+### 8.1.2&nbsp;&nbsp;&nbsp;(2.2) Building Services Report - Q2 2026
 
 > Motion made by S. Lehman
 
@@ -244,7 +244,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.3)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#23quarterly-heritage-report---q2-2026>) Quarterly Heritage Report - Q2 2026
+### 8.1.3&nbsp;&nbsp;&nbsp;(2.3) Quarterly Heritage Report - Q2 2026
 
 > Motion made by S. Lehman
 
@@ -254,7 +254,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.1)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#21addition-to-the-affordable-housing-community-improvement-plan---dollars-to-doors-variable-affordability-program-guidelines>) Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines
+### 8.1.4&nbsp;&nbsp;&nbsp;(2.1) Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors Variable Affordability Program Guidelines
 
 > Motion made by S. Lehman
 
@@ -266,7 +266,7 @@ it being noted that the communication from I. Meddoui, Westdell Development Corp
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(3.1)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#317th-report-of-the-community-advisory-committee-on-planning>) 7th Report of the Community Advisory Committee on Planning
+### 8.1.5&nbsp;&nbsp;&nbsp;(3.1) 7th Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -298,7 +298,7 @@ it being further noted that the verbal delegation from J.M. Metrailler, Chair, C
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(3.2)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#321887-2005-2065-kilally-road---o-26064>) 1887, 2005, 2065 Kilally Road - O-26064 (Relates to Bill No. 303)
+### 8.1.6&nbsp;&nbsp;&nbsp;(3.2) 1887, 2005, 2065 Kilally Road - O-26064 (Relates to Bill No. 303)
 
 > Motion made by S. Lehman
 
@@ -338,7 +338,7 @@ it being further noted that the Municipal Council approves this application for 
 
 ****
 
-### 8.1.8&nbsp;&nbsp;&nbsp;[(3.4)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#34150-152-kent-street--z-26072>) 150-152 Kent Street - Z-26072 (Relates to Bill No. 323)
+### 8.1.8&nbsp;&nbsp;&nbsp;(3.4) 150-152 Kent Street - Z-26072 (Relates to Bill No. 323)
 
 > Motion made by S. Lehman
 
@@ -376,7 +376,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.9&nbsp;&nbsp;&nbsp;[(3.5)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#35725-notre-dame-drive--z-26073>) 725 Notre Dame Drive - Z-26073
+### 8.1.9&nbsp;&nbsp;&nbsp;(3.5) 725 Notre Dame Drive - Z-26073
 
 > Motion made by S. Lehman
 
@@ -406,7 +406,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.7&nbsp;&nbsp;&nbsp;[(3.3)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#333080-and-3514-bostwick-road-1875-wharncliffe-road-south-and-3341-wonderland-road-south---oz-26066>) 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066 (Relates to Bill No. 304 and No. 322)
+### 8.1.7&nbsp;&nbsp;&nbsp;(3.3) 3080 and 3514 Bostwick Road, 1875 Wharncliffe Road South, and 3341 Wonderland Road South - OZ-26066 (Relates to Bill No. 304 and No. 322)
 
 > Motion made by S. Lehman
 
@@ -636,7 +636,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.10&nbsp;&nbsp;&nbsp;[(3.6)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#361047-1055-dearness-drive--oz-26063>) 1047-1055 Dearness Drive - OZ-26063 (Relates to Bill No. 305 and No. 324)
+### 8.1.10&nbsp;&nbsp;&nbsp;(3.6) 1047-1055 Dearness Drive - OZ-26063 (Relates to Bill No. 305 and No. 324)
 
 > Motion made by S. Lehman
 
@@ -713,7 +713,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.1.11&nbsp;&nbsp;&nbsp;[(4.1)](</2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee#41councillor-s-franke---temporary-accommodation-commitments>) Councillor S. Franke - Temporary Accommodation Commitments
+### 8.1.11&nbsp;&nbsp;&nbsp;(4.1) Councillor S. Franke - Temporary Accommodation Commitments
 
 > Motion made by S. Lehman
 
@@ -758,7 +758,7 @@ it being noted that the verbal delegation from K. Pagniello, Neighbourhood Legal
 
 ## 8.2&nbsp;&nbsp;&nbsp;12th Report of the Community and Protective Services Committee
 
-[2026-08-10 CPSC Report](</2026-08/2026-08-10 - Community and Protective Services Committee>)
+[2026-08-10 CPSC Report](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -797,7 +797,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;(2.1) Canada Life Assurance Company Donation to Victoria Park (Relates to Bill No. 300)
+### 8.2.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee#21canada-life-assurance-company-donation-to-victoria-park>) Canada Life Assurance Company Donation to Victoria Park (Relates to Bill No. 300)
 
 > Motion made by C. Rahman
 
@@ -821,7 +821,7 @@ iii)    DELEGATE authority to the Deputy City Manager, Neighbourhood and Commu
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;(3.1) 7th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee#317th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 7th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -867,7 +867,7 @@ it being noted that the verbal delegation from B. Samuels and the communication 
 
 ****
 
-### 8.2.6&nbsp;&nbsp;&nbsp;(4.1) Extension of Interim Bridge Funding for Outreach Services
+### 8.2.6&nbsp;&nbsp;&nbsp;[(4.1)](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee#41extension-of-interim-bridge-funding-for-outreach-services>) Extension of Interim Bridge Funding for Outreach Services
 
 > Motion made by C. Rahman
 
@@ -913,7 +913,7 @@ it being further noted that communications from the following individuals, with 
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;(2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
+### 8.2.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee#22proposed-winter-response-for-2026-2027>) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
 > Motion made by C. Rahman
 
@@ -1269,7 +1269,7 @@ The Council recesses at 3:33 PM and reconvenes at 3:54 PM.
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 8.2.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee#23housing-stability-services-procurement--and-delivery-framework---emergency-shelter-guidelines-2011-vs-2026-comparative-analysis>) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
 > Motion made by C. Rahman
 
@@ -1633,7 +1633,7 @@ it being further noted that communications from the following individuals, with 
 
 ## 8.3&nbsp;&nbsp;&nbsp;13th Report of the Infrastructure and Corporate Services Committee
 
-[2026-08-12 ICSC Report 13](</2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-08-12 ICSC Report 13](</2026-08/2026-08-12 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -1670,7 +1670,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee#22rfq-2026-163-winter-maintenance-equipment-with-operators---sidewalk-snow-plowsander-units>) RFQ-2026-163 Winter Maintenance Equipment with Operators - Sidewalk Snow Plow/Sander Units
+### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) RFQ-2026-163 Winter Maintenance Equipment with Operators - Sidewalk Snow Plow/Sander Units
 
 > Motion made by H. McAlister
 
@@ -1692,7 +1692,7 @@ c)    approval given BE CONDITIONAL upon the Corporation entering formal contr
 
 ****
 
-### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee#21school-crossing-guard-program-review>) School Crossing Guard Program Review
+### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) School Crossing Guard Program Review
 
 > Motion made by H. McAlister
 
@@ -1783,7 +1783,7 @@ it being noted that the Infrastructure and Corporate Services Committee received
 
 ****
 
-### 8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee#23amendment-to-the-council-procedure-by-law---striking-committee>) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+### 8.3.4&nbsp;&nbsp;&nbsp;(2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
 
 > Motion made by H. McAlister
 
