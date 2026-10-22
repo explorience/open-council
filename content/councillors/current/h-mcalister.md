@@ -173,7 +173,7 @@ Voted **Yea** - Motion Failed (2 to 4)
 
 ### 2026-03-03: (4.1) Deputy Mayor S. Lewis, Councillors P. Cuddy and C. Rahman - Zoning By-law Amendment - Parking Changes
 
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > That part b) and c) of the motion BE AMENDED to read as follows: b) amend section 4.19.6) h) I) as it applies to lands outside of Western University Near Campus Neighbourhood to allow a maximum drivew...
 
@@ -181,7 +181,7 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 ### 2026-03-03: (2.4) Residential Rental Unit Licensing (RRUL) License Display
 
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > That, on the recommendation of the Deputy City Manager, Housing and Community Growth, the findings of Civic Administration regarding the advisability of amending the Residential Rental Unit Licensing ...
 
@@ -189,7 +189,7 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 ### 2026-03-03: (4.4) Summary Update from Internal Audit
 
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > That the motion BE AMENDED to add a new part to read as follows: MNP BE DIRECTED to change the submission date for the Privacy Audit from December 9, 2026 to October 7, 2026 and the submission date fo...
 

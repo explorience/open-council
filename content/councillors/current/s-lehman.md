@@ -195,7 +195,7 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 ### 2026-03-03: (ADDED) Councillor E. Peloza – Personal Update
 
-[4th Council Meeting](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[4th Council Meeting](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > That the motion BE AMENDED to add a new part that reads as follows: it being further noted that Councillor E. Peloza will no longer remain appointed to the Community and Protective Services Committee.
 
