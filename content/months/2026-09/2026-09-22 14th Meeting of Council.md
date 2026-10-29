@@ -358,7 +358,7 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ## 8.3&nbsp;&nbsp;&nbsp;13th Report of the Planning and Environment Committee
 
-[2026-09-09 - PEC Report](</2026-09/2026-09-09 - Planning and Environment Committee>)
+[2026-09-09 - PEC Report](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -397,7 +397,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.3.2&nbsp;&nbsp;&nbsp;(2.1) Bill 98, Building Homes and Improving Transportation Infrastructure Act, 2026, Information Report
+### 8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#21bill-98-building-homes-and-improving-transportation-infrastructure-act-2026-information-report>) Bill 98, Building Homes and Improving Transportation Infrastructure Act, 2026, Information Report
 
 > Motion made by S. Lehman
 
@@ -407,7 +407,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.3.3&nbsp;&nbsp;&nbsp;(2.2) Heritage Alteration Permit Application by Emerald Trading Corporation for 45 Beaconsfield Avenue, Wortley Village-Old South Heritage Conservation District - HAP26-054-L
+### 8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#22heritage-alteration-permit-application-by-emerald-trading-corporation-for-45-beaconsfield-avenue-wortley-village-old-south-heritage-conservation-district---hap26-054-l>) Heritage Alteration Permit Application by Emerald Trading Corporation for 45 Beaconsfield Avenue, Wortley Village-Old South Heritage Conservation District - HAP26-054-L
 
 > Motion made by S. Lehman
 
@@ -421,7 +421,7 @@ it being noted that the alterations were completed without Heritage Alteration P
 
 ****
 
-### 8.3.4&nbsp;&nbsp;&nbsp;(2.4) 145 Base Line Road West - Temporary Accommodation Commitments
+### 8.3.4&nbsp;&nbsp;&nbsp;[(2.4)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#24145-base-line-road-west---temporary-accommodation-commitments>) 145 Base Line Road West - Temporary Accommodation Commitments
 
 > Motion made by S. Lehman
 
@@ -431,7 +431,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.3.5&nbsp;&nbsp;&nbsp;(2.5) Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors MLI Select Program Guidelines (Relates to Bill No. 327)
+### 8.3.5&nbsp;&nbsp;&nbsp;[(2.5)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#25addition-to-the-affordable-housing-community-improvement-plan---dollars-to-doors-mli-select-program-guidelines>) Addition to the Affordable Housing Community Improvement Plan - Dollars to Doors MLI Select Program Guidelines (Relates to Bill No. 327)
 
 > Motion made by S. Lehman
 
@@ -451,7 +451,7 @@ iii) AUTHORIZING the Deputy City Manager, Housing and Community Growth, or their
 
 ****
 
-### 8.3.7&nbsp;&nbsp;&nbsp;(3.1) 8th Report of the Community Advisory Committee on Planning
+### 8.3.7&nbsp;&nbsp;&nbsp;[(3.1)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#318th-report-of-the-community-advisory-committee-on-planning>) 8th Report of the Community Advisory Committee on Planning
 
 > Motion made by S. Lehman
 
@@ -465,7 +465,7 @@ it being noted that the verbal delegation request from J.M. Metraillier, related
 
 ****
 
-### 8.3.8&nbsp;&nbsp;&nbsp;(3.2) Update Report for Draft Neighbourhood Plans and Guidelines - O-25116
+### 8.3.8&nbsp;&nbsp;&nbsp;[(3.2)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#32update-report-for-draft-neighbourhood-plans-and-guidelines---o-25116>) Update Report for Draft Neighbourhood Plans and Guidelines - O-25116
 
 > Motion made by S. Lehman
 
@@ -515,7 +515,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.10&nbsp;&nbsp;&nbsp;(3.4) 1766 Wilton Grove Road - OZ-26083 (Relates to Bill No. 326 and No. 337)
+### 8.3.10&nbsp;&nbsp;&nbsp;[(3.4)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#341766-wilton-grove-road--oz-26083>) 1766 Wilton Grove Road - OZ-26083 (Relates to Bill No. 326 and No. 337)
 
 > Motion made by S. Lehman
 
@@ -571,7 +571,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.11&nbsp;&nbsp;&nbsp;(3.5) 1579-1589 Fanshawe Park Road East - Z-26080
+### 8.3.11&nbsp;&nbsp;&nbsp;[(3.5)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#351579-1589-fanshawe-park-road-east--z-26080>) 1579-1589 Fanshawe Park Road East - Z-26080
 
 > Motion made by S. Lehman
 
@@ -597,7 +597,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.14&nbsp;&nbsp;&nbsp;(4.1) Councillor S. Franke – Permeable Driveway Surfaces
+### 8.3.14&nbsp;&nbsp;&nbsp;[(4.1)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#41councillor-s-franke--permeable-driveway-surfaces>) Councillor S. Franke – Permeable Driveway Surfaces
 
 > Motion made by S. Lehman
 
@@ -623,7 +623,7 @@ it being noted that the verbal delegation request from M. Wallace related to thi
 
 ****
 
-### 8.3.6&nbsp;&nbsp;&nbsp;(2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
+### 8.3.6&nbsp;&nbsp;&nbsp;[(2.3)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#23725-notre-dame-drive---z-26073>) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
 
 > Motion made by S. Lehman
 
@@ -683,7 +683,7 @@ it being further noted that the verbal delegation requests from D. Stegelmann, D
 
 ****
 
-### 8.3.9&nbsp;&nbsp;&nbsp;(3.3) 299-307 Sarnia Road - Z-26076 (Relates to Bill No. 336)
+### 8.3.9&nbsp;&nbsp;&nbsp;[(3.3)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#33299-307-sarnia-road--z-26076>) 299-307 Sarnia Road - Z-26076 (Relates to Bill No. 336)
 
 At 2:13 PM, His Worship Mayor J. Morgan, places Councillor C. Rahman in the Chair. 
 
@@ -841,7 +841,7 @@ That the staff report dated September 9, 2026 with respect to the application of
 
 ****
 
-### 8.3.12&nbsp;&nbsp;&nbsp;(3.6) 350-356 Windermere Road - Z-26014 (Relates to Bill No. 338)
+### 8.3.12&nbsp;&nbsp;&nbsp;[(3.6)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#36350-356-windermere-road--z-26014>) 350-356 Windermere Road - Z-26014 (Relates to Bill No. 338)
 
 > Motion made by S. Lehman
 
@@ -891,7 +891,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.3.13&nbsp;&nbsp;&nbsp;(3.7) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - SPA-26030
+### 8.3.13&nbsp;&nbsp;&nbsp;[(3.7)](</2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee#37767-fanshawe-park-road-east-and-679-dunboyne-crescent--spa-26030>) 767 Fanshawe Park Road East and 679 Dunboyne Crescent - SPA-26030
 
 > Motion made by S. Lehman
 
