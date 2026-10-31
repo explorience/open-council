@@ -1,0 +1,492 @@
+[
+ {
+  "id": "46a3cfeec15f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to develop a Terms of Reference and budget for a consultant assignment to complete a “One River” Master Plan Environmental Assessment Study from the Boler Road bridge to the Forks of the Thames and Harris Park, noting that proceeding would not preclude a future Council decision on decommissioning the Springbank Dam.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to develop a Terms of Reference and budget for a consultant assignment to complete a \"One River\" Master Plan Environmental Assessment (EA) Study that would encompass an area from the Boler Road bridge to the Forks of the Thames and Harris Park, having regard to the Thames Valley Corridor Plan and the City of London's Official Plan; it being understood that proceeding with this EA would not preclude a decision to decommission the Springbank Dam should the Municipal Council choose to do so",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "775bffde0840",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the London & Middlesex Housing Corporation 2015 Annual Meeting resolution to add a new part d) requesting the Civic Administration to report back on a review of the current service delivery model ahead of the 2017 Service Contract Renewal.",
+  "confidence": "high",
+  "quote": "Motion to Approve a new part d) to request staff to report back with respect to a review of the current delivery model and what changes, if any, might be in order in advance of the Service Contract Renewal in 2017.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "f242c54f242d",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan designation of 259 Sunningdale Road West from Low Density Residential to Open Space, and to amend the Zoning By-law to change the zoning from Urban Reserve and Open Space zones to an Open Space zone, on the request of Sunningdale Golf and Country Club Limited.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated May 9, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation TO an Open Space designation; and, the proposed by-law appended to the staff report dated May 9, 2016 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan, as amended in part a) above), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone and an Open Space (OS5) Zone TO an Open Space (OS1) Zone",
+  "flags": []
+ },
+ {
+  "id": "e97d9db08c0d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added the ‘One River’ Master Plan Environmental Assessment item to the Council agenda, to be considered together with clause 7 of the 8th Report of the Civic Works Committee.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "referral",
+   "no_text"
+  ]
+ },
+ {
+  "id": "b4c51492efe1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Authorized the Civic Administration to undertake a community information and engagement process on reducing the garbage container set-out limit, directed a report back with the results at the June 8, 2016 Civic Works Committee meeting, and directed that a Public Participation Meeting on the proposal be held at that same meeting.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE AUTHORIZED to undertake a community information and engagement process to receive feedback regarding reducing the garbage container set out limit and BE DIRECTED to report back at the June 8, 2016 meeting of the Civic Works Committee with the results of the community information and engagement process; and, a Public Participation Meeting regarding reducing the garbage container set out limit BE HELD at the June 8, 2016 meeting of the Civic Works Committee.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "0ab2e7597946",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 7 (the ‘One River’ Master Plan Environmental Assessment Study directive) as amended to add consideration of Species at Risk and endangered species data and of a communication from Chief Leslee White-Eye during the EA process.",
+  "confidence": "medium",
+  "quote": "Approve clause 7, as amended.",
+  "flags": []
+ },
+ {
+  "id": "c200aef1f270",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to amend the Zoning By-law for 1602 Sunningdale Road West, on the application of Foxwood Development (London) Inc., to revise the R1 special-provision setback and lot-coverage standards for single detached lots, increasing the maximum permitted lot coverage from 40% to 45%.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*R1-4(26)) Zone, which permits single detached lots with a minimum lot frontage of 12m, a minimum lot area of 360m2, a 3.0m minimum and 4.5m maximum front yard setback to a dwelling, a 6.0m minimum setback to a garage and a maximum lot coverage of 40% TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots with a minimum lot frontage of 12m, a minimum lot area of 360m2, a 4.5m minimum and a 7.5m maximum front yard setback to a dwelling, a 5.5m minimum setback to a garage and a maximum lot coverage of 45%",
+  "flags": []
+ },
+ {
+  "id": "8985ed0ff68b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have introduced a by-law to extend the Temporary Use (T-54) Zone at 195 Dundas Street for a period not exceeding one (1) year, on the application of Ayerswood Development Corp.; this failed.",
+  "confidence": "high",
+  "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+  "flags": []
+ },
+ {
+  "id": "01aa731b898c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law to extend the Temporary Use (T-54) Zone at 195 Dundas Street for a period not exceeding two (2) years, on the application of Ayerswood Development Corp.",
+  "confidence": "high",
+  "quote": "Approve that, on the recommendation of the Managing Director, Planning and City Planner, based on the application of Ayerswood Development Corp., relating to the property located at 195 Dundas Street, the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding two (2) years",
+  "flags": []
+ },
+ {
+  "id": "5fca1eaaaca0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed debate by putting the question on granting leave to introduce an emergent motion regarding reimbursement of Fort McMurray wildfire travel costs for London firefighters.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 11.14 of the Council Procedure By-law, that the question be put.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "41bae3c3d3cf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an emergent motion requesting support for reimbursing the out-of-pocket travel costs of the five London Professional Fire Fighters' Association members who travelled to Alberta to assist with the Fort McMurray emergency.",
+  "confidence": "medium",
+  "quote": "Approve that pursuant to section 19.2 of the Council Procedure By-law, leave be given for the introduction of an emergent motion to request support for the reimbursement of out-of-pocket travel costs for the five London Professional Fire Fighters' Association members who have travelled to Alberta to assist with the Fort McMurray emergency.",
+  "flags": []
+ },
+ {
+  "id": "a34cecae46c6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 196, as revised, a by-law to amend Zoning By-law No. Z.-1 to extend the Temporary Use (T-54) Zone at 195 Dundas Street for a period not exceeding two (2) years.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No.s 196, as revised.",
+  "flags": []
+ },
+ {
+  "id": "2e771da27f2f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 196, as revised, a by-law to amend Zoning By-law No. Z.-1 to extend the Temporary Use (T-54) Zone at 195 Dundas Street for a period not exceeding two (2) years.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No.s 196, as revised.",
+  "flags": []
+ },
+ {
+  "id": "e36bd2dc66a4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 196, as revised, a by-law to amend Zoning By-law No. Z.-1 to extend the Temporary Use (T-54) Zone at 195 Dundas Street for a period not exceeding two (2) years.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment Bill No. 196, as revised.",
+  "flags": []
+ },
+ {
+  "id": "d6a289355f70",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast one of three separately-recorded votes on the multi-part Shift Rapid Transit Business Case recommendation (covering the Full Bus Rapid Transit Network Alternative as preferred option, a future Light Rail Transit conversion endorsed as strategic direction, and related design, funding-pursuit and reporting directives); the source minutes do not identify which specific part(s) of the recommendation this particular recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "a569d323e8d3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast the second of three separately-recorded votes on the multi-part Shift Rapid Transit Business Case recommendation (covering the Full Bus Rapid Transit Network Alternative as preferred option, a future Light Rail Transit conversion endorsed as strategic direction, and related design, funding-pursuit and reporting directives); the source minutes do not identify which specific part(s) of the recommendation this particular recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "982a7277f38b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast the third of three separately-recorded votes on the multi-part Shift Rapid Transit Business Case recommendation (covering the Full Bus Rapid Transit Network Alternative as preferred option, a future Light Rail Transit conversion endorsed as strategic direction, and related design, funding-pursuit and reporting directives); the source minutes do not identify which specific part(s) of the recommendation this particular recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "3b5f78997192",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained the Chair's ruling declining to permit a floor motion to amend the Shift Rapid Transit Business Case motion in order to substitute Light Rail Transit for Bus Rapid Transit.",
+  "confidence": "high",
+  "quote": "Shall the ruling of the Chair be sustained with respect to permitting a motion to amend the motion on the floor in order to provide for LRT instead of BRT?",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "d4f8acf6395b",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved changing the Official Plan designation for part of 1733 Hamilton Road and 2046 Commissioners Road East from Neighbourhood Commercial Node and Low Density Residential to Multi-family, Medium Density Residential, and approved a draft plan of subdivision and rezoning to permit single detached dwellings, townhouses, stacked townhouses and apartment buildings up to a maximum density of 40 units per hectare and 12 metres in height, on the application of Sifton Properties Limited.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 30, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on May 31, 2016 to amend the Official Plan for a portion of the lands located at 1733 Hamilton Road and 2046 Commissioners Road East to change the land use designations on Schedule 'A' - Land Use FROM \"Neighbourhood Commercial Node\" and \"Low Density Residential\" TO \"Multi-family, Medium Density Residential\"; ... the proposed by-law appended to the staff report dated May 30, 2016 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on May 31, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan, as amended in Part c) above), to change the zoning of the subject lands FROM an Urban Reserve (UR4) Zone TO a holding Residential R1 Special Provision (h-R1-2( )) Zone ... a holding Residential R5/Residential R6 (h-h-54-R5-4/R6-5) Zone, to permit townhouses and stacked townhouses up to a maximum density of 40 units per hectare and maximum height of 12 metres",
+  "flags": []
+ },
+ {
+  "id": "7aef421d284b",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part c) of the Shift Rapid Transit Business Case clause to replace the word 'future' with 'potential' in directing the Civic Administration to design the Full Bus Rapid Transit Network Alternative taking into consideration a transition to Light Rail Transit technology.",
+  "confidence": "medium",
+  "quote": "Approve that clause 2 be amended in part c) by deleting the word \"future\" and by replacing it with the word \"potential\".",
+  "flags": []
+ },
+ {
+  "id": "a196101d81dd",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have further amended clause 2 (the Shift Rapid Transit Business Case) by increasing the assumed per-unit cost of buses and stations by $100,000 each; this failed.",
+  "confidence": "medium",
+  "quote": "Approve that clause 2 be further amended in part e) by adding the following works to the end of part e): \"subject to the increase of the per unit cost of buses and stations by $100,000 each.\"",
+  "flags": []
+ },
+ {
+  "id": "bb3d644f3eea",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Full Bus Rapid Transit Network Alternative as the preferred option for the Shift Rapid Transit initiative, based on the Rapid Transit Environmental Assessment and Business Case, giving preference to electric vehicles and subject to final approval of the Rapid Transit Master Plan.",
+  "confidence": "high",
+  "quote": "the Full Bus Rapid Transit Network Alternative BE APPROVED as the preferred option, based on the cost benefit analysis and other findings of the Rapid Transit Environmental Assessment and Business Case, giving preference to the use of electric vehicles, and subject to the final approval of the Rapid Transit Master Plan",
+  "flags": []
+ },
+ {
+  "id": "2e7ac56e061a",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a Rapid Transit conversion to Light Rail Transit technology as a strategic direction for the Shift Rapid Transit initiative, subject to a review of transit technologies in future Transportation Master Plan updates and confirmation through a new business case.",
+  "confidence": "high",
+  "quote": "a Rapid Transit conversion to Light Rail Transit technology BE ENDORSED as a strategic direction subject to a review of transit technologies undertaken as part of future updates to the Transportation Master Plan and confirmation through a new business case",
+  "flags": []
+ },
+ {
+  "id": "ea6b6f52768f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved lowering the garbage container set-out limit from 4 to 3 per pickup effective October 1, 2016, increasing container-limit exemption pickups from 2 to 4 per year, permitting a garbage-tag option for containers over the limit at a proposed $1.50 fee effective January 1, 2017, and directing related public education, tag-purchase and phased-compliance measures.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to lower the garbage container limit per pickup to 3 containers from the current number of 4, commencing October 1, 2016",
+  "flags": []
+ },
+ {
+  "id": "2d6dba860267",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained a procedural ruling of the Chair during the Civic Works Committee's consideration of the proposed garbage container limit changes.",
+  "confidence": "medium",
+  "quote": "The question to sustain the ruling of the Chair is put.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "64700094c72d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the proposed changes to the garbage container limit.",
+  "confidence": "high",
+  "quote": "Motion to Open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "5bf6178d9daa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred a communication from Councillors M. Salih and J. Morgan on Council members' expense-reporting processes to the Civic Administration for review and report back, and directed that the 2015 Statement of Remuneration for Council Members be posted on the City's website in addition to quarterly reporting.",
+  "confidence": "high",
+  "quote": "the communication BE REFERRED to the Civic Administration for review and report back at the next meeting of the Corporate Services Committee regarding the request for changes to the reporting processes; and the Civic Administration BE DIRECTED to post the 2015 Statement of Remuneration for Council Members on the City of London's website in addition to the quarterly reporting data.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "a5ea93bb6bc4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have further amended clause 15 by lowering the proposed garbage container set-out limit from 3 to 2 containers per pickup; this failed.",
+  "confidence": "high",
+  "quote": "Approve that clause 15 be amended in part a) by deleting the reference to the number \"3\" and by replacing it with the number \"2\".",
+  "flags": []
+ },
+ {
+  "id": "2a32f9ed72c9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved lowering the garbage container set-out limit from 4 to 3 per pickup effective October 1, 2016, increasing container-limit exemption pickups from 2 to 4 per year, permitting a garbage-tag option for containers over the limit at a proposed $1.50 fee effective January 1, 2017, and directing related public education, tag-purchase and phased-compliance measures.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to lower the garbage container limit per pickup to 3 containers from the current number of 4, commencing October 1, 2016",
+  "flags": []
+ },
+ {
+  "id": "cc182f3044f9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took action on the existing vehicle-for-hire industry item, including receiving a staff summary of public feedback, directing a Public Participation Meeting on proposed Taxi and Limousine By-law amendments, and directing that unlicensed vehicle-for-hire sourcing platforms be asked to stop operating in London pending future by-law amendments; the source vote record intermixes at least two distinct recorded votes on different parts of this item and does not reliably separate them.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "36b3395633b6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to report back on a proposed amendment schedule and draft by-law for new Business Licensing By-law categories and regulations, followed by public participation meetings.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee (CPSC) at the July 19, 2016 meeting with a proposed amendment schedule; the Civic Administration BE REQUESTED to report back at a future CPSC meeting with a draft by-law amendment and thereafter hold a public participation meeting or a series of public participation meetings",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "78d13990b071",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred consideration of the Motion of Which Notice is Given (on designating Council representatives to the Rapid Transit Network initiative) to the next meeting of the appropriate Standing Committee for discussion; this failed.",
+  "confidence": "high",
+  "quote": "Approve referral of consideration of the Motion of Which Notice is Given to the next meeting of the appropriate Standing Committee for discussion.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "484c3543a0da",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Confirmed the Mayor resuming the Chair after a brief recess during the June 23, 2016 Council meeting.",
+  "confidence": "high",
+  "quote": "At 6:17 PM His Worship the Mayor resumes the Chair and Councillor P. Hubert takes his seat at the Council Board.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "8e2e3baedac0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred consideration of part c) of clause 16 (directing electronic vehicle-sourcing platforms serving unlicensed vehicles-for-hire to stop operating in London) to later in the meeting, following a further in-camera session.",
+  "confidence": "high",
+  "quote": "Approve that consideration of part c) of clause 16 be deferred to a time in the meeting, following a further in camera session.",
+  "flags": []
+ },
+ {
+  "id": "fab84b83e023",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part e) of clause 16, requesting the Civic Administration to remove the requirement for an English-language proficiency exam from the draft Taxi and Limousine By-law amendments, for public comment.",
+  "confidence": "high",
+  "quote": "The motion to Approve part e) of clause 16 is put. ... the Civic Administration BE REQUESTED to remove the requirement for an English language proficiency exam in the draft by-law, for public comment",
+  "flags": []
+ },
+ {
+  "id": "c2ec75eb19db",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the remainder of clause 16 (the vehicle-for-hire industry item), excluding part c) which had been deferred to later in the meeting.",
+  "confidence": "medium",
+  "quote": "The motion to Approve the remainder of clause 16, excluding part c) is put.",
+  "flags": []
+ },
+ {
+  "id": "b42c5e807565",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 17 (Business Licensing By-law new categories) to add a new part c) directing the Civic Administration to report back with a draft by-law on unlicensed residential care facilities and to schedule a public participation meeting; this failed.",
+  "confidence": "high",
+  "quote": "Approve An amendment to clause 17, to add a new part c) as follows: \"c) the Civic Administration BE DIRECTED to report back to the July 19, 2016 CPSC meeting with a draft by-law related to unlicensed residential care facilities, and further that a public participation meeting be scheduled at this same meeting to allow for public comment on the proposed by-law;\"",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "9c5d67dc0271",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law to rezone the Blackfriars/Petersville Area property from a Residential Special Provision R2-2(17) Zone to a revised Residential Special Provision R2-2 Zone, and directed the Civic Administration to initiate a separate Zoning By-law Amendment to exempt 25 Gower Street from the new restrictions.",
+  "confidence": "low",
+  "quote": "the proposed by-law appended to the staff report dated June 20, 2016 as Appendix \"A\", relating to the Blackfriars/Petersville Area BE INTRODUCED at the Municipal Council meeting to be held on June 23, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential Special Provision R2-2(17) Zone, TO a Residential Special Provision R2-2(_) Zone.",
+  "flags": []
+ },
+ {
+  "id": "ad129b9ec87f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received a communication from Councillor J. Morgan regarding a potential request for the Integrity Commissioner to consider an inquiry into a matter made public by Mayor M. Brown and Councillor M. Cassidy on June 14, 2016.",
+  "confidence": "high",
+  "quote": "That the communication dated June 16, 2016, from Councillor J. Morgan, regarding a potential request for the Integrity Commissioner to consider conducting an inquiry related to a matter made public by Mayor M. Brown and Councillor M. Cassidy on June 14, 2016, BE RECEIVED.",
+  "flags": []
+ },
+ {
+  "id": "6388b2ee3d47",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have changed the order of business to permit consideration of Motions of Which Notice is Given immediately following the Report of Council presented in camera; this failed.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit the consideration of Motions of Which Notice is Given, following the presentation of the Report of the Council, in camera.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "a1a68dc481c8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved adopting the Draft School Zone Speed Limit Policy and directed the Civic Administration to bring forward by-laws to implement it, phased in over two years.",
+  "confidence": "high",
+  "quote": "the Draft School Zone Speed Limit Policy, appended to the staff report dated April 25, 2016, as Appendix \"A\", BE ADOPTED",
+  "flags": []
+ },
+ {
+  "id": "35bd03ac1f43",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to retain a consultant to complete a Statement of Cultural Heritage Value or Interest for 129 Langarth Street East, and to give notice under the Ontario Heritage Act of Council's intent to designate the property for its cultural heritage value from a contextual perspective.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to retain a qualified consultant to complete a \"Statement of Cultural Heritage Value or Interest\" with respect to the contextual value of the subject property in support of the Municipal Council's intent to designate the subject property under the Ontario Heritage Act, R.S.O. 1990, c.O.18",
+  "flags": []
+ },
+ {
+  "id": "c1674f879745",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to temporarily permit amplified music and dancing on legally-existing outdoor patios within the Downtown Business Improvement Area and Old East Village Community Improvement Area, as a pilot running through September 30, 2016.",
+  "confidence": "high",
+  "quote": "the proposed attached, revised, by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on July 26, 2016, to amend Section 50.2 (Temporary Zone) of Zoning By-law No. Z.-1, (in conformity with the Official Plan), to temporarily allow, notwithstanding the regulations of Section 4.18 5) of the General Provisions Section, amplified music and dancing on outdoor patios legally in place as of July 26, 2016 within the Downtown Business Improvement Area and Old East Village Community Improvement Program Area for a temporary period not to exceed September 30, 2016",
+  "flags": []
+ },
+ {
+  "id": "a4a0e37ee960",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to amend the Official Plan's Near-Campus Neighbourhoods policy 3.5.19.2 with a revised vision statement, add a new policy 3.5.19.4 xiii) on intensification in near-campus neighbourhoods, and revise the Near-Campus Neighbourhoods Area boundary map.",
+  "confidence": "medium",
+  "quote": "the proposed attached, revised, by-law (Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on July 26, 2016 to amend the Official Plan policies for Near-Campus Neighbourhoods by amending policy 3.5.19.2 to delete the current vision statement and replacing it with a REVISED vision statement to better reflect the community vision for near-campus neighbourhoods; to add a new policy 3.5.19.4 xiii) to ensure intensification in near-campus neighbourhoods can provide for reasonable uses and activities, while not interfering with the reasonable quiet enjoyment of other nearby properties; and to delete and replace Figure 3-1 with a revised boundary of the Near-Campus Neighbourhoods Area",
+  "flags": []
+ },
+ {
+  "id": "db0dde147856",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred new branding suggestions for the London Diversity and Race Relations Advisory Committee pending Council's approval of a proposed committee name change, requested that the Civic Administration consider the Committee as the advisory body for the Community and Diversity Inclusion Strategy, and received the balance of the Committee's 6th Report.",
+  "confidence": "high",
+  "quote": "the establishment of new branding suggestions for the LDRRAC, in conjunction with the proposed committee name change, BE DEFERRED until such time as a name change is approved by the Municipal Council",
+  "flags": [
+   "informational_ask"
+  ]
+ }
+]

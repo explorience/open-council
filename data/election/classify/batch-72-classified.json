@@ -1,0 +1,503 @@
+[
+ {
+  "id": "8965878d791e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 18.",
+  "confidence": "medium",
+  "quote": "Approve Second Reading of Bill No. 18.",
+  "flags": []
+ },
+ {
+  "id": "27e0787890aa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to, and enacted, Bill No. 18.",
+  "confidence": "medium",
+  "quote": "Approve Third Reading and Enactment of Bill No. 18.",
+  "flags": []
+ },
+ {
+  "id": "37ad367027ee",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 20.",
+  "confidence": "medium",
+  "quote": "Approve Introduction and First Reading of Bill No. 20.",
+  "flags": []
+ },
+ {
+  "id": "248650057ce2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 20.",
+  "confidence": "medium",
+  "quote": "Approve Second Reading of Bill No. 20.",
+  "flags": []
+ },
+ {
+  "id": "9d6d7ebc9a0f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to, and enacted, Bill No. 20.",
+  "confidence": "medium",
+  "quote": "Approve Third Reading and Enactment of Bill No. 20.",
+  "flags": []
+ },
+ {
+  "id": "13e1c6cdaa29",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no further action relating to a proposed expansion of the Urban Growth Boundary for future industrial growth (O-8014).",
+  "confidence": "high",
+  "quote": "NO FURTHER ACTION BE TAKEN relating to the expansion of the Urban Growth Boundary for future Industrial Growth",
+  "flags": []
+ },
+ {
+  "id": "16e507d09fab",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have introduced an interim control by-law to prohibit new residential dwelling units and major additions to residential buildings within the Low Density Residential designation of the Old South neighbourhood, outside the Wortley Village – Old South Heritage Conservation District, for a period of one year.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated December 14, 2015, BE INTRODUCED at the Municipal Council meeting to be held on January 4, 2016, to establish an interim control by-law (in conformity with the Official Plan) for the purpose of prohibiting the construction of new residential dwelling units and the construction of major additions to residential buildings within the Low Density Residential designation of the Old South neighbourhood and outside of the Wortley Village - Old South Heritage Conservation District, as defined in the proposed By-law, for a period of one year",
+  "flags": []
+ },
+ {
+  "id": "deba48ec6864",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received a staff report on the review of intensification targets in The London Plan for information, and took no further action to revise the 40% intensification target identified in The London Plan.",
+  "confidence": "medium",
+  "quote": "a) the staff report dated December 14, 2015, relating to the review of the intensification targets in The London Plan BE RECEIVED for information, and, b) no further actions BE TAKEN to revise the 40% intensification target identified in The London Plan.",
+  "flags": []
+ },
+ {
+  "id": "b17262425c8c",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved adding an additional intensification target to The London Plan, seeking that 75% of all intensification be located within the Primary Transit Area.",
+  "confidence": "medium",
+  "quote": "an additional intensification target BE ADDED to The London Plan, seeking that 75% of all intensification be located within the Primary Transit Area",
+  "flags": []
+ },
+ {
+  "id": "83a2aa0597df",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Elected Councillor H.L. Usher as Vice Chair of the Community and Protective Services Committee for the term ending November 30, 2016.",
+  "confidence": "medium",
+  "quote": "Motion to approve H.L. Usher as Vice Chair",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "1a74e903bec0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to make the necessary arrangements to implement a monthly change in the seating positions of Council Members at Strategic Priorities and Policy Committee and Municipal Council meetings by way of the drawing of names.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to make the necessary arrangements to implement a monthly change in the seating positions of Council Members at Strategic Priorities and Policy Committee and Municipal Council meetings by way of the drawing of names.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "3650b3bb7d45",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have amended clause 16 to introduce an interim control by-law prohibiting new residential dwelling units and major additions to residential buildings within the Low Density Residential designation of the Old South neighbourhood, outside the Wortley Village – Old South Heritage Conservation District, for a period of one year.",
+  "confidence": "high",
+  "quote": "the attached proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on January 4, 2016, to establish an interim control by-law (in conformity with the Official Plan) for the purpose of prohibiting the construction of new residential dwelling units and the construction of major additions to residential buildings within the Low Density Residential designation of the Old South neighbourhood and outside of the Wortley Village - Old South Heritage Conservation District, as defined in the proposed By-law, for a period of one year",
+  "flags": []
+ },
+ {
+  "id": "3d6c671b5737",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded Traffipax LLC the contract for red light cameras, associated equipment, maintenance and data transfer services for 2017-2021 (with an option to extend to 2026), and authorized related agreements and administrative acts to implement the Red Light Camera Program.",
+  "confidence": "high",
+  "quote": "Traffipax LLC BE AWARDED the contract for the provision of red light cameras, associated equipment, maintenance and data transfer services for the period 2017-2021... noting that there is an option to extend the contract at the discretion of the City of London for an additional five years (January 1, 2022 to December 31, 2026)",
+  "flags": []
+ },
+ {
+  "id": "1f13bc918632",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted Councillor P. Squire's resignation from the Governance Working Group.",
+  "confidence": "high",
+  "quote": "the resignation of Councillor P. Squire from the Governance Working Group BE ACCEPTED",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "25298fdb3f93",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 52, being a by-law to approve a draft plan of subdivision and to amend the Official Plan and Zoning By-law No. Z.-1, for the property at 1080 Westdel Bourne (39T-14503/OZ-8410).",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 52.",
+  "flags": []
+ },
+ {
+  "id": "496797a207e5",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended Bill No. 52 to remove the 'h-5' holding zoning provision applicable to the property at 1080 Westdel Bourne.",
+  "confidence": "medium",
+  "quote": "Approve an amendment to Bill 52 to remove the h-5 zoning provision.",
+  "flags": []
+ },
+ {
+  "id": "9cb6e6ed82f6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recorded a procedural vote immediately following the Mayor's recognition of citizens named to the 2016 Mayor's New Year's Honour List; the substantive text of this particular vote is not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "procedural",
+   "no_text"
+  ]
+ },
+ {
+  "id": "73cffdf85b73",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the Civic Administration to continue conversations with Southside Group to look for ways to incorporate the heritage features of 175-183 King Street into future development on the site.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to continue to have conversations with Southside Group in order to look for ways and opportunities to find a development that would incorporate the heritage features of this site in the future development",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "af9b7cf35a78",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the Civic Administration to report back on tax-policy options for multi-unit residential and affordable-housing properties, and to explore a Community Improvement Plan to encourage affordable housing in existing multi-unit buildings.",
+  "confidence": "medium",
+  "quote": "staff BE REQUESTED to report back on the following proposed actions with respect to future tax policy...Civic Administration BE DIRECTED to explore the potential of a Community Improvement Plan to encourage the creation of affordable housing in existing multi-unit residential buildings",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "b6ece4221ed4",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the Civic Administration to report back on tax-policy options for multi-unit residential and affordable-housing properties, and to explore a Community Improvement Plan to encourage affordable housing in existing multi-unit buildings.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE DIRECTED to report back to Corporate Services Committee...and c) Civic Administration BE DIRECTED to explore the potential of a Community Improvement Plan to encourage the creation of affordable housing in existing multi-unit residential buildings",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "44db8e711045",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an amendment to clause 3 (Future Tax Policy - Possible Directions); the amendment's substantive text is not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "c9e941b75255",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a further procedural vote on clause 3 (Future Tax Policy - Possible Directions); the substantive text of this vote is not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "b81a52086de1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a further procedural vote on clause 3 (Future Tax Policy - Possible Directions); the substantive text of this vote is not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "b4ffeae79830",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to undertake a high-level review, in liaison with London Hydro, of the feasibility and desirability of investing in Hydro One.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to undertake a high level review, in liaison with London Hydro, as to the feasibility and desirability of investing in Hydro One",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "7f734a767010",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 6 (BMO Centre funding request) by adding part d), requesting the Mayor to provide a letter of support for the project to the Provincial and/or Federal Governments, should the London Optimist Sports Centre request such a letter.",
+  "confidence": "high",
+  "quote": "the Mayor BE REQUESTED to provide a letter of support for the project to the Provincial and/or Federal Governments, should the London Optimist Sports Centre request such a letter",
+  "flags": []
+ },
+ {
+  "id": "4c3c19e59c9f",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 6 of the 2nd Report of the Community and Protective Services Committee (the BMO Centre $800,000 funding request and recommendation) to the 2016-2019 Multi-Year Budget process.",
+  "confidence": "high",
+  "quote": "Approve referral of clause 6 of the 2nd Report of the Community and Protective Services Committee, having to do with the BMO Centre funding request and recommendation, to the 2016-2019 Multi-Year Budget process.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "39093303b6f5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recorded a procedural vote immediately following the Mayor's return to the Chair during consideration of the BMO Centre item; the substantive text of this particular vote is not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "procedural",
+   "no_text"
+  ]
+ },
+ {
+  "id": "34a7e8b62c07",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Called the question (ended debate), pursuant to Section 11.14 of the Council Procedure By-law, during consideration of clause 6 on a Council public question session/period.",
+  "confidence": "high",
+  "quote": "pursuant to section 11.14 of the Council Procedure By-law, the question be put",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "1db2d265a16e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a procedural vote related to clause 6 on a Council public question session/period; the specific text this vote applies to is not clearly preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "c99169db6c38",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 6, as amended, requesting the Governance Working Group to review and recommend necessary changes to procedural processes for including a public question session/period at Council meetings, including reviewing the best practices of other municipalities.",
+  "confidence": "high",
+  "quote": "That the Governance Working Group BE REQUESTED to review and recommend the necessary changes to procedural processes for including a public question session/period at Municipal Council meetings, including reviewing the best practices of those municipalities who currently provide for public question sessions/periods, for the consideration of the Municipal Council.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "10e2142ffbf1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 7 (175-183 King Street, Z-8523, relates to Bill No. 74) to direct the Civic Administration to continue conversations with Southside Group to find ways to incorporate the heritage features of the site into future development.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to continue to have conversations with Southside Group in order to look for ways and opportunities to find a development that would incorporate the heritage features of this site in the future development",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "f76cdc87e2dc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Denied Councillor M. van Holst's request to provide $27.09 from his annual expense allocation for 3 nylon basketball nets for Trafalgar Public School.",
+  "confidence": "high",
+  "quote": "the request by Councillor M. van Holst to provide $27.09 from his annual expense allocation for 3 nylon basketball nets for Trafalgar Public School BE DENIED",
+  "flags": []
+ },
+ {
+  "id": "b40ef6f02a54",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the key project planning directions and preliminary construction timelines for the Back to the River 'Ribbon of the Thames' concept plan and the Springbank Dam Replacement Gates project to the March 8, 2016 Civic Works Committee meeting for discussion and debate, and directed the Civic Administration to report back on Treaty Rights regarding those projects.",
+  "confidence": "high",
+  "quote": "consideration of the key project planning directions and associated preliminary construction timelines for the following projects...BE REFERRED to the March 8, 2016 meeting of the Civic Works Committee, for discussion and debate...and, c) the Civic Administration BE DIRECTED to report back at the March 8, 2016 meeting of the Civic Works Committee with respect to Treaty Rights regarding the projects noted in b)",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "11a9d8320a93",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a Corporate Operating Budget line vote; the specific business case, subject and amount for this vote are not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "9e03e37d6f46",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a Corporate Operating Budget line vote; the specific business case, subject and amount for this vote are not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "ad7b7dd41c4f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a Corporate Operating Budget line vote; the specific business case, subject and amount for this vote are not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "c3bf24b415db",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted part 2d)v) of the Corporate Operating Budget; the underlying subject and amount of part 2d)v) are not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": "Motion to Approve that part 2d)v) BE ADOPTED.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "380aef05801f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back during the Strategic Investments portion of the 2016-2019 Budget discussions with a Business Case for a Green Bin Program (source organic waste separation).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back during the Strategic Investments portion (Agenda Item 3h)) of the 2016-2019 Budget discussions by the Strategic Priorities and Policy Committee, with a Business Case for a Green Bin Program (source organic waste separation)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "30823f9db4dc",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the portion of part 2e)i) of the Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget pertaining to municipal golf, in the net amount of $1 for 2016-2019.",
+  "confidence": "medium",
+  "quote": "the portion of part 2e)i), Neighbourhood and Recreation Services 2016-2019 Multi-Year Operating Budget, pertaining to municipal golf ($1 for 2016-2019) BE ADOPTED",
+  "flags": []
+ },
+ {
+  "id": "dd43c2fdbd9c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Passed a Corporate Operating Budget line vote; the specific business case, subject and amount for this vote are not preserved in the source minutes.",
+  "confidence": "low",
+  "quote": null,
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "3316568b4a62",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved the net 2016-2019 Multi-Year Operating Budget for Corporate Planning and Administration in the amount of $(104,000), noting $500,000 in savings moved from 2019 to 2018 and that the overall reduction to the original proposed budget remains at $4,000,000.",
+  "confidence": "high",
+  "quote": "the net 2016-2019 Multi-Year Operating Budget for Corporate Planning and Administration BE APPROVED in the amount of ($104,000); it being noted that $500,000 in savings has been moved from 2019 to 2018; it being further noted that the overall reduction to the original proposed budget remains at $4,000,000.",
+  "flags": []
+ },
+ {
+  "id": "65ab0d2095bf",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved $25,000 (net) annually for Business Case #10, for a gross amount of $100,000, with staff directed to explore opportunities to mitigate those costs.",
+  "confidence": "high",
+  "quote": "$25,000 BE APPROVED for Business Case #10 on annual basis for a gross amount of $100,000, with staff to explore opportunities for mitigating those costs",
+  "flags": []
+ },
+ {
+  "id": "0b279766e41c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #11 (Service London Implementation Plan), with a Total Budget of $3,947,000, funded by $1,744,000 from the tax levy, $1,603,000 in debt, and $600,000 from the Efficiency, Effectiveness and Economy Reserve Fund.",
+  "confidence": "high",
+  "quote": "Business Case #11 – Service London Implementation Plan BE APPROVED as follows: Total Budget: $3,947,000 Funding: $1,744,000 (Levy) $1,603,000 (Debt) $600,000 (Efficiency, Effectiveness and Economy Reserve Fund)",
+  "flags": []
+ },
+ {
+  "id": "5184dd0820a2",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Part A of Business Case #16 in the 2016-2019 Capital Budget.",
+  "confidence": "medium",
+  "quote": "Part A of Business Case #16 BE APPROVED.",
+  "flags": []
+ },
+ {
+  "id": "ed1101394ca0",
+  "issue": "budget",
+  "axis": "business-case",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved Option B – Standard Enhancement – 5 cm Response, for Business Case #17 (Winter Maintenance), in the amount of $300,000.",
+  "confidence": "high",
+  "quote": "Options B- Standard Enhancement – 5 cm Response and G – Service Enhancement – 50% Parks Pathways BE APPROVED in the amounts of $300,000 and $92,840, respectively",
+  "flags": []
+ }
+]

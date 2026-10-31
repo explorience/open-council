@@ -1,0 +1,452 @@
+[
+ {
+  "id": "ffcaffa5bbcb",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Option G – Service Enhancement (50% Parks Pathways), a Winter Maintenance capital budget option under Business Case #17.",
+  "confidence": "medium",
+  "quote": "Motion to Approve Option G - Service Enhancement - 50% Parks Pathways.",
+  "flags": []
+ },
+ {
+  "id": "f48208b72cc8",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Option H – Service Enhancement (winter maintenance of the entire Thames Valley Parkway), commencing in 2016, with any unexpended funds to be contributed to the Severe Weather Reserve Fund.",
+  "confidence": "high",
+  "quote": "Motion to Approve Option H - Service Enhancement - Entire Thames Valley Parkway, commencing in 2016; it being understood that any unexpended funds would be contributed to the Severe Weather Reserve Fund.",
+  "flags": []
+ },
+ {
+  "id": "c37278228d3a",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved Added Business Case #24 – Green Bin Program and Modifications to Recycling and Garbage Pick Up, funded $12,000,000 (2017) from Reserves and $5,935,000 (2016–2019) from the tax levy.",
+  "confidence": "high",
+  "quote": "That Added Business Case #24 – Green Bin Program and Modifications to Recycling and Garbage Pick Up BE APPROVED as follows: $12,000,000: 2017 from Reserves 2016-2019 from Levy $5,935,000",
+  "flags": []
+ },
+ {
+  "id": "c94933a0f18e",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved $35,000 (2016) and $100,000 (2017) in one-time operating funding, from the London Hydro dividend, to begin work on Added Business Case #24 (Green Bin Program).",
+  "confidence": "high",
+  "quote": "$35,000 (2016) $100,000 (2017) BE APPROVED for Operating for Added Business Case #24 to get the work started, with one-time funding to be provided by a portion of the remaining London Hydro dividend.",
+  "flags": []
+ },
+ {
+  "id": "6450d3147b5f",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Added Business Case #25 – Brownfields Community Improvement Program (Reinstate Brownfields Contamination Assessment Study Grant Program), as submitted.",
+  "confidence": "medium",
+  "quote": "That Added Business Case #25 - Brownfields Community Improvement Program (Reinstate Brownfields Contamination Assessment Study Grant Program), as submitted.",
+  "flags": []
+ },
+ {
+  "id": "c6b772fb8b5e",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Added Business Case #26 – Municipal Law Enforcement Officers, Enhanced Complement, in the gross amount of $1,095,000 and net amount of $364,000, with one-time implementation costs funded from the Economic Development Reserve Fund.",
+  "confidence": "high",
+  "quote": "That Added Business Case #26 – Municipal Law Enforcement Officers - Enhanced Complement BE APPROVED in the gross amount of $1,095,000 and net amount of $364,000 ($91,000 flat across the board with funding for one-time costs for initial implementation from a one-time source from the EDRF).",
+  "flags": []
+ },
+ {
+  "id": "992eda0ff213",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved delegation requests for the meeting, directed that a public participation meeting be held at the March 8, 2016 Civic Works Committee meeting on the Springbank Dam, and referred the staff report to that meeting for consideration.",
+  "confidence": "high",
+  "quote": "a) delegation requests for the February 2, 2016 meeting of the Civic Works Committee BE APPROVED; b) a public participation meeting BE HELD at the Civic Works Committee meeting to be held on March 8, 2016, in order to hear further public input with respect to this matter; and, c) the staff report dated February 2, 2016, BE REFERRED to the March 8, 2016 meeting of the Civic Works Committee for consideration",
+  "flags": ["referral", "procedural"]
+ },
+ {
+  "id": "9efaeed7fa71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the 14th Annual Women's Lifestyle Show (March 19–20, 2016, London Convention Centre) as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "That the 14th Annual Women's Lifestyle Show to be held on March 19 and 20, 2016 at the London Convention Centre BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": []
+ },
+ {
+  "id": "5d2eb63e8f28",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a motion to refuse designating the 14th Annual Women's Lifestyle Show (March 19–20, 2016) as an event of municipal significance. The source record's tally (2 yeas–3 nays) is inconsistent with its own \"Motion Passed\" label and with the adjacent vote on the same item; direction could not be reliably determined.",
+  "confidence": "low",
+  "quote": "Motion to refuse designation of the 14th Annual Women's Lifestyle Show to be held on March 19 and 20, 2016 as an event of municipal significance.",
+  "flags": []
+ },
+ {
+  "id": "10c0d98fcd5b",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Advised the Ontario Municipal Board that Council supports the amended draft plan of subdivision, and approved introducing a by-law rezoning the properties at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503) from Urban Reserve and Holding Residential zones to Holding Urban Reserve Special Provision, Holding Residential R1, and Holding Open Space zones.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated February 22, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 1, 2016, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning FROM: - an Urban Reserve (UR3) Zone TO a Holding Urban Reserve Special Provision (h-18.UR3( )) Zone; - an Urban Reserve (UR3) Zone TO a Holding Residential R1 (h.R1-3) Zone",
+  "flags": []
+ },
+ {
+  "id": "a8f324c1084f",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to rezone the property at 2946 Bateman Trail (Z-8537) from a Restricted Service Commercial Special Provision zone to a Holding Restricted Service Commercial Special Provision zone, and requested a warning clause in the Development Agreement.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 22, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 1, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Restricted Service Commercial Special Provision (RSC1(15)/RSC4(9)/ RSC5(8)) Zone TO a holding Restricted Service Commercial Special Provision (h-_*RSC1(_)/RSC4(9)/RSC5(8)) Zone",
+  "flags": []
+ },
+ {
+  "id": "af77af0afa0e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on the Assessment Growth Policy and Allocation of 2016 Assessment Growth Funding item. No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "84dfa68a1bb1",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved $700,000 in 2016 to complete the environmental assessment for the 'Back to the River Project' (Business Case #18), and identified $5,000,000 in the Economic Development Reserve Fund for the Inaugural Project, to be released upon EA finalization and Council approval of project costs and external financing.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to Business Case #18 – \"Back to the River Project\": a) $700,000 BE APPROVED in 2016 to complete the necessary environmental assessment; and, b) $5,000,000 BE IDENTIFIED in the Economic Development Reserve Fund for completion of the Inaugural Project, with the funding to be released upon finalization of the Environmental Assessment, confirmation and Council approval of project costs and confirmation of any external sources of financing.",
+  "flags": []
+ },
+ {
+  "id": "7edda46dcdfd",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have amended part b) of the pending Business Case #1 (Library Ten Year Capital Plan) motion, replacing the pending $200,000 (2018) and $400,000 (2019) capital-levy allocation with an additional $250,000 capital budget allocation from the levy annually from 2016–2019.",
+  "confidence": "medium",
+  "quote": "approve 2018 capital levy in the amount of $200,000 and 2019 capital levy in the amount of $400,000 ... amendment to part b) to read as follows: \"b) an additional $250,000 capital budget allocation from levy annually from 2016-2019\"",
+  "flags": []
+ },
+ {
+  "id": "b943ee2b4c73",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on Business Case #1 (Library Ten Year Capital Plan), within the Corporate Capital Budget, immediately after its part b) amendment failed. No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "216efae26c57",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved an immediate 2016 flow of $1,800,000 to a reserve fund for tree planting under the Urban Forest Strategy (Business Case #3), using unallocated one-time London Hydro dividend monies.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to funding Business Case #3 – Urban Forest Strategy: a) approve immediate 2016 flow of $1,800,000 to a reserve fund for planting - using unallocated one-time London Hydro dividend monies (for one-time funding); and,",
+  "flags": []
+ },
+ {
+  "id": "de33ca49baed",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #5 – Road Safety Strategy, in the amount of $500,000.",
+  "confidence": "medium",
+  "quote": "Business Case #5 – Road Safety Strategy $500,000",
+  "flags": []
+ },
+ {
+  "id": "f52060c44c9f",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved an amendment increasing the 2016 allocation to Business Case #7 (State of the Infrastructure Report) by $750,000, funded from the one-time London Hydro dividend, bringing the revised total to $6,750,000.",
+  "confidence": "high",
+  "quote": "an amendment to the allocation to Business Case #7, to increase the 2016 allocation by 750,000, using monies from the one-time London Hydro dividend; noting the revised total for the State of the Infrastructure Report will be $6,750,000",
+  "flags": []
+ },
+ {
+  "id": "db131e5c1252",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved Business Case #20 – Downtown Plan (Small Scale projects), $100,000 in 2016 only, with funding as noted in the Business Case, and noted there would be no levy allocation in 2017, 2018 and 2019.",
+  "confidence": "high",
+  "quote": "Business Case #20 – Downtown Plan (Small Scale projects) $100,000 in 2016 only, with funding as noted in the Business Case; it being noted there will not be a levy allocation in 2017, 2018 and 2019.",
+  "flags": ["substitution"]
+ },
+ {
+  "id": "27088664e03b",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #20 – Downtown Plan (Small Scale projects), in the amount of $100,000.",
+  "confidence": "medium",
+  "quote": "Business Case #20 – Downtown Plan (Small Scale projects) $100,000",
+  "flags": []
+ },
+ {
+  "id": "faaef8324add",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #21 – Regenerating Public Housing Plan, in the amount of $750,000, with the funding source as noted in the Business Case.",
+  "confidence": "high",
+  "quote": "Business Case #21 – Regenerating Public Housing Plan $750,000 funding source as noted in the Business Case.",
+  "flags": []
+ },
+ {
+  "id": "59cef0525e34",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a $750,000 allocation for Business Case #13 – London Strengthening Neighbourhoods Strategy, with the funding source as noted in the Business Case, plus an additional $30,000 in 2016 from the one-time London Hydro dividend.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to Business Case #13 – London Strengthening Neighbourhoods Strategy a) the allocation of $750,000, funding source as noted in the Business Case be approved; and b) an additional $30,000 be allocated in 2016, from the one-time London Hydro dividend.",
+  "flags": []
+ },
+ {
+  "id": "979b32728e56",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Business Case #8 – Garbage Collection (Weighing/tracking technology), in the amount of $150,000, with the funding source as noted in the Business Case.",
+  "confidence": "medium",
+  "quote": "Business Case #8 – Garbage Collection (Weighing/tracking technology) $150,000 funding source as noted in the Business Case.",
+  "flags": []
+ },
+ {
+  "id": "650c5573badc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Advised the Ontario Municipal Board that Council supports the amended draft plan of subdivision, and approved introducing a by-law rezoning the properties at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503) from Urban Reserve and Holding Residential zones to Holding Urban Reserve Special Provision, Holding Residential R1, and Holding Open Space zones.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated February 22, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 1, 2016, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning FROM: - an Urban Reserve (UR3) Zone TO a Holding Urban Reserve Special Provision (h-18.UR3( )) Zone; - an Urban Reserve (UR3) Zone TO a Holding Residential R1 (h.R1-3) Zone",
+  "flags": []
+ },
+ {
+  "id": "25e77296e96e",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to rezone the property at 2946 Bateman Trail (Z-8537) from a Restricted Service Commercial Special Provision zone to a Holding Restricted Service Commercial Special Provision zone, and requested a warning clause in the Development Agreement.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 22, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 1, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Restricted Service Commercial Special Provision (RSC1(15)/RSC4(9)/ RSC5(8)) Zone TO a holding Restricted Service Commercial Special Provision (h-_*RSC1(_)/RSC4(9)/RSC5(8)) Zone",
+  "flags": []
+ },
+ {
+  "id": "9726bee8ba4d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on the Workplace and Community Diversity and Inclusion Update item, as amended. No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "63ce813e2388",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 98, the zoning by-law amendment for the properties at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503).",
+  "confidence": "medium",
+  "quote": "Approve Introduction and First Reading of Bill No. 98.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "9987f27e53d4",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 98, the zoning by-law amendment for the properties at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503).",
+  "confidence": "medium",
+  "quote": "Approve Second Reading of Bill No. 98.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "28ada415adbc",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading and enacted Bill No. 98, the zoning by-law amendment for the properties at 3924 and 4138 Colonel Talbot Road (Z-8541/39T-12503).",
+  "confidence": "medium",
+  "quote": "Approve Third Reading and Enactment of Bill No. 98.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "7d9717f22021",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), approved introducing a rezoning by-law increasing permitted residential density (up to 30 to 75 units per hectare) and height across several Residential zones, and approved the project financing per the Estimated Claims and Revenues Report.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property - FROM a Holding Residential R6 Special Provision (h*h-54*h-71*h*95*h-100*R6-4(5)) Zone, that permits cluster single, semi and duplex forms of residential units with a maximum density of 30 units per hectare and a maximum height of 10.5 metres TO a Holding Residential R6 (h*h-54*h-71*h*95*h-100*R6-5) Zone, which permits cluster single, semi, duplex, townhouse and apartment forms of residential units with a maximum density of 35 units per hectare and a maximum height of 12 metres",
+  "flags": []
+ },
+ {
+  "id": "95468fc02cc5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to develop a Terms of Reference and budget for a 'One River' Master Plan Environmental Assessment, to report back on how the EA process would unfold, to contact funding partners regarding recovery of funding, and to consult Indigenous neighbouring communities through the EA process; and received the related staff reports and presentation.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to develop a Terms of Reference and budget for a consultant assignment to complete a \"One River\" Master Plan Environmental Assessment (EA) Study that would encompass an area from the Springbank Dam to the Forks of the Thames and Harris Park; it being understood that proceeding with this EA would not preclude a decision to decommission the Springbank Dam should the Municipal Council chose to do so",
+  "flags": ["informational_ask", "referral"]
+ },
+ {
+  "id": "2a87ee73e315",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the 8th Report of the Strategic Priorities and Policy Committee, covering the 2016-2019 Multi-Year Budget business cases and related items voted on individually elsewhere in this meeting.",
+  "confidence": "high",
+  "quote": "8th Report of the Strategic Priorities and Policy Committee",
+  "flags": ["procedural", "wrapper_preamble"]
+ },
+ {
+  "id": "d2e611c2c977",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the Strategic Investment related to Business Case #14 – Ontario Works Service Plan (Low Income Support Enhancement), in the amount of $2,080,000, noting $500,000 would come from the tax levy and $1,580,000 from other sources.",
+  "confidence": "high",
+  "quote": "Approve that the Strategic Investment related to Business Case #14 – Ontario Works Service Plan – Low Income Support Enhancement (clause 3h)xiv)) in the amount of $2,080,000 BE ADOPTED; it being noted that $500,000 will be from the Levy and $1,580,000 from other sources.",
+  "flags": []
+ },
+ {
+  "id": "02b1c8d7beee",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on an item within the 8th Report of the Strategic Priorities and Policy Committee (2016-2019 Multi-Year Budget). No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "e19ed483d1db",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the portion of the net 2016-2019 Multi-Year Operating Budget for Protective Services pertaining to Corporate Security and Emergency Management, in the amount of $7,213,000.",
+  "confidence": "high",
+  "quote": "Approve that the portion of the net 2016-2019 Multi-Year Operating Budget for Protective Services (clause 2g)iii)) as it pertains to Corporate Security and Emergency Management in the amount of $7,213,000 BE ADOPTED.",
+  "flags": []
+ },
+ {
+  "id": "0c30f077fc2c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the portion of the Service Improvement Capital Forecast for 2020-2025 pertaining to Protective Services, in the amount of $47,500,000.",
+  "confidence": "high",
+  "quote": "Approve that the portion of the Service Improvement Capital Forecast for 2020-2025 as it pertains to Protective Services (clause 3 g) v)) in the amount of $47,500,000 BE ADOPTED.",
+  "flags": []
+ },
+ {
+  "id": "6677a004a95c",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the Strategic Investments Budget for Business Case #25 – Brownfields Community Improvement Program (Reinstate Brownfield Contamination Assessment Study Grant Program), in the total amount of $80,000, as submitted.",
+  "confidence": "high",
+  "quote": "Approve that the Strategic Investments Budget as it pertains to Business Case #25 – Brownfields Community Improvement Program (Reinstate Brownfield Contamination Assessment Study Grant Program) (clause 3h)xxv)) in the total amount of $80,000 as submitted BE ADOPTED; it being noted that the Strategic Priorities and Policy Committee received an Added Business Case with respect to this matter.",
+  "flags": []
+ },
+ {
+  "id": "d90faeae83b4",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Adopted the portion of the net 2016-2019 Multi-Year Operating Budget for Corporate, Operation and Council Services at a net reduction of $104,000, with $500,000 in savings moved from 2019 to 2018 and the overall reduction to the original proposed budget remaining at $4,000,000.",
+  "confidence": "medium",
+  "quote": "Approve that portion of the net 2016-2019 Multi-Year Operating Budget for Corporate, Operation and Council Services (clause 2 j)ii)) in the amount of ($104,000 BE ADOPTED; it being noted that $500,000 in savings has been moved from 2019 to 2018; it being further noted that the overall reduction to the original proposed budget remains at $4,000,000.",
+  "flags": []
+ },
+ {
+  "id": "cba38e766224",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "whatAYeaDid": "Adopted the Strategic Investments Budget for Business Case #18 – 'Back to the River Project', in the amount of $700,000 in 2016 for the environmental assessment (funded by the London Hydro dividend) and $5,000,000 identified in the Economic Development Reserve Fund for the Inaugural Project.",
+  "confidence": "high",
+  "quote": "Approve that the Strategic Investments Budget as it pertains to Business Case #18 – \"Back to the River Project\" (clause 3h)xviii) BE ADOPTED in the amount of $700,000 in 2016 to complete the necessary environment assessment to be funded by the London Hydro dividend; and $5,000,000 to be identified in the Economic Development Reserve Fund for completion of the Inaugural Project, with the funding to be released upon finalization of the Environment Assessment, confirmation and Council approval of project costs and confirmation of any external sources of financing.",
+  "flags": []
+ },
+ {
+  "id": "7091fb171952",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 3h)xxiv) (Business Case #24, Green Bin Program) by adding a proviso approving the Green Bin Business Case in principle, contingent on Green Bins being identified as the preferred option upon finalization of the Environmental Assessment, with Council approval for implementation not before 2019.",
+  "confidence": "medium",
+  "quote": "Approve an amendment to clause 3h) xxiv), by adding the following words to the end of the clause: \"and to approve in principle, the Green Bin Business case upon finalization of the Environmental Assessment and contingent upon Green Bins as the identified as the preferred option, and with the approval of Council for implementation not before 2019.\"",
+  "flags": []
+ },
+ {
+  "id": "49f042702a02",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on an item within the 8th Report of the Strategic Priorities and Policy Committee (2016-2019 Multi-Year Budget), immediately after a failed amendment on the Green Bin Program business case. No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "acd803b188ce",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a further set of report actions within the 8th Report of the Strategic Priorities and Policy Committee. No operative motion text was recorded in the source document for this vote.",
+  "confidence": "low",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "b588961f2066",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved immediate funding of $200,000 from the Economic Development Reserve Fund for Downtown London to engage Live Work Learn Play (LWLP) to commence the 'Creating a Vibrant and Competitive Downtown' recruitment initiative, and requested a progress report back to the Strategic Priorities and Policy Committee by December 2016.",
+  "confidence": "high",
+  "quote": "immediate funding in the amount of $200,000, to be paid from the Economic Development Reserve Fund, BE APPROVED in order for Downtown London to engage Live Work Learn Play (LWLP) to commence their \"Creating a Vibrant and Competitive Downtown\" recruitment initiative; and b) Downtown London BE REQUESTED to report back to the Strategic Priorities and Policy Committee by no later than December 2016, with respect to the progress made as a result of the initial investment approved in a), above.",
+  "flags": []
+ },
+ {
+  "id": "e27d865ecb6a",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Would have approved Downtown London's request for $540,000 to support its 'Creating a Vibrant and Competitive Downtown' recruitment initiative, and approved the financing for this request as set out in Appendix A.",
+  "confidence": "high",
+  "quote": "the request from Downtown London for $540,000 to support their recruitment initiative, Creating a Vibrant and Competitive Downtown, BE APPROVED; b) the financing for this request BE APPROVED as set out in Appendix A.",
+  "flags": []
+ },
+ {
+  "id": "be6e85753105",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the final bullet point of part b) of clause 10 (Bill No. 121), changing the zoning of a portion of the properties at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521) from an Open Space (OS5) Zone to an Open Space (OS1) Zone, to permit conservation lands, passive recreational uses, and a neighbourhood park subject to an accepted Tree Preservation Study.",
+  "confidence": "medium",
+  "quote": "The motion to Approve final bullet point of part b), of clause 10 is put. - FROM an Open Space (OS5) Zone, that permits conservation lands and passive recreation uses TO an Open Space (OS1) Zone, that permits conservation lands and passive recreational uses and a neighbourhood park in a location as determined through an accepted Tree Preservation Study; and,",
+  "flags": []
+ }
+]

@@ -1,0 +1,7 @@
+[
+ {
+  "id": "2e7ac56e061a",
+  "reason": "Sweep false positive, not a substitution defect: D ('Approve part b) of clause 2.', item 2#4, 2016-05-31 Council, 10-3, nays Michael van Holst/Virginia Ridley/Jared Zaifman) is the LRT-conversion strategic-direction clause itself, and its axis=transit-service/polarity=expansive classification is a real, distinct stance on that clause's own content. The candidate final F (rollCallOrdinal 5, immediately following D) is 'Approve the balance of clause 2, as amended' -- unanimous, so it trivially satisfies the sweep's nays-subset-of-yeas structural test, but 'balance of clause 2' explicitly excludes the parts of clause 2 already voted on individually: part a) at ordinal 3 (bb3d644f3eea) and part b) itself at ordinal 4 (this D, 2e7ac56e061a). F therefore never re-puts D's substance to a vote at all -- it is not a same-instrument 'as amended' wrapper absorbing D's nays, it is the remaining, disjoint portion of the clause. D's own classification stands unchanged.",
+  "quote": "D (2e7ac56e061a): 'Approve part b) of clause 2.' -- F (02645a41e675, ordinal 5, the very next roll call in item 2#4): 'Approve the balance of clause 2, as amended.' -- ordinal 3 (bb3d644f3eea): 'Approve part a) of clause 2.', confirming 'balance' = clause 2 minus parts a) and b), both already separately voted."
+ }
+]

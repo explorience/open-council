@@ -1,0 +1,510 @@
+[
+ {
+  "id": "06cfae6ffea3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Advised the Approval Authority that the Municipal Council has issues with respect to construction staging, the sidewalk, and accessibility relating to the Site Plan application by Village West Developments (London) Inc. at 1355 Commissioners Road West, subject to any required revisions.",
+  "confidence": "high",
+  "quote": "the Approval Authority BE ADVISED that the Municipal Council has issues with respect to the construction staging, the sidewalk and accessibility, relating to the Site Plan application (subject to any required revisions)",
+  "flags": []
+ },
+ {
+  "id": "574349392066",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have given consent, notwithstanding Section 34 (10.0.0.1) of the Planning Act, to the Committee-Secretary of the Committee of Adjustment to accept a submission for a Minor Variance Application at 1355 Commissioners Road West by Village West Development (London) Inc.; this failed.",
+  "confidence": "high",
+  "quote": "Notwithstanding Section 34 (10.0.0.1) of the Planning Act, consent BE GIVEN to the Committee-Secretary of the Committee of Adjustment to accept a submission for a Minor Variance Application at 1355 Commissioners Road West by Village West Development (London) Inc.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "3407e480c206",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to provide notifications of related Committee of Adjustment meetings to include the people who spoke to this matter at the Planning and Environment Committee previously, regarding 1355 Commissioners Road West.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to provide any notifications of related Committee of Adjustment meetings to include the people who spoke to this matter at the Planning Environment Committee previously.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d12a74ef05a5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted that the July 18, 2017 report from the Fire Chief on a proposed Council Policy for publicly releasing fire conviction information was received, that there would be no further action on the matter, and that the Committee received a related communication from J. Hoffer, Cohen Highley Law Firm.",
+  "confidence": "high",
+  "quote": "it BE NOTED that the report dated July 18, 2017 from the Fire Chief with respect to a proposed Council Policy for publicly releasing fire conviction information, was received; it being noted that there will be no further action with respect to this matter; it being further noted that the Community and Protective Services Committee received a communication from J. Hoffer, Cohen Highley Law Firm, with respect to this matter",
+  "flags": []
+ },
+ {
+  "id": "e3d6d98690d6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the request of J. Henkel regarding a naturalized area on Berkshire Court to the Civic Administration to facilitate an on-site meeting with Mr. Henkel to discuss his concerns about the area.",
+  "confidence": "high",
+  "quote": "That the request of J. Henkel, with respect to a naturalized area on Berkshire Court, BE REFERRED to Civic Administration to facilitate an on-site meeting with Mr. Henkel to discuss his concerns regarding the area.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "65dceef18ffc",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved filing the Rapid Transit Master Plan Notice of Completion and the Richmond Street Municipal Underground Utilities Realignment Environmental Assessment Study Notice of Completion with the Municipal Clerk, placing the Rapid Transit Master Plan Report on public record for a 45-day review period, requesting that Infrastructure Ontario undertake a Procurement Option Analysis for the Rapid Transit initiative, approving the Shift Rapid Transit capital budget and forecast estimated at $500 million, and receiving a presentation from the Project Director, Rapid Transit.",
+  "confidence": "high",
+  "quote": "the Rapid Transit Master Plan Notice of Completion... BE FILED with the Municipal Clerk; the Richmond Street Municipal Underground Utilities Realignment Environmental Assessment Study Notice of Completion... BE FILED with the Municipal Clerk; the Rapid Transit Master Plan Report BE PLACED on public record for a 45-day review period; the Infrastructure Ontario BE REQUESTED to undertake a Procurement Option Analysis for the Rapid Transit initiative; ... the Shift Rapid Transit capital budget and forecast, estimated at $500 million shown in Schedule A, appended as Appendix E to the staff report dated July 18, 2017, BE APPROVED, noting that appropriate capital budget adjustments will be reflected in the 2018 Annual Corporate Budget Update; and the attached presentation from the Project Director, Rapid Transit BE RECEIVED.",
+  "flags": []
+ },
+ {
+  "id": "ebe9cd60ff9c",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Rapid Transit Master Plan executive summary in accordance with the Municipal Class Environmental Assessment process requirements.",
+  "confidence": "high",
+  "quote": "the Rapid Transit Master Plan, executive summary appended as Appendix A to the staff report dated July 18, 2017, BE APPROVED in accordance with the Municipal Class Environmental Assessment process requirements",
+  "flags": []
+ },
+ {
+  "id": "2435a4b6eedf",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the updated Shift Rapid Transit Business Case executive summary and directed that the Business Case be submitted to the Provincial and Federal Governments, with the Civic Administration to continue pursuing all available funding opportunities.",
+  "confidence": "high",
+  "quote": "the updated Shift Rapid Transit Business Case, executive summary appended as Appendix D to the staff report dated July 18, 2017, BE APPROVED; the Shift Rapid Transit Business Case BE SUBMITTED to the Provincial and Federal Governments and the Civic Administration continue to pursue all available funding opportunities",
+  "flags": []
+ },
+ {
+  "id": "e6084caf940e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted that the July 18, 2017 report from the Fire Chief on a proposed Council Policy for publicly releasing fire conviction information was received, that there would be no further action on the matter, and that the Community and Protective Services Committee received a related communication from J. Hoffer, Cohen Highley Law Firm.",
+  "confidence": "high",
+  "quote": "That it BE NOTED that the report dated July 18, 2017 from the Fire Chief with respect to a proposed Council Policy for publicly releasing fire conviction information, was received; it being noted that there will be no further action with respect to this matter; it being further noted that the Community and Protective Services Committee received a communication from J. Hoffer, Cohen Highley Law Firm, with respect to this matter",
+  "flags": []
+ },
+ {
+  "id": "b7ad351657f0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Further amended the clause supporting the Government of Canada on NAFTA negotiations by adding the word 'Mexico' after 'United States of America' and by requesting that the Government of Canada engage in further consultation with the City of London and the broader public before any approval.",
+  "confidence": "high",
+  "quote": "Approve that clause 13 be further amended by adding the word \"Mexico\" after the words \"United States of America\" and by adding the following words to the end of clause: \"and that the Government of Canada be requested to engage in further consultation with the City of London and the broader public with respect to this matter, prior to any approval.\"",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "74ed28a1df04",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have given notice of Council's intention to designate 660 Sunningdale Road East as being of cultural heritage value or interest for the reasons before Council, and directed the Civic Administration to evaluate the current approvals processes to ensure natural or built heritage features are considered at all stages; this failed.",
+  "confidence": "high",
+  "quote": "notice BE GIVEN under the provision of Section 29(3) of the Ontario Heritage Act, R.S.O. 1990, c. O. 18, of the Municipal Council's intention to designate the property located at 660 Sunningdale Road East to be of cultural heritage value or interest for the attached, revised reasons; and, the Civic Administration BE DIRECTED to evaluate the current approvals processes to ensure that applications with identified natural or built heritage features on the properties consider the identified features at all stages of the approvals",
+  "flags": []
+ },
+ {
+  "id": "a8909af664e0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave notice, on the recommendation of the Managing Director, Planning & City Planner with the advice of the Heritage Planner, of Council's intention to designate 660 Sunningdale Road East as being of cultural heritage value or interest, for the reasons outlined in the July 17, 2017 staff report.",
+  "confidence": "high",
+  "quote": "notice BE GIVEN under the provision of Section 29(3) of the Ontario Heritage Act, R.S.O. 1990, c. O. 18, of Municipal Council's intention to designate the property at 660 Sunningdale Road East to be of cultural heritage value or interest for the reasons outlined in the staff report dated July 17, 2017 with respect to this matter",
+  "flags": []
+ },
+ {
+  "id": "97e6f84d2d99",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 15 (the Secondary Dwelling Units Official Plan and Zoning By-law Amendment, OZ-8053) to add a new part forwarding the proposed Near Campus Neighbourhood amendment to the Ontario Municipal Board for its consideration, and to delete a reasons bullet noting consistency between The London Plan and the Official Plan, 1989.",
+  "confidence": "medium",
+  "quote": "by adding the following new part c): \"the proposed amendment referenced in a) above BE FORWARDED the Ontario Municipal Board for their consideration of a potential amendment to Policy 942 of The London Plan to delete clause 2 of that policy to permit secondary dwelling units within the Near Campus Neighbourhood; and,\" ... by deleting the words: \"This amendment ensures that the secondary dwelling unit policies of The London Plan and the Official Plan, 1989 are consistent\" contained at the end of the third bullet.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "f719737e21b6",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved, as amended, introducing by-laws to amend the Official Plan and Zoning By-law to permit secondary dwelling units in single detached, semi-detached, and street townhouse dwellings city-wide, and to remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood.",
+  "confidence": "high",
+  "quote": "Approve clause 15, as amended.",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "f83f02fb4b25",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the 7th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee to instead request the Civic Administration to review and report back to a future Standing Committee meeting on the feasibility and implications of collecting 'equity group' data on election candidates starting in 2018 and applying an 'Equity and Inclusion Lens' during policy development, and to receive clauses 1 to 6 and 8 to 14 of the report.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to review and report back to a future meeting of the appropriate Standing Committees on the feasibility and implications of implementing the following matters i) the collection of \"equity group\" data on candidates in elections, starting in 2018; and, ii) the application of an \"Equity and Inclusion Lens\" during the review and/or development of policies and processes; and, b) clauses 1 to 6 and 8 to 14, BE RECEIVED.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "93432e6dc090",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, the 7th Report of the Diversity, Inclusion and Anti-Oppression Advisory Committee, requesting the Civic Administration to review and report back on the feasibility of collecting election-candidate 'equity group' data and applying an 'Equity and Inclusion Lens' in policy development, and receiving the balance of the report.",
+  "confidence": "high",
+  "quote": "Approve clause 16, as amended.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "aa870b02f648",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the site plan item for 1355 Commissioners Road West to add a new part granting, under Section 45(1.4) of the Planning Act, consent for the Secretary-Treasurer of the Committee of Adjustment to accept an application for Minor Variance from Village West Developments (London) Inc. to seek approval for a proposed five-storey apartment building at a maximum height of 17.5 metres to accommodate proposed parapets, and renumbering the following part.",
+  "confidence": "high",
+  "quote": "by adding the following new part c): \"c) in accordance with section 45 (1.4) of the Planning Act, R.S.O. 1990, c.P. 13, as amended, consent BE GIVEN to the Secretary-Treasurer of the Committee of Adjustment to accept an application for Minor Variance from Village West Developments (London) Inc. for the property located at 1355 Commissioners Road West to seek consideration of approval for the development of a proposed five (5) storey apartment building at the subject property, at a maximum height of 17.5 metres to accommodate proposed parapets; and,\" ii) by renumbering part c) to part d).",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "e0f06e097bf6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Further amended part d) of the site plan item for 1355 Commissioners Road West to request the Civic Administration to provide notification of the resulting Committee of Adjustment application to anyone who previously made a submission to the Planning and Environment Committee on the property, and to property owners within 120 metres of the property.",
+  "confidence": "high",
+  "quote": "Approve that clause 16 be further amended in part d) to read as follows d) the Civic Administration BE REQUESTED to provide notification related to Committee of Adjustment application resulting from c) above, to anyone who made a submission regarding previous applications before the Planning and Environment Committee regarding the subject property, and to property owners within 120 metres of the subject property.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "3b1279113366",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, part d) of the site plan item for 1355 Commissioners Road West, requesting notification of the resulting Committee of Adjustment application to prior submitters and to property owners within 120 metres of the property.",
+  "confidence": "high",
+  "quote": "Approve part d) of clause 16, as amended.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "c2652aad28bd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, as amended, part c) of the site plan item for 1355 Commissioners Road West, giving consent for the Secretary-Treasurer of the Committee of Adjustment to accept a Minor Variance application from Village West Developments (London) Inc. for the proposed five-storey apartment building at a maximum height of 17.5 metres to accommodate proposed parapets.",
+  "confidence": "high",
+  "quote": "Approve part c) of clause 16, as amended.",
+  "flags": [
+   "procedural",
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "6f784d403b4e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the 6th Report of the Accessibility Advisory Committee to instead request the Civic Administration to review and report back on the feasibility and implications of applying an 'accessibility lens' when reviewing policies and procedures, in addition to the 'gender lens' already applied, and to receive clauses 1 to 7 and 9 of the report.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to review and report back on the feasibility and implications of implementing the application of an \"accessibility lens\" when reviewing policies and procedures in addition to the \"gender lens\" that is already being applied: b) clauses 1 to 7 and 9, BE RECEIVED.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "c1018028b869",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took action on the 'Service London: The Costs and Considerations Associated with a 311 Number' item; the source minutes do not preserve this motion's own operative text.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "8b0a5d07f280",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed that no action be taken at this time to install sidewalks on Trowbridge Avenue, in order to avoid removing trees for construction purposes, while recognizing that some trees would still need to be removed for safety reasons due to their condition.",
+  "confidence": "high",
+  "quote": "That NO ACTION BE TAKEN at this time to install sidewalks on Trowbridge Avenue, so that the removal of trees for construction purposes can be avoided, recognizing that some trees will still need to be removed for safety reasons due to their condition",
+  "flags": []
+ },
+ {
+  "id": "c3124d8cdac7",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved, adopting the report of the Strategic Priorities and Policy Committee, filing the Rapid Transit Master Plan Notice of Completion and the Richmond Street Municipal Underground Utilities Realignment Environmental Assessment Study Notice of Completion with the Municipal Clerk, placing the Rapid Transit Master Plan Report on public record for a 45-day review period, requesting that Infrastructure Ontario undertake a Procurement Option Analysis for the Rapid Transit initiative, approving the Shift Rapid Transit capital budget and forecast estimated at $500 million, and receiving a presentation from the Project Director, Rapid Transit.",
+  "confidence": "high",
+  "quote": "the Rapid Transit Master Plan Notice of Completion... BE FILED with the Municipal Clerk; the Richmond Street Municipal Underground Utilities Realignment Environmental Assessment Study Notice of Completion... BE FILED with the Municipal Clerk; the Rapid Transit Master Plan Report BE PLACED on public record for a 45-day review period; the Infrastructure Ontario BE REQUESTED to undertake a Procurement Option Analysis for the Rapid Transit initiative; ... the Shift Rapid Transit capital budget and forecast, estimated at $500 million shown in Schedule A, appended as Appendix E to the staff report dated July 18, 2017, BE APPROVED, noting that appropriate capital budget adjustments will be reflected in the 2018 Annual Corporate Budget Update; and the attached presentation from the Project Director, Rapid Transit BE RECEIVED.",
+  "flags": []
+ },
+ {
+  "id": "819a6993fc7d",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Rapid Transit Master Plan executive summary in accordance with the Municipal Class Environmental Assessment process requirements.",
+  "confidence": "high",
+  "quote": "the Rapid Transit Master Plan, executive summary appended as Appendix A to the staff report dated July 18, 2017, BE APPROVED in accordance with the Municipal Class Environmental Assessment process requirements",
+  "flags": []
+ },
+ {
+  "id": "65f9c08c9199",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the updated Shift Rapid Transit Business Case executive summary and directed that the Business Case be submitted to the Provincial and Federal Governments, with the Civic Administration to continue pursuing all available funding opportunities.",
+  "confidence": "high",
+  "quote": "the updated Shift Rapid Transit Business Case, executive summary appended as Appendix D to the staff report dated July 18, 2017, BE APPROVED; the Shift Rapid Transit Business Case BE SUBMITTED to the Provincial and Federal Governments and the Civic Administration continue to pursue all available funding opportunities",
+  "flags": []
+ },
+ {
+  "id": "b932bd40b530",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the matter of downsizing water meters to the Civic Administration for review and report back to the Civic Works Committee on options to allow property owners to right-size their water meters; this failed.",
+  "confidence": "high",
+  "quote": "That the matter of downsizing water meters BE REFERRED to the Civic Administration for review and report back to the Civic Works Committee with respect to options that will allow people to right size water meters on their property.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "e4ed2e788fe6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave to introduce an emergent motion (see the following motion, on suspending enforcement of Section 4.18 5) of Zoning By-law Z.-1 pending an Ontario Municipal Board appeal); the source minutes do not preserve this leave motion's own text.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "procedural",
+   "no_text"
+  ]
+ },
+ {
+  "id": "58b4de55977f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to suspend enforcement of Section 4.18 5) of Zoning By-law Z.-1 until the Ontario Municipal Board appeal of Council's decision to delete that section is decided or withdrawn, noting the June 13, 2017 Noise and Sound By-law amendment permitting temporary sound permits for patios and the expectation the appeal would not be heard before the end of the patio season.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to suspend enforcement of Section 4.18 5) of Zoning By-law Z.-1 until the appeal to the Ontario Municipal Board (OMB) related to Municipal Council's decision to delete that section from Zoning By-law Z-1 has been decided or withdrawn; it being noted that Municipal Council amended the Noise and Sound By-law on 13 June 2017 to allow for temporary sound permits for patios and it is expected that the appeal will not be heard by the OMB before the end of this year's patio season.",
+  "flags": []
+ },
+ {
+  "id": "09905df3e8e2",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill Nos. 332 and 345, by-laws to amend the Official Plan and Zoning By-law to permit secondary dwelling units city-wide and remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No.'s 332 and 345.",
+  "flags": []
+ },
+ {
+  "id": "907edd9a71b5",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill Nos. 332 and 345, by-laws to amend the Official Plan and Zoning By-law to permit secondary dwelling units city-wide and remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No.'s 332 and 345.",
+  "flags": []
+ },
+ {
+  "id": "e6a7d0b3f249",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading to and enacted Bill Nos. 332 and 345, by-laws to amend the Official Plan and Zoning By-law to permit secondary dwelling units city-wide and remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No.'s 332 and 345.",
+  "flags": []
+ },
+ {
+  "id": "7ff130b4281f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the site plan/rezoning application by Rygar Properties Limited for 150 Dundas Street and 153 Carling Street.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "c4d95569654b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Mayor to liaise with key community stakeholders to establish an Opioid Crisis Working Group, comprised of the Mayor and other interested community stakeholders, to address the opioid crisis in London.",
+  "confidence": "high",
+  "quote": "the Mayor BE DIRECTED to liaise with key community stakeholders in order to establish an Opioid Crisis Working Group, comprised of the Mayor and other interested key community stakeholders",
+  "flags": []
+ },
+ {
+  "id": "d9d88573196b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Opioid Crisis Working Group to report back to Municipal Council with details of its relationship to other strategies and working groups, and proposed terms of reference covering community consultation, exploring a response including the possibility of supervised injection sites, and developing recommendations to address the opioid crisis in London.",
+  "confidence": "high",
+  "quote": "the Opioid Crisis Working Group BE REQUESTED to report back to the Municipal Council with details of its relationship with other strategies and working groups, and proposed terms of reference for the Working Group that would provide for: i) consultation with the community; ii) exploration of a response to the current situation, including the possibility of supervised injection sites; and, iii) development of recommendations as to how to best address the opioid crisis in London",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "7638d0ed728c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Mayor's July 20, 2017 communication on establishing an Opioid Crisis Working Group to the Civic Administration for review and report back on the broader issues and various initiatives regarding addictions in London, to ensure the City's next steps are the most effective; this failed.",
+  "confidence": "high",
+  "quote": "Motion to approve that the communication dated July 20, 2017, from Mayor M. Brown, regarding the establishment of an Opioid Crisis Working Group, BE REFERRED to the Civic Administration for review and report back on the broader issues and various initiatives regarding addictions in order to ensure that the next steps taken by the City are the most effective in terms of strategically addressing the issues faced in the local community",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "367e2bb7d06a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast one of several separately-recorded votes on the multi-part Final Report of the 2016 Council Compensation Review Task Force (covering Ward Councillor compensation-setting, Deputy Mayor and Standing Committee Chair compensation, the annual compensation-adjustment formula, elimination of the '1/3 tax free' allowance, periodic independent compensation reviews, and related directives); the source minutes do not identify which specific part(s) of the recommendation this particular recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "57e91bac8391",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast one of several separately-recorded votes on the multi-part Final Report of the 2016 Council Compensation Review Task Force (covering Ward Councillor compensation-setting, Deputy Mayor and Standing Committee Chair compensation, the annual compensation-adjustment formula, elimination of the '1/3 tax free' allowance, periodic independent compensation reviews, and related directives); the source minutes do not identify which specific part(s) of the recommendation this particular recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "682b372d9607",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast one of several separately-recorded votes on the multi-part Final Report of the 2016 Council Compensation Review Task Force (covering Ward Councillor compensation-setting, Deputy Mayor and Standing Committee Chair compensation, the annual compensation-adjustment formula, elimination of the '1/3 tax free' allowance, periodic independent compensation reviews, and related directives); this particular vote failed. The source minutes do not identify which specific part(s) of the recommendation this recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "b1c082873849",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Mayor's request to establish an Opioid Crisis Working Group to the Strategic Priorities and Policy Committee for additional information and detail to be clarified and confirmed, including information directly from the Medical Officer of Health.",
+  "confidence": "high",
+  "quote": "Approve that the request of the Mayor with respect to the establishment of an Opioid Crisis Working Group, BE REFERRED to the Strategic Priorities and Policy Committee in order for additional information and detail with respect to the proposed Working Group to be clarified and confirmed, including information directly from the Medical Officer of Health with respect to this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "0ad3fa53f726",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the submission from F. Fernandez opposing Ontario Power Generation's proposed nuclear waste repository at the Bruce Nuclear Generating Station back to the Civic Works Committee for additional consideration; this failed.",
+  "confidence": "high",
+  "quote": "Approve that the matter of the submission from F. Fernandez, with respect to opposition to Ontario Power Generation's proposed nuclear waste repository at the Bruce Nuclear Generating Station BE REFERRED back to the Civic Works Committee for additional consideration.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "590f674abde7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have authorized the Mayor to issue a letter to the federal Minister of Environment and Climate Change reiterating the City of London's opposition to Ontario Power Generation's proposed nuclear waste repository at the Bruce Nuclear Generating Station, by reissuing Council's previous resolution on the matter and/or the resolution proposed by F. Fernandez of Stop the Great Lakes Nuclear Dump, at the Mayor's discretion; this failed. The source minutes do not preserve this specific vote's own text separately from the item's pending recommendation.",
+  "confidence": "medium",
+  "quote": "That the Mayor BE AUTHORIZED to issue a letter to the Honourable Catherine McKenna, Minister of Environment and Climate Change, reiterating the City of London's opposition to Ontario Power Generation's proposed nuclear waste repository at the Bruce Nuclear Generating Station by way of reissuing the previous resolution of Council on this matter and/or by executing the resolution proposed by F. Fernandez, Stop the Great Lakes Nuclear Dump, in his communication dated June 21, 2017, at the discretion of the Mayor.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "2f2cb6a221e6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast a recorded vote on clause 3 of the 15th Report of the Strategic Priorities and Policy Committee (the multi-part Final Report of the 2016 Council Compensation Review Task Force); the source minutes do not preserve this vote's own operative text separately.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "da34073f6744",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred discussion of the adult entertainment body rub parlour licence item for 2190 Dundas Street until after the Committee received the associated Confidential Report in closed session.",
+  "confidence": "high",
+  "quote": "Motion to defer discussion of this clause until after the Community and Protective Services Committee has received the associated Confidential Report in closed session.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "feb9bfefc852",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to rezone 32, 36 and 40 York Street and part of 330 Thames Street from a Holding Downtown Area Zone to a Downtown Area Bonus Zone and an Open Space Special Provision Zone, on the application of The Tricar Group, permitting a mixed-use building with a residential tower of 10 to 24 storeys (maximum 80 metres) at an increased density of up to 534 units per hectare, subject to a development agreement providing specified design, landscaping, parking, and Downtown River/Heritage Conservation District contributions.",
+  "confidence": "high",
+  "quote": "the attached, revised, proposed BE INTRODUCED at the Municipal Council meeting to be held on September 5, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Downtown Area (h-3-DA2-D350) Zone TO a Downtown Area Bonus (DA2-D350-B(*)-(B**)) Zone and an Open Space Special Provision (OS4(*)) Zone subject to the completion of a development agreement... a residential tower ranging from 10-storeys to 24-storeys in height (maximum 80 meters) with a maximum density 534 units per hectare... the recommended amendment will allow for the proposed development including the required increase in density and the required reduction in the setback for the residential component of the building through bonus zones.",
+  "flags": []
+ }
+]

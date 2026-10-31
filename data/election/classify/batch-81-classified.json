@@ -1,0 +1,514 @@
+[
+ {
+  "id": "a1f56172d66b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have excluded permitted activities on private patios (pages 66-67 of the Feasibility Study) from the Municipal Council's approval of the Music, Entertainment and Culture District Feasibility Study and Strategy.",
+  "confidence": "high",
+  "quote": "Motion to Exclude Permitted Activities on Private Patios (Pages 66-67 of the Feasibility Study) from the approval of the Strategy.",
+  "flags": []
+ },
+ {
+  "id": "42ca1b6e88a8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the matter of audio recording of Municipal Council and Standing Committee closed meetings to the Civic Administration, for the City Solicitor and the Managing Director, Corporate Services and Chief Human Resources Officer to report back in public session.",
+  "confidence": "medium",
+  "quote": "Approve that the matter of audio recording of Municipal Council and Standing Committee closed meetings BE REFERRED to the Civic Administration, in order for the City Solicitor and the Managing Director, Corporate Services and Chief Human Resources Officer to report back in public session with respect to this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "61f6c53f90a6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 14 to add a new part directing the introduction, at the March 21, 2017 Municipal Council meeting, of the proposed by-law (Appendix A) adopting a new Council Policy on the audio recording of Municipal Council and Standing Committee closed meetings.",
+  "confidence": "medium",
+  "quote": "Approve that clause 14 be amended add a new part to direct the introduction of the proposed by-law included as Appendix “A” to the staff report dated March 7, 2017 at the Municipal Council meeting to be held on March 21, 2017, to adopt a new Council Policy with respect to the audio recording of Municipal Council and Standing Committee closed meetings.",
+  "flags": []
+ },
+ {
+  "id": "ec306bb6bcd1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park festival in July 2017, with sound checks not to occur before 12:00 Noon on the added Sunday.",
+  "confidence": "high",
+  "quote": "That the by-law included as Appendix A to the staff report dated March 20, 2017 BE INTRODUCED at the Municipal Council meeting of March 21, 2017 to approve a one-time exemption and amend the 2017 Special Events Policies and Procedures Manual to add a fifth day to the Rock the Park 14 event in July, 2017; it being understood that sound checks would not occur prior to 12:00 Noon on Sunday, July 16, 2017.",
+  "flags": []
+ },
+ {
+  "id": "92934016e4e8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, for information, part a) of clause 9: the staff report on the Queens Avenue and Colborne Street Cycle Tracks.",
+  "confidence": "high",
+  "quote": "the staff report dated March 7, 2017 with respect to this matter BE RECEIVED for information",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "41a96e3f3922",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 133 (the bill's own subject matter was not captured in this record beyond its number).",
+  "confidence": "low",
+  "quote": "Approve Introduction and First Reading of Bill No. 133.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "93cfbc0c8ffc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 133 (the bill's own subject matter was not captured in this record beyond its number).",
+  "confidence": "low",
+  "quote": "Approve Second Reading of Bill No. 133.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "3e95b6516ee5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 133 (the bill's own subject matter was not captured in this record beyond its number).",
+  "confidence": "low",
+  "quote": "Approve Third Reading and Enactment of Bill No. 133.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "f3cfb2160ca3",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 12 to direct Civic Administration to review two alternate Rapid Transit corridor route options through Downtown with a high-level cost analysis, review alternatives to the Richmond Row tunnel, categorize route impacts, hold a further public participation meeting, endorse a Rapid Transit route-decision timeline running to July 2017, and receive the Rapid Transit Implementation Working Group's prior report clauses.",
+  "confidence": "medium",
+  "quote": "That the following actions be taken with respect to the 5th Report of the Rapid Transit Implementation Working Group... a) the Civic Administration BE DIRECTED to take the following actions with respect to the Rapid Transit Implementation Project: i) review alternate route options in the Downtown as follows, including a high level cost analysis... ii) review alternatives (grade separation [underpass] at the rail crossing, bus lanes at grade) to the Richmond Row tunnel... iii) generally categorize residential and business impacts along the routes... and iv) hold a public participation meeting before the Strategic Priorities and Policy Committee on May 3, 2017... b) the following proposed timelines BE ENDORSED: ... c) clauses 1 to 6 of the 5th Report of the Rapid Transit Implementation Working Group BE RECEIVED",
+  "flags": [
+   "substitution",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "102c6ed088da",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Following a reconsideration vote (a member had indicated they misunderstood the question), re-passed the same amendment to clause 12 directing Civic Administration to review two alternate Rapid Transit corridor route options through Downtown, review Richmond Row tunnel alternatives, categorize route impacts, hold a further public participation meeting, endorse a route-decision timeline, and receive the working group's prior report clauses.",
+  "confidence": "medium",
+  "quote": "That the following actions be taken with respect to the 5th Report of the Rapid Transit Implementation Working Group... a) the Civic Administration BE DIRECTED to take the following actions with respect to the Rapid Transit Implementation Project: i) review alternate route options in the Downtown as follows, including a high level cost analysis... ii) review alternatives... to the Richmond Row tunnel... iii) generally categorize residential and business impacts along the routes... and iv) hold a public participation meeting... b) the following proposed timelines BE ENDORSED: ... c) clauses 1 to 6 of the 5th Report of the Rapid Transit Implementation Working Group BE RECEIVED",
+  "flags": [
+   "substitution",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "e41b90d98b86",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 12, as amended, adopting Civic Administration's Rapid Transit route-review process, timeline, and prior report clauses for the Rapid Transit Implementation Project.",
+  "confidence": "medium",
+  "quote": "Approve clause 12, as amended.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "e94b73947925",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 16 to refer the Rygar Properties Inc. brownfield incentive application and business case back to Civic Administration to consider reducing the total brownfield incentive expenditure by excluding soil removal and disposal costs, and to report back to the Planning and Environment Committee.",
+  "confidence": "medium",
+  "quote": "the application and business case submission BE REFERRED to Civic Administration for further consultation with the applicant and to consider the implications of a reduction in the total expenditure in the municipal brownfields financial incentives of the costs associated with the removal and disposal of soil that would be incurred if the property was a clean site and not a brownfield site; b) Civic Administration BE DIRECTED to report back to the Planning and Environment Committee on clause a) above.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "1852cba2470b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Rygar Properties Inc. brownfield incentive application and business case for 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue back to Civic Administration for further consultation with the applicant, to refine the remediation cost figures to exclude costs that would be incurred even on a clean, non-brownfield site.",
+  "confidence": "medium",
+  "quote": "the Brownfield Incentive application and Business Case submission from Rygar Properties Inc., relating to the properties located at 100 Fullarton Street, 475-501 Talbot Street, and 93-95 Dufferin Avenue, BE REFERRED to Civic Administration for further consultation with the applicant on the business case for the brownfield incentives program, to refine the costs of remediation to exclude the costs, particularly for excavation, removal and disposal of soil, that would be incurred if the property was a clean site and not a brownfield site.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "d3e83b772269",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the delegation status request by M. Luce to speak regarding the City of London's Idling Control By-law.",
+  "confidence": "high",
+  "quote": "Motion to Approve the delegation request by M. Luce.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "cfcf08a03834",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "On a second vote immediately following the first, approved the delegation status request by M. Luce to speak regarding the City of London's Idling Control By-law.",
+  "confidence": "high",
+  "quote": "Motion to Approve the delegation request by M. Luce.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "adff9443eeaf",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a revised by-law amending the Traffic and Parking By-law (P.S.-113) to reflect an updated Appendix 'A', including deleting the No Parking designation at Sorrel Road and Kaladar Drive, and introduced a separate by-law implementing a two-way designation for Saunby Street from Wharncliffe Road N to Irwin Street.",
+  "confidence": "high",
+  "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 18, 2017 for the purpose of amending the Traffic and Parking By-law (P.S.-113); it being noted that the proposed revised by-law reflects the changes as contained in the attached revised Appendix 'A', together with the deletion of No Parking at Sorrel Road and Kaladar Drive; and, b) the proposed by-law, appended to the staff report dated April 11, 2017 as Appendix 'B', BE INTRODUCED at the Municipal Council meeting to be held on April 18, 2017, for the purpose of amending the Traffic and Parking By-law (P.S.-113) in order to implement a two-way designation to Saunby Street from Wharncliffe Road N to Irwin Street",
+  "flags": []
+ },
+ {
+  "id": "6eee820581e7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the 2016 Renew London Infrastructure Post Construction Overview Report to the May meeting of the Civic Works Committee so Civic Administration could include additional detail.",
+  "confidence": "high",
+  "quote": "the 2016 Renew London Infrastructure Post Construction Overview Report BE REFERRED to the May meeting of the Civic Works Committee in order for the Civic Administration to include additional detail with respect to this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "31824ceb4f20",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that Civic Administration seek applicants for an upcoming Director (Second Class) vacancy on the London Hydro Inc. Board of Directors, invite two 2016 shortlisted candidates to the final interview process, and inform London Hydro Inc. of the Shareholder's intention regarding the vacancy.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to: a) seek interested applicants for filling an upcoming vacancy (Director – Second Class) on the London Hydro Inc. Board of Directors; b) invite Mr. G. Holborn and Ms. M. Parks to the final interview process; it being noted that Mr. Holborn and Ms. Parks were on the shortlist of candidates interviewed in 2016 for a previous vacancy on the London Hydro Inc. Board of Directors; and c) inform London Hydro Inc. of the Shareholder's intention with respect to filling the vacancy.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "763c82520d8a",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved one-time funding of $1.6 million for the Housing Development Corporation for additional investment in affordable housing development, and requested that Civic Administration and the Housing Development Corporation report back on how the funds are invested.",
+  "confidence": "high",
+  "quote": "d) one-time funding of $1.6 million for the Housing Development Corporation (HDC) for additional investment in affordable housing development BE APPROVED; f) the Civic Administration and the Housing Development Corporation BE REQUESTED to report back at key points throughout the year as to how the housing funds approved in d), above, are being invested and, if available and appropriate, what other City funds may be available to be redirected to the Housing Development Corporation to bring the total investment up to the original request of $2 million.",
+  "flags": []
+ },
+ {
+  "id": "f47894125088",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the London Cycle Link and Squeaky Wheel Bike Co-Op event (April 29, 2017, at the UnLab, 792 Dundas Street) as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "That the London Cycle Link and Squeaky Wheel Bike Co-Op, to be held Saturday, April 29, 2017 between 12:00 p.m. and 4:00 p.m., at the UnLab, 792 Dundas Street, London, ON, BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": []
+ },
+ {
+  "id": "6e84c74b5ff6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted leave for an emergent motion permitting the May 23, 2017 Planning and Environment Committee meeting to be held at the Wolf Performance Hall to accommodate the high volume of members of the public anticipated to attend.",
+  "confidence": "high",
+  "quote": "pursuant to section 20.1 of the Council Procedure By-law, leave BE GIVEN for the introduction of an emergent motion to permit the May 23, 2017 Planning and Environment Committee meeting to be held at the Wolf Performance Hall (251 Dundas Street) in order to accommodate the high volume of members of the public anticipated to be in attendance at the meeting.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "4127245e4768",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part a) of clause 11: requested that Civic Administration seek interested applicants for an upcoming Director (Second Class) vacancy on the London Hydro Inc. Board of Directors.",
+  "confidence": "high",
+  "quote": "a) seek interested applicants for filling an upcoming vacancy (Director – Second Class) on the London Hydro Inc. Board of Directors",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "d941c8152266",
+  "issue": "housing",
+  "axis": "affordable-funding",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved one-time funding of $1.6 million for the Housing Development Corporation for additional investment in affordable housing development, and requested that Civic Administration and the Housing Development Corporation report back on how the funds are invested.",
+  "confidence": "high",
+  "quote": "d) one-time funding of $1.6 million for the Housing Development Corporation (HDC) for additional investment in affordable housing development BE APPROVED; f) the Civic Administration and the Housing Development Corporation BE REQUESTED to report back at key points throughout the year as to how the housing funds approved in d), above, are being invested and, if available and appropriate, what other City funds may be available to be redirected to the Housing Development Corporation to bring the total investment up to the original request of $2 million.",
+  "flags": []
+ },
+ {
+  "id": "735ad1d72b71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have introduced a revised by-law amending the Traffic and Parking By-law (P.S.-113) to reflect an updated Appendix 'A', including deleting the No Parking designation at Sorrel Road and Kaladar Drive.",
+  "confidence": "high",
+  "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 18, 2017 for the purpose of amending the Traffic and Parking By-law (P.S.-113); it being noted that the proposed revised by-law reflects the changes as contained in the attached revised Appendix 'A', together with the deletion of No Parking at Sorrel Road and Kaladar Drive",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "d8f41fcf6011",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a new part a) for clause 3, introducing a revised by-law amending the Traffic and Parking By-law (P.S.-113) to include an updated Appendix 'A', including the inclusion (rather than deletion) of No Parking at Sorrel Road.",
+  "confidence": "high",
+  "quote": "the attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on April 18, 2017 for the purpose of amending the Traffic and Parking By-law P.S.-113; it being noted that the proposed revised by-law includes the revisions contained in the attached revised Appendix ‘A’, as well as the inclusion of No Parking at Sorrel Road",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "bcb78fd1e805",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Ranked Ballot Model matter to the May 1, 2017 Special Municipal Council meeting for further debate and discussion, to give all Council Members more time to consider the information received.",
+  "confidence": "high",
+  "quote": "Motion to Approve that the matter BE REFERRED to the May 1, 2017 Special Municipal Council meeting for debate and discussion, in order to allow all Council Members further time to consider the information received and to allow for a more fulsome debate by all members at that time.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "f090102e2333",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the City Clerk to bring forward a by-law, at the May 1, 2017 Special Municipal Council meeting, to provide the necessary direction to implement a ranked ballot process for the 2018 Municipal Election.",
+  "confidence": "high",
+  "quote": "Motion to Approve that the City Clerk BE DIRECTED to bring forward a by-law, at the Special Municipal Council meeting to be held on May 1, 2017, for the purpose of providing the necessary direction to implement a ranked ballot process for the 2018 Municipal Election.",
+  "flags": []
+ },
+ {
+  "id": "aa78970929a5",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved a total expenditure of up to $2,735,007 in municipal brownfield financial incentives for Rygar Properties Inc.'s redevelopment of 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue, comprising a 50% Development Charges rebate on the commercial component and tax increment equivalent grants for up to three years per phase, directed Civic Administration to process the application, and required the applicant to enter into an incentive agreement with the City.",
+  "confidence": "high",
+  "quote": "a total expenditure of up to $2,735,007 in municipal brownfield financial incentives BE APPROVED and allocated under the following two programs in the Community Improvement Plan (CIP) for Brownfield Incentives: i) provide a rebate equivalent to 50% of the Development Charges that are required to be paid by Rygar on the commercial component of the project; and, ii) provide tax increment equivalent grants on the municipal component of property taxes for up to three years post development of each phase of the project",
+  "flags": []
+ },
+ {
+  "id": "e0d6999bf7bb",
+  "issue": "budget",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have amended the Rygar Properties Inc. brownfield incentive package to reduce the total municipal financial incentive from $2,735,007 to $2,527,275.",
+  "confidence": "high",
+  "quote": "a total expenditure of up to $2,527,275 in municipal brownfield financial incentives BE APPROVED and allocated under the following two programs in the Community Improvement Plan (CIP) for Brownfield Incentives.",
+  "flags": []
+ },
+ {
+  "id": "3133b8b3235e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting the enactment of a City of London by-law to prohibit outdoor open air burning; the Committee did not itself act on the request.",
+  "confidence": "high",
+  "quote": "That it BE NOTED that the Community and Protective Services Committee (CPSC) heard delegations from the following, requesting the enactment of a City of London by-law to prohibit outdoor open air burning: A. Kytka, representing C. Oglan...; D. McMillan...; K. Treleaven...; A. Hyslop...; and M. Luce...",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "7474e882bc60",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded RFP 17-10 to United Way London-Middlesex, at $125,000 annually over three years, to serve as lead agency coordinating implementation of London for All: A Roadmap to End Poverty, and authorized Civic Administration to undertake the necessary administrative acts.",
+  "confidence": "high",
+  "quote": "the RFP BE AWARDED to United Way London-Middlesex, in the amount of $125,000 annually over the next 3 years, to become the lead agency to coordinate the implementation body for London for All: A Roadmap to End Poverty and to advance the recommendations laid out in the plan; it being noted that the RFP resulted in an irregular bid, with the proposal submitted by United Way London-Middlesex was the only bid received... and, b) the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "8b1beb2cbbcc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 2 to add a new part c) directing the City Clerk to bring forward a proposed by-law, for introduction at the May 1, 2017 Municipal Council meeting, to provide the necessary direction to implement a ranked ballot process for the 2018 Municipal Election.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to bring forward a proposed by-law to be introduced at the Municipal Council meeting to be held on May 1, 2017, for the purpose of providing the necessary direction to implement a ranked ballot process for the 2018 Municipal Election",
+  "flags": []
+ },
+ {
+  "id": "0e15ce1c1204",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 2, as amended: received the City Clerk's presentation and eighteen written submissions on ranked ballot community engagement, and directed the City Clerk to bring forward a by-law implementing a ranked ballot process for the 2018 Municipal Election.",
+  "confidence": "medium",
+  "quote": "Approve clause 2, as amended.",
+  "flags": []
+ },
+ {
+  "id": "be5f0ccaa900",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No.'s 179 and 180 (the bills' own subject matter was not captured in this record beyond their numbers).",
+  "confidence": "low",
+  "quote": "Approve Introduction and First Reading of Bill No.'s 179 and 180.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "f4abf528bf81",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No.'s 179 and 180 (the bills' own subject matter was not captured in this record beyond their numbers).",
+  "confidence": "low",
+  "quote": "Approve Second Reading of Bill No.'s 179 and 180.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "aeac23226d12",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to Bill No.'s 179 and 180 (the bills' own subject matter was not captured in this record beyond their numbers).",
+  "confidence": "low",
+  "quote": "Approve Third Reading of Bill No.'s 179 and 180.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "d3aab8ea78c9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Noted that the Community and Protective Services Committee heard delegations from five individuals requesting the enactment of a City of London by-law to prohibit outdoor open air burning; Council did not itself act on the request.",
+  "confidence": "high",
+  "quote": "That it BE NOTED that the Community and Protective Services Committee (CPSC) heard delegations from the following, requesting the enactment of a City of London by-law to prohibit outdoor open air burning: A. Kytka...; D. McMillan...; K. Treleaven...; A. Hyslop...; and M. Luce...",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "b6c5fa961bb4",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved part a) of clause 15: a total expenditure of up to $2,735,007 in municipal brownfield financial incentives for Rygar Properties Inc.'s redevelopment of 100 Fullarton Street, 475-501 Talbot Street and 93-95 Dufferin Avenue, comprising a 50% Development Charges rebate on the commercial component and tax increment equivalent grants for up to three years per phase.",
+  "confidence": "high",
+  "quote": "a) a total expenditure of up to $2,735,007 in municipal brownfield financial incentives BE APPROVED and allocated under the following two programs in the Community Improvement Plan (CIP) for Brownfield Incentives: i) provide a rebate equivalent to 50% of the Development Charges that are required to be paid by Rygar on the commercial component of the project; and, ii) provide tax increment equivalent grants on the municipal component of property taxes for up to three years post development of each phase of the project",
+  "flags": []
+ },
+ {
+  "id": "720c548fe37f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the remainder of clause 15: directed Civic Administration to process the Rygar Properties Inc. brownfield incentive application, and required the applicant to enter into an agreement with the City on the incentive terms.",
+  "confidence": "medium",
+  "quote": "b) the Civic Administration BE DIRECTED to process the brownfield incentive application to provide for eligibility for tax increment equivalent grants for up to three years for each phase of the development project under the Brownfields CIP and up to the full 10 year term of the Rehabilitation and Redevelopment Tax Grant Program of the Downtown CIP for each phase of the project; c) the applicant BE REQUIRED to enter into an agreement with The Corporation of the City of London outlining the relevant terms and conditions for the incentives that have been approved by the Municipal Council under the Brownfield CIP",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "af4b0622b587",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Awarded RFP 17-10 to United Way London-Middlesex, at $125,000 annually over three years, to serve as lead agency coordinating implementation of London for All: A Roadmap to End Poverty, and authorized Civic Administration to undertake the necessary administrative acts.",
+  "confidence": "high",
+  "quote": "the RFP BE AWARDED to United Way London-Middlesex, in the amount of $125,000 annually over the next 3 years, to become the lead agency to coordinate the implementation body for London for All: A Roadmap to End Poverty and to advance the recommendations laid out in the plan... and, b) the Civic Administration BE AUTHORIZED to undertake all administrative acts which are necessary in relation to this project.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "adf6468f502f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report on short term accommodations in London, noting that Civic Administration will undertake a work program addressing short term accommodations through rental licensing, zoning by-law, and taxation options.",
+  "confidence": "high",
+  "quote": "the report related to short term accommodations, dated April 25, 2017, BE RECEIVED; it being noted that Civic Administration will undertake a work program to address short term accommodations in London which will lead to a range of options in the areas of rental licensing zoning by-laws and taxation.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "0bb93886bbc0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the Mayor to write to the Ontario Ministry of Finance requesting consideration of raising tobacco excise taxes by at least $10 per carton.",
+  "confidence": "high",
+  "quote": "the Mayor BE DIRECTED to write to the Ontario Ministry of Finance to request that consideration be given to: i) raising tobacco excise taxes by at least $10/carton",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "a68500ea843a",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Recommended introducing a by-law to extend the Temporary Use (T-45) Zone at 1992 Fanshawe Park Road West for an additional three years, to continue permitting a golf driving range and accessory uses.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 8, 2017, BE INTRODUCED at the Municipal Council meeting to be held on May 16, 2017 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to extend the Temporary Use (T-45) Zone to permit a golf driving range and accessory uses for an additional three (3) year period",
+  "flags": []
+ },
+ {
+  "id": "64add4d054d2",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the GSP Group Inc. rezoning application for 560 and 562 Wellington Street back to Civic Administration, to continue working with the applicant on a revised application more in keeping with the West Woodfield Heritage Conservation District Plan, the Official Plan, and The London Plan.",
+  "confidence": "high",
+  "quote": "That the application by GSP Group Inc. for the property located at 560 and 562 Wellington Street BE REFERRED back to the Civic Administration to continue to work with the applicant to submit a revised application for consideration at a future Public Participation Meeting that is more in keeping with and conforms to the West Woodfield Heritage Conservation District Plan, the Official Plan and The London Plan.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "dbe8f953f44d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the Appleseed Cider Festival (June 24, 2017, at Hassan Law Gallery, 142 Dundas Street, with an adjacent Dundas Street closure subject to approvals) as a municipally significant event.",
+  "confidence": "high",
+  "quote": "That the Appleseed Cider Festival, to be held on Saturday, June 24, 2017 from 3:00 PM to 11:00 PM, at Hassan Law Gallery, 142 Dundas Street and, subject to obtaining the necessary approvals, also at an adjacent street closure on Dundas Street as per the attached diagram, BE DESIGNATED as a municipally significant event.",
+  "flags": []
+ }
+]
