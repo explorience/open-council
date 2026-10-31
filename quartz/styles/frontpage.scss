@@ -1,0 +1,295 @@
+// Front Page v3 — global design tokens + masthead re-skin
+//
+// Site-wide layer: these custom properties and the always-graphite
+// masthead apply on EVERY page (not just the homepage), per standing
+// rule 2 ("enhance, don't replace" — the real site's nav/search/chat
+// keep working everywhere, they just now live inside the Front Page
+// look). The division wall itself, the ghost numeral, and the broadsheet
+// hero are homepage-only and live in
+// quartz/components/styles/frontpageWall.scss.
+//
+// Palette values are the validated tokens from
+// design/frontpage-v3-spec.md verbatim — do not re-derive or round them
+// (accessibility/contrast was checked against these exact values,
+// including the light->dark teal/terracotta shift on --yea-m/--nay-m for
+// deuteranopia contrast on dark backgrounds).
+
+@use "./variables.scss" as *;
+
+:root {
+  --paper: #f4f3ef;
+  --ink: #26251f;
+  --muted: #6e6a60;
+  --line: #d9d6cd;
+  --card: #fcfbf8;
+  --graphite: #33312d;
+  --graphite-deep: #2b2a27;
+  --graphite-ink: #ece9e2;
+  --graphite-muted: #b3aea4;
+  --graphite-line: #4a4740;
+  --accent: #7d2027;
+  --accent-fill: #9c3038;
+  --accent-ink: #fbf6f1;
+  --plate: rgba(38, 37, 31, 0.16);
+  --yea: #2e5a3c;
+  --yea-bg: #e7efe5;
+  --nay: #7d2027;
+  --nay-bg: #f3e4e2;
+  --off: #6e6a60;
+  --off-bg: #ecead4;
+  --ghost: rgba(38, 37, 31, 0.14);
+  --yea-m: #3e8556;
+  --nay-m: #9c3038;
+  --wall-gap: #f4f3ef;
+}
+
+// No attr + OS dark preference.
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]):not([saved-theme="light"]) {
+    --paper: #211f1c;
+    --ink: #e9e6df;
+    --muted: #a8a399;
+    --line: #3b3934;
+    --card: #2b2a27;
+    --accent: #d8918b;
+    --accent-fill: #9c3038;
+    --accent-ink: #fbf6f1;
+    --plate: rgba(0, 0, 0, 0.45);
+    --yea: #94c29f;
+    --yea-bg: #26332b;
+    --nay: #d8918b;
+    --nay-bg: #3b2725;
+    --off: #a39e93;
+    --off-bg: #2e2c28;
+    --ghost: rgba(233, 230, 223, 0.13);
+    --yea-m: #2fa893;
+    --nay-m: #c96a5e;
+    --wall-gap: #211f1c;
+  }
+}
+
+// Explicit toggle wins in both directions. This site's toggle writes
+// `saved-theme` on <html> (darkmode.inline.ts), not the artifact
+// convention's `data-theme` — both attribute names are matched here so
+// this file works unmodified if that mechanism ever changes.
+:root[saved-theme="dark"],
+:root[data-theme="dark"] {
+  --paper: #211f1c;
+  --ink: #e9e6df;
+  --muted: #a8a399;
+  --line: #3b3934;
+  --card: #2b2a27;
+  --accent: #d8918b;
+  --accent-fill: #9c3038;
+  --accent-ink: #fbf6f1;
+  --plate: rgba(0, 0, 0, 0.45);
+  --yea: #94c29f;
+  --yea-bg: #26332b;
+  --nay: #d8918b;
+  --nay-bg: #3b2725;
+  --off: #a39e93;
+  --off-bg: #2e2c28;
+  --ghost: rgba(233, 230, 223, 0.13);
+  --yea-m: #2fa893;
+  --nay-m: #c96a5e;
+  --wall-gap: #211f1c;
+}
+
+// ---------------------------------------------------------------------
+// Self-hosted variable Archivo — see quartz.config.ts's typography
+// comment for why: Quartz's googleFonts loader can't deliver a true
+// continuous wdth axis, only static per-width instances that
+// font-variation-settings can't interpolate. This file, converted from
+// google/fonts' ofl/archivo/Archivo[wdth,wght].ttf, has both axes intact
+// (wght 100-900, wdth 62-125 — matches the prototype's
+// `font-stretch: 62% 125%` range exactly). Used only where the design
+// calls for a variable wdth (masthead wordmark, hero h1/ghost numeral,
+// wall chapter breaks, kickers) — everyday body/header text elsewhere on
+// the site keeps using the googleFonts Archivo at its default width via
+// --headerFont/--bodyFont, so nothing else changes.
+// ---------------------------------------------------------------------
+@font-face {
+  font-family: "Archivo Variable";
+  font-style: normal;
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-display: swap;
+  src: url("/static/fonts/Archivo-Variable.woff2") format("woff2");
+}
+
+// ---------------------------------------------------------------------
+// Typography scale (spec: "Typography scale")
+// ---------------------------------------------------------------------
+.fp-display {
+  font-family: "Archivo Variable", Archivo, system-ui, sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.fp-mono {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+// ---------------------------------------------------------------------
+// Masthead — always graphite, on every page (standing rule 2: the real
+// site's nav/search/chat keep working; they now live under this skin).
+// ---------------------------------------------------------------------
+.unified-header {
+  background-color: var(--graphite) !important;
+  border-bottom: 1px solid var(--graphite-line) !important;
+  box-shadow: 0 2px 10px var(--plate) !important;
+  isolation: isolate; // contain the grain ::after's stacking context
+
+  // grain texture — inline SVG feTurbulence, alpha-only, per spec
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    opacity: 0.055;
+    pointer-events: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='120'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.6 0'/%3E%3C/filter%3E%3Crect width='120' height='120' filter='url(%23n)'/%3E%3C/svg%3E");
+    background-size: 120px 120px;
+  }
+
+  &.scrolled,
+  body[data-slug="index"] &:not(.scrolled) {
+    background-color: var(--graphite) !important;
+    border-bottom-color: var(--graphite-line) !important;
+    box-shadow: 0 2px 10px var(--plate) !important;
+  }
+}
+
+.header-mark {
+  flex-shrink: 0;
+  display: block;
+}
+
+.header-logo {
+  position: relative;
+  font-family: "Archivo Variable", Archivo, system-ui, sans-serif;
+  font-weight: 850;
+  font-variation-settings: "wdth" 88;
+  letter-spacing: 0.01em;
+  color: var(--graphite-ink) !important;
+  padding-bottom: 4px;
+
+  &::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 58%;
+    height: 3px;
+    background: var(--accent-fill);
+  }
+
+  &:hover {
+    color: var(--graphite-ink) !important;
+    opacity: 0.85;
+  }
+}
+
+// ---------------------------------------------------------------------
+// Homepage sidebars: renderPage.tsx always emits `<div class="left
+// sidebar">`/`<div class="right sidebar">` (quartz.layout.ts's
+// ConditionalRender only empties what's *inside* them for slug==="index"
+// — the wrapper itself isn't conditional), and the shared #quartz-body
+// grid (quartz/styles/base.scss) reserves fixed 320px tracks for them at
+// tablet/desktop regardless of content. Two compounding bugs from that,
+// both homepage-only since every other page has real sidebar content:
+// 1. .center was squeezed into a much narrower column than the viewport
+//    (e.g. ~600px inside a 1240px viewport) — broke the v3 stats column
+//    (committee names word-wrapped letter-by-letter, no room) and the
+//    `vw`-sized ghost numeral (drawn assuming the full viewport width,
+//    so it visually overlapped the h1 in its squeezed container).
+// 2. base.scss's `.sidebar` is `position:sticky; height:calc(100vh -
+//    50px)` — an EMPTY sticky column at that height, in the grid areas
+//    the center/footer rows also occupy, is a very plausible source of
+//    the "~4000px of dead space before the footer" finding.
+// display:none removes each empty sidebar from grid sizing entirely
+// (no track, no row-height contribution) rather than just zeroing its
+// width, which closes off both bugs at once; grid-template-areas is
+// left untouched (an area with no items in it is fine — nothing needs
+// re-placing), and non-homepage pages, which still pass real sidebar
+// content, are completely unaffected by this selector.
+//
+// 3. (Found verifying the above in a real headless render — `.center`
+//    collapsed to ~32px, not just "narrower".) base.scss never gives
+//    `.center` an explicit `grid-area`/`grid-column` — on every other
+//    page it still lands in the center track only because CSS Grid's
+//    auto-placement cursor is forced there by `.sidebar.left` (a real,
+//    rendered box) occupying column 1 first. `display:none` on
+//    `.sidebar.left` above removes it from placement entirely, not just
+//    from view, so the auto-placement cursor now lands `.center` itself
+//    in column 1 — which this same rule has just set to a 0-width
+//    track. `.center`'s own `min-width:100%` then resolves against that
+//    0px cell, and it collapses to whatever its content's absolute
+//    floor is (~32px). Explicit `grid-column: 2` below removes `.center`
+//    from auto-placement altogether so it can't be reassigned by
+//    changing what else does or doesn't occupy column 1 — the fix that
+//    should have shipped instead of relying on placement order.
+// ---------------------------------------------------------------------
+body[data-slug="index"] .page > #quartz-body {
+  // Scoped to the exact same $tablet/$desktop media conditions
+  // base.scss uses for its own grid-template-columns, so this only
+  // overrides those two rules — mobile is untouched (already a single
+  // "auto" column with no reserved sidebars, which is why 390/768
+  // already rendered clean; this selector deliberately has no
+  // unconditional/bare rule that could out-specificity base.scss's
+  // @media($mobile) override there).
+  @media all and ($tablet) {
+    grid-template-columns: 0 1fr;
+
+    & > .sidebar.left {
+      display: none;
+    }
+    // Column 2 in this 2-column ("0 1fr") template — see finding 3
+    // above. Must match the tablet grid's own column count, not
+    // desktop's (grid-column indices aren't shared across differently
+    // shaped grid-template-columns declarations).
+    & > .center {
+      grid-column: 2;
+    }
+  }
+  @media all and ($desktop) {
+    grid-template-columns: 0 1fr 0;
+
+    & > .sidebar.left,
+    & > .sidebar.right {
+      display: none;
+    }
+    // Column 2 of 3 ("0 1fr 0") — see finding 3 above.
+    & > .center {
+      grid-column: 2;
+    }
+  }
+}
+
+.beta-tag {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  background: transparent;
+  color: var(--graphite-muted);
+  border: 1px solid var(--graphite-line);
+  border-radius: 3px;
+  letter-spacing: 0.06em;
+}
+
+.header-search-btn,
+.header-darkmode-btn,
+.header-hamburger {
+  color: var(--graphite-muted) !important;
+
+  &:hover {
+    background: var(--graphite-deep) !important;
+    color: var(--graphite-ink) !important;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--accent) !important;
+    outline-offset: 2px;
+  }
+}
+
+// mobile menu dropdown panel stays on the ordinary paper/card surface —
+// it's a themed content surface, not part of the fixed graphite bar.
