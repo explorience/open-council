@@ -1,0 +1,597 @@
+[
+  {
+    "id": "3b217a7bce09",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a motion under 'Request for Delegation Status - Jason Timlick, President, London Professional Fire Fighters Association'; the source minutes attach this vote's tally to an unrelated procedural note about a temporary change in the chair, not to any recoverable motion text.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "658be4264544",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the letter from Jason Timlick, President, London Professional Fire Fighters' Association, dated September 21, 2016.",
+    "confidence": "high",
+    "quote": "Approve that the letter from Jason Timlick, President, London Professional Fire Fighters Association, dated September 21, 2016 BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "75ffd19c66d1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 2 (Amendment to Consolidated Fees and Charges), as amended, including a new part directing the Civic Administration to find means to better inform and engage the public on future proposed Fees and Charges changes; the base clause's own fee-schedule amendments are not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "Checked (c): quote left blank because the id's own text ('Approve clause 2 as amended.') is non-substantive; whatAYeaDid's description of the informational-engagement amendment is accurate and matches the real amendment text in the same item. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "c6b41f701c01",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended clause 3 (Live Work Learn Play Update) by directing the Civic Administration to move forward with coordinating supports for addressing issues in downtown London -- including health and mental health care, enforcement, and programming -- with Market Lane put forward as a pilot project.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to move forward with the coordination of addressing issues in downtown London, including the necessary supports with regard to care (health, mental health and the pertinent forms of care deemed necessary on an individual basis), enforcement and programming with Market Lane being put forward as a pilot project in this matter.",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c)/(d): quote is verbatim from the amendment's own text (matches source exactly); 'downtown' issue keyword hits 'downtown London' in-body (not just title); axis='application-approval' is the correct generic fallback per direction-rules.ts since 'downtown' has no issue-specific AXIS_PATTERNS entry; whatAYeaDid uses motion-action voice ('Amended... by directing'), not a stance verb. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "06a2ee514adb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 3 (Live Work Learn Play Update), as amended, comprising parts a) and b) (whose operative text is not preserved in the source minutes) and part c) as just amended (directing the Civic Administration to coordinate downtown London health, mental health, enforcement, and programming supports, with Market Lane as a pilot project).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "Checked (a): this 'approve clause 3 as amended' vote adopts the SAME 10-2 split as the downtown amendment (c6b41f701c01) that immediately precedes it, and its own text is just 'Approve clause 3, as amended.' with no independent substance. Considered overturning to issue=downtown by inheritance from the adjacent amendment, but the motion's OWN body text carries no downtown content of its own (per 'issue from the motion body only') and I have no verbatim quote from THIS entry's own text to justify it, so left as issue=none/no_text -- consistent with the classifier's own parallel treatment of a4766d6637ed (see below).",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "2ed9e62144bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Deputy Mayors'; the motion's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text",
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "a636518b5c27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved extending the Council meeting beyond 11:00 PM, pursuant to section 11.11 of the Council Procedure By-law.",
+    "confidence": "high",
+    "quote": "Approve that pursuant to section 11.11 of the Council Procedure By-law the Council Meeting be permitted to proceed beyond 11:00 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "96d194eff0b4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part c) i) of the 10th Report of the London Advisory Committee on Heritage: adding Regina Mundi Catholic College (5200 Wellington Road South) to the Inventory of Heritage Resources (Register), based on the cultural heritage value/interest information in the Stewardship Sub-Committee Report.",
+    "confidence": "high",
+    "quote": "Regina Mundi Catholic College (5200 Wellington Road South) BE ADDED to the Inventory of Heritage Resources (Register) based on the cultural heritage value/interest information included in the Stewardship Sub-Committee Report",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "7cd3deaaf8a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Lease Agreement between the City and 1891614 Ontario Inc. (Copia Developments) for the lease of space at 1835 Dundas Street, per the recommendation in the 8th Public Report of the Council in Closed Session.",
+    "confidence": "high",
+    "quote": "the Lease Agreement between The Corporation of the City of London and 1891614 Ontario Inc. (Copia Developments), attached as Appendix \"A\", for the lease of space at 1835 Dundas Street, BE APPROVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "e818055bf01c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the sale of City-owned industrial land at the southeast end of Belleisle Court in Trafalgar Industrial Park to John J. Vanderwal for $127,600.00, and accepted an initial building coverage of 10% in place of the required 15%.",
+    "confidence": "high",
+    "quote": "the offer submitted by John J. Vanderwal (the \"Purchaser\") to purchase the subject property from the City, at a purchase price of $127,600.00 (reflecting a sale price of $55,000.00 per acre)...BE APPROVED; and an initial building coverage of 10% in place of the required 15%, BE ACCEPTED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "a81d6f557498",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Added Bill No. 390.",
+    "confidence": "high",
+    "quote": "Approve Second Reading of Added Bill No. 390.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "f40590ea595a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading to and enacted Added Bill No. 390.",
+    "confidence": "high",
+    "quote": "Approve Third Reading and Enactment of Added Bill No. 390.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Loaded full source motion text via meetingSlug/itemNumber; issue, polarity/axis, quote verbatim, and whatAYeaDid voice all check out against the source."
+  },
+  {
+    "id": "e8b7223d2865",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on the One River Master Plan Environmental Assessment Terms of Reference (Civic Works Committee); the source minutes describe this as approving 'the staff recommendation as amended' without clearly separating its content from a further amendment voted on immediately afterward.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "Checked (a): the base committee recommendation's full text IS available (revised draft EA Problem/Opportunity Statement, in the paragraph preceding this vote), but the classifier's caution about an inverted approve-then-amend paragraph order (vs. the clean amend-then-approve order at the parallel Council-level vote, a4766d6637ed) is well-founded from the source data. issue=none holds regardless (no climate/tracked-issue keyword appears in that text). Confirmed as a defensible caution call, not a clear miss.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "ad91724d8400",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a further amendment to the draft EA Problem/Opportunity Statement for the One River Master Plan Environmental Assessment Terms of Reference; the amendment's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "See e8b7223d2865 -- same item, same caution basis. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "300350a26f46",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a further motion related to the length of time Council spends in Closed Session (Council Member Submission); the motion's own operative text is not recorded in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "idx2 (2-4, Failed) genuinely has no text of its own -- the only paragraph in this item belongs to the earlier, separately-passed 'receive communication' motion (idx0/1), not this one. 'Would have adopted...' hedge correctly applied. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "dd784a1f9745",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast one of the recorded votes on the proposed Vehicle for Hire By-law action items (Community and Protective Services Committee), referencing 'part a) i)' (the Executive Limousine minimum-fare amendment) in a Voting Record note; the source minutes intermix this vote's tally with another sub-motion's text and do not reliably isolate its own operative content.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "Source shows literal 'Voting Record:' boilerplate with a later sub-motion's title text glued into this vote's own voter list (classic pre-2018 scrape garbling, era-note precedent). Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "0a46c14af455",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred consideration of the appointment of a Chair of the Corporate Services Committee until Council has dealt with the City Clerk's report back on related Procedure By-law changes arising from the elimination of the Council-selected Deputy Mayor position.",
+    "confidence": "high",
+    "quote": "Motion to Defer consideration of the appointment of a Chair of the Corporate Services Committee until such time as the Municipal Council has dealt with the related report back from the City Clerk regarding changes to the Procedure By-law, and any related policies, arising from the elimination of the position of Deputy Mayor selected by the Municipal Council.",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verifierNote": "Quote matches source verbatim (13-1 vote); appointment/referral flags and direction-null (governance/timeline protocol) both correct. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "7586c6727233",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the appointment of Councillor M. Salih as Chair of the Community and Protective Services Committee.",
+    "confidence": "high",
+    "quote": "Motion to Approve the appointment of Councillor M. Salih as Chair of the Community and Protective Services Committee.",
+    "flags": [
+      "appointment"
+    ],
+    "verifierNote": "Quote matches source verbatim (12-2 vote); appointment direction-null correct. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "1160a98e4d2a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the appointment of Councillor M. van Holst as Chair of the Civic Works Committee.",
+    "confidence": "high",
+    "quote": "Motion to Approve the appointment of Councillor M. van Holst as Chair of the Civic Works Committee.",
+    "flags": [
+      "appointment"
+    ],
+    "verifierNote": "Quote matches source verbatim (11-3 vote); appointment direction-null correct. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "a4766d6637ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 12 (One River Master Plan Environmental Assessment Terms of Reference, including the revised draft EA Problem/Opportunity Statement), as amended by Council to add wording in the statement of objectives requiring an understanding of the impacts that critical infrastructure projects may have on species at risk and/or endangered species.",
+    "confidence": "medium",
+    "quote": "Approve that clause 12 be amended to include wording in the statement of objectives that requires that there be an understanding of the impacts that critical infrastructure projects may have on species at risk, and/or endangered species.",
+    "flags": [],
+    "verifierNote": "Checked (c): id maps to the 11-2 final 'Approve clause 12, as amended' roll call (M. Salih and T. Park dissenting) per the 'unanimous votes get no separate id' pattern confirmed elsewhere in this batch, but the populated quote field is verbatim from the PRECEDING 13-0 unanimous amendment motion, not from this roll call's own bare text. Not corrected (issue=none/polarity=null already, so no false directional claim results, and the substantive description is accurate for what a Yea on the final vote did), but flagging the quote-sourcing mismatch for awareness.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "bf79e594981d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law amending the Vehicle for Hire By-law (By-law No. L.-129-51) to replace section 6.6, and referred further discussion of the proposed Vehicle for Hire By-law to a Special Meeting of the Community and Protective Services Committee to be held before the November 8, 2016 Council meeting.",
+    "confidence": "high",
+    "quote": "the attached by-law to amend By-law No. L.-129-51 being \"A by-law to provide for the licensing, regulation and governing of vehicles for hire...\" to replace section 6.6 of the by-law, BE INTRODUCED at the Municipal Council meeting of November 8, 2016; and further discussion with respect to the proposed Vehicle for Hire By-law BE REFERRED to a Special Meeting of the Community and Protective Services Committee (CPSC), to be held prior to the November 8, 2016 meeting of the Municipal Council",
+    "flags": [
+      "referral"
+    ],
+    "verifierNote": "Full source paragraph matches quote verbatim (12-1 vote); by-law introduction + referral, correctly direction-null. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "d8b43a7fd9b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred clause 2 (Vehicle for Hire By-law action items), as amended, to the November 22, 2016 Council meeting for further consideration.",
+    "confidence": "high",
+    "quote": "Approve that clause 2, as amended, be referred to the Municipal Council meeting to be held on November 22, 2016 for further consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verifierNote": "Quote matches source verbatim; this is the 7-6 split referral vote (the 13-0 unanimous amendment immediately before it correctly has no separate id in this batch). Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "164d5b669eac",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 6 to further refer consideration of designating a City of London representative(s) to the Network of Canada 150 Community Leaders (including related travel-expense financing) to the November 22, 2016 Council meeting.",
+    "confidence": "high",
+    "quote": "That consideration of the designation of a City of London representative(s) to the newly-created Network of Canada 150 Community Leaders, including the matter of financing related travel expenses for that individual(s), if any, BE REFERRED to the November 22, 2016 meeting of the Municipal Council; it being understood that Council Members should come prepared with any names for consideration.",
+    "flags": [
+      "referral"
+    ],
+    "verifierNote": "Full source paragraph matches quote verbatim (9-3 vote). Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "943db430ca60",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a councillor communication on the use of by-laws to appoint members of the Senior Leadership Team and other statutory officers to a future Corporate Services Committee meeting, for additional information including on the currency of Council Policy 18(17) ('Appointments Requiring Council Approval').",
+    "confidence": "high",
+    "quote": "the communication dated October 24, 2016, from Councillor J. Morgan, with respect to the utilization of by-laws to appoint members of the Senior Leadership Team and any other statutory officers of The Corporation of the City of London, BE REFERRED to a future meeting of the Corporate Services Committee in order to receive additional information, including information regarding the currency of Council Policy 18(17) entitled \"Appointments Requiring Council Approval\".",
+    "flags": [
+      "referral",
+      "appointment"
+    ],
+    "verifierNote": "Quote matches source verbatim (10-1 vote); referral/appointment-adjacent topic correctly direction-null. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "cf6861c290fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 9 to appoint Chris Evans, Alison Regehr, and Ian Whiteside (removing Berta Krichker from the originally proposed slate) as Voting Members-at-Large to the Environmental and Ecological Planning Advisory Committee, for the term ending February 28, 2019.",
+    "confidence": "high",
+    "quote": "That the following individuals BE APPOINTED to the Environmental and Ecological Planning Advisory Committee as Voting Members-at-Large for the term ending February 28, 2019: Chris Evans, Alison Regehr, Ian Whiteside",
+    "flags": [
+      "appointment"
+    ],
+    "verifierNote": "Correctly maps to the 9-2 amendment (removing Berta Krichker) rather than the 11-0 unanimous 'approve as amended' that follows it; quote matches source verbatim; 'Amended' motion-action verb used correctly. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "ef4d7fc590ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced, for the properties at 1577 and 1687 Wilton Grove Road (OZ-8667), by-laws to amend the Official Plan and Zoning By-law No. Z.-1, changing the designation/zoning from Agricultural, Open Space and Environmental Review to Light Industrial (to permit food, tobacco, and beverage processing industries), on a 3-1 vote.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated November 14, 2016, BE INTRODUCED at the Municipal Council meeting to be held on November 22, 2016 to amend the Official Plan to: i) change the designations on Schedule \"A,\" Land Use, FROM an \"Urban Reserve – Industrial Growth,\" \"Open Space,\" and \"Environmental Review\" designation, TO a \"Light Industrial\" and \"Open Space\"... iii) change Chapter 10 – Policies for Specific Areas by ADDING a policy to permit food, tobacco, and beverage processing industries on the Light Industrial portions of the subject lands",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED per (a)/(d): NOT boilerplate -- the preceding paragraph (immediately before the vote, no 'Voting Record:' wrapper intervening) is a full, substantive committee recommendation with real operative content. The classifier appears to have conflated the Motion object's own bare 'Motion Passed' text with genuine textlessness; the era note's no_text/boilerplate rule doesn't apply here since real text IS recoverable. Corrected quote/whatAYeaDid/confidence; issue stays 'none' because the substance is a LIGHT INDUSTRIAL rezoning (food/tobacco/beverage processing), not housing -- the OZ-code housing structural-signal rule in issue-rules.ts is for cases where no prose is available, and here the prose affirmatively shows this is not a housing item, so applying the housing code-pattern would have been the actual error."
+  },
+  {
+    "id": "e53ee878c941",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part c) of the recommendation for the properties at 185 and 199 Commissioners Road East (39T-108501/Z-8682) to change a setback figure from 8m to 10m; the source minutes do not record the full text of part c) or of this amendment (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verifierNote": "Checked (a)/(b): the base recommendation (preceding paragraph) shows this is a real residential subdivision (26 single-detached lots) with a lot-area/setback special provision, but the source text is internally inconsistent about direction -- the committee's closing note says the setback changed 'from ten metres to eight metres' while the roll call's own paragraph says 'amend the setback from 8m to 10m' (opposite order). No AXIS_PATTERN in direction-rules.ts covers a bare setback-distance change for housing (only density/height/storeys, use-permission, or affordable-funding), so even with the fuller context there is no clean basis to assign issue=housing here. Confirmed no_text/null as the safer reading given the source's internal contradiction.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "3cfd988376d2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Limited speakers to 3 minutes each during the Committee's consideration of the Public Submission on the OCPC process and interactions between the London Police Services Board and the Chief Administrator's Office.",
+    "confidence": "high",
+    "quote": "Motion to Approve that speakers be limited to 3 minutes.",
+    "flags": [
+      "procedural"
+    ],
+    "verifierNote": "Quote matches source verbatim (7-6 split); 'police services board' appears only in the item TITLE, not in this motion's own body text, so issue=none is correct per 'issue from the body only'. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "50615a8a98d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to solicit input from Council Members and report back to the Corporate Services Committee with proposed Terms of Reference for allocating funds in the Community Investment Reserve Fund.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to solicit input from Council Members and report back to the Corporate Services Committee with proposed Terms of Reference for the allocation of funds included in the Community Investment Reserve Fund, with a view to ensuring that any allocation of those funds is done in a consistent and appropriate manner.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verifierNote": "Quote matches source verbatim (10-1 split); matches INFORMATIONAL_ASK_RE pattern ('report back... with proposed Terms of Reference'), correctly direction-null. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "503f5daa8b07",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended clause 12 -- the Official Plan/Zoning By-law amendment for 1577 and 1687 Wilton Grove Road (OZ-8667, the same Light Industrial rezoning as ef4d7fc590ed) -- to reference formally-attached revised by-law appendices in place of the staff-report-referenced originals; the source minutes attach this vote's 2-9 tally to an unrelated procedural note about a temporary change in the chair, but the amendment's own text is recoverable from the immediately preceding content block, whose own vote/result fields are instead empty.",
+    "confidence": "low",
+    "quote": "Approve that clause 12 be amended to read as follows: ...the proposed attached revised by-law (Appendix \"A\"), BE INTRODUCED... to amend the Official Plan... [and] the proposed attached revised by-law (Appendix \"B\"), BE INTRODUCED... to amend Zoning By-law No. Z.-1... to change the zoning of the subject properties FROM an Agricultural (AG2) Zone... TO a Light Industrial Special Provision... Zone on 1577 and 1687 Wilton Grove Road",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED per (b): the classifier's whatAYeaDid misidentified the SUBJECT -- it described this vote as being about 'Properties located at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)' (the item's overall title, which is actually clause 11 / a different application), when the motion's own text (recovered from the adjacent content block sharing this item, whose vote/result fields are blank -- the classic mid-item scraper vote/text split) explicitly names 'clause 12' and 'the properties located at 1577 and 1687 Wilton Grove Road' -- i.e. the SAME OZ-8667 Wilton Grove Road application as ef4d7fc590ed, not Z-8635. Diffing this text against the original clause 12 (paragraph immediately before it in source) shows the only change is substituting a formally-attached 'revised by-law (Appendix A/B)' for the staff-report-referenced original -- a technical instrument-substitution, not a substantive policy change. Corrected the subject-matter description; kept issue=none/polarity=null (industrial rezoning, not a tracked issue; and per the 'substitution vs final' convention, the immediately following vote (ebd52906fc2d) shows this substitution failed and the original wording was adopted instead) and no_text (the sub-vote itself still has no independently attributable text separate from the base clause)."
+  },
+  {
+    "id": "ebd52906fc2d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a recorded 9-2 vote immediately after the failed attempt (503f5daa8b07, 2-9) to substitute a formally-attached 'revised by-law' version of clause 12 (the Official Plan/Zoning amendment for 1577 and 1687 Wilton Grove Road, OZ-8667); the motion's own operative text is not preserved, but given the immediately preceding substitution attempt failed, this vote most likely reflects adoption of clause 12 in its ORIGINAL (staff-report-referenced), not amended, form -- the same 9 councillors who voted Nay on the substitution (M. Brown, M. van Holst, B. Armstrong, M. Salih, J. Helmer, M. Cassidy, J. Morgan, P. Hubert, V. Ridley) are the Yeas here, and the 2 who voted Yea on the substitution (A. Hopkins, T. Park) are the Nays here.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED per (b): same subject-matter misattribution as 503f5daa8b07 (this is clause 12 / Wilton Grove Road OZ-8667, not Commissioners Road West Z-8635), and the classifier's guess that this 'most likely reflects final adoption of clause 12 as amended' has the direction backwards -- since the amendment/substitution immediately before it (503f5daa8b07) FAILED 2-9, and this vote's Yea/Nay lists are the exact mirror image of that failed vote's, the more likely reading is adoption of clause 12 UNAMENDED (original wording), not 'as amended'. Corrected subject and removed the 'as amended' guess; issue/polarity unchanged (none/null -- industrial rezoning, not tracked, and text still not independently recoverable for this specific roll call)."
+  },
+  {
+    "id": "5533d8a8c23a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Vehicle for Hire By-law action items (2nd Report of the Community and Protective Services Committee, as amended), except for part 2a)vi) (third-party record-check grading) and part 2b)i) (uniform 'cloud-based' camera system options report-back), which were carved out for separate consideration.",
+    "confidence": "high",
+    "quote": "Approve the above-noted clause, with the exception of the following parts: a) part 2a)vi): \"allow for third party record checks with a grading of: Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved;\"; and b) part 2b)i): \"uniform 'cloud-based' camera system options for all vehicles for hire; it being noted that this report will be brought forward one year after the proposed by-law comes into force and effect;\".",
+    "flags": [],
+    "verifierNote": "Quote matches source verbatim (10-1 split, the carve-out vote). Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "dc7129446a74",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part 2a)vi) of the Vehicle for Hire By-law action items: allowing for third-party record checks with a grading of Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved.",
+    "confidence": "high",
+    "quote": "allow for third party record checks with a grading of: Pass, Fail or Concern, along with regulations for licensing where a Pass is not achieved",
+    "flags": [],
+    "verifierNote": "Quote matches source verbatim (7-4 split, part 2a)vi)); the unanimous referral of part 2b)i) immediately after correctly has no separate id in this batch. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "b390b38a6ca8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Limited speakers to 3 minutes during Council's consideration of the Manager, Realty Services report on the expropriation of land for the Western Road Widening and Improvement Project (TS1489-1).",
+    "confidence": "high",
+    "quote": "Approve that speakers be limited to 3 minutes.",
+    "flags": [
+      "procedural"
+    ],
+    "verifierNote": "Quote matches source verbatim (6-5 split); topic item is Western Road Widening but this specific roll call (speaker time limit) carries no road-capacity content of its own -- correctly issue=none. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "f26992018b5d",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have approved funding for part d) of the 2017-2019 Operating Budget Amendments: $179,000 net (2017), $372,000 net (2018), and $580,000 net (2019) for the Upper Thames River Conservation Authority's Environmental Targets Strategic Plan (Case #4).",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part d) as follows: Upper Thames River Conservation Authority (UTRCA) - Environmental Targets Strategic Plan (Case #4): $179,000 Net (2017) $372,000 Net (2018) $580,000 Net (2019);",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c): vote tally (4 Yeas/7 Nays) is internally consistent with 'Motion Failed'; quote matches source paragraph verbatim incl. $ figures; hedge 'Would have approved...' correctly applied to a FAILED motion. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "421b53c17032",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part d) of the 2017-2019 Operating Budget Amendments (after a larger version failed): $179,000 net for each of 2017, 2018 and 2019 for the Upper Thames River Conservation Authority's Environmental Targets Strategic Plan (Case #4), with the 2017 amount financed from assessment growth notwithstanding the City's Assessment Growth Policy.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part d) as follows: Upper Thames River Conservation Authority - Environmental Targets Strategic Plan (Case #4): $179,000 Net (2017); it being noted that notwithstanding the City of London's Assessment Growth Policy, $179,000 would be financed from assessment growth in 2017; $179,000 Net (2018) $179,000 Net (2019)",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c): vote tally (10-1) consistent with Passed; quote matches source verbatim incl. assessment-growth financing note. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "a7b84bce7c1b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part e) of the 2017-2019 Operating Budget Amendments: $258,000 net (2017), $323,000 net (2018), and $389,000 net (2019), with $258,000 per year drawn from the Social Housing Major Repairs Reserve Fund and the balance of the 2018-2019 amounts funded from the tax base.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part e) as follows: $258,000 (Net) 2017 $323,000 (Net) 2018 $389,000 (Net) 2019; it being noted that $258,000 in each year would be drawn down from the Social Housing Major Repairs Reserve Fund for each of the three years; with the balance of the 2018 and 2019 amounts being funded from the tax base.",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c): vote tally (10-1) consistent; quote matches source verbatim incl. Social Housing Reserve Fund financing split. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "97e473005c2b",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved funding for part f) of the 2017-2019 Operating Budget Amendments: $100,000 net for each of 2017, 2018 and 2019, funded from the Economic Development Reserve Fund with no tax levy impact.",
+    "confidence": "high",
+    "quote": "Motion to Approve funding for part f) as follows: $100,000 Net (2017) $100,000 Net (2018) $100,000 Net (2019); it being noted that the source of financing for the above-noted years will be the Economic Development Reserve Fund and will, therefore, have no tax levy impact.",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c): vote tally (6-5) consistent; quote matches source verbatim incl. 'no tax levy impact' line (funded from Economic Development Reserve Fund) -- axis='levy-size' is used consistently for reserve-funded budget-case dollar votes elsewhere in this same batch (e.g. a7b84bce7c1b), so not singled out. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "ab1f1f8c736b",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved parts d) and e) of the 2017-2019 Capital Budget changes: Lifecycle Renewal adjustments (Case #11: Library Capital Plan, Covent Garden Roof Replacement) and library Growth-related adjustments (Case #14: Northwest/Southeast Libraries, including project deferrals and an increase reflecting higher tender results), funded in part from the Library Facilities & Equipment Reserve Fund and Covent Garden Market Reserve Fund; the combined dollar effect of the two parts together is not stated as a single net figure.",
+    "confidence": "medium",
+    "quote": "d) Other Lifecycle Renewal Amendments (2016-2019) (Case #11): i) Library Capital Plan (e.g. Facility Renewal): ($419,000) (2017) $225,000 (2018) $126,000 (2019); ii) Covent Garden Roof Replacement: ($350,000) Net (2019); e) Northwest and Southeast Libraries (Case #14): i) Defer Northwest from 2019 to 2020 ($3,330,000)(2019); ii) Defer Southeast from 2018 to 2019 ($3,330,000)(2018) $3,330,000(2019); iii) Increase funding to Southeast Library to reflect recent higher tender results for facility projects $1,038,000(2019)",
+    "flags": [],
+    "verifierNote": "Already self-null by the classifier for the same 'combined figure, no single net line' reason applied here to e237ed1060ba/fbecb5e81bc7 -- this entry is the precedent for those two corrections. Confirmed as-is.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "e237ed1060ba",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a motion to approve part l) of the 2017-2019 Capital Budget changes (Facility Energy Management, Case #19) except the Solar Photovoltaic portion; the motion's own text carries no dollar figure of its own (only the combined, unsplit Case #19 total -- $400,000/$400,000/$200,000 -- appears elsewhere, covering BOTH this 'except Solar PV' portion and the separate Solar PV vote that follows it, so neither sub-vote has its own printed $ line). Additionally, the source vote tally itself is internally inconsistent with its own \"Motion Passed\" label (5 Yeas -- M. van Holst, B. Armstrong, P. Hubert, S. Turner, T. Park -- vs 6 Nays -- M. Brown, M. Salih, J. Helmer, M. Cassidy, P. Squire, J. Morgan -- out of 11 present, which is a Nay majority), and this same vote was immediately reconsidered (11-0) and re-split into a unanimous \"lighting\" vote and a separate 8-3 \"Solar Photovoltaic balance\" vote, suggesting it was procedurally superseded.",
+    "confidence": "low",
+    "quote": "Motion to approve part l), with the exception of the Solar Photovoltaic portion of Case #19.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "downgraded",
+    "verifierNote": "REFUTED per (b)/(c): the $400k/$400k/$200k figure quoted is the COMBINED, unsplit Case #19 total (see paragraph immediately preceding clause 2's lettered parts), not this sub-vote's own printed $ line -- it is also attached, unchanged, to the separate Solar PV vote (fbecb5e81bc7), so it cannot correctly belong to both. Independently, the source vote tally itself reads 5 Yeas / 6 Nays (11 present) yet is labeled \"Motion Passed\" -- internally inconsistent -- and this vote was reconsidered and re-split into two further votes moments later (idx32-37 of item 2, same source file). Per the ab1f1f8c736b precedent already in this same batch (\"combined dollar effect... not stated as a single net figure\" -> null), and the SOP's 'unclear is always acceptable', downgraded issue=budget/axis=null/polarity=null."
+  },
+  {
+    "id": "fbecb5e81bc7",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted 8-3 to approve the balance of part l) of the 2017-2019 Capital Budget changes (Facility Energy Management, Case #19) -- the Solar Photovoltaic portion -- after the Committee reconsidered and split the original 'part l) except Solar PV' vote into a separate unanimous 'lighting' vote and this Solar PV vote. The motion's own text carries no dollar figure of its own; the only printed figure for Case #19 ($400,000/$400,000/$200,000) is the COMBINED total covering the whole case (lighting + solar), not this portion alone.",
+    "confidence": "low",
+    "quote": "Motion to Approve the balance of part l), which pertains to the Solar Photovoltaic project.",
+    "flags": [],
+    "verdict": "downgraded",
+    "verifierNote": "REFUTED per (b)/(c): same dollar-figure problem as e237ed1060ba -- the $400k/$400k/$200k Case #19 total is printed once, for the WHOLE (unsplit) case, and cannot be independently attributed as the full net effect of just the Solar Photovoltaic slice without double-counting against the lighting slice. No line in the motion's own text (or the preceding paragraph) gives a Solar-PV-only figure. Downgraded to polarity=null per the same 'no single net figure for this sub-part' rule the classifier itself applied to ab1f1f8c736b in this batch."
+  },
+  {
+    "id": "133f2b206968",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved part i) of the 2020-2025 forecasted Capital Budget changes, approved in principle subject to annual review: $4,704,000 for the Northwest Library (Case #14), deferred from 2019 to 2020.",
+    "confidence": "high",
+    "quote": "Motion to Approve part i). Northwest Library (deferred from 2019 to 2020) $4,704,000 (Case #14).",
+    "flags": [],
+    "verifierNote": "Checked (b)/(c): part i) is a single, non-split line item (unlike part l)); its own preceding paragraph gives the $4,704,000 figure directly, and the id's own text ('Approve part i.') unambiguously refers to that whole line -- unlike e237ed1060ba/fbecb5e81bc7, no double-counting risk. Vote tally (9-2) consistent. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "71e64dc41cb4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration, notwithstanding the City Engineer's recommendation, to install a traffic signal at the South Carriage Road/Hyde Park Road intersection to address the intersection's circumstances and the introduction of school buses in September 2017, with the cost covered within the existing budget.",
+    "confidence": "high",
+    "quote": "notwithstanding the direction of the City Engineer, and noting that the intersection of South Carriage Road and Hyde Park Road has not yet met the warrant for a traffic signal, the Civic Administration BE DIRECTED to proceed with the installation of a traffic signal at this intersection in order to address the unique circumstances of the intersection and the introduction of the school busses in September 2017; it being understood that the cost of the installation of this traffic signal would be covered within the existing budget.",
+    "flags": [],
+    "verifierNote": "Checked: 'traffic signal' installation doesn't hit any tracked issue keyword (transit keywords require 'road widening', 'transit', 'BRT' etc., not 'traffic signal'); correctly issue=none despite sharing an item with the road-capacity vote next to it. Vote tally (2-3) consistent with 'Would have...' hedge. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "affd3178709b",
+    "issue": "transit",
+    "axis": "road-capacity",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed the Civic Administration, notwithstanding the City Engineer's recommendation, to initiate detailed design work at the South Carriage Road/Hyde Park Road intersection using available funding from the Hyde Park Road widening project.",
+    "confidence": "medium",
+    "quote": "notwithstanding the recommendation of the City Engineer, the Civic Administration BE DIRECTED to initiate the detailed design utilizing the available funding from the Hyde Park Road widening project",
+    "flags": [],
+    "verifierNote": "Checked (b): 'initiate the detailed design utilizing the available funding from the Hyde Park Road widening project' reads as progressing an existing road-widening capital project (procurement/design stage of a capital commitment), which the corpus convention treats as expansive, not null, unlike a bare consultant appointment. A closer call than most in this batch but not overturned for lack of a stronger verbatim basis either way. Vote tally (2-3) consistent with the 'Would have...' FAILED hedge. Confirmed.",
+    "verdict": "confirmed"
+  },
+  {
+    "id": "e24eceae6488",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back to the Strategic Priorities and Policy Committee on the potential financial, economic and legal implications of London Hydro investigating possible mergers, acquisitions, amalgamations, dispositions, or taking on strategic partners.",
+    "confidence": "high",
+    "quote": "That the Civic Administration BE DIRECTED to report back at a future meeting of the Strategic Priorities and Policy Committee, with respect to potential financial, economic and legal implications that may result from London Hydro investigating possible mergers, acquisitions, amalgamations and dispositions, which may include taking on strategic partners.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verifierNote": "Quote matches source verbatim (12-2 split); London Hydro merger-implications report-back is a corporate-restructuring/informational ask, correctly direction-null per convention -- confirmed despite the real 12-2 division. Confirmed.",
+    "verdict": "confirmed"
+  }
+]

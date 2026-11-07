@@ -1,0 +1,474 @@
+[
+  {
+    "id": "6c278f376bd0",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "levy-size",
+    "decision": "keep_pass1",
+    "chosen_value": null,
+    "quote": "T. Park (10) Motion to approve that the one-time capital funding request of Pillar Nonprofit Network BE APPROVED in the amount of $339,000, to be funded from the 2014 Surplus.",
+    "reason": "Bled-through caption in the nays cell of THIS vote (idx28/ordinal20) duplicates the FIRST of the two preceding paragraphs ($339k original), not the closer $50k amendment paragraph. I independently re-checked the batch's other cross-referenced duplicate-caption case (Parks/Urban Forestry, ordinal 26, same item): its bleed likewise matches the FIRST of its two preceding paragraphs (the $675k increase) and not the closer alternative. That confirms the pattern pass1's own verifier used, and if anything it points toward this vote being on the ORIGINAL $339k motion, not pass2's confident $50k-amendment reading -- the opposite of what pass2 asserts. Genuinely unsettled from the text; per the hard rule the safe (no-direction) answer wins over a confident but pattern-contradicted claim.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "6c278f376bd0",
+    "field": "polarity",
+    "live_value": null,
+    "pass2_value": "restrictive",
+    "decision": "keep_pass1",
+    "chosen_value": null,
+    "quote": "T. Park (10) Motion to approve that the one-time capital funding request of Pillar Nonprofit Network BE APPROVED in the amount of $339,000, to be funded from the 2014 Surplus.",
+    "reason": "Same basis as axis: the bleed-pattern cross-check (verified independently against the Parks/Urban Forestry ord-26 analogue in the same item) undercuts pass2's confident 'restrictive' (reduction) read rather than supporting it. Unresolved -> null is the safe answer.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "6c278f376bd0",
+    "field": "whatAYeaDid",
+    "live_value": "Could not be confirmed with confidence which of the two pending Pillar Nonprofit Network motions (the original $339,000 request, or the amendment reducing it to $50,000) this specific roll call decided — the vote's bled-through caption text duplicates the original $339,000 paragraph verbatim rather than the closer amendment paragraph, an ambiguity this batch's other duplicate-caption case (Parks/Urban Forestry, ord 26) resolves the opposite way the original classification assumed.",
+    "pass2_value": "Would have reduced one-time capital funding for Pillar Nonprofit Network from $339,000 to $50,000, to match other governmental funding.",
+    "decision": "keep_pass1",
+    "chosen_value": "Could not be confirmed with confidence which of the two pending Pillar Nonprofit Network motions (the original $339,000 request, or the amendment reducing it to $50,000) this specific roll call decided — the vote's bled-through caption text duplicates the original $339,000 paragraph verbatim rather than the closer amendment paragraph, an ambiguity this batch's other duplicate-caption case (Parks/Urban Forestry, ord 26) resolves the opposite way the original classification assumed.",
+    "quote": "Motion to approve that the one-time capital funding request of Pillar Nonprofit Network BE APPROVED in the amount of $339,000... / Motion to amend the provision of one-time capital funding to Pillar Nonprofit Network to $50,000 to match other governmental funding.",
+    "reason": "Verified the ord-26 cross-reference myself in the raw meeting JSON: the analogous bleed matches the FIRST preceding paragraph both times, which argues against pass2's confident $50k-amendment attribution, not for it. No false-direction risk; pass1's ambiguous framing is the provably safer and better-supported call.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "6c278f376bd0",
+    "field": "flags",
+    "live_value": [
+      "ambiguous_attribution"
+    ],
+    "pass2_value": [],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "ambiguous_attribution"
+    ],
+    "quote": "Cannot positively confirm either reading.",
+    "reason": "The ambiguity is real and independently confirmed by my own re-derivation of the bleed pattern; the flag should stay.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "6c278f376bd0",
+    "field": "verdict",
+    "live_value": "downgraded",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "downgraded",
+    "quote": "Cannot positively confirm either reading.",
+    "reason": "Consistent with keeping whatAYeaDid/axis/polarity/flags at pass1's ambiguous state.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "6c278f376bd0",
+    "field": "confidence",
+    "live_value": "low",
+    "pass2_value": "medium",
+    "decision": "keep_pass1",
+    "chosen_value": "low",
+    "quote": "Cannot positively confirm either reading.",
+    "reason": "Low confidence is the honest state given the unresolved bleed-pattern ambiguity.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "field": "whatAYeaDid",
+    "live_value": "Approved a substitute clause 10, replacing the original in its entirety, allowing the Zelinka Priamo Ltd. appeal in part: two commercial boulevard parking spaces were approved for 552 Colborne Street, subject to conditions, and the request for a third space was denied.",
+    "pass2_value": "No operative motion text was recovered in the source record for this vote. (This vote on Clause 10, Commercial Boulevard Parking Application 552 Colborne Street, was immediately followed by a further vote adopting Clause 10 'as amended'.)",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved a substitute clause 10, replacing the original in its entirety, allowing the Zelinka Priamo Ltd. appeal in part: two commercial boulevard parking spaces were approved for 552 Colborne Street, subject to conditions, and the request for a third space was denied.",
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10: “That...a) that appeal BE ALLOWED IN PART to grant the approval of two commercial boulevard parking spaces for 552 Colborne Street subject to the following conditions...; and, b) the request for a third parking space BE DENIED...”",
+    "reason": "Read the raw meeting JSON directly (months/2015-02/2015-02-09 MINUTES 6TH MEETING, item 10, ordinal 0): the full motion text is present verbatim as this vote's own motion_texts Paragraph, matching pass1 exactly. Pass2's 'no operative motion text was recovered' is factually wrong for this id -- the text is right there.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked: read data/2015-02/2015-02-09 MINUTES 6TH MEETING.json item 10, ordinal 0. The full substitute-clause text ('Approve That clause 10 be amended by deleting the clause in its entirety...a) that appeal BE ALLOWED IN PART...b) the request for a third parking space BE DENIED...') is the Motion's own motion_texts field verbatim, matching pass1 exactly. Pass2's 'no operative motion text was recovered' is factually wrong for this id. No missed improvement found; pass1 stands."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "field": "quote",
+    "live_value": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10: ...",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10: “That...a) that appeal BE ALLOWED IN PART...; and, b) the request for a third parking space BE DENIED...”",
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10...",
+    "reason": "Source text exists and matches pass1's quote verbatim; pass2's null is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source read as whatAYeaDid above confirms pass1's quote verbatim; pass2's null is wrong."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "field": "flags",
+    "live_value": [
+      "substitution"
+    ],
+    "pass2_value": [
+      "no_text",
+      "substitution"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "substitution"
+    ],
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety and by replacing it with the following new clause 10...",
+    "reason": "no_text is wrong since the full text is recovered; substitution alone is correct (this clause was substituted in its entirety, then a separate later vote approved clause 10 'as amended').",
+    "checkVerdict": "upheld",
+    "checkNote": "Text is present per source read above, so no_text does not apply; substitution alone is correct."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety...",
+    "reason": "Follows from the text being present and matching pass1.",
+    "checkVerdict": "upheld",
+    "checkNote": "Follows from source-verified text matching pass1."
+  },
+  {
+    "id": "171e07dbdbf4",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "Approve That clause 10 be amended by deleting the clause in its entirety...",
+    "reason": "Source-verified verbatim match warrants high confidence; pass2's low confidence stemmed from its incorrect no_text finding.",
+    "checkVerdict": "upheld",
+    "checkNote": "Source-verified verbatim match warrants pass1's high confidence."
+  },
+  {
+    "id": "e7efbd6d7c2d",
+    "field": "whatAYeaDid",
+    "live_value": "Approved referral of 'Our Move Forward: London's Downtown Plan' back to staff to undertake wording and graphics refinements — not adoption of the Plan. The staff recommendation on the table that night had asked Council to adopt the Plan as a Guideline Document and introduce the implementing by-law; Council referred it instead.",
+    "pass2_value": "Approved referral of \"Our Move Forward: London's Downtown Plan\" back to staff to undertake wording and graphics refinements.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved referral of 'Our Move Forward: London's Downtown Plan' back to staff to undertake wording and graphics refinements — not adoption of the Plan. The staff recommendation on the table that night had asked Council to adopt the Plan as a Guideline Document and introduce the implementing by-law; Council referred it instead.",
+    "quote": "Our Move Forward: London’s Downtown Plan BE ADOPTED as a Guideline Document pursuant to section 19.2.2 of the Official Plan... / Approve referral of the “Our Move Forward” London’s Downtown Plan back to staff to undertake wording and graphics refinements.",
+    "reason": "Read item 10#2's raw JSON: the preceding staff recommendation paragraph indeed asked for ADOPTION, and the item's own motion instead REFERRED it back to staff. Pass1's added context is source-confirmed and more informative, not a fabrication; pass2's bare paraphrase drops accurate, verified context.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked: read data/2015-02/2015-02-09 MINUTES 6TH MEETING.json item 10#2. The preceding staff-recommendation paragraph asks Council to ADOPT the Plan (part a); the actual motion passed instead REFERS it back to staff. Pass1's added context is source-confirmed, not fabricated, and is more informative than pass2's bare paraphrase. No missed improvement found; pass1 stands."
+  },
+  {
+    "id": "e7efbd6d7c2d",
+    "field": "quote",
+    "live_value": "Approve referral of the “Our Move Forward” London’s Downtown Plan back to staff to undertake wording and graphics refinements.",
+    "pass2_value": "Approve referral of the \"Our Move Forward\" London's Downtown Plan back to staff to undertake wording and graphics refinements.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve referral of the “Our Move Forward” London’s Downtown Plan back to staff to undertake wording and graphics refinements.",
+    "quote": "Approve referral of the “Our Move Forward”\n  London’s Downtown Plan back to staff to undertake wording and graphics\n  refinements.",
+    "reason": "Source uses curly quotes/apostrophe (“ ” ’); pass1 reproduces them verbatim, pass2 straightens them. Convention requires quotes verbatim from the motion's own text -- pass1 is the more faithful transcription.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked: source uses curly quotes/apostrophe (“ Our Move Forward” ... London’s) verbatim; pass1 reproduces them exactly, pass2 straightens them to ASCII. Convention requires quotes verbatim from the motion's own text -- pass1 is the more faithful transcription. No missed improvement found; pass1 stands."
+  },
+  {
+    "id": "ca5732aa74e6",
+    "field": "issue",
+    "live_value": "climate",
+    "pass2_value": "budget",
+    "decision": "adopt_pass2",
+    "chosen_value": "budget",
+    "quote": "the allocation for Program/Case # 15 – Street Light Maintenance (Contracted Service) BE REDUCED by $52,000 and the allocation for Program/Case #8 – Urban Forestry (Contracted Service) BE INCREASED proportionately by $52,000.",
+    "reason": "This is a net-zero dollar reallocation between two Assessment Growth Funding contracted-service line items (street lighting vs. urban forestry maintenance), not a climate-policy vote -- it moves money between two service budgets, nothing environmental is being decided. 'budget' matches the motion body; 'climate' over-reads the Urban Forestry keyword.",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently read data/2015-03/2015-03-09 Strategic Priorities and Policy Committee.json item 3, rollCallOrdinal 1 (part b): motion text is 'the allocation for Program/Case #15 - Street Light Maintenance (Contracted Service) BE REDUCED by $52,000 and the allocation for Program/Case #8 - Urban Forestry (Contracted Service) BE INCREASED proportionately by $52,000.' A net-zero reallocation between two contracted-service budget lines, no environmental policy content. 'budget' is the correct issue tag per the issue-from-motion-body convention; 'climate' over-reads the Urban Forestry keyword. Could not refute."
+  },
+  {
+    "id": "fc1c39b90865",
+    "field": "whatAYeaDid",
+    "live_value": "Gave first reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first, second, and third reading to, and enacted, Bill Nos. 246, 247, and 249 to 264 (the bills' own subject matter was not captured in this record beyond their numbers).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave first reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Introduction and First Reading of Bill No.  248.",
+    "reason": "Read months/2015-06/2015-06-25 Council item XIII directly: ordinal 3 (this id) is 'Approve Introduction and First Reading of Bill No. 248' verbatim, matching pass1 exactly. Pass2's text ('Third Reading and Enactment of Bill No.s 246, 247 and 249 to 264') is verbatim ordinal 2's motion, one roll call earlier in the same item -- pass2 has misattributed a neighbouring roll call's text to this id.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked: read data/2015-06/2015-06-25 Council.json item XIII, all six Motion entries in order. Ordinal 3 (0-indexed) is 'Approve Introduction and First Reading of Bill No. 248.' verbatim, matching pass1 exactly. Pass2's text ('Third Reading and Enactment of Bill Nos 246, 247, 249 to 264') is ordinal 2's text -- a one-ordinal misattribution. No missed improvement found; pass1 stands."
+  },
+  {
+    "id": "fc1c39b90865",
+    "field": "quote",
+    "live_value": "Approve Introduction and First Reading of Bill No. 248.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No.s 246, 247 and 249 to 264, inclusive.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Introduction and First Reading of Bill No. 248.",
+    "quote": "Approve Introduction and First Reading of Bill No.  248.",
+    "reason": "Matches this ordinal's own source text; pass2's quote belongs to the prior roll call (ordinal 2).",
+    "checkVerdict": "upheld",
+    "checkNote": "Same item-XIII read confirms pass1's quote matches this ordinal's own text; pass2's belongs to the prior ordinal."
+  },
+  {
+    "id": "fc1c39b90865",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [
+      "no_text",
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "no_text"
+    ],
+    "quote": "Approve Introduction and First Reading of Bill No.  248.",
+    "reason": "This roll call covers a single bill (248), not a bundled multi-bill vote, so 'not_divided' does not apply -- that flag belongs to the neighbouring ordinal-2 vote pass2 mistakenly quoted from.",
+    "checkVerdict": "upheld",
+    "checkNote": "This roll call covers a single bill (248), confirmed by the source read above; 'not_divided' (pass2) belongs to the neighbouring bundled-bill vote, not this one."
+  },
+  {
+    "id": "fc1c39b90865",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Introduction and First Reading of Bill No.  248.",
+    "reason": "Follows from the source match confirming pass1 and refuting pass2's misattribution.",
+    "checkVerdict": "upheld",
+    "checkNote": "Follows from the source-verified ordinal match."
+  },
+  {
+    "id": "b846ab943e37",
+    "field": "whatAYeaDid",
+    "live_value": "Gave second reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "pass2_value": "Gave first and second reading to, and gave third reading to and enacted, Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "decision": "keep_pass1",
+    "chosen_value": "Gave second reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "quote": "Approve Second Reading of Bill No. 248.",
+    "reason": "Ordinal 4 in the same item (XIII) is 'Approve Second Reading of Bill No. 248' verbatim, matching pass1. Pass2's text is verbatim ordinal 5's ('Approve Third Reading and Enactment of Bill No. 248') -- again a one-ordinal misattribution, and it would falsely claim first/third reading and enactment that this specific roll call never took.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked incidentally via the same item-XIII read (bonus 4th spot-check): ordinal 4 is 'Approve Second Reading of Bill No. 248.' verbatim, matching pass1. Pass2's text is ordinal 5's ('Third Reading and Enactment') -- would have falsely claimed third reading and enactment this specific roll call never took. No missed improvement found; pass1 stands."
+  },
+  {
+    "id": "b846ab943e37",
+    "field": "quote",
+    "live_value": "Approve Second Reading of Bill No. 248.",
+    "pass2_value": "Approve Third Reading and Enactment of Bill No. 248.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approve Second Reading of Bill No. 248.",
+    "quote": "Approve Second Reading of Bill No. 248.",
+    "reason": "Matches this ordinal's own source text; pass2's quote belongs to the next roll call (ordinal 5).",
+    "checkVerdict": "upheld",
+    "checkNote": "Same item-XIII read confirms pass1's quote matches ordinal 4's own text; pass2's belongs to ordinal 5."
+  },
+  {
+    "id": "b846ab943e37",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "Approve Second Reading of Bill No. 248.",
+    "reason": "Follows from the source match confirming pass1 and refuting pass2's misattribution.",
+    "checkVerdict": "upheld",
+    "checkNote": "Follows from the source-verified ordinal match."
+  },
+  {
+    "id": "3db6c701597f",
+    "field": "whatAYeaDid",
+    "live_value": "Carried a Civic Works Committee recommendation to contract London Hydro for MyLondonHydro web-portal customer-engagement improvements estimated at $150,000, approved the financing for that work, and authorized the Civic Administration and the Mayor and City Clerk to complete the related administrative and contract acts.",
+    "pass2_value": "Carried a Civic Works Committee recommendation on the Single Source Procurement - Customer Engagement Upgrade to the MyLondonHydro Web Portal (the Committee's own motion text was not captured in the source record).",
+    "decision": "keep_pass1",
+    "chosen_value": "Carried a Civic Works Committee recommendation to contract London Hydro for MyLondonHydro web-portal customer-engagement improvements estimated at $150,000, approved the financing for that work, and authorized the Civic Administration and the Mayor and City Clerk to complete the related administrative and contract acts.",
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000 (exclusive of HST)... (b) the financing... BE APPROVED... (c) the Civic Administration BE AUTHORIZED... (e) the Mayor and the City Clerk BE AUTHORIZED to execute any contract...",
+    "reason": "Read item 4 directly: the full five-part recommendation (a-e), including the $150,000 contract, financing approval, and authorizations, is present as the paragraph preceding the 'Motion Passed' vote entry, matching pass1 verbatim. Pass2's no_text claim is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "3db6c701597f",
+    "field": "quote",
+    "live_value": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000 (exclusive of HST), based on their proposal on file, in accordance with Section 14.4 Single Source of the City of London’s Procurement of Goods and Services Policy",
+    "pass2_value": "Motion Passed",
+    "decision": "keep_pass1",
+    "chosen_value": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000 (exclusive of HST), based on their proposal on file, in accordance with Section 14.4 Single Source of the City of London’s Procurement of Goods and Services Policy",
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000 (exclusive of HST)...",
+    "reason": "Verbatim source text confirms pass1's quote; 'Motion Passed' is only the vote-result label, not the operative text -- pass2 quoted the wrong field.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "3db6c701597f",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000...",
+    "reason": "Operative text is present, so no_text does not apply.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "3db6c701597f",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000...",
+    "reason": "Follows from the source-verified full text.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "3db6c701597f",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "medium",
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000...",
+    "reason": "Text is fully recovered and unambiguous; medium-to-high confidence is warranted, not pass2's low (which was based on a false no_text premise). Kept at pass1's existing medium rather than upgrading, since that is outside this row's scope.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "3a372ef8367c",
+    "field": "whatAYeaDid",
+    "live_value": "Recommended that the Civic Administration initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+    "pass2_value": "On a 3-2 Committee vote, recommended that the Civic Administration be directed to initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+    "decision": "adopt_pass2",
+    "chosen_value": "On a 3-2 Committee vote, recommended that the Civic Administration be directed to initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+    "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12... based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.",
+    "reason": "Item 8's roll call shows Yeas: P. Hubert, M. Cassidy, S. Turner (3); Nays: J. Helmer, P. Squire (2) -- a verified 3-2 vote, so pass2's added detail is source-confirmed and strictly more informative than pass1 while stating the same direction.",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently read data/2015-07/2015-07-20 Planning and Environment Committee.json item 8: roll call is Yeas P. Hubert, M. Cassidy, S. Turner (3); Nays J. Helmer, P. Squire (2) -- exact 3-2 match. No named-councillor claim is altered (the count adds no attribution risk). Direction and hedge unchanged from pass1. Could not refute."
+  },
+  {
+    "id": "3a372ef8367c",
+    "field": "quote",
+    "live_value": "the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015",
+    "pass2_value": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.",
+    "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal... with respect to this matter.",
+    "reason": "Item 8's source paragraph is the full sentence pass2 quotes, start to finish; pass1's quote truncates the leading clause and trailing phrase without ellipsis. Convention requires verbatim quotes -- pass2's is the complete, exact match.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source read: item 8's own paragraph is the single sentence 'That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal...based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.' Pass2's quote is this sentence verbatim start-to-finish; pass1's quote silently truncates the lead-in and tail without ellipsis. Convention requires verbatim quotes from the motion's own text -- pass2's is the more faithful transcription. Could not refute."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "field": "whatAYeaDid",
+    "live_value": "Recommended that the matter of requesting the London Arts Council to consider amending its membership to include a Council Member be referred to the Civic Administration for a report back on the current relationship between the City and the London Arts Council.",
+    "pass2_value": "Carried a Strategic Priorities and Policy Committee recommendation on the London Arts Council (the Committee's own motion text was not captured in the source record).",
+    "decision": "keep_pass1",
+    "chosen_value": "Recommended that the matter of requesting the London Arts Council to consider amending its membership to include a Council Member be referred to the Civic Administration for a report back on the current relationship between the City and the London Arts Council.",
+    "quote": "That the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration for a report back on the current relationship between The Corporation of the City of London and the London Arts Council...",
+    "reason": "Read item 3 (2015-07-27 SPPC) directly: the full referral text is present as the paragraph preceding the 'Motion Passed' vote entry, matching pass1 verbatim. Pass2's no_text claim is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "field": "quote",
+    "live_value": "the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration for a report back on the current relationship between The Corporation of the City of London and the London Arts Council",
+    "pass2_value": "Motion Passed",
+    "decision": "keep_pass1",
+    "chosen_value": "the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration for a report back on the current relationship between The Corporation of the City of London and the London Arts Council",
+    "quote": "That the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration...",
+    "reason": "Verbatim source match confirms pass1; pass2 quoted only the vote-result label.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "field": "flags",
+    "live_value": [
+      "referral"
+    ],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "referral"
+    ],
+    "quote": "...BE REFERRED to the Civic Administration for a report back...",
+    "reason": "Text is present and is indeed a referral; no_text does not apply.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "...BE REFERRED to the Civic Administration for a report back...",
+    "reason": "Follows from the source-verified full text.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "medium",
+    "quote": "...BE REFERRED to the Civic Administration for a report back...",
+    "reason": "Text is fully recovered and unambiguous, contrary to pass2's low confidence (based on a false no_text premise).",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "a9f0719cf88e",
+    "field": "whatAYeaDid",
+    "live_value": "Directed the Civic Administration to bring forward a draft by-law, at the September 1, 2015 Council meeting, to amend the Traffic and Parking By-law (PS-111) to provide for a pilot project permitting overnight parking up to and including November 1, 2015.",
+    "pass2_value": "Carried a Civic Works Committee recommendation on permitting overnight parking for additional months of the year (the Committee's own motion text was not captured in the source record).",
+    "decision": "keep_pass1",
+    "chosen_value": "Directed the Civic Administration to bring forward a draft by-law, at the September 1, 2015 Council meeting, to amend the Traffic and Parking By-law (PS-111) to provide for a pilot project permitting overnight parking up to and including November 1, 2015.",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a draft proposed by-law, at the Municipal Council meeting on September 1, 2015, to amend the Traffic and Parking By-law (PS-111) in order to provide for a pilot project for permitting overnight parking up to and including November 1, 2015...",
+    "reason": "Read item 10 (2015-08-24 Civic Works Committee) directly: the full directive text is present as the paragraph preceding the 'Motion Passed' vote entry, matching pass1 verbatim. Pass2's no_text claim is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "a9f0719cf88e",
+    "field": "quote",
+    "live_value": "the Civic Administration BE DIRECTED to bring forward a draft proposed by-law, at the Municipal Council meeting on September 1, 2015, to amend the Traffic and Parking By-law (PS-111) in order to provide for a pilot project for permitting overnight parking up to and including November 1, 2015",
+    "pass2_value": "Motion Passed",
+    "decision": "keep_pass1",
+    "chosen_value": "the Civic Administration BE DIRECTED to bring forward a draft proposed by-law, at the Municipal Council meeting on September 1, 2015, to amend the Traffic and Parking By-law (PS-111) in order to provide for a pilot project for permitting overnight parking up to and including November 1, 2015",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a draft proposed by-law...",
+    "reason": "Verbatim source match confirms pass1; pass2 quoted only the vote-result label.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "a9f0719cf88e",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a draft proposed by-law...",
+    "reason": "Operative text is present, so no_text does not apply.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  },
+  {
+    "id": "a9f0719cf88e",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "That the Civic Administration BE DIRECTED to bring forward a draft proposed by-law...",
+    "reason": "Follows from the source-verified full text.",
+    "checkVerdict": "upheld",
+    "checkNote": "keep_pass1 is the safe default and was not independently re-derived beyond the adjudicator's own reasoning in this check pass; no refutation attempted or needed since no pass2 value was adopted here."
+  }
+]

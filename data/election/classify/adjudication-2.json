@@ -1,0 +1,514 @@
+[
+    {
+        "id": "9e9380fce452",
+        "field": "whatAYeaDid",
+        "live_value": "Gave third reading to, and enacted, Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+        "pass2_value": "Gave first, second, and third reading to, and enacted, Bill Nos. 282 to 307, excluding Bill Nos. 285, 297, 303 and 306 (the bills' own subject matter was not captured in this record beyond their numbers).",
+        "decision": "keep_pass1",
+        "chosen_value": "Gave third reading to, and enacted, Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+        "quote": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "reason": "Ground-truth _all-motions.json for this id gives rollCallOrdinal 12, yeas=11/nays=4 (Morgan,Squire,Armstrong,Hubert), margin 7 -- an exact match to the raw meeting JSON's 3rd-reading-of-Bill-306 motion block (11 yea/4 nay, same four named nays). Pass2 reattributed this id to the item's UNANIMOUS (15-0) omnibus 282-307 bundle reading, which is a different, non-divided roll call -- contradicted by this id's own recorded 11-4 vote.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): verified against raw source data/2015-09/2015-09-01 MINUTES 24TH MEETING item XIII -- the Bill 306 third-reading Motion block (moved M. van Holst / seconded T. Park) carries an 11-4 vote (nays Armstrong/Squire/Morgan/Hubert) exactly matching this id's _all-motions.json record, and is a genuinely separate, divided roll call from the unanimous 15-0 Bill 282-307 omnibus bundle three blocks later. Pass1's Bill-306-specific attribution confirmed correct; pass2's omnibus-bundle reattribution is disproven by the source. No missed improvement."
+    },
+    {
+        "id": "9e9380fce452",
+        "field": "quote",
+        "live_value": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "pass2_value": "Approve Third Reading and Enactment of Bill No.s 282 to 307, excluding Bill No.s 285, 297, 303 and 306.",
+        "decision": "keep_pass1",
+        "chosen_value": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "quote": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "reason": "Verbatim quote in the raw source for the Bill 306 third-reading motion block, whose 11-4 divided vote matches this id's own _all-motions.json record exactly.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): same source cross-check as whatAYeaDid -- pass1's quote is the verbatim Bill 306 third-reading motion text attached to the matching 11-4 vote."
+    },
+    {
+        "id": "9e9380fce452",
+        "field": "flags",
+        "live_value": [
+            "no_text"
+        ],
+        "pass2_value": [
+            "no_text",
+            "not_divided"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [
+            "no_text"
+        ],
+        "quote": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "reason": "This id's actual roll call (11 yea / 4 nay) is divided, not unanimous -- pass2's added 'not_divided' flag is false, an artifact of misattributing this id to the unanimous omnibus bundle vote instead of its own Bill-306 roll call.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): the id's actual roll call is divided (11-4), so pass2's added 'not_divided' flag (an artifact of the misattributed omnibus vote) is confirmed false."
+    },
+    {
+        "id": "9e9380fce452",
+        "field": "verdict",
+        "live_value": "corrected",
+        "pass2_value": "confirmed",
+        "decision": "keep_pass1",
+        "chosen_value": "corrected",
+        "quote": "Approve Third Reading and Enactment of Bill\n  No. 306.",
+        "reason": "The original classifier's content was wrong (bill number/stage) and pass1 fixed it against source; pass2's 'confirmed' rests on the misattributed omnibus-bundle vote, so it is not actually validating this id's real roll call.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): pass1 correctly fixed the base classifier's wrong bill number/stage against a genuinely divided source vote; 'corrected' stands."
+    },
+    {
+        "id": "a1a38c9c3aae",
+        "field": "whatAYeaDid",
+        "live_value": "Carried a Corporate Services Committee recommendation approving, notwithstanding Council Policy 28(2) (Council Members' Expense Account), Councillor M. van Holst's request for up to $500.00 from his annual expense allocation to cover the Showmobile rental for the St. Julien Park Community Festival.",
+        "pass2_value": "Carried a Corporate Services Committee recommendation on a Request for Approval of an Expense on an Exemption Basis (the Committee's own motion text was not captured in the source record).",
+        "decision": "keep_pass1",
+        "chosen_value": "Carried a Corporate Services Committee recommendation approving, notwithstanding Council Policy 28(2) (Council Members' Expense Account), Councillor M. van Holst's request for up to $500.00 from his annual expense allocation to cover the Showmobile rental for the St. Julien Park Community Festival.",
+        "quote": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "reason": "Raw meeting JSON (2015-09-08 Corporate Services Committee, item 4) has this exact Paragraph as content[0], immediately preceding the bare 'Motion Passed' Motion block that carries the 3-2 vote. Text is fully recoverable; pass2's 'no_text'/'not captured' claim is false.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): verified against raw source data/2015-09/2015-09-08 Corporate Services Committee item 4 -- the Showmobile-rental Paragraph is content[0], directly preceding the sole Motion block (3 yea/2 nay, matching _all-motions.json exactly). Text fully recoverable and accurately summarized by pass1; pass2's no_text claim is disproven by the source. No missed improvement."
+    },
+    {
+        "id": "a1a38c9c3aae",
+        "field": "quote",
+        "live_value": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "pass2_value": "Motion Passed",
+        "decision": "keep_pass1",
+        "chosen_value": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "quote": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "reason": "Verbatim preceding Paragraph in the raw source, not the bare vote-result boilerplate pass2 quoted.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): pass1's quote is the verbatim Showmobile-request Paragraph, not the bare 'Motion Passed' boilerplate pass2 quoted."
+    },
+    {
+        "id": "a1a38c9c3aae",
+        "field": "flags",
+        "live_value": [],
+        "pass2_value": [
+            "no_text"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [],
+        "quote": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "reason": "Real text is recoverable from the preceding Paragraph block, so no_text is a false flag here.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): text is recoverable from source, so no_text would be a false flag; empty flags (pass1) is correct."
+    },
+    {
+        "id": "a1a38c9c3aae",
+        "field": "verdict",
+        "live_value": "corrected",
+        "pass2_value": "confirmed",
+        "decision": "keep_pass1",
+        "chosen_value": "corrected",
+        "quote": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "reason": "Pass1 correctly recovered real content the base classifier/pass2 missed; pass2's 'confirmed' endorses the false no_text state.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): pass1 correctly recovered real content the base classifier/pass2 missed; 'corrected' stands."
+    },
+    {
+        "id": "a1a38c9c3aae",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "low",
+        "decision": "keep_pass1",
+        "chosen_value": "medium",
+        "quote": "That, notwithstanding Council Policy 28(2)\n  – Council Members’ Expense Account, the request by Councillor M. van Holst to\n  provide up to $500.00 from his annual expense allocation, to cover the costs\n  associated with the rental of the Showmobile for the St. Julien Park\n  Community Festival, BE APPROVED.",
+        "reason": "Content is fully and unambiguously recovered from source, supporting pass1's medium confidence over pass2's low (which stems from pass2's false no_text call).",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): content is fully and unambiguously recovered from source, supporting medium over pass2's low (which rested on the disproven no_text claim)."
+    },
+    {
+        "id": "fb0725e8294f",
+        "field": "whatAYeaDid",
+        "live_value": "Carried a Corporate Services Committee recommendation to appoint Michael Thorn as a Voting Member of the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019, after first voting to appoint only one additional Voting Member at this time.",
+        "pass2_value": "Carried a Corporate Services Committee recommendation on the Consideration of Appointment to the Environmental and Ecological Planning Advisory Committee (the Committee's own motion text was not captured in the source record).",
+        "decision": "third_answer",
+        "chosen_value": "Carried a Corporate Services Committee motion to appoint only one additional Voting Member to the Environmental and Ecological Planning Advisory Committee at this time; a separate, later unanimous vote then named Michael Thorn to that seat.",
+        "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "reason": "_all-motions.json gives this id's own vote as 4 yea / 1 nay (Usher), which matches ONLY the first of two Motion blocks in the raw source (item 5): the 4-1 vote attached to 'Motion to Approve appointing only one additional Voting Member at this time.' The Thorn-appointment motion is a SEPARATE, unanimous (5-0) second vote in the same item -- pass1 wrongly conflated the two into one whatAYeaDid naming Thorn as this vote's own subject; pass2 wrongly claimed no text is recoverable at all.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: verified against raw source data/2015-09/2015-09-08 Corporate Services Committee item 5 -- two separate Motion blocks confirmed: block 1 (4 yea/1 nay, nay Usher) attached to 'appointing only one additional Voting Member'; block 2 (5-0 unanimous, incl. Usher voting yea) attached to the Thorn appointment. This id's own vote tally (4-1, nay Usher, per _all-motions.json) matches only block 1. The third answer correctly separates the two votes, avoiding the false implication (present in pass1's conflated version) that Usher's nay was cast against Thorn's appointment -- he in fact voted yes on that separate, unanimous motion. Both original passes were wrong; the third answer is the only one consistent with the ground-truth tally."
+    },
+    {
+        "id": "fb0725e8294f",
+        "field": "quote",
+        "live_value": "That Michael Thorn BE APPOINTED as a Voting Member on the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019.",
+        "pass2_value": "Motion Passed",
+        "decision": "third_answer",
+        "chosen_value": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "reason": "This id's 4-1 vote tally (yeas Morgan/Hopkins/Cassidy/Zaifman, nay Usher) matches only the 'one additional Voting Member' motion block, not the Thorn-appointment paragraph pass1 quoted (a separate unanimous 5-0 vote) nor pass2's boilerplate 'Motion Passed'.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: quote 'Motion to Approve appointing only one additional Voting Member at this time.' verified verbatim as the raw source Paragraph immediately preceding the 4-1 vote block, and is correctly distinct from the separate Thorn-appointment Paragraph (which precedes the unrelated 5-0 vote)."
+    },
+    {
+        "id": "fb0725e8294f",
+        "field": "flags",
+        "live_value": [
+            "appointment"
+        ],
+        "pass2_value": [
+            "no_text",
+            "appointment"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [
+            "appointment"
+        ],
+        "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "reason": "Text is recoverable (see quote), so no_text is false; this is still a committee-membership/appointment matter, so 'appointment' stays.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "fb0725e8294f",
+        "field": "verdict",
+        "live_value": "corrected",
+        "pass2_value": "confirmed",
+        "decision": "keep_pass1",
+        "chosen_value": "corrected",
+        "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "reason": "The content needed correcting (both passes' whatAYeaDid/quote were wrong in different ways), so 'corrected' is the accurate verdict, not pass2's 'confirmed'.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "fb0725e8294f",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "low",
+        "decision": "keep_pass1",
+        "chosen_value": "medium",
+        "quote": "Motion to Approve appointing only one\n  additional Voting Member at this time.",
+        "reason": "Content is recoverable and vote tally cross-checked exactly against ground truth, supporting medium (pass1) over pass2's low, which rested on a false no_text call.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "236b05612e29",
+        "field": "whatAYeaDid",
+        "live_value": "Approved, in principle, the list of initiatives and projects in Appendix A as those that will have business cases prepared for consideration of new funding through the 2016-2019 Budget process, and directed that no further action be taken on a review of budget priorities under the Standing Committees' Deferred Matters Lists.",
+        "pass2_value": "Endorsed, in principle, the list of initiatives and projects in Appendix A as those to have business cases prepared for consideration to receive new funding through the 2016-2019 Multi-Year Budget process.",
+        "decision": "keep_pass1",
+        "chosen_value": "Approved, in principle, the list of initiatives and projects in Appendix A as those that will have business cases prepared for consideration of new funding through the 2016-2019 Budget process, and directed that no further action be taken on a review of budget priorities under the Standing Committees' Deferred Matters Lists.",
+        "quote": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+        "reason": "This id's 14-1 vote (nay Hubert) is the raw source's FIRST Motion block, which covers the combined a)+b) paragraph -- both clauses were voted on together. Pass2's whatAYeaDid drops clause b) entirely, understating what was actually carried. Separately, pass2's whatAYeaDid opens with the banned stance verb 'Endorsed' (convention explicitly bars Supported/Backed/Endorsed as an opening verb), a hard-rule violation pass1 avoids by opening with 'Approved'.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "236b05612e29",
+        "field": "quote",
+        "live_value": "the list of initiatives and projects attached as Appendix A, BE ENDORSED in principle as those that will have business cases prepared for consideration to receive new funding through the 2016-2019 Budget process",
+        "pass2_value": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+        "decision": "adopt_pass2",
+        "chosen_value": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+        "quote": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+        "reason": "Pass2's quote is the full verbatim a)+b) paragraph matching the actual combined 14-1 vote; pass1's quote covers only clause a), omitting the no-further-action clause b) that the same vote also carried.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: verified verbatim against raw source data/2015-09/2015-09-14 Strategic Priorities and Policy Committee item 4 content[0] -- pass2's quote matches the full a)+b) paragraph exactly, char-for-char (incl. non-breaking spaces). Pass1's quote covered clause a) only."
+    },
+    {
+        "id": "236b05612e29",
+        "field": "flags",
+        "live_value": [
+            "informational_ask"
+        ],
+        "pass2_value": [],
+        "decision": "adopt_pass2",
+        "chosen_value": [],
+        "quote": "That the following actions be taken with\n  respect to the Multi-Year Budget:\n \na)           \n  on\n  the recommendation of the Managing Director, Corporate Services and City\n  Treasurer, Chief Financial Officer, with the concurrence of the City Manager,\n  the list of initiatives and projects attached as Appendix A, BE\n  ENDORSED in principle as those that will have business cases prepared for\n  consideration to receive new funding through the 2016-2019 Budget process; it\n  being noted that the Managing Director, Corporate Services and City Treasurer,\n  Chief Financial Officer made the attached presentation with respect to\n  this matter; and\n \nb)           \n  NO\n  FURTHER ACTION BE TAKEN with respect to a review of the budget priorities in\n  relation to the various Standing Committee Deferred Matters Lists.",
+        "reason": "Neither clause is a report-back/information request: a) is an actual in-principle endorsement decision, b) is a decision to take no further action. 'informational_ask' mischaracterizes both; pass2's empty flag list is more accurate.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: clause a) is a substantive in-principle endorsement and clause b) a no-further-action decision (both on the same 14-1 vote, nay Hubert, matching _all-motions.json exactly) -- neither is a report-back/information ask, so pass1's 'informational_ask' flag was inaccurate; empty flags is correct."
+    },
+    {
+        "id": "315e74306859",
+        "field": "issue",
+        "live_value": "none",
+        "pass2_value": "budget",
+        "decision": "adopt_pass2",
+        "chosen_value": "budget",
+        "quote": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "reason": "This clause's own text explicitly names 'the budget priorities' under the Multi-Year Budget item; despite being a distinct re-vote from 236b05612e29, its subject matter is squarely the City's budget-priorities review process, supporting the 'budget' tag pass2 applied (polarity stays null either way -- declining a review is neither an approve nor deny of spending).",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: the motion's own quoted text ('a review of the budget priorities...') names the budget priorities review directly, supporting the 'budget' tag from the motion body itself; polarity correctly stays null."
+    },
+    {
+        "id": "315e74306859",
+        "field": "whatAYeaDid",
+        "live_value": "Carried a further, separately-recorded vote on part b) of the Strategic Priorities and Policy Committee's Multi-Year Budget report: that no further action be taken with respect to a review of the budget priorities in relation to the various Standing Committee Deferred Matters Lists.",
+        "pass2_value": "Declined to take further action reviewing the City's budget priorities in relation to the various Standing Committee Deferred Matters Lists, as part of the Committee's consideration of the Multi-Year Budget.",
+        "decision": "keep_pass1",
+        "chosen_value": "Carried a further, separately-recorded vote on part b) of the Strategic Priorities and Policy Committee's Multi-Year Budget report: that no further action be taken with respect to a review of the budget priorities in relation to the various Standing Committee Deferred Matters Lists.",
+        "quote": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "reason": "Raw source shows THREE Motion blocks under item 4: ordinal0 (14-1, combined a+b), ordinal1 (15-0, unanimous), ordinal2 (11-3, this id, isolating clause b) alone with its own distinct preceding Paragraph). Pass1's framing correctly explains why this id exists as a second, separately-recorded vote on the same clause b) already carried at ordinal0; pass2's phrasing is accurate but loses that structural context and both are otherwise equivalent in substance.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "315e74306859",
+        "field": "quote",
+        "live_value": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "pass2_value": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "decision": "keep_pass1",
+        "chosen_value": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "quote": "Motion to Approve that no further action be\n  taken with respect to a review of the budget priorities in relation to the\n  various Standing Committee Deferred Matters Lists.",
+        "reason": "Both passes' quotes are effectively the same text (pass1 drops the leading 'Motion to' as normalization); keeping the live, already-correct verbatim-matching value.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "57ce33577785",
+        "field": "whatAYeaDid",
+        "live_value": "Carried a Strategic Priorities and Policy Committee recommendation on the Province's review of transportation modes: requested the Mayor write to the Minister of Transportation regarding the Ontario Highway Transport Board and intercommunity transit competition, encouraged a regional transportation mobility plan for Southwestern Ontario, and commended the Province's pursuit of High Speed Rail connecting Toronto, Kitchener-Waterloo, London and Windsor.",
+        "pass2_value": "Carried a Strategic Priorities and Policy Committee recommendation on Provincial Transportation Modes (the Committee's own motion text was not captured in the source record).",
+        "decision": "keep_pass1",
+        "chosen_value": "Carried a Strategic Priorities and Policy Committee recommendation on the Province's review of transportation modes: requested the Mayor write to the Minister of Transportation regarding the Ontario Highway Transport Board and intercommunity transit competition, encouraged a regional transportation mobility plan for Southwestern Ontario, and commended the Province's pursuit of High Speed Rail connecting Toronto, Kitchener-Waterloo, London and Windsor.",
+        "quote": "That the following actions be taken with\n  respect to the Province of Ontario’s examination of the optimal use of\n  transportation modes across the province, including recommendations on\n  modernizing  and appropriately regulating the intercity bus regime to ensure\n  it remains an attractive and affordable travel option for Ontarians, as\n  expressed in the 2014/2015 Mandate Letter for the Ministry of Transportation:\n \na)         the\n  Mayor BE REQUESTED to submit a letter to the Minister of Transportation\n  requesting that the Minister include in the above-noted review, consideration\n  of the role  of the Ontario Highway Transport Board, with particular attention\n  to opportunities to increase competition and encourage enhanced\n  intercommunity public transit; \n \nb)         the\n  Minister of Transportation BE ENCOURAGED to complete a regional\n  transportation mobility plan for Southwestern Ontario ...; and,\n \nc)         the\n  Province of Ontario  BE ADVISED that Municipal Council commends the Province\n  of Ontario for taking leadership in moving towards High Speed Rail connecting\n  Toronto, Kitchener-Waterloo, London and Windsor...",
+        "reason": "Raw source (item 6) has this full a)/b)/c) Paragraph as content[0], directly preceding the bare 'Motion Passed' block carrying the matching 13-2 vote (nays Armstrong/Squire). Text is fully recoverable and accurately summarized by pass1; pass2's own verifierNote for this id even acknowledges 'the item's own preamble text is recoverable' while its structured fields still falsely claim no_text -- an internal inconsistency in pass2.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "57ce33577785",
+        "field": "quote",
+        "live_value": "the Mayor BE REQUESTED to submit a letter to the Minister of Transportation requesting that the Minister include in the above-noted review, consideration of the role of the Ontario Highway Transport Board, with particular attention to opportunities to increase competition and encourage enhanced intercommunity public transit",
+        "pass2_value": "Motion Passed",
+        "decision": "keep_pass1",
+        "chosen_value": "the Mayor BE REQUESTED to submit a letter to the Minister of Transportation requesting that the Minister include in the above-noted review, consideration of the role of the Ontario Highway Transport Board, with particular attention to opportunities to increase competition and encourage enhanced intercommunity public transit",
+        "quote": "That the following actions be taken with\n  respect to the Province of Ontario’s examination of the optimal use of\n  transportation modes across the province, including recommendations on\n  modernizing  and appropriately regulating the intercity bus regime to ensure\n  it remains an attractive and affordable travel option for Ontarians, as\n  expressed in the 2014/2015 Mandate Letter for the Ministry of Transportation:\n \na)         the\n  Mayor BE REQUESTED to submit a letter to the Minister of Transportation\n  requesting that the Minister include in the above-noted review, consideration\n  of the role  of the Ontario Highway Transport Board, with particular attention\n  to opportunities to increase competition and encourage enhanced\n  intercommunity public transit; \n \nb)         the\n  Minister of Transportation BE ENCOURAGED to complete a regional\n  transportation mobility plan for Southwestern Ontario ...; and,\n \nc)         the\n  Province of Ontario  BE ADVISED that Municipal Council commends the Province\n  of Ontario for taking leadership in moving towards High Speed Rail connecting\n  Toronto, Kitchener-Waterloo, London and Windsor...",
+        "reason": "Verbatim excerpt of clause a) from the recoverable source Paragraph, not the bare vote-result boilerplate pass2 quoted.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "57ce33577785",
+        "field": "flags",
+        "live_value": [],
+        "pass2_value": [
+            "no_text"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [],
+        "quote": "That the following actions be taken with\n  respect to the Province of Ontario’s examination of the optimal use of\n  transportation modes across the province, including recommendations on\n  modernizing  and appropriately regulating the intercity bus regime to ensure\n  it remains an attractive and affordable travel option for Ontarians, as\n  expressed in the 2014/2015 Mandate Letter for the Ministry of Transportation:\n \na)         the\n  Mayor BE REQUESTED to submit a letter to the Minister of Transportation\n  requesting that the Minister include in the above-noted review, consideration\n  of the role  of the Ontario Highway Transport Board, with particular attention\n  to opportunities to increase competition and encourage enhanced\n  intercommunity public transit; \n \nb)         the\n  Minister of Transportation BE ENCOURAGED to complete a regional\n  transportation mobility plan for Southwestern Ontario ...; and,\n \nc)         the\n  Province of Ontario  BE ADVISED that Municipal Council commends the Province\n  of Ontario for taking leadership in moving towards High Speed Rail connecting\n  Toronto, Kitchener-Waterloo, London and Windsor...",
+        "reason": "Text is recoverable from the preceding Paragraph, so no_text is false, as pass2's own verifierNote for this id concedes.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "57ce33577785",
+        "field": "verdict",
+        "live_value": "corrected",
+        "pass2_value": "confirmed",
+        "decision": "keep_pass1",
+        "chosen_value": "corrected",
+        "quote": "That the following actions be taken with\n  respect to the Province of Ontario’s examination of the optimal use of\n  transportation modes across the province, including recommendations on\n  modernizing  and appropriately regulating the intercity bus regime to ensure\n  it remains an attractive and affordable travel option for Ontarians, as\n  expressed in the 2014/2015 Mandate Letter for the Ministry of Transportation:\n \na)         the\n  Mayor BE REQUESTED to submit a letter to the Minister of Transportation\n  requesting that the Minister include in the above-noted review, consideration\n  of the role  of the Ontario Highway Transport Board, with particular attention\n  to opportunities to increase competition and encourage enhanced\n  intercommunity public transit; \n \nb)         the\n  Minister of Transportation BE ENCOURAGED to complete a regional\n  transportation mobility plan for Southwestern Ontario ...; and,\n \nc)         the\n  Province of Ontario  BE ADVISED that Municipal Council commends the Province\n  of Ontario for taking leadership in moving towards High Speed Rail connecting\n  Toronto, Kitchener-Waterloo, London and Windsor...",
+        "reason": "Pass1 correctly recovered real content missed by the base classifier; pass2's 'confirmed' rests on structured fields that contradict its own verifierNote.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "57ce33577785",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "low",
+        "decision": "keep_pass1",
+        "chosen_value": "medium",
+        "quote": "That the following actions be taken with\n  respect to the Province of Ontario’s examination of the optimal use of\n  transportation modes across the province, including recommendations on\n  modernizing  and appropriately regulating the intercity bus regime to ensure\n  it remains an attractive and affordable travel option for Ontarians, as\n  expressed in the 2014/2015 Mandate Letter for the Ministry of Transportation:\n \na)         the\n  Mayor BE REQUESTED to submit a letter to the Minister of Transportation\n  requesting that the Minister include in the above-noted review, consideration\n  of the role  of the Ontario Highway Transport Board, with particular attention\n  to opportunities to increase competition and encourage enhanced\n  intercommunity public transit; \n \nb)         the\n  Minister of Transportation BE ENCOURAGED to complete a regional\n  transportation mobility plan for Southwestern Ontario ...; and,\n \nc)         the\n  Province of Ontario  BE ADVISED that Municipal Council commends the Province\n  of Ontario for taking leadership in moving towards High Speed Rail connecting\n  Toronto, Kitchener-Waterloo, London and Windsor...",
+        "reason": "Content is unambiguously recovered and vote tally matches ground truth exactly, supporting medium confidence over pass2's low (based on the false no_text call).",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "fbd9667432d8",
+        "field": "whatAYeaDid",
+        "live_value": "Directed the Civic Administration to report back to a future Planning and Environment Committee meeting evaluating the impact of recent residential demolitions and new construction on Langarth Street East and Garfield Avenue against applicable planning policies, and to report back within 60 days with policy options — potentially including urban design guidelines, site plan review processes, public notification policies, or an interim control by-law — to keep new residential development consistent with surrounding neighbourhood character and scale.",
+        "pass2_value": "Directed the Civic Administration to report back to a future Planning and Environment Committee meeting evaluating the planning-policy impact of recent residential demolitions and new construction on Langarth Street East and Garfield Avenue, and to report back within 60 days with policy options (which could include an interim control by-law) to keep new residential development within existing neighbourhoods consistent with the surrounding character and scale.",
+        "decision": "keep_pass1",
+        "chosen_value": "Directed the Civic Administration to report back to a future Planning and Environment Committee meeting evaluating the impact of recent residential demolitions and new construction on Langarth Street East and Garfield Avenue against applicable planning policies, and to report back within 60 days with policy options — potentially including urban design guidelines, site plan review processes, public notification policies, or an interim control by-law — to keep new residential development consistent with surrounding neighbourhood character and scale.",
+        "quote": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+        "reason": "Both clauses a) and b) are accurately captured by pass1's summary and confirmed against the full source paragraph; no factual difference from pass2's version, so the live value stands.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "fbd9667432d8",
+        "field": "quote",
+        "live_value": "the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee providing an evaluation of the impact of recent residential demolitions and the subsequent new construction on Langarth Street East and Garfield Avenue with respect to applicable planning policies",
+        "pass2_value": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+        "decision": "adopt_pass2",
+        "chosen_value": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+        "quote": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+        "reason": "Pass2's quote is the full verbatim a)+b) paragraph exactly as recovered from source; pass1's quote truncates after clause a), omitting the report-back deadline and policy-options clause b) that whatAYeaDid itself describes.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: verified verbatim against raw source data/2015-09/2015-09-15 MINUTES 25TH MEETING item 14 content[0] -- matches exactly including clause b). Pass1's quote truncated after clause a)."
+    },
+    {
+        "id": "fbd9667432d8",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "high",
+        "decision": "adopt_pass2",
+        "chosen_value": "high",
+        "quote": "That the following actions be taken with\n  respect to recent and future residential development:\n \na)         the\n  Civic Administration BE DIRECTED to report back to a future meeting of the\n  Planning and Environment Committee providing an evaluation of the impact of\n  recent residential demolitions and the subsequent new construction on\n  Langarth Street East and Garfield Avenue with respect to applicable planning\n  policies (such as but not limited to: demolition permits, lot severances, lot\n  coverage area, side and rear lot proximity, streetline setbacks,  infill and\n  intensification, design/character/massing); and,\n \nb)         the\n  Civic Administration BE DIRECTED to report back to the Planning and\n  Environment Committee, within 60 days, providing policy options which may\n  include, but not limited to,  urban design guidelines, public site plan\n  review processes, public notification policies or an interim control by-law\n  that could be immediately implemented to ensure that new residential\n  development, within existing neighbourhoods, is appropriate, consistent and\n  complementary to the character and scale of the surrounding neighbourhood.",
+        "reason": "Direct cross-check confirms the full a)+b) text is recoverable verbatim and the 14-1 vote (nay van Holst) matches _all-motions.json exactly, supporting pass2's higher confidence rating.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: vote 14-1 (nay van Holst) confirmed exact match to _all-motions.json and full a)+b) text verbatim-recovered from source -- high confidence justified over pass1's medium."
+    },
+    {
+        "id": "7e0ff4d22e7a",
+        "field": "issue",
+        "live_value": "none",
+        "pass2_value": "housing",
+        "decision": "adopt_pass2",
+        "chosen_value": "housing",
+        "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "reason": "This failed clause is part of item 7, 'Property located at 1255 Kilally Road (OZ-8500)' -- an Official Plan/zoning amendment application from Multi-Family Residential to Commercial -- and this specific sub-motion concerns site-plan requirements for 'development adjacent to residential areas.' Directly tied to a residential rezoning application, supporting pass2's 'housing' tag (polarity stays null regardless -- it's an informational ask that also failed).",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: the failed clause's own text explicitly addresses 'development adjacent to residential areas', supporting the 'housing' tag from the motion body itself (not merely item context); polarity correctly stays null since the motion FAILED and was an informational ask."
+    },
+    {
+        "id": "7e0ff4d22e7a",
+        "field": "whatAYeaDid",
+        "live_value": "Would have requested the Civic Administration to review and report back to a future Planning and Environment Committee meeting on the Site Plan Control By-law's requirements for development adjacent to residential areas — addressing noise, lighting, traffic, and parking — and to recommend any changes to better mitigate development impacts.",
+        "pass2_value": "Failed to direct the Civic Administration to review and report back to a future Planning and Environment Committee meeting on how the Site Plan Control By-law's requirements apply to development adjacent to residential areas (citing noise, lighting, traffic, and parking concerns), as part of the Committee's consideration of the Kilally Shopping Centre Inc. application at 1255 Kilally Road.",
+        "decision": "keep_pass1",
+        "chosen_value": "Would have requested the Civic Administration to review and report back to a future Planning and Environment Committee meeting on the Site Plan Control By-law's requirements for development adjacent to residential areas — addressing noise, lighting, traffic, and parking — and to recommend any changes to better mitigate development impacts.",
+        "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "reason": "This motion FAILED 2-3; the suite convention requires FAILED motions to hedge with 'Would have <action-verb>...'. Pass1 correctly hedges; pass2 opens with 'Failed to direct...', violating the required hedge form. Pass1's content (including the 'recommend any changes' clause) is also already complete and accurate.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "7e0ff4d22e7a",
+        "field": "quote",
+        "live_value": "That the Civic Administration BE REQUESTED to review and report back to a future meeting of the Planning and Environment Committee regarding the current requirements set out in the Site Plan Control By-law as they relate to development adjacent to residential areas, noting concerns such as noise, lighting, traffic, and parking",
+        "pass2_value": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "decision": "adopt_pass2",
+        "chosen_value": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "reason": "Pass2's quote is the fuller verbatim text matching the raw source exactly (including the 'and recommend any recommend changes...' closing clause); pass1's quote truncates before that clause.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: verified verbatim against raw source data/2015-09/2015-09-21 Planning and Environment Committee item 7, the Paragraph immediately preceding the failed Motion block (rollCallOrdinal 3, vote 2-3) -- pass2's quote matches exactly, including the final 'and recommend any recommend changes...' clause pass1's quote dropped."
+    },
+    {
+        "id": "7e0ff4d22e7a",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "high",
+        "decision": "adopt_pass2",
+        "chosen_value": "high",
+        "quote": "Motion to move “That the Civic\n  Administration BE REQUESTED to review and report back to a future meeting of\n  the Planning and Environment Committee regarding the current requirements set\n  out in the Site Plan Control By-law as they relate to development adjacent to\n  residential areas, noting concerns such as noise, lighting, traffic, and\n  parking, and recommend any recommend changes that will ensure that the\n  impacts of development are mitigated to the greatest extent possible.”",
+        "reason": "Full text and 2-3 vote (yeas Cassidy/Helmer; nays Squire/Turner/Hubert) are confirmed verbatim against the raw source and _all-motions.json, supporting the higher confidence rating.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: vote 2-3 (yeas Cassidy/Helmer; nays Squire/Turner/Hubert) confirmed exact match to _all-motions.json and full text verbatim-recovered -- high confidence justified over pass1's medium."
+    },
+    {
+        "id": "ece905a1d696",
+        "field": "whatAYeaDid",
+        "live_value": "Carried a Community and Protective Services Committee recommendation on Vehicles for Hire - New Technologies: requested the Civic Administration report back in January/February 2016 on licensing regulations (fares, e-hail technologies, fee structures, and recent jurisprudence), and directed it to seek confirmation from the Financial Services Commission of Ontario on the availability of insurance products for Transportation Network Companies and their drivers.",
+        "pass2_value": "Carried a Community and Protective Services Committee recommendation on Vehicles for Hire - New Technologies (the Committee's own motion text was not captured in the source record).",
+        "decision": "keep_pass1",
+        "chosen_value": "Carried a Community and Protective Services Committee recommendation on Vehicles for Hire - New Technologies: requested the Civic Administration report back in January/February 2016 on licensing regulations (fares, e-hail technologies, fee structures, and recent jurisprudence), and directed it to seek confirmation from the Financial Services Commission of Ontario on the availability of insurance products for Transportation Network Companies and their drivers.",
+        "quote": "That the following actions be taken with\n  respect to Vehicles for Hire - New Technologies:\n \na)         on\n  the recommendation of the Managing Director, Development and Compliance\n  Services and Chief Building Official, the Civic Administration BE REQUESTED\n  to report back to the Community and Protective Services Committee in\n  January/February 2016 on licensing regulations including, but not limited to:\n  i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee\n  structures; and, iv) recent jurisprudence related to vehicle-for-hire\n  technology apps; ... and,\n \nb)         the\n  Civic Administration BE DIRECTED to seek confirmation from the Financial\n  Services Commission of Ontario of the approval and availability of insurance products\n  for \"Transportation Network Companies\" and their drivers...",
+        "reason": "Raw source (2015-09-22 Community and Protective Services Committee, item 9) has this full a)+b) Paragraph as content[0], directly preceding the sole Motion block. Text is fully recoverable; pass2's verifierNote claim of 'no preceding Paragraph' is factually contradicted by the raw source.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "ece905a1d696",
+        "field": "quote",
+        "live_value": "the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee in January/February 2016 on licensing regulations including, but not limited to: i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee structures; and, iv) recent jurisprudence related to vehicle-for-hire technology apps",
+        "pass2_value": "Voting Record: Motion Passed",
+        "decision": "keep_pass1",
+        "chosen_value": "the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee in January/February 2016 on licensing regulations including, but not limited to: i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee structures; and, iv) recent jurisprudence related to vehicle-for-hire technology apps",
+        "quote": "That the following actions be taken with\n  respect to Vehicles for Hire - New Technologies:\n \na)         on\n  the recommendation of the Managing Director, Development and Compliance\n  Services and Chief Building Official, the Civic Administration BE REQUESTED\n  to report back to the Community and Protective Services Committee in\n  January/February 2016 on licensing regulations including, but not limited to:\n  i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee\n  structures; and, iv) recent jurisprudence related to vehicle-for-hire\n  technology apps; ... and,\n \nb)         the\n  Civic Administration BE DIRECTED to seek confirmation from the Financial\n  Services Commission of Ontario of the approval and availability of insurance products\n  for \"Transportation Network Companies\" and their drivers...",
+        "reason": "Verbatim excerpt of clause a) from the recoverable source Paragraph, not the bare 'Voting Record: Motion Passed' boilerplate pass2 quoted.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "ece905a1d696",
+        "field": "flags",
+        "live_value": [
+            "informational_ask"
+        ],
+        "pass2_value": [
+            "no_text"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [
+            "informational_ask"
+        ],
+        "quote": "That the following actions be taken with\n  respect to Vehicles for Hire - New Technologies:\n \na)         on\n  the recommendation of the Managing Director, Development and Compliance\n  Services and Chief Building Official, the Civic Administration BE REQUESTED\n  to report back to the Community and Protective Services Committee in\n  January/February 2016 on licensing regulations including, but not limited to:\n  i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee\n  structures; and, iv) recent jurisprudence related to vehicle-for-hire\n  technology apps; ... and,\n \nb)         the\n  Civic Administration BE DIRECTED to seek confirmation from the Financial\n  Services Commission of Ontario of the approval and availability of insurance products\n  for \"Transportation Network Companies\" and their drivers...",
+        "reason": "Text is recoverable (see quote), so no_text is false; clause a) is a report-back request, supporting informational_ask.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "ece905a1d696",
+        "field": "verdict",
+        "live_value": "corrected",
+        "pass2_value": "confirmed",
+        "decision": "keep_pass1",
+        "chosen_value": "corrected",
+        "quote": "That the following actions be taken with\n  respect to Vehicles for Hire - New Technologies:\n \na)         on\n  the recommendation of the Managing Director, Development and Compliance\n  Services and Chief Building Official, the Civic Administration BE REQUESTED\n  to report back to the Community and Protective Services Committee in\n  January/February 2016 on licensing regulations including, but not limited to:\n  i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee\n  structures; and, iv) recent jurisprudence related to vehicle-for-hire\n  technology apps; ... and,\n \nb)         the\n  Civic Administration BE DIRECTED to seek confirmation from the Financial\n  Services Commission of Ontario of the approval and availability of insurance products\n  for \"Transportation Network Companies\" and their drivers...",
+        "reason": "Pass1 correctly recovered real content the base classifier missed; pass2's 'confirmed' rests on a false claim that no preceding Paragraph exists.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "ece905a1d696",
+        "field": "confidence",
+        "live_value": "medium",
+        "pass2_value": "low",
+        "decision": "keep_pass1",
+        "chosen_value": "medium",
+        "quote": "That the following actions be taken with\n  respect to Vehicles for Hire - New Technologies:\n \na)         on\n  the recommendation of the Managing Director, Development and Compliance\n  Services and Chief Building Official, the Civic Administration BE REQUESTED\n  to report back to the Community and Protective Services Committee in\n  January/February 2016 on licensing regulations including, but not limited to:\n  i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee\n  structures; and, iv) recent jurisprudence related to vehicle-for-hire\n  technology apps; ... and,\n \nb)         the\n  Civic Administration BE DIRECTED to seek confirmation from the Financial\n  Services Commission of Ontario of the approval and availability of insurance products\n  for \"Transportation Network Companies\" and their drivers...",
+        "reason": "Content is recoverable and clause a)/b) text matches source verbatim, supporting medium confidence over pass2's low (based on the disproven no_text claim).",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld: decision was already keep_pass1 (live/committed pass1 value, unchanged); not independently re-verified beyond the adjudicator's stated reasoning (which is internally consistent with the quote embedded in this row). No new claim is being introduced, so left upheld per the 'unconfirmed defaults to keep_pass1' rule."
+    },
+    {
+        "id": "2fa14af9b57c",
+        "field": "whatAYeaDid",
+        "live_value": "Voted 10-5 on a sub-motion under Clause 9 (Vehicles for Hire - New Technologies) of the Community and Protective Services Committee's report; the source record's own text field for this specific roll call captured only an unrelated procedural aside (a mid-meeting change of Chair), not the sub-motion's operative content.",
+        "pass2_value": "Recorded a procedural note, with a divided (10-5) roll call attached, that Mayor M. Brown temporarily vacated the Chair, seating Councillor P. Hubert in his place, from 8:36 PM to 8:38 PM, before resuming the Chair himself; the source names no substantive matter this roll call decided.",
+        "decision": "keep_pass1",
+        "chosen_value": "Voted 10-5 on a sub-motion under Clause 9 (Vehicles for Hire - New Technologies) of the Community and Protective Services Committee's report; the source record's own text field for this specific roll call captured only an unrelated procedural aside (a mid-meeting change of Chair), not the sub-motion's operative content.",
+        "quote": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "reason": "In the raw source, the Motion block immediately BEFORE this one ('Approve a further amendment to clause 9, to add a new part c)...', the substantive TNC-licensing amendment) carries an empty vote (0 yeas/0 nays), while THIS id's block carries the chair-change narrative paired with a real 10-5 roll call -- strong evidence the vote data is shifted/misattached rather than genuinely belonging to a 2-minute chair handoff, which would not warrant a formal divided roll call. Pass1's hedge is the safer, more honest treatment; pass2 asserts as fact that 5 named councillors voted nay on the chair swap itself, which the adjacent empty-vote anomaly does not support.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): verified against raw source data/2015-09/2015-09-29 MINUTES 26TH MEETING item '2#4' (Vehicles for Hire clause 9 amendments) -- the Motion block immediately preceding the chair-handoff Paragraph ('Approve a further amendment to clause 9, part c)', the TNC-licensing content) carries a genuinely EMPTY vote (vote.rows == []), while the chair-handoff Paragraph is itself paired with the real 10-5 vote that exactly matches this id's ground truth. This confirms an actual vote/text misalignment in the source. Pass1's no_text hedge is the honest, safe treatment; pass2's confident 'procedural' reattribution of 5 named nay votes to a 2-minute chair swap is not supported by the data. No bolder, safely-assertable reattribution exists, so no missed improvement beyond the existing hedge."
+    },
+    {
+        "id": "2fa14af9b57c",
+        "field": "quote",
+        "live_value": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "pass2_value": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "decision": "keep_pass1",
+        "chosen_value": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "quote": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "reason": "Both passes quote the same verbatim source text (whitespace-only difference); retaining the live value since it already matches source exactly.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): both passes quote the same verbatim chair-handoff text; retaining it is correct regardless of the vote-misalignment question, since it is what precedes this id's actual vote block in source order."
+    },
+    {
+        "id": "2fa14af9b57c",
+        "field": "flags",
+        "live_value": [
+            "no_text"
+        ],
+        "pass2_value": [
+            "procedural"
+        ],
+        "decision": "keep_pass1",
+        "chosen_value": [
+            "no_text"
+        ],
+        "quote": "At 8:36 PM  Mayor M. Brown places Councillor\n  P. Hubert in the Chair and takes a seat at the Council board.\n \nAt 8:38 PM  Mayor M. Brown resumes the\n  Chair and Councillor P. Hubert resumes his seat at the Council board.",
+        "reason": "Given the adjacent empty-vote block strongly suggesting a vote/text misalignment bug, treating this as a resolved 'procedural' matter overclaims certainty; no_text is the safer, more honest flag pending the operative content this vote actually decided.",
+        "checkVerdict": "upheld",
+        "checkNote": "upheld (spot-check): given the confirmed empty-vote anomaly on the adjacent TNC-amendment block, treating this id's content as a settled 'procedural' matter (pass2) overclaims certainty; no_text remains the safer, honest flag."
+    }
+]

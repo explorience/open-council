@@ -894,5 +894,201 @@
   "polarity": "expansive",
   "quote": "That Initiative 22 of Business Case 7A (Capital), Create new housing units with supportive living arrangements, in the amount of $5,000,000 BE APPROVED.",
   "reason": "Business-case initiative approved with $5,000,000  explicitly stated in its own operative text ('BE APPROVED'/'BE ADOPTED') -- new spending added against the tabled budget: expansive."
+ },
+ {
+  "id": "0a84d6e43c9f",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "the one-time funding for this service, in the amount of $200,000 for the 2015/2016 period from the Operating Budget Contingency Reserve BE APPROVED; and iii) the ongoing funding for this service in the amount of $200,000 per fiscal year BE ADDED to the base budget",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-09/2015-09-29 MINUTES 26TH MEETING item 9#2."
+ },
+ {
+  "id": "0c30f077fc2c",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Approve that the portion of the Service Improvement Capital Forecast for 2020-2025 as it pertains to Protective Services (clause 3 g) v)) in the amount of $47,500,000 BE ADOPTED.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-03/2016-03-10 MINUTES SEVENTH MEETING item VIII."
+ },
+ {
+  "id": "0c6fca33c872",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve one-time funding in the amount of $3,600 for Hutton House for the acquisition of iPads.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-01/2015-01-29 Strategic Priorities and Policy Committee item 2."
+ },
+ {
+  "id": "315cfab18d40",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve that a $100,000 interest free loan BE PROVIDED to the Palace Theatre with staff to identify, and report back prior to the budget finalization, with a source of funding.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-01/2015-01-29 Strategic Priorities and Policy Committee item 2."
+ },
+ {
+  "id": "3316568b4a62",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "the net 2016-2019 Multi-Year Operating Budget for Corporate Planning and Administration BE APPROVED in the amount of ($104,000); it being noted that $500,000 in savings has been moved from 2019 to 2018; it being further noted that the overall reduction to the original proposed budget remains at $4,000,000.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-01/2016-01-29 Strategic Priorities and Policy Committee item 2."
+ },
+ {
+  "id": "34973459c907",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve part 2e)ii) with an increased allocation to Parks and Urban Forestry in the amount of $675,000 in 2015; for a total 2015 allocation of $12,042,000.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-01/2015-01-29 Strategic Priorities and Policy Committee item 2."
+ },
+ {
+  "id": "3856232251fc",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the Operating Budget (Appendix A, Page 29): A) the revised 2018 tax levy BE ADOPTED in the gross amount of $920,361,272 and in the net amount of $579,532,227 after recognizing $7,063,000 of increased taxation from assessment growth",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2017-12/2017-12-12 MINUTES FIRST MEETING item 6#6."
+ },
+ {
+  "id": "3b020e746c62",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve one time funding for the London Middlesex Immigrant Employment Council (LMIEC) in the amount of $18,009 to be funded from the Economic Development Reserve Fund; it being noted that future funding request would be eligible for consideration as part of the multi-year budget process.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-01/2015-01-29 Strategic Priorities and Policy Committee item 2."
+ },
+ {
+  "id": "5d99011dc1f3",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the Operating Budget (Appendix A, Page 29): “B) the revised 2019 forecasted tax levy BE ADOPTED in the gross amount of $940,096,979 and in the net amount of $597,656,613.”",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2017-12/2017-12-12 MINUTES FIRST MEETING item 6#6."
+ },
+ {
+  "id": "5e0222ee6f46",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That $120,000 BE ALLOCATED in the 2015 operating budget for the purpose of the creation of two professional internships (12 month placement of foreign-trained individuals) and the associated Business Case BE FORWARDED to the 2016-2019 Budget Planning Process.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-01/2015-01-29 Strategic Priorities and Policy Committee item 3."
+ },
+ {
+  "id": "6677a004a95c",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Approve that the Strategic Investments Budget as it pertains to Business Case #25 – Brownfields Community Improvement Program (Reinstate Brownfield Contamination Assessment Study Grant Program) (clause 3h)xxv)) in the total amount of $80,000 as submitted BE ADOPTED; it being noted that the Strategic Priorities and Policy Committee received an Added Business Case with respect to this matter.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-03/2016-03-10 MINUTES SEVENTH MEETING item VIII."
+ },
+ {
+  "id": "97e473005c2b",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to Approve funding for part f) as follows: $100,000 Net (2017) $100,000 Net (2018) $100,000 Net (2019); it being noted that the source of financing for the above-noted years will be the Economic Development Reserve Fund and will, therefore, have no tax levy impact.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-11/2016-11-24 26TH REPORT OF THE (2017 BUDGET) item 2."
+ },
+ {
+  "id": "a7b84bce7c1b",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to Approve funding for part e) as follows: $258,000 (Net) 2017 $323,000 (Net) 2018 $389,000 (Net) 2019; it being noted that $258,000 in each year would be drawn down from the Social Housing Major Repairs Reserve Fund for each of the three years; with the balance of the 2018 and 2019 amounts being funded from the tax base.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-11/2016-11-24 26TH REPORT OF THE (2017 BUDGET) item 2."
+ },
+ {
+  "id": "cb4b380a2aa8",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That a pro-rated sum of $50,000 BE MADE available, in 2015, to the Middlesex-London Health Unit, on the conditions that: a) their Board approves and establishes an expansion to its dentistry program by hiring an additional dentist(s); and b) they agree to report back on the success of the program in January of 2016.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2015-02/2015-02-19 Strategic Priorities and Policy Committee item 21."
+ },
+ {
+  "id": "d2e611c2c977",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Approve that the Strategic Investment related to Business Case #14 – Ontario Works Service Plan – Low Income Support Enhancement (clause 3h)xiv)) in the amount of $2,080,000 BE ADOPTED; it being noted that $500,000 will be from the Levy and $1,580,000 from other sources.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-03/2016-03-10 MINUTES SEVENTH MEETING item VIII."
+ },
+ {
+  "id": "d90faeae83b4",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "Approve that portion of the net 2016-2019 Multi-Year Operating Budget for Corporate, Operation and Council Services (clause 2 j)ii)) in the amount of ($104,000 BE ADOPTED; it being noted that $500,000 in savings has been moved from 2019 to 2018; it being further noted that the overall reduction to the original proposed budget remains at $4,000,000.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-03/2016-03-10 MINUTES SEVENTH MEETING item VIII."
+ },
+ {
+  "id": "e0d6999bf7bb",
+  "axis": "levy-size",
+  "polarity": "restrictive",
+  "quote": "a total expenditure of up to $2,527,275 in municipal brownfield financial incentives BE APPROVED and allocated under the following two programs in the Community Improvement Plan (CIP) for Brownfield Incentives.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2017-04/2017-04-24 Planning and Environment Committee item 15."
+ },
+ {
+  "id": "e19ed483d1db",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Approve that the portion of the net 2016-2019 Multi-Year Operating Budget for Protective Services (clause 2g)iii)) as it pertains to Corporate Security and Emergency Management in the amount of $7,213,000 BE ADOPTED.",
+  "reason": "Quote is the row's own classify-layer quote, verified verbatim (substring) against the motion's full source text at months/2016-03/2016-03-10 MINUTES SEVENTH MEETING item VIII."
+ },
+ {
+  "id": "0b279766e41c",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to Approve that Business Case #11 –\n  Service London Implementation Plan BE APPROVED as follows:\n \n            Total Budget: $3,947,000\n \n            Funding:          $1,744,000      (Levy)\n                                    $1,603,000      (Debt)\n                                    $  \n  600,000      (Efficiency, Effectiveness and Economy                                                             Reserve\n  Fund)\n \nit being noted that the Managing Director,\n  Neighbourhood, Children and Fire Services provided the attached\n  presentation with respect to this matter.",
+  "reason": "Full source paragraph (classify layer's own quote elided the leading 'Motion to Approve that' and a trailing noted-clause; this is the verbatim paragraph text): Business Case #11 (Service London Implementation Plan) approved at a $3,947,000 Total Budget with $1,744,000 from the tax levy -- new spending, passing is expansive."
+ },
+ {
+  "id": "133f2b206968",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That, in accordance with section 291(4)(a)\n  and 291(4)(b) of the Municipal Act, 2001, as amended, the following\n  forecasted Capital Budget changes for the 2020-2025 period, representing a\n  $19.6 million increase in the Capital Budget, BE APPROVED in principle\n  (subject to annual review):\n \nLIFECYCLE RENEWAL:\n \na)         Public Art Restoration $1,014,000\n            (Case #8)\n \nb)         Vehicle & Equipment\n  Replacement ($1,038,000)\n            (Case #10)\n \nc)         Library Capital Plan ($820,000)\n            (Case #11)\n \nd)         Covent Garden Roof Replacement $350,000\n            (Case #11)\n \ne)         Replace Firefighter Equipment ($110,000)\n            (Case #11)\n \nf)          Police Equipment $1,308,000\n            (Case #12)\n \ng)         Replace Police Vehicles $540,000\n            (Case #12)\n \nh)         London Transit Highbury Facility\n            Demolition and Rebuild $15,000,000\n            ($15M 2022-2025; $30.6 M beyond\n            (Case #13)\n \n \nGROWTH:\n \ni)          Northwest Library\n            (deferred from 2019 to 2020) $4,704,000\n            (Case #14)\n \nj)          Transportation Growth Projects\n            (2020-2025 impact of changes) $1,188,000\n            (Case #16)\n \nk)         New Fire Station #15\n            (deferred from 2019 to 2020) $3,886,000\n            (Case #17)\n \nl)          New Spray Pads–increased\n  funding $52,000\n            (Case #17)\n \nm)        Transportation Growth Projects\n            (advanced/deferred projects) ($8,266,000)\n            (Case #17)\n \nSERVICE IMPROVEMENT:\n \nn)         Glen Cairn and Farquharson\n  Arenas ($1,290,000)\n            (Case #20)\n \no)         Relocate Resources for \n            Fire Station #16\n            (deferred from 2019 to 2020) $3,102,000\n            (Case\n  #20)",
+  "reason": "Full source paragraph for the $19.6M package of 2020-2025 Capital Budget changes BE APPROVED in principle, part i) of which (GROWTH, item i) is Northwest Library (deferred from 2019 to 2020) $4,704,000 (Case #14) -- new capital spending, passing is expansive."
+ },
+ {
+  "id": "2ce9b0c30e4f",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve a reduction in the\n    amount of $500,000 for 2j)iv), for a 2015 allocation to Financial Management\n    (Base Budget) of $94,236,000",
+  "reason": "This row's own $94,736,000 caption ('Motion to approve the Financial Management Budget in the amount of $94,736,000') is present in the raw source JSON but only as text appended to a Nays: voter-list string (a scraper artifact of this era -- confirmed against the raw JSON, see this row's verifierNote), so it is not findable via full_motion_texts(). Quoted here instead is the sibling $500,000-reduction amendment paragraph ('...for a 2015 allocation to Financial Management (Base Budget) of $94,236,000'), captured cleanly: $94,236,000 + the $500,000 being reduced = $94,736,000, confirming this (failed) motion's own pre-reduction figure was the higher amount -- passing it would have been expansive relative to either reduction alternative."
+ },
+ {
+  "id": "5d09f101f7c3",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve a reduction in the\n    amount of $500,000 for 2j)iv), for a 2015 allocation to Financial Management\n    (Base Budget) of $94,236,000",
+  "reason": "This row's own $94,736,000 caption ('Motion to approve the Financial Management Budget in the amount of $94,736,000') is present in the raw source JSON but only as text appended to a Nays: voter-list string (a scraper artifact of this era -- confirmed against the raw JSON, see this row's verifierNote), so it is not findable via full_motion_texts(). Quoted here instead is the sibling $500,000-reduction amendment paragraph ('...for a 2015 allocation to Financial Management (Base Budget) of $94,236,000'), captured cleanly: $94,236,000 + the $500,000 being reduced = $94,736,000, confirming this (failed) motion's own pre-reduction figure was the higher amount -- passing it would have been expansive relative to either reduction alternative."
+ },
+ {
+  "id": "8472d08a14e3",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to approve a reduction in the\n    amount of $500,000 for 2j)iv), for a 2015 allocation to Financial Management\n    (Base Budget) of $94,236,000",
+  "reason": "This row's own $94,736,000 caption ('Motion to approve the Financial Management Budget in the amount of $94,736,000') is present in the raw source JSON but only as text appended to a Nays: voter-list string (a scraper artifact of this era -- confirmed against the raw JSON, see this row's verifierNote), so it is not findable via full_motion_texts(). Quoted here instead is the sibling $500,000-reduction amendment paragraph ('...for a 2015 allocation to Financial Management (Base Budget) of $94,236,000'), captured cleanly: $94,236,000 + the $500,000 being reduced = $94,736,000, confirming this (failed) motion's own pre-reduction figure was the higher amount -- passing it would have been expansive relative to either reduction alternative."
+ },
+ {
+  "id": "421b53c17032",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "That the following actions be taken in\n  accordance with section 291(4)(a) and 291(4)(b) of the Municipal Act, 2001,\n  as amended, with respect to the Operating Budget Amendments:\n \na)           \n  the\n  following “permanent” expenditure and revenue changes to the 2017-2019\n  Operating Budget BE APPROVED: \n \nEnergy Prices – New\n  Cap and Trade Program (Case #1):\n            \n            $0 Net (2017)\n            $0 Net (2018)\n            $100,000 Net (2019);\n \nb)           \n  the\n  following “permanent” expenditure and revenue changes to the 2017-2019\n  Operating Budget BE APPROVED:\n \nCarrying/Holding\n  Costs on City-Owned Properties (Case #2):\n$300,000 Net (2017)\n$300,000 Net (2018)\n$400,000 Net\n  (2019);\n \nc)           \n  the\n  following “permanent” expenditure and revenue changes to the 2017-2019\n  Operating Budget BE APPROVED: \n \n            Updated Debt Servicing Budget\n  (Case #3):\n            \n            ($300,000) Net (2017)\n            ($300,000) Net (2018)\n            ($300,000) Net (2019);\n \nd)         the\n  following “permanent” expenditure and revenue changes to the 2017-2019\n  Operating Budget BE APPROVED: \n \nUpper Thames River\n  Conservation Authority – Environmental Targets Strategic Plan (Case #4):\n \n$179,000\n  Net (2017)\n$179,000 Net (2018)\n$179,000 Net\n  (2019);\n \n            it\n  being noted that notwithstanding the City of London’s Assessment Growth\n  Policy, $179,000 would be financed from 2017 assessment growth on a permanent\n  basis;    \n \nit being noted that\n  the Strategic Priorities and Policy Committee received the attached\n  presentation from I. Wilcox, General Manager/Secretary-Treasurer, UTRCA, with\n  respect to this matter;\n \ne)         the\n  following “permanent” expenditure and revenue changes to the 2017-2019\n  Operating Budget BE APPROVED:\n \n            London\n  & Middlesex Housing Corporation (LMHC) – Building Maintenance and Tenant\n  Services (Case #5):\n \n$258,000 (Net) 2017\n  \n$323,000 (Net) 2018\n$389,000 (Net)\n  2019;\n \nit being noted that\n  $258,000 in each year would be drawn down from the Social Housing Major\n  Repairs Reserve Fund for each of the three years; with the balance of the 2018\n  and 2019 amounts being funded from the tax levy;\n \n \n \n\n  it being further noted that the Strategic Priorities and Policy Committee\n  received the attached presentation from J. Browne, Chief Executive Officer,\n  LMHC, S. Campbell, Board of Directors, LMHC, and S. Quigley, Board of\n  Directors, LMHC, with respect to this matter;\n \nf)         funding\n  BE ALLOCATED in the amount of $100,000, in each of 2017, 2018 and 2019, from\n  the Economic Development Reserve Fund, for the \nCommunity Economic\n  Roadmap Implementation (Case #6); it being noted that this will have no tax\n  levy impact; and\n \ng)         consideration\n  of Business Case #7 - Housing Development Corporation – Additional Investment\n  In Affordable Housing Development BE REFERRED for consideration at such time\n  as the 2016 Surplus report is brought forward from the Managing Director,\n  Corporate Services and City Treasurer, Chief Financial Officer.",
+  "reason": "Full source paragraph for part d) of the 2017-2019 Operating Budget Amendments BE APPROVED: UTRCA Environmental Targets Strategic Plan (Case #4), $179,000 net in each of 2017/2018/2019 -- new recurring spending, passing is expansive."
+ },
+ {
+  "id": "f26992018b5d",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Motion to Approve funding for part d) as\n  follows:\n \nUpper Thames River\n  Conservation Authority (UTRCA) – Environmental Targets Strategic Plan (Case\n  #4):\n$179,000 Net (2017)\n$372,000 Net (2018)\n$580,000 Net\n  (2019);",
+  "reason": "Full source paragraph for the sibling UTRCA funding motion (Case #4) at the higher $179,000/$372,000/$580,000 net figures for 2017/2018/2019 -- new recurring spending, passing is expansive."
+ },
+ {
+  "id": "812ff98fffc3",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "i)             \n  That\n  the following Multi-Year Budget adjustments to the Operating Budget resulting\n  from new Council direction and cost/revenue drivers impacting the\n  municipality BE APPROVED; it being noted that the 2016-2019 average annual\n  tax levy increase would remain at 2.8%:\n \nD)        Dundas\n  Place – Ongoing Place Management\n            (Case\n  #4)\n            $0\n  Net (2018)\n            $375,000\n  Net (2019)",
+  "reason": "Full source paragraph, part D) of the Multi-Year Operating Budget adjustments BE APPROVED: Dundas Place - Ongoing Place Management (Case #4), $0 net 2018, $375,000 net 2019 -- new spending in 2019, passing is expansive."
+ },
+ {
+  "id": "a3979e755fad",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "i)          That\n  the following Multi-Year Budget adjustments to the Operating Budget resulting\n  from new Council direction and cost/revenue drivers impacting the\n  municipality BE APPROVED; it being noted that the 2016-2019 average annual\n  tax levy increase would remain at 2.8%:\n \nB)         Councillors’\n  Annual Compensation (Case #2):\n            $0 Net\n  (2018)\n            $245,000\n  Net (2019)",
+  "reason": "Full source paragraph, part B) of the Multi-Year Operating Budget adjustments BE APPROVED: Councillors' Annual Compensation (Case #2), $0 net 2018, $245,000 net 2019 -- new spending in 2019, passing is expansive."
+ },
+ {
+  "id": "cba38e766224",
+  "axis": "levy-size",
+  "polarity": "expansive",
+  "quote": "Approve that the Strategic Investments Budget as it pertains to Business Case\n  #18 – “Back to the River Project” (clause 3h)xviii) BE ADOPTED in the amount\n  of $700,000 in 2016 to complete the necessary environment assessment to be\n  funded by the London Hydro dividend; and $5,000,000 to be identified in the\n  Economic Development Reserve Fund for completion of the Inaugural Project,\n  with the funding to be released upon finalization of the Environment\n  Assessment, confirmation and Council approval of project costs and\n  confirmation of any external sources of financing; it being noted that the\n  Strategic Priorities and Policy Committee received additional information\n  with respect to this business case.",
+  "reason": "Full source paragraph (the classify layer's own quote truncated the trailing noted-clause): Business Case #18 'Back to the River Project' BE ADOPTED at $700,000 (2016, London Hydro dividend-funded) plus $5,000,000 identified in the Economic Development Reserve Fund -- new spending, passing is expansive."
  }
 ]
