@@ -449,4 +449,407 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:37 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (1 hour, 28 minutes)</summary>
+
+Good afternoon, everyone. Call the seventh meeting of the infrastructure and corporate services committee to order. Please check the city website for additional meeting information. The city of London is situated on the traditional lands of the Anishinaabak, the Haudenosaunee, Linawampak, and Al-Adwandran.
+
+We honor and respect the history, languages, and culture, the diverse indigenous people who call this territory home. The city of London is currently home to many first nations, MÃ©tis, and Inuit today. As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. Currently, in terms of committee members, we have myself, Councillor Frank, Councillor Stevenson, Councillor Ploza online, okay, and we're waiting on Councillor Ben Mirbergen.
+
+In terms of visiting Councillors, we have Councillor Traszok, Councillor Ferrera, Councillor Pribble, and Councillor Hiller. Okay. The City of London is committed to making every effort to provide alternate formats and communication supports for meetings upon request. To make a request specific to this meeting, please contact ICSC@london.ca or 519-661-2489, extension 2425.
+
+Looking forward disclosures of community or interests. Okay, seeing none online. We'll move into consent items. Do you have requests for 2.8 and 2.9 to be pulled ?
+
+We'll deal with those in deferred matters. So looking for a motion to move 2.1 to 2.7.10, 2.11, 2.12, unless there are any other poll requests, not seeing them. So I would look for those items I just mentioned to be moved for a mover. Councillor Frank, I'll second.
+
+Okay. Those are on the floor. And Councillor McMillan, I just joined us. Any discussion on those items?
+
+Looking for committee members first, Councillor Frank, go ahead. Thank you. Just on item 2.2, in regards to the recycling services, I want to thank staff for coming back with this so quickly. As you can see from one letter, And there'll be a couple of others coming forward that there's a lot of small businesses who are impacted by this and I think they'll appreciate some other options as we've outlined.
+
+And I just was wondering through the chair to staff if we've heard any additional feedback I know in the report there was the letter from staff that had gone to the province and their response essentially was that we're allowed to go and pick it up ourselves if we felt like it. I'm just wondering if we had heard any other feedback at this point from the province in in regards to allowing non-eligible sources to participate in the same recycling system. Believe Miss Chambers, that's you. Go ahead when you're ready.
+
+Thank you and through the chair. I was just trying to find the letter that we received in the province. It was dated March 13th, 2026, and we've received no further information since then to suggest other programs would emerge. Followed, Councillor.
+
+Thank you, yes. Then I suppose we'll continue to do our best to advocate. I think that being able to have the non-eligible sources picked up with the rest of the residential curbs ide makes the most efficient sense. But again, appreciate the work staff are doing to try and bridge that gap.
+
+Thank you, Councillor Stevenson. Go ahead. Thank you. I had a question on 2.1 and it was really just a general question.
+
+I remember earlier in the term receiving a report that showed the over budget amounts on by project and I don't I don't recall seeing that recently. I just wondered when the last time council would have been advised on over budget projects and/or when we might see that. Go ahead, Mr. Chair.
+
+Thank you, Mr. Chair. If there's a request for additional funding, it would be included in this report. So last year, we did have a couple of projects that required additional funding approval and they would have been included as part of this reporting out.
+
+And the remainder of the reporting on our capital projects with respect to their overall budgets is included in the mid-year and end-of-year capital monitoring, one of which is before you today. Hello, Councilor. Yeah, thank you for that. And so do you recall what report I'm thinking of where we had the projects listed and several of them said that they were over budget one by one just so that we'd be able to track what was originally budgeted and what the total cost was?
+
+Go ahead, Ms. Chair. Thank you, Mr. Chair.
+
+So if we were requesting additional funds, if individual reports for each project would have accompanied the report today because we are not, there are no reports to that matter. With respect to the status of all of our projects , that would be captured in the mid-year capital monitoring. We have not prepared a separate report listing all projects and their financial status. So we would only report out if we require money beyond our contingency within our approved budget .
+
+And we would have made that request today. I think we had two or three last year that required a small additional amount of funding a couple of the year before. At this time, we have a couple we're monitoring, but we are not asking for any additional funding beyond what has been previously approved. Okay, thank you for that.
+
+On 2.2, can you just remind me? I thought we saved quite a bit of money with the change in the blue box recycling. And I just wondered, is there an annual savings with the province taking it over? Go ahead, Mr.
+
+Chairman. Thank you and through the chair. As of mid-July, 2023, we've saved approximately three to four million dollars per year. It kind of depends on how many recyclables we have going forward.
+
+That money though, given the timing, our green bin program rolled out January 1st, 2024 at about $5 million a year. So anything offset for recycling, we basically put towards green bin. So we don't have additional savings at this time. Budget now reflects.
+
+It's all been rectified there. Follow up, Councillor. Thank you. Were those unexpected costs for the green bin or did we reduce those and then end up with a surplus?
+
+Go ahead, Mr. Amers. Thank you and to the Chair. The $5 million is just the cost to run the green bin program annually.
+
+There's no additional cost. That's just the cost it is to run it. I guess the point I'm getting to is that when it comes to just recycling, we saved three to four million dollars a year. We'd already budgeted five million dollars a year for the green bin.
+
+So I just wondered, was there any consideration of using the three to four million in savings to then provide service to the businesses and the ones that were going to be impacted here? Go ahead, Mr. Chair. Thank you, Mr.
+
+Chair. The funding for the green bin and the blue bin savings were, sorry, the funding for the The blue bin reduction when the province took over that program was given up in the budget at that time. We had not at that point identified the restriction for the non-eligible sources as that was actually only announced later last year. We did as part of multi-year budget last year give up the remaining funding for the non- eligible source blue bin program.
+
+We had previously managed as it would have been insufficient for a citywide program which would be substantially more money and would require new funding ask. All out, Councillor? Yeah, just one on this and that is, but that net amount that isn't big enough to cover the recycling, is that because a good chunk of it went to offset the green bin? Go ahead, Mr.
+
+Chair. Mr. Chair, the funding that previously was given up in large for the blue bin was removed from our budgets and that funding was no longer available. There was a small amount of funding, still funding the NES that we had retained with the expectation we would be able to continue to offer a commingled service on the routes that were residentially picked up by the provincial pros and that we would simply fund that service for the businesses receiving it previously.
+
+It was late last year that that funding was no longer required because we were not allowed to pay the provincial processors and collectors through that. So that money was returned to its original source which would have been used offset increases in the mill rate last year. Okay, thanks. That's helpful to have that just overall summary because this is a really big issue for our businesses.
+
+You know, a lot of them are committed to doing the recycling. They wanna do it and they really don't have the time or the money to do this properly. Putting it in the garbage hurts a lot of them to do that. And I don't think it helps us either with our landfill goals.
+
+So again, maybe I guess just one more follow up on that is what are next steps for the businesses? Like are we looking at potentially for the next multi-year budget, providing services to businesses, or is it just advocacy to the province on this? Mr. Edwards, Mr.
+
+Chair, what do you wanna take on? Thank you, Mr. Chair. At this time, it would be very difficult to offer a city-wide service for the approximately 21 to 2 ,200 small businesses that could be eligible.
+
+We previously had serviced about 535 businesses because they were on our residential routes. Because we're no longer allowed to combine the stream for collection and processing, there's no longer geographic reason to only support those businesses, we would have to roll it out to all of their competitors who would be of similar sort of size and scale. Managing a program throughout the entire city, which is extremely dispersed, would be quite difficult. New businesses start up frequently, they close frequently as well.
+
+So the administrative side of trying to manage a citywide program would be quite high. If council wishes us to explore that, we would be happy to bring back a business case, but it will be well over a million dollars to do that. With respect to the 535 that could easily be re accommodated, should we be allowed to put them back in? If there were changes from the province allowing that comming going to happen again, they could be serviced for a much smaller amount.
+
+If they could be, if we could simply pay for them to be collected with the residential blue bin. So at this time, our focus is on providing the opportunity at the Enviro Depot's, adding the green bin service and continue to advocate for more flexibility on the inclusion of non-eligible sources on residential routes. I'll hope Councilor. No, that's good.
+
+Thank you for the summary. Like I said, it's helpful. Okay, thank you. Just noting Mayor Morgan, you have joined us.
+
+2.8 and 2.9 were pulled, but you did put up your hand. So I'll go to you and looking for other committee members that they wanna speak first. So go ahead, Mayor Morgan. Sure, thanks.
+
+I'll add my voice to the previous comments that Councilor Frank and Councilor Stevenson made about the ending of the Blue Box program. As colleagues know, the reason why we did this is it made a lot of sense. We were driving by anyways. We ran the program.
+
+We contracted out to Miller Waste Services. They're driving by churches, small businesses. And why wouldn't we stop and pick it up? It's not a huge incremental cost in our part.
+
+Given we don't run the Blue Box program anymore, we don't contract the trucks . And Miller Waste essentially has been directed by circular materials Ontario to only pick up from residential sources, to me the easiest solution is there are trucks driving by already. They're they're not directed by us anymore. And there's an advocacy piece here with the province which has been a very pro-business friendly government I think to have a meaningful conversation with them to say there's probably lots of communities where this could make a lot of sense.
+
+The costs are very incremental and I think there 's a fair discussion to have with I think a province that is relatively willing to listen to say you've got trucks driving by anyways now through circular materials Ontario they've got all the existing contracts they could just as easily service these 535 businesses in our city and others maybe across the province by making a stop and picking it up so I'm certainly happy to continue that advocacy piece and engage within discussions with the province on that. I agree with our staff like us then to constitute a program for just those 535 businesses would now be we're developing a whole new program for just a section of the city, it probably makes sense that we would develop it for 2100 businesses and that is going to be something that would be a fairly substantial budget cost. So, you know, I think the path here as an intern step to allow some drop-offs even though it isn't convenient, it is fair to help them transition. Ultimately, the best solution here is the truck's driving by making extra stop and pick up some extra materials as we were doing when we ran the service.
+
+So, I'm happy to engage in that advocacy. I'm happy to have colleagues support me in that. I know we'll have an AMO conference coming up. We'll probably have lots of ability to have side conversations with ministers.
+
+But any interim, I think that there is a really easy solution here and that's do what we were doing. Pick it up on the way by and help the businesses out when the residential routes are being collected anyway still. Okay, thank you, Mayor Morgan. Not seeing any other hands from committee members .
+
+I have Councillor Trosto for ARA and Pribble. So go ahead, Councillor Trosto. You go first. Just to make the bottom line really short here, I think we're all on the same page.
+
+I think we all want to support this. What's happened is really unacceptable. It's outside of our control. We're doing the best that we can.
+
+Back in November, this came to the CAHPS committee and we instituted the sort of a chain of events that resulted in the staff report we received back today, which was, it wasn't accepted unanimously, but it was accepted by the council and here we are. So I just want to say as a member of that original CAHPS committee that sent this off, was ultimately dealt with by two different committees 'cause we had a change in committee jurisdiction. But I think we're all saying the same thing. But one thing I would like to request though is you stayed in the staff report that you did send that advocacy letter to the province and they did respond by rejecting our request.
+
+And I wanna be really specific that we've already done that and it would be helpful to have that letter. 'Cause I think there's a little bit of confusion when we say we should do some advocacy work. We've already tried doing that. We should step it up and do it again.
+
+So I agree. However, what's the problem here is the text of the Oreg, of the regulation that says there has to be separate source for the recyclables. And I have yet, and I think everyone would agree, we've yet to be provided with any type of sort of rationale justification from the province as to why that provision remains in the regulations and that's what's causing the problem with being able to pick these things up as we go along. So I think that this is just something we'll have to follow up on.
+
+I think the mayor is quite correct when he says maybe we can work with some other cities who are similarly situated at AMO. But all in all, my main point here today is thank you so much to the staff for getting this back to us so quickly. And I think that we have a very good solution for the green bin and I think we have a very good solution to the blue box. But I think it's important that we recognize that those are two different policy problems with different sets of rules.
+
+But I think we've done the best we can do here and I'll be supporting this at council. Thank you. Okay. Thank you, Councillor.
+
+Councillor Ferri, go ahead. Thank you. And I guess in tune with the last comments, I appreciate staff's work on this. I know you moved really quick on it, especially when we knew what circular materials were was going to come out with, and it was going to be a producer-led responsibility.
+
+But then late in the game, we kind of found out that there was going to be a whole swath of non-eligible sources that wouldn't be coming through with that. I remember the conversation I was having with Ms. Chambers and Ms. Share on this and what we would do to move forward.
+
+So I do appreciate this report coming through. I in line with what the mayor was saying, I think our first conversation was, so the Miller waste trucks are driving by these locations, picking up residential eligible sources and skipping the eligible sources. the first part of that conversation was about the economy's scale, like it doesn't really make sense to me. So I do hope that the advocacy on that would be able to at least pick those up because the trucks are already there.
+
+And it would be much cheaper if the trucks would be able to just pick that up. And then however it works down on the back end. But with this, with this, I guess, direction coming forward, like I appreciate the work that you've done. I do hear what businesses are saying, you know, like, you know, there's still that gap of how we're going to, we're going to have to bring these materials to the Enviro-Depos now, but I do see that we're trying to work with something that will bring at least some type of option forward.
+
+So I do appreciate everything. What Councillor Trussell said, I agree with the regulations and just kind of how that splits it up. Maybe that could be a conversation that could be had as well. So I'm not going to go all over those points, but I do want to ask some questions that I saw with the report, and I do see with the Enviro Depot recycling pilot portion itself.
+
+I guess when we compare it to what I read about the green pin, the green bin part, there's going to be mailouts that are going out to the potential eligible sources for the green bin recipients. But I didn't necessarily see that for the Enviro Depot pilot project, so I just wanted to know from staff, how are we going to contact potential eligible, non-eligible sources that they may be eligible for this project? Mr. Chambers, go ahead.
+
+Thank you, and through the chair. Yes, we did have the addresses already for the 5 35, through previous work we've done, so of course they can receive a letter. But as far as the Depot drop off, we'll be working with our communications department to basically spread the word. So that's the plan at this moment, is to do it that way through public communications and just say, "Hey, small business owners, check if you qualify and you can bring your recyclables." Because technically those folks haven't had really a recyclable option at all previously.
+
+So we'll just try to do it through a word of mouth. Follow up, Councillor. Okay, thank you for that. So if I have businesses reaching out, which I do, and they're requesting if they would be eligible or not.
+
+I would be okay to just forward that off to staff and see if staff can see if they're eligible or not. Go ahead Ms. James. Thank you and through the chair yes you would be able to contact our staff and we'll confirm that they're eligible we'll have to register them as such as well.
+
+All of Councilor. Okay thank you for that and will there be another staff report coming back I guess before or during the rollout or soon after the rollout just to see I I guess how many of the non-eligible sources were able to plug into this project on both sides ? Go ahead, Mr. Chairman.
+
+Thank you and through the chair. Yes, the report back is somewhat implied in the fact that we're doing the pilot. So we're using the pilot to inform more or less the next multi-year budget process because at this moment we don't know how many participants there are, therefore we don't really know the cost going forward beyond this coming year. So there will be another report going forward.
+
+It may just form a business case is part of the budget though. Go ahead, Councillor. Thank you for that. And I guess it's implied that the green bin portion will go on into continuity moving forward, but the Enviro Depot portion is supposed to end at the end of 2027.
+
+So if we are successful with the province, then this pilot project ends, and then we are able to, I guess, have the Circulars Material Ontario program pick that up. And if not, I guess that would be another conversation it had. So I just wanted to know, my confirming question would be really is the green bin is gonna be continued and the environmental depo section, I guess, depending on how things go, we'll have to go from there. Go ahead, Mr.
+
+Chairman. Thank you, Mr. Chair. So the green bin program is expected to continue as it's much like the previous recycling program we were offering where the trucks are already going by.
+
+We have care and control over the contract for organics. so as well within our abilities to pick up those 535 businesses. So that will continue on beyond, there's no pilot, it can just be implemented. For those who are interested, they can reach out to us and we'll get them on board.
+
+With respect to the other item of the non-eligible sources for businesses, they will see what happens to your point. We'll continue with this pilot. We'll be reporting back on the business case. If anything changed with the province, definitely we can pivot.
+
+There's no question about that and would welcome that going back to the 535 curbside for sure if the waste could be co-ming led with the Oreg being updated basically. Follow-up Councilor. Okay thank you for that no follow-ups I appreciate the answers I guess some comments it seems that we are all aligned here so I appreciate the work that we've done so far I would obviously like to capture more of the non-eligible sources than we have right now but this is at least something moving forward and I'm hoping that we have some success with the province so we can capture everybody or all the entities that were I guess removed from this program who want to be you want to be part of it so I'll be and I appreciate the work and thanks again to staff. Okay, thank you, Councilor Perbal.
+
+You're next, go ahead. Thank you, Chair. And so to the staff, I'll start with 2.1, the Sunningdale Road West. And I just want to ask in the report, it says $24 million, and we did receive, and if we can confirm it, $18 million from the province.
+
+And I just wanna have a couple of questions. Is the 18 on top of the 24, is the 18, including the 24 and how it's recorded in terms of the funding of this project. Councilor, you said San Angel, do you mean myself? No, San Angel 2.1, a renew 2.1.
+
+Oh, within that problem, sir. Yeah, within that, sorry. It's on page 22. Yeah, staff, Mr.
+
+McCrae, is that you? Through the chair, those dollar values are exclusive. We'll have detailed financial information on that project when it comes to tender, which is anticipated. and I believe the next council cycle.
+
+I love council. Thank you for that. So just to confirm, let's say if it ends up being 24 from province 18, so that would be six from municipal funding, correct? If those amounts are accurate.
+
+Go ahead, Ms. Runcray. Yeah, can I recommend that we talk offline? I just don't want to misquote any dollar values.
+
+Yeah, I'd be pleased to clarify the information with you after the meeting. Council so you can follow up to you now Council. And I certainly will do so. Thank you.
+
+Thank you 2.2. Very happy to of course, very happy to see that there are small businesses now that when I talk to them, they are not recycling and everything ends up being in the garbage bags. So I do have a question though in terms of the downtown because downtown didn't have the program before in the past. Is this going to be potentially an option for downtown businesses as well to do do the Enviro Depot or is it gonna be just the ones that have been so far lost on the program that were on it before?
+
+I go ahead Ms. Chambers. Thank you and through the chair. The Depot program will actually be open to all businesses citywide.
+
+So there is a bit of an improvement there that actually everyone will have access to a drop off location for folks who are willing to go there. I will note just for reference, as I could have mentioned this earlier, the small businesses were generating maybe about 300 tons annually and our whole annual collections usually around 21,000 tons. So it just gives you a bit of order of magnitude everyone about kind of how much we're losing. Not that we want to lose anything, but just that in terms of the cost benefit aspect .
+
+Okay follow up, Councillor. Okay, follow up actually. And I'm going to go back, I think by page 39. And there were some municipalities that actually are continuing this occur.
+
+And if I understand this appendix correctly, there are some municipalities that are actually continuing is the program and to kind of follow up with them how they do it in terms of the both kind of the calendar in terms of the collection and also the funding. Go ahead, Mr. Chairman. Thank you and to the chair.
+
+We did do quite a bit of homework on what other municipalities were doing. A lot of them are offering different programs. For example, in Ottawa, all of the businesses pay for their garbage collection. So they've kind of just added that on as an additional fee that they'll pay for their recycling.
+
+We've had other people that just went with extending services as part of existing service contracts. So they were kind of already doing things like this, Hamilton, St. Thomas. They were already offering these types of services.
+
+So other municipalities operate their administration differently as the short answer. So in some cases it might make more sense than others. In the couple examples of the report we noted, it 's their choice to do it at a higher cost. We don't know of the timeline that those municipalities are willing to pay that extra cost but again when we look at that kind of magnitude of one to two million dollars again to capture maybe 300 tons that's a lot of the reason why we're not really recommending it for this very very dispersed program.
+
+Hello Councill or. Okay thank you for that answer 2.4 the South Stale Road West and there's an increase of 50 percent and I know it states there in the report what it's for or the reasoning but I want to ask you is this because originally the Southdale sector are we enlarging it the project or is it something that we kind of after we started this we decided to go with the slope stability improvement environmental storm water so I just want to if it was additional asks we had for the 50 percent or even in large the South dale sector. Go ahead, Mr. McRae.
+
+Through the chair, there are infrastructure needs outside of the limits of the original project. It's been on our minds to address these because it's affecting the road stability. So now that we have additional information to address that section, we are expanding the limits of the South Dale Road project to address those issues at the same time for better coordination with the Southdale Road project. So that is the bulk of the addendum and then included in that is the other items but the major reason is expanding the limits to address all the needs in the area.
+
+Follow up Councillor. Okay thank you for that answer and last one 2.6. It's a project to projects and it states there if I were to correctly that it's part of the renew project of when I looked at it, the Edinburgh Street and vital path and country lane. They were not included there.
+
+And my question is, are all the projects included in the 2.1 or that potentially some smaller amount once that are not included? Thank you. Mr. McRae.
+
+Sorry, through the chair. Just to give you a little bit of clarity on the question of the smaller projects. This is awarding the resident inspection and contract administration for two of our capital projects going on, and this award is for those two projects. Okay, does that answer your question, Councillor?
+
+No, actually, so in 2.1, we have the entire program, 2.6, and if I read it correctly, it states that both of them are part of the which is 2.1. But I went to 2.1. I did not find them there. So that's my question kind of if in the 2.1, all are included, or it's just in 2.1 certain aspects of the projects included.
+
+Thank you. Mr. Chair, you're going to go ahead. Thank you, Mr.
+
+Chair. 2.1 highlights our top 10 projects that are being delivered in 2026. There are dozens of other smaller infrastructure and new projects throughout the city. City, those have been contained in the ward maps.
+
+We've shared with you, but if you want more information on any of them, please reach out. We're happy to provide it. Okay, Councilor, any other questions? Thank you for that.
+
+And I don't need any additional information. Thank you. Okay, thank you. And yes, those ward maps are always very helpful.
+
+Great for town halls. Looking for first-time speakers, before we do a second round, okay. Not seeing any online. Councilor Stevenson, you wanted to go again.
+
+I did, yeah. I just wanted to circle back on 2.2, because, you know, I hear us saying, well, the trucks are going past anyway, the province would only let us pick up the other stuff that would be great but for whatever reason they've made it clear they're not going to do that and they could very easily come back to us and say we saved you 3.4 million a year by taking over the blue box. Why don't you just take care of your businesses for a million dollars a year? You could even expand it from what I understand from the 500 businesses to all 2100 or 2200 for just over a million.
+
+So when we look at the issues that are facing our city and our small businesses are really struggling. And they're struggling for all kinds of reasons, some within our control, some without. And there's not, we don't have many avenues to help them. But this could potentially be a way to relieve some costs or some service delivery issues that they're having by addressing this blue box need.
+
+It meets so many of the things we say are important in this city. And so I struggle with going back to businesses and saying, the province saved us three to four million a year on blue box, but we already put our money to our mill rate. And so sorry, we're just going to have to let you suffer with this. So I, when people say we're all on the same page, I mean, it's hard to say no to what's before us, but it's really like a little more than nothing.
+
+Like I don't know how many businesses are going to be excited about driving out there to drop off. Not charging them. absolutely support. But I really feel like this fall short of what we could would should do as a council to support businesses.
+
+We have an unemployment rate highest in the country. Our small businesses are big employers here. A lot of people. Well, it's my rationale for saying I think that we could do a lot better for our businesses here and maybe that's something and that could come through our economic development or maybe when we're talking about that strategy, but I don't think that we should leave it here.
+
+Like, this is fine for now, but I hope we're not gonna leave it here. I hope we're gonna come up with something really great. Okay, thank you, and you're at time. Okay, I don't think staff need to respond to that if you've put forward your proposal.
+
+Looking for other Councillors for speaking, Councillor Trosto, go ahead. I just wanna say, I think we are getting very close to being on the same page. and I do think that this is to say that this is almost meaningless. I think really undermines a lot of the good work that staff has done and the fact that we're trying to reach a compromise here when this was sort of divided at council and to say that it's meaningless or almost meaningless I think is really unfair.
+
+What I will say is that passing this does not preclude us from making an additional determination that we want to spend more money. I don't think I think that would be considered something that needs reconsideration. I think that would be additive to what we're passing here. And I would certainly be very happy to look at that.
+
+But it is going to require some additional budgetary commitment that perhaps we couldn't have made today. What's so elegant about this proposal that's in front of us is that it's already been budgeted for and we're not asking for any additional expenditures. And I think that's what makes the staff recommendation doable right now. But again, to address your concern, yes, we could be doing more.
+
+And I think we're going to have to see how this plays out with the province, because I think it's an absolutely arbitrary and unreasonable regulation for them to, I mean, what gets mixed in with recyclables. The worst thing I've ever heard is cheese on pizza boxes. And that's not really at play here. We're talking about shoe boxes and I know the opt ometrists have boxes for vision materials, but this isn't really a good place for us to be.
+
+So let's just stay together on this and then we 'll take the next step and figure out if we need to do a multi-year budget business case to expand on this, which I'd be all for. Thank you. Okay. Thank you, Councillor Trusso.
+
+Councillor Ferra, go ahead. Thanks. I just wanted to, I guess, touch on that too. with when we talk about like the economies of scale, like the first conversation we had was, we would have to have a whole collection system with trucks, with operators picking them up at these specific individual locations within the city.
+
+And the money with that alone would be astronomical from the conversations I've had with staff on it. On top of that, we would have to have it on the back end actually go to the sites to be collected there as well. So when we talk about economies of scale, like the cost that we have, that we see that we've been talking about here, it's much higher than that if we were to actually implement that entire system and that system would be overlapping with the system that we have right now. It would be much wiser, more prudent, to advocate to the province and have the province see if they would be able to pick up those non-eligible sources in residential areas when they're already there with the trucks because that would be much more cost efficient in moving forward.
+
+This is giving us a bridge to get there. Obviously, I would like to see pickups from the locations either to Enviro Depot's or either to our collection sites. But at the same time, how much does that cost if we were to implement that on top of the system that we have right now? So I think this is a good path forward.
+
+It does give us a bridge. It does give us some time. It does provide an opportunity. But at the same time, I know staff have looked into the cost when it comes to the actual operators, collection trucks coming in and picking all that up.
+
+And that would be a huge, huge amount. So this is why this report, and I would say this is a way moving forward. like obviously this is not the best of it all and I would like to see it be better but we do need some time to figure that out and I think the first approach would be-- Point of order, Mr. Chair.
+
+Okay, point of order, go ahead. I believe the council already made these comments in their first round of speaking. I think we're just getting a little bit redundant as we're close to a vote. Yeah, he has five seconds left.
+
+So if you wanna spend, go ahead. I'm just saying I think this bridges us to that point and speaking with the provinces, the first right move to do. Thank you, Councilor. I'm not seeing any others.
+
+I do myself just have two quick questions with regards to 210 and 212. Just in terms of obviously we're waiting on some amendments part of this motion for 210 anyways is to give staff that authority to continue those discussions. But even with 212, I'm just wondering, are there any cost implications in terms of the province not having these things ready for us? Obviously we have to wait until they send us things and we'll be given an update.
+
+but are to 210 if we have any costs that we incur because of that. And with 212, I mean, we're still waiting for information, but do we have any indication as to when we get more details about that? I don't know who on staff wants to crack at that, but we'll keep someone. Go ahead, Mr.
+
+Murray. Thank you. And through you, Mr. Chair, I'll speak to 2.10 being the Court Security and Prisoner Transportation Program.
+
+So that is a program that is the responsibility and police. It is included in the police budget. And this funding is simply flow through funding that the city then turns around and provides to the London Police Service as an offset to the cost that they have already budgeted in their budget for this program. Okay, and we are in terms of the other parts of this motion.
+
+This is just giving the authorization for staff to conclude those agreements when we get those amendments, correct? That is correct. The approval here is the the authorization to execute the agreement and then to execute any required financial reporting under that. Okay, thank you.
+
+And with regards to 212, just in terms of, do we have any indication when we get more information about the Bio-Ontario Act and how that will impact municipalities? Go ahead, Ms. Berbon. Is that you?
+
+I don't know, you looked at me, so I wasn't sure if that was you or who do we have? Okay, go ahead. It's through the chair. I'll pass that over to Ms.
+
+Aurora. Thank you through the chair, yes. We will wait for the, we will leverage the train ings which are available right now. We'll be available starting from May 4th till May 13th from the province.
+
+And then we'll be reporting back to council on any other additional resources or changes, amendments of the controls. We'll have to put it in our procurement process, even the designs, changes and how it'll impact the complete procurement lifecycle. Thank you. Okay, and sorry, just to my earlier question, terms of whether any cost implications for that.
+
+Do we envision any of those yet or if the province can eat indication as to us having to absorb those? Thank you through the chair. Yes there will be cost implications in terms of resources as well as designing and evaluating the major goods reporting requirements from the province and total procurement lifecycle costing change orders so yes there will be some cost implications. And thank you and any indication as to whether they will be providing any funding or is that something we just absorb?
+
+Thank you through the chair. There is no indication there will be any resources to go along other than some of the guidance that might come through by Ontario. It's still early days. It's a little hard for us to estimate what the, excuse me, the total cost could be, but certainly as we get any information will provide reports back to council and committee as we hopefully get some more details than very shortly.
+
+Thank you, and I appreciate the responses from staff. I know we don't have all the details, but I still thought it was important that we mention that just 'cause down the road we'll have more coming back to us. So thank you for that. Again, looking for any other comments.
+
+This is on items 2.1 to 2.7, 2.10 to 2.12. Okay, I'm not seeing any other hands. We'll open that for voting. closing the vote, motion carries, six to zero.
+
+Okay, thank you. We do not have scheduled items items for direction in terms of deferred matters. There were the two that were pulled. We have 2.8, 2.9.
+
+We'll just deal with those separately. So I'll put 2.8 on the floor, looking for a mover and a seconder. Councillor Frank, thank you. I'll second it.
+
+So 2.8 is on the floor. Going ahead for questions. Councillor Stephens, you had this bullet, go ahead. Yes, thank you.
+
+So I did have a couple of questions on this one. The contributions to the Reserve Fund, that the Social Services Reserve Fund and the Affordable Housing Renewal Reserve Fund in B and C, has this been done before, or is this something new? Go ahead, Ms. Murray.
+
+Thank you, three, Mr. Chair. So these are new, this is the first time that you're seeing these. And I would characterize these as a function of not having the plumbing in place, if you will, to be able to actually do these going forward at this point.
+
+So the London Regional Employment Services is a fairly new service that the city provides. And this is the first year that we have achieved the targets for the realization of incentive funding. So that's the funding here in question and recommendation B. So this is the first year that we're dealing with it.
+
+The intention is to set that money aside to reinvest in the employment system and to utilize the social services reserve fund in order to do it. However, we do not have administrative authority to contribute to that reserve fund for this purpose as it currently stands. So that's why it is included as a separate recommendation for council's approval. Similarly, the properties, the affordable housing properties, specifically Sylvan in question here in part C.
+
+These are fairly new properties. This is very early on in their lifecycle, and this is the first opportunity that we've had to contribute a net surplus from this property to ultimately reinvested in the future lifecycle renewal needs of our affordable housing bills. So I once again, not something that we have the administrative delegated authority to do that contribution to that reserve fund currently. So that's why it is for council's approval as part of recommendation C.
+
+Okay, follow up, Councilor. Yeah, thank you. So are we looking at changing the policies going forward? Go ahead, Ms.
+
+Mary. Thank you, three, Mr. Chair, yes. The intention would be to then, as part of our Reserve Fund Housekeeping Annual Report, to bring forward the necessary changes to facilitate this process going forward.
+
+Should Council approve? Thank you, go ahead, Councilor. Thank you. The reason I really struggle with this is a couple of years ago, when we had property tax increases of eight and 7 %, and we had $50, $60 million surpluses, When we as a committee or council tried to say, hey, could we use some of this money for other things, similarly to what's being done here, 11 and a half million for shelters and now a half a million here and quarter of a million there, we were strongly cautioned against that for reasons that are still true today, as far as I understand.
+
+So I'm just wondering, like I said, if I go back and watch those meetings from a couple of years ago, we tried really, really hard to keep some of that money to address needs that taxpayers have. And now in 2026, we are doing just that and we're expanding it even more. Beyond the shelter things that the mayor did, now we're talking about other surpluses going into reserve funds. And the question would be why this, why not garbage?
+
+Why couldn't the three or $4 million in surplus have gone to a garbage reserve fund that we could have then used for things related to that. So can you just help me understand why there's this change that's happened in the last couple of years and how expanded is this going to be or could council and the public weigh in on other things that they would like to see? Ms. Barbone, Ms.
+
+Marie, go ahead. Yeah, no, thank you, and three, Mr. Chair. So what I would say is there has been no change.
+
+This does not represent a change. We still, in general terms, have a surplus deficit policy that guides the allocation of any or the disposition of any year-end surplus or deficit. These are very specific things, so as it relates specifically to recommendation B , I'll emphasize that this is a regional service. This is not specifically a London taxpayer- specific service.
+
+This is a service that supports not only London and Middlesex, but also Elgin and Oxford as well as an entire catchment area. and the intention here is to reinvest these funds in the overall catchment area. So this is not funds that are being sent aside to benefit London taxpayers specifically, it is to reinvest in the regional system. Recommendation C is in keeping with the strategy that was articulated by our municipal housing development team.
+
+I believe it was back in December with respect to the future plans to reinvest any net surplus as it pertains to the baseline Thompson and Sylvan properties. That report I believe specifically focused on baseline primarily, but the intention is the same for Thompson and Sylvan as well. So that we have the funds set aside to down the road, rehabilitate and renew those specific properties when they require renewal. Oh, Councillor.
+
+Yeah, I have a lot, but I'll take them offline. On page 81, it talks about the total forecasted expenditures continue to exceed funding allocations beyond 2027, and that's with regards to social services. And I just wondered if we could know more about that, or will there be a report coming as March 2027 as the only year away? Go ahead, Ms.
+
+Murray. Through you, Mr. Chair. So I will refer you to the same page, in fact, right before that, you're a little bit up from that paragraph that you're referring to.
+
+Our intention is to, as part of our mid-year budget monitoring report that we'll be coming later this year to provide some further detail and quantification where we can have some of those pressures and kind of give you a, or attempt to give you a more fulsome picture of what those pressures look like over the months and years ahead. Follow-up, Councillor? Yeah, thank you and that's great. I know we talked about that and I'm looking forward to it, but we've got requests coming to council next week terms of 20,000 a month and 85,000 a month for outreach and daytime services when we don't know if we're going to have shortfalls in shelter beds or you know that kind of thing.
+
+So I feel like it's a little bit more urgent when I read something like this in a report and we're going to make funding decisions next week. The other question is on the financial summary on page 82, we get very high level amounts like financial management as a $203 million a year budget corporate social community services is 344 million corporate services 80 million and I don't recall ever seeing a line by line for any of those areas like I can see for police or library or any of the other ones that have statements so when was the last time the public and council got to see a line by line for any of these. I don't know. Who wants to take that one, Mr.
+
+Murray? Three, Mr. Chair. So the results as it relates to the monitoring positions have consistently been reported at the service grouping level, which is what you see here.
+
+The next level down, the service level, that budget information is reported and available online through our budget documents and our open data portal. However, the monitoring has been consistently kept at the service grouping level. Followed, Councillor? Yeah, thank you.
+
+So the budgets that are available, does it all also have the actuals? Do we get to see the var iances line by line? Through you, Mr. Chair, no, it is strictly the budgets.
+
+It does not include actuals. Hey, follow-up? Yeah, and so I guess my question was, when was the last time the public or council got to see a line by line variance for any of these big departments? Thank you, Mr.
+
+Chair, I'm going back many, many years here. The size of the budget binders once upon a time did have that information. As the City of London has continued to grow, the size of the line by lines has also grown. So the number of lines are beyond the thousands and thousands of information.
+
+That's why it's summarized because the actual line by line and the level of detail detail is so sufficiently low in our financial statement would be very challenging to reproduce and be very challenging to provide any summary information to the public that would be useful because it would be too low a detail and have titles that would not provide any information. So certainly, at least since well before 2015, the information has been at a consolidated level to be able to make it useful for the public and for the council to have detailed information about. >> Okay. Thank you.
+
+And a follow-up, Councillor? >> Yeah. I hear you. And at the same time, we've consolidated to one line, right?
+
+So we don't even know, I'll criticize other things and say, how much is wages? How much is overhead? How, you know, what are the variances? And we don't even have that for our own departments.
+
+And I've seen, I've looked at other councils and they're receiving like very, very like actual GL accounts, every single account. I question whether the bigger the city gets, the more line numbers there really are versus the smaller ones. And maybe that's true, but usually the numbers just get bigger in the business world anyway. And so I think there's going to be an opportunity going forward.
+
+There's a request for more transparency from the public. And I think, you know, it starts here at home for us to say, do we even know what the variances are within the departments that we provide oversight here for? So -- Council, you have 30 seconds. Yeah.
+
+It's an issue, I believe, and I think that there 's -- I'm going to look into how we can request more information. The same thing happened with the reserve funds. We used to see the ins and outs, and that hasn't been provided in a long time either. So our tax rates are going up, up, up and what the public gets to see is going down, down, down.
+
+Okay. Thank you. You're at time. Looking for other speakers, for committee members .
+
+Okay. I'm not seeing any, but I'll do Councillor Trozzo then Councillor. Just really briefly, and this is hard, but I have to, I'm looking at, I'm looking at the Municipal Act, section 224 that talks about the role of Councillors. And while I am not directing this as any criticism towards anything that's on today's agenda, and I'm not directing this to criticisms of any program or any member of civic administration, but I think Councillor Stevenson is raising a good point.
+
+It's a broader point that I think, if not this council, perhaps the next council is going to have to look at in a little bit more detail, because when we're told that the complexity of the problem is too great to share because it would be thousands and thousands of lines. I don't think that's right. I think we have to be given the opportunity to see that level of detail. I'm going to leave it there right now.
+
+I'm certainly not going to raise this at council or make any kind of amendment. But we always have to go back to that section of the Municipal Act to understand what our special responsibilities are as a council. And again, I mean, no criticism, no disrespect of anything that the staff has put forward. This is just a very conceptual item for the future.
+
+Thank you. Okay, thank you, Councilor Perma, go ahead. Thank you, I would like to start by making a comment and congratulations to the entire RBC place for a great financial year last year. We do have a request in front of us, the how to deal with their operating surplus, but I just wanna say that even though we are going through the very challenging times this organization actually recorded the highest revenue during the history of this convention center.
+
+So congratulations for that. I do have a question. And when I look at the surpluses last year and this year last year financial management was the highest $28.8 million not this year or the amounts are not there. And my question was when I look at this last year financial management due to delay in property reassessment resulting in lower appeals, of course, taxation, personal contingency savings.
+
+My question is this. In this list, and there are a few other ones, there's no doubt that there have been changes. We know interest rate has come down, et cetera. But if you look at these items, aren't these items still some of them valid?
+
+And I understand they are not $28.8 million. but would they be in this list as well with some solid amount? Mr. Murray.
+
+Thank you, three, Mr. Chair. So I think what we saw last year and what we had noted in fact, as part of last year's results, were a number of one-time kind of unusual amounts that drove up last year's surplus. You spoke specifically to the provision for uncollectable taxes and tax appeals.
+
+That was an example of a fairly significant contributor last year to the surplus in this area. That was more so one time in nature. It's not something that we would expect to see and certainly not in that magnitude every year and that certainly has played out this year as well. So some of those factors still can play in, but I think last year there were some unusually large one-time surpluses that contributed to last year 's overall surpluses.
+
+Follow-up, Councillor. Okay, thank you for that. I will end the 2.8 by make a comment. You know, the Council approved surpluses deficit policy.
+
+It was actually done even before our Council did one. I never agreed with. I honestly believe that we should have it open every year is totally different. And I totally believe that we would still take very seriously the staff's recommendation.
+
+I believe we are all very responsible and therefore we wouldn't wanna jeopardize the Moody's rating either. But again, every year is different and I think the council should have the ability based on the needs which every year are different . We know how fast the world is changing and we can anticipate even what's next week that there should be a flexibility for the councilors. Thank you.
+
+No more questions or comments? Okay, thank you, Councillor. Looking for any questions or comments on 2.8. Okay, not seeing any online.
+
+We'll open this for voting. closing the vote, motion carries five to one. Okay, we are on 2.9. This is the 2025 year in capital budget monitoring report, looking for a mover and seconder.
+
+Thank you, Councillor Frank, I'll second it. Okay, that's on the floor, questions for 2.9. Go ahead, Councillor Stevens. Yeah, thank you.
+
+So on page 27, it talks about the 2025 debt level in table eight. And it says the total tax supported debt in, As of the end of 2024, it was 118 million. And at the end of 2025, it was 137 million with authorized debt of 747 million with a total potential of 884 million. I just wondered if staff could talk more about that and the impacts that that's gonna have on debt servicing levels and when those impacts will start.
+
+Mr. Murray, go ahead. Thank you, three, Mr. Chair.
+
+So yes, the table here in question shows the debt levels as of last year, what has been issued and retired in 2025, leaving a balance outstanding as of 2025. It also shows the authorized debt as of 2025 as well, authorized debt being debt that has been approved through the budget for capital projects. That has not yet been issued but has been approved needs to be factored in and into our projections in terms of debt levels and debt servicing costs. So that when you add that to what has actually been issued reflects the what we call the total potential debt that is outstanding.
+
+This is consistent and in line with what we reported as part of the 2026 budget update back in the fall so in that debt section of that budget we provided some forecasts in terms of when we expect that debt to be issued, as well as the resulting impact on debt servicing costs out over the next 10-year period, certainly based on the approvals, the approved investments that Council has made at this point through the multi-year budget. And since then, we do expect debt to ramp up over the years ahead, and we have incorporated that in our projections and we do update those projections every year to kind of reflect where we are with projects and how we anticipate them trending and when we might get around to issuing them that I will also mention that we you know through our various financial policies whether it be the surplus deficit policy or the assessment growth policy for example we have the policy mechanisms in place that allow us to do debt substitution, which is effectively allowing us to chip away at that authorized but unissued debt figure, basically avoiding that authorized debt, avoiding having to issue it and actually have it come to reality. So that is the strategy we use to avoid having to see this debt, this authorized debt materialized and avoid those debt servicing costs into the future. So this is why we continue to advocate for the importance of those debt substitution policies that we have in place that have successfully allowed us to avoid, I believe it's a little bit north of $100 million going back now to 2016.
+
+Thank you. Great, thank you, follow up Council. Yeah, no thank you, that's helpful. I guess I just see that ability to reduce the debt going forward decreasing as we change our policies as we have and start using the surplus for other things because we only have five million left this year.
+
+The other thing I wondered is on page 101, which is Appendix A, the Capital Budget Activity, when it says budget adjustments in the last column, are those positive numbers increases to the budget? Go ahead, Ms. Ray. Thank you, three, Mr.
+
+Chair. Yes, those would be budget increases where budget either has not existed before. So, you know, for example, I would refer you to source of financing number 25136, which is the first one on the second page of that table. That's the replacement of STEAM services.
+
+That's an example of one where there was no budget at that point in time for that initiative. So a budget has been created to facilitate that procurement in question. Some of these others are examples where the budget in place has been insufficient and additional budget has been added to that capital project through that associated source of financing. Paul Hope Councilor.
+
+Yeah, thank you very much. Yeah, and I noticed like one of the first ones on here, two five zero zero two I think it's the east link phase four twenty nine million dollar budget with a budget increase of two million I don't see any budget decreases so with those show here are we only reporting increases go ahead story thank you through you mr. Chair so typically this is what you see here are the sources of financing that have been awarded that facilitate the actual award of tenders. Typically, what happens is we 're either within budget to award the tender and there's no additional funding required or there is an additional funding requirement that is required in order to proceed.
+
+As it per tains to budget reductions or releases, this very report is in fact the mechanism to reduce or release capital budgets as there is surplus in those capital budgets. They get released through the semi-annual capital budget monitoring report. >> Thank you, that's great, that's all for now. >> Okay, looking to other committee members.
+
+Not seeing any online, go ahead, Councillor Perot . >> Thank you, Mr. Chair, to the staff last year. We had this column graph, which was forecasted tax-supported debt levels.
+
+It was this one, and I know this year I did not find it, and I found it really very useful last year. And my question is, if it was omitted because it 's identically, even though I don't believe it is identical, but if it's not, will we be able to still receive it before the council? Thank you. Go ahead, Mr.
+
+Mayor. Thank you, three Mr. Chair. I'll refer you to the 2026 budget update document , which includes that graph.
+
+It's the most recent iteration. So if you go to the budget document that's available on our website, you'll find those very graphs with the latest projections that we have. Thank you. Follow-up, Councilor.
+
+So thank you to the latest and therefore most current ones, correct? That's correct. Okay, thank you for that. And the second one's for the chair to the staff.
+
+The capital source of financing sank your diagram by classification. When I compared it, it's identical last two years . Is it still valid that really with any changes, it still will be very valid, identical to last year? Thank you.
+
+Go ahead, Mr. Mayor. Thank you. Three, Mr.
+
+Chair. I would say that this doesn't tend to fluctuate very significantly. This is kind of based on a longer term kind of view. And this is in fact based on the life-to-date capital budget.
+
+So this is the $4.4 billion of existing capital projects. So I would not expect it to change or to deviate very quickly. It tends to be fairly static, only changing as each year more and more capital projects are added to it. But it would take a really significant kind of deviation in a particular new capital project to radically change this diagram.
+
+Follow-up, Councillor. Thank you, thank you for that answer. And actually, I'll just go to the previous ones because I'm quite sure it's gonna be faster for you than for me if you could please send me the link to the column graph. Thank you very much.
+
+And more questions, no more comments? Great, thank you. Looking for any other comments, questions? Okay, not seeing any online.
+
+We'll open this for voting. Opposing the vote. Motion carries, six to zero. Okay, thank you, everyone.
+
+We are now on to confidential items, looking for a motion to go into closed session. Councillor Frank, Councillor Mereberg, and great. Thank you, and okay, thanks for voting. Opposed in the vote, motion carries, six to zero.
+
+Okay, just give us a moment to move people around. Okay, we're back in public session. We'll look to Councillor Frank to report out. Thank you, I'm pleased to report that we made progress for the items for which we went camera for.
+
+Thank you, looking for a motion to adjourn. Councillor Frank, I'll second. All those in favor of adjournment, any opposed? Motion carries.
+
+Thank you.
+
+</details>
