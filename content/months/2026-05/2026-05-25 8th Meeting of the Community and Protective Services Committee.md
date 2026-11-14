@@ -189,4 +189,323 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:04 PM.
 
 ****
+---
 
+## Full Transcript
+
+> Transcript provided by [Lillian Skinner's London Council Archive](https://london.lillianskinner.ca). Note: This is an automated speech-to-text transcript and may contain errors. Speaker names are not identified.
+
+<details>
+<summary>View full transcript (1 hour, 21 minutes)</summary>
+
+speak to this one, I'm just gonna pick up here. Can I have a minute to turn it on? Okay, good afternoon everyone. Welcome to the eighth meeting of the Community and Protective Services Committee.
+
+We'll begin with the land acknowledgement. The city of London is situated on the traditional lands of the Anishinaabic, Haudenosaunee, Lunt Opawik, and Adewandran. We honor and respect the history, languages, and culture of the diverse indigenous people who call this territory home. The city London is currently home to many First Nation, and inuit today.
+
+As representatives of the people of the city of London, we are grateful to have the opportunity to work and live in this territory. I'm joined here in council chambers with all members of committee as well as visiting Councillors online and in person. Thanks for being here today. We will begin with item number one, disclosures of culinary interest .
+
+Okay, seeing none, we'll move on to two, which is the consent items. I have not had any requests yet to pull any items, but looking around the room to see if there's any. Okay, seeing none, I'll look for a mover and seconder for those items. We meet in discussion.
+
+Councilor Trosso, Councillor Hopkins, thank you, and looking for speakers on these items. Councillor Trosso, go ahead. I don't want to make any amendments, but I do have a question. I'd like to ask on 2.2 and suppose the following scenario I see a dog in a car and I don't see the owner coming and I wait a few minutes and the dog is still in the car.
+
+I call the police. I either don't get through and I have to leave a message or I get through and I'm told we're not Well, I'll be calling 911, so I will get through. But the indication is it might be at least an hour, given that at that point, if I take a video, thorough, professional video on my cell phone, as well as I can take a video and get the license plate and the door and the time stamp, and come back in a few minutes and do it again, would the enforcement authorities accept that even if they haven't had a chance to attend the vehicle in person, and would that at least trigger an investigation? That's my question.
+
+Thank you, I will go to Ms. Pfeffer for that question. Thank you, and through the chair. As enforcement staff, we would absolutely take that video, but I think there would be one step just in advance of us accepting that video, and I am sure that the London police would also be interested in that video evidence.
+
+But to answer your question directly, yes, we would absolutely take that video and conduct an investigation. Councillor. If the purpose of this, as it's been stated in the media, is to really encourage busy motorists not to do this. I think that the possibility of that kind of citizen quasi-enforcement would be effective.
+
+And I think it would create more of an incentive for people not to run into the store. Albeit, it's just for a minute. It's always just for like parking in a lane way. It's just for a minute.
+
+But I think that would be very helpful. So thank you and I have no further questions. Thank you. I'll look for other speakers on these items.
+
+Councillor Ferrera, then Councillor Hopkins, go ahead. Thanks, Chair. I guess going to the hot dogs and cars bylaw that we're bringing through, I do appreciate the work that staff have done on this. I do appreciate kind of the direction that we're going.
+
+I do understand that there's like a layering between the pause act and how we're kind of applying this as a deterrence factor. I did wanted to ask, though, about one item that I would just kind of inquire on, and that would be potentially finding escalating penalties for repeat offenses if we were to see that. I wanted to know if that would be something that we could look into or something that we may potentially bring back into the follow-up reports on this, 'cause I do feel like if we do see those instances of repeat offenses, should we potentially have a type of escalating AMP? Thank you, Elgar, Ms.
+
+Steffer. Thank you, and through the chair, It's my understanding that that provision is built into the AMP spy law in which this provision will reside, essentially. The other concern I would have, if we start to recede, we start to see repeat offenses of this nature. That would also justify escalation to the Provincial Animal Welfare Agency or Authority or the London Police Service for them to contemplate whether a charge under the Pause Act would be more appropriate.
+
+Councillor Ferrera. Okay, that's good. For, okay, I guess I'll move on to the next one. I do wanna, I guess this is all consent items, right?
+
+So for the renovations item coming back, I do like what I'm seeing here. In particular, I do like the affidavit requirement and the added language that we have there. I wanted to just ask about the 10 month portion of this. I do know that we had on the original report, it was a 12 month turnaround, but now it's at the 10 month.
+
+I just wanted to know if we could get, I guess, some information back on why the 180 days was too short and how we have arrived at the 10 month mark for that. Thank you, I'll go to Ms. Pfeffer. Through the chair.
+
+So the residential tendencies act requires 120 date, requires a landlord to provide a tenant with 120 days before which they have to vacate if they choose to accept the eviction notice. In cases where they don't choose to accept eviction notice and they wish to dispute it through the tribunal, they would then have to wait an additional period of time until they could get time for that tribunal hearing to occur . Upon the conclusion of both of those things, six months is likely to have already passed. So strictly speaking, the license that was issued, although required under this by-law, couldn't be acted upon until after it technically expired.
+
+We looked to 12 months, some of our partner municipalities use 12 months. We heard from tenant advocacy groups and tenants themselves that they felt that 12 months was just too long. And so we agreed to settle with the 10 months to see if we could strike that balance. However, it will be reviewed within a year's time and we could see whether that was an appropriate decision or whether we need to revisit that.
+
+Councilor Ferrer. Thank you for that. Okay, and then one final question on this item. I do see that we got some extra information, I guess, from the open data from the province on the number of N13 served.
+
+I just wanted to know if that is capturing the full scope of all the N13s that were potentially served or if there is still some data that could be available, I don't know if that captures everything. Ms. Pepper? Through the chair, that's a good question.
+
+So we believe that it captures the full scope of the N13s that they become aware of. That said, there are N13s that would be issued that a tenant may not dispute, and so they would obviously not have that information. The other piece is we really need to parse out the information to determine whether the N13s are issued for reasons of demolition or conversion or renovation. It does not include the numbers for N12s at this point in time, and it was recent information that we acquired, so it is still something that we are going to be reviewing more thoroughly .
+
+Councilor Ferra. Thank you, final follow-up. That, those numbers, do they only capture what the RURL applies to, like six units and less , or does it capture all N13s? Ms.
+
+Pepper. Through the chair, I would have to get back to you on that information. I can take a look at that and follow up with you. Councillor.
+
+Okay, thank you. No questions on that. I appreciate this part of the report as well. I do think this gives some extra protection, some extra, I guess, city enforcement when it comes to protecting the tenants.
+
+So I like what we see and I will be following closely as I have been and I'll look for the next report back, but I do appreciate the work and I do appreciate the extra stuff that we added here. So thank you. Thank you. I will go to Councillor Hopkins next and I see Councillor Palazzo has her hand up online next.
+
+Thank you, Madam Chair. And just a comment on 2.1, which is the report from the accessibility community advisory committee. I just want to give my thanks to the committee and the work that they do on the advisory committee. I really do think that these reports coming to us are important and just want to acknowledge that.
+
+2.2, which is the protection of animals left unattended. Maybe through you, Madam Chair, I do have a question to staff on an email that are received regarding our program, the PaaS program in our city, and the ability to be able to find up to 75,000. I wonder if I can have a better understanding on how this program works. I know we're not talking about the program, we're looking at the fee right now, but I think sharing more information with the community is important, so I'd like a response from staff on our program.
+
+and how it works. Thank you, I will go to Ms. Pfeffer and to Mr. Mather so if he has anything to add.
+
+Thank you and through you. Are you referring to the provincial pause legislation? Okay, thank you. So that is the provincial legislation that governs animal welfare in the province of Ontario, obviously.
+
+This would be the presiding or the prevailing legislation in relation to whether an investigation were to be undertaken. So if a provincial animal welfare services officer was dispatched to a situation where an animal was in critical distress, they would proceed with an investigation under this legislation. The police, while they may be the second call to respond, if they were to respond, they would also or could also proceed with an investigation under this legislation. Our proposal is in relation to an administrative monetary penalty for this offense or a contravention of our by-law, I should say, pardon me, and it just provides the police with an additional tool by which they can proceed.
+
+They aren't obliged to proceed under the Provincial Animal Welfare Services Act, but they certainly could. Councilor Hopkins. Yeah, thank you for that. I think it's important that that extra tool in the toolkit is important to give us a little bit more say and enforcement in our city when it comes to animals being unattended in cars regardless of its hot or cold.
+
+So thank you for that. And very supportive of that extra tool in our kit . Renovictions, I'm really pleased to see this one year update. I think it is very important that we, as a council, get this information and really supportive of the two areas, the amendments that we're going to be introducing as well.
+
+And a quick comment on the 2.4, which the terms valley district school board and city joint use of facilities agreement it's great that we've had this agreement for many many many years and that we're we're continuing to do so I know we have the parks and recreation plan that we share with the school board I also would encourage the conversation around a climate emergency plan to to be shared with with the school board and how these, their plans and our plans come together. And with that, those are my comments, thank you. Thank you, I have Councilor Palose next and then I will go to Councilor Trossa for second time. Thank you, Madam Chair.
+
+Just in regards to item 2.2, thank you for Councilor for asking a couple of questions I had, I was also interested in if it's going to be escalating fines that some of the other municipalities cited within the report also had those noted and some caps put on that as well. I have a question through you to staff, realizing the fine is $300, looking for clarification from staff, but that's $300 per animal, or just overall at the vehicle, realizing some owners might have one vehicle, one at pet per vehicle, and others just load up all their pets and go out . So if there was three dogs, would it be a $900 amp charge or just the $300? Thank you, I want to miss Pfeffer.
+
+Thank you and through the chair. The intent is that it's $300 per contravention of the by-law, so it's my understanding that it would be just in relation to the animals in the vehicle. Councilor. Thank you, Madam Chair.
+
+So for clarification, the contravention of the by law is stuck in a demit that if there was three dogs, they contravened it once or three times with putting three of those lives at risk. Ms. Pepper. Thank you and through the chair, it would be once.
+
+Councillor. Thank you. staff council direction to interpret that if not my committee, if there was three beings in that vehicle versus one for clarification. I 'll go to staff.
+
+Is that discretionary or is that something that you need direction on, Pepper? Thank you and through the chair. I believe that's discretionary. So I would like to consult with legal on this just based on the language that's written in to the AMPS bylaw, but I believe it's discretionary.
+
+Councillor Thank you, Madam Chair, just that was a question over the weekend that arose as I read the report. I will certainly follow up with staff offline. Thank you for the time. Thank you.
+
+And just to Ms. Pfeffer and her team, if you can share any information between now and council, if decisions made, that might help us in terms of any updates that need to be done. Okay, I have Councillor Trozzo for a second time around, and then I have Councillor Ferrera. Just very briefly on the accessibility Community Advisory Committee report 2.1.
+
+I just want to thank the committee for taking the initiative to approach the London Transit Commission's accessible public transit services advisory committee. You know, it occurs to me that both of these committees are working on the same type of issue. And in having some discussions with the city's advisory committee, I understand better that many of the things that we talk about at the advisory committee if the commission are also of concern. So really glad that they formally put this on the agenda.
+
+I'm looking forward to attending the meeting that they're a delegation for. And I think that both of these committees will do well to be working with each other and knowing what's going on on the other agenda. So thank you, thank you very much for doing that. Thank you, I have Councillor Ferrera, go ahead.
+
+Thanks, Chair. Just one question that kind of sparked my mind when Councillor Palazzo was asking, for 2.2 back to the animals left in unattended vehicles. If, I guess, the designated officer were to find an animal in critical distress, and the owner was not to be, I guess, seen at that time, and we were to find that it is in the contra vention of the by-law, and we were to administer an AMP. How does that get administered?
+
+Does it go to the individual driving the car? How would we find that information? or does it go on to the registered owner of the vehicle? Madam Ms.
+
+Beffern. Thank you and through the chair. So in the scenario that you're proposing, either the police or the animal welfare services officer would be in possession of the animal. And so to conclude the investigation, identifying ownership of that animal would be required.
+
+And that would obviously come through, whether it could come through further investigation speaking to witnesses, identifying the registered owner of the vehicle. but certainly the investigation wouldn't just end when they take the vehicle, or take the animal out of the vehicle. Councillor. Okay, thank you.
+
+Looking for other speakers, Councillor Frank, go ahead. Thank you and I too just wanted to quickly speak to the no animals in cars motion, although in my head I call it no hot dogs in cars , which is not the same kind of bylaw that we're talking about. But I just wanted to say thank you in case they 're watching a resident brought this to my attention. Her name's Eleanor last summer And it was part of a campaign that the Ontario Society for Prevention of Cruelty to Animals was sharing.
+
+And she emailed me about it. And then Councillor Faire and I brought it forward. And I just wanna say thank you to her for email ing this because I think it's a good demonstration of what happens when a resident sends a Councill or an email. And we can move it up and appreciate staff's work and bring it to fruition.
+
+And I'll be supporting it at Council because I think it's a move in the right direction and another tool in the toolbox. But just wanted to say thank you to Eleanor. Thank you. Any other speakers on these items?
+
+If I may turn the chair to Councilor Pribble. I have the chair and I recognize Councilor Ram an. Thank you and through you, I just wanted to comment on a few of these items. First to staff, thanks for your work on 2.2.
+
+The protection of animals, I appreciate the dialogue that we've had on this today because it helped me to better understand some of the questions, one that I had that were unanswered, but also to better understand how this would be operationalized, so that's very helpful. Again, thanks for the update on the renovations bylaw. I think that it's good that we're receiving comparable data and that we could see how our bylaw is shaping up and where other cities are heading and how we have similar numbers across municipalities. I think that's of interest.
+
+I want to speak about 2.4, the Thames Valley District School Board and the City of London Joint Use of Facilities Agreement. So I want to thank staff for their work on this. I do think this is quite an opportunity for the city and the school board to continue to build a relationship that is mutually beneficial to the whole community, not only from the cost savings perspective that's being realized through this agreement, but also through the sharing of facilities. It is, I know, overly frustrating for some people to see buildings sitting in the evenings and not being used.
+
+And so it's great to see that we are using those buildings and that we are using the facilities that we have around our community. We have good understanding of those facilities, what they can be used for with the public school board. I would like to know how we are progressing with other school boards on of these same conversations. Going to the staff.
+
+Thank you and through the Acting Chair, we are currently working with the London Catholic School Board as we have a current agreement with them and we'll be updating it and following a similar model. We don't have a current and we don't have an agreement with the other two school boards. We have reached out to them and but we don't, I don't know if Mr. McGonick almost provided any additional information, but we don't currently have agreements with them for our recreation programs.
+
+Please go ahead. Thank you and through the chair, I think just in addition to Ms. Miss commentary, it's important to note that for joint use of facilities agreement, there has to be use available for the community and so it does kind of depend on the sheer volume and magnitude of the properties that the other parties have. And so while we will continue to explore all boards and the opportunities that may exist, there is just simply some boards that have a small footprint and don't have any availability to trade off or for other availability in city facilities.
+
+Thank you. Thank you, Councillor, any floor? Thank you. No, I appreciate that.
+
+And I know that other school boards are also willing to have those conversations. So it's good that we continue to have that dialogue. When it comes to the joint facility usage, most of our hours with Thames Valley are for non-aquatic recreational hours around, I think it was 33,000 hours right now. Do we see an envision that to increase substantially with the new agreement, and I wanted to ask some questions about the booking process.
+
+Bring to the staff. Thank you, and through the chair, our objective is to always increase utilization and opportunities, both through new school development, maybe schools historically that we haven't used, and other innovative ways, recognizing schools, bring a lot of different classrooms and gymnasium s and opportunities, so our objective is to always increase the hours of use moving forward. Thank you, Council. Thank you, and from a booking perspective, how do we see this working or rolling out?
+
+Go ahead, Steph. Thank you and through the chair, I think a couple of the important updates that we've actually done in the agreement attached to the by-law is we've really streamlined and simplified the timelines for each party. So the timelines under the Joint Use of Facilities Agreement are present in the agreement. There's a series of different dates depending on what the activity request is.
+
+Those were agreed upon dates that worked well for both parties and the operations of their different businesses and different aspects. And so it will work similarly, as it always has historically, we have really just sharpened up the timelines and not created different timelines throughout the year, which created a lot of confusion. And then I will just note that if those deadlines are missed because they can be approached a little more corporately from a school board perspective, and so we will get one off request that I would like to take our class public skating in the local arena. And we will continue to always work on those one-offs on a first-come, first-serve basis, which is also outlined in the agreement.
+
+Thank you. Thank you, Councilor. Thank you. And lastly, I just wanted to visit the idea of community programming within these opportunities.
+
+I know that there are a lot of community groups, especially cultural community groups, that look to schools and to community centers for space, which is always at a premium and very difficult to come by during festival season, especially. I'm just wondering how we see this benefiting those types of bookings. Going through the staff. Thank you and through the chair.
+
+I think there's a couple of benefits. One is, is I think that the more organized we make our requests into the other party, the more organized it makes for the community and trying to access space. So it's a, I think it's just a little more streamlined. And then I think ultimately, it's a great question.
+
+I think the reality is, is the municipality would love to continue to develop the relationship where we may have a role to play in allocating space in schools for not-for-profit sport groups as an example, which can be really hard to allocate a healthy system when there's lots of hands in the pot and organizational lines. So that's probably much more. I would say the school board has been very open and receptive to those conversations moving forward. But I think there's kind of two-fold benefit.
+
+And I think the first one is that we organize our requests, which makes it a little more organized for the rest of the system. Thank you. Thank you, Councilor. Excellent, one final question.
+
+Sorry, and I'm not sure how this fits into this, but I will try to make it fit in a little bit better. So a number of our new schools that are being built in areas that are new subdivisions that are being built across the city, They do not have playgrounds at the school site, but we have city playgrounds nearby. How do those types of agreements get reached to be able to access playgrounds for schools that do not have playgrounds? Staff, these go ahead.
+
+Thank you, and through the chair, I think there's a difference between talking about exclusive use and open use. So schools are more than welcome to go into any park that they so choose at this time, to use any amenities that they want to use as publics are open to all Londoners. If there is specific examples where a school is looking to have exclusive use of a playground, we would certainly have some conversations about how to manage that. We do have kind of one-off scenarios that come up fundraising at a tennis court, as an example that's generally open to the public .
+
+So I would say that we work off on one kind of one-off circumstances. If they are looking for exclusive use, I think our experience is when they're trying to access those, it isn't always about exclusive use. And so if those come, we will approach them one- off, but generally they can go spray pads, waiting pools, any other amenities that are open to the public all the time. Thank you, Councilor.
+
+Thanks. My final point, just I want to say thank you for answering all my questions. Really appreciate this work and further dialogue on this. As we continue to explore the needs for our community around recreational sports and community programming, I know these agreements are paramount to right now.
+
+And as we continue to build new schools, I like that we're building them with things like lockouts so that we can have certain spaces just for community space in the evenings. I think that's brilliant. I really applaud the government for including those in school boards, for including those in their design as well. Thank you.
+
+and to chair back to you. Thank you, anyone else on consent? Okay, seeing none, we have a mover and seconder. We will open the vote.
+
+Seeing the vote, the motion carries five to zero. Thank you, that takes us to our scheduled item 3.1, which is our presentation from the London Fire Department on the Fire Master Plan annual update. We will begin with the staff presentation and then I will look for a mover and seconder before we begin discussion. and we will welcome Chief Hamer.
+
+Thank you for joining us today. I know you have a presentation for us and that you've timed it exceptionally well, which is great, but take all the time you need. We really look forward to hearing from you. Go ahead.
+
+Through the chair, thank you for the opportunity to provide an update and an overview of the annual update to the Fire Master Plan. I'd like to introduce members of my management team that I brought with me today. I have Deputy Chief Gary Bridge, who is our Deputy Chief of Operations, deputy chief Al Hunt, who is our deputy chief of training and communications. And deputy chief Matt Heptich is out of town on business, but available by Zoom if we need them for any questions.
+
+And we'll be pleased to answer any of those following the presentation. So the London Fire Department is made up of 437 dedicated personnel who deliver critical emergency response, prevention, support services, and public safety services throughout our city. The work aligns directly with the City Strategic Plan priority of safe, vibrant, healthy neighborhoods and communities. And while emergency response and the big red trucks is what we're best known for, what I want to emphasize today is that our impact goes far beyond that emergency scene.
+
+It's truly a coordinated effort behind the scenes across the entire department. Every response begins with our 9-1-1 communications team who manages thousands of calls, gathers critical information, and ensures that the right resources are sent when London there's our need. and the scenes are electronics technicians, our vehicle mechanics, and our parts and stores team, ensure that our systems, equipment, and apparatus are ready at all times. Our training division ensures that every member is prepared for the complexity of today's calls.
+
+On the front line, our firefighters respond to emergencies, while also delivering critical fire and life safety messaging. Fire Prevention Division conducts inspections, supports enforcement, collaborates with internal partners, and leads investigations that inform how we can prevent future incidents. And our public educators and administrative staff ensure we are connected, responsive, and accessible to London. Together all 437 personnel work collaboratively to make a measurable impact in this city, helping create that safe, vibrant, healthy neighborhood and committee, sorry, community.
+
+So in 2025, we directly educated over 37,000 Londoners. Through our Sound the Alarm Program, we visited more than 15,000 homes and we'll expand that even further in 2026 with particular areas of focus, high-risk populations including student housing. We also delivered over 500 public education events. And what that means is that we're helping residents reduce risk before the emergencies happen.
+
+We've also made significant operational improvements implementing traffic preemption technology on 30 frontline vehicles. This improves our response time, but it also improves intersection safety. We've advanced over 20 health and wellness initiatives, some new and some enhancements to our current initiatives to support all our personnel. Strengthen in collaboration with the building division who works very closely with fire prevention, extended training to ensure we meet timelines for the mandatory certification deadlines that are coming 4th July 1st, 2026.
+
+And we're investing in our fleet with new fire prevention vehicles, suppression units and apparatus. It's important to note they're not one-time successes, but these are ongoing efforts as we continue into 2026. Since 2021, although our population growth has been just over 8%, our call volume has increased 55%. We saw a sharp rise following the pandemic, but through sustained public education and prevention efforts, the rise has begun to stabilize over the past three years.
+
+This is a trend we will continue watching closely in the upcoming years. Of note, when fires are occurring, we're seeing an increase in working smoke alarms, which gives Londoners the time they need to get out safely. 23 and 24 showed us 21% of homes where fire occurred did not have working smoke alarms. We've now seen that number come down to 12%.
+
+This is a significant decrease for the London Fire Department and alongside fire safety messaging being delivered by all areas. We will continue to provide fire safety messaging to Londoners, and this is a statistic as well that we will continue to monitor. We respond to structure fires. However, what some may not realize is other calls we respond to, including open burn complaints, water rescues, hazmat calls, technical rescues, motor vehicle collisions, and many more.
+
+We track all these calls, and this is why our data matters. It allows us to focus our efforts where they will have the greatest impact, including reinforcing the importance of working smoke and seal alarms, addressing the increase in outdoor fires and burn complaints, which have doubled. As we see an increase in calls to student rentals , we can tailor an educational pamphlet or program for landlords as well, and educating residents on fire safety when living in high-rise buildings, as London continues to grow upward. We're also emphasizing safe practices around fast-moving water and around rivers and streams.
+
+Demand continues to increase and our strategy is clear. We continue to educate, we continue to adapt, and we continue to respond using all available tools to meet the evolving needs of London. It's important that we emphasize we cannot do this work alone. We work along many city departments and other emergency services, and this slide shows many of our partnerships.
+
+Our success depends on strong community partnerships in four key areas, community engagement, where we're working closely with the London Knights and the London Majors to reach large numbers, two key partnerships for London Fire, our Fanshawe College and Western University as well. Public awareness campaigns, I'm sure you've seen it in different mediums, print video, radio campaigns, and citywide communication. Everybody has seen the billboards and the many London transit buses with arm messaging on the sides. We also do targeted research or outreach, pardon me, to vulnerable populations.
+
+These partnerships allow us to extend our reach and ensure that fire safety messaging is consistent, accessible and effective across all communities. Our 2026 priorities and our focus, we're gonna continue to advance prevention, maintain operational readiness, introduce targeted innovation, and invest in future growth, including a state-of-the-art training campus. At the same time, we remain focused on emergency response and what we deliver every single day. Expanding programs like Sound the Alarm, maintaining frontline readiness, improving response through technology and infrastructure.
+
+In closing, the London Fire Department is not only keeping pace with growth, we are working proactively to stay ahead of it. Everything we do is focused on making an impact and delivering on the city's commitment to safe, vibrant, and healthy communities. Thank you so much for your time. Thank you.
+
+I will look for a mover and seconder before we begin discussion, Councillor Ferrera. Councillor Trossa, thank you, and looking for speakers. I have Councillor Troso first. Go ahead.
+
+Thank you very much. I appreciated the report and I'm very happy to see the cooperation between your fire department and the code enforcement authorities. My first question is the organizational structure of the city has the fire department reporting to one deputy city manager and the code enforcement, building division. There are a number of interactions, for instance, under the vacant building law.
+
+There's often communication between the fire department and the building official. They report to another deputy city manager. Are there instances where it would be more effective or efficient to have all of these departments reporting to the same deputy city manager? Thank you.
+
+Go to Ms. Smith. Thank you, and through the chair, I'll let the chief respond to it. Just, you're right, the London Fire Department is part of neighboring community-wide services, and my role in the London Fire Department is to support the chief and her team, particularly support through council, committee meetings, budget, finance, HR, all the aspects, the technical aspects and everything the day-to-day operations of the fire department is run by the chief and her team and I know I can't speak specifically to one area but I know they work collaboratively across many many areas especially when you think up some of the work that they work alongside with corn form response and enterprise supports building and deerness and many other areas but I'll let the chief further speak to that?
+
+Go ahead Chief. Through the chair I would say that we collaborate with multiple divisions across the city so to have everybody report to the same deputy city manager would be very difficult but from an operational standpoint we've been very fortunate to work with great people across the organization in many different areas and then as deputy city manager Smith mentioned then when it comes to the bigger things the deputy city managers kind of help us out in those areas, Councillor. Thank you. My next question goes to a particular by-law and that's the vacant buildings by-law A35 and this applies to all buildings in the city that have become vacant and within 30 days are supposed to be reporting unless it's a fire in which case it comes up earlier.
+
+Are there instances where it would be more useful, and in the interest of public safety , to require a building owner, to put in a side of fire situation, which is immediately, but just generally when there's not a fire. Are there situations where it would be more useful to have that reporting requirement moved up to a period shorter than 30 days? Thank you, and through the chair. From a fire department perspective, we inspect those buildings once every 30 days.
+
+I'm not sure that we could do it more often than that. I'll ask my deputy chief of operations, maybe just speak to that a little bit more, but I don't believe less than 30 days would be beneficial for us, but I'll turn that over to my deputy chief of operations. Thank you, go ahead. Through the chair, as the chief indicated, once over 30 days, fire crews go around there to make sure the building is secure.
+
+And if it's not secure, they could make arrangements for that building to be secured. To do it more than once every 30 days, possible. I'm not sure it's a great use of resources, but I think the 30-day requirement is something we adhere to and ensure those vacant buildings are maintained. Councillor?
+
+Yes, just to be clear, my concern is not with what you do on your end after you know about a vacant building within 30 days. It's whether the owner of a vacant building should have to report it to you before the end of a 30-day period so you could start your process running which could take 30 days. Thank you. Thank you.
+
+Through the chair, we can definitely take that back to staff and work with the other divisions that we work with around vacant buildings as it's not just a fire department by-law and see if that would be something we can bring forward, Councillor. Thank you. The reason I'm giving attention to the vacant building by-law now is there's been a lot of attention recently with respect to deteriorating conditions in vacant buildings with or without a fire. And it's often the case that the deteriorating condition of a building while it might not pose a fire hazard or a sanitary hazard or a safety hazard or a code enforcement hazard under a variety of different bylaws that cut across different departments and divisions.
+
+It's just becoming more of a problem. And this is not to put it on the fire department, but you're one of the agencies that deals with this problem. In your view, is there anything that could be done to facilitate the process of inspecting vacant buildings? And I'm not talking about residential buildings so much 'cause that is under a different regime.
+
+I'm talking about storefronts, industrial buildings, commercial buildings. Is there anything in your view that could be done to enhance the safety process, such that we don't get to the point that many people characterize as devolution by neglect. Thank you, I'll go to the chief, through the chair. We can definitely take that back and look at what we can be doing to further follow up on those types of buildings.
+
+Because it does span across multiple divisions, we'd wanna have those discussions across the divisions to make sure it works for everybody. And my final question is I read in the paper just a few days ago that St. Thomas is talking about initiating a vacant building registry which would apply to buildings that are vacant in whole or part in the commercial and in the commercial class. Would that type of information facilitate your work or your work with the public or or other agencies if we had that type of list.
+
+And perhaps we do keep that type of list. Thank you. I'll just, I know Mr. May, there's this also covers your area.
+
+So I'm not sure who wants to answer these questions, but I wanna keep this on the update that we have from fire services as well. So if you have a portion of this that is fire service related that you wanna answer, that's great, but then we'll move back onto the update that we're dealing with. Through the chair, thank you. I'm gonna turn that over to Deputy Chief Bridge for an answer.
+
+Deputy Chief Bridge, go ahead. Through the chair, thanks for the question. We do have a vacant building listing. We work closely with our building division to maintain that vacant building listing.
+
+And that's how we essentially maintain our monthly inspections. You asked the question about additional resort, things we can do to ensure buildings are vacant. Again, working very closely with our building division. We're even looking at possibly implementing a program where we do training within these vacant buildings if the vacant building owner allows for it.
+
+It's another set of eyes on these vacant buildings to ensure that they are safe and secure. Thank you, Councilor, you have about one minute , 15 seconds. In administering the vacant building registry then, is there a registration fee that the owner of a vacant building has to pay in order to cover some of the costs or is that absorbed by your department and other departments? Anyone that wants to answer that question, answer that question.
+
+Mr. Mathers. Through the chair, so we'd have to get back to you at the middle of a more detail. I don't have Amanda here, unfortunately, but I believe there's fees related to the actual inspections, but I don't think there's actually a fee related to the registry, but we can get you that information following committee.
+
+Thank you, Councillor. Thank you very much. And other than the fact that I'm almost out of time, so it's a moot point, I'm not going to pursue this further, but I do have a lot of questions about the administration, vacant buildings, and I'll take it upon myself to contact yourself and Mr. Mayor since it overlaps between both of you.
+
+Thank you for answering those questions. Thank you. Looking for other speakers from committee first, and then I know that I have visiting counselors on the list as well. So, Councilor Hopkins, you may go next.
+
+Thank you, Madam Chair. And thank you very much, Chief, for the presentation. Always helpful to get the information and update it here at committee. I find the cost for service and the population growth chart really quite interesting.
+
+Obviously, you could see the growth of our city in 2025 being almost 475,000, which is quite a bit. We've seen the increase and the calls specifically through the pandemic go up quite a bit. That's just the way I'm reading it, and it has leveled off. I did here in your presentation.
+
+But given the increase of 8.2% in our population, but the call is going to 55%, that's quite a difference. Is there anything you could share with us that sort of can speak to certain areas where you've seen more calls in certain parts of the database that you're collecting or is it all sort of grouped in as one and these are the calls. Thank you, I'll go to the chief. Thank you, through the chair.
+
+That's a great question. I think I'll start and then I'll turn it over to Deputy Chief Bridge, who might have more in the weeds data around that . What we saw coming out of the pandemic, We're not sure if it's an abnormality. We're trying to keep an eye on that because in the pandemic, we responded differently .
+
+So coming out of the pandemic, we started to respond again to more calls and that could have a direct influence on that increase, that 55% increase. But over the last three years, we are seeing that start to level out with the work that we're doing. With regards to specific numbers of calls, I'm gonna turn that over to Deputy Chief Bridge. Thank you, go to the Deputy Chief.
+
+Through the chair, as the chief indicated, during the pandemic, people were at home. People were at home. People were not as much out on the roads doing that type of stuff. That impacted our call volume back in the pandemic period of time.
+
+We start to take a look at our trend now. We're starting to see an increase in pre-fire or fire conditions as people are at work. People are seeing an increase in motor vehicle collisions more around the road. We're seeing an increase in rescues.
+
+People are out and doing the stuff they typically do. So when you take a look at that information, the reference to the pandemic is relevant, but just as important as the fact that we're seeing a leveling off of our responses at around 14 to 15,000 a year. Councillor Hopkins. Yeah, I really appreciate that extra bit of information.
+
+Thank you. And my last question, Madam Chair, through you to, it's the response innovation. Wonder if you can touch upon what we're doing, looking ahead when it comes to response and innovation. Thank you, please go ahead, Chief.
+
+Thank you and through the chair, I feel bad. I keep answering and then putting it over to Deputy Chief Bridge. A lot of our response and innovation is the new technology that we're seeing on our vehicles that we're receiving along with the new technology with regards to traffic lights and our the old Opticom system. So I'm gonna turn it over to Deputy Chief Bridge 'cause he has much more detailed information on that.
+
+Okay, go ahead, Deputy Chief. Through the chair, response is extremely important to Londoners. They rely on us to be there and be present. Response times are improving due to a number of factors.
+
+As the chief indicated, historically, up until the last couple of years, people may not understand this, but we were responding from maps. And now we're responding from GPS and trucks, and thanks to Council for the support from a budgetary. In that regard, we've also enhanced our ability to change traffic lights as quickly as possible. And that's just not in the directional flow of traffic.
+
+We turn a right signal on our fire truck. It'll actually identify the signal going the other way, the right way, it knows we're turning that way. And even working alongside our communications, we're getting to the process where we can actually dictate the calls and start setting the lights before we even leave . So response time continues to be extremely important.
+
+Our firefighters know how important it is, and it will continue to be a priority. Councillor Hopkins. Yeah, thank you. And thank you for keeping us safe in the city.
+
+Okay, looking to other members of committee before moving to visiting Councillor's council, we'll go ahead. Thank you. And so the chair, I do have a couple of questions . And the first one is public safety education, which was already stressed as very important and through a certain proactive function.
+
+But 24, 25, there was a decrease. Can you please tell me the reason behind it? Good, the chief? Through the chair, thank you.
+
+Priorities and resources play a large part in what we're able to attend and what we're able to do in the community. In 2024, we had a few more resources available to send to public education events and things like staffing and availability to work outside work hours. If we don't have anyone to attend, we can't attend those public safety events. And the other thing that we saw in 2025 is a lot of times we had multiple requests, but at the exact same time to attend.
+
+So we prioritize those and attended what we could . Councilor Perbo? Thank you for that. There was also a decrease in rental licensing, inspections completed.
+
+And what was the reasoning behind that part? Chief, through the chair, thank you. That's a great question. Rental licenses were caught up at the end of 2025 .
+
+So it could be just that not as many requests for rental licenses came in in 2025. We are working closely now with the building division to put together a new scheduling system that for building and fire to attend together. So we're hoping to keep an eye on those numbers through 2026. Councillor.
+
+Thank you for that. The two programs fire program and hot summer nights program. I think it was 1500, sorry, 1800 and 3000, which is two very positive numbers. Is there any feedback additional to these two programs that you can share with us?
+
+Chief, go ahead. Through the chair, thank you. General feedback, so the After the Fire program happens in neighborhoods where there's a fire, we target 20 homes around that fire to speak with Londoners and feedback that we have received is that Londoners are very happy with the touch base and the education that's provided. So for instance, if it was a kitchen fire, we really target kitchen fire information when we reach those homes.
+
+Hot summer nights, landowners would love more of the hot summer nights that we provided at different parks throughout the city. And we're gonna try and deliver that this year. The one thing I will say though is that weather is, it's so weather dependent, it just depends on what we see this year. Council approval.
+
+Thank you for that. In 2025 priorities, It stated kind of working together with other organization that's looking at the rental of facilities to generate additional revenues. It was not in 2026, but can you tell me the feedback in 2025 and if there are any potential plans to continue? Chief, through the chair, thank you.
+
+We have received requests to use the training facility. We need to have staff available, even if it's a different group coming in to operate that facility. So we have to look at that. The other thing that we continue to see is two recruit classes a year, which is a large time use of that facility.
+
+And we have to be cognizant of the aging of that facility as we try to continue to use that facility until the emergency service training campus becomes a reality for us. Councilor Perbeau? Thank you for that. And I will end with making three comments.
+
+Twenty, twenty six priorities, the emergency responses and staff personal development. There were some really great additions compared to 2025 in addition to those, so thank you for that. All actions are either completed or on track, so kudos to your entire team, and thank you. Thank you very much to you and your entire team for the services you provide for Halfamlin and Londoners 24/7, 365 days.
+
+We greatly appreciate it, all of us. Thank you dearly. Thank you, I have, and I will say that he, That was very eloquent, thank you for saying that. And I know that it's echoed by the rest of the committee and members of council that are here and also not here today.
+
+I had councilman Callister, go ahead. Thank you, through the chair. Appreciate the chance to speak. Also appreciate the number of my questions were answered, so I'll try not to duplicate any of that.
+
+I do have some questions. In terms of, you'd mentioned the percentage in terms of, I think it was the smoke detectors that had gone down substantially in terms of the properties that didn't have them. I'm just wondering what you would attribute that to as the programs, and then have you looked at the data in terms of the properties that are remaining? Is there any trend you can see in terms of the problem properties that are still not getting them?
+
+And is there anything you plan to do to try to address that? Chief, go ahead. Through the chair, thank you. Yeah, we have seen the number decrease to 12% of working smoke alarms.
+
+We do attribute that to kind of a myriad of our programs between after the fire, sound the alarm. We've really put a huge emphasis on fire crews providing fire safety education at every opportunity. So not even just a scheduled opportunity but to take unscheduled as well. And we've seen that number come down to 12% which is exciting for us.
+
+It means that Londoners have more time to get out safely should a fire occur. With regard to what's left, it's really across the board. We've not noticed a huge trend one way or another . One thing we were seeing was around student housing.
+
+And that's why we've put a bit of a focus on student housing this year with our sound the alarm program. And we're looking at putting something together for landlords to outline their responsibilities as well. Councilor Callister. Thank you and appreciate that.
+
+I'm also wondering, I mean, I've noticed in terms of number of encampments have gone down, but I'm just wondering if you could speak to you in terms of calls for open air fires for encamp ments. is that plateaued, have you seen an increase, just wondering where those numbers are at? Go ahead, through the chair, thank you. I don't have those exact numbers in front of me, but my understanding is from what we've seen, they've plateaued a little bit.
+
+And I think a lot of that has to do with the amazing work we're doing alongside CIR and other agencies within the city as well. Councilor Callister. Thank you, appreciate that. Sorry, I have a lot of questions about the data.
+
+So also wondering in terms of a river rescue, if you've noticed any trends there, has that increased? Just noticing, you know, had a few storm surges, are you noticing increases along the river for rescue? Chief, Deputy Chief. Through the chair, this was a bit of an unusual year.
+
+From a river rescue standpoint, you would have seen in the media sometime in January, February. We saw upwards into 20 rescues in January, February, March. We typically respond to around 30 a year. So it was high river water and we were on trend to be higher than last year.
+
+How's that? Councillor? Thank you. Yeah, I noticed a bit of an uptick there, so I was just curious how you guys were responding, so appreciate that.
+
+I'm just also wondering, I think Councillor Tres so kind of earlier touched on this, but I'm just wondering if there's any efforts in terms of a strategy moving forward to have coordinated blitzes with building code enforcement and the fire department for what I would like to call repeat offenders, essentially, just problem properties that have seen a number of fires if that flags anything between your departments in terms of I know you do your 30-day inspections but having a fire at the same location I feel is kind of a waste of our resources and it would be nice to get to a point where we can action it a bit more seriously so I'm just wondering I know that crosses over a few departments but we've done some blitz es in other areas so I'm just wondering if there's any strategy for that moving forward. Thank you I'll go to staff and to the chief through the chair thank you yes we have been working with building and with bylaw as well to try and streamline how we deal with repeat offenders. We've had some really great success in working together when we find a property that is -- it's just an address that comes across everybody's email and everybody's phone, so -- and we're going to continue to work with bylaw and building to set up that process. Councillor.
+
+Thank you. Appreciate that. across everyone's desk, but I think we're all tired of kind of seeing the same property. So any headway that can be made in that space is greatly appreciated.
+
+And then my last question is a bit more high level, but just speaking to the data you pointed to with the population growth and the calls, do you think the size of the fire department and the resources you currently have available are appropriate, or do you envision a need for an expansion in the future to address that? the chief, go ahead. Through the chair, thank you . So we're currently working alongside the development, oops, sorry, the development charges study, and we're keeping a close eye on those numbers of where we're expecting population growth to go and where we might possibly need new stations in the future.
+
+With opening station 15 just recently in the grand opening next month, we're at a point where we feel like right now we 're where we need to be, but definitely in the future if London continues to grow the way we've seen it growing, we're going to need additional. stations to keep the coverage and the service to Londoners that we have now. Councillor? Great, thank you for all the answers.
+
+Appreciate that, and again, thank you for the service. Thanks. Thank you, looking for other speakers. Okay, seeing none online and seeing none in chambers, we will open the vote.
+
+Closing the vote, the motion carries five to zero. Thank you so much for the presentation. With that, we will look to our final item, which is, well, first I'll check and see if there's any additional business. Under item five, not seeing any.
+
+So, well, that moves us to adjournment, looking for motion to adjourn. I have Councillor Ferrera, Councillor Hopkins. Thank you, and we'll do this by hand. All in favor?
+
+Motion carries. Great day.
+
+</details>
