@@ -1,0 +1,602 @@
+[
+ {
+  "id": "2c73e3e3924b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted Tricar Properties Limited's offer to purchase the south portion of 330 Thames Street from the City for $260,000, and accepted Thomas Bujouves's offer to sell 332 Wharncliffe Road North to the City for $925,000 for the Western Road Widening Project, including the related financing.",
+  "confidence": "high",
+  "quote": "the offer submitted by Tricar Properties Limited (the \"Purchaser\") to purchase from the City land, municipally known as 330 Thames Street... for the sum of $260,000.00, BE ACCEPTED... the offer submitted by Thomas Bujouves to sell the subject property to the City, for the sum of $925,000 BE ACCEPTED subject to HST inclusive of interest... the financing for this acquisition BE APPROVED as set out in the source of Financing Report",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Property purchase/sale + financing (Tricar/Bujouves) — not a tracked issue keyword; verbatim quote matches source. Confirmed none."
+ },
+ {
+  "id": "5fc81b4eb9b4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved that Council rise and go into Council, In Closed Session, to consider the matters listed on the agenda.",
+  "confidence": "high",
+  "quote": "Approve that Council rise and go into Council, In Closed Session, for the purpose of considering the following matters:",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Closed-session procedural motion. Confirmed none."
+ },
+ {
+  "id": "86e25ba0b1dd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Minutes of the Third Meeting, held on January 30, 2018.",
+  "confidence": "high",
+  "quote": "Approve the Minutes of the Third Meeting, held on January 30, 2018.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Minutes approval. Confirmed none."
+ },
+ {
+  "id": "2748910268a8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No.'s 83 to 92 and the Added Bill No.'s 93 and 94.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No.'s 83 to 92 and the Added Bill No's 93 and 94.",
+  "flags": [
+   "procedural",
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "First reading of omnibus bill list, bill contents not in source text — correctly no_text/none rather than inferred from title. Confirmed."
+ },
+ {
+  "id": "173ca1aaf9dd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No.'s 83 to 92 and the Added Bill No.'s 93 and 94.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No.'s 83 to 92 and the Added Bill No's 93 and 94.",
+  "flags": [
+   "procedural",
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Second reading, same omnibus list, same no_text basis. Confirmed."
+ },
+ {
+  "id": "19a0839bc3e6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No.'s 83 to 92 and the Added Bill No.'s 93 and 94.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No.'s 83 to 92 and the Added Bill No's 93 and 94.",
+  "flags": [
+   "procedural",
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Third reading + enactment of same list — enactment wording correctly used only because this is the genuine 3rd-reading+enactment stage. Confirmed."
+ },
+ {
+  "id": "26f45e877e02",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the Latin Gastronomy Festival, to be held July 21, 2018 at the Budweiser Gardens parking lot, as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "That the Latin Gastronomy Festival, to be held on July 21, 2018, at the Budweiser Gardens parking lot, from 1:00 PM to 12:00 AM BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Event designation (Latin Gastronomy Festival). Confirmed none."
+ },
+ {
+  "id": "e559757fd2e6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the London Taco Fest 2018, to be held August 25, 2018 at the Budweiser Gardens parking lot, as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "That the London Taco Fest 2018, to be held on August 25, 2018, at the Budweiser Gardens parking lot, from 2 PM to 11:30 PM BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Event designation (London Taco Fest). Confirmed none."
+ },
+ {
+  "id": "ec82e9deefa2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Matt Sereda to the Diversity Inclusion & Anti-Oppression Advisory Committee as a Non-Voting Representative from the Thames Valley District School Board for the term ending February 28, 2019.",
+  "confidence": "high",
+  "quote": "That Matt Sereda BE APPOINTED to the Diversity Inclusion & Anti-Oppression Advisory Committee as a Non-Voting Representative from the Thames Valley District School Board for the term ending February 28, 2019.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Committee appointment (Sereda) — GLOBAL_EXCLUDE personnel rule. Confirmed none."
+ },
+ {
+  "id": "f47e268c5c54",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Albert Cheng, Anna-Marie Rose Evans and Maggie Morris to the Animal Welfare Advisory Committee as Voting Members at Large for the term ending February 28, 2019, in accordance with the ranked ballot of Corporate Services Committee nominees.",
+  "confidence": "high",
+  "quote": "That the following BE APPOINTED to the Animal Welfare Advisory Committee as Voting Members at Large for the term ending February 28, 2019: Albert Cheng Anna-Marie Rose Evans Maggie Morris",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Committee appointments (Animal Welfare) — personnel, not a policing/tracked stance. Confirmed none."
+ },
+ {
+  "id": "94d99631d704",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Rose Sirois to the Cycling Advisory Committee as a Voting Member at Large for the term ending February 28, 2019, in accordance with the ranked ballot of Corporate Services Committee nominees.",
+  "confidence": "high",
+  "quote": "That Rose Sirois BE APPOINTED to the Cycling Advisory Committee as a Voting Member at Large for the term ending February 28, 2019; it being noted that the appointment was made in accordance with the attached ranked ballot comprised of the nominees of the Corporate Services Committee.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Committee appointment (Cycling Advisory Committee) — personnel decision, not a Bikes-issue stance (appointing a citizen member says nothing about cycling policy). Confirmed none."
+ },
+ {
+  "id": "cd4ea088b385",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Corporate Services Committee Deferred Matters List, as of February 12, 2018.",
+  "confidence": "high",
+  "quote": "That the Corporate Services Committee Deferred Matters List, as of February 12, 2018, BE RECEIVED.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Received deferred matters list. Confirmed none."
+ },
+ {
+  "id": "671f7fbc360f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the staff report on the 2018 Municipal Election Update, summarizing changes to the Municipal Elections Act, 1996 and the election technology required for the Municipal Election.",
+  "confidence": "high",
+  "quote": "the staff report dated February 20, 2018, entitled \"2018 Municipal Election Update\", providing a summary of changes to the Municipal Elections Act, 1996 and an update with respect to election technology required for the Municipal Election, BE RECEIVED for information.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Received election-technology update for information. Confirmed none."
+ },
+ {
+  "id": "3faeaa3611b0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing by-laws to establish a Municipal Compliance Audit Committee for the 2018 Municipal Election and to approve appointments to it, with the Elections Reserve as the funding source for its annual operating costs.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to establish a Municipal Compliance Audit Committee for the 2018 Municipal Election... the proposed by-law appended to the staff report dated February 20, 2018 as Appendix \"C\" BE INTRODUCED... to approve the appointments to the Municipal Election Compliance Audit Committee... the Elections Reserve BE APPROVED as the source of funding for the annual operating costs related to the Municipal Compliance Audit Committee",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Compliance Audit Committee by-law + funding source — election administration, not a tracked issue. Confirmed none."
+ },
+ {
+  "id": "4b07a7c38d43",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved developing a new Equity and Inclusion Lens, incorporating gender and accessibility dimensions, for City policies, procedures and programs, providing related training to staff and Council Members, and reviewing the Gender Equity Lens for consistency with it.",
+  "confidence": "high",
+  "quote": "a new Equity and Inclusion Lens BE DEVELOPED having regard for the City of Ottawa's 2015 Equity and Inclusion Lens Handbook; it being noted that the new Equity and Inclusion Lens will include the dimensions associated with gender and accessibility; ... training BE PROVIDED to all applicable City of London employees and Council Members... the Gender Equity Lens BE REVIEWED and the Civic Administration BE DIRECTED to review and report back with any recommended changes",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Equity and Inclusion Lens development — not a tracked issue keyword. Confirmed none."
+ },
+ {
+  "id": "4748f5a5e68a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Smart Cities Challenge Applicant Guide for information and authorized the Director, Community & Economic Innovation to take all actions necessary to submit an application to Infrastructure Canada's Smart Cities Challenge on the City's behalf.",
+  "confidence": "high",
+  "quote": "the staff report dated February 20, 2018, including the Smart Cities Challenge Applicant Guide, BE RECEIVED for information; and... the Director, Community & Economic Innovation BE AUTHORIZED to take all actions necessary to make an application on behalf of the City of London, in accordance with the plan contained in the staff report",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Smart Cities Challenge application authorization. Confirmed none."
+ },
+ {
+  "id": "85bef6cc59e2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved apportioning the taxes on subdivided blocks of land among the resulting parcels, as set out in the schedules to the staff report, under Section 356 of the Municipal Act, 2001.",
+  "confidence": "high",
+  "quote": "the taxes on the blocks of land described in the Schedules appended to the staff report dated February 20, 2018 BE APPORTIONED as indicated on those Schedules, pursuant to Section 356 of the Municipal Act, 2001",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "S.356 tax apportionment among subdivided parcels — splits existing liability, not a levy-size or rate decision; budget keywords do not apply. Confirmed none."
+ },
+ {
+  "id": "e39b55e315cc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to report back on examples of Sister City or other city-partnership structures, and received the presentation from S. Knox, President, Rotary Club of London.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to report back at a future meeting of the Corporate Services Committee with examples of cities that have entered into partnerships with other cities, including how they have structured those partnerships... the attached presentation from S. Knox, President, Rotary Club of London, BE RECEIVED.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Sister-city report-back request + presentation received — informational, no tracked issue. Confirmed none."
+ },
+ {
+  "id": "316c04c032b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the request for delegation status for S. Knox, President, Rotary Club of London.",
+  "confidence": "high",
+  "quote": "That the request for delegation status for S. Knox, President, Rotary Club of London, BE APPROVED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Delegation status grant, procedural. Confirmed none."
+ },
+ {
+  "id": "6412d834a02b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the Mayor's communication regarding the United States Conference of Mayors held January 23-26, 2018 in Washington, DC.",
+  "confidence": "high",
+  "quote": "the communication dated February 20, 2018, from Mayor M. Brown, regarding the United States Conference of Mayors held January 23-26, 2018 in Washington, DC BE RECEIVED for information.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Received Mayor conference communication for information. Confirmed none."
+ },
+ {
+  "id": "e1f482ee4a80",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the I ♥ Beer and Bacon Event, to be held March 24, 2018 at the London Convention Centre, as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "That the I ♥ Beer and Bacon Event to be held on March 24, 2018, at the London Convention Centre from 4:00 PM to 10:00 PM, BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Event designation (I love Beer and Bacon Event). Confirmed none."
+ },
+ {
+  "id": "03a559c4b11c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing Official Plan and zoning by-law amendments for 2150 Oxford Street East (OZ-8851) to add a site-specific policy and change the zoning from a Holding Light Industrial zone to a Holding Light Industrial Special Provision zone, permitting a wider range of office-type uses, on the application of Dancor Construction Limited.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend the Official Plan by ADDING a policy to section 10.1.3 – Policies for Specific Areas; ... the proposed by-law appended... as Appendix \"B\" BE INTRODUCED... to amend Zoning By-law No. Z.-1... to change the zoning of the subject property FROM a Holding Light Industrial (h-199*h-200*LI1/LI2/LI4/LI5) Zone TO a Holding Light Industrial Special Provision (h-199*h-200*LI1/LI2/LI4(_)/LI5) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 10, roll call 4-1, T. Park dissenting). Verified: BE INTRODUCED (OP + zoning by-law, LI holding -> LI holding SP) on Dancor application — application-approval axis, expansive, correctly reads as an approval, not a density claim (industrial/office use, not residential density). Quote verbatim, whatAYeaDid uses motion-action voice throughout, no stance verb. Not a denial, not a wrapper. Confirmed."
+ },
+ {
+  "id": "73a530438ba7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the 2150 Oxford Street East (OZ-8851) application.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Open public participation, item 10 — procedural. Confirmed none."
+ },
+ {
+  "id": "31189cc176b9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on the 2150 Oxford Street East (OZ-8851) application.",
+  "confidence": "high",
+  "quote": "Motion to close the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Close public participation, item 10 — procedural. Confirmed none."
+ },
+ {
+  "id": "cde1acd861b1",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 2081 Trafalgar Street (Z-8846) to rezone the property from a Residential R1 zone to a Residential R3 zone and a Residential R3 Special Provision zone, permitting residential infill intensification, on the application of Nicholas Di Pardo.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R1 (R1-1) Zone TO a Residential R3 (R3-2) Zone and a Residential R3 Special Provision (R3-2(_)) Zone... consistent with, and will serve to implement the policies of the Provincial Policy Statement, 2014 which encourage infill and intensification",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 11, unanimous 5-0). Verified: FROM Residential R1 TO Residential R3/R3-SP on Di Pardo application, source itself cites infill/intensification/range-of-housing-types rationale — density axis, expansive is factually correct (R1 to R3 is a real density increase). Quote verbatim. Confirmed."
+ },
+ {
+  "id": "6b4ac2e26084",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the 2081 Trafalgar Street (Z-8846) application.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Open public participation, item 11 — procedural. Confirmed none."
+ },
+ {
+  "id": "e5e241016cb2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on the 2081 Trafalgar Street (Z-8846) application.",
+  "confidence": "high",
+  "quote": "Motion to close the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Close public participation, item 11 — procedural. Confirmed none."
+ },
+ {
+  "id": "709e6ded0b3f",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 255 South Carriage Road (Z-8850) to rezone the property from a Residential R4 zone to a Residential R4 Special Provision zone, on the application of Kenmore Homes.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R4 (R4-4) Zone TO a Residential R4 Special Provision (R4-4 (_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 12, unanimous 5-0). Verified: FROM R4 TO R4-SP on Kenmore Homes application, staff reasons cite Multi Family Medium Density Residential/Hyde Park Plan consistency but base zone unchanged (R4->R4) — application-approval axis (not density) is the defensible read since the base density category does not change. Quote verbatim. Confirmed."
+ },
+ {
+  "id": "838521ba8fc8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the 255 South Carriage Road (Z-8850) application.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Open public participation, item 12 — procedural. Confirmed none."
+ },
+ {
+  "id": "94001d5156f6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on the 255 South Carriage Road (Z-8850) application.",
+  "confidence": "high",
+  "quote": "Motion to close the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Close public participation, item 12 — procedural. Confirmed none."
+ },
+ {
+  "id": "45271d1128a3",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 220 Adelaide Street South (Z-8853) to rezone the property from a Light Industrial zone to a Light Industrial Special Provision zone permitting a Commercial Recreation Establishment, and directed staff to consider a London Plan place-type amendment for the site, on the application of 2479429 Ontario Inc.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Light Industrial (LI1) Zone TO a Light Industrial Special Provision (LI1(_)) Zone",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 13, unanimous 5-0). Verified: FROM LI1 TO LI1-SP (permits Commercial Recreation Establishment) plus part b) directing staff to consider a London Plan place-type amendment, on 2479429 Ontario Inc. application — application-approval axis, expansive; whatAYeaDid correctly captures both parts a) and b). Quote verbatim. Confirmed."
+ },
+ {
+  "id": "8958cba5c420",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the 220 Adelaide Street South (Z-8853) application.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Open public participation, item 13 — procedural. Confirmed none."
+ },
+ {
+  "id": "e009b4d7184c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on the 220 Adelaide Street South (Z-8853) application.",
+  "confidence": "high",
+  "quote": "Motion to close the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Close public participation, item 13 — procedural. Confirmed none."
+ },
+ {
+  "id": "1148e5936b41",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 644 and 646 Huron Street (Z-8843) to rezone the properties from a Restricted Office zone to a Holding Residential R9 Special Provision zone, permitting residential intensification where only office uses were previously permitted, on the application of Steve Pinhal.",
+  "confidence": "high",
+  "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Restricted Office (RO1) Zone TO a Holding Residential R9 Special Provision (h-5-R9-3(__)-H13) Zone... would bring the permitted uses on the site into greater conformity with the policies of both the Official Plan and The London Plan by permitting residential uses where the present zoning only permits office uses",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 14, unanimous 5-0). Verified: FROM Restricted Office TO Holding Residential R9-SP on Pinhal application; source's own reasons state this 'will allow for a form of residential intensification' and 'bring the permitted uses ... into greater conformity ... by permitting residential uses where the present zoning only permits office uses' — density axis, expansive, directly supported by source language (not inferred). Quote verbatim. Confirmed."
+ },
+ {
+  "id": "c7e93e5544dc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Opened the public participation meeting on the 644 and 646 Huron Street (Z-8843) application.",
+  "confidence": "high",
+  "quote": "Motion to open the public participation meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Open public participation, item 14 — procedural. Confirmed none."
+ },
+ {
+  "id": "16b36db28d63",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on the 644 and 646 Huron Street (Z-8843) application; the closing motion's own label is not captured in the source text.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural",
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Checked the raw item-14 content array directly: the 'close public participation' label paragraph is genuinely absent before the 3rd Motion block (index 5) — classifier did not invent a quote for a missing label. no_text/medium-confidence correctly applied rather than guessed. Confirmed."
+ },
+ {
+  "id": "8d959a0f6566",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the application by Harasym Homes Inc. for lands at 1900 Kilgorman Way (H-8854) back to the Managing Director, Development and Compliance Services and Chief Building Official, to undertake a further Minimum Distance Separation calculation in accordance with the 2017 MDS guidelines and report back at the next Planning and Environment Committee meeting.",
+  "confidence": "high",
+  "quote": "the application by Harasym Homes Inc., relating to lands located at 1900 Kilgorman Way, comprising Lot 9 Registered Plan No. 33M-682, BE REFERRED back to the Managing Director, Development and Compliance Services and Chief Building Official to undertake a further Minimum Distance Separation (MDS) calculation in accordance with the 2017 MDS and to report back at the next Planning and Environment Committee meeting",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Referral of Harasym Homes (1900 Kilgorman Way) back to staff for further MDS calculation and report-back — DEFER_RE-only clause, no AFFIRM/DENY verb of its own, correctly axis/polarity null per deferOnly rule. Confirmed."
+ },
+ {
+  "id": "e694de280dbc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Granted delegation status to M. Moussa at the meeting.",
+  "confidence": "high",
+  "quote": "Motion to grant delegation status to M. Moussa at this meeting.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Delegation status grant (Moussa) — procedural. Confirmed none."
+ },
+ {
+  "id": "1f8cb60a8fa0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Cultural Heritage Screening Report for the London Bus Rapid Transit System to the Stewardship Sub-Committee for further heritage research and a report back, endorsed establishing a federal tax credit for the restoration and preservation of buildings on the Canadian Register of Historic Places, and approved the London Advisory Committee on Heritage's response letter to Community Heritage Ontario.",
+  "confidence": "medium",
+  "quote": "the Cultural Heritage Screening Report for the London Bus Rapid Transit System, dated February 6, 2018, from WSP Group, BE REFERRED to the Stewardship Sub-Committee for review of properties identified in the Screening Report which may require further heritage research... the establishment of a tax credit for the restoration and preservation of buildings listed on the Canadian Register of Historic Places BE ENDORSED by the London Municipal Council; and, the revised letter from the London Advisory Committee on Heritage... BE APPROVED by the Municipal Council",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Heritage screening report referred + tax-credit endorsement + LACH letter approved — heritage is not a tracked issue keyword; correctly none despite containing BE ENDORSED/BE APPROVED verbs. Confirmed."
+ },
+ {
+  "id": "8c58ddeb1613",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b)i) of the 3rd Report of the London Advisory Committee on Heritage; the specific wording change the amendment made is not distinguishable from the pre-amendment clause in the source text.",
+  "confidence": "low",
+  "quote": "Motion to amend part b) i) to read \"the establishment of a tax credit for the restoration and preservation of buildings listed on the Canadian Register of Historic Places BE ENDORSED by the London Municipal Council; and,\"",
+  "flags": [
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 16, roll call ordinal 1, 3-2 divided: nays Cassidy/Helmer). Verified independently: the quoted amendment text for part b)i) is character-for-character identical to the pre-amendment clause already quoted under the main item-16 motion (both read 'the establishment of a tax credit ... BE ENDORSED by the London Municipal Council; and,'). No distinguishable substantive change is recoverable from the source Word-eSCRIBE extraction. Classifier correctly declined to guess a direction on a divided vote where the actual change is unverifiable — this is exactly the responsible call the BAR requires. Confirmed (no false-direction risk taken)."
+ },
+ {
+  "id": "489f9b0d5431",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Advisory Committee on the Environment's 2018 Work Plan, received its 2017 Work Plan Summary, and directed depositing the $10.75 left over from its 2016 Urban Agriculture event into the ACE 2018 budget.",
+  "confidence": "high",
+  "quote": "the 2018 Work Plan for the Advisory Committee on the Environment (ACE) appended to the 3rd Report of the ACE BE APPROVED; and, the 2017 Advisory Committee on the Environment (ACE) Work Plan Summary appended to the 3rd Report of the ACE BE RECEIVED; ... the funds left-over from the Urban Agriculture event held by the Advisory Committee on the Environment (ACE) in 2016, in the amount of $10.75 BE DEPOSITED into the ACE 2018 budget",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "ACE 2018 work plan approval + 2017 summary received + $10.75 leftover deposit — no climate keyword (climate/GHG/tree canopy/net-zero/etc.) appears in the text; environment-adjacent title alone does not qualify per issue-rules.ts. Confirmed none."
+ },
+ {
+  "id": "55aab86f7b5d",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested staff to report back to the Trees and Forests Advisory Committee with information on tree-planting incidents near hydro poles, an update on the impact of the Tree Protection By-law amendments, and reports on the Community Planting Projects and the Green Legacy program.",
+  "confidence": "high",
+  "quote": "M. Pease, Manager, Development Planning and J.A. Spence, Manager, Urban Forestry, BE REQUESTED to provide the Trees and Forests Advisory Committee (TFAC), at its June 2018 meeting, information relating to how many incidents of tree planting near hydro poles they prevented or resolved in 2017... the Manager, Urban Forestry, BE REQUESTED to provide an update at the next Trees and Forests Advisory Committee on the impact of the Tree Protection By-law as it relates to the proposed amendments to the by-law",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Report-back request (hydro-pole tree-planting incidents, Tree Protection By-law impact, Community Planting/Green Legacy updates) — INFORMATIONAL_ASK_RE-only (BE REQUESTED to provide information/update), correctly axis-null per isInformationalAskOnly rule. Confirmed."
+ },
+ {
+  "id": "8609f0a82f75",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 905 Sarnia Road (H-8849) removing the 'h', 'h-65' and 'h-100' holding provisions from the existing zoning, on the application of 905 Sarnia Inc.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*R1-3 (8)) Zone... TO a Residential R1 Special Provision (R1-3 (8)) Zone... to remove the h., h-65 and h-100 holding provisions",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "905 Sarnia Rd holding-provision removal (h/h-65/h-100 removed), unanimous 5-0. Full text pulled: a holding-provision lift is a technical unlock of an already-approved zoning, not a new grant of use or density — axis/polarity null is the defensible, conservative read, and the vote is unanimous so there is zero false-direction risk either way. Confirmed."
+ },
+ {
+  "id": "be960260a45d",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 810 Southdale Road East (H-8204) removing the 'h-117' holding provision from the existing zoning, on the application of Jipeng Zou and Junjun Chen.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the Zoning of the subject lands FROM a Holding Special Provision Convenience Commercial/Automobile Service Station (h-117*CC2/SS3(2)) Zone TO a Special Provision Convenience Commercial/ Automobile Service Station (CC2/SS3(2)) Zone to remove the \"h-117\" holding provision",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "810 Southdale Rd E holding-provision removal (h-117 removed), unanimous 5-0. Same technical-unlock reasoning as 905 Sarnia. Confirmed."
+ },
+ {
+  "id": "011d42b2a1c8",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a zoning by-law amendment for 660 Sunningdale Road East (Applewood Subdivision, 39T-09501/Z-8818) to rezone the property from various holding zones to residential (R1/R4/R5/R6/R8) and business district commercial zones establishing development standards for the revised Draft Plan of Subdivision, and determined that no further public notice of the amendment was required, on the application of Extra Realty Limited.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated February 20, 2018, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on March 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 Special Provision... Zone... TO a Holding Residential R1 (h-h-100-h-173-R1-3) Zone, to permit single detached dwellings... pursuant to Section 34(17) of the Planning Act... no further notice BE GIVEN in respect of the proposed by-law",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Full text pulled (PEC item 6, unanimous 5-0). Verified: multi-zone holding refinement for the Applewood Subdivision revised Draft Plan (Extra Realty), plus Section 34(17) no-further-notice determination, on the application — application-approval axis, expansive, medium confidence appropriately reflects the zone-string complexity. Quote verbatim (ellipsis-compressed, segments exact). Confirmed."
+ }
+]

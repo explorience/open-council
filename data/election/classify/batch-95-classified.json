@@ -1,0 +1,282 @@
+[
+  {
+    "id": "e3534d5fea04",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted D. Park and other delegates an additional three minutes for their delegation on the Byron Valley Nature Trail Planning Process.",
+    "confidence": "high",
+    "quote": "D. Park, et. al. BE GRANTED an additional three minutes for their delegation.",
+    "flags": ["procedural", "not_divided"]
+  },
+  {
+    "id": "7e815d4765fd",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning the property at 324 York Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182703 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 324 York Street.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "2609b98ea7b3",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning the property at 324 York Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182703 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 324 York Street.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "5337f555f0b6",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning the property at 324 York Street.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182703 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 324 York Street.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "60a45ec925a5",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Refused Bradel Properties Ltd.'s request to amend Zoning By-law No. Z.-1 to extend the Temporary Use (T-71) Zone permitting a surface commercial parking lot at 324 York Street for a further three years.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property by extending the Temporary Use (T-71) Zone for a temporary period of three (3) years, BE REFUSED for the following reasons: i) the request is not consistent with the policies of the Provincial Policy Statement, 2014; ii) the request does not conform to the newly established policies of the 1989 Official Plan or The London Plan regarding temporary commercial parking lots; iii) the request does not implement the goals of Our Move Forward: London's Downtown Plan; and, iv) the request does not implement the recommendations of the Downtown Parking Strategy;",
+    "flags": []
+  },
+  {
+    "id": "e5b7d937f0f6",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced, for the Municipal Council meeting of November 6, 2018, a by-law to amend Zoning By-law No. Z.-1 to extend the Temporary Use (T-71) Zone at 324 York Street for a period not exceeding six months.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated October 29, 2018 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 6, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-71) Zone for a period not exceeding six (6) months",
+    "flags": []
+  },
+  {
+    "id": "41e831fb6ebb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended Item 13 (3.6) to refer the Byron Valley Nature Trail plan to the Civic Administration to present at a community meeting and report back with the comments received, and to invite the Upper Thames River Conservation Authority and Ministry of Natural Resources as delegations at a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "That Item 13 (3.6) BE AMENDED to read as follows: ... c) the proposed Plan appended to the staff report noted in a) above, BE REFERRED to the Civic Administration to present at a community meeting to be held in Bryon with all interested parties being invited to the community meeting and report back with the comments provided at the community meeting; d) the Upper Thames River Conservation Authority and the Ministry of Natural Resources BE INVITED as delegations at a future meeting of the Planning and Environment Committee when the Civic Administration reports back on c) above, to provide comments regarding the Byron Valley Nature Trail Planning Process;",
+    "flags": ["referral"]
+  },
+  {
+    "id": "5610073f8140",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved Item 13 (3.6), the Byron Valley Nature Trail Planning Process report, as amended: received the staff report for information, thanked the Trails Advisory Group and Byron Participation House staff and residents, referred the proposed plan to the Civic Administration to present at a community meeting and report back with comments, and invited the Upper Thames River Conservation Authority and Ministry of Natural Resources as delegations at a future Planning and Environment Committee meeting.",
+    "confidence": "high",
+    "quote": "c) the proposed Plan appended to the staff report noted in a) above, BE REFERRED to the Civic Administration to present at a community meeting to be held in Bryon with all interested parties being invited to the community meeting and report back with the comments provided at the community meeting; and, d) the Upper Thames River Conservation Authority and the Ministry of Natural Resources BE INVITED as delegations at a future meeting of the Planning and Environment Committee when the Civic Administration reports back on c) above, to provide comments regarding the Byron Valley Nature Trail Planning Process;",
+    "flags": ["referral"]
+  },
+  {
+    "id": "fdd058bb1f88",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the applications by 31675 Ontario Limited (York Developments) for Sites 1, 3, and 5 at 3080 Bostwick Road back to the Civic Administration to complete the technical review and, where appropriate, prepare a Bonus Zone reflecting the greater height and density proposed; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would 'lock in' the design of the building and establish the commensurate facilities, services and matters that the applicant would provide in favour of the greater height and density at this site in accordance with the City of London Southwest Area Secondary Plan, 1989 Official Plan, The London Plan, and Section 37 of the Planning Act.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "3da6e788ab16",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced, for the November 20, 2018 Council meeting, by-laws amending the Official Plan and rezoning 3080 Bostwick Road (Site 1) from an Urban Reserve zone to a Holding Residential/Convenience Commercial/Restricted Office Bonus zone; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the request to amend the Official Plan to add the site to the list of preferred locations for convenience commercial uses, and the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone TO a Holding Residential R9/Convenience Commercial Special Provision/Restricted Office Special Provision Bonus ... Zone, BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018",
+    "flags": []
+  },
+  {
+    "id": "c3e242873030",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the applications by 31675 Ontario Limited (York Developments) for Sites 1, 3, and 5 at 3080 Bostwick Road back to the Civic Administration to complete the technical review and, where appropriate, prepare a Bonus Zone reflecting the greater height and density proposed; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would 'lock in' the design of the building and establish the commensurate facilities, services and matters that the applicant would provide in favour of the greater height and density at this site in accordance with the City of London Southwest Area Secondary Plan, 1989 Official Plan, The London Plan, and Section 37 of the Planning Act.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "7a667d02d7cf",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced, for the November 20, 2018 Council meeting, a by-law rezoning 3080 Bostwick Road (Site 3) from an Urban Reserve zone to a Holding Residential R9 Special Provision zone, in conformity with the Official Plan; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone TO a Holding Residential R9 Special Provision (h, h-213, h-(_), h-(_), R9-7(_)*H55) Zone, BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend Zoning By-law No. Z.- 1, (in conformity with the Official Plan)",
+    "flags": []
+  },
+  {
+    "id": "0f868d70c59c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the applications by 31675 Ontario Limited (York Developments) for Sites 1, 3, and 5 at 3080 Bostwick Road back to the Civic Administration to complete the technical review and, where appropriate, prepare a Bonus Zone reflecting the greater height and density proposed; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the applications submitted by 31675 Ontario Limited (York Developments), relating to Sites 1, 3 and 5, 3080 Bostwick Road BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and, where appropriate, prepare a Bonus Zone that would 'lock in' the design of the building and establish the commensurate facilities, services and matters that the applicant would provide in favour of the greater height and density at this site in accordance with the City of London Southwest Area Secondary Plan, 1989 Official Plan, The London Plan, and Section 37 of the Planning Act.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "eb918d7cf2da",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have introduced, for the November 20, 2018 Council meeting, by-laws amending the Official Plan and rezoning 3080 Bostwick Road (Site 5) from an Urban Reserve zone to a Holding Residential/Convenience Commercial/Restricted Office Bonus zone; this failed on a tied vote.",
+    "confidence": "high",
+    "quote": "the request to amend the Official Plan to add the site to the list of preferred locations for convenience commercial uses, and the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone TO a Holding Residential R9/Convenience Commercial Special Provision/Restricted Office Special Provision Bonus ... Zone, BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018",
+    "flags": []
+  },
+  {
+    "id": "bbd43064c13b",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced, for the Council meeting of November 20, 2018, by-laws to redesignate 230 North Centre Road from Multi-Family Medium Density to Multi-Family High Density Residential in the Official Plan and to rezone it to a Holding Residential R9 Bonus Zone permitting an apartment building of up to 15 storeys (192 units per hectare), in exchange for specified community benefits.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated November 12, 2018 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend the Official Plan to change the designation of the subject lands FROM a Multi-Family, Medium Density Residential designation TO a Multi-Family, High Density Residential designation; ... the proposed by-law appended to the staff report dated November 12, 2018 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a Holding Residential R5/R7/R8 (h-5*R5-7/R7*D75*H12/R8-4*H12) Zone TO a Holding Residential R9 Bonus (h-183*R9-7*B(_)) Zone; it being noted that the B(_) Bonus Zone shall be implemented through one or more agreements to provide for an apartment building height of 15 storeys or 56 metres (183.7ft) with an increased density of up to 192 units per hectare",
+    "flags": []
+  },
+  {
+    "id": "99d7ea159250",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted G. McGinn-McTeer an extension of speaking time beyond five minutes at the public participation meeting on 230 North Centre Road.",
+    "confidence": "high",
+    "quote": "Grant G. McGinn-McTeer an extension beyond 5 minutes.",
+    "flags": ["procedural", "not_divided"]
+  },
+  {
+    "id": "ed0c56f888e4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 230 North Centre Road application back to staff to reduce the massing of the proposed building; this failed.",
+    "confidence": "medium",
+    "quote": "Referral to Staff to reduce the massing.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "fca7b0a0b391",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-laws amending the Official Plan and rezoning the property at 230 North Centre Road.",
+    "confidence": "medium",
+    "quote": "By-law No. C.P.-1284(uf)-515 - A by-law to amend the Official Plan for the City of London, 1989 relating to 230 North Centre Road. By-law No. Z.-1-182710 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 230 North Centre Road.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "6f53722b54ca",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-laws amending the Official Plan and rezoning the property at 230 North Centre Road.",
+    "confidence": "medium",
+    "quote": "By-law No. C.P.-1284(uf)-515 - A by-law to amend the Official Plan for the City of London, 1989 relating to 230 North Centre Road. By-law No. Z.-1-182710 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 230 North Centre Road.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "d1074674e71e",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-laws amending the Official Plan and rezoning the property at 230 North Centre Road.",
+    "confidence": "medium",
+    "quote": "By-law No. C.P.-1284(uf)-515 - A by-law to amend the Official Plan for the City of London, 1989 relating to 230 North Centre Road. By-law No. Z.-1-182710 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 230 North Centre Road.",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "f7f40a5a6779",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-laws rezoning 3080 Bostwick Road (Sites 1, 3, and 5) and amending the Official Plan for Sites 1 and 5.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182711 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 1). By-law No. Z.-1-182712 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 3). By-law No. Z.-1-182713 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 5). By-law No. C.P.-1284(ug)-533 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 1). By-law No. C.P.-1284(uh)-534 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 5).",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "b359c9411bda",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-laws rezoning 3080 Bostwick Road (Sites 1, 3, and 5) and amending the Official Plan for Sites 1 and 5.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182711 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 1). By-law No. Z.-1-182712 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 3). By-law No. Z.-1-182713 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 5). By-law No. C.P.-1284(ug)-533 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 1). By-law No. C.P.-1284(uh)-534 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 5).",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "769694f27d3f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-laws rezoning 3080 Bostwick Road (Sites 1, 3, and 5) and amending the Official Plan for Sites 1 and 5.",
+    "confidence": "medium",
+    "quote": "By-law No. Z.-1-182711 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 1). By-law No. Z.-1-182712 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 3). By-law No. Z.-1-182713 - A by-law to amend By-law No. Z.-1 to rezone an area of land located at 3080 Bostwick Road (Site 5). By-law No. C.P.-1284(ug)-533 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 1). By-law No. C.P.-1284(uh)-534 - A by-law to amend the Official Plan for the City of London, 1989 relating to 3080 Bostwick Road (Site 5).",
+    "flags": ["procedural"]
+  },
+  {
+    "id": "05fe80a47606",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the applications for 3080 Bostwick Road Sites 1 and 5 back to the Civic Administration to complete the technical review and prepare a Bonus Zone reflecting the greater height and density proposed, and to review the timing of future road works in the area; this failed.",
+    "confidence": "high",
+    "quote": "The applications submitted by 31675 Ontario Limited (York Developments) for the property described as 3090 Bostwick Road, relating to Sites 1, 3 and 5, BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and where appropriate, prepare a Bonus Zone that would 'lock in' the design of the building and establish the commensurate facilities, services and matters that the applicant would provide in favour of the greater height and density at this site in accordance with the City of London Southwest Area Secondary Plan, Official Plan, The London Plan, and Section 37 of the Planning Act, and that the timing of future road works in this area BE REVIEWED.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "49940f94cf06",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the application for 3080 Bostwick Road Site 3 back to the Civic Administration to complete the technical review and prepare a Bonus Zone reflecting the greater height and density proposed, and to review the timing of future road works in the area; this failed.",
+    "confidence": "high",
+    "quote": "The applications submitted by 31675 Ontario Limited (York Developments) for the property described as 3090 Bostwick Road, relating to Sites 1, 3 and 5, BE REFERRED back to the Civic Administration to work with the applicant to complete the technical review and where appropriate, prepare a Bonus Zone that would 'lock in' the design of the building and establish the commensurate facilities, services and matters that the applicant would provide in favour of the greater height and density at this site in accordance with the City of London Southwest Area Secondary Plan, Official Plan, The London Plan, and Section 37 of the Planning Act, and that the timing of future road works in this area BE REVIEWED.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "2d5f2e36847b",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced, for the Council meeting of November 20, 2018, by-laws to rezone 3080 Bostwick Road Sites 1, 3, and 5 for high-density mixed-use development, including an 18-storey and a 21-storey tower on Site 1 (up to 262 units per hectare) and a 3-storey building and a 17-storey tower on Site 5 (up to 209 units per hectare), together with Official Plan amendments for Sites 1 and 5 and specified community benefits.",
+    "confidence": "high",
+    "quote": "Site 1 ... the proposed by-law attached hereto as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM an Urban Reserve (UR4) Zone, TO a holding Residential R9/Convenience Commercial Special Provision/Restricted Office Special Provision Bonus ... Zone; it being noted that the B(_) Bonus Zone shall be implemented through one or more agreements to provide for mixed-use development with one 18 storey (70m (229ft)) tower and one 21 storey (77m (269ft)) tower, with an increased density up to 262 units per hectare ... Site 5 ... to provide for a three storey (13.5m (44 ft)) mixed office and commercial building and one 17 storey (68m (223ft)) tower, with an increased density up to 209 units per hectare",
+    "flags": []
+  },
+  {
+    "id": "0f1fa5801faa",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the 230 North Centre Road application back to staff to work with the applicant to reduce the number of units and the density of the proposal; this failed.",
+    "confidence": "high",
+    "quote": "the application for 230 North Centre Road (OZ-8874) BE REFERRED back to staff to continue to work with the applicant to reduce the number of units in the site and reduce the density of the application.",
+    "flags": ["referral"]
+  },
+  {
+    "id": "c25db3a31a29",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced, for the Council meeting of November 20, 2018, by-laws to redesignate 230 North Centre Road from Multi-Family Medium Density to Multi-Family High Density Residential in the Official Plan and to rezone it to a Holding Residential R9 Bonus Zone permitting an apartment building of up to 18 storeys (199 units per hectare), in exchange for specified community benefits.",
+    "confidence": "high",
+    "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend the Official Plan to change the designation of the subject lands FROM a Multi-Family, Medium Density Residential designation, TO a Multi-Family, High Density Residential designation; ... the proposed by-law attached hereto as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on November 20, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above, to change the zoning of the subject property FROM a Holding Residential R5/R7/R8 (h-5*R5-7/R7*D75*H12/R8-4*H12) Zone, TO a Holding Residential R9 Bonus (h-132*R9-7*B(_)) Zone; it being noted that the B(_) Zone shall be implemented through one or more agreements to provide for an apartment building height of 18 storeys or 62 metres (203.4ft) with an increased density of up to 199 units per hectare",
+    "flags": []
+  }
+]

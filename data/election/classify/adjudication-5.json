@@ -1,0 +1,694 @@
+[
+  {
+    "id": "9476baec322f",
+    "field": "whatAYeaDid",
+    "live_value": "Would have substituted a revised by-law excluding the Community Mail Box “No Parking in Posted Locations” provisions from part 7 of the original draft, requested the Civic Administration report back on enforcing parking restrictions on a complaint basis at Community Mail Box locations, and received a communication from J. Ostrom on the matter.",
+    "pass2_value": "Would have adopted a further motion on 'Amendments to the Traffic and Parking By-law'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Would have substituted a revised by-law excluding the Community Mail Box “No Parking in Posted Locations” provisions from part 7 of the original draft, requested the Civic Administration report back on enforcing parking restrictions on a complaint basis at Community Mail Box locations, and received a communication from J. Ostrom on the matter.",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 ... it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes ... b) the Civic Administration BE REQUESTED to report back ... c) the communication from J. Ostrom ... BE RECEIVED",
+    "reason": "Source item 3 (2016-03-29 Civic Works Cttee) has a dedicated Paragraph node with this exact a)/b)/c) text directly preceding this specific Motion (Failed 2-3). Real, substantive text confirmed verbatim -- pass2's no_text is factually wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 Civic Works Cttee, item 3): the a)/b)/c) substitute-motion Paragraph is present verbatim immediately before the Failed 2-3 Motion node. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "9476baec322f",
+    "field": "quote",
+    "live_value": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111); it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes as originally contained in part 7 of the draft by-law submitted by the Civic Administration",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111); it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes as originally contained in part 7 of the draft by-law submitted by the Civic Administration",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 ... it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes ... b) the Civic Administration BE REQUESTED to report back ... c) the communication from J. Ostrom ... BE RECEIVED",
+    "reason": "Source item 3 (2016-03-29 Civic Works Cttee) has a dedicated Paragraph node with this exact a)/b)/c) text directly preceding this specific Motion (Failed 2-3). Real, substantive text confirmed verbatim -- pass2's no_text is factually wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 Civic Works Cttee, item 3): the a)/b)/c) substitute-motion Paragraph is present verbatim immediately before the Failed 2-3 Motion node. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "9476baec322f",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 ... it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes ... b) the Civic Administration BE REQUESTED to report back ... c) the communication from J. Ostrom ... BE RECEIVED",
+    "reason": "Source item 3 (2016-03-29 Civic Works Cttee) has a dedicated Paragraph node with this exact a)/b)/c) text directly preceding this specific Motion (Failed 2-3). Real, substantive text confirmed verbatim -- pass2's no_text is factually wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 Civic Works Cttee, item 3): the a)/b)/c) substitute-motion Paragraph is present verbatim immediately before the Failed 2-3 Motion node. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "9476baec322f",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 ... it being noted that the revised proposed by-law excludes the provisions pertaining to Community Mail Boxes ... b) the Civic Administration BE REQUESTED to report back ... c) the communication from J. Ostrom ... BE RECEIVED",
+    "reason": "Source item 3 (2016-03-29 Civic Works Cttee) has a dedicated Paragraph node with this exact a)/b)/c) text directly preceding this specific Motion (Failed 2-3). Real, substantive text confirmed verbatim -- pass2's no_text is factually wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 Civic Works Cttee, item 3): the a)/b)/c) substitute-motion Paragraph is present verbatim immediately before the Failed 2-3 Motion node. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "axis",
+    "live_value": "application-approval",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "application-approval",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "polarity",
+    "live_value": "expansive",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "expansive",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "whatAYeaDid",
+    "live_value": "Approved part c) of the recommendation on the Victoria on the River plan of subdivision revisions submitted by Sifton Properties Limited, introducing the by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards.",
+    "pass2_value": "Adopted a motion on 'Victoria on the River Subdivision (39T-09502/Z-8528)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved part c) of the recommendation on the Victoria on the River plan of subdivision revisions submitted by Sifton Properties Limited, introducing the by-law to rezone the subject property to Residential R1 Special Provision zones permitting single detached dwellings with specified lot coverage, frontage, and area standards.",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "aab1d0fc1bdc",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "c) the proposed by-law appended to the staff report dated March 29, 2016, BE INTRODUCED ... to change the zoning of the subject property FROM a Residential R1 (R1-4) Zone TO a Residential R1 Special Provision (R1-4( )) Zone...",
+    "reason": "Item 13 (2016-03-29 PEC) votes on part c) specifically (3-2 Passed); part c)'s full rezoning text is explicitly labeled and stated within the item's single recommendation Paragraph. Real text exists -- pass2's no_text is wrong. (Any committee/Council duplication with 1d40691a851c is a separate twin-dedup question, not in scope here.)",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-03-29 PEC, item 13): part c) rezoning text is present verbatim in the item's single recommendation Paragraph, directly preceding the 3-2 Passed vote. pass2's no_text claim is factually wrong; pass1 upheld."
+  },
+  {
+    "id": "9da63985bc96",
+    "field": "whatAYeaDid",
+    "live_value": "Approved the 2nd Report of the Community Safety and Crime Prevention Advisory Committee: approving the Committee's 2016 Work Plan; advising Council that the Committee expressed support for Business Case #17 (Winter Maintenance) and requested snow removal for schools and seniors' areas be made a higher priority; taking no action on the Committee's proposed letters to Council and the London Police Services Board regarding Community Resource Officer and Children's Safety Village consultation and School Crossing Guard support; noting that the 2016-2019 Multi-Year Budget process had been finalized; and receiving clauses 1 to 2 and 4 to 8.",
+    "pass2_value": "Adopted a motion on '2nd Report of the Community Safety and Crime Prevention Advisory Committee'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved the 2nd Report of the Community Safety and Crime Prevention Advisory Committee: approving the Committee's 2016 Work Plan; advising Council that the Committee expressed support for Business Case #17 (Winter Maintenance) and requested snow removal for schools and seniors' areas be made a higher priority; taking no action on the Committee's proposed letters to Council and the London Police Services Board regarding Community Resource Officer and Children's Safety Village consultation and School Crossing Guard support; noting that the 2016-2019 Multi-Year Budget process had been finalized; and receiving clauses 1 to 2 and 4 to 8.",
+    "quote": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "reason": "Item 21 (2016-03-30 CPSC) is a single-vote item (4-1 Passed) with one dedicated recommendation Paragraph directly preceding the single Motion node. Full text confirmed present verbatim -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "9da63985bc96",
+    "field": "quote",
+    "live_value": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "quote": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "reason": "Item 21 (2016-03-30 CPSC) is a single-vote item (4-1 Passed) with one dedicated recommendation Paragraph directly preceding the single Motion node. Full text confirmed present verbatim -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "9da63985bc96",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "reason": "Item 21 (2016-03-30 CPSC) is a single-vote item (4-1 Passed) with one dedicated recommendation Paragraph directly preceding the single Motion node. Full text confirmed present verbatim -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "9da63985bc96",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the attached 2016 Work Plan for the Community Safety and Crime Prevention Advisory Committee BE APPROVED",
+    "reason": "Item 21 (2016-03-30 CPSC) is a single-vote item (4-1 Passed) with one dedicated recommendation Paragraph directly preceding the single Motion node. Full text confirmed present verbatim -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "axis",
+    "live_value": "application-approval",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "application-approval",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "polarity",
+    "live_value": "expansive",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "expansive",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "whatAYeaDid",
+    "live_value": "Approved the recommendation on the Thames Valley District School Board's application for the property at a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road, introducing a by-law to rezone the property from Holding Residential R1 zones to a Neighbourhood Facility Special Provision/Holding Residential R1 zone permitting single detached dwellings and a Neighbourhood Facility (places of worship, elementary schools, day care centres), and requesting the Site Plan Approval Authority to consider specified urban design and pedestrian/traffic-safety measures through the site plan process.",
+    "pass2_value": "Adopted a motion on 'Properties located on a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road (Cedarhollow Subdivision) (Z-8596)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved the recommendation on the Thames Valley District School Board's application for the property at a portion of 1800 Cedarhollow Boulevard and 776-802 Killarney Road, introducing a by-law to rezone the property from Holding Residential R1 zones to a Neighbourhood Facility Special Provision/Holding Residential R1 zone permitting single detached dwellings and a Neighbourhood Facility (places of worship, elementary schools, day care centres), and requesting the Site Plan Approval Authority to consider specified urban design and pedestrian/traffic-safety measures through the site plan process.",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 19, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h*R1-3) Zone, a Holding Residential R1 (h*R1-4) Zone and a Residential R1 Special Provision (R1-3(7)) Zone TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF(   )/h*R1-3) Zone",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on April 19, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h*R1-3) Zone, a Holding Residential R1 (h*R1-4) Zone and a Residential R1 Special Provision (R1-3(7)) Zone TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF(   )/h*R1-3) Zone",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b1fb8e0b0b43",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "the proposed by-law appended to the staff report dated April 11, 2016 as Appendix “A” BE INTRODUCED ... TO a Neighbourhood Facility Special Provision/Holding Residential R1 (NF( )/h*R1-3) Zone",
+    "reason": "Item 8 (2016-04-11 PEC, Cedarhollow) is a single main vote (4-1 Passed, matches this id) with one recommendation Paragraph covering the whole a)/b)/c) directly preceding it -- no part-by-part split like item 13. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b0e9db24ec4b",
+    "field": "whatAYeaDid",
+    "live_value": "Approved part a) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the candidate names to form a ballot be determined by the Strategic Priorities and Policy Committee, per the attached slate.",
+    "pass2_value": "Adopted a motion on 'Greater London International Airport Authority Board of Directors – Nominations'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved part a) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the candidate names to form a ballot be determined by the Strategic Priorities and Policy Committee, per the attached slate.",
+    "quote": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "reason": "Item 9 (2016-04-18 SPPC) part a) text is quoted verbatim from the item's single recommendation Paragraph, directly matching the 12-1 Passed vote. Real text confirmed present -- pass2's added no_text flag is wrong (both passes correctly keep the 'appointment' flag / GLOBAL_EXCLUDE null direction).",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b0e9db24ec4b",
+    "field": "quote",
+    "live_value": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "quote": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "reason": "Item 9 (2016-04-18 SPPC) part a) text is quoted verbatim from the item's single recommendation Paragraph, directly matching the 12-1 Passed vote. Real text confirmed present -- pass2's added no_text flag is wrong (both passes correctly keep the 'appointment' flag / GLOBAL_EXCLUDE null direction).",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b0e9db24ec4b",
+    "field": "flags",
+    "live_value": [
+      "appointment"
+    ],
+    "pass2_value": [
+      "no_text",
+      "appointment"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "appointment"
+    ],
+    "quote": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "reason": "Item 9 (2016-04-18 SPPC) part a) text is quoted verbatim from the item's single recommendation Paragraph, directly matching the 12-1 Passed vote. Real text confirmed present -- pass2's added no_text flag is wrong (both passes correctly keep the 'appointment' flag / GLOBAL_EXCLUDE null direction).",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "b0e9db24ec4b",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the candidate names to form a ballot BE DETERMINED by the Strategic Priorities and Policy Committee (SPPC); it being noted that the attached slate of names was determined by the SPPC",
+    "reason": "Item 9 (2016-04-18 SPPC) part a) text is quoted verbatim from the item's single recommendation Paragraph, directly matching the 12-1 Passed vote. Real text confirmed present -- pass2's added no_text flag is wrong (both passes correctly keep the 'appointment' flag / GLOBAL_EXCLUDE null direction).",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a1d9982f0ce6",
+    "field": "whatAYeaDid",
+    "live_value": "Approved part d) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the top six candidates from the ranked ballot process be invited to participate in an interview at a future Corporate Services Committee meeting.",
+    "pass2_value": "Adopted a further motion on 'Greater London International Airport Authority Board of Directors – Nominations'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved part d) of the process for determining Municipal Council's nominees to the Greater London International Airport Authority board: that the top six candidates from the ranked ballot process be invited to participate in an interview at a future Corporate Services Committee meeting.",
+    "quote": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "reason": "Same item 9 (2016-04-18 SPPC), part d) text quoted verbatim from the same recommendation Paragraph, directly matching its own Motion vote. Real text confirmed present -- pass2's added no_text flag is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a1d9982f0ce6",
+    "field": "quote",
+    "live_value": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "quote": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "reason": "Same item 9 (2016-04-18 SPPC), part d) text quoted verbatim from the same recommendation Paragraph, directly matching its own Motion vote. Real text confirmed present -- pass2's added no_text flag is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a1d9982f0ce6",
+    "field": "flags",
+    "live_value": [
+      "appointment"
+    ],
+    "pass2_value": [
+      "no_text",
+      "appointment"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "appointment"
+    ],
+    "quote": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "reason": "Same item 9 (2016-04-18 SPPC), part d) text quoted verbatim from the same recommendation Paragraph, directly matching its own Motion vote. Real text confirmed present -- pass2's added no_text flag is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a1d9982f0ce6",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the top six candidates from the ranked ballot process BE INVITED to participate in an interview at a future meeting of the Corporate Services Committee",
+    "reason": "Same item 9 (2016-04-18 SPPC), part d) text quoted verbatim from the same recommendation Paragraph, directly matching its own Motion vote. Real text confirmed present -- pass2's added no_text flag is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a8961edabab7",
+    "field": "whatAYeaDid",
+    "live_value": "Would have received a staff report on the RFP process for internal and external audit services and approved it in principle.",
+    "pass2_value": "Would have received and endorsed in principle a staff report on the RFP process for internal and external audit services.",
+    "decision": "keep_pass1",
+    "chosen_value": "Would have received a staff report on the RFP process for internal and external audit services and approved it in principle.",
+    "quote": "the staff report dated April 13, 2016 regarding the RFP process for internal and external audit services BE RECEIVED and endorsed in principle",
+    "reason": "Both wordings are factually equivalent, but the whatAYeaDid convention bans a stance verb ('Endorsed') opening or mid-sentence regardless of hedging. Pass1's 'approved it in principle' complies; pass2's 'endorsed ... in principle' injects the banned stance verb mid-sentence and would fail the suite's style check.",
+    "checkVerdict": "upheld",
+    "checkNote": "Spot-checked against source (2016-04-19 Council Minutes, item 2#5): quote 'BE RECEIVED and endorsed in principle' confirmed verbatim. Convention check: the corpus's own whatAYeaDid pattern uses 'Approved' (not a banned stance verb) as its standard action verb throughout; 'Endorsed' is the banned term. pass1's 'approved it in principle' complies, pass2's 'endorsed ... in principle' would fail the suite's stance-verb check. pass1 upheld."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "whatAYeaDid",
+    "live_value": "Referred the Mushroom Farm Zoning Review back to the Civic Administration to report back to the Planning and Environment Committee with further amendments to the proposed by-law, and determined under section 34(17) of the Planning Act that no further public notice was required as the amendments were minor and in accordance with the public notice already given.",
+    "pass2_value": "Adopted a motion on 'Mushroom Farm Zoning Review (Z-8513)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Referred the Mushroom Farm Zoning Review back to the Civic Administration to report back to the Planning and Environment Committee with further amendments to the proposed by-law, and determined under section 34(17) of the Planning Act that no further public notice was required as the amendments were minor and in accordance with the public notice already given.",
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "quote",
+    "live_value": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "flags",
+    "live_value": [
+      "referral"
+    ],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "referral"
+    ],
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "58c0af234722",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "the Mushroom Farm Zoning Review BE REFERRED back to the Civic Administration to report back at a future meeting of the Planning and Environment Committee for further amendments to the proposed by-law",
+    "reason": "Item 10 (2016-04-25 PEC) is a single-vote item (4-1 Passed) with a dedicated recommendation Paragraph directly preceding it -- real text confirmed, pass2's no_text is wrong. On issue: committed corpus practice keeps the substantive topic tag on referrals of a real subject (e.g. batch-74's d537dc042224 keeps 'climate', 1d93d82d8820 keeps 'transit' on referrals) -- only referrals of non-tracked subjects get issue:none. A zoning-review referral is squarely a housing/land-use matter, so pass1's 'housing' (with axis/polarity correctly null for the referral) is the pattern-consistent choice, not pass2's 'none'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "axis",
+    "live_value": "application-approval",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "application-approval",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "polarity",
+    "live_value": "expansive",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "expansive",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "whatAYeaDid",
+    "live_value": "Introduced a by-law rezoning the property at 1602 Sunningdale Road West submitted by Foxwood Development (London) Inc., revising the Residential R1 Special Provision zone's front and garage yard setbacks and maximum lot coverage (front yard setback from 3.0-4.5m to 4.5-7.5m, garage setback minimum from 6.0m to 5.5m, and maximum lot coverage from 40% to 45%).",
+    "pass2_value": "Adopted a motion on 'Property located at 1602 Sunningdale Road West (Z-8587)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Introduced a by-law rezoning the property at 1602 Sunningdale Road West submitted by Foxwood Development (London) Inc., revising the Residential R1 Special Provision zone's front and garage yard setbacks and maximum lot coverage (front yard setback from 3.0-4.5m to 4.5-7.5m, garage setback minimum from 6.0m to 5.5m, and maximum lot coverage from 40% to 45%).",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "quote",
+    "live_value": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*R1-4(26)) Zone, which permits single detached lots with a minimum lot frontage of  12m, a minimum lot area of 360m2, a 3.0m minimum and 4.5m maximum front yard setback to a dwelling, a 6.0m minimum setback to a garage and a maximum lot coverage of 40% TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots with a minimum lot frontage of 12m, a minimum lot area of 360m2, a 4.5m minimum and a 7.5m maximum front yard setback to a dwelling, a 5.5m minimum setback to a garage and a maximum lot coverage of 45%",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R1 Special Provision (h*h-100*R1-4(26)) Zone, which permits single detached lots with a minimum lot frontage of  12m, a minimum lot area of 360m2, a 3.0m minimum and 4.5m maximum front yard setback to a dwelling, a 6.0m minimum setback to a garage and a maximum lot coverage of 40% TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots with a minimum lot frontage of 12m, a minimum lot area of 360m2, a 4.5m minimum and a 7.5m maximum front yard setback to a dwelling, a 5.5m minimum setback to a garage and a maximum lot coverage of 45%",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "a42e3b94c6e6",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "the proposed by-law appended to the staff report dated May 9, 2016, BE INTRODUCED ... TO a Holding Residential R1 Special Provision (h*h-100*R1-4(*)) Zone, which permits single detached lots ... a maximum lot coverage of 45%",
+    "reason": "Item 8 (2016-05-09 PEC, Sunningdale) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "axis",
+    "live_value": "application-approval",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "application-approval",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "polarity",
+    "live_value": "expansive",
+    "pass2_value": null,
+    "decision": "keep_pass1",
+    "chosen_value": "expansive",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "whatAYeaDid",
+    "live_value": "Introduced a revised by-law extending the Temporary Use (T-54) zoning at 195 Dundas Street, submitted by Ayerswood Development Corp., for a period not exceeding one year.",
+    "pass2_value": "Adopted a motion on 'Property located at 195 Dundas Street (TZ-8592)'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Introduced a revised by-law extending the Temporary Use (T-54) zoning at 195 Dundas Street, submitted by Ayerswood Development Corp., for a period not exceeding one year.",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "quote",
+    "live_value": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  },
+  {
+    "id": "f480de5c2bdd",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "keep_pass1",
+    "chosen_value": "high",
+    "quote": "the attached, revised, by-law BE INTRODUCED at the Municipal Council meeting to be held on May 17, 2016, to amend Zoning By-law Z.-1 ... by extending the Temporary Use (T-54) Zone for a period not exceeding one (1) year",
+    "reason": "Item 9 (2016-05-09 PEC, 195 Dundas St) is a single main vote (4-1 Passed) with one recommendation Paragraph directly preceding it. Real text confirmed -- pass2's no_text is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Adjudicator's decision was already keep_pass1 (pass2 offered no field value that could be independently confirmed as an improvement); live value retained per bar of no-provable-improvement."
+  }
+]

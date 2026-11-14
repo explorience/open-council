@@ -1,0 +1,574 @@
+[
+  {
+    "id": "e0bf37767d79",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back, as soon as possible, with licensing options for new ground transportation providers (TNCs) and private vehicle-for-hire provisions, as part of amendments to the Taxicab and Limousine Licensing By-law.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back, as soon as possible, to the Community and Protective Services Committee providing licensing options with respect to new ground transportation providers (TNCs) and provisions for “private vehicle-for-hire” options",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-09-29 MINUTES 26TH MEETING item 9#2 (Vehicle for Hire - New Technologies), part a). Text is a pure report-back direction, no housing/budget keyword; no false statement risk (polarity null)."
+  },
+  {
+    "id": "c6b403b6590a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to apply to the Province with respect to fine amendments included in the Taxicab and Limousine Licensing By-law L.-129-51.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to apply to the Province with respect to fine amendments included in the Taxicab and Limousine Licensing By-law L.-129-51",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 9#2, part b) -- direction to apply to the Province re: fine amendments. Governance/regulatory, correctly none/null."
+  },
+  {
+    "id": "0a84d6e43c9f",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have directed the Civic Administration to put additional resources in place for enhanced enforcement of the Taxicab and Limousine Licensing By-law, approved one-time funding of $200,000 for 2015/2016 from the Operating Budget Contingency Reserve, and added ongoing funding of $200,000 per fiscal year to the base budget.",
+    "confidence": "medium",
+    "quote": "the one-time funding for this service, in the amount of $200,000 for the 2015/2016 period from the Operating Budget Contingency Reserve BE APPROVED; and iii) the ongoing funding for this service in the amount of $200,000 per fiscal year BE ADDED to the base budget",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 9#2, the Morgan/Armstrong amendment (Motion Failed, 6-9). Quote verbatim incl. both $200,000 figures; 'Would have directed...approved...added' hedge correctly covers the whole compound predicate since result=Failed. levy-size/expansive correct: new ongoing+one-time funding added to base budget is an increase. Confirmed."
+  },
+  {
+    "id": "ed0c7f3e129f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to amend the Official Plan and Zoning By-law No. Z.-1 to rezone the properties at 2525 and 2695 Dingman Drive from Urban Reserve, Open Space, and Environmental Review zones to a Residential R1 Special Provision zone (among others), for a new single-detached residential subdivision.",
+    "confidence": "medium",
+    "quote": "the attached, revised, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of 2525 Dingman Drive FROM an Urban Reserve (UR6) Zone, an Open Space (OS4) Zone and an Environmental Review (ER) Zone TO a Residential R1 Special Provision (R1-16(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-05 P&E item 7 Voting Record (4-1, Motion Passed). Quote verbatim from part of the recommendation (UR6/OS4/ER -> R1-16 SP). Genuine new-subdivision rezoning from non-residential to residential; expansive confirmed."
+  },
+  {
+    "id": "0dbae48e7cb0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration to report back by December 1, 2015 with a proposed work plan for dealing with flooding matters, including investigation of causes and recommended remedial actions.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to report back by December 1, 2015, with a proposed work plan for dealing with flooding matters, as initially contemplated in the draft terms of reference for a Flooding Task Force, and including investigation of causes and recommended remedial actions",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Not independently re-verified beyond keyword scan (informational_ask, null polarity, no housing/budget keyword) -- correctly none."
+  },
+  {
+    "id": "ce9633b37cee",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to rezone the properties at 598, 600, 604 and 608 Springbank Drive from Residential R5/R7/R9/Restricted Office zones to a Holding Residential R9 Special Provision zone, and requested the Site Plan Approval Authority to consider design elements including podium height, entrance placement, landscaping, and buffering.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated October 5, 2015, BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R5/Residential R7/Residential R9/Restricted Office (R5-6/R7-D150-H16/R9-7-H16/RO2) Zone TO a Holding Residential R9 Special Provision (h-5-h(_)-R9-7(_)-H44) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-13 Council item 11#2 (13-2, Motion Passed). Quote verbatim (R5/R7/R9/RO2 -> Holding R9 SP). Rezoning to higher-density residential provision; expansive confirmed."
+  },
+  {
+    "id": "d816862fbd82",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing a by-law to amend the Official Plan and Zoning By-law No. Z.-1 to rezone the properties at 2525 and 2695 Dingman Drive from Urban Reserve, Open Space, and Environmental Review zones to a Residential R1 Special Provision zone (among others), for a new single-detached residential subdivision.",
+    "confidence": "medium",
+    "quote": "the attached, revised, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 13, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of 2525 Dingman Drive FROM an Urban Reserve (UR6) Zone, an Open Space (OS4) Zone and an Environmental Review (ER) Zone TO a Residential R1 Special Provision (R1-16(_)) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-13 Council item 7#2 -- text identical to ed0c7f3e129f's committee version (14-1). Twin verdict correctly carried forward. Confirmed."
+  },
+  {
+    "id": "9e1a9c4ba058",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to a by-law (Bill No. 350) to rezone the properties at 2525 and 2695 Dingman Drive (Z-8512).",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No. 350.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-13 Council item XIII, 'Approve Introduction and First Reading of Bill No. 350' (14-1, S. Turner nay -- matches Dingman Z-8512 vote pattern). Reading-stage voice correct (lowercase, no enactment wording on 1st reading). Confirmed."
+  },
+  {
+    "id": "4ec02f0c611c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to a by-law (Bill No. 350) to rezone the properties at 2525 and 2695 Dingman Drive (Z-8512).",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 350.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 2nd reading of Bill No. 350 (14-1). Confirmed."
+  },
+  {
+    "id": "eb608f7b0669",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading to and enacted a by-law (Bill No. 350) to rezone the properties at 2525 and 2695 Dingman Drive (Z-8512).",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 350.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 3rd reading and enactment of Bill No. 350 (14-1). Enactment wording correctly present only here (3rd reading). Confirmed."
+  },
+  {
+    "id": "7adb9d016221",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave first reading to a by-law (Bill No. 353) to rezone the properties at 598, 600, 604 and 608 Springbank Drive (Z-8374).",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No. 353.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 1st reading of Bill No. 353 (13-2, A. Hopkins/V. Ridley nay -- matches Springbank Z-8374 vote pattern). Confirmed."
+  },
+  {
+    "id": "9b0ed7b36c90",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave second reading to a by-law (Bill No. 353) to rezone the properties at 598, 600, 604 and 608 Springbank Drive (Z-8374).",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 353.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 2nd reading of Bill No. 353 (13-2). Confirmed."
+  },
+  {
+    "id": "641dfac5c2a2",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "expansive",
+    "whatAYeaDid": "Gave third reading to and enacted a by-law (Bill No. 353) to rezone the properties at 598, 600, 604 and 608 Springbank Drive (Z-8374).",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 353.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 3rd reading and enactment of Bill No. 353 (13-2). Confirmed."
+  },
+  {
+    "id": "cc3e889a2778",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law No. Z.-1 to redesignate and rezone a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated October 19, 2015 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2015, to amend the Official Plan to change the designation on a portion of the subject lands FROM a Multi-Family, Medium Density Residential designation TO an Office Area designation",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-19 P&E item 7, 'Motion to move parts a) and b)' (4-1, J. Helmer nay). Quote verbatim (OP redesignation Multi-Family Medium Density Residential -> Office Area). Restrictive confirmed -- loses residential designation on the parcel."
+  },
+  {
+    "id": "0c3f7d99a90e",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Refused a requested zoning by-law amendment that would have permitted controlled parking (through barriers and prescribed fees) at 2605-2651 Tokala Trail (OZ-8511), citing inconsistency with the Zoning By-law's intent for required parking spaces.",
+    "confidence": "medium",
+    "quote": "the request to amend Zoning By-law No. Z.-1 to change the zoning of the subject property FROM a Holding Community Facility/Holding Residential R6 Special Provision/Residential R7/Residential R8 ... Zone TO a Holding Office Special Provision ... Zone and a Residential R1 Special Provision/Residential R4 ... Zone, BE REFUSED for the following reasons: i) the requested amendment will facilitate the ability to charge a fee for access a required parking space, contrary to the intent of the Zoning By-law",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 7, 'Motion to move part c)' (4-1, P. Hubert nay). Quote verbatim -- refuses ONLY the requested parking-fee special provision, not the underlying rezoning. whatAYeaDid is correctly narrow (never says 'denied housing'). Confirmed as a defensible, already-disclosed narrow application of the OZ-8511 code pattern; direction (restrictive=denied) matches DENY_RE fallback logic in direction-rules.ts. No stronger basis found to overturn."
+  },
+  {
+    "id": "4b6f2407707f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the matter of a proposed chaining/tethering/penning of dogs by-law to the Civic Administration for review and consideration, with a report back at a future Community and Protective Services Committee meeting.",
+    "confidence": "high",
+    "quote": "the matter of a proposed chaining/tethering/penning of dogs by-law BE REFERRED to the Civic Administration for review and consideration, with a report back at a future meeting of the Community and Protective Services Committee",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral, procedural, no housing/budget keyword -- correctly none/null."
+  },
+  {
+    "id": "99e9d91feac0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended a Governance Working Group recommendation on Council compensation formulae to also recognize MP and MPP compensation and population-proportional compensation, with future increases or decreases tied to MP/MPP compensation changes.",
+    "confidence": "high",
+    "quote": "Motion to amend part a)i) of the proposed recommendation to include potential additional formulae that recognize Members of Parliament (MP) and Members of the Legislative Assembly of Ontario (MPP) compensation, as well as proportional compensation based upon population, also tying in future increases/decreases to what increases/decreases are made to MP and MPP compensation",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Council-remuneration matter (globally excluded per era notes) -- correctly none/null."
+  },
+  {
+    "id": "a3189de55f19",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the staff report on the Governance Working Group's review of Council compensation matters, along with the proposed motion from Councillors V. Ridley and J. Zaifman, back to the Governance Working Group to consider different compensation formulae.",
+    "confidence": "high",
+    "quote": "Motion to refer the staff report dated October 26, 2015, with respect to the Governance Working Group review of Council compensation matters, as well as the proposed motion put forth by Councillors V. Ridley and J. Zaifman, as noted in the motion above, back to the Governance Working Group to consider different formulae for determining Council compensation",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral, council-remuneration -- correctly none/null."
+  },
+  {
+    "id": "42c4f5496179",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Reallocated $300,000 of 2015 Community Arts Investment Program (CAIP) Category 1 funding to CAIP Category 2 (administered by the London Arts Council), and initiated an application process in November 2015 for arts organizations to apply to provide orchestral music services from January to May 2016.",
+    "confidence": "medium",
+    "quote": "the Community Arts Investment Program (CAIP) Category 1 funding of $300,000 BE REALLOCATED for 2015, within the same granting program to CAIP Category 2 (now called the CAIP Program), which is administered by the London Arts Council (LAC) through a professional jury process",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "CAIP $300,000 reallocation -- verified no 'budget' vocabulary keyword (operating/capital budget, tax levy, business case, development charges) in text; correctly none per exact-keyword vocabulary gating, not a missed budget classification."
+  },
+  {
+    "id": "5de4b08e2e1f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on requesting that the London Arts Council amend its Board membership to include a City of London Council member, and took no further action to pursue placing a Council Member on the London Arts Council.",
+    "confidence": "high",
+    "quote": "the staff report dated October 26, 2015 concerning Council's consideration to request that the London Arts Council (LAC) amend its Board membership to include a City of London Council member BE RECEIVED for information and NO FURTHER ACTION BE TAKEN to pursue placing a Council Member on the London Arts Council",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "LAC board-membership receive-for-information -- correctly none/null."
+  },
+  {
+    "id": "34cc34df8cd9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the staff recommendation on modernizing the municipal granting process to incorporate an administration-led vetting of 2016 funding programs, to ensure consistency with the City's Strategic Plan as a condition of qualifying for funding.",
+    "confidence": "high",
+    "quote": "Motion to amend the staff recommendation to incorporate an administration-led vetting of 2016 funding programs to ensure they are consistent with the City's Strategic Plan and would, therefore qualify for funding",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Governance/process amendment (Strategic Plan vetting) -- correctly none/null."
+  },
+  {
+    "id": "c49b745885a5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved allocating a portion of Ontario Lottery and Gaming (OLG) revenues toward incremental increases in the Innovation and Capital Community Grants Program funding stream from 2017 through 2019, as part of modernizing the municipal granting process.",
+    "confidence": "medium",
+    "quote": "Ontario Lottery and Gaming (OLG) revenues may be allocated towards a portion of these incremental increases to the Innovation and Capital Community Grants Program funding stream from 2017 through 2019",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "OLG revenue allocation to grants stream -- no budget keyword ('capital' appears only inside a program name); correctly none per vocabulary gating."
+  },
+  {
+    "id": "6b1a5f9c9fcb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the matter of a proposed chaining/tethering/penning of dogs by-law to the Civic Administration for review and consideration, with a report back at a future Community and Protective Services Committee meeting.",
+    "confidence": "high",
+    "quote": "the matter of a proposed chaining/tethering/penning of dogs by-law BE REFERRED to the Civic Administration for review and consideration, with a report back at a future meeting of the Community and Protective Services Committee",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Duplicate dog chaining/tethering referral (Council twin of 4b6f2407707f) -- correctly none/null."
+  },
+  {
+    "id": "36b17f933bdd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 13, as amended (excluding new part f), accepting the KnowledgeSurge Learning Solutions Inc. (Drivewise) proposal for supply and delivery of a Driver Simulator at $169,342 (HST extra), approving the associated funding, and authorizing the Civic Administration to undertake the necessary administrative acts for the purchase.",
+    "confidence": "medium",
+    "quote": "Approve clause 13, as amended, excluding the new part f).",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-27 Council item 13 (Driver Simulator RFP 15-03), 'Approve clause 13, as amended, excluding new part f)' (13-2). $169,342 procurement -- no 'budget' vocabulary keyword present (operating/capital budget, tax levy, business case, development charges all absent); correctly none per exact-keyword gating and the procurement/appointment-is-null convention."
+  },
+  {
+    "id": "1e300e3bfbe6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have forwarded a comment recommending consideration of a speed-feedback sign, showing a frowning face for speeding drivers and a happy face for drivers at the correct speed, to the Civic Administration as part of comments on reducing speed limits near schools.",
+    "confidence": "high",
+    "quote": "consideration of a sign with a face that frowns when people are driving too quickly and a happy face when people are driving at the correct speed",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Failed comment/suggestion re: speed-feedback sign -- correctly none/null."
+  },
+  {
+    "id": "b0ecf9fe166d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the staff report on the Governance Working Group's review of Council compensation matters, along with the proposed motion from Councillors V. Ridley and J. Zaifman, back to the Governance Working Group to consider different compensation formulae.",
+    "confidence": "high",
+    "quote": "That the staff report dated October 26, 2015, with respect to the Governance Working Group review of Council compensation matters, as well as the following proposed motion put forth by Councillors V. Ridley and J. Zaifman, BE REFERRED back to the Governance Working Group to consider different formulae for determining Council compensation",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Referral, council-remuneration -- correctly none/null."
+  },
+  {
+    "id": "905474f096fb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred clause 5 of the 23rd Report of the Strategic Priorities and Policy Committee (the CAIP policy and funding amendment) back to the Civic Administration to report back on how it relates to Council's April 14, 2015 direction on the WE PLAY ON Performance Fund and Building a New Collaborative Orchestra/Music Model, before further consideration.",
+    "confidence": "high",
+    "quote": "Approve that clause 5 of the 23rd Report of the Strategic Priorities and Policy Committee BE REFERRED back to the Civic Administration to report back at a future meeting of the Strategic Priorities and Policy Committee with respect the direction of the Municipal Council of its meeting held on April 14, 2015",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Failed referral of CAIP clause back to admin -- correctly none/null."
+  },
+  {
+    "id": "a59776808f78",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved reconsidering clause 5 of the 15th Report of the Strategic Priorities and Policy Committee (Orchestra London funding and the WE PLAY ON Performance Fund), as originally adopted by Council on April 14, 2015.",
+    "confidence": "high",
+    "quote": "Approve reconsideration of clause 5 of the 15th Report of the Strategic Priorities and Policy Committee as adopted by the Municipal Council at its meeting held on April 14, 2015.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Procedural reconsideration motion -- correctly none/null."
+  },
+  {
+    "id": "33b96574c719",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 5 of the 15th Report of the Strategic Priorities and Policy Committee (originally adopted April 14, 2015) to instead ask the London Arts Council for quarterly progress updates on a new orchestra/music model, and to reallocate $200,000 annually in CAIP Category 1 funding to CAIP Category 2 for 2015 through 2018 to fund a new Development Acceleration Stream.",
+    "confidence": "medium",
+    "quote": "the Community Arts Investment Program (CAIP) Category 1 funding of $200,000 BE RE-ALLOCATED within the same granting program to CAIP Category 2 for each of the years 2015, 2016, 2017, and 2018 for the purpose of funding a new Development Acceleration Stream of this Category for specific organizations currently receiving operating funding",
+    "flags": [
+      "substitution"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "CAIP $200,000/yr substitution amendment for orchestra funding -- no budget keyword; correctly none per vocabulary gating."
+  },
+  {
+    "id": "0b9892ce9529",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 5 of the 23rd Report of the Strategic Priorities and Policy Committee, as amended -- asking the London Arts Council for quarterly progress updates on a new orchestra/music model, reallocating $200,000 annually in CAIP Category 1 funding to a new CAIP Category 2 Development Acceleration Stream for 2015 through 2018, and requesting the LAC report back on how program funds are extended.",
+    "confidence": "medium",
+    "quote": "Approve clause 5 of the 23rd Report of the Strategic Priorities and Policy Committee, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Wrapper approval of clause 5 as amended -- same CAIP matter, no budget keyword; correctly none."
+  },
+  {
+    "id": "01ef42e8258d",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have approved introducing by-laws to redesignate and rezone a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation, refused a requested zoning provision permitting parking fees, and requested Site Plan Approval Authority design considerations.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated October 19, 2015 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2015, to amend the Official Plan to change the designation on a portion of the subject lands FROM a Multi-Family, Medium Density Residential designation TO an Office Area designation",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-27 Council item 7, first (original committee recommendation) motion, Motion Failed 5-10. Quote verbatim. 'Would have approved...refused...requested' hedge correctly covers the compound predicate. Restrictive confirmed: the OP redesignation to Office Area is the dominant housing-relevant clause, and it would have passed as restrictive had this vote succeeded."
+  },
+  {
+    "id": "42cba9ee91f2",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Amended clause 7 of the 23rd Report of Planning and Environment by replacing the recommendation to refuse a zoning provision permitting parking fees with a revised by-law introduction permitting controlled parking through barriers and prescribed fees, as part of the Tokala Trail (OZ-8511) rezoning to an Office Special Provision zone.",
+    "confidence": "medium",
+    "quote": "the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 27, 2015 to amend Zoning By-law No. Z.-1 ... TO a Holding Office Special Provision (h*h-17*h-54*h-71*h-95*OF5(__)) Zone, with a special provision, to permit controlled parking through the use of barriers and prescribed fees",
+    "flags": [
+      "substitution"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 7, second motion (Morgan/Brown substitution amendment replacing parts b)/c), Motion Passed 11-4). Quote verbatim -- reverses the refusal into an explicit grant of the parking-fee special provision. Checked substitution-vs-final convention: NOT every nay-voter on this amendment (Armstrong, Salih, Helmer, Turner) approved the final 'clause 7 as amended' vote (Salih/Helmer/Turner stayed Nay on the final; only Armstrong flipped) -- so this is a genuine substantive vote, not a non-substantive procedural swap to null out. Expansive (approved/AFFIRM_RE fallback) confirmed."
+  },
+  {
+    "id": "1d7f4ec01410",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved clause 7 of the 23rd Report of Planning and Environment, as amended, adopting by-laws to redesignate a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation, rezoning the property to a Holding Office Special Provision zone (with a special provision permitting controlled parking through barriers and prescribed fees) and Residential R1/R4 zones.",
+    "confidence": "medium",
+    "quote": "Approve clause 7, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against same item 7, third motion 'Approve clause 7, as amended' (Motion Passed 11-4). Wrapper correctly unpacked to the substantive package (OP redesignation to Office + Office SP zone w/ parking-fee provision + Residential R1/R4). Restrictive confirmed -- the OP redesignation away from Multi-Family Residential is unchanged by the amendment and remains the housing-defining clause."
+  },
+  {
+    "id": "680d0c7292ca",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Gave first reading to by-laws (Bill No. 357 and the revised Bill No. 366), as amended, to redesignate and rezone a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation.",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No. 357 and the revised Bill No. 366.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-10-27 Council item XIII, 'Approve Introduction and First Reading of Bill No. 357 and the revised Bill No. 366' (13-2, J. Helmer/S. Turner nay). Confirmed, matches clause 7 direction."
+  },
+  {
+    "id": "7c5b2a64db26",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Gave second reading to by-laws (Bill No. 357 and the revised Bill No. 366), as amended, to redesignate and rezone a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation.",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 357 and the revised Bill No. 366.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 2nd reading of Bill No. 357/366 (11-4, Armstrong/Salih/Helmer/Turner nay). Confirmed."
+  },
+  {
+    "id": "11256244f4e4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": "restrictive",
+    "whatAYeaDid": "Gave third reading to and enacted by-laws (Bill No. 357 and the revised Bill No. 366), as amended, to redesignate and rezone a portion of the properties at 2605-2651 Tokala Trail (OZ-8511) from a Multi-Family, Medium Density Residential designation to an Office Area designation.",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 357 and the revised Bill No. 366.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item XIII, 3rd reading and enactment of Bill No. 357/366 (11-4). Enactment wording correctly present only here. Confirmed."
+  },
+  {
+    "id": "ea66755e925b",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Solicitor to provide legal representation and retain necessary experts to defend Municipal Council's position at an Ontario Municipal Board hearing on the appeal of the Site Plan Approval application for 510 Central Avenue.",
+    "confidence": "high",
+    "quote": "the City Solicitor BE DIRECTED to provide legal representation at the Ontario Municipal Board hearing and to take such steps as are necessary, including retaining such experts as the City Solicitor may determine are necessary, to support Municipal Council's position relating to the appeal of the Site Plan application",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "OMB legal-representation direction -- correctly issue=housing (Site Plan appeal) but polarity null: funding legal defense doesn't reveal a stance on the underlying site plan. Confirmed null."
+  },
+  {
+    "id": "b1affc6a8afe",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved introducing a by-law to rezone the properties at 2065 Coronation Drive and 955 Gainsborough Road from a Community Facility zone and a Residential R5 Special Provision zone (which permitted cluster townhouse and cluster stacked townhouse dwellings) to a Residential R1 Special Provision zone permitting only single detached dwellings, and advised the Approval Authority that Council supports draft approval of a 60-lot single-detached subdivision plan.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated November 2, 2015 as Appendix “D” BE INTRODUCED ... to change the zoning of the subject property FROM a Community Facility (CF1/CF3) Zone, which permits uses such as places of worship and schools and from a Residential R5 Special Provision (R5-5(2)) Zone, which permits cluster townhouse dwellings and cluster stacked townhouse dwellings TO a Residential R1 Special Provision (R1-3(4)) Zone, to permit single detached dwellings",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "Verified against 2015-11-02 P&E item 5 Voting Record (4-1, J. Helmer nay; source paragraph itself reads '2065 Coronation Drive', title says '2095' -- a source typo, whatAYeaDid correctly follows the operative paragraph text). Quote verbatim, restrictive/use-permission direction confirmed (CF + R5 SP permitting cluster/stacked townhouses -> R1 SP permitting single detached only). CORRECTED: whatAYeaDid's closing clause ', and supported draft approval of a 60-lot single-detached subdivision plan' is a mid-sentence coordinated stance-verb predicate -- the exact defect class scripts/election/verify-no-stance-verb-whataeadid.py exists to catch (its own docstring cites the near-identical '...and supported draft approval of...' string as the canonical round-9 example). Reworded to motion-action voice tracking the source's own 'the Approval Authority BE ADVISED that Municipal Council supports the draft approval' construction, which does not trip the coordinator-adjacency rule."
+  },
+  {
+    "id": "bf08ab77de86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved introducing a by-law to delete Section 26.4.c)9) of the Zoning By-law and rezone the property at 2170 Wharncliffe Road South from a Holding Arterial Commercial Special Provision zone to a Holding Arterial Commercial Special Provision/Temporary zone, for the Cedar Auto application.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 2, 2015 BE INTRODUCED at the Municipal Council meeting to be held on November 10, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), TO DELETE Section 26.4.c) 9) and to change the zoning of the subject property FROM a Holding Arterial Commercial Special Provision (h-17*h-142*AC2(9)) Zone and an Environmental Review (ER) Zone TO a Holding Arterial Commercial Special Provision/Temporary (h-17*h-142* AC2(_)/T-(__) Zone",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-11-02 P&E item 6 Voting Record (4-1, J. Helmer nay), Cedar Auto TZ-8520. Zone change is Holding Arterial Commercial SP -> Holding Arterial Commercial SP/Temporary -- purely commercial, zero residential content despite 'rezone'/'Official Plan' boilerplate. issue=none override confirmed correct, not a missed housing classification."
+  },
+  {
+    "id": "db849891bd75",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting on the Cedar Auto zoning application for the property at 2170 Wharncliffe Road South.",
+    "confidence": "high",
+    "quote": "Motion to close the public participation meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 6, close public participation (4-1). Procedural; correctly none/null."
+  },
+  {
+    "id": "4d24ee7ebfec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised the Chief Building Official that Municipal Council consents to the demolition of the property at 759 Elizabeth Street and does not intend to issue a notice of intent to designate it under the Ontario Heritage Act, and took no further action on clause 14 of the 12th Report of the London Advisory Committee on Heritage.",
+    "confidence": "high",
+    "quote": "the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of this property and does not intend to issue a notice of intent to designate the property under Section 29 of the Ontario Heritage Act; and, b) that NO ACTION be taken with respect to clause 14 of the 12th Report of the London Advisory Committee on Heritage",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against 2015-11-02 P&E item 7 Voting Record (3-2, J. Helmer/S. Turner nay), 759 Elizabeth Street. No 'heritage' issue category exists in issue-rules.ts vocabulary and no housing keyword present; correctly none/null."
+  },
+  {
+    "id": "ca37abe5e247",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting on the request for demolition of the property at 759 Elizabeth Street.",
+    "confidence": "high",
+    "quote": "Motion to close the public participation meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 7, close public participation (4-1, M. Cassidy nay). Procedural; correctly none/null."
+  },
+  {
+    "id": "90510490c97a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have given notice of Municipal Council's intention to designate the property at 759 Elizabeth Street as being of cultural heritage value or interest under the Ontario Heritage Act, despite the property owners not concurring with the request.",
+    "confidence": "high",
+    "quote": "notice of Municipal Council's intention to designate the property located at 759 Elizabeth Street to be of cultural heritage value or interest BE GIVEN for the attached reasons under the provisions of subsection 29(3) of the Ontario Heritage Act, R.S.O. 1990, c. O.18; it being noted that the owners of the property have not concurred with this request",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 7, heritage-designation-notice motion, Motion Failed 2-3. No heritage issue category in vocabulary; correctly none/null."
+  },
+  {
+    "id": "6057b04d73a2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised the Chief Building Official that Municipal Council consents to the demolition of the property at 759 Elizabeth Street and does not intend to issue a notice of intent to designate it under the Ontario Heritage Act.",
+    "confidence": "high",
+    "quote": "That the Chief Building Official BE ADVISED that Municipal Council consents to the demolition of this property and does not intend to issue a notice of intent to designate the property under Section 29 of the Ontario Heritage Act.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 7, re-confirming demolition-consent sub-vote (3-2), identical vote composition to 4d24ee7ebfec per classifier's disambiguation method -- verified matches. Correctly none/null."
+  },
+  {
+    "id": "d019a5652a90",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no further action with respect to clause 14 of the 12th Report of the London Advisory Committee on Heritage, concerning the property at 759 Elizabeth Street.",
+    "confidence": "high",
+    "quote": "That NO ACTION be taken with respect to clause 14 of the 12th Report of the London Advisory Committee on Heritage.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Same item 7, re-confirming no-action-on-clause-14 sub-vote (3-2), identical vote composition. Correctly none/null."
+  }
+]
