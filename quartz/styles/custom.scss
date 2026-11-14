@@ -2,6 +2,11 @@
 
 // put your custom CSS here!
 
+// Front Page v3 — design tokens (both themes) + always-graphite masthead
+// re-skin. Site-wide: every page inherits this, not just the homepage.
+// See frontpage.scss's own header comment.
+@use "./frontpage.scss";
+
 // Import homepage styles
 @use "../components/styles/homepage.scss";
 
