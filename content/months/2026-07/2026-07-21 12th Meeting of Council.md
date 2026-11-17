@@ -114,7 +114,7 @@ That Council convenes In Closed Session, from 1:22 PM to 2:26 PM.
 
 ## 5.1&nbsp;&nbsp;&nbsp;11th Meeting held on June 23, 2026
 
-[2026-06-23 Council Minutes](</2026-06/2026-06-23 - Council>)
+[2026-06-23 Council Minutes](</2026-06/2026-06-23 11th Meeting of Council>)
 
 > Motion made by S. Franke
 
@@ -1140,7 +1140,7 @@ it being noted that the communication from Councillor S. Stevenson and the commu
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Infrastructure and Corporate Services Committee
 
-[2026-07-15 ICSC Report 12](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-07-15 ICSC Report 12](</2026-07/2026-07-15 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -1179,7 +1179,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#21update-to-council-policy---queen-elizabeth-scholarship>) Update to Council Policy - Queen Elizabeth Scholarship (Relates to Bill No. 275)
+### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) Update to Council Policy - Queen Elizabeth Scholarship (Relates to Bill No. 275)
 
 > Motion made by H. McAlister
 
@@ -1189,7 +1189,7 @@ That, on the recommendation of the City Clerk, Legal Services, the proposed by-l
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.4)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#24lt-2026-198-operation-and-maintenance-of-landfill-gas-collection-and-flaring-system-w12a-landfill-site>) LT-2026-198 Operation and Maintenance of Landfill Gas Collection and Flaring System W12A Landfill Site
+### 8.1.3&nbsp;&nbsp;&nbsp;(2.4) LT-2026-198 Operation and Maintenance of Landfill Gas Collection and Flaring System W12A Landfill Site
 
 > Motion made by H. McAlister
 
@@ -1219,7 +1219,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.5)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#25municipal-drains-consultant-assignment---limited-tendering--lt-2026-189>) Municipal Drains Consultant Assignment - Limited Tendering- LT-2026-189
+### 8.1.4&nbsp;&nbsp;&nbsp;(2.5) Municipal Drains Consultant Assignment - Limited Tendering- LT-2026-189
 
 > Motion made by H. McAlister
 
@@ -1245,7 +1245,7 @@ c)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(2.3)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#23pet-waste-green-bin-pilot-project-and-townhomes-waste-review>) Pet Waste Green Bin Pilot Project and Townhomes Waste Review
+### 8.1.6&nbsp;&nbsp;&nbsp;(2.3) Pet Waste Green Bin Pilot Project and Townhomes Waste Review
 
 > Motion made by H. McAlister
 
@@ -1279,7 +1279,7 @@ f)    the Civic Administration BE DIRECTED to report back to Committee and Cou
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(2.2)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#22canada-public-transit-fund---baseline-funding--contribution-agreement>) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
+### 8.1.5&nbsp;&nbsp;&nbsp;(2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
 
 > Motion made by H. McAlister
 
