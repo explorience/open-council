@@ -114,7 +114,7 @@ That Council convenes In Closed Session, from 1:22 PM to 2:26 PM.
 
 ## 5.1&nbsp;&nbsp;&nbsp;11th Meeting held on June 23, 2026
 
-[2026-06-23 Council Minutes](</2026-06/2026-06-23 11th Meeting of Council>)
+[2026-06-23 Council Minutes](</2026-06/2026-06-23 - Council>)
 
 > Motion made by S. Franke
 
@@ -283,7 +283,7 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ## 8.4&nbsp;&nbsp;&nbsp;11th Report of the Community and Protective Services Committee
 
-[2026-07-13 CPSC Report](</2026-07/2026-07-13 - Community and Protective Services Committee>)
+[2026-07-13 CPSC Report](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -351,7 +351,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Establishment and Operation of Hazardous Materials Team in Support of Province of Ontario’s Mutual Aid Plan (Relates to Bill No. 266)
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#21establishment-and-operation-of-hazardous-materials-team-in-support-of-province-of-ontarios-mutual-aid-plan>) Establishment and Operation of Hazardous Materials Team in Support of Province of Ontario’s Mutual Aid Plan (Relates to Bill No. 266)
 
 > Motion made by C. Rahman
 
@@ -381,7 +381,7 @@ e) AUTHORIZE the City of London Fire Services to enter onto lands or premises th
 
 ****
 
-### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program: Capital Funding Allocations (2026)
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#22city-of-london-community-grants-program-capital-funding-allocations-2026>) City of London Community Grants Program: Capital Funding Allocations (2026)
 
 > Motion made by C. Rahman
 
@@ -391,7 +391,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-### 8.4.7&nbsp;&nbsp;&nbsp;(4.1) 6th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.4.7&nbsp;&nbsp;&nbsp;[(4.1)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#416th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 6th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -437,7 +437,7 @@ d) clauses 1.1, 3.1 and 5.1 BE RECEIVED.
 
 ****
 
-### 8.4.8&nbsp;&nbsp;&nbsp;(4.2) Amendments to Business Licensing By-Law to Regulate Driving School Instruction
+### 8.4.8&nbsp;&nbsp;&nbsp;[(4.2)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#42amendments-to-business-licensing-by-law-to-regulate-driving-school-instruction>) Amendments to Business Licensing By-Law to Regulate Driving School Instruction
 
 > Motion made by C. Rahman
 
@@ -525,7 +525,7 @@ it being further noted that communications from the following individuals, with 
 
 ****
 
-### 8.4.10&nbsp;&nbsp;&nbsp;(4.4) City of London Special Constable Program
+### 8.4.10&nbsp;&nbsp;&nbsp;[(4.4)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#44city-of-london-special-constable-program>) City of London Special Constable Program
 
 > Motion made by C. Rahman
 
@@ -787,7 +787,7 @@ The Council recesses at 5:00 PM and reconvenes at 5:16 PM.
 
 ****
 
-### 8.4.4&nbsp;&nbsp;&nbsp;(2.4) Housing Stability Services Procurement and Delivery Framework
+### 8.4.4&nbsp;&nbsp;&nbsp;[(2.4)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#24housing-stability-services-procurement-and-delivery-framework>) Housing Stability Services Procurement and Delivery Framework
 
 > Motion made by C. Rahman
 
@@ -907,7 +907,7 @@ it being noted that a communication from K. Morrison, Old East Village Business 
 
 ****
 
-### 8.4.5&nbsp;&nbsp;&nbsp;(2.5) Child Care and Early Years - Engagement of Auditor Services (Relates to Bill No. 267)
+### 8.4.5&nbsp;&nbsp;&nbsp;[(2.5)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#25child-care-and-early-years---engagement-of-auditor-services>) Child Care and Early Years - Engagement of Auditor Services (Relates to Bill No. 267)
 
 > Motion made by C. Rahman
 
@@ -943,7 +943,7 @@ b) DELEGATE the Deputy City Manager, Social and Health Development and the City 
 
 ****
 
-### 8.4.6&nbsp;&nbsp;&nbsp;(2.3) Proposed Winter Response for 2026-2027
+### 8.4.6&nbsp;&nbsp;&nbsp;[(2.3)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#23proposed-winter-response-for-2026-2027>) Proposed Winter Response for 2026-2027
 
 > Motion made by J. Pribil
 
@@ -998,7 +998,7 @@ it being noted that communications from K. Morrison, Old East Village Business I
 
 ****
 
-### 8.4.9&nbsp;&nbsp;&nbsp;(4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors
+### 8.4.9&nbsp;&nbsp;&nbsp;[(4.3)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#43pilot-program-for-air-conditioning-support-for-low-income-seniors>) Pilot Program for Air Conditioning Support for Low-Income Seniors
 
 At 5:45 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -1114,7 +1114,7 @@ it being noted that communications from D. Ronson and N. Fraser, with respect to
 
 ****
 
-### 8.4.11&nbsp;&nbsp;&nbsp;(4.5) By-law Enforcement Administrative Fees
+### 8.4.11&nbsp;&nbsp;&nbsp;[(4.5)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#45by-law-enforcement-administrative-fees>) By-law Enforcement Administrative Fees
 
 > Motion made by C. Rahman
 
