@@ -20,7 +20,8 @@
 }
 
 .voting-bar-yea {
-  background: #22c55e;
+  // Validated Front Page v3 palette, not the old bright stoplight green.
+  background: var(--yea-m);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,7 +30,8 @@
 }
 
 .voting-bar-nay {
-  background: #ef4444;
+  // Validated Front Page v3 palette, not the old bright stoplight red.
+  background: var(--nay-m);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -47,11 +49,14 @@
 
 .voting-stats {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  // minmax(0, 1fr) — see scorecard.scss's .scorecard-metrics comment for
+  // why a bare `1fr` track lets an unbreakable label blow out the whole
+  // page's width under body{overflow-x:hidden}.
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.75rem;
 
   @media (max-width: 600px) {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -66,11 +71,11 @@
 }
 
 .voting-stat-yea {
-  border-left-color: #22c55e;
+  border-left-color: var(--yea-m);
 }
 
 .voting-stat-nay {
-  border-left-color: #ef4444;
+  border-left-color: var(--nay-m);
 }
 
 .voting-stat-absent {
