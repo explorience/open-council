@@ -1,0 +1,493 @@
+[
+  {
+    "id": "c3236a43fd85",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Point of Source Water Treatment Program back to the Civic Administration to report back on the legal and other implications of a two-tier subsidy system.",
+    "confidence": "high",
+    "quote": "That the Point of Source Water Treatment Program BE REFERRED back to the Civic Administration to report back on the legal and other implications of a two-tier subsidy system. (2015-E07)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "f29a811d073e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred the Point of Source Water Treatment Program back to the Civic Administration to consult with the W12A Landfill Public Liaison Committee on a two-tier subsidy approach and report back to the Civic Works Committee.",
+    "confidence": "high",
+    "quote": "Motion to approve that the Point of Source Water Treatment Program BE REFERRED back to the Civic Administration to consult with the W12A Landfill Public Liaison Committee, in order to consider whether or not a two-tier approach to subsidy is the best approach and to report back to the Civic Works Committee with respect to the outcome of that consultation.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "88a9e0b9d0a9",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Included December parking meter revenue from removing free downtown and Richmond Row parking in the Parking Services operating budget.",
+    "confidence": "medium",
+    "quote": "the parking meter revenues noted in a) above, BE INCLUDED in the Parking Services operating budget; it being noted that the additional revenue will help mitigate loss of other revenues",
+    "flags": []
+  },
+  {
+    "id": "222615cb722b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, notwithstanding Council Policy 28(2), up to $175 from Councillor P. Hubert's annual expense allocation to mitigate security costs for the Hyde Park Santa Claus Parade.",
+    "confidence": "high",
+    "quote": "That, notwithstanding Council Policy 28(2) – Council Members’ Expense Account, the request by Councillor P. Hubert to provide up to $175.00 from his annual expense allocation, to mitigate security costs for the Hyde Park Santa Clause Parade, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "cfb814eb6c72",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the draft Terms of Reference for the 2016 Council Compensation Review Task Force so its recommendations would not take effect until the start of the next Council term.",
+    "confidence": "high",
+    "quote": "Motion to Amend the draft proposed Terms of Reference so any approved recommendations of the CCRTF would not be implemented until the beginning of the next Council term.",
+    "flags": []
+  },
+  {
+    "id": "c533d8bc6656",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the draft Terms of Reference for the 2016 Council Compensation Review Task Force to delete the words \"and implemented\" from Guiding Principle #5.",
+    "confidence": "high",
+    "quote": "Motion to Amend the draft proposed Terms of Reference to delete the words \"and implemented\" from Guiding Principle # 5.",
+    "flags": []
+  },
+  {
+    "id": "531423465246",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have authorized the Council Compensation Review Task Force to engage a consultant to assist with the research component of its review.",
+    "confidence": "high",
+    "quote": "The CCRTF BE AUTHORIZED to engage the services of a consultant to assist in the research component of its review.",
+    "flags": [
+      "appointment"
+    ]
+  },
+  {
+    "id": "891690c1426b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave final approval, as amended to delete the words \"and implemented\" from Guiding Principle #5, to the 7th Report of the Governance Working Group — deferring the Council Procedure By-law review, the informal-meetings discussion, and the current-projects-list process to the Governance Working Group's November 25, 2015 meeting, and adopting the revised Terms of Reference for the 2016 Council Compensation Review Task Force.",
+    "confidence": "medium",
+    "quote": "Motion to Approve the main motion as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "66b2f3b9a10f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved London's Community Economic Road Map.",
+    "confidence": "high",
+    "quote": "London’s Community Economic Road Map, attached as Appendix A to the staff report dated November 9, 2015; BE ENDORSED",
+    "flags": []
+  },
+  {
+    "id": "eb5059949ea5",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended part b) of the Shift Rapid Transit Update recommendation to specify Light Rail Transit only, rather than the Hybrid Network of bus and light rail vehicles, as the preliminary preferred Rapid Transit alternative.",
+    "confidence": "medium",
+    "quote": "Motion to Amend part b) to be light rail transit only, rather than a Hybrid Network.",
+    "flags": []
+  },
+  {
+    "id": "66c67d3fc62b",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended part b) of the Shift Rapid Transit Update recommendation to specify Bus Rapid Transit only, rather than the Hybrid Network of bus and light rail vehicles, as the preliminary preferred Rapid Transit alternative.",
+    "confidence": "medium",
+    "quote": "Motion to Amend part b) to be Bus Rapid Transit only.",
+    "flags": []
+  },
+  {
+    "id": "f35d6d0a85cc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave final approval, as amended, to the 7th Report of the Governance Working Group as adopted by the Strategic Priorities and Policy Committee, including the revised Terms of Reference for the 2016 Council Compensation Review Task Force.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "549d707b3238",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the Point of Source Water Treatment Program back to the Civic Administration to report back on the legal and other implications of a two-tier subsidy system.",
+    "confidence": "high",
+    "quote": "That the Point of Source Water Treatment Program BE REFERRED back to the Civic Administration to report back on the legal and other implications of a two-tier subsidy system. (2015-E07)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "e1d3c8a1666f",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved removing free downtown and Richmond Row parking in December, included the resulting parking meter revenue in the Parking Services operating budget, and referred Downtown London's funding proposal to 2016 budget deliberations.",
+    "confidence": "medium",
+    "quote": "the removal of free parking in Downtown and Richmond Row in December BE APPROVED; it being noted that the return of paid parking is supported by Downtown London",
+    "flags": [
+      "referral",
+      "not_divided"
+    ]
+  },
+  {
+    "id": "c923ae6c5a12",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the City of London's participation in the Compact of Mayors.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Director of Community and Economic Innovation, the City of London’s participation in the Compact of Mayors BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "117178eaf5db",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Solicitor to provide legal representation at the Ontario Municipal Board hearing on the appeal of the Site Plan Approval application for 510 Central Avenue, and to take other necessary steps to support Council's position.",
+    "confidence": "medium",
+    "quote": "the City Solicitor BE DIRECTED to provide legal representation at the Ontario Municipal Board hearing and to take such steps as are necessary, including retaining such experts as the City Solicitor may determine are necessary, to support Municipal Council’s position relating to the appeal of the Site Plan application, being Ontario Municipal Board File Number PL150720",
+    "flags": []
+  },
+  {
+    "id": "9e9e9b69a49f",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved a draft plan of subdivision for 60 single detached lots at 2095 Coronation Drive and 955 Gainsborough Road, and introduced a by-law rezoning the property from a Community Facility/Residential R5 zone permitting cluster and stacked townhouses to a Residential R1 zone permitting only single detached dwellings.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 2, 2015 as Appendix “D” BE INTRODUCED at the Municipal Council meeting to be held on November 10, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Community Facility (CF1/CF3) Zone, which permits uses such as places of worship and schools and from a Residential R5 Special Provision (R5-5(2)) Zone, which permits cluster townhouse dwellings and cluster stacked townhouse dwellings TO a Residential R1 Special Provision (R1-3(4)) Zone, to permit single detached dwellings",
+    "flags": []
+  },
+  {
+    "id": "8862744b4e0a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, notwithstanding Council Policy 28(2), up to $175 from Councillor P. Hubert's annual expense allocation to mitigate security costs for the Hyde Park Santa Claus Parade.",
+    "confidence": "high",
+    "quote": "That, notwithstanding Council Policy 28(2) – Council Members’ Expense Account, the request by Councillor P. Hubert to provide up to $175.00 from his annual expense allocation, to mitigate security costs for the Hyde Park Santa Clause Parade, BE APPROVED.",
+    "flags": []
+  },
+  {
+    "id": "6a15686f5dfb",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law rezoning 2170 Wharncliffe Road South from a Holding Arterial Commercial zone to a Holding Arterial Commercial/Temporary zone, and deleting Section 26.4.c)9), for the Cedar Auto application.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 2, 2015 BE INTRODUCED at the Municipal Council meeting to be held on November 10, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), TO DELETE Section 26.4.c) 9) and to change the zoning of the subject property FROM a Holding Arterial Commercial Special Provision (h-17*h-142*AC2(9)) Zone and an Environmental Review (ER) Zone TO a Holding Arterial Commercial Special Provision/Temporary (h-17*h-142* AC2(_)/T-(__) Zone and an Environmental Review (ER) Zone",
+    "flags": []
+  },
+  {
+    "id": "87027ecddd22",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave final approval, as amended to require photographic documentation of the building's interior and exterior before any demolition, advising the Chief Building Official that Council consents to the demolition of 759 Elizabeth Street and does not intend to designate the property under the Ontario Heritage Act, and taking no action on the related Heritage Committee recommendation.",
+    "confidence": "low",
+    "quote": "Approve clause 7, as amended",
+    "flags": [
+      "wrapper_preamble"
+    ]
+  },
+  {
+    "id": "be3ca70d7767",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 2095 Coronation Drive and 955 Gainsborough Road (Bill No. 386).",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 386.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "921f7124045f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 2095 Coronation Drive and 955 Gainsborough Road (Bill No. 386).",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 386.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "053f17926793",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 2170 Wharncliffe Road South (Bill No. 387).",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No. 387.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5e12f7f06d7f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 2170 Wharncliffe Road South (Bill No. 387).",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 387.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "cb51b3766744",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 2170 Wharncliffe Road South (Bill No. 387).",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 387.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3766f6015d95",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved revisions to the draft plan of subdivision and a three-year extension for Sunningdale Golf Club Limited at 800 Sunningdale Road West, and introduced a by-law rezoning the lands from a Residential R5/R6 zone permitting cluster residential dwellings to a Residential R1 zone permitting only single detached dwellings.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 16, 2015, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 24, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R5 Special Provision/ Holding Residential R6 Special Provision (h*h-54*h-71*R5-2 (13)/R6-4 (6)) Zone, which permits cluster forms of residential dwellings TO a Holding Residential R1 (h*R1-9) Zone, which allows for single detached dwellings",
+    "flags": []
+  },
+  {
+    "id": "4da057393faa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted a five-year tender from Commissionaires Great Lakes for Municipal Parking Enforcement Services, at an estimated annual cost rising from $926,301 in 2016 to $1,121,642 in 2020 (excluding HST), and authorized the Civic Administration to complete the necessary administrative steps.",
+    "confidence": "high",
+    "quote": "the tender submitted by Commissionaires Great Lakes (CGL) for a five (5) year contract for Municipal Parking Enforcement Services, at the estimated annual cost of: 2016 = $926,301; 2017 = $971,690; 2018 = $1,019,303; 2019 = $1,069,249; 2020 = $1,121,642 (excluding H.S.T.) BE ACCEPTED",
+    "flags": []
+  },
+  {
+    "id": "2852cf87de48",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Approved revisions to the draft plan of subdivision and a three-year extension for Sunningdale Golf Club Limited at 800 Sunningdale Road West, and introduced a by-law (Bill No. 405) rezoning the lands from a Residential R5/R6 zone permitting cluster residential dwellings to a Residential R1 zone permitting only single detached dwellings.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 16, 2015, as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on November 24, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Holding Residential R5 Special Provision/ Holding Residential R6 Special Provision (h*h-54*h-71*R5-2 (13)/R6-4 (6)) Zone, which permits cluster forms of residential dwellings TO a Holding Residential R1 (h*R1-9) Zone, which allows for single detached dwellings",
+    "flags": []
+  },
+  {
+    "id": "668e4652d311",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 800 Sunningdale Road West (Bill No. 405).",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No. 405.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "5efca85bbf7c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to the by-law rezoning 800 Sunningdale Road West (Bill No. 405).",
+    "confidence": "medium",
+    "quote": "Approve Second Reading of Bill No. 405.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "3eebc42169d4",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted the by-law rezoning 800 Sunningdale Road West (Bill No. 405).",
+    "confidence": "medium",
+    "quote": "Approve Third Reading and Enactment of Bill No. 405.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "bc0dd931f940",
+    "issue": "housing",
+    "axis": "use-permission",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced by-laws amending the Official Plan and Zoning By-law to establish city-wide policies and regulations permitting secondary dwelling units, directed updates to the Residential Rental Unit Licensing By-law to address them, and incorporated the policies into the final London Plan.",
+    "confidence": "medium",
+    "quote": "the following actions be taken with respect to the application of the City of London, relating to an Official Plan Amendment to introduce new city-wide policies relating to secondary dwelling units and a Zoning By-law Amendment to introduce regulations related to secondary dwelling units: a) the proposed by-law appended to the staff report dated November 26, 2015 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2015 to amend the City of London Official Plan to update secondary dwelling unit polices in accordance with changes to the Planning Act; b) the attached, revised, proposed by-law (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2015 to amend the City of London Zoning By-law Z.-1, (in conformity with the Official Plan, as amended in part a) above), to provide secondary dwelling unit regulations in accordance with changes to the Planning Act, R.S.O. 1990",
+    "flags": []
+  },
+  {
+    "id": "2ee1a2c6a29f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law rezoning 1155-1236 Gough Road and 1974-2119 Gough Avenue from one Residential R1 special-provision zone to another Residential R1 special-provision zone, for the application of Sifton Properties Limited.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 30, 2015, BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Residential R1 Special Provision (R1-3(7)) Zone TO a Residential R1 Special Provision (R1-3(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "c48383c090d0",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a holding provision (h-5) requiring public site plan review for Blocks 1 to 6 before development proceeds, as part of the Draft Plan of Subdivision approval for 1080 Westdel Bourne.",
+    "confidence": "medium",
+    "quote": "Motion to include a holding provision h-5 for public site plan on Blocks 1 to 6, inclusive.",
+    "flags": []
+  },
+  {
+    "id": "c6c6ee2f5c86",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Deferred implementation of the Red Light Camera Enforcement Program until more information is available from the Province of Ontario regarding fine administration.",
+    "confidence": "high",
+    "quote": "the implementation of the Red Light Camera Enforcement Program BE DEFFERED until more information is available from the Province of Ontario with respect to fine administration.",
+    "flags": []
+  },
+  {
+    "id": "03480dc1e3fd",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Committee Secretary to place the President of the London Optimist Sports Centre as a delegation on a future Community and Protective Services Committee agenda, with a business case on the London Optimist Sports Centre's request for additional City funding for the BMO Centre expansion.",
+    "confidence": "medium",
+    "quote": "That the Committee Secretary BE DIRECTED to place Mr. T. Partalas, President, London Optimist Sports Centre, as a delegation on a future agenda of the Community and Protective Services Committee, with respect to the London Optimist Sports Centre’s request for additional funding from the City of London, and to include a business case on that agenda.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "f42d1d4b0038",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have amended the draft Surplus/Deficit Policy's Section 3.0 Principles to delete the contribution to the Municipal Council Community Investment Reserve Fund and increase the contribution to the Capital Infrastructure Gap Reserve Fund from 25% to 50%.",
+    "confidence": "medium",
+    "quote": "Motion to amend Section 3.0 “Principles” by deleting the contribution in 3.0 c) ii) to the Municipal Council Community Investment Reserve Fund and by increasing the contribution to the Capital Infrastructure Gap Reserve Fund from 25% to 50%.",
+    "flags": []
+  },
+  {
+    "id": "4f86069a24ad",
+    "issue": "budget",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the Surplus/Deficit Policy by-law, subject to confirming the contribution to the Operating Budget Contingency Reserve, and directed the Civic Administration to bring forward a report on the Corporation's unfunded liability.",
+    "confidence": "medium",
+    "quote": "the attached revised proposed by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2015 to enact a Surplus/Deficit Policy, in order to provide the Civic Administration with a set of guidelines to manage yearly surplus or deficit positions, subject to the contribution to the Operating Budget Contingency Reserve (OBCR) being confirmed by the Municipal Council",
+    "flags": []
+  },
+  {
+    "id": "88ec52d1ae83",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward by-laws establishing a Community Investment Reserve Fund and a Capital Infrastructure Gap Reserve Fund, with the words \"Municipal Council\" deleted from the funds' names.",
+    "confidence": "high",
+    "quote": "Motion to approve part b) with the deletion of \"Municipal Council\" in the name of the reserve funds.",
+    "flags": []
+  },
+  {
+    "id": "c995f8f0b5d4",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Committee Secretary to place the President of the London Optimist Sports Centre as a delegation on a future Community and Protective Services Committee agenda, with a business case on the London Optimist Sports Centre's request for additional City funding for the BMO Centre expansion.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "fb8a60fe9d8e",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred clause 4 of the 26th Report of the Planning and Environment Committee regarding secondary dwelling units back to the Civic Administration, to be considered and reported back on as part of the Near-Campus Neighbourhoods Strategy Review, including consideration of grandfathering existing units created without a permit.",
+    "confidence": "high",
+    "quote": "Approve that clause 4 of the 26th Report of the Planning and Environment Committee (PEC) regarding secondary dwelling units BE REFERRED back to the Civic Administration to be considered and reported back on as part of the Great-Near Campus Neighbourhoods Strategy Review currently being undertaken; it being noted that the Civic Administration should include in the Review, consideration of issues related to secondary dwelling units and the potential “grandfathering” of existing units that may have been created without a building permit, but could meet the zoning, building and fire code regulations being proposed for the secondary dwelling units.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "1cbd63ee2538",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a by-law rezoning 1155-1236 Gough Road and 1974-2119 Gough Avenue from one Residential R1 special-provision zone to another Residential R1 special-provision zone, for the application of Sifton Properties Limited.",
+    "confidence": "medium",
+    "quote": "the proposed by-law appended to the staff report dated November 30, 2015, BE INTRODUCED at the Municipal Council meeting to be held on December 8, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a Residential R1 Special Provision (R1-3(7)) Zone TO a Residential R1 Special Provision (R1-3(_)) Zone",
+    "flags": []
+  },
+  {
+    "id": "927ecebfb074",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an amendment to clause 7 replacing part b) with a revised by-law rezoning the West Five lands (1080 Westdel Bourne) from Urban Reserve and Community Shopping Area zones to a range of residential, commercial, and open space zones, and adding a holding provision (h-5) for Blocks 1 to 6 requiring public site plan review before it can be removed — restoring, in a different form, the site-plan holding condition the Committee had rejected.",
+    "confidence": "low",
+    "quote": "the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on December 21, 2015, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan, as amended in part a) above), to change the zoning of the subject lands FROM an Urban Reserve (UR3) Zone, a Community Shopping Area (CSA5) Zone, and a holding Community Shopping Area (h-h-25-CSA5) Zone TO: - a Holding Business District Commercial Special Provision (h-h- -BDC( )) Zone, to permit a range of uses such as animal clinics, apartment buildings, assembly halls, bake shops, cinemas, clinics, commercial recreation establishments, convenience service establishments, financial institutions, hotels, medical/ dental offices, nursing homes, offices, places of entertainment, private clubs, private schools, restaurants, retail stores, service and repair establishments, supermarkets, taverns, cluster townhouses, cluster stacked townhouses and street townhouses",
+    "flags": []
+  },
+  {
+    "id": "54d9ce80d25b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the annual meeting calendar to replace the December 21, 2015 Council meeting with a January 4, 2016 meeting commencing at 4:00 PM.",
+    "confidence": "high",
+    "quote": "Approve that the annual meeting calendar be amended by deleting the December 21, 2015 Council Meeting date and by replacing it with a January 4, 2016 Council Meeting date, with the meeting commencing at 4:00 PM.",
+    "flags": []
+  },
+  {
+    "id": "b8d434c8fdff",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to the by-law rezoning 1155-1236 Gough Road and 1974-2119 Gough Avenue (Bill No. 18).",
+    "confidence": "medium",
+    "quote": "Approve Introduction and First Reading of Bill No 18.",
+    "flags": [
+      "procedural"
+    ]
+  }
+]

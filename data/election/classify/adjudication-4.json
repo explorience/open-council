@@ -1,0 +1,322 @@
+[
+  {
+    "id": "01ef42e8258d",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "application-approval",
+    "decision": "adopt_pass2",
+    "chosen_value": "application-approval",
+    "quote": "n/a -- schema/taxonomy fix, not a text dispute",
+    "reason": "Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+    "checkVerdict": "upheld",
+    "checkNote": "Corpus-wide grep of all committed batch-*-verified.json housing rows confirms axis={application-approval:202, density:156, use-permission:24, affordable-funding:21, null:15}, and all 15 null rows are exclusively in batch-70. Sampled application-approval rows elsewhere are single-property rezoning/OP-amendment applications, matching shape of this Tokala Trail OZ-8511 redesignation (Multi-Family Residential -> Office Area); use-permission rows are reserved for city-wide/policy-level use changes, which this is not. axis=application-approval confirmed."
+  },
+  {
+    "id": "01ef42e8258d",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the axis fix",
+    "reason": "verdict must reflect that axis was in fact corrected, consistent with the adopted axis fix above.",
+    "checkVerdict": "upheld",
+    "checkNote": "verdict=corrected follows directly from the confirmed axis fix; no separate issue."
+  },
+  {
+    "id": "1d7f4ec01410",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "application-approval",
+    "decision": "adopt_pass2",
+    "chosen_value": "application-approval",
+    "quote": "n/a -- schema/taxonomy fix, not a text dispute",
+    "reason": "Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same corpus-wide check as 01ef42e8258d (same by-law package, clause 7 wrapper): application-approval confirmed dominant, correct catch-all; matches shape of comparable single-property rezoning application rows elsewhere in corpus."
+  },
+  {
+    "id": "1d7f4ec01410",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the axis fix",
+    "reason": "verdict must reflect that axis was in fact corrected, consistent with the adopted axis fix above.",
+    "checkVerdict": "upheld",
+    "checkNote": "verdict=corrected follows directly from the confirmed axis fix."
+  },
+  {
+    "id": "680d0c7292ca",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "application-approval",
+    "decision": "adopt_pass2",
+    "chosen_value": "application-approval",
+    "quote": "n/a -- schema/taxonomy fix, not a text dispute",
+    "reason": "Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same corpus-wide check; this is the first-reading roll call in the same Bill No. 357/366 package. application-approval confirmed correct."
+  },
+  {
+    "id": "680d0c7292ca",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the axis fix",
+    "reason": "verdict must reflect that axis was in fact corrected, consistent with the adopted axis fix above.",
+    "checkVerdict": "upheld",
+    "checkNote": "verdict=corrected follows directly from the confirmed axis fix."
+  },
+  {
+    "id": "7c5b2a64db26",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "application-approval",
+    "decision": "adopt_pass2",
+    "chosen_value": "application-approval",
+    "quote": "n/a -- schema/taxonomy fix, not a text dispute",
+    "reason": "Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same corpus-wide check; second-reading roll call in the same package. application-approval confirmed correct."
+  },
+  {
+    "id": "7c5b2a64db26",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the axis fix",
+    "reason": "verdict must reflect that axis was in fact corrected, consistent with the adopted axis fix above.",
+    "checkVerdict": "upheld",
+    "checkNote": "verdict=corrected follows directly from the confirmed axis fix."
+  },
+  {
+    "id": "11256244f4e4",
+    "field": "axis",
+    "live_value": null,
+    "pass2_value": "application-approval",
+    "decision": "adopt_pass2",
+    "chosen_value": "application-approval",
+    "quote": "n/a -- schema/taxonomy fix, not a text dispute",
+    "reason": "Corpus-wide check confirms pass2's claim exactly: grep of all committed batch-*-verified.json housing+polarity rows shows axis values {density:156, application-approval:202, use-permission:24, affordable-funding:21, null:15} -- application-approval is the dominant catch-all and ALL 15 null-axis rows live in this single batch (batch-70). No named axis pattern (density/use-permission/affordable-funding) fires in any of these five entries' operative text. Corpus-consistency fix, verified independently.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same corpus-wide check; third-reading+enactment roll call in the same package. application-approval confirmed correct; enact language correctly reserved for this genuine 3rd-reading motion."
+  },
+  {
+    "id": "11256244f4e4",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the axis fix",
+    "reason": "verdict must reflect that axis was in fact corrected, consistent with the adopted axis fix above.",
+    "checkVerdict": "upheld",
+    "checkNote": "verdict=corrected follows directly from the confirmed axis fix."
+  },
+  {
+    "id": "e1d3c8a1666f",
+    "field": "flags",
+    "live_value": [
+      "referral"
+    ],
+    "pass2_value": [
+      "referral",
+      "not_divided"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [
+      "referral"
+    ],
+    "quote": "Nays: [\"S. Turner (1) RECUSED: P. Hubert (1)\"]",
+    "reason": "Verified directly against 2015-11-10 MINUTES 29TH MEETING item 19 source: vote row is 13 Yeas + 'S. Turner (1) RECUSED: P. Hubert (1)' Nays -- 13+1+1=15, full council. P. Hubert's disclosed pecuniary interest (item I of the same minutes) explains the recusal; S. Turner's '(1)' is a genuine, counted Nay, making this a real 13-1 divided vote, not undivided. pass1's verifierNote already cross-checked this exact 'NAME (n) RECUSED: NAME (n)' shape against 52 other corpus instances; pass2 restates the raw vote row without engaging that evidence. not_divided is false.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified verbatim against 2015-11-10 MINUTES 29TH MEETING item 19: vote row is Yeas (13 names) / Nays ['S. Turner (1) RECUSED: P. Hubert (1)'] -- 13+1+1=15, full council. Genuine 13-1 divided vote with one recusal, not unanimous. not_divided is false; keep_pass1 (flags=['referral'] only) correct."
+  },
+  {
+    "id": "e1d3c8a1666f",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "n/a -- metadata follows the flags decision",
+    "reason": "Matches the flags decision above: pass1's removal of not_divided was correct, so verdict stays 'corrected'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Follows from the confirmed flags decision: pass1's removal of not_divided was correct, verdict stays 'corrected'."
+  },
+  {
+    "id": "992eda0ff213",
+    "field": "whatAYeaDid",
+    "live_value": "Approved delegation requests for the February 2, 2016 Civic Works Committee meeting (part a) of the Springbank Dam item). Parts b) (holding a public participation meeting) and c) (referring the staff report) were separate roll calls not covered by this vote.",
+    "pass2_value": "Approved delegation requests for the February 2, 2016 Civic Works Committee meeting (part a) of the Springbank Dam item). Parts b) (holding a public participation meeting) and c) (referring the staff report) were separate roll calls, not covered by this vote.",
+    "decision": "keep_pass1",
+    "chosen_value": "Approved delegation requests for the February 2, 2016 Civic Works Committee meeting (part a) of the Springbank Dam item). Parts b) (holding a public participation meeting) and c) (referring the staff report) were separate roll calls not covered by this vote.",
+    "quote": "n/a -- both passes independently made the identical substantive OVER-SCOPED correction; the only diff is a comma before 'not covered by this vote.'",
+    "reason": "Both passes agree on the substance (scoped to part a) only, dropped referral flag, issue/axis/polarity none/null/null). The sole diff is a stylistic comma; pass1's phrasing is not incorrect, so there is nothing to provably improve.",
+    "checkVerdict": "upheld",
+    "checkNote": "Both passes agree on substance (scoped to part a) only); sole diff is a stylistic comma. No correctness issue in either phrasing, nothing to provably improve. Spot-check found no missed improvement."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "axis",
+    "live_value": "density",
+    "pass2_value": null,
+    "decision": "adopt_pass2",
+    "chosen_value": null,
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "upheld",
+    "checkNote": "Read full operative clause verbatim in 2016-03/2016-03-22 MINUTES 8TH MEETING.json item 10#2 part b). Independently enumerated all 8 residential FROM/TO pairings (excluding the separately-voted OS5->OS1 bullet, scored elsewhere): 3 increase density/relax minimums, 5 decrease -- exact match to pass2's tally, including the 75->35 units/ha reversal and two full Residential->Open Space conversions. Decreases outnumber increases and include the largest-magnitude changes. axis=null (mixed) confirmed correct over pass1's single-pairing-cherrypicked 'density'."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "polarity",
+    "live_value": "expansive",
+    "pass2_value": null,
+    "decision": "adopt_pass2",
+    "chosen_value": null,
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same independent 3-vs-5 tally as axis check above; polarity=null (mixed, not cleanly expansive) confirmed."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "mixed_signal"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "mixed_signal"
+    ],
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "overturned",
+    "checkNote": "Checked flag vocabulary across the entire live corpus (4,072+ rows, batch-0 through batch-95/returning): established flags are {procedural, informational_ask, referral, wrapper_preamble, appointment, no_text, not_divided, substitution, relocation, ambiguous_attribution}. 'mixed_signal' has ZERO precedent anywhere in the corpus. Sampled ~280 existing housing rows with polarity=null: the established convention for a no-clear-direction case is simply flags=[] (as pass1 already has), not a bespoke new flag. Introducing an unprecedented, undocumented flag term is itself a corpus-consistency violation, by the same standard used to justify the axis fix elsewhere in this slice. Reverting to keep_pass1's flags=[]."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "downgraded",
+    "decision": "adopt_pass2",
+    "chosen_value": "downgraded",
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "upheld",
+    "checkNote": "'downgraded' is an established verdict value (25 other uses in corpus) and correctly reflects the axis/polarity change to null, independent of the flags question above."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "confidence",
+    "live_value": "high",
+    "pass2_value": "low",
+    "decision": "adopt_pass2",
+    "chosen_value": "low",
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "upheld",
+    "checkNote": "low confidence is warranted given the genuinely mixed 3-vs-5 tally verified above; confirmed."
+  },
+  {
+    "id": "7d9717f22021",
+    "field": "whatAYeaDid",
+    "live_value": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), approved introducing a rezoning by-law increasing permitted residential density (up to 30 to 75 units per hectare) and height across several Residential zones, and approved the project financing per the Estimated Claims and Revenues Report.",
+    "pass2_value": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), and approved introducing an omnibus rezoning by-law with genuinely mixed effects across its many FROM/TO pairings: increases (30->35 units/hectare & 10.5->12m height in one R6 pairing; 11->10m minimum frontage in one R1 pairing; 12m/360sqm->10m/300sqm in another) alongside decreases (a separate pairing FROM the 75-units/hectare-max zone TO the 35-units/hectare zone; 9m/270sqm->10m/300sqm and 12m/360sqm->12m/415sqm minimum-lot-size increases in two R1 pairings; two pairings converting Residential land to Open Space outright); plus approved project financing per the Estimated Claims and Revenues Report.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Advised the Approval Authority that Council supports the revised draft plan and a three-year extension for the subdivision at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521), and approved introducing an omnibus rezoning by-law with genuinely mixed effects across its many FROM/TO pairings: increases (30->35 units/hectare & 10.5->12m height in one R6 pairing; 11->10m minimum frontage in one R1 pairing; 12m/360sqm->10m/300sqm in another) alongside decreases (a separate pairing FROM the 75-units/hectare-max zone TO the 35-units/hectare zone; 9m/270sqm->10m/300sqm and 12m/360sqm->12m/415sqm minimum-lot-size increases in two R1 pairings; two pairings converting Residential land to Open Space outright); plus approved project financing per the Estimated Claims and Revenues Report.",
+    "quote": "the proposed by-law appended to the staff report dated March 7, 2016, BE INTRODUCED at the Municipal Council meeting to be held on March 22, 2016 to amend Zoning By-law No. Z.-1 ... [8 FROM/TO pairings, independently tallied: 3 increase density/relax minimums (incl. 30->75 units/ha blend zone), 5 decrease it, including one pairing FROM the new 75-units/ha zone back DOWN to 35 units/ha, and two pairings converting Residential land to Open Space outright]",
+    "reason": "Independently re-tallied all 8 residential FROM/TO pairings in the source clause (excluding the separate OS5->OS1 park-use bullet, scored elsewhere at be6e85753105): 3 increase density/relax lot minimums, 5 decrease it -- matches pass2's tally exactly, including the two full Residential->Open Space conversions (eliminating residential capacity entirely on those parcels) and the 75->35 units/ha reversal. pass1's high-confidence 'expansive' call reads only the first, largest-headline pairing (30->75 units/ha) and misses that decreases outnumber increases and include the largest-magnitude changes in the clause. This is a genuine mixed-signal omnibus by-law; the safe answer (null axis/polarity, mixed_signal flag, low confidence) is the provable improvement.",
+    "checkVerdict": "upheld",
+    "checkNote": "Every figure in the rewritten text (30->35u/ha & 10.5->12m; 11->10m frontage; 12m/360sqm->10m/300sqm; 75->35u/ha; 9m/270sqm->10m/300sqm; 12m/360sqm->12m/415sqm; two Residential->Open Space conversions) verified verbatim against the source clause. Uses action-verb voice ('approved introducing'), no stance verb. Confirmed accurate."
+  },
+  {
+    "id": "95468fc02cc5",
+    "field": "whatAYeaDid",
+    "live_value": "...separate roll calls, each with a different voter roster, not covered by this vote.",
+    "pass2_value": "...separate, unanimous roll calls, not covered by this vote.",
+    "decision": "keep_pass1",
+    "chosen_value": "...separate roll calls, each with a different voter roster, not covered by this vote.",
+    "quote": "Yeas: M. Brown, J. Helmer, M. Cassidy, A. Hopkins, J. Morgan, M. van Holst (6) [x4 parts] / Yeas: J. Helmer, M. Cassidy, A. Hopkins, J. Morgan, M. van Holst (5) [part with Brown absent]",
+    "reason": "Verified source (2016-03-08 Civic Works item 12): parts b)-h) are indeed all-yea (unanimous, as pass2 says), but one of them (5-0) is missing M. Brown entirely, so pass1's 'different voter roster' is also true and not an error. Both phrasings are factually correct; no provable improvement either way, so the live text stands.",
+    "checkVerdict": "overturned",
+    "checkNote": "Traced every roll call under 2016-03/2016-03-08 Civic Works Committee.json item 12: part a) 4-2 (this vote); part b) 6-0; part c) 6-0; parts d)-h) 6-0 -- all three of the latter are UNANIMOUS with the IDENTICAL full 6-member roster (Brown/Helmer/Cassidy/Hopkins/Morgan/van Holst). The only 5-0 vote (missing Brown) belongs to a separate procedural item ('Open the public participation meeting'), NOT to parts b)-h) as the original keep_pass1 rationale assumed. pass1's 'each with a different voter roster' is ambiguous at best (misreadable as claiming b/c/d-h differ from each other, which they do not) and pass2's 'unanimous' is unambiguously true and simpler. Per the safe-answer tie-break, switching to pass2's phrasing."
+  },
+  {
+    "id": "95468fc02cc5",
+    "field": "flags",
+    "live_value": [
+      "informational_ask",
+      "referral"
+    ],
+    "pass2_value": [
+      "informational_ask"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "informational_ask"
+    ],
+    "quote": "the Civic Administration BE DIRECTED to develop a Terms of Reference and budget for a consultant assignment to complete a \"One River\" Master Plan Environmental Assessment (EA) Study...",
+    "reason": "whatAYeaDid was already corrected (by both passes) to cover part a) ONLY -- directing staff to develop a ToR/budget. Part a)'s own text contains no referral action; 'referral' described parts b)-h) which are explicitly out of scope. pass1 corrected the text but left the now-stale 'referral' flag from the pre-correction version; pass2's drop is the accurate follow-through.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed: part a)'s own text ('the Civic Administration BE DIRECTED to develop a Terms of Reference and budget...') is a pure directive with no referral action; parts b)-h), where any report-back/receive language sits, are out of scope for this roll call. Dropping the stale 'referral' flag is correct."
+  },
+  {
+    "id": "805c86b5ff88",
+    "field": "whatAYeaDid",
+    "live_value": "Introduced the proposed by-law appended to the staff report dated March 29, 2016 (Appendix “A”) at the April 5, 2016 Municipal Council meeting, to amend the Traffic and Parking By-law (P.S. 111).",
+    "pass2_value": "Adopted a motion on 'Amendments to the Traffic and Parking By-law'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "decision": "keep_pass1",
+    "chosen_value": "Introduced the proposed by-law appended to the staff report dated March 29, 2016 (Appendix “A”) at the April 5, 2016 Municipal Council meeting, to amend the Traffic and Parking By-law (P.S. 111).",
+    "quote": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "reason": "Read the raw source (2016-03-29 Civic Works Committee item 3): the item has TWO Paragraph+Motion pairs. This id's Motion node (vote 4-1, Yeas Helmer/Cassidy/Hopkins/Morgan, Nay van Holst) is IMMEDIATELY preceded by a Paragraph node containing the full operative recommendation text, verbatim matching pass1's quote. The second Paragraph+Motion pair (a revised version excluding Community Mail Box provisions) FAILED 2-3, confirming node0's paragraph is specifically this motion's own text, not a shared/ambiguous preamble. This is a real, findable operative clause sitting in a sibling node -- exactly the structural pattern (paragraph node immediately before a Motion node whose own motion_texts is just 'Motion Passed') used throughout this era's committee minutes, not the boilerplate-only 'no real motion text anywhere in the item' case the era note targets. pass2's own verifierNote concedes 'a sibling Paragraph carries prose' but wrongly treats structural placement as disqualifying. no_text is the wrong call here.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified against 2016-03/2016-03-29 Civic Works Committee.json item 3: TWO Paragraph+Motion pairs. This id's Motion (vote 4-1, Yeas Helmer/Cassidy/Hopkins/Morgan, Nay van Holst) is immediately preceded by a Paragraph node whose text matches pass1's quote VERBATIM. The second Paragraph+Motion pair (revised version excluding Community Mail Box provisions) FAILED 2-3, confirming the first paragraph is this motion's own operative text, not a shared/ambiguous preamble -- a genuine sibling-paragraph pattern, not the boilerplate-only case the era note targets. no_text is wrong; keep_pass1 confirmed correct."
+  },
+  {
+    "id": "805c86b5ff88",
+    "field": "quote",
+    "live_value": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "pass2_value": "",
+    "decision": "keep_pass1",
+    "chosen_value": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "quote": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "reason": "Read the raw source (2016-03-29 Civic Works Committee item 3): the item has TWO Paragraph+Motion pairs. This id's Motion node (vote 4-1, Yeas Helmer/Cassidy/Hopkins/Morgan, Nay van Holst) is IMMEDIATELY preceded by a Paragraph node containing the full operative recommendation text, verbatim matching pass1's quote. The second Paragraph+Motion pair (a revised version excluding Community Mail Box provisions) FAILED 2-3, confirming node0's paragraph is specifically this motion's own text, not a shared/ambiguous preamble. This is a real, findable operative clause sitting in a sibling node -- exactly the structural pattern (paragraph node immediately before a Motion node whose own motion_texts is just 'Motion Passed') used throughout this era's committee minutes, not the boilerplate-only 'no real motion text anywhere in the item' case the era note targets. pass2's own verifierNote concedes 'a sibling Paragraph carries prose' but wrongly treats structural placement as disqualifying. no_text is the wrong call here.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source check as whatAYeaDid: quote is verbatim from the Paragraph node immediately preceding this id's Motion node. Confirmed correct, not empty/no_text."
+  },
+  {
+    "id": "805c86b5ff88",
+    "field": "flags",
+    "live_value": [],
+    "pass2_value": [
+      "no_text"
+    ],
+    "decision": "keep_pass1",
+    "chosen_value": [],
+    "quote": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "reason": "Read the raw source (2016-03-29 Civic Works Committee item 3): the item has TWO Paragraph+Motion pairs. This id's Motion node (vote 4-1, Yeas Helmer/Cassidy/Hopkins/Morgan, Nay van Holst) is IMMEDIATELY preceded by a Paragraph node containing the full operative recommendation text, verbatim matching pass1's quote. The second Paragraph+Motion pair (a revised version excluding Community Mail Box provisions) FAILED 2-3, confirming node0's paragraph is specifically this motion's own text, not a shared/ambiguous preamble. This is a real, findable operative clause sitting in a sibling node -- exactly the structural pattern (paragraph node immediately before a Motion node whose own motion_texts is just 'Motion Passed') used throughout this era's committee minutes, not the boilerplate-only 'no real motion text anywhere in the item' case the era note targets. pass2's own verifierNote concedes 'a sibling Paragraph carries prose' but wrongly treats structural placement as disqualifying. no_text is the wrong call here.",
+    "checkVerdict": "upheld",
+    "checkNote": "Same source check: genuine sibling-paragraph operative text exists, so no_text is not warranted. Empty flags confirmed correct."
+  },
+  {
+    "id": "805c86b5ff88",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "keep_pass1",
+    "chosen_value": "corrected",
+    "quote": "the proposed by-law, appended to the staff report dated March 29, 2016 as Appendix “A”, BE INTRODUCED at the Municipal Council meeting to be held on April 5, 2016 for the purpose of amending the Traffic and Parking By-law (P.S. 111)",
+    "reason": "Read the raw source (2016-03-29 Civic Works Committee item 3): the item has TWO Paragraph+Motion pairs. This id's Motion node (vote 4-1, Yeas Helmer/Cassidy/Hopkins/Morgan, Nay van Holst) is IMMEDIATELY preceded by a Paragraph node containing the full operative recommendation text, verbatim matching pass1's quote. The second Paragraph+Motion pair (a revised version excluding Community Mail Box provisions) FAILED 2-3, confirming node0's paragraph is specifically this motion's own text, not a shared/ambiguous preamble. This is a real, findable operative clause sitting in a sibling node -- exactly the structural pattern (paragraph node immediately before a Motion node whose own motion_texts is just 'Motion Passed') used throughout this era's committee minutes, not the boilerplate-only 'no real motion text anywhere in the item' case the era note targets. pass2's own verifierNote concedes 'a sibling Paragraph carries prose' but wrongly treats structural placement as disqualifying. no_text is the wrong call here.",
+    "checkVerdict": "upheld",
+    "checkNote": "Follows from the confirmed whatAYeaDid/quote/flags checks above: pass1's correction stands, verdict='corrected' confirmed."
+  }
+]

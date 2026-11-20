@@ -1,0 +1,596 @@
+[
+  {
+    "id": "9fab974c9f17",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised the Chief Building Official that Council did not intend to designate 348 Sunningdale Road East under the Ontario Heritage Act, and directed the Civic Administration to photo-document the existing residence before any demolition.",
+    "confidence": "high",
+    "quote": "the Chief Building Official BE ADVISED that the Municipal Council does not intend to issue a notice of its intent to designate the above-noted property under Section 29 of the Ontario Heritage Act; and, b) the Civic Administration BE DIRECTED to photo document the existing residence prior to any demolition",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: whatAYeaDid/quote match the source verbatim (348 Sunningdale Rd heritage-non-designation + photo-documentation directive). No tracked issue."
+  },
+  {
+    "id": "fc1c39b90865",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No. 248.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: this id's own roll call (rollCallOrdinal 3 in item XIII, 10-2, nays M. Salih/J. Helmer) is the INTRODUCTION AND FIRST READING of Bill No. 248, not third reading/enactment of Bill Nos. 246,247,249-264 as classified (that unrelated 15-0 unanimous vote belongs to a different id, 61cc18a6788a, not in this batch). Verified by matching rollCallOrdinal to the item's raw content sequence. Bill 248's own third reading (raw ordinal 5, 10-2) is not captured as a separate id in the dataset at all (a scraper-corrupted vote block), so no reading beyond 'second' can be attributed to either id in this item."
+  },
+  {
+    "id": "b846ab943e37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 248 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No. 248.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: this id (rollCallOrdinal 4, 10-2, same nays) is SECOND reading of Bill 248 only, not 'first and second... and third reading and enactment' as classified. Bill 248's real third-reading roll call exists in the source (raw index 5, 10-2) but was dropped from the id dataset upstream (its vote block's nay-voter text is corrupted with trailing scraper artifacts), so third reading cannot be honestly attributed to this or any id here."
+  },
+  {
+    "id": "3db6c701597f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Civic Works Committee recommendation to contract London Hydro for MyLondonHydro web-portal customer-engagement improvements estimated at $150,000, approved the financing for that work, and authorized the Civic Administration and the Mayor and City Clerk to complete the related administrative and contract acts.",
+    "confidence": "medium",
+    "quote": "London Hydro BE CONTRACTED to carry out web portal improvements estimated at $150,000 (exclusive of HST), based on their proposal on file, in accordance with Section 14.4 Single Source of the City of London’s Procurement of Goods and Services Policy",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': the real recommendation text is present as a bare paragraph immediately preceding this vote's own content block (a structural pattern the extraction pipeline missed — 'Motion Passed' had leaked into motion_texts). No budget/housing/climate/etc. keyword is present (single-source IT/utility procurement), so issue stays none."
+  },
+  {
+    "id": "3a372ef8367c",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended that the Civic Administration initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block, and it is the identical clause later voted on (and rejected) by full Council as 5aff62a34037 — 'official plan amendment' keyword hit means issue=housing. Same textual uncertainty as the Council vote about what OPA 12 itself does, so polarity stays null/unclear rather than guessed."
+  },
+  {
+    "id": "7a6f32f3f875",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Planning and Environment Committee recommendation on the site plan application by Tridon at 510 Central Avenue (SP15-005948) (the Committee's own motion text was not captured in the source record).",
+    "confidence": "low",
+    "quote": "Motion Passed",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed genuine no_text: checked every content block in item 9 (PEC 2015-07-20) directly — both are literally 'Motion Passed' with no operative text anywhere in the item."
+  },
+  {
+    "id": "b7fdbddaff46",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended that the matter of requesting the London Arts Council to consider amending its membership to include a Council Member be referred to the Civic Administration for a report back on the current relationship between the City and the London Arts Council.",
+    "confidence": "medium",
+    "quote": "the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration for a report back on the current relationship between The Corporation of the City of London and the London Arts Council",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block — a referral (same substance Council later adopted as 649097620a32). Direction-null on its own terms (referral), issue stays none."
+  },
+  {
+    "id": "649097620a32",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred to the Civic Administration a report back on the City's current relationship with the London Arts Council, ahead of any decision on whether to request that the Council add a Council Member to its membership.",
+    "confidence": "high",
+    "quote": "That the matter of requesting the London Arts Council to consider amending its membership to include a Council Member BE REFERRED to the Civic Administration for a report back on the current relationship between The Corporation of the City of London and the London Arts Council, in order to provide Council Members with additional information to take into consideration when determining whether or not to request the above-noted change in membership.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (Arts Council referral); correctly flagged 'referral', direction-null, no tracked issue."
+  },
+  {
+    "id": "79d52d4eda19",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the recommendation on the Single Source Procurement - Customer Engagement Upgrade to the MyLondonHydro Web Portal to request that London Hydro include refinements or improvements for accessing the portal and its information, to improve ease of use.",
+    "confidence": "high",
+    "quote": "Approve that clause 4 be amended by adding a new part f) as follows: f) London Hydro BE REQUESTED to include, as part of its scope of work, refinements and/or improvements for accessing the portal and for the portal information, in general, in order to improve ease of use.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (clause 4 amendment adding part f, MyLondonHydro portal). No tracked issue."
+  },
+  {
+    "id": "8bd312d09d27",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Single Source Procurement - Customer Engagement Upgrade to the MyLondonHydro Web Portal recommendation as amended (to request that London Hydro improve ease of use for accessing the portal).",
+    "confidence": "medium",
+    "quote": "Approve clause 4, as amended.",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote ('Approve clause 4, as amended.') is verbatim and is this id's own correct rollCallOrdinal 1. No tracked issue."
+  },
+  {
+    "id": "4850ea7d358c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information a staff report on the June 2015 rainfall event, and directed the Civic Administration to report back to Civic Works Committee on Terms of Reference for a proposed working group, including at least one Council Member, to examine rainfall events and potential solutions.",
+    "confidence": "high",
+    "quote": "Approve that clause 5 be amended to read as follows: That the following actions be taken with respect to the staff report dated July 20, 2015 with respect to the rainfall event of June 23, 2015: a) a) the staff report BE RECEIVED for information; and b) the Civic Administration BE REQUESTED to report back to the Civic Works Committee with respect to Terms of Reference for a proposed working group to examine rainfall events and potential solutions to the issues arising therefrom, whose membership would include at least one Member of Council.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (rainfall-event report received + working-group report-back directive). Informational ask, correctly direction-null."
+  },
+  {
+    "id": "5aff62a34037",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the Civic Administration to initiate an appeal to the Ontario Municipal Board of the County of Middlesex's decision approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale in the July 20, 2015 staff report.",
+    "confidence": "medium",
+    "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the Civic Administration BE DIRECTED to initiate an appeal to the Ontario Municipal Board of the Decision of the County of Middlesex approving Official Plan Amendment No. 12 to the Official Plan for the Municipality of Thames Centre, based on the planning rationale provided in the staff report dated July 20, 2015 with respect to this matter.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim; motion FAILED and is correctly hedged ('Would have directed...'). issue=housing via 'official plan amendment' keyword; polarity correctly left null — the motion text never says what OPA 12 itself does, so whether appealing it is expansive or restrictive can't be determined without guessing."
+  },
+  {
+    "id": "c6636c75d16d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved expanding the designated haul route to the W12A Landfill to allow traffic to use Wonderland Road South and Manning Drive west of the landfill entrance, subject to completion of the Highway 401/Wonderland Road interchange and reconstruction of Manning Drive, and authorized the Civic Administration to undertake the related administrative acts.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer the following actions be taken with respect to the designated haul route to the W12A Landfill: a) the expansion of the designated haul route, as previously submitted to Civic Works Committee on June 2, 2015 BE APPROVED to allow traffic going to the W12A Landfill to use Wonderland Road South, south of Highway 402 and Manning Drive west of the Landfill entrance subject to the completion of the Highway 401/Wonderland Road interchange and reconstruction of Manning Drive between the Landfill entrance and Wonderland Road South; and, b) the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this matter.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (W12A Landfill haul-route expansion). No tracked issue."
+  },
+  {
+    "id": "6c40fd55deff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised the Approval Authority that Municipal Council requests the westerly driveway on the proposed draft site plan at 510 Central Avenue be removed and replaced with landscaping, with the required parking space instead provided at 609 William Street.",
+    "confidence": "medium",
+    "quote": "Approve clause 9 b). b) the Approval Authority BE ADVISED that Municipal Council requests that the westerly driveway on the proposed draft site plan be removed and be replaced with landscaping and the required parking space be provided at 609 William Street;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (clause 9 b, 510 Central Ave driveway/parking advice to Approval Authority). No tracked issue."
+  },
+  {
+    "id": "1119ffc72482",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted Councillor H.L. Usher leave to put forth a substantive motion related to drone technology.",
+    "confidence": "medium",
+    "quote": "Approve leave for Councillor H.L. Usher for the purpose of putting forth a substantive motion related to drone technology.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim; correctly flagged procedural (leave to introduce a motion), direction-null."
+  },
+  {
+    "id": "d27f74a1c0d1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a motion on the potential municipal use of drone technology to the Civic Works Committee for further discussion of what information the Committee would like the Civic Administration to provide.",
+    "confidence": "medium",
+    "quote": "Approve that the motion requesting information related to the use of drone technology BE REFERRED to the Civic Works Committee for further discussion as to what information the Committee would like to see provided by the Civic Administration related to this matter.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (drone-technology motion referred to Civic Works Committee); correctly flagged referral, direction-null."
+  },
+  {
+    "id": "ee478aea3e57",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have ordered that, in accordance with the Council Procedure By-law, Councillor B. Armstrong's seat at the Council board remain empty for the duration of the meeting.",
+    "confidence": "medium",
+    "quote": "Approve that in accordance with the Council Procedure By-law, Councillor B. Armstrong's seat at the Council board be ordered to remain empty for the duration of the meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim; motion FAILED (6-7) and is correctly hedged ('Would have ordered...'); correctly flagged procedural, direction-null."
+  },
+  {
+    "id": "a9f0719cf88e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to bring forward a draft by-law, at the September 1, 2015 Council meeting, to amend the Traffic and Parking By-law (PS-111) to provide for a pilot project permitting overnight parking up to and including November 1, 2015.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to bring forward a draft proposed by-law, at the Municipal Council meeting on September 1, 2015, to amend the Traffic and Parking By-law (PS-111) in order to provide for a pilot project for permitting overnight parking up to and including November 1, 2015",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block. No tracked-issue keyword; issue stays none."
+  },
+  {
+    "id": "e595f2ec6c81",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Civic Works Committee recommendation on the Local Improvement Initiation for Franklinway Crescent and Franklinway Gate (the Committee's own motion text was not captured in the source record).",
+    "confidence": "low",
+    "quote": "Motion Passed",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed genuine no_text: item 7 (CWC 2015-08-24) has a single content block whose only text is 'Motion Passed'; no preceding or other text exists in the item."
+  },
+  {
+    "id": "b0dba74c1b25",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the site plan application by Rand Developments Inc. for 250, 268, 270 and 272 Springbank Drive (OZ-8279) to the Civic Administration for further discussion with the applicant and a report back to a future Planning and Environment Committee meeting.",
+    "confidence": "medium",
+    "quote": "the site plan application by Rand Developments Inc., relating to the properties located at 250, 268, 270 and 272 Springbank Drive BE REFERRED to the Civic Administration for further discussion with the applicant and to report back at a future meeting of the Planning and Environment Committee",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block — a referral, not a decision. Text says 'site plan application', not the listed keyword phrase 'site plan approval', so issue stays none; direction-null regardless since it's a referral."
+  },
+  {
+    "id": "8c6af3b2dfbe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a procedural motion to take up, for a separate recorded vote, clause c) part v) of the Committee's site-plan design conditions for 3100 Colonel Talbot Road (OZ-8486) — the requirement that all building façades contain 50% transparent glazing.",
+    "confidence": "medium",
+    "quote": "Motion to move clause c), part v) which reads “all building façades are to contain 50% transparent glazing;”",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real (if procedural) text recovered from a preceding bare-string block. This clause is a narrow design condition, not itself housing/density content, and its own text carries no housing keyword, so issue stays none/polarity null rather than inferring an application-approval stance from a design sub-clause alone."
+  },
+  {
+    "id": "ab98bcbd5cc4",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Carried clause b) of the Committee's recommendation on 3100 Colonel Talbot Road (OZ-8486): introduced a by-law to rezone the property from a holding Residential R5/Residential R6/Community Facility Zone to a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision Zone.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated August 24, 2015 (Appendix \"B\") BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility (h-h-53-h-56-h-91-R5-2/R6-4/CF3) Zone TO a holding Residential R5/Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-h-56-h-91-R5-2/R6-4/CF3/CC(_)) Zone",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "OVERTURNED a false 'no_text'/issue=none: real text recovered from a preceding bare-string block, and it is the Committee-stage vote on the SAME rezoning by-law that Council later adopted 14-1 as 61d9319b54f7 (same lone dissenter, P. Squire, at both stages: 4-1 here, 14-1 at Council). This clause b) is itself the substantive zone-change action (rezoning to permit Convenience Commercial), so issue=housing/application-approval/expansive on its own text, independent of the Council twin."
+  },
+  {
+    "id": "cb32785be55a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried part a)i) of the Committee's recommendation on Council Policy 28(2) (Council Members' Expense Account): directed the City Clerk to report back with a proposed by-law replacing in-town vehicle-expense reimbursement with either a flat-rate transportation allowance or a Car Allowance Statement, at each Councillor's discretion.",
+    "confidence": "medium",
+    "quote": "the City Clerk BE DIRECTED to report back with a proposed by-law to amend Council Policy 28(2) as follows: i) by deleting the current requirements for reimbursement of in-town vehicle expenses and by replacing them with either a flat rate transportation allowance or submission of a Car Allowance Statement",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered two content-blocks back (a councillor-expense-policy clause, not a tracked issue). Issue stays none."
+  },
+  {
+    "id": "ae88ce1178e8",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Introduced a revised by-law to extend a pilot project permitting overnight on-street parking through November 1, 2015, directed the Civic Administration to report back to Civic Works Committee with the pilot's findings, and directed that a Business Case detailing the financial implications of permanently extending overnight parking be submitted as part of the Multi-Year Budget process.",
+    "confidence": "medium",
+    "quote": "That the following actions be taken with respect to a pilot project to extend the permissible period for overnight parking up to and including November 1, 2015: a) the attached proposed revised by-law (Appendix “A”) BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend by-law P.S.-111 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City of London” to provide for the overnight parking of motor vehicles on City streets from Victoria Day to November 1, inclusive, for 2015; b) the Civic Administration BE DIRECTED to report back to the Civic Works Committee with findings from the pilot project noted in a) above; and, c) the Civic Administration BE DIRECTED to submit a Business Case as part of the Multi-Year Budget process detailing the financial implications of permanently extending the provisions for overnight parking of motor vehicles on City streets from Victoria Day to November 1, inclusive.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (overnight-parking pilot by-law + Business Case directive for the Multi-Year Budget process). issue=budget via 'Multi-Year Budget'/'Business Case' keywords is correct; polarity correctly null — directing a future business case is not itself a levy figure."
+  },
+  {
+    "id": "62e37d957bbb",
+    "issue": "housing",
+    "axis": "density",
+    "polarity": "expansive",
+    "whatAYeaDid": "Advised the Chief Building Official that Council did not intend to designate 505, 507 and 511 Talbot Street and 94 Dufferin Avenue under the Ontario Heritage Act, and introduced a by-law to rezone the properties from a Holding Downtown Area zone to a Downtown Area Bonus zone permitting, through a development agreement, increased height up to 97m, increased density up to 990 units per hectare, and a reduction in bicycle parking, in exchange for heritage-sensitive design, a heritage courtyard, salvage of architectural artefacts, and other public-benefit commitments.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of 505 Talbot Limited, relating to the properties located at 505, 507 and 511 Talbot Street and 94 Dufferin Avenue: a) the Chief Building Official BE ADVISED that the Municipal Council does not intend to issue a notice of its intent to designate the subject properties under Section 29 of the Ontario Heritage Act; and, b) the proposed by-law appended to the staff report dated August 24, 2015 BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change  ... it being noted that the Bonus Zone shall be implemented through a development agreement to provide for increased height up to 97m, an increased density up to 990 units per hectare and a reduction in bicycle parking in return for the provision of the following services, facilities and matters",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full source text (505/507/511 Talbot St + 94 Dufferin Ave): quote is a genuine ellipsis-elided verbatim excerpt (my flat substring checker flagged a false MISMATCH because it doesn't handle the '...' elision; manually verified both segments are exact). Density axis (990 units/hectare, 97m height) correctly triggers housing/density/expansive; unanimous-minus-one (14-1) matches source."
+  },
+  {
+    "id": "4bf9ef90f37f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have directed the City Clerk to report back on potential inclusions within the London Community Gardens Program policy to allow for funding of community ward initiatives, within specific parameters including a potential annual limit.",
+    "confidence": "high",
+    "quote": "Approve an amendment to clause 7, by adding a new part f) as follows: f) the City Clerk BE DIRECTED to report back with respect to potential inclusions within the policy to allow for funding of community ward initiatives, within specific parameters, including a potential annual limit.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim (clause 7 amendment, Community Gardens funding report-back); motion FAILED (5-10) and is correctly hedged. Informational ask, direction-null."
+  },
+  {
+    "id": "039017af0740",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Put to a vote parts a), b) and c) of the Local Improvement Initiation report for Franklinway Crescent and Franklinway Gate: authorized notice of a $690,000 local-improvement project (Owner's Share $408,723.75 / Corporation's Share $281,276.25), approved its financing, and authorized the related administrative acts.",
+    "confidence": "medium",
+    "quote": "the City Clerk BE AUTHORIZED to proceed under the provisions of The Municipal Act, 2001, Ontario Regulation 586/06 with the publishing and the serving of Notice of the Municipal Council’s intention to undertake these works",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block. This is a local-improvement (property-owner cost-share) authorization, not a 'tax levy'/'capital budget'/'business case' per the tracked budget keyword list, so issue stays none."
+  },
+  {
+    "id": "61d9319b54f7",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Introduced a by-law to amend the Official Plan and rezone a portion of 3100 Colonel Talbot Road (Speyside East Corporation application) to permit a Convenience Commercial use within the North Talbot Community's Low Density Residential designation, and requested that the Site Plan Approval Authority consider specified building-design and pedestrian-connection matters through the site plan process.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application of Speyside East Corporation, relating to a portion the property located at 3100 Colonel Talbot Road: a) the proposed by-law appended to the staff report dated August 24, 2015 BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend the Official Plan by: i) adding the subject site to the list of Locations of Convenience Commercial and Service Station Uses in section 3.6.5.vi); ii) adding the subject site to Appendix “1” to the City of London Official Plan – Convenience Commercial and Service Stations – as a Convenience Commercial use; and, iii) including a policy to permit Convenience Commercial uses in the Low Density Residential designation within the North Talbot Community special policies (3.5.11); b) the proposed by-law appended to the staff report dated August 24, 2015 BE INTRODUCED at the Municipal Council meeting to be held on September 1, 2015 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan as amended in part a) above), to change the zoning of the subject property FROM a holding Residential R5/Residential R6/Community Facility (h-h-53-h-56-h-91-R5-2/R6-4/CF3) Zone TO a holding Residential R5/ Residential R6/Community Facility/Convenience Commercial Special Provision (h-h-53-",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed against full source text (3100 Colonel Talbot Rd / Speyside East, OZ-8486): rezoning to permit Convenience Commercial use, correctly housing/application-approval/expansive at 14-1."
+  },
+  {
+    "id": "160250c34ace",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No. 303.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the first reading of Bill No. 303 (all three of Bill 303's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "f45349024c83",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No. 303.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the second reading of Bill No. 303 (all three of Bill 303's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "a7bf2a1af5ca",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading to, and enacted, Bill No. 303 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No. 303.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the third reading of Bill No. 303 (all three of Bill 303's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "0f7c2a6f781f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No. 306.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the first reading of Bill No. 306 (all three of Bill 306's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "4110ecfa5c4f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No. 306.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the second reading of Bill No. 306 (all three of Bill 306's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "9e9380fce452",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading to, and enacted, Bill No. 306 (the bill's own subject matter was not captured in this record beyond its number).",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No. 306.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: cross-checked this id's meeting/item/rollCallOrdinal directly against every XIII roll call in the raw 2015-09-01 source (16 sequential votes covering Bills 276/277, 285, 297, 303, 306, and the 282-307 bundle). This id's own roll call is the third reading of Bill No. 306 (all three of Bill 306's stages share an identical divided tally in the source), not the bill/stage the classifier named — the classifier appears to have mapped the 6 divided-vote ids in this manifest batch sequentially onto the meeting's 6 GROUPED bill-units (including unanimous ones never in this batch) instead of onto their own actual rollCallOrdinals."
+  },
+  {
+    "id": "a1a38c9c3aae",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Corporate Services Committee recommendation approving, notwithstanding Council Policy 28(2) (Council Members' Expense Account), Councillor M. van Holst's request for up to $500.00 from his annual expense allocation to cover the Showmobile rental for the St. Julien Park Community Festival.",
+    "confidence": "medium",
+    "quote": "notwithstanding Council Policy 28(2) – Council Members’ Expense Account, the request by Councillor M. van Holst to provide up to $500.00 from his annual expense allocation, to cover the costs associated with the rental of the Showmobile for the St. Julien Park Community Festival, BE APPROVED",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block (a personal councillor-expense exemption). Issue stays none."
+  },
+  {
+    "id": "fb0725e8294f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Corporate Services Committee recommendation to appoint Michael Thorn as a Voting Member of the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019, after first voting to appoint only one additional Voting Member at this time.",
+    "confidence": "medium",
+    "quote": "That Michael Thorn BE APPOINTED as a Voting Member on the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from preceding bare-string blocks. Correctly stays issue=none per the appointment exclusion convention (personnel decision, not a policy stance)."
+  },
+  {
+    "id": "236b05612e29",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved, in principle, the list of initiatives and projects in Appendix A as those that will have business cases prepared for consideration of new funding through the 2016-2019 Budget process, and directed that no further action be taken on a review of budget priorities under the Standing Committees' Deferred Matters Lists.",
+    "confidence": "medium",
+    "quote": "the list of initiatives and projects attached as Appendix A, BE ENDORSED in principle as those that will have business cases prepared for consideration to receive new funding through the 2016-2019 Budget process",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "OVERTURNED a false 'no_text'/issue=none: real text recovered from a preceding bare-string block, and it contains the 'business case' keyword. Substantively this is an in-principle, preparatory endorsement (which initiatives get a business case drafted for a FUTURE budget decision), not an actual levy/spending commitment, so polarity stays null — same treatment as ae88ce1178e8 elsewhere in this batch."
+  },
+  {
+    "id": "315e74306859",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a further, separately-recorded vote on part b) of the Strategic Priorities and Policy Committee's Multi-Year Budget report: that no further action be taken with respect to a review of the budget priorities in relation to the various Standing Committee Deferred Matters Lists.",
+    "confidence": "medium",
+    "quote": "Approve that no further action be taken with respect to a review of the budget priorities in relation to the various Standing Committee Deferred Matters Lists.",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block. This isolated clause carries no exact tracked-budget keyword ('budget priorities' is not a listed phrase), so issue stays none even though the sibling clause (236b05612e29) does."
+  },
+  {
+    "id": "57ce33577785",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Strategic Priorities and Policy Committee recommendation on the Province's review of transportation modes: requested the Mayor write to the Minister of Transportation regarding the Ontario Highway Transport Board and intercommunity transit competition, encouraged a regional transportation mobility plan for Southwestern Ontario, and commended the Province's pursuit of High Speed Rail connecting Toronto, Kitchener-Waterloo, London and Windsor.",
+    "confidence": "medium",
+    "quote": "the Mayor BE REQUESTED to submit a letter to the Minister of Transportation requesting that the Minister include in the above-noted review, consideration of the role of the Ontario Highway Transport Board, with particular attention to opportunities to increase competition and encourage enhanced intercommunity public transit",
+    "flags": [],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block. No exact transit keyword present ('rapid transit', 'transportation master plan', 'transit service' etc. don't appear verbatim), so issue stays none despite the topical closeness — an advocacy letter to another government, direction-null regardless."
+  },
+  {
+    "id": "fbd9667432d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back to a future Planning and Environment Committee meeting evaluating the impact of recent residential demolitions and new construction on Langarth Street East and Garfield Avenue against applicable planning policies, and to report back within 60 days with policy options — potentially including urban design guidelines, site plan review processes, public notification policies, or an interim control by-law — to keep new residential development consistent with surrounding neighbourhood character and scale.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to report back to a future meeting of the Planning and Environment Committee providing an evaluation of the impact of recent residential demolitions and the subsequent new construction on Langarth Street East and Garfield Avenue with respect to applicable planning policies",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block — a pure double report-back request. No exact housing keyword present ('residential development'/'infill and intensification'/'interim control by-law' aren't listed phrases), so issue stays none; direction-null regardless since it's an informational ask."
+  },
+  {
+    "id": "7e0ff4d22e7a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have requested the Civic Administration to review and report back to a future Planning and Environment Committee meeting on the Site Plan Control By-law's requirements for development adjacent to residential areas — addressing noise, lighting, traffic, and parking — and to recommend any changes to better mitigate development impacts.",
+    "confidence": "medium",
+    "quote": "That the Civic Administration BE REQUESTED to review and report back to a future meeting of the Planning and Environment Committee regarding the current requirements set out in the Site Plan Control By-law as they relate to development adjacent to residential areas, noting concerns such as noise, lighting, traffic, and parking",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block; motion FAILED (2-3) so hedged with 'Would have'. No exact housing keyword; direction-null regardless (informational ask)."
+  },
+  {
+    "id": "ece905a1d696",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Carried a Community and Protective Services Committee recommendation on Vehicles for Hire - New Technologies: requested the Civic Administration report back in January/February 2016 on licensing regulations (fares, e-hail technologies, fee structures, and recent jurisprudence), and directed it to seek confirmation from the Financial Services Commission of Ontario on the availability of insurance products for Transportation Network Companies and their drivers.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE REQUESTED to report back to the Community and Protective Services Committee in January/February 2016 on licensing regulations including, but not limited to: i) minimum and maximum fares; ii) e-hail technologies; iii) licensing fee structures; and, iv) recent jurisprudence related to vehicle-for-hire technology apps",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED 'no_text': real text recovered from a preceding bare-string block — the same parts a) and b) Council later adopted unanimously (15-0) as e686c0a9dac3. Vehicles-for-hire/TNC licensing is not a tracked issue; direction-null regardless (informational ask + report-back)."
+  },
+  {
+    "id": "0168a7cba17d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have deferred a tethering/chaining-of-animals by-law and a tree-trimming and wildlife-displacement policy to the 2016 Animal Welfare Advisory Committee work plan, and received the remaining clauses of the Committee's 5th Report.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the 5th Report of the Animal Welfare Advisory Committee (AWAC) from its meeting held on September 3, 2015: a) the matter of a tethering/chaining of animals by-law BE DEFERRED to the 2016 work plan of the AWAC; b) the matter of a tree trimming and wildlife displacement policy BE DEFERRED to the 2016 work plan of the AWAC; and, c) clauses 1, 3 to 5 and 7, BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim; motion FAILED (1-14) and is correctly hedged ('Would have deferred...'). No tracked issue."
+  },
+  {
+    "id": "d24826a61e3f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 9 (Vehicles for Hire - New Technologies) to add a direction for the Civic Administration to apply to the Province with respect to fine amendments in the Taxicab and Limousine Licensing By-law L.-129-51.",
+    "confidence": "medium",
+    "quote": "Approve an amendment to clause 9, to add an additional direction for the Civic Administration to apply to the Province with respect to fine amendments included in the Taxicab and Limousine Licensing By-law L.-129-51.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: quote is verbatim and matches this id's own correct rollCallOrdinal 0 (clause 9 amendment, Taxicab By-law fine referral to Province). No tracked issue."
+  },
+  {
+    "id": "2fa14af9b57c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted 10-5 on a sub-motion under Clause 9 (Vehicles for Hire - New Technologies) of the Community and Protective Services Committee's report; the source record's own text field for this specific roll call captured only an unrelated procedural aside (a mid-meeting change of Chair), not the sub-motion's operative content.",
+    "confidence": "low",
+    "quote": "At 8:36 PM  Mayor M. Brown places Councillor P. Hubert in the Chair and takes a seat at the Council board. At 8:38 PM  Mayor M. Brown resumes the Chair and Councillor P. Hubert resumes his seat at the Council board.",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "corrected",
+    "verifierNote": "REFUTED: the classified quote ('Approve parts a) and b) of clause 9, as amended...FSCO...') is verbatim, but it belongs to a DIFFERENT, unanimous (15-0) roll call in the same item (id e686c0a9dac3, rollCallOrdinal 3 — not in this batch). This id's own roll call (rollCallOrdinal 2, 10 yeas/5 nays: nays Armstrong/Squire/Hubert/Hopkins/Park) has a motion_texts field containing only a chair-change narrative, so its real operative content cannot be honestly reconstructed. Downgraded to no_text; issue/polarity were already none/null so no change there, but the prior whatAYeaDid falsely implied these 5 nay-voters opposed content that in fact passed unanimously with them voting yea."
+  }
+]

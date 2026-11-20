@@ -1,0 +1,121 @@
+[
+  {
+    "id": "a7a64425a131",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "keep_pass1",
+    "chosen_value": "housing",
+    "quote": "to change the zoning of the subject lands FROM a Holding Residential R5/R6/R7 ... Zone ... TO a Residential R5/R6/R7 Special Provision ... Zone, to remove the “h”, “h-11”, “h-71”, “h-95”, “h-100”, and “h-108” holding provisions",
+    "reason": "Motion's own operative text is a residential (R5/R6/R7) zoning by-law amendment removing holding provisions from a subdivision-development site — squarely housing/zoning content. Pass2's verifierNote gives no textual basis for issue=none ('no false statement or missed classification found' is vague and unsupported); pass1's housing tag is directly grounded in the quoted zoning clause.",
+    "checkVerdict": "upheld",
+    "checkNote": "Read item 3 of 2018-01-22 PEC directly: the FROM clause lists TWO source zones (h-11.R5-3/R6-5/R7.H12.D50, and h.h-71.h-95.h-100.h-108.R5-3(16)/R6-5(28)/R7.H15.D75) collapsing into ONE TO zone at the higher H15/D75 code — the H12/D50 portion's own density code changes, not just its holding symbol. That's a real zoning/density action, not a pure holding-removal; issue=housing is directly supported. Pass2's raw verifierNote ('no false statement...found, CONFIRMED') shows no engagement with this text at all. No direction/axis claim at stake either way."
+  },
+  {
+    "id": "1e71e88fbf2e",
+    "field": "quote",
+    "live_value": "the Approval Authority BE ADVISED that the Municipal Council supports issuing draft approval of the proposed revised plan of residential subdivision, submitted by Extra Realty Limited (File No. 39T-09501), prepared by Zelinka Priamo Limited, Project No. SRG/LON/11-01, as red-line amended, which shows a revised draft plan of subdivision consisting of 39 low density blocks (Blocks 1-39), four (4) medium density residential blocks (Blocks 40-44)",
+    "pass2_value": "the Approval Authority BE ADVISED that the Municipal Council supports issuing draft approval of the proposed revised plan of residential subdivision, submitted by Extra Realty Limited (File No. 39T-09501)... as red-line amended, which shows a revised draft plan of subdivision consisting of 39 low density blocks (Blocks 1-39), four (4) medium density residential blocks (Blocks 40-44)",
+    "decision": "keep_pass1",
+    "chosen_value": "the Approval Authority BE ADVISED that the Municipal Council supports issuing draft approval of the proposed revised plan of residential subdivision, submitted by Extra Realty Limited (File No. 39T-09501), prepared by Zelinka Priamo Limited, Project No. SRG/LON/11-01, as red-line amended, which shows a revised draft plan of subdivision consisting of 39 low density blocks (Blocks 1-39), four (4) medium density residential blocks (Blocks 40-44)",
+    "reason": "Checked against source item 9 (2018-01-22 PEC, clause c): the source text is fully continuous through 'prepared by Zelinka Priamo Limited, Project No. SRG/LON/11-01,' with no gap — pass1's quote reproduces this run verbatim with no elision needed. Pass2 inserts an unnecessary '...' cutting the same words that are, in fact, present and contiguous in the source; pass1's fuller literal quote is strictly more accurate.",
+    "checkVerdict": "upheld",
+    "checkNote": "Pulled the raw source text of item 9 clause c) directly from 2018-01-22 PEC: '...submitted by Extra Realty Limited (File No. 39T-09501), prepared by Zelinka Priamo Limited, Project No. SRG/LON/11-01, as red-line amended, which shows...' is one unbroken run, byte-for-byte matching pass1's quote with zero gap. Pass2's ellipsis elides text that is in fact present and contiguous, which is a strictly worse (unnecessarily lossy) quote of the same operative content. No polarity/direction implication either way."
+  },
+  {
+    "id": "14ecdbe76f3d",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+    "pass2_value": "Approved implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "'Endorsed' opens whatAYeaDid, a banned stance verb per the convention, even though it echoes the source's own 'BE ENDORSED' — the convention overrides source verb choice. Pass2's 'Approved' is neutral motion-action voice; content otherwise unchanged.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed live batch-89-verified.json source quote reads 'BE ENDORSED'; convention explicitly bans 'Endorsed' opening whatAYeaDid regardless of source wording. Corpus-wide, 'Approved' already opens 943 other whatAYeaDid entries (vs. 0 acceptable uses of opening 'Endorsed'), confirming it is the established compliant substitute. Only the verb changes; no fact about content, vote, or any councillor is altered."
+  },
+  {
+    "id": "884b295e1641",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+    "pass2_value": "Approved three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "Same banned opening stance-verb 'Endorsed' as 14ecdbe76f3d; swap to 'Approved' per convention, content otherwise unchanged.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified live source quote 'BE ENDORSED for review as part of the 2019 Development Charges Background Study' — same mechanical fix, same convention basis as 14ecdbe76f3d. Only the opening verb changes; three policy matters and their scope are unaltered."
+  },
+  {
+    "id": "8d242925ddc8",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+    "pass2_value": "Approved the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "Same banned opening stance-verb 'Endorsed'; swap to 'Approved' per convention, content otherwise unchanged.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified live source quote 'BE ENDORSED to inform the funding of growth-related infrastructure projects' — same mechanical fix, same convention basis. Only the opening verb changes."
+  },
+  {
+    "id": "f257dffa4c73",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+    "pass2_value": "Approved a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "Same banned opening stance-verb 'Endorsed'; swap to 'Approved' per convention, content otherwise unchanged.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified live source quote continues the DC-rate-boundary policy ('BE CONTINUED') and directs further analysis; the 'Endorsed' being swapped attaches to the staff-report clause per the batch-89 pattern shared with its siblings. Same mechanical fix, same convention basis."
+  },
+  {
+    "id": "ebbd0a12fc37",
+    "field": "whatAYeaDid",
+    "live_value": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): endorsed three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; endorsed the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+    "pass2_value": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): approved three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; approved the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Ratified the 3rd Report of the Strategic Priorities and Policy Committee (clauses 1-3): approved three Development Charges Background Study policy matters (Urban Works Reserve Fund retirement, non-residential DC rate review, DC recovery for water supply) for further review; approved the Core Area Servicing Studies and a Local Servicing Policy funding approach to inform DC-funded infrastructure; and continued the policy distinguishing DC rates inside/outside the Urban Growth Boundary while directing further area-rating analysis.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "'Endorsed' appears mid-sentence twice (banned regardless of position); twin committee-stage entries 884b295e1641/8d242925ddc8/f257dffa4c73 in this same slice are already being fixed to 'approved' — this Council ratification of the identical clauses must match its twins. Swap both instances to 'approved'.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed this is the Council-stage ratification of the same three clauses in 884b295e1641/8d242925ddc8/f257dffa4c73 (identical quote text merging all three clauses); consistency with those already-adopted twins is required and both 'endorsed' occurrences are mid-sentence, still banned per the convention's explicit 'opening or mid-sentence' clause. Only the two verbs change."
+  },
+  {
+    "id": "0f455b260cb0",
+    "field": "whatAYeaDid",
+    "live_value": "Endorsed a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+    "pass2_value": "Approved a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved a door-to-door canvassing campaign to promote weeping tile disconnection, run jointly with the Growing Naturally Program.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "Same banned opening stance-verb 'Endorsed' (echoing source's 'BE ENDORSED'); swap to 'Approved' per convention. issue=none already agreed by both passes, unaffected.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified live source quote 'the recommended action ... BE ENDORSED' — same mechanical fix. issue/axis/polarity untouched by this row and both passes already agree on them."
+  },
+  {
+    "id": "1d5a967740ff",
+    "field": "whatAYeaDid",
+    "live_value": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and endorsed the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+    "pass2_value": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and approved the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Received a Growth Projections Sensitivity Analysis and the Watson & Associates 2016-2044 population/housing/employment growth forecast update for information, and approved the updated forecast's growth scenarios for use in the 2019 Development Charges Study.",
+    "quote": "whatAYeaDid in motion-action voice, never a stance verb (Supported/Backed/Endorsed) opening or mid-sentence",
+    "reason": "'endorsed' appears mid-sentence (banned regardless of position), echoing source's 'BE ENDORSED'; swap to 'approved' per convention. issue=budget already agreed by both passes, unaffected.",
+    "checkVerdict": "upheld",
+    "checkNote": "Verified live source quote '...BE ENDORSED for use in the 2019 Development Charges Study' — mid-sentence, still banned per convention. 'Received...for information' opening is untouched and correct (a distinct, unproblematic verb); only the second, banned verb changes."
+  },
+  {
+    "id": "59e86fb97b4d",
+    "field": "issue",
+    "live_value": "none",
+    "pass2_value": "climate",
+    "decision": "adopt_pass2",
+    "chosen_value": "climate",
+    "quote": "the proponent BE REQUESTED to work with adjacent landowners to coordinate studies and works so that overland flows post development support the ecological features and functions of the Natural Heritage System in the area",
+    "reason": "Motion body (clause e, sub-items iv-v of the EEPAC 2nd Report) literally names 'Natural Heritage System' and 'natural heritage areas of the subject lands' as the substance of the Working Group comments being forwarded — issue must be taken from the motion body per convention, and this body text is squarely environmental/natural-heritage content, not merely the item title. Axis/polarity correctly remain null on both passes (advisory comment-forwarding, not an approve/deny protection decision).",
+    "checkVerdict": "upheld",
+    "checkNote": "Pulled item text directly from 2018-02-20 PEC: clauses i-vi genuinely discuss a hydrogeological study, Environmental Impact Statement scope, and 'ecological features and functions of the Natural Heritage System' / 'natural heritage areas' as the operative content being forwarded to planning staff — real body substance, not a title-only reference. Corpus uses 'climate' (101 uses) as its only environmental/ecological tag (no separate 'environment' category exists), confirming the tag choice is correct. Axis/polarity stay null on both passes; no direction claim is created."
+  }
+]

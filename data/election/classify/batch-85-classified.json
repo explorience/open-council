@@ -1,0 +1,508 @@
+[
+ {
+  "id": "b8e3b53af449",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "On the Barvest Realty Inc. application for 58 Sunningdale Road West, advised the Ontario Municipal Board that Council does not support the original plan of subdivision and recommends refusing the requested Official Plan and Zoning By-law changes to permit commercial use, while supporting issuing draft approval of a red-line amended residential plan of subdivision and recommending the Zoning By-law be amended to residential (R1/R5/R6) zones to implement it, and directed the City Solicitor to represent Council's position at the Ontario Municipal Board hearing.",
+  "confidence": "medium",
+  "quote": "the Ontario Municipal Board BE ADVISED that the Municipal Council recommends that the request to amend the Official Plan to change the designation of the subject lands FROM a Multi-Family, Medium Density Residential designation ... TO a Community Commercial Node designation ... BE REFUSED ... the Ontario Municipal Board BE ADVISED that the Municipal Council supports issuing draft approval of the proposed plan of residential subdivision, submitted by Barvest Realty Inc. (File No. 39T-16503) ... as red-line amended",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "20876754a298",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the matter of the Barvest Realty Inc. application for 58 Sunningdale Road West to allow a future public participation meeting for all parties to speak to the matter; this failed.",
+  "confidence": "high",
+  "quote": "Motion to refer the matter to allow a future public participation meeting to allow all parties an opportunity to speak to this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "8277d6267ae4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 21 (the 32/36/40 York Street and part of 330 Thames Street downtown bonus rezoning) by replacing the word 'northwest' with 'southwest' in two site-landscaping wind-mitigation clauses.",
+  "confidence": "high",
+  "quote": "in part a) i) B) III) by removing the word \"northwest\" and by replacing it with the word \"southwest\"; and in part a) ii) B) II) by removing the word \"northwest\" and by replacing it with the words \"southwest\".",
+  "flags": []
+ },
+ {
+  "id": "25a26b8af825",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to rezone 32, 36 and 40 York Street and part of 330 Thames Street from a Holding Downtown Area zone to a Downtown Area Bonus zone and an Open Space Special Provision zone, permitting a mixed-use building with a residential tower of 10 to 24 storeys (up to 534 units per hectare) in exchange for design, landscaping, parking and Downtown River / Heritage Conservation District contributions.",
+  "confidence": "high",
+  "quote": "the recommended amendment will allow for the proposed development including the required increase in density and the required reduction in the setback for the residential component of the building through bonus zones ... the recommended bonus zones provide for a maximum density of 414 units per hectare including the southerly part of 330 Thames Street, but excluding the lands proposed to be zoned OS4; and an increased maximum density of 534 units per hectare excluding the southerly part 330 Thames Street",
+  "flags": []
+ },
+ {
+  "id": "af8b5bb4b578",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the matter of the Barvest Realty Inc. application for 58 Sunningdale Road West back to the Planning and Environment Committee for an additional public participation meeting to allow all parties an opportunity to speak to the matter; this failed.",
+  "confidence": "high",
+  "quote": "Approve that the matter of the application by Barvest Realty Inc. (39T-16503/OZ-8637), related to the property located at 58 Sunningdale Road West, BE REFERRED back to the Planning and Environment Committee, in order for an additional public participation meeting be held to allow all parties an opportunity to speak to this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "192fb4bd77cb",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted clause 8: on the Barvest Realty Inc. application for 58 Sunningdale Road West, advised the Ontario Municipal Board that Council does not support the original plan of subdivision and recommends refusing the requested Official Plan and Zoning By-law changes to permit commercial use, while supporting issuing draft approval of a red-line amended residential plan of subdivision and recommending the Zoning By-law be amended to residential (R1/R5/R6) zones to implement it, and directed the City Solicitor to represent Council's position at the Ontario Municipal Board hearing.",
+  "confidence": "medium",
+  "quote": "the Ontario Municipal Board BE ADVISED that the Municipal Council recommends that the request to amend the Official Plan to change the designation of the subject lands FROM a Multi-Family, Medium Density Residential designation ... TO a Community Commercial Node designation ... BE REFUSED ... the Ontario Municipal Board BE ADVISED that the Municipal Council supports issuing draft approval of the proposed plan of residential subdivision, submitted by Barvest Realty Inc. (File No. 39T-16503) ... as red-line amended",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "947f8254c5ea",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to Bill No. 410, a by-law to amend Zoning By-law No. Z.-1 to rezone 32, 36 and 40 York Street and part of 330 Thames Street from a Holding Downtown Area zone to a Downtown Area Bonus zone and an Open Space Special Provision zone, permitting a residential tower up to 24 storeys and 534 units per hectare.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 410.",
+  "flags": []
+ },
+ {
+  "id": "3584cb2939c9",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to Bill No. 410, a by-law to amend Zoning By-law No. Z.-1 to rezone 32, 36 and 40 York Street and part of 330 Thames Street from a Holding Downtown Area zone to a Downtown Area Bonus zone and an Open Space Special Provision zone, permitting a residential tower up to 24 storeys and 534 units per hectare.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 410.",
+  "flags": []
+ },
+ {
+  "id": "9e5d82adb852",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 410, a by-law to amend Zoning By-law No. Z.-1 to rezone 32, 36 and 40 York Street and part of 330 Thames Street from a Holding Downtown Area zone to a Downtown Area Bonus zone and an Open Space Special Provision zone, permitting a residential tower up to 24 storeys and 534 units per hectare.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 410.",
+  "flags": []
+ },
+ {
+  "id": "811d050c437f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Withdrew the Notice of Intention to designate 4402 Colonel Talbot Road as a property of cultural heritage value under the Ontario Heritage Act, with notice of withdrawal to be served on the property owner and the Ontario Heritage Trust and published in The Londoner.",
+  "confidence": "high",
+  "quote": "the Notice of Intention to designate the property located at 4402 Colonel Talbot Road BE WITHDRAWN pursuant to Section 29(14b) of the Ontario Heritage Act, causing a notice of withdrawal to be served on the property owner, the Ontario Heritage Trust and to be published in The Londoner",
+  "flags": []
+ },
+ {
+  "id": "c1613f62d6b3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that Municipal Council consider designating 440 Grey Street under the Ontario Heritage Act as a property of cultural heritage value or interest, based on the revised Statement of Cultural Heritage Value or Interest, and received the London Advisory Committee on Heritage's 10th Report.",
+  "confidence": "high",
+  "quote": "the Municipal Council BE REQUESTED to consider the designation of the property located at 440 Grey Street, as the property is of cultural or heritage value or interest, pursuant to Section 29 of the Ontario Heritage Act, based on the revised Statement of Cultural Heritage Value or Interest appended to the 10th Report of the LACH",
+  "flags": []
+ },
+ {
+  "id": "eafc48c6d003",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Closed the public participation meeting on proposed Business Licensing By-law amendments concerning adult live entertainment parlours, adult entertainment body-rub parlours, and unsolicited motor vehicle towing and storage.",
+  "confidence": "high",
+  "quote": "Motion to close the public participation meeting.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "d84ff9f00b18",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Civic Administration work with the London Economic Development Corporation and other relevant community stakeholders to investigate the feasibility of submitting a response to the Amazon HQ2 Request for Proposal to have the headquarters located in London, Ontario, or to support a Regional/Ontario bid.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to work with the London Economic Development Corporation and other relevant community stakeholders to investigate the feasibility of submitting a response to the Amazon HQ2 Request for Proposal to have the headquarters located in London, Ontario or to support a Regional/Ontario bid.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "5f8a47ad0177",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Managing Director, Neighbourhood, Children and Fire Services to work with the London Children's Museum as they prepare their 2018 Budget Amendment form for their capital funding request, for consideration as part of the 2018 Annual Budget Update.",
+  "confidence": "high",
+  "quote": "the Managing Director, Neighbourhood, Children and Fire Services BE DIRECTED to work with the London Children's Museum as they prepare their 2018 Budget Amendment form for their capital funding request for consideration as part of the 2018 Annual Budget Update.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "00f42626c38d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law to repeal By-law No. A-51 (Various Fees and Charges) and replace it with a new Fees and Charges By-law that adds and adjusts certain fees and charges for services or activities provided by the City of London.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated September 18, 2017 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting on September 19, 2017 for the purpose of repealing By-law No. A-51, as amended, being \"A by-law to provide for Various Fees and Charges\" and replacing it with a new Fees and Charges By-law that adds and adjusts certain fees and charges for services or activities provided by the City of London",
+  "flags": []
+ },
+ {
+  "id": "ce957f0274c1",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the fees payable to IBI Group by $2,282,330 (excluding HST), under the Procurement of Goods and Services Policy, for project management and consulting work on the Shift Rapid Transit Environmental Assessment.",
+  "confidence": "medium",
+  "quote": "the fees for IBI Group, BE INCREASED in the amount of $2,282,330 excluding HST, in accordance with Section 20.3 (e) of the Procurement of Goods and Services Policy",
+  "flags": []
+ },
+ {
+  "id": "86434608d113",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have withdrawn the Notice of Intention to designate 4402 Colonel Talbot Road as a property of cultural heritage value under the Ontario Heritage Act; this failed.",
+  "confidence": "medium",
+  "quote": "the Notice of Intention to designate the property located at 4402 Colonel Talbot Road BE WITHDRAWN pursuant to Section 29(14b) of the Ontario Heritage Act, causing a notice of withdrawal to be served on the property owner, the Ontario Heritage Trust and to be published in The Londoner",
+  "flags": []
+ },
+ {
+  "id": "c223f54e618e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report and Conservation Review Board report on 4402 Colonel Talbot Road, and designated the property under Section 29 of the Ontario Heritage Act as a property of cultural heritage value or interest.",
+  "confidence": "high",
+  "quote": "Approve that, on the recommendation of the Managing Director, Planning and City Planner, with the advice of the Heritage Planner, the following actions be taken: a) the staff report, dated September 11, 2017, and the report from the Conservation Review Board, appended to the report as Appendix A, BE RECEIVED; b) the property at 4402 Colonel Talbot Road BE DESIGNATED under the provisions of Section 29 of the Ontario Heritage Act as a property of cultural heritage value or interest",
+  "flags": []
+ },
+ {
+  "id": "c8d9d470886f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Civic Administration work with the London Economic Development Corporation and other relevant community stakeholders to investigate the feasibility of submitting a response to the Amazon HQ2 Request for Proposal to have the headquarters located in London, Ontario, or to support a Regional/Ontario bid.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE REQUESTED to work with the London Economic Development Corporation and other relevant community stakeholders to investigate the feasibility of submitting a response to the Amazon HQ2 Request for Proposal to have the headquarters located in London, Ontario or to support a Regional/Ontario bid.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "ca9c417f8f4d",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Managing Director, Neighbourhood, Children and Fire Services to work with the London Children's Museum as they prepare their 2018 Budget Amendment form for their capital funding request, for consideration as part of the 2018 Annual Budget Update.",
+  "confidence": "high",
+  "quote": "the Managing Director, Neighbourhood, Children and Fire Services BE DIRECTED to work with the London Children's Museum as they prepare their 2018 Budget Amendment form for their capital funding request for consideration as part of the 2018 Annual Budget Update.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "acdcd9a33fd1",
+  "issue": "transit",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the fees payable to IBI Group by $2,282,330 (excluding HST), under the Procurement of Goods and Services Policy, for project management and consulting work on the Shift Rapid Transit Environmental Assessment.",
+  "confidence": "medium",
+  "quote": "the fees for IBI Group, BE INCREASED in the amount of $2,282,330 excluding HST, in accordance with Section 20.3 (e) of the Procurement of Goods and Services Policy",
+  "flags": []
+ },
+ {
+  "id": "6979f544925d",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Supported draft approval of a plan of subdivision for 1635 Commissioners Road East and 2624 Jackson Road, introduced Official Plan amendments changing the land use designation from Urban Reserve/Environmental Review to Low Density Residential, Multi-family Medium Density Residential and Open Space (and, for 1663/1685 Commissioners Road East, to Multi-family Medium Density Residential), and introduced a Zoning By-law amendment rezoning the lands from Urban Reserve/Environmental Review/Agricultural to a mix of residential zones permitting single detached dwellings, street townhouses, stacked townhouses and apartment buildings up to a maximum density of 40 units per hectare.",
+  "confidence": "high",
+  "quote": "a Holding Residential R4/R5/R6 (h-h-71-h-100-R4-6/R5-4/R6-5) Zone to permit street townhouse dwellings; townhouses and stacked townhouses up to a maximum density of 40 units per hectare and maximum height of 12 metres; and various forms of cluster housing including single detached, semi-detached, duplex, triplex, fourplex, townhouse, stacked townhouse, and apartment buildings up to a maximum density of 35 units per hectare and maximum height of 12 metres",
+  "flags": []
+ },
+ {
+  "id": "b4058564fa7c",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Commissioners Road East / Jackson Road subdivision, Official Plan and Zoning By-law application back for further discussion between the applicant and staff, to consider extending Street E to the east and relocating Street L farther north to create views onto adjacent natural heritage features; this failed.",
+  "confidence": "high",
+  "quote": "Motion to refer the application back for further discussion between the applicant and staff to consider exploring the extension of Street E to the east and the relocation of Street L farther north to create views onto the adjacent natural heritage features.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "2b27751b9a33",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have asked the Managing Director, Planning and City Planner to report back with a draft agreement reflecting Option 2 for the Arva Sanitary Servicing and Delaware Water Servicing request from the Municipality of Middlesex Centre, including consideration of an appropriate financing agreement; this failed.",
+  "confidence": "high",
+  "quote": "Motion to ask the Managing Director, Planning and City Planner to report back with a draft agreement that reflects Option 2 as outlined in the staff report dated September 25, 2017, including consideration of an appropriate financing agreement.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "e8e7fe6978b3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Managing Director, Environmental and Engineering Services and City Engineer develop an improved community engagement strategy for the Warranted Sidewalk Program.",
+  "confidence": "high",
+  "quote": "the Managing Director, Environmental and Engineering Services and City Engineer BE REQUESTED to develop an improved community engagement strategy with respect to the Warranted Sidewalk Program",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "13336aa8c5fa",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Commissioners Road East / Jackson Road subdivision, Official Plan and Zoning By-law application back to the Civic Administration, to undertake and report back on further discussions with the applicant about modifying the subdivision design to improve views onto natural heritage areas and align with Policy 204 of The London Plan.",
+  "confidence": "high",
+  "quote": "clause 12, of the 18th Report of the Planning and Environment Committee ... BE REFERRED back to the Civic Administration to undertake and report back on the results of further discussions with the applicant as to how the proposed subdivision design could potentially be modified to: a) improve the views onto natural heritage areas ...; and, b) be consistent with Policy 204 of the London Plan",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "7f06c696e610",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted (13-1) on a motion to further amend clause 13 (Arva Sanitary Servicing and Delaware Water Servicing) by adding a new part c); the text of the proposed part c) is not preserved in the source record.",
+  "confidence": "low",
+  "quote": "Approve that clause 13 be further amended by adding the following new part c):",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "fafabc803269",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast a further recorded vote (9-5) associated with amending clause 13 (Arva Sanitary Servicing and Delaware Water Servicing) to add a new part c); the text of the proposed part c) is not preserved in the source record, and it is unclear whether this vote covered different content than the preceding 13-1 vote on the same amendment.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "f8db2b8ab971",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 13 (the Arva Sanitary Servicing and Delaware Water Servicing report from the Municipality of Middlesex Centre, received for information) as amended by an added part c) whose text is not preserved in the source record.",
+  "confidence": "medium",
+  "quote": "the report of the Managing Director, Planning and City Planner and the Managing Director, Environmental and Engineering Services and City Engineer dated September 25, 2017 entitled \"Request From Municipality of Middlesex Centre: Arva Sanitary Servicing and Delaware Water Servicing\" BE RECEIVED for information.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "b361e3631357",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 16 (Warranted Sidewalk Program) by adding a part b) directing that the sidewalk on Regal Drive between Fuller Street and Hillcrest Avenue be constructed on the east side of Regal Drive; this failed.",
+  "confidence": "high",
+  "quote": "the Managing Director, Environmental and Engineering Services and City Engineer BE REQUESTED to make the following amendment to the placement of sidewalks on Regal Drive: i) the sidewalk to be placed on Regal Drive between Fuller Street and Hillcrest Avenue BE CONSTRUCTED on the east side of Regal Drive",
+  "flags": []
+ },
+ {
+  "id": "95f76f949139",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 16 (Warranted Sidewalk Program) by adding a new part b), replacing an earlier, unsuccessful part b) proposal on Regal Drive sidewalk placement; the text of the part b) that passed is not preserved in the source record.",
+  "confidence": "low",
+  "quote": "Approve that clause 16 be amended by adding the following new part b):",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "910cd0e68c63",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the One River Environmental Assessment Agency Advisory Committee Report and Public Consultation Report, and received a communication from R. Huber, Thames River Anglers Association.",
+  "confidence": "high",
+  "quote": "the One River Environmental Assessment Agency Advisory Committee Report and Public Consultation Report appended to the staff report dated September 26, 2017, BE RECEIVED; and, the communication dated October 22, 2017, from R. Huber, Thames River Anglers Association, with respect to this matter, BE RECEIVED.",
+  "flags": []
+ },
+ {
+  "id": "ffedaf7c3f7a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Changed the order of business to permit consideration of clause 16 of the 15th Report of the Civic Works Committee (the Warranted Sidewalk Program) at that time.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration of clause 16 of the 15th Report of the Civic Works Committee at this time.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "0fee8431a678",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the draft Business Licensing By-law to the Chief Municipal By-law Enforcement Officer for additional review based on comments heard at the public participation meeting, with a report back within two meeting cycles.",
+  "confidence": "high",
+  "quote": "the draft Business Licensing By-law BE REFERRED to the Chief Municipal By-law Enforcement Officer for additional review, based on the comments heard at the public participation meeting held on October 4, 2017, with a report back within two meeting cycles",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "cef5a7d3f3b1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Manager or designate to report back with a proposed consultation and engagement approach for future public participation meetings on Business Licensing By-law amendments related to adult live entertainment parlours and adult body-rub parlours, so that people with lived experience of sex work could share their experiences without disclosing personal identification, recognizing that stigma can be a barrier to participation.",
+  "confidence": "high",
+  "quote": "recognizing that the stigma associated with sex work can be a barrier to participation in public participation meetings, the City Manager or designate BE DIRECTED to report back with a proposed consultation and engagement approach for any future public participation meetings for amendments with respect to the business licensing by-law related to adult live entertainment parlours and adult body rub parlours to allow people with lived experience of sex work to share their experiences and comment on the licensing bylaw and proposed amendments thereto without sharing personal identification",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "ce7ec004ce24",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Refused the application of Mainline Planning Services Inc. to rezone 6188 Colonel Talbot Road from an Agricultural (AG2) Zone to a Holding Agricultural Special Provision zone that would have facilitated new agricultural lot creation, finding the request inconsistent with the Provincial Policy Statement and Official Plan policies on agricultural lot creation.",
+  "confidence": "high",
+  "quote": "the request to amend Zoning By-law No. Z.-1 by changing the zoning of the subject property FROM an Agricultural (AG2) Zone TO a Holding Agricultural Special Provision (h-18-AG2(_)) Zone, BE REFUSED for the following reasons: a) the requested amendment is not consistent with the Provincial Policy Statement (2014) with regards to agricultural lot creation",
+  "flags": []
+ },
+ {
+  "id": "8a3192048f34",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the Tequila Expo Show 2017 (November 18, 2017 at Budweiser Gardens) as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "the Tequila Expo Show 2017, to be held on November 18, 2017 at Budweiser Gardens from 3:00 PM to 12:00 AM, BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": []
+ },
+ {
+  "id": "77fc35689f84",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Advised the Ontario Plowmen's Association that the City of London is interested in the potential for hosting an International Plowing Match, subject to due diligence, and requested that the City Manager determine the financial and other resources that would be required and report back so that Council could make an informed decision on whether to commit to hosting the event.",
+  "confidence": "high",
+  "quote": "the Ontario Plowmen's Association BE ADVISED that the City of London is interested in the potential for the City of London hosting an International Plowing Match in London, Ontario, subject to the City of London undertaking the necessary due diligence in order to determine whether or not it wishes to submit a formal bid to host the event; and the City Manager, in liaison with the appropriate City staff and partners, BE REQUESTED to determine what financial or other resources would be required in connection with the event and where those resources would be sourced, and report back with that information so that the Municipal Council can make an informed decision",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "23b69ad57ca3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Designated the Tequila Expo Show 2017 (November 18, 2017 at Budweiser Gardens) as an event of municipal significance in the City of London.",
+  "confidence": "high",
+  "quote": "the Tequila Expo Show 2017, to be held on November 18, 2017 at Budweiser Gardens from 3:00 PM to 12:00 AM, BE DESIGNATED as an event of municipal significance in the City of London.",
+  "flags": []
+ },
+ {
+  "id": "c61671ff32b7",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 11 (refusing to rezone 6188 Colonel Talbot Road to facilitate severance of an indoor hydroponic mushroom farm from a larger agricultural parcel) back to the Civic Administration, to undertake further discussions with the applicant on other available options and report back to a future meeting of the Planning and Environment Committee; this failed.",
+  "confidence": "high",
+  "quote": "clause 11 of the 19th Report of the Planning and Environment Committee with respect to the application of Mainline Planning Services Inc., relating to the property located at 6188 Colonel Talbot Road to rezone the subject land to facilitate the severance of an indoor hydroponic mushroom farm from a larger agricultural parcel BE REFERRED back to the Civic Administration to undertake further discussions with the applicant as to other options that may be available with respect to this proposal and to report back to a future meeting of the Planning and Environment Committee on the results of those discussions.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "e90c794cd884",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast a further recorded vote (7-7, tied and therefore failed) on clause 11 (the 6188 Colonel Talbot Road rezoning refusal / mushroom-farm severance application); the specific text put to this vote is not preserved in the source record.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "df20b5eb1cac",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 11 (refusing to rezone 6188 Colonel Talbot Road to facilitate severance of an indoor hydroponic mushroom farm from a larger agricultural parcel) back to the Civic Administration, to examine options available under Provincial policy and potentially engage an independent Planner, and report back to a future meeting of the Planning and Environment Committee; this failed.",
+  "confidence": "high",
+  "quote": "clause 11 of the 19th Report of the Planning and Environment Committee with respect to the application of Mainline Planning Services Inc., relating to the property located at 6188 Colonel Talbot Road to rezone the subject land to facilitate the severance of an indoor hydroponic mushroom farm from a larger agricultural parcel BE REFERRED back to the Civic Administration to examine options available under Provincial policy and to potentially engage an independent Planner with respect to the application, and to report back to a future meeting of the Planning and Environment Committee.",
+  "flags": [
+   "referral",
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "1c2f355e71fe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast the first of two separately-recorded votes on the Support of Hosting Request – International Plowing Match item (advising the Ontario Plowmen's Association of the City's interest in potentially hosting, subject to due diligence, and requesting the City Manager report back on the resources required); the source minutes do not identify which specific part of the two-part recommendation this recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "6770aca2e90c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast the second of two separately-recorded votes on the Support of Hosting Request – International Plowing Match item (advising the Ontario Plowmen's Association of the City's interest in potentially hosting, subject to due diligence, and requesting the City Manager report back on the resources required); the source minutes do not identify which specific part of the two-part recommendation this recorded vote covered.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "8d30e7c5f42a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed 4100 Glanworth Drive from the Inventory of Heritage Resources and advised the Chief Building Official that Municipal Council consents to the requested demolition of the heritage-listed property.",
+  "confidence": "high",
+  "quote": "4100 Glanworth Drive BE REMOVED from the Inventory of Heritage Resources (the Register); and, the Chief Building Official BE ADVISED that Municipal Council consents to the requested demolition on this property",
+  "flags": []
+ }
+]

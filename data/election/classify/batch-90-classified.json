@@ -1,0 +1,527 @@
+[
+  {
+    "id": "8a1376de1b23",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on the Property Disposition of the former Sherwood Forest Public School lands at 7 Annadale Drive; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "ebbd0a12fc37",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clauses 1 through 3 of the item on the 2019 Development Charges Study Policy Matters Update; the clauses' own operative text is not preserved in the source record.",
+    "confidence": "low",
+    "quote": "Approve clause 1 through 3:",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "679d391eb518",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Moved Council into closed session to consider the matters listed on the agenda; the specific matters are not itemized in the recovered text.",
+    "confidence": "high",
+    "quote": "Approve that Council rise and go into Council, In Closed Session, for the purpose of considering the following matters:",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "89b0ca159199",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Minutes of the Second Meeting held on January 16, 2018.",
+    "confidence": "high",
+    "quote": "Approve the Minutes of the Second Meeting held on January 16, 2018.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "de3f9d7075f5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "5ddc29cd6689",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "5fda22eb51be",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill Nos. 55 to 77 and the added Bill Nos. 79 to 82, excluding Bill Nos. 59, 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No.’s 55 to 77, the Added Bill No’s. 79 to 82, excluding Bill No.’s 59, 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "077b99accdee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No. 59.",
+    "flags": []
+  },
+  {
+    "id": "b2765e10d031",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No. 59.",
+    "flags": []
+  },
+  {
+    "id": "d39b3a5d16d8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill No. 59.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No. 59.",
+    "flags": []
+  },
+  {
+    "id": "c16758abba66",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Introduction and First Reading of Bill No.’s 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "c1ad67f3d002",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Second Reading of Bill No.’s 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "0c15e2347fc5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading and enacted Bill Nos. 61, 63 and 64.",
+    "confidence": "low",
+    "quote": "Approve Third Reading and Enactment of Bill No.’s 61, 63 and 64.",
+    "flags": []
+  },
+  {
+    "id": "86e6308a9374",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on the Middlesex-London Health Unit Site Selection; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "f7ec4fc71a20",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Contract Award, Tender T17-56, North Lambeth P9 Stormwater Management Facility; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "0f455b260cb0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Weeping Tile Disconnection Promotional Canvassing Campaign; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "a7536a8e6351",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 2017 Ministry of the Environment and Climate Change Inspection Report for the City of London Water Distribution System; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "5225ebad6191",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on a Contract Price Increase on Tender T17-15, the Byron Baseline Road Reconstruction Project; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "b0ea5c26366d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Strategic Plan Variance Report; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "9f1d8b3726f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 1st Report of the Waste Management Working Group; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "815ba915d34c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 1st Report of the Transportation Advisory Committee; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "88cb0d66c9e8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on the Wharncliffe Road South Environmental Study Report; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "d37e311d4647",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Cast a further, separately-recorded vote on the same Wharncliffe Road South Environmental Study Report item; no operative motion text was recovered in the source record for this vote.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "181afba0cdee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 2nd Report of the Cycling Advisory Committee; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "53807d8b8409",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Council Member Submission on Underground Utilities on Hamilton Road; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "9d7ddd3257cb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved a Council Member Submission declaring absence from a meeting; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ]
+  },
+  {
+    "id": "e9ee11805ea3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Council Member Submission on Private Drain Connection (PDC) Projects; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "e45f7a562f1a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Public Submission on a Pedestrian Sidewalk for Pack Road and Colonel Talbot Road; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "72e427a2071f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved an update to the Deferred Matters List; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ]
+  },
+  {
+    "id": "1a97fa17f57e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Contract Award, T17-130, the Wonderland Road South Two-Lane Upgrade; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "8333894ebc71",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Amendments to the Traffic and Parking By-law; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "26808da845ba",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Hamilton Road Infrastructure Lifecycle Renewal, Chesley Avenue to Egerton Street, Hydro and Telecommunication Utility Locations; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "f5826825ca4b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Contract Award, Tender No. 17-129, Western Road/Wharncliffe Road North Improvements Phase 2; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "a5da8992280f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Consultant Assignments, Southeast Pressure Zone Development, Construction Administration; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "ccb5c84b32ec",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on a Sole Source Award for the Acoustic Fiber Optic Monitoring Contract, Project No. EW3538; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "1be465447566",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on Appointment of Consulting Engineer for Detailed Design and Contract Administration of the Fox Hollow Stormwater Management Facility No. 1-North Cell (ESSWM-FH1); no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "479e6aa84495",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on an Amendment to the Flags at City Hall Policy; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "5bfca5335346",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the item on the Apportionment of Taxes; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "5dfec2447065",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on the Consideration of Appointment to the Transportation Advisory Committee (two Members-at-Large seats); no operative motion text, including who was appointed, was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "appointment",
+      "no_text"
+    ]
+  },
+  {
+    "id": "9c528b4115aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved designating the Forest City Beer Fest 2018 Winter Pop Up Bar as a municipally significant event; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "125bf8394229",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 2018 Assessment Growth Funding Allocation; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "cd40f76dd2a4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the Strategic Plan Progress Variance report; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "1d5a967740ff",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 2019 Development Charges (DC) Study Growth Projections; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "dca0e3208f9a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the staff report item on the 2019 Development Charges Background Study: Interim Financing for Growth Infrastructure Projects; no operative motion text was recovered in the source record.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "35fab38f6c6e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on a blanket approval of clauses 1 through 5 of a closed-session-originated report forwarded to Council; the clauses' own operative text is not preserved for this vote (a separate, adjoining vote on the same item approved clauses 1 and 2 specifically — a 330 Thames Street property sale — with real text).",
+    "confidence": "low",
+    "quote": "Approve clauses 1 to 5, inclusive.",
+    "flags": [
+      "no_text"
+    ]
+  }
+]

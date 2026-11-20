@@ -1,0 +1,596 @@
+[
+ {
+  "id": "f4d64ba10584",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved receipt of the staff report on the Vehicle for Hire By-law and directed the Civic Administration to prepare a draft by-law implementing the recommended vehicle-for-hire licensing and regulatory changes, for consideration at a public participation meeting in October 2016.",
+  "confidence": "high",
+  "quote": "the report dated July 16, 2016 from the Managing Director, Development and Compliance Services and Chief Building Official BE RECEIVED; it being noted that the above-noted report was prepared with consideration to previously reported options and reported results of various public consultations; ii) the Civic Administration BE DIRECTED to prepare a draft by-law for consideration at a public participation meeting before the Community and Protective Services Committee, in October of this year, to amend the Vehicle for Hire By-law",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim from CPSC item 15 (2016-07-19); receive+direct-to-draft-bylaw is informational, no vote-yet on substance -- issue=none correct."
+ },
+ {
+  "id": "db348f92fca7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to the Community and Protective Services Committee on a draft policy for public web-posting of fire code and by-law conviction information for “Group C” properties (apartments, college residences, hotels, and motels).",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with respect to a draft policy to provide for the public web-posting of information pertaining to “Group C” properties (residential/lodging including, but not limited to apartments, college residences, hotels and motels) with convictions of fire code and by-law violations",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 8); pure report-back direction, correctly flagged informational_ask."
+ },
+ {
+  "id": "a0fe45f57d2e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to draft a letter, for the Mayor's execution, advising the Province of Ontario of the requirements and timelines the City of London would need in order to keep a ranked-ballot process viable as an option for the 2018 municipal election.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to draft a letter, for execution by the Mayor, which advises the Province of Ontario as to the requirements, and timelines for receiving same, that the City of London has, in order for a ranked ballot process to remain a viable option for the City of London to consider for the 2018 Municipal Election",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (Corporate Services Cmte item 7); letter-drafting direction, governance/procedural, issue=none correct."
+ },
+ {
+  "id": "195323843078",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part of the recommended 2016–2017 Municipal Council meeting calendar (December 1, 2016 to December 31, 2017), including the listed additional Community and Protective Services Committee meeting dates; the surviving committee record does not label which specific clause this recorded vote decided.",
+  "confidence": "medium",
+  "quote": "the proposed annual meeting calendar for the period December 1, 2016 to December 31, 2017, appended to the staff report dated July 25, 2016, BE APPROVED subject to the following changes",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 10, calendar); no committee-record label distinguishing this sub-vote -- issue=none/procedural is the safe call."
+ },
+ {
+  "id": "a6c48f382594",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part of the recommendation on the 2016–2017 meeting calendar, holding the Civic Works Committee meeting scheduled for November 29, 2016 only on an “as needed” basis; the surviving committee record does not label which specific clause this recorded vote decided.",
+  "confidence": "medium",
+  "quote": "the Civic Works Committee (CWC) meeting currently scheduled for November 29, 2016 BE HELD only on an “as needed” basis; it being noted that an additional CWC meeting has been added for December 2016",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 10); CWC as-needed scheduling, procedural, issue=none correct."
+ },
+ {
+  "id": "31685a3cf1de",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the proposed 2016–2017 meeting calendar to accommodate the Ontario Good Roads Association (OGRA) Annual Conference, moving the meetings proposed for February 27 and 28, 2017 to March 1 and 2, 2017, and instructed the City Clerk to take the OGRA conference date into consideration for future years' calendars.",
+  "confidence": "high",
+  "quote": "Motion to Amend the proposed calendar to accommodate the Ontario Good Roads Association (OGRA) Annual Conference by moving the meetings proposed for February 27, 2017 and February 28, 2017 to March 1, 2017 and March 2, 2017 and that the City Clerk BE INSTRUCTED to take the OGRA Annual Conference date into consideration for future years' calendars.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 10, OGRA conference date amendment); scheduling, issue=none correct."
+ },
+ {
+  "id": "d59e4af22036",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed IBI Group as consultants to prepare a comprehensive Smart City Strategy for $125,000 (HST excluded), approved the related project financing, and authorized the Civic Administration to undertake the necessary administrative acts, conditional on formal contract execution.",
+  "confidence": "high",
+  "quote": "IBI Group BE APPOINTED Consultants to prepare a comprehensive Smart City Strategy, in the amount of $125,000, HST excluded, in accordance with Section 15.2 (e) of the Procurement of Goods and Services Policy",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 2, Smart City IBI appointment $125,000 under Procurement Policy 15.2(e)); consultant appointment with no capital-commitment clause -- procurement=null per convention, correct."
+ },
+ {
+  "id": "35f0168dd3fd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on part of the recommendation concerning the Housing Development Corporation, London's 2015 Annual Meeting of the Shareholder Annual Resolutions (by-law ratification of the shareholder resolution, and referral of Board-of-Directors candidates to a Standing Committee for interviews); the surviving committee record does not preserve which specific part this recorded vote decided.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed no_text. Checked SPPC item -- boilerplate 'Motion Passed' only, no distinguishing clause recoverable; issue=none/flag no_text correct per era note."
+ },
+ {
+  "id": "bc6e90cba918",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a request for delegation status by the London Police Services Board at the August 29, 2016 Strategic Priorities and Policy Committee meeting.",
+  "confidence": "high",
+  "quote": "That the request for delegation status by the London Police Services Board, for the August 29, 2016 meeting of the Strategic Priorities and Policy Committee, BE APPROVED.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 7); delegation-status approval, procedural, issue=none correct."
+ },
+ {
+  "id": "28b38f878705",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a second, unlabeled question concerning the London Police Services Board's request for delegation status at the August 29, 2016 Strategic Priorities and Policy Committee meeting; the surviving committee record does not preserve what this recorded vote decided.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed no_text. Second Police Board item at same meeting, boilerplate only -- correctly flagged rather than inferred from title."
+ },
+ {
+  "id": "25708c1b3827",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred consideration of the appointment of a Deputy Mayor selected by Municipal Council, to allow Council to review its governance model for the head-of-council role and implement that model for the next Council year beginning December 1, 2016.",
+  "confidence": "high",
+  "quote": "That consideration of the appointment of a Deputy Mayor selected by the Municipal Council BE DEFERRED in order to permit the Municipal Council to review its governance model to determine the most effective structure to ensure proper continuity with respect to the duties of the head of Council, so that the necessary steps can be taken to implement that model for the next Council year, commencing on December 1, 2016.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (SPPC item 9, Deputy Mayor deferral); governance/timeline protocol, issue=none correct."
+ },
+ {
+  "id": "d7003ad7b753",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part a)i) of Clause 10 (the 2016–2017 Council meeting calendar) by adding the words “as needed” to the proposed additional Community and Protective Services Committee meeting dates.",
+  "confidence": "high",
+  "quote": "Approve that part a)i) of clause 10 be amended by adding the words \"as needed\" to the proposed additional Community and Protective Services Committee meeting dates.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (Council item 10#5, calendar amendment); procedural, issue=none correct."
+ },
+ {
+  "id": "ed9f4fa80048",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved Clause 10, the 2016–2017 Municipal Council meeting calendar, as amended.",
+  "confidence": "high",
+  "quote": "Approve clause 10, as amended.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim ('Approve clause 10, as amended.'); terse confirm-type quote is genuinely this motion's own text, issue=none correct."
+ },
+ {
+  "id": "e83296fd36a7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b)ii)J) of the Vehicle for Hire By-law regulation package (Clause 15) to require interior and forward-facing cameras only in vehicles permitted to accept street hails.",
+  "confidence": "high",
+  "quote": "Approve that part b)ii)J) of clause 15 be amended to read as follows: “J) to only require interior and forward-facing cameras in vehicles that are allowed to accept street hails;”",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 15#3, Vehicle for Hire regs, camera requirement); taxi/VFH licensing is not a tracked issue (no issue-rules.ts key) -- issue=none correct, not a miss."
+ },
+ {
+  "id": "1e021d0c1c2a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b)ii)P) of the Vehicle for Hire By-law regulation package (Clause 15) to allow surge pricing only for rides booked in advance via an app, and to permit brokers to negotiate discounted fare agreements with employers, institutions, and associations within the maximum approved tariffs.",
+  "confidence": "high",
+  "quote": "Approve that part b)ii)P) of clause 15 be amended to read as follows: “P) to allow surge pricing only when rides are booked in advance via an application (app) and to permit brokers to negotiate discounted fare agreements with employers, institutions, associations etc. as long as the maximum approved tariffs are not exceeded”;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 15#3, surge-pricing/broker-discount clause); untracked VFH topic, issue=none correct."
+ },
+ {
+  "id": "4d02db2103bb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved Clause 15, the Vehicle for Hire By-law proposed regulations, as amended.",
+  "confidence": "high",
+  "quote": "Approve clause 15, as amended.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim ('Approve clause 15, as amended.'); issue=none correct."
+ },
+ {
+  "id": "0df8343479b5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to retain a heritage consultant to complete a Statement of Cultural Heritage Value or Interest for 129 Langarth Street East, and directed notice of Municipal Council's intent to designate the property under the Ontario Heritage Act.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to retain a qualified consultant to complete a “Statement of Cultural Heritage Value or Interest” with respect to the contextual value of the subject property in support of the Municipal Council’s intent to designate the subject property under the Ontario Heritage Act, R.S.O. 1990, c.O.18; and, b) the Civic Administration BE DIRECTED to give notice under the provisions of Section 29(3) of the Ontario Heritage Act, R.S.O. 1990, c.O.18 of Municipal Council’s intent to designate the property located at 129 Langarth Street East",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 16#2, 129 Langarth St heritage notice); heritage designation is not a tracked issue per direction-rules.ts comment -- issue=none correct."
+ },
+ {
+  "id": "309b51086ae8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the Draft School Zone Speed Limit Policy and directed the Civic Administration to bring forward the by-laws needed to implement it, phased in over two years.",
+  "confidence": "high",
+  "quote": "the Draft School Zone Speed Limit Policy, appended to the staff report dated April 25, 2016, as Appendix “A”, BE ADOPTED; and, b) the Civic Administration BE DIRECTED to bring forward the necessary by-laws to implement the School Zone Speed Limit Policy",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 18, School Zone Speed Limit Policy); no issue-rules.ts keyword hit (not 'traffic calming' verbatim) -- issue=none correct, not a miss."
+ },
+ {
+  "id": "0e5005495c8c",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to temporarily amend the Zoning By-law to allow amplified music and dancing on legally established outdoor patios within the Downtown Business Improvement Area and Old East Village Community Improvement Area, as a pilot not to exceed September 30, 2016.",
+  "confidence": "high",
+  "quote": "the proposed attached, revised, by-law (Appendix \"A\") BE INTRODUCED at the Municipal Council meeting to be held on July 26, 2016, to amend Section 50.2 (Temporary Zone) of Zoning By-law No. Z.-1, (in conformity with the Official Plan), to temporarily allow, notwithstanding the regulations of Section 4.18 5) of the General Provisions Section, amplified music and dancing on outdoor patios legally in place as of July 26, 2016 within the Downtown Business Improvement Area and Old East Village Community Improvement Program Area for a temporary period not to exceed September 30, 2016",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Quote/polarity/whatAYeaDid confirmed correct (item 19#2, verbatim, 12-1). Corrected axis only: 'downtown' has no issue-specific AXIS_PATTERNS entry in direction-rules.ts, so the generic fallback axis is 'application-approval' (confirmed against corpus precedent, e.g. batch-0 a3ec6ca53d38), not null."
+ },
+ {
+  "id": "842d1c2f94db",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Smart City Strategy report clause — appointing IBI Group as consultants to prepare a comprehensive Smart City Strategy for $125,000 (HST excluded), approving related project financing, and authorizing the Civic Administration to undertake the necessary administrative acts.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Council 'confirm' of SPPC's Smart City Strategy clause; empty quote is correct per this batch's own stated convention (text not independently verbatim in the Council file) -- issue=none/appointment correct, consistent with d59e4af22036."
+ },
+ {
+  "id": "8ee92dc8005d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on part of the recommendation concerning the Housing Development Corporation, London's 2015 Annual Meeting of the Shareholder Annual Resolutions (by-law ratification of the shareholder resolution, and referral of Board-of-Directors candidates to a Standing Committee for interviews); the surviving Council record does not preserve which specific part this recorded vote decided.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed no_text. Council-level HDC Annual Resolution vote, boilerplate only -- correctly flagged, not inferred from title."
+ },
+ {
+  "id": "61d729bccdce",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a request for delegation status by the London Police Services Board at the August 29, 2016 Strategic Priorities and Policy Committee meeting.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Council 'confirm' of SPPC's Police Board delegation clause; empty quote consistent with batch's confirm-item convention, issue=none correct."
+ },
+ {
+  "id": "8141e417bb67",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Deferred consideration of the appointment of a Deputy Mayor selected by Municipal Council, to allow Council to review its governance model for the head-of-council role and implement that model for the next Council year beginning December 1, 2016.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Council 'confirm' of SPPC's Deputy Mayor deferral; empty quote consistent, issue=none correct."
+ },
+ {
+  "id": "31ce8dd80ab0",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the application at 66 Byron Avenue East as originally submitted -- recognizing 4 existing dwelling units and permitting an additional detached dwelling -- rather than the reduced 3-unit-plus-detached-dwelling alternative the Committee had just separately adopted from staff's recommendation.",
+  "confidence": "medium",
+  "quote": "Motion to approve the application.",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "CORRECTED: quote/whatAYeaDid were the WRONG motion. rollCallOrdinal cross-check (item 19, PEC 2016-08-22) shows 31ce8dd80ab0 = rollCallOrdinal 3 ('Motion to approve the application.', FAILED 2-3, Yeas Turner/Park, Nays Squire/Helmer/Hubert) -- a distinct, later vote on the applicant's ORIGINAL unreduced request. The 'refuse-4-allow-3' compound package the classifier described is a DIFFERENT motion (id 78e67d77b97a, rollCallOrdinal 0, PASSED 5-0, not in this batch) that had already been adopted moments earlier. Corrected to this motion's own terse-but-genuine text. A YEA here would have been the more-permissive (expansive) outcome, but the bare quote alone doesn't restate '4 units' so I'm leaving polarity null rather than asserting a direction the text doesn't independently carry -- unclear is safer than a forced call on a named vote."
+ },
+ {
+  "id": "2124fb95dfc1",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing the Official Plan Amendment (Appendix \"A\") to update secondary dwelling unit policies city-wide, as originally recommended by staff, without excluding the Great Near Campus Neighbourhood -- a separate motion to revise the amendments and exclude that neighbourhood failed at the same meeting.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated August 22, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on August 30, 2016 to, amend the City of London Official Plan to update secondary dwelling unit polices, to address such matters as location, scale, and accessory structures, in accordance with changes to the Planning Act",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "CORRECTED -- confirmed ID/quote swap with 693cd0bac35c. rollCallOrdinal cross-check (item 22, PEC 2016-08-22): 2124fb95dfc1 = rollCallOrdinal 0, PASSED 4-1 (Yeas Helmer/Turner/Hubert/Park, Nay Squire), and its own immediately-preceding text is the ORIGINAL, unamended staff recommendation (parts a-d, no GNCN exclusion) -- NOT the 'BE REVISED to remove reference to the Great Near Campus Neighbourhood' amendment text the classifier quoted (that text belongs to a DIFFERENT roll call, 693cd0bac35c, rollCallOrdinal 1, which FAILED 2-3). The classifier had swapped the two PEC votes' substance, which also flipped a PASSING 4-1 vote's polarity to the wrong direction. Corrected to this motion's own text: adopting the original recommendation (GNCN retained) is the expansive outcome, not restrictive."
+ },
+ {
+  "id": "693cd0bac35c",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have revised the proposed Official Plan and Zoning By-law amendments (parts a and b) to remove reference to the Great Near Campus Neighbourhood, excluding it from the new city-wide secondary-dwelling-unit policies.",
+  "confidence": "high",
+  "quote": "Motion to move that the proposed by-laws contained in parts a) and b) of the staff report BE REVISED to remove reference to the Great Near Campus Neighbourhood.",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "CORRECTED -- see 2124fb95dfc1 note (same swap, other half). rollCallOrdinal 1, item 22, FAILED 2-3 (Yeas Squire/Turner, Nays Helmer/Hubert/Park). This id's own immediately-preceding text IS the GNCN-exclusion amendment (confirmed exact match); the classifier had instead attached it a quote/whatAYeaDid borrowed from a THIRD, unrelated motion two positions later in the same item (b7bd9200f65a, 'move part b as originally written', PASSED 4-0, not in this batch), under issue=none/polarity=null. Reclassified as housing/use-permission, hedged restrictive (FAILED). This now makes the PEC and Council stages of this thread directionally CONSISTENT (both attempts to exclude GNCN failed -- PEC 2-3, Council 5-8 per 4f564e88fe10), rather than the internally contradictory 'PEC passed it, Council failed it' story the original classification implied."
+ },
+ {
+  "id": "fdcbbb6a7942",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a new Tree Protection By-law at the August 30, 2016 Council meeting, to repeal the former Tree Conservation By-law, redefine “distinctive tree” from 75 cm to 50 cm, remove the 3-year reference in Section 13.3, designate enforcement Inspectors and Officers, redirect fees/fines/tree-planting funds into dedicated accounts, and require a one-year implementation status report.",
+  "confidence": "high",
+  "quote": "the revised, attached, by-law BE INTRODUCED at the Municipal Council meeting to be held on August 30, 2016, to repeal By-law C.P.1466-249, being “A by-law to prohibit and regulate the destruction or injuring of trees in the City of London” and replace it with a new Tree Protection By-law; it being noted that the definition \"Distinctive tree\" BE AMENDED to read 50 cm instead of 75 cm; it being further noted that Section 13.3 BE AMENDED to remove the reference to 3 years",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Cross-checked against PEC item 23's raw JSON (the Tree Protection By-law recommendation is nested inside item 23's content array in the source, not a separate top-level item 24 key -- a scraper quirk, not an error). Quote verbatim, vote 3-1 (Yeas Helmer/Turner/Park, Nay Squire) matches. issue=climate/natural-heritage/expansive correct."
+ },
+ {
+  "id": "b0d247221ca3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the Hamilton Road Area Community Improvement Plan Terms of Reference and proposed Study Area, generally bounded by the CN railway tracks to the north, Highbury Avenue to the east, the Thames River to the south, and Adelaide Street to the west (plus Hamilton Road frontage properties west of Adelaide).",
+  "confidence": "high",
+  "quote": "the Hamilton Road Area Community Improvement Plan Terms of Reference appended to the staff report dated August 22, 2016, as Appendix “A” BE APPROVED; and, b) the proposed Hamilton Road Area Community Improvement Plan Study Area appended to the staff report dated August 22, 2016, as Appendix \"B\" BE APPROVED",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (PEC item 25, Hamilton Road CIP Terms of Reference); CIP study-area approval, not an Official Plan/zoning amendment -- issue=none correct, not a housing miss."
+ },
+ {
+  "id": "88a4d9295504",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Councillor T. Park as Councillor J. Zaifman's designate to attend Federation of Canadian Municipalities meetings during Zaifman's medical absence, with the understanding Zaifman would resume the role once able.",
+  "confidence": "high",
+  "quote": "That Councillor T. Park BE APPOINTED as Councillor Zaifman's designate to attend various Federation of Canadian Municipalities (FCM) meetings during his medical absence; it being understood that he would resume his role with FCM as soon as he is able to do so.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (Corporate Services item 8, FCM designate appointment); appointment, issue=none correct."
+ },
+ {
+  "id": "5e454fe32edb",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the draft “Shift London's Rapid Transit Initiative — Business Case” report (February 2016, prepared by IBI Group).",
+  "confidence": "high",
+  "quote": "That, the draft document entitled “Shift London’s Rapid Transit Initiative — Business Case”, dated February 2016, prepared by IBI, BE RECEIVED",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 11#3, Rapid Transit business-case receipt); pure receipt, correctly flagged informational_ask, issue=none/polarity=null correct."
+ },
+ {
+  "id": "2da6f9e625fd",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted the Council meeting to continue past 11:00 PM, under section 11.10 of the Council Procedure By-law.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 11.10 of the Council Procedure By-law, the meeting continue past 11:00 PM.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 11#3, continue past 11pm); procedural, issue=none correct."
+ },
+ {
+  "id": "4f564e88fe10",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have revised part a) of the secondary-dwelling-unit Official Plan Amendment by-law so that the revised by-law excludes the Great Near Campus Neighbourhood from the new secondary-dwelling-unit policies.",
+  "confidence": "high",
+  "quote": "Approve part a) be amended to read as follows: “a) the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on August 30, 2016 to amend the City of London Official Plan to update secondary dwelling unit policies to address such matters as location, scale and accessory structures, in accordance with the changes to the Planning Act; it being noted that the revised by-law excludes the Great Near Campus Neighbourhood;”.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim, matches source exactly (Council item 22, rollCallOrdinal 0, FAILED 5-8, Yeas Morgan/Hopkins/vanHolst/Squire/Usher, Nays Salih/Helmer/Cassidy/Turner/Brown/Armstrong/Hubert/Park). Hedged restrictive correct for a failed exclusion attempt."
+ },
+ {
+  "id": "f2c5d9c81f4b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended part b) of the secondary-dwelling-unit Zoning By-law amendment so that its introduction would occur at a future Council meeting, concurrent with amendments to the Residential Rental Unit Licensing By-law addressing secondary-dwelling-unit requirements.",
+  "confidence": "high",
+  "quote": "Approve an amendment to the original part b) so that it now reads as follows: b) the proposed attached by-law BE INTRODUCED at a future meeting of the Municipal Council concurrent with the consideration of amendments to the Residential Rental Unit Licensing By-law to address the requirements associated with the secondary dwelling units, to amend the City of London Zoning By-law Z.-1, (in conformity with the Official Plan, as amended in part a) above), to provide secondary dwelling unit regulations to address such matters as location, scale and accessory structures, in accordance with the changes to the Planning Act;",
+  "flags": [
+   "substitution"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (Council item 22, rollCallOrdinal 1, 9-4 Passed); defers part b) introduction to a future meeting concurrent with Rental Licensing By-law changes -- governance/timeline protocol, issue=none correct despite the 'substitution' flag."
+ },
+ {
+  "id": "1df8842f3d17",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted for Council to move into closed session to receive advice subject to solicitor-client privilege, and to provide instructions to staff, regarding proposed changes to the Tree Conservation By-law.",
+  "confidence": "high",
+  "quote": "that Council rise and go into Council, In Closed Session, for the purpose of considering a matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose, and for the purpose of providing instructions and directions to officers and employees of the Corporation pertaining to proposed changes to the Tree Conservation By-law.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 24, rollCallOrdinal 1 Council, 8-5 Passed closed-session motion); procedural, issue=none correct."
+ },
+ {
+  "id": "9efbbfe367d5",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Would have exempted individual trees located on individual residents' primary-residence lands from the new Tree Protection By-law, by directing a revised by-law provision to that effect.",
+  "confidence": "high",
+  "quote": "Approve an amendment to part a) so that it now reads “the Civic Administration BE DIRECTED to bring forward a revised by-law at a future meeting of Municipal Council, incorporating an amendment to the proposed by-law to exempt individual trees located on lands of individual(s) primary residence;”.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. rollCallOrdinal 2, item 24 Council, FAILED 5-8, matches quote/voters exactly. Hedged restrictive correct (first vote on the primary-residence tree exemption, pre-reconsideration)."
+ },
+ {
+  "id": "5273223985c5",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "restrictive",
+  "whatAYeaDid": "On reconsideration, would have exempted individual trees located on individual residents' primary-residence lands from the new Tree Protection By-law, by directing a revised by-law provision to that effect.",
+  "confidence": "high",
+  "quote": "Approve an amendment to part a) so that it now reads “the Civic Administration BE DIRECTED to bring forward a revised by-law at a future meeting of Municipal Council, incorporating an amendment to the proposed by-law to exempt individual trees located on lands of individual(s) primary residence;”.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. rollCallOrdinal 4, item 24 Council (post-reconsideration re-vote, ordinal 3 = the 13-0 reconsideration motion itself, not in this batch), FAILED 3-10, matches quote/voters exactly. 'On reconsideration' qualifier correctly applied per convention."
+ },
+ {
+  "id": "43ff47bba0a1",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved part a) of Clause 24, introducing a new Tree Protection By-law to repeal and replace the former Tree Conservation By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm and removing the 3-year reference in Section 13.3, without the proposed exemption for individual trees on primary-residence lands, which had failed on reconsideration.",
+  "confidence": "high",
+  "quote": "Approve part a) of clause 24.",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Issue/polarity/whatAYeaDid confirmed correct (item 24, Council, 9-4 Passed, matches PEC's 3-1 recommendation fdcbbb6a7942). Quote CORRECTED: the classifier's quote was fdcbbb6a7942's PEC committee text verbatim -- that text does not appear anywhere in the Council file (checked); this Council motion's own text is the terse 'Approve part a) of clause 24.' Replaced with the motion's own genuine text, consistent with this batch's own precedent for terse confirm-type quotes (ed9f4fa80048, a40cfab12797)."
+ },
+ {
+  "id": "c4307102e3d6",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the balance of Clause 24, directing removal and addition of Tree Protection By-law fee schedules, designating Inspectors and Officers to enforce the new Tree Protection By-law, directing fees/fines/tree-planting funds into dedicated accounts, and directing a one-year monitoring and status report on the by-law's implementation.",
+  "confidence": "high",
+  "quote": "the Civic Administration BE DIRECTED to remove the relevant fees relating to the current Tree Conservation By-law in the annual update of the Various Fees and Charges By-law and to add the fees identified in “Schedule A – Permit Fees” and “Schedule B – Schedule of Cash Contribution in Lieu of Off-site Tree Planting” in the new Tree Protection By-law as amended in the above-noted clause",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 24, rollCallOrdinal 6 Council, 'Approve the balance of clause 24.', 12-1 Passed, Nay van Holst); fee-schedule/enforcement-officer administrative detail -- issue=climate but polarity=null correctly treated as governance/procedural per convention."
+ },
+ {
+  "id": "5792e4977b38",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law amending the Council Procedure By-law to permit the Mayor to select an Acting Mayor when the Mayor and the Deputy Mayor are both absent or unavailable.",
+  "confidence": "high",
+  "quote": "That the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on August 30, 2016 to amend the Council Procedure By-law, By-law No. 50, to permit the Mayor to select an Acting Mayor in the absence/unavailability of the Mayor and Deputy Mayors",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 6#3, Acting Mayor by-law); governance protocol, issue=none correct."
+ },
+ {
+  "id": "0f982b9bdab5",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the consulting fees paid to IBI Group by $1,628,586 (excluding H.S.T.) to complete the Rapid Transit Corridors Environmental Assessment for the north and east corridors, and approved the related project financing.",
+  "confidence": "medium",
+  "quote": "the consulting fees for IBI Group, BE INCREASED by the amount of $1,628,586.00, excluding H.S.T., to complete the Rapid Transit Corridors EA for the north and east corridors, in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 7#4, 'Rapid Transit Environmental Assessment Study Consulting Fees Amendment', 12-1 Passed, Nay Squire). Procurement judgment call verified: part (b) of the same motion separately approves PROJECT FINANCING for this capital-adjacent EA phase (not a bare appointment like the Smart City Strategy consultant), which supports 'capital commitment = expansive' over the 'appointment = null' branch of the procurement convention -- distinguishable from d59e4af22036/842d1c2f94db (no financing clause)."
+ },
+ {
+  "id": "9c6b0709c986",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Mayor to write to the President of the Federation of Canadian Municipalities requesting that Councillor T. Park be appointed to attend FCM meetings in Councillor J. Zaifman's place, until Zaifman is able to resume his full duties.",
+  "confidence": "high",
+  "quote": "That the Mayor BE DIRECTED to write to the President of the Federation of Canadian Municipalities (FCM) to request that Councillor T. Park be appointed to attend various FCM meetings in place of Councillor J. Zaifman, until such time as Councillor Zaifman is able to resume his full duties.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim (item 8#2, FCM designate letter direction); appointment/procedural, issue=none correct."
+ },
+ {
+  "id": "a40cfab12797",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved Clause 8, on the Federation of Canadian Municipalities designate request, as amended.",
+  "confidence": "high",
+  "quote": "Approve clause 8, as amended.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Confirmed. Quote verbatim ('Approve clause 8, as amended.'); issue=none correct."
+ },
+ {
+  "id": "99f90a492c0f",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to the by-law repealing the former Tree Conservation By-law and enacting a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 313.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Issue/polarity/whatAYeaDid confirmed correct (Bill 313 = Tree Protection By-law, confirmed via item 24 title 'Relates to Bill No. 313 and Bill No. 314'; 11-2 Passed, Nays Squire/Morgan). Quote CORRECTED: classifier reused fdcbbb6a7942's PEC substantive text; this reading motion's own actual text (item XIII) is 'Approve Introduction and First Reading of Bill No. 313.' -- confirmed verbatim against source, replaced."
+ },
+ {
+  "id": "b89ea4931bb7",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to the by-law repealing the former Tree Conservation By-law and enacting a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 313.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Same pattern as 99f90a492c0f. 12-1 Passed (Nay Morgan). Quote corrected to this motion's own verbatim text ('Approve Second Reading of Bill No. 313.') in place of the borrowed PEC substantive text."
+ },
+ {
+  "id": "0caff7f23378",
+  "issue": "climate",
+  "axis": "natural-heritage",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading and enacted the by-law repealing the former Tree Conservation By-law and enacting a new Tree Protection By-law, including lowering the “distinctive tree” diameter threshold from 75 cm to 50 cm.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 313.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "corrected",
+  "verifierNote": "Same pattern as 99f90a492c0f/b89ea4931bb7. 12-1 Passed (Nay Morgan); correctly the only one of the three readings to carry enactment wording (genuine third reading), per convention. Quote corrected to this motion's own verbatim text."
+ }
+]

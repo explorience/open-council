@@ -165,10 +165,33 @@ def iter_item_motions(meeting_slug: str, item_number: str):
 
 def full_motion_texts(meeting_slug: str, item_number: str) -> list[str]:
     """Every motion_texts/pre_motion_texts/post_motion_texts string under
-    this item, across all its recorded motions — the full, untruncated
-    source text a classify/correction quote must be checked against."""
+    this item, across all its recorded motions, PLUS every bare Paragraph
+    sibling's own string — the full, untruncated source text a
+    classify/correction quote must be checked against.
+
+    ITEM-CONTENT SHAPE (pre-2018 Word-format eSCRIBE, #202/#204 recovery):
+    an item's content array interleaves Motion nodes (whose real text lives
+    in pre_motion_texts/motion_texts/post_motion_texts, per the original
+    docstring) with bare top-level Paragraph nodes that carry the actual
+    substantive motion text themselves, with a boilerplate "Motion
+    Passed"/"Motion Failed" as the FOLLOWING Motion node's only text (see
+    the 2015-01-29 SPPC item 2 Hutton House iPads $3,600 case: the $3,600
+    text is content[22], a Paragraph, immediately preceding a Motion node
+    whose own motion_texts is just "Motion Passed"). The original
+    Motion-only loop silently skipped these Paragraph siblings, so a
+    genuine, already-verified pre-2018 quote sourced from one could never
+    be found here — this widened, strictly-additive to the Motion-node
+    collection above (a Motion node's own fields are collected exactly as
+    before; nothing already matched stops matching)."""
     out: list[str] = []
     for m in iter_item_motions(meeting_slug, item_number):
+        if not isinstance(m, dict):
+            continue
+        if m.get("__class__") == "Paragraph":
+            s = m.get("string")
+            if s:
+                out.append(s)
+            continue
         for key in ("pre_motion_texts", "motion_texts", "post_motion_texts"):
             for t in m.get(key, []):
                 s = t.get("string") if isinstance(t, dict) else t
