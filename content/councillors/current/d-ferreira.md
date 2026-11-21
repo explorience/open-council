@@ -2,21 +2,21 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 244
+meetingCount: 246
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4132
-votesYea: 3284
-votesNay: 433
-votesAbsent: 162
+totalVotes: 4169
+votesYea: 3295
+votesNay: 439
+votesAbsent: 182
 votesRecused: 1
 votesAbstained: 4
 votesOther: 248
-attendanceRate: 97.1
-participationRate: 90.0
-yeaRate: 88.4
-contestedDissentRate: 27.4
-contestedVotes: 1560
+attendanceRate: 97.2
+participationRate: 89.6
+yeaRate: 88.2
+contestedDissentRate: 27.6
+contestedVotes: 1568
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,132 |
-| Voted Yea | 3,284 (79.5%) |
-| Voted Nay | 433 (10.5%) |
-| Absent | 162 (3.9%) |
+| Total Votes | 4,169 |
+| Voted Yea | 3,295 (79.0%) |
+| Voted Nay | 439 (10.5%) |
+| Absent | 182 (4.4%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 4 (0.1%) |
-| Other/Unrecorded | 248 (6.0%) |
+| Other/Unrecorded | 248 (5.9%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,112 |
-| Voted Yea | 2,316 (84.2%) |
-| Voted Nay | 433 (15.8%) |
+| Substantive Votes | 3,141 |
+| Voted Yea | 2,324 (84.1%) |
+| Voted Nay | 439 (15.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.4%
-- **Contested Votes**: 1,560
+- **Dissent Rate**: 27.6%
+- **Contested Votes**: 1,568
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -79,8 +79,8 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 97.1%
-- **Meetings Attended**: 238 of 245
+- **Attendance Rate**: 97.2%
+- **Meetings Attended**: 240 of 247
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -88,7 +88,7 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 96.7% (29/30 meetings)
+  - 2026: 96.9% (31/32 meetings)
 
 
 ## Voting Alignment
@@ -96,12 +96,12 @@ prefillQuestions:
 **Most aligned with:**
 - Anna Hopkins (94.3%)
 - Skylar Franke (93.5%)
-- Hadleigh McAlister (92.9%)
+- Hadleigh McAlister (92.8%)
 
 **Least aligned with:**
-- Susan Stevenson (81.3%)
-- Paul Van Meerbergen (83.1%)
-- Steve Hillier (86.2%)
+- Susan Stevenson (81.2%)
+- Paul Van Meerbergen (82.9%)
+- Steve Hillier (86.1%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,192 | 1,843 | 257 | 95.8% |
+| Council | 2,229 | 1,854 | 263 | 95.0% |
 | Strategic Priorities and Policy Committee | 1,093 | 729 | 91 | 75.0% |
 | Community and Protective Services Committee | 480 | 429 | 35 | 96.7% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
@@ -121,6 +121,50 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where David Ferreira voted against the final outcome:*
+
+### 2026-10-14: (2.6) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 4307 Colonel Talbot Road
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2026-10-14: (2.4) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 2457 Main Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 29, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
+
+Voted **Nay** - Motion Passed (10 to 5)
+
+### 2026-10-14: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 29, 2026, related to the heritage listed property at 11 Wellington Crescent BE REFERRED to the December 1, 2026 meeting of the Planning and Environment Committee ...
+
+Voted **Nay** - Motion Passed (11 to 4)
+
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the request for demolition of the heritage designated property at 100 Stanley Street, BE APPROVED; 
+
+
+
+it being noted that the Planning and Environment Committee received the following communicat...
+
+Voted **Nay** - Motion Passed (12 to 3)
+
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the matter of the request for demolition of the heritage designated property at 100 Stanley Street BE REFERRED to a future meeting of the Planning and Environment Committee to allow staff to advi...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -162,51 +206,11 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 Voted **Nay** - Motion Passed (9 to 4)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the remainder of the motion, as amended, BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 2)
-
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated August 12, 2026 as Appendix "A", BE INTRODUCED at the August 25, 2026 meeting of Municipal Cou...
-
-Voted **Nay** - Motion Passed (10 to 3)
-
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the staff report dated August 12, 2026 related to amending the Council Procedure By-law A-61, by removing the requirement for the appointment of a Striking Committee for initial citizen appointme...
-
-Voted **Yea** - Motion Failed (3 to 10)
-
-### 2026-08-25: By-laws
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That Introduction and First Reading of Bill No. 302, BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 2)
-
-### 2026-08-25: By-laws
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Bill No. 302, BE APPROVED.
-
-Voted **Nay** - Motion Passed (11 to 2)
-
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
@@ -215,8 +219,10 @@ Voted **Nay** - Motion Passed (11 to 2)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (244 total)
+## Recent Meetings (246 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
@@ -225,5 +231,3 @@ Voted **Nay** - Motion Passed (11 to 2)
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
 - [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
-- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026

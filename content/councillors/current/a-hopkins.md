@@ -2,12 +2,12 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 671
+meetingCount: 673
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 13276
-votesYea: 11650
-votesNay: 971
+totalVotes: 13313
+votesYea: 11678
+votesNay: 980
 votesAbsent: 180
 votesRecused: 16
 votesAbstained: 16
@@ -15,8 +15,8 @@ votesOther: 443
 attendanceRate: 96.8
 participationRate: 95.1
 yeaRate: 92.3
-contestedDissentRate: 26.3
-contestedVotes: 3459
+contestedDissentRate: 26.4
+contestedVotes: 3478
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 13,276 |
-| Voted Yea | 11,650 (87.8%) |
-| Voted Nay | 971 (7.3%) |
+| Total Votes | 13,313 |
+| Voted Yea | 11,678 (87.7%) |
+| Voted Nay | 980 (7.4%) |
 | Absent | 180 (1.4%) |
 | Recused (conflict of interest) | 16 (0.1%) |
 | Abstained | 16 (0.1%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 8,917 |
-| Voted Yea | 7,391 (88.4%) |
-| Voted Nay | 971 (11.6%) |
+| Substantive Votes | 8,946 |
+| Voted Yea | 7,411 (88.3%) |
+| Voted Nay | 980 (11.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 26.3%
-- **Contested Votes**: 3,459
+- **Dissent Rate**: 26.4%
+- **Contested Votes**: 3,478
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.8%
-- **Meetings Attended**: 724 of 748
+- **Meetings Attended**: 726 of 750
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.7% (29/30 meetings)
+  - 2026: 96.9% (31/32 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.9%)
+- Skylar Franke (94.8%)
 - David Ferreira (94.3%)
 - Josh Morgan (93.7%)
 
 **Least aligned with:**
-- Susan Stevenson (80.3%)
-- Paul Van Meerbergen (86.1%)
-- Peter Cuddy (88.3%)
+- Susan Stevenson (80.1%)
+- Paul Van Meerbergen (85.9%)
+- Peter Cuddy (88.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,743 | 6,027 | 619 | 98.6% |
+| Council | 6,780 | 6,055 | 628 | 98.6% |
 | Strategic Priorities and Policy Committee | 2,922 | 2,215 | 219 | 83.3% |
 | Planning and Environment Committee | 2,629 | 2,518 | 62 | 98.1% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
@@ -124,92 +124,96 @@ prefillQuestions:
 
 *Recent split votes where Anna Hopkins voted against the final outcome:*
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-10-14: (2.6) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 4307 Colonel Talbot Road
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 13.6 of the Council Procedure by-law, the Council decision with respect to the amendment to the Emergency Shelter Guidelines motion, part d) i), BE RECONSIDERED to provide for...
-
-Voted **Nay** - Motion Passed (13 to 2)
-
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
 
 Voted **Nay** - Motion Passed (9 to 6)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-10-14: (2.4) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 2457 Main Street
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 29, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
+### 2026-10-14: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That the remainder of the motion, as amended, BE APPROVED.
+> That the staff report dated September 29, 2026, related to the heritage listed property at 11 Wellington Crescent BE REFERRED to the December 1, 2026 meeting of the Planning and Environment Committee ...
 
-Voted **Nay** - Motion Passed (11 to 2)
+Voted **Nay** - Motion Passed (11 to 4)
 
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That, on the recommendation of the City Clerk, the proposed by-law, as appended to the staff report dated August 12, 2026 as Appendix "A", BE INTRODUCED at the August 25, 2026 meeting of Municipal Cou...
+> That the request for demolition of the heritage designated property at 100 Stanley Street, BE APPROVED; 
 
-Voted **Nay** - Motion Passed (10 to 3)
 
-### 2026-08-25: (2.3) Amendment to the Council Procedure By-law - Striking Committee (Relates to Bill No. 302)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+it being noted that the Planning and Environment Committee received the following communicat...
 
-> That the staff report dated August 12, 2026 related to amending the Council Procedure By-law A-61, by removing the requirement for the appointment of a Striking Committee for initial citizen appointme...
+Voted **Nay** - Motion Passed (12 to 3)
 
-Voted **Yea** - Motion Failed (3 to 10)
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
 
-### 2026-08-25: By-laws
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+> That the matter of the request for demolition of the heritage designated property at 100 Stanley Street BE REFERRED to a future meeting of the Planning and Environment Committee to allow staff to advi...
 
-> That Introduction and First Reading of Bill No. 302, BE APPROVED.
+Voted **Yea** - Motion Failed (5 to 10)
 
-Voted **Nay** - Motion Passed (11 to 2)
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
 
-### 2026-08-25: By-laws
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+> That the matter of the request for demolition of the heritage designated property at 100 Stanley Street BE REFERRED to a future meeting of the Planning and Environment Committee to direct Civic Admini...
 
-> That Second Reading of Bill No. 302, BE APPROVED.
+Voted **Yea** - Motion Failed (2 to 13)
 
-Voted **Nay** - Motion Passed (11 to 2)
+### 2026-10-14: (3.2) 3680 and 3700 Colonel Talbot Road (Sunset Creek) - OZ-26096
 
-### 2026-08-25: By-laws
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+> That the application dated September 29, 2026, from York Developments related to the property at 3680 and 3700 Colonel Talbot Road, 3645 Bostwick Road and 6985, 6595 and 6555 Royal Magnolia Avenue BE ...
 
-> That Third Reading and Enactment of Bill No. 302, BE APPROVED.
+Voted **Nay** - Motion Passed (12 to 2)
 
-Voted **Nay** - Motion Passed (11 to 2)
+### 2026-10-14: (3.4) 954 Gainsborough Road - Z-26089
 
-### 2026-08-25: By-laws
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
+> That the application dated September 29, 2026, from Royal Premier Homes, care of Zelinka Priamo Ltd. related to the property located at 954 Gainsborough Road BE REFERRED to December 1, 2026, meeting o...
 
-> That Introduction and First Reading of Bill No. 306, BE APPROVED.
+Voted **Nay** - Motion Passed (8 to 6)
 
-Voted **Nay** - Motion Passed (8 to 5)
+### 2026-10-14: By-laws
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 352, BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2026-10-14: By-laws
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 352, BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
 
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Civic Works Committee](/committees/civic-works)
@@ -217,8 +221,10 @@ Voted **Nay** - Motion Passed (8 to 5)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (671 total)
+## Recent Meetings (673 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -227,5 +233,3 @@ Voted **Nay** - Motion Passed (8 to 5)
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026

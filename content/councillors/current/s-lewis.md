@@ -2,21 +2,21 @@
 title: "Shawn Lewis"
 type: councillor
 slug: "s-lewis"
-meetingCount: 536
+meetingCount: 538
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9753
-votesYea: 8465
-votesNay: 545
-votesAbsent: 292
+totalVotes: 9790
+votesYea: 8482
+votesNay: 548
+votesAbsent: 309
 votesRecused: 0
 votesAbstained: 24
 votesOther: 427
 attendanceRate: 98.4
-participationRate: 92.4
-yeaRate: 94.0
-contestedDissentRate: 11.6
-contestedVotes: 2586
+participationRate: 92.2
+yeaRate: 93.9
+contestedDissentRate: 11.5
+contestedVotes: 2596
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,10 +33,10 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,753 |
-| Voted Yea | 8,465 (86.8%) |
-| Voted Nay | 545 (5.6%) |
-| Absent | 292 (3.0%) |
+| Total Votes | 9,790 |
+| Voted Yea | 8,482 (86.6%) |
+| Voted Nay | 548 (5.6%) |
+| Absent | 309 (3.2%) |
 | Recused (conflict of interest) | 0 (0.0%) |
 | Abstained | 24 (0.2%) |
 | Other/Unrecorded | 427 (4.4%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,873 |
-| Voted Yea | 4,753 (89.7%) |
-| Voted Nay | 545 (10.3%) |
+| Substantive Votes | 5,902 |
+| Voted Yea | 4,766 (89.7%) |
+| Voted Nay | 548 (10.3%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.6%
-- **Contested Votes**: 2,586
+- **Dissent Rate**: 11.5%
+- **Contested Votes**: 2,596
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.4%
-- **Meetings Attended**: 498 of 506
+- **Meetings Attended**: 500 of 508
 - **Meetings Missed**: 8
 - **Trend**: Declining v
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 100.0% (84/84 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 90.9% (30/33 meetings)
+  - 2026: 91.4% (32/35 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Peter Cuddy (97.5%)
-- Steve Lehman (96.9%)
+- Peter Cuddy (97.4%)
+- Steve Lehman (96.8%)
 - Josh Morgan (96.2%)
 
 **Least aligned with:**
-- Sam Trosow (82.5%)
-- Susan Stevenson (88.0%)
-- David Ferreira (89.0%)
+- Sam Trosow (82.3%)
+- Susan Stevenson (88.1%)
+- David Ferreira (88.9%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,305 | 3,962 | 266 | 98.2% |
+| Council | 4,342 | 3,979 | 269 | 97.8% |
 | Planning and Environment Committee | 2,308 | 2,131 | 42 | 94.2% |
 | Strategic Priorities and Policy Committee | 2,134 | 1,539 | 144 | 78.9% |
 | Community and Protective Services Committee | 386 | 366 | 13 | 98.2% |
@@ -207,18 +207,20 @@ Voted **Nay** - Motion Passed (11 to 3)
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (536 total)
+## Recent Meetings (538 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
@@ -227,5 +229,3 @@ Voted **Nay** - Motion Passed (11 to 3)
 - [The 13th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee>) - Wed Sep 9 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
-- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026

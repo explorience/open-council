@@ -2,12 +2,12 @@
 title: "Steve Hillier"
 type: councillor
 slug: "s-hillier"
-meetingCount: 490
+meetingCount: 491
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9350
-votesYea: 7940
-votesNay: 587
+totalVotes: 9387
+votesYea: 7974
+votesNay: 590
 votesAbsent: 541
 votesRecused: 16
 votesAbstained: 8
@@ -16,7 +16,7 @@ attendanceRate: 93.7
 participationRate: 91.2
 yeaRate: 93.1
 contestedDissentRate: 17.6
-contestedVotes: 2422
+contestedVotes: 2441
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,350 |
-| Voted Yea | 7,940 (84.9%) |
-| Voted Nay | 587 (6.3%) |
+| Total Votes | 9,387 |
+| Voted Yea | 7,974 (84.9%) |
+| Voted Nay | 590 (6.3%) |
 | Absent | 541 (5.8%) |
 | Recused (conflict of interest) | 16 (0.2%) |
 | Abstained | 8 (0.1%) |
-| Other/Unrecorded | 258 (2.8%) |
+| Other/Unrecorded | 258 (2.7%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,551 |
-| Voted Yea | 4,355 (88.1%) |
-| Voted Nay | 587 (11.9%) |
+| Substantive Votes | 5,580 |
+| Voted Yea | 4,381 (88.1%) |
+| Voted Nay | 590 (11.9%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 17.6%
-- **Contested Votes**: 2,422
+- **Contested Votes**: 2,441
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 93.7%
-- **Meetings Attended**: 443 of 473
+- **Meetings Attended**: 444 of 474
 - **Meetings Missed**: 30
 - **Trend**: Stable -
 
@@ -88,7 +88,7 @@ prefillQuestions:
   - 2023: 86.7% (52/60 meetings)
   - 2024: 95.2% (60/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 93.5% (29/31 meetings)
+  - 2026: 93.8% (30/32 meetings)
 
 
 ## Voting Alignment
@@ -96,12 +96,12 @@ prefillQuestions:
 **Most aligned with:**
 - Steve Lehman (96.3%)
 - Shawn Lewis (95.9%)
-- Peter Cuddy (95.4%)
+- Peter Cuddy (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (81.0%)
-- David Ferreira (86.2%)
-- Susan Stevenson (88.3%)
+- Sam Trosow (80.8%)
+- David Ferreira (86.1%)
+- Susan Stevenson (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,313 | 3,758 | 322 | 94.6% |
+| Council | 4,350 | 3,792 | 325 | 94.6% |
 | Planning and Environment Committee | 2,304 | 2,126 | 48 | 94.4% |
 | Strategic Priorities and Policy Committee | 1,994 | 1,416 | 148 | 78.4% |
 | Community and Protective Services Committee | 430 | 404 | 4 | 94.9% |
@@ -121,6 +121,22 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Hillier voted against the final outcome:*
+
+### 2026-10-14: (2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 21, 2026, related to the heritage listed property...
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-10-14: (2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-09-22: (2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
 
@@ -186,36 +202,21 @@ Voted **Nay** - Motion Passed (13 to 2)
 
 Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...
-
-Voted **Yea** - Motion Failed (6 to 9)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (490 total)
+## Recent Meetings (491 total)
 
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -225,4 +226,3 @@ Voted **Yea** - Motion Failed (6 to 9)
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026

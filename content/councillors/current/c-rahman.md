@@ -2,21 +2,21 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 276
+meetingCount: 278
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4357
-votesYea: 3649
-votesNay: 401
+totalVotes: 4394
+votesYea: 3678
+votesNay: 409
 votesAbsent: 48
 votesRecused: 23
 votesAbstained: 1
 votesOther: 235
 attendanceRate: 99.6
 participationRate: 93.0
-yeaRate: 90.1
-contestedDissentRate: 16.5
-contestedVotes: 1603
+yeaRate: 90.0
+contestedDissentRate: 16.6
+contestedVotes: 1622
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,357 |
-| Voted Yea | 3,649 (83.8%) |
-| Voted Nay | 401 (9.2%) |
+| Total Votes | 4,394 |
+| Voted Yea | 3,678 (83.7%) |
+| Voted Nay | 409 (9.3%) |
 | Absent | 48 (1.1%) |
 | Recused (conflict of interest) | 23 (0.5%) |
 | Abstained | 1 (0.0%) |
-| Other/Unrecorded | 235 (5.4%) |
+| Other/Unrecorded | 235 (5.3%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,054 |
-| Voted Yea | 2,364 (85.5%) |
-| Voted Nay | 401 (14.5%) |
+| Substantive Votes | 3,083 |
+| Voted Yea | 2,385 (85.4%) |
+| Voted Nay | 409 (14.6%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 16.5%
-- **Contested Votes**: 1,603
+- **Dissent Rate**: 16.6%
+- **Contested Votes**: 1,622
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 99.6%
-- **Meetings Attended**: 247 of 248
+- **Meetings Attended**: 249 of 250
 - **Meetings Missed**: 1
 - **Trend**: Stable -
 
@@ -88,7 +88,7 @@ prefillQuestions:
   - 2023: 100.0% (74/74 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (31/31 meetings)
+  - 2026: 100.0% (33/33 meetings)
 
 
 ## Voting Alignment
@@ -96,12 +96,12 @@ prefillQuestions:
 **Most aligned with:**
 - Josh Morgan (94.1%)
 - Jerry Pribil (93.6%)
-- Steve Lehman (93.5%)
+- Steve Lehman (93.4%)
 
 **Least aligned with:**
-- Susan Stevenson (86.1%)
+- Susan Stevenson (86.0%)
 - Sam Trosow (86.4%)
-- Paul Van Meerbergen (88.3%)
+- Paul Van Meerbergen (88.2%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,192 | 1,895 | 226 | 96.8% |
+| Council | 2,229 | 1,924 | 234 | 96.8% |
 | Strategic Priorities and Policy Committee | 1,101 | 785 | 91 | 79.6% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
@@ -123,6 +123,46 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Corrine Rahman voted against the final outcome:*
+
+### 2026-10-14: (2.6) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 4307 Colonel Talbot Road
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2026-10-14: (3.4) 954 Gainsborough Road - Z-26089
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the application dated September 29, 2026, from Royal Premier Homes, care of Zelinka Priamo Ltd. related to the property located at 954 Gainsborough Road BE REFERRED to December 1, 2026, meeting o...
+
+Voted **Nay** - Motion Passed (8 to 6)
+
+### 2026-10-14: By-laws
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That Introduction and First Reading of Bill No. 352, BE APPROVED.
+
+Voted **Nay** - Motion Passed (10 to 3)
+
+### 2026-10-14: By-laws
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That Second Reading of Bill No. 352, BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
+
+### 2026-10-14: By-laws
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That Third Reading and Enactment of Bill No. 352, BE APPROVED.
+
+Voted **Nay** - Motion Passed (9 to 4)
 
 ### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
@@ -164,52 +204,12 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 Voted **Nay** - Motion Passed (10 to 2)
 
-### 2026-07-21: By-laws
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That Second Reading of Revised Bill No. 285 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 2)
-
-### 2026-07-21: By-laws
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That Third Reading and Enactment of Revised Bill No. 285 BE APPROVED.
-
-Voted **Nay** - Motion Passed (10 to 2)
-
-### 2026-07-13: Proposed Winter Response for 2026-2027
-
-[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
-
-> That parts b), c) and d) of the motion BE APPROVED.
-
-Voted **Nay** - Motion Passed (4 to 1)
-
-### 2026-07-13: City of London Special Constable Program
-
-[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED by replacing the words "establishing a City of London Special Constable Program" with "implementing a permanent City of London Special Constable Program"; and amending claus...
-
-Voted **Yea** - Motion Failed (3 to 3)
-
-### 2026-07-13: By-law Enforcement Administrative Fees
-
-[11th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=53c2a71a-1940-4b5f-95c0-1bf896263d61&Agenda=PostMinutes&lang=English)
-
-> That the motion be amended to add "and any cost recovery associated" after the words "administrative fee".
-
-Voted **Nay** - Motion Passed (4 to 1)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [City Council](/committees/city-council)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
@@ -218,8 +218,10 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (276 total)
+## Recent Meetings (278 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -228,5 +230,3 @@ Voted **Nay** - Motion Passed (4 to 1)
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
-- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026

@@ -2,21 +2,21 @@
 title: "Paul Van Meerbergen"
 type: councillor
 slug: "p-van-meerbergen"
-meetingCount: 533
+meetingCount: 535
 yearsActive: "2010 - 2026"
 isCurrent: true
-totalVotes: 9975
-votesYea: 7735
-votesNay: 1074
-votesAbsent: 640
+totalVotes: 10012
+votesYea: 7769
+votesNay: 1076
+votesAbsent: 641
 votesRecused: 78
 votesAbstained: 23
 votesOther: 425
 attendanceRate: 95.4
 participationRate: 88.3
 yeaRate: 87.8
-contestedDissentRate: 33.1
-contestedVotes: 2930
+contestedDissentRate: 32.9
+contestedVotes: 2949
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,13 +34,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,975 |
-| Voted Yea | 7,735 (77.5%) |
-| Voted Nay | 1,074 (10.8%) |
-| Absent | 640 (6.4%) |
+| Total Votes | 10,012 |
+| Voted Yea | 7,769 (77.6%) |
+| Voted Nay | 1,076 (10.7%) |
+| Absent | 641 (6.4%) |
 | Recused (conflict of interest) | 78 (0.8%) |
 | Abstained | 23 (0.2%) |
-| Other/Unrecorded | 425 (4.3%) |
+| Other/Unrecorded | 425 (4.2%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -51,17 +51,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 7,534 |
-| Voted Yea | 5,538 (83.8%) |
-| Voted Nay | 1,074 (16.2%) |
+| Substantive Votes | 7,563 |
+| Voted Yea | 5,564 (83.8%) |
+| Voted Nay | 1,076 (16.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 33.1%
-- **Contested Votes**: 2,930
+- **Dissent Rate**: 32.9%
+- **Contested Votes**: 2,949
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -81,7 +81,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 95.4%
-- **Meetings Attended**: 575 of 603
+- **Meetings Attended**: 577 of 605
 - **Meetings Missed**: 28
 - **Trend**: Stable -
 
@@ -89,19 +89,19 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 98.4% (62/63 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.8% (30/31 meetings)
+  - 2026: 97.0% (32/33 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (92.3%)
-- Peter Cuddy (92.2%)
-- Steve Hillier (92.1%)
+- Steve Lehman (92.4%)
+- Peter Cuddy (92.3%)
+- Steve Hillier (92.2%)
 
 **Least aligned with:**
-- Sam Trosow (78.1%)
-- David Ferreira (83.1%)
+- Sam Trosow (78.0%)
+- David Ferreira (82.9%)
 - Skylar Franke (85.0%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -111,7 +111,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,425 | 5,210 | 702 | 92.0% |
+| Council | 6,462 | 5,244 | 704 | 92.0% |
 | Strategic Priorities and Policy Committee | 2,462 | 1,621 | 241 | 75.6% |
 | Civic Works Committee | 533 | 463 | 35 | 93.4% |
 | Budget Committee | 189 | 118 | 68 | 98.4% |
@@ -122,6 +122,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Paul Van Meerbergen voted against the final outcome:*
+
+### 2026-10-14: (2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-09-22: (2.3) 725 Notre Dame Drive - Z-26073 (Relates to Bill No. 335)
 
@@ -199,28 +207,22 @@ a)    the proposed by-law, as appended to the staff report dated July 15, 2026
 
 Voted **Nay** - Motion Passed (12 to 3)
 
-### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
-- [City Council](/committees/city-council)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 
-## Recent Meetings (533 total)
+## Recent Meetings (535 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -229,5 +231,3 @@ Voted **Yea** - Motion Failed (7 to 8)
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026

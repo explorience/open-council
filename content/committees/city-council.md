@@ -11,8 +11,8 @@ prefillQuestions:
 
 ## Recent Meetings
 
-- [Council](</months/2026-11/2026-11-17 - Council>) - Tue Nov 17 2026
-- [Council](</months/2026-10/2026-10-14 - Council>) - Wed Oct 14 2026
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026

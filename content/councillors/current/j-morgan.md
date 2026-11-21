@@ -2,21 +2,21 @@
 title: "Josh Morgan"
 type: councillor
 slug: "j-morgan"
-meetingCount: 690
+meetingCount: 692
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 12725
-votesYea: 10490
-votesNay: 673
+totalVotes: 12762
+votesYea: 10523
+votesNay: 677
 votesAbsent: 1010
 votesRecused: 57
 votesAbstained: 24
 votesOther: 471
 attendanceRate: 92.4
-participationRate: 87.7
+participationRate: 87.8
 yeaRate: 94.0
 contestedDissentRate: 10.6
-contestedVotes: 3354
+contestedVotes: 3373
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -34,9 +34,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 12,725 |
-| Voted Yea | 10,490 (82.4%) |
-| Voted Nay | 673 (5.3%) |
+| Total Votes | 12,762 |
+| Voted Yea | 10,523 (82.5%) |
+| Voted Nay | 677 (5.3%) |
 | Absent | 1,010 (7.9%) |
 | Recused (conflict of interest) | 57 (0.4%) |
 | Abstained | 24 (0.2%) |
@@ -51,9 +51,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 9,168 |
-| Voted Yea | 7,506 (91.8%) |
-| Voted Nay | 673 (8.2%) |
+| Substantive Votes | 9,197 |
+| Voted Yea | 7,531 (91.8%) |
+| Voted Nay | 677 (8.2%) |
 
 
 ### Dissent on Contested Votes
@@ -61,7 +61,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 10.6%
-- **Contested Votes**: 3,354
+- **Contested Votes**: 3,373
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -81,7 +81,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 92.4%
-- **Meetings Attended**: 742 of 803
+- **Meetings Attended**: 744 of 805
 - **Meetings Missed**: 61
 - **Trend**: Improving ^
 
@@ -89,7 +89,7 @@ prefillQuestions:
   - 2023: 56.2% (59/105 meetings)
   - 2024: 100.0% (61/61 meetings)
   - 2025: 100.0% (52/52 meetings)
-  - 2026: 100.0% (32/32 meetings)
+  - 2026: 100.0% (34/34 meetings)
 
 
 ## Voting Alignment
@@ -97,10 +97,10 @@ prefillQuestions:
 **Most aligned with:**
 - Steve Lehman (96.3%)
 - Shawn Lewis (96.2%)
-- Peter Cuddy (95.3%)
+- Peter Cuddy (95.2%)
 
 **Least aligned with:**
-- Sam Trosow (85.2%)
+- Sam Trosow (85.1%)
 - Susan Stevenson (86.3%)
 - Paul Van Meerbergen (91.0%)
 
@@ -111,7 +111,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 6,764 | 6,200 | 375 | 97.2% |
+| Council | 6,801 | 6,233 | 379 | 97.2% |
 | Strategic Priorities and Policy Committee | 2,956 | 2,268 | 176 | 82.7% |
 | Corporate Services Committee | 1,320 | 1,177 | 23 | 90.9% |
 | Planning and Environment Committee | 728 | 191 | 5 | 26.9% |
@@ -124,6 +124,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Josh Morgan voted against the final outcome:*
+
+### 2026-10-14: (3.4) 954 Gainsborough Road - Z-26089
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the application dated September 29, 2026, from Royal Premier Homes, care of Zelinka Priamo Ltd. related to the property located at 954 Gainsborough Road BE REFERRED to December 1, 2026, meeting o...
+
+Voted **Nay** - Motion Passed (8 to 6)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -201,20 +209,12 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 Voted **Yea** - Motion Failed (7 to 7)
 
-### 2026-03-24: Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options
-
-[5th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.
-
-Voted **Nay** - Motion Passed (10 to 4)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
-- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
@@ -222,8 +222,10 @@ Voted **Nay** - Motion Passed (10 to 4)
 - [Civic Works Committee](/committees/civic-works)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (690 total)
+## Recent Meetings (692 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -232,5 +234,3 @@ Voted **Nay** - Motion Passed (10 to 4)
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026

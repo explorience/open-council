@@ -2,12 +2,12 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 242
+meetingCount: 243
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4574
-votesYea: 3871
-votesNay: 359
+totalVotes: 4611
+votesYea: 3906
+votesNay: 361
 votesAbsent: 97
 votesRecused: 11
 votesAbstained: 1
@@ -15,8 +15,8 @@ votesOther: 235
 attendanceRate: 98.3
 participationRate: 92.5
 yeaRate: 91.5
-contestedDissentRate: 11.5
-contestedVotes: 1593
+contestedDissentRate: 11.4
+contestedVotes: 1612
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,9 +33,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,574 |
-| Voted Yea | 3,871 (84.6%) |
-| Voted Nay | 359 (7.8%) |
+| Total Votes | 4,611 |
+| Voted Yea | 3,906 (84.7%) |
+| Voted Nay | 361 (7.8%) |
 | Absent | 97 (2.1%) |
 | Recused (conflict of interest) | 11 (0.2%) |
 | Abstained | 1 (0.0%) |
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,072 |
-| Voted Yea | 2,416 (87.1%) |
-| Voted Nay | 359 (12.9%) |
+| Substantive Votes | 3,101 |
+| Voted Yea | 2,443 (87.1%) |
+| Voted Nay | 361 (12.9%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 11.5%
-- **Contested Votes**: 1,593
+- **Dissent Rate**: 11.4%
+- **Contested Votes**: 1,612
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.3%
-- **Meetings Attended**: 237 of 241
+- **Meetings Attended**: 238 of 242
 - **Meetings Missed**: 4
 - **Trend**: Declining v
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 94.1% (32/34 meetings)
+  - 2026: 94.3% (33/35 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (97.5%)
+- Shawn Lewis (97.4%)
 - Steve Lehman (96.4%)
-- Steve Hillier (95.4%)
+- Steve Hillier (95.5%)
 
 **Least aligned with:**
-- Sam Trosow (82.7%)
-- Anna Hopkins (88.3%)
-- David Ferreira (88.6%)
+- Sam Trosow (82.5%)
+- Anna Hopkins (88.0%)
+- David Ferreira (88.4%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,192 | 1,951 | 169 | 96.7% |
+| Council | 2,229 | 1,986 | 171 | 96.8% |
 | Strategic Priorities and Policy Committee | 1,101 | 789 | 86 | 79.5% |
 | Planning and Environment Committee | 801 | 759 | 10 | 96.0% |
 | Budget Committee | 189 | 116 | 73 | 100.0% |
@@ -122,6 +122,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Peter Cuddy voted against the final outcome:*
+
+### 2026-10-14: (2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
@@ -195,20 +203,12 @@ Voted **Yea** - Motion Failed (9 to 4)
 
 Voted **Nay** - Motion Passed (11 to 3)
 
-### 2026-06-09: 1837 Churchill Avenue - Z-26048 
-
-[The 9th Meeting of the Planning and Environment Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=ff301408-3802-4bf4-80b0-8796af8fd0fd&Agenda=PostMinutes&lang=English)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Al-Taqwa Academy (c/o Strik Baldinelli Moniz Ltd.) relating to ...
-
-Voted **Yea** - Motion Failed (2 to 3)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
@@ -216,8 +216,9 @@ Voted **Yea** - Motion Failed (2 to 3)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (242 total)
+## Recent Meetings (243 total)
 
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -227,4 +228,3 @@ Voted **Yea** - Motion Failed (2 to 3)
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026

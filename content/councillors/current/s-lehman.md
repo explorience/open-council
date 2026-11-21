@@ -2,12 +2,12 @@
 title: "Steve Lehman"
 type: councillor
 slug: "s-lehman"
-meetingCount: 420
+meetingCount: 422
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 9174
-votesYea: 7858
-votesNay: 491
+totalVotes: 9211
+votesYea: 7893
+votesNay: 493
 votesAbsent: 325
 votesRecused: 54
 votesAbstained: 18
@@ -16,7 +16,7 @@ attendanceRate: 96.5
 participationRate: 91.0
 yeaRate: 94.1
 contestedDissentRate: 12.2
-contestedVotes: 2470
+contestedVotes: 2489
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 9,174 |
-| Voted Yea | 7,858 (85.7%) |
-| Voted Nay | 491 (5.4%) |
+| Total Votes | 9,211 |
+| Voted Yea | 7,893 (85.7%) |
+| Voted Nay | 493 (5.4%) |
 | Absent | 325 (3.5%) |
 | Recused (conflict of interest) | 54 (0.6%) |
 | Abstained | 18 (0.2%) |
-| Other/Unrecorded | 428 (4.7%) |
+| Other/Unrecorded | 428 (4.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,546 |
-| Voted Yea | 4,406 (90.0%) |
-| Voted Nay | 491 (10.0%) |
+| Substantive Votes | 5,575 |
+| Voted Yea | 4,433 (90.0%) |
+| Voted Nay | 493 (10.0%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 12.2%
-- **Contested Votes**: 2,470
+- **Contested Votes**: 2,489
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.5%
-- **Meetings Attended**: 412 of 427
+- **Meetings Attended**: 414 of 429
 - **Meetings Missed**: 15
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 96.7% (58/60 meetings)
   - 2024: 90.5% (57/63 meetings)
   - 2025: 96.3% (52/54 meetings)
-  - 2026: 96.8% (30/31 meetings)
+  - 2026: 97.0% (32/33 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Shawn Lewis (96.9%)
+- Shawn Lewis (96.8%)
 - Peter Cuddy (96.4%)
 - Josh Morgan (96.3%)
 
 **Least aligned with:**
-- Sam Trosow (83.2%)
-- Susan Stevenson (88.4%)
-- David Ferreira (88.5%)
+- Sam Trosow (83.0%)
+- David Ferreira (88.3%)
+- Susan Stevenson (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,7 +110,7 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,312 | 3,892 | 263 | 96.4% |
+| Council | 4,349 | 3,927 | 265 | 96.4% |
 | Planning and Environment Committee | 2,308 | 2,137 | 40 | 94.3% |
 | Strategic Priorities and Policy Committee | 2,159 | 1,501 | 124 | 75.3% |
 | Civic Works Committee | 206 | 198 | 6 | 99.0% |
@@ -120,6 +120,14 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Steve Lehman voted against the final outcome:*
+
+### 2026-10-14: (2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...
+
+Voted **Yea** - Motion Failed (5 to 10)
 
 ### 2026-09-29: Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
 
@@ -193,27 +201,21 @@ Voted **Yea** - Motion Failed (7 to 7)
 
 Voted **Nay** - Motion Passed (3 to 2)
 
-### 2026-03-03: (ADDED) Councillor E. Peloza – Personal Update
-
-[4th Council Meeting](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
-
-> That the motion BE AMENDED to add a new part that reads as follows: it being further noted that Councillor E. Peloza will no longer remain appointed to the Community and Protective Services Committee.
-
-Voted **Nay** - Motion Passed (14 to 1)
-
 
 ## Committees Served
 
+- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [City Council](/committees/city-council)
 - [Budget Committee](/committees/budget)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (420 total)
+## Recent Meetings (422 total)
 
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -222,5 +224,3 @@ Voted **Nay** - Motion Passed (14 to 1)
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
