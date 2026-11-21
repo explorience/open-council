@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-20T15:42:58.696Z",
-  "sourceHash": "5165248b895d3415",
-  "totalMeetings": 1680,
+  "generatedAt": "2026-11-21T14:53:38.554Z",
+  "sourceHash": "29b37038ec567707",
+  "totalMeetings": 1682,
   "councillorsWithVotes": 43,
-  "totalMotions": 23224,
-  "substantiveMotions": 16747,
-  "contestedMotions": 5214,
+  "totalMotions": 23261,
+  "substantiveMotions": 16776,
+  "contestedMotions": 5233,
   "duplicateFilesSkipped": 13,
   "garbledRollCallsExcluded": 79,
   "unresolvedNameShapedVoters": {

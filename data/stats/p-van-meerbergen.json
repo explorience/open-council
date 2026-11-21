@@ -2,11 +2,11 @@
   "councillor": "Paul Van Meerbergen",
   "slug": "p-van-meerbergen",
   "attendance": {
-    "totalMeetings": 603,
-    "present": 575,
+    "totalMeetings": 605,
+    "present": 577,
     "absent": 28,
     "remote": 6,
-    "attendanceRate": 95.35655058043118,
+    "attendanceRate": 95.37190082644628,
     "trend": [
       {
         "period": "2011",
@@ -82,27 +82,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 96.7741935483871,
-        "meetingsAttended": 30,
-        "meetingsTotal": 31
+        "attendanceRate": 96.96969696969697,
+        "meetingsAttended": 32,
+        "meetingsTotal": 33
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9975,
-    "yeas": 7735,
-    "nays": 1074,
-    "absent": 640,
-    "participationRate": 88.3107769423559,
-    "yeaRate": 87.80792371438302,
-    "contestedDissentRate": 33.105802047781566,
-    "contestedVotes": 2930,
-    "substantiveVotes": 7534,
-    "substantiveYeas": 5538,
-    "substantiveNays": 1074,
-    "substantiveParticipationRate": 87.7621449429254,
-    "substantiveYeaRate": 83.7568058076225
+    "totalVotes": 10012,
+    "yeas": 7769,
+    "nays": 1076,
+    "absent": 641,
+    "participationRate": 88.34398721534158,
+    "yeaRate": 87.83493499152063,
+    "contestedDissentRate": 32.92641573414717,
+    "contestedVotes": 2949,
+    "substantiveVotes": 7563,
+    "substantiveYeas": 5564,
+    "substantiveNays": 1076,
+    "substantiveParticipationRate": 87.79584820838292,
+    "substantiveYeaRate": 83.79518072289157
   },
   "budgetVoting": {
     "totalBudgetVotes": 1279,
@@ -113,68 +113,77 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3006,
-      "agreedVotes": 2775,
-      "alignmentRate": 92.31536926147704
+      "sharedVotes": 3028,
+      "agreedVotes": 2797,
+      "alignmentRate": 92.37120211360634
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1567,
-      "agreedVotes": 1445,
-      "alignmentRate": 92.21442246330568
+      "sharedVotes": 1589,
+      "agreedVotes": 1467,
+      "alignmentRate": 92.32221522970421
     },
     {
       "councillor": "Steve Hillier",
-      "sharedVotes": 2969,
-      "agreedVotes": 2735,
-      "alignmentRate": 92.11855843718423
+      "sharedVotes": 2991,
+      "agreedVotes": 2757,
+      "alignmentRate": 92.1765295887663
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3040,
-      "agreedVotes": 2775,
-      "alignmentRate": 91.2828947368421
+      "sharedVotes": 3055,
+      "agreedVotes": 2789,
+      "alignmentRate": 91.29296235679215
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3106,
-      "agreedVotes": 2826,
-      "alignmentRate": 90.98518995492594
+      "sharedVotes": 3128,
+      "agreedVotes": 2846,
+      "alignmentRate": 90.98465473145781
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1440,
-      "agreedVotes": 1125,
-      "alignmentRate": 78.125
+      "sharedVotes": 1462,
+      "agreedVotes": 1140,
+      "alignmentRate": 77.97537619699042
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1429,
-      "agreedVotes": 1187,
-      "alignmentRate": 83.06508047585724
+      "sharedVotes": 1441,
+      "agreedVotes": 1195,
+      "alignmentRate": 82.92852185981957
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1535,
-      "agreedVotes": 1305,
-      "alignmentRate": 85.01628664495115
+      "sharedVotes": 1557,
+      "agreedVotes": 1323,
+      "alignmentRate": 84.97109826589595
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3043,
-      "agreedVotes": 2619,
-      "alignmentRate": 86.06638186000657
+      "sharedVotes": 3065,
+      "agreedVotes": 2634,
+      "alignmentRate": 85.93800978792822
     },
     {
-      "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1573,
-      "agreedVotes": 1387,
-      "alignmentRate": 88.17546090273363
+      "councillor": "Elizabeth Peloza",
+      "sharedVotes": 3158,
+      "agreedVotes": 2786,
+      "alignmentRate": 88.22039265357822
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-10-14",
+      "meetingTitle": "15th Meeting of Council",
+      "itemTitle": "(2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street",
+      "motionText": "That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-09-22",
       "meetingTitle": "14th Meeting of Council",
@@ -255,24 +264,15 @@
       "vote": "nay",
       "result": "Motion Passed (12 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-07-21",
-      "meetingTitle": "12th Meeting of Council",
-      "itemTitle": "(4.5) By-law Enforcement Administrative Fees",
-      "motionText": "That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6425,
-      "yeas": 5210,
-      "nays": 702,
-      "participationRate": 92.01556420233463
+      "totalVotes": 6462,
+      "yeas": 5244,
+      "nays": 704,
+      "participationRate": 92.04580625193438
     },
     {
       "committee": "Strategic Priorities and Policy Committee",

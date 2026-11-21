@@ -2,11 +2,11 @@
   "councillor": "Josh Morgan",
   "slug": "j-morgan",
   "attendance": {
-    "totalMeetings": 803,
-    "present": 742,
+    "totalMeetings": 805,
+    "present": 744,
     "absent": 61,
     "remote": 1,
-    "attendanceRate": 92.40348692403487,
+    "attendanceRate": 92.4223602484472,
     "trend": [
       {
         "period": "2014",
@@ -83,26 +83,26 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 32,
-        "meetingsTotal": 32
+        "meetingsAttended": 34,
+        "meetingsTotal": 34
       }
     ],
     "trendDirection": "improving"
   },
   "voting": {
-    "totalVotes": 12725,
-    "yeas": 10490,
-    "nays": 673,
+    "totalVotes": 12762,
+    "yeas": 10523,
+    "nays": 677,
     "absent": 1010,
-    "participationRate": 87.72495088408644,
-    "yeaRate": 93.97115470751591,
-    "contestedDissentRate": 10.644007155635062,
-    "contestedVotes": 3354,
-    "substantiveVotes": 9168,
-    "substantiveYeas": 7506,
-    "substantiveNays": 673,
-    "substantiveParticipationRate": 89.21247818499127,
-    "substantiveYeaRate": 91.77161022129845
+    "participationRate": 87.76053910045447,
+    "yeaRate": 93.95535714285714,
+    "contestedDissentRate": 10.613697005632968,
+    "contestedVotes": 3373,
+    "substantiveVotes": 9197,
+    "substantiveYeas": 7531,
+    "substantiveNays": 677,
+    "substantiveParticipationRate": 89.24649342176797,
+    "substantiveYeaRate": 91.75194931773879
   },
   "budgetVoting": {
     "totalBudgetVotes": 1414,
@@ -113,68 +113,77 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3172,
-      "agreedVotes": 3056,
-      "alignmentRate": 96.34300126103405
+      "sharedVotes": 3194,
+      "agreedVotes": 3076,
+      "alignmentRate": 96.3055729492799
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3280,
-      "agreedVotes": 3156,
-      "alignmentRate": 96.21951219512195
+      "sharedVotes": 3295,
+      "agreedVotes": 3170,
+      "alignmentRate": 96.20637329286798
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1661,
-      "agreedVotes": 1583,
-      "alignmentRate": 95.30403371462974
+      "sharedVotes": 1683,
+      "agreedVotes": 1603,
+      "alignmentRate": 95.2465834818776
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1653,
-      "agreedVotes": 1571,
-      "alignmentRate": 95.03932244404115
+      "sharedVotes": 1675,
+      "agreedVotes": 1592,
+      "alignmentRate": 95.04477611940298
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1597,
-      "agreedVotes": 1513,
-      "alignmentRate": 94.74013775829681
+      "sharedVotes": 1619,
+      "agreedVotes": 1534,
+      "alignmentRate": 94.74984558369364
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1574,
-      "agreedVotes": 1341,
-      "alignmentRate": 85.19695044472681
+      "sharedVotes": 1596,
+      "agreedVotes": 1358,
+      "alignmentRate": 85.08771929824562
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1568,
-      "agreedVotes": 1353,
-      "alignmentRate": 86.28826530612244
+      "sharedVotes": 1590,
+      "agreedVotes": 1372,
+      "alignmentRate": 86.28930817610063
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 3106,
-      "agreedVotes": 2826,
-      "alignmentRate": 90.98518995492594
+      "sharedVotes": 3128,
+      "agreedVotes": 2846,
+      "alignmentRate": 90.98465473145781
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1634,
-      "agreedVotes": 1489,
-      "alignmentRate": 91.12607099143207
+      "sharedVotes": 1646,
+      "agreedVotes": 1498,
+      "alignmentRate": 91.00850546780073
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1603,
-      "agreedVotes": 1486,
-      "alignmentRate": 92.7011852776045
+      "sharedVotes": 1625,
+      "agreedVotes": 1506,
+      "alignmentRate": 92.67692307692307
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-10-14",
+      "meetingTitle": "15th Meeting of Council",
+      "itemTitle": "(3.4) 954 Gainsborough Road - Z-26089",
+      "motionText": "That the application dated September 29, 2026, from Royal Premier Homes, care of Zelinka Priamo Ltd. related to the property located at 954 Gainsborough Road BE REFERRED to December 1, 2026, meeting o...",
+      "vote": "nay",
+      "result": "Motion Passed (8 to 6)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-08-25",
       "meetingTitle": "13th Meeting of Council",
@@ -255,24 +264,15 @@
       "vote": "yea",
       "result": "Motion Failed (7 to 7)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7241e2a5-5faa-4da2-87e3-5aa7366fda9f&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-03-24",
-      "meetingTitle": "5th Meeting of the Strategic Priorities and Policy Committee",
-      "itemTitle": "Mayoral Direction 2026-001: Creation of an Affordable Home Ownership Incentive Program - Report Back on Program Options",
-      "motionText": "That the motion BE AMENDED to have the report back to the Strategic Priorities and Policy Committee.",
-      "vote": "nay",
-      "result": "Motion Passed (10 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=5b8ccf34-419e-4480-af6f-4160e9259405&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 6764,
-      "yeas": 6200,
-      "nays": 375,
-      "participationRate": 97.20579538734476
+      "totalVotes": 6801,
+      "yeas": 6233,
+      "nays": 379,
+      "participationRate": 97.2209969122188
     },
     {
       "committee": "Strategic Priorities and Policy Committee",

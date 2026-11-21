@@ -2,11 +2,11 @@
   "councillor": "Steve Hillier",
   "slug": "s-hillier",
   "attendance": {
-    "totalMeetings": 473,
-    "present": 443,
+    "totalMeetings": 474,
+    "present": 444,
     "absent": 30,
     "remote": 0,
-    "attendanceRate": 93.65750528541226,
+    "attendanceRate": 93.67088607594937,
     "trend": [
       {
         "period": "2018",
@@ -58,27 +58,27 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 93.54838709677419,
-        "meetingsAttended": 29,
-        "meetingsTotal": 31
+        "attendanceRate": 93.75,
+        "meetingsAttended": 30,
+        "meetingsTotal": 32
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 9350,
-    "yeas": 7940,
-    "nays": 587,
+    "totalVotes": 9387,
+    "yeas": 7974,
+    "nays": 590,
     "absent": 541,
-    "participationRate": 91.19786096256685,
-    "yeaRate": 93.11598451976076,
-    "contestedDissentRate": 17.63005780346821,
-    "contestedVotes": 2422,
-    "substantiveVotes": 5551,
-    "substantiveYeas": 4355,
-    "substantiveNays": 587,
-    "substantiveParticipationRate": 89.02900378310214,
-    "substantiveYeaRate": 88.12221772561716
+    "participationRate": 91.23255566208587,
+    "yeaRate": 93.11069593647828,
+    "contestedDissentRate": 17.57476444080295,
+    "contestedVotes": 2441,
+    "substantiveVotes": 5580,
+    "substantiveYeas": 4381,
+    "substantiveNays": 590,
+    "substantiveParticipationRate": 89.08602150537635,
+    "substantiveYeaRate": 88.13116073224704
   },
   "budgetVoting": {
     "totalBudgetVotes": 901,
@@ -89,68 +89,86 @@
   "topAlignments": [
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3883,
-      "agreedVotes": 3738,
-      "alignmentRate": 96.26577388617049
+      "sharedVotes": 3905,
+      "agreedVotes": 3760,
+      "alignmentRate": 96.28681177976952
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 4168,
-      "agreedVotes": 3997,
-      "alignmentRate": 95.89731285988485
+      "sharedVotes": 4183,
+      "agreedVotes": 4011,
+      "alignmentRate": 95.88811857518527
     },
     {
       "councillor": "Peter Cuddy",
-      "sharedVotes": 1820,
-      "agreedVotes": 1737,
-      "alignmentRate": 95.43956043956044
+      "sharedVotes": 1842,
+      "agreedVotes": 1759,
+      "alignmentRate": 95.49402823018458
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3188,
-      "agreedVotes": 3005,
-      "alignmentRate": 94.25972396486826
+      "sharedVotes": 3210,
+      "agreedVotes": 3025,
+      "alignmentRate": 94.2367601246106
     },
     {
       "councillor": "Jerry Pribil",
-      "sharedVotes": 1512,
-      "agreedVotes": 1404,
-      "alignmentRate": 92.85714285714286
+      "sharedVotes": 1534,
+      "agreedVotes": 1425,
+      "alignmentRate": 92.89439374185136
     }
   ],
   "bottomAlignments": [
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1435,
-      "agreedVotes": 1162,
-      "alignmentRate": 80.97560975609757
+      "sharedVotes": 1457,
+      "agreedVotes": 1177,
+      "alignmentRate": 80.78242964996568
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1495,
-      "agreedVotes": 1289,
-      "alignmentRate": 86.22073578595317
+      "sharedVotes": 1507,
+      "agreedVotes": 1297,
+      "alignmentRate": 86.0650298606503
     },
     {
       "councillor": "Susan Stevenson",
-      "sharedVotes": 1532,
-      "agreedVotes": 1353,
-      "alignmentRate": 88.31592689295039
+      "sharedVotes": 1554,
+      "agreedVotes": 1374,
+      "alignmentRate": 88.41698841698842
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1794,
-      "agreedVotes": 1606,
-      "alignmentRate": 89.52062430323299
+      "sharedVotes": 1816,
+      "agreedVotes": 1624,
+      "alignmentRate": 89.42731277533039
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3506,
-      "agreedVotes": 3164,
-      "alignmentRate": 90.24529378208786
+      "sharedVotes": 3528,
+      "agreedVotes": 3179,
+      "alignmentRate": 90.10770975056688
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-10-14",
+      "meetingTitle": "15th Meeting of Council",
+      "itemTitle": "(2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street",
+      "motionText": "That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 21, 2026, related to the heritage listed property...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-10-14",
+      "meetingTitle": "15th Meeting of Council",
+      "itemTitle": "(2.8) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street",
+      "motionText": "That the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1875 Richmond Street BE REFERRED to the Decembe...",
+      "vote": "yea",
+      "result": "Motion Failed (5 to 10)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-09-22",
       "meetingTitle": "14th Meeting of Council",
@@ -222,33 +240,15 @@
       "vote": "nay",
       "result": "Motion Passed (13 to 2)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: ii. remove any ...",
-      "vote": "yea",
-      "result": "Motion Failed (6 to 9)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
     {
       "committee": "Council",
-      "totalVotes": 4313,
-      "yeas": 3758,
-      "nays": 322,
-      "participationRate": 94.5977277996754
+      "totalVotes": 4350,
+      "yeas": 3792,
+      "nays": 325,
+      "participationRate": 94.64367816091954
     },
     {
       "committee": "Planning and Environment Committee",
