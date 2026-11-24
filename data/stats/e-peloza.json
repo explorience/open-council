@@ -2,11 +2,11 @@
   "councillor": "Elizabeth Peloza",
   "slug": "e-peloza",
   "attendance": {
-    "totalMeetings": 457,
-    "present": 448,
+    "totalMeetings": 459,
+    "present": 450,
     "absent": 9,
     "remote": 1,
-    "attendanceRate": 98.03063457330416,
+    "attendanceRate": 98.0392156862745,
     "trend": [
       {
         "period": "2018",
@@ -58,64 +58,64 @@
       },
       {
         "period": "2026",
-        "attendanceRate": 94.28571428571428,
-        "meetingsAttended": 33,
-        "meetingsTotal": 35
+        "attendanceRate": 94.5945945945946,
+        "meetingsAttended": 35,
+        "meetingsTotal": 37
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 8054,
-    "yeas": 6394,
-    "nays": 642,
+    "totalVotes": 8100,
+    "yeas": 6431,
+    "nays": 644,
     "absent": 480,
-    "participationRate": 87.36031785448225,
-    "yeaRate": 90.87549744172826,
-    "contestedDissentRate": 20.22279348757498,
-    "contestedVotes": 2334,
-    "substantiveVotes": 5561,
-    "substantiveYeas": 4020,
-    "substantiveNays": 642,
-    "substantiveParticipationRate": 83.83384283402265,
-    "substantiveYeaRate": 86.22908622908622
+    "participationRate": 87.34567901234568,
+    "yeaRate": 90.89752650176679,
+    "contestedDissentRate": 20.291095890410958,
+    "contestedVotes": 2336,
+    "substantiveVotes": 5604,
+    "substantiveYeas": 4054,
+    "substantiveNays": 644,
+    "substantiveParticipationRate": 83.83297644539614,
+    "substantiveYeaRate": 86.29203916560239
   },
   "budgetVoting": {
-    "totalBudgetVotes": 881,
-    "budgetYeas": 696,
+    "totalBudgetVotes": 882,
+    "budgetYeas": 697,
     "budgetNays": 138,
     "budgetAbsent": 45
   },
   "topAlignments": [
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 3224,
-      "agreedVotes": 3034,
-      "alignmentRate": 94.10669975186104
+      "sharedVotes": 3260,
+      "agreedVotes": 3069,
+      "alignmentRate": 94.14110429447852
     },
     {
       "councillor": "Shawn Lewis",
-      "sharedVotes": 3472,
-      "agreedVotes": 3258,
-      "alignmentRate": 93.83640552995391
+      "sharedVotes": 3508,
+      "agreedVotes": 3293,
+      "alignmentRate": 93.87115165336374
     },
     {
       "councillor": "Steve Lehman",
-      "sharedVotes": 3345,
-      "agreedVotes": 3118,
-      "alignmentRate": 93.21375186846039
+      "sharedVotes": 3381,
+      "agreedVotes": 3153,
+      "alignmentRate": 93.2564330079858
     },
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 3117,
-      "agreedVotes": 2905,
-      "alignmentRate": 93.19858838626884
+      "sharedVotes": 3153,
+      "agreedVotes": 2940,
+      "alignmentRate": 93.24452901998097
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1515,
-      "agreedVotes": 1404,
-      "alignmentRate": 92.67326732673268
+      "sharedVotes": 1551,
+      "agreedVotes": 1439,
+      "alignmentRate": 92.77885235332045
     }
   ],
   "bottomAlignments": [
@@ -127,30 +127,48 @@
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1470,
-      "agreedVotes": 1259,
-      "alignmentRate": 85.64625850340136
+      "sharedVotes": 1504,
+      "agreedVotes": 1292,
+      "alignmentRate": 85.90425531914893
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 3158,
-      "agreedVotes": 2786,
-      "alignmentRate": 88.22039265357822
+      "sharedVotes": 3194,
+      "agreedVotes": 2821,
+      "alignmentRate": 88.32185347526612
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1572,
-      "agreedVotes": 1418,
-      "alignmentRate": 90.20356234096693
+      "sharedVotes": 1608,
+      "agreedVotes": 1453,
+      "alignmentRate": 90.36069651741293
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1549,
-      "agreedVotes": 1411,
-      "alignmentRate": 91.09102646868948
+      "sharedVotes": 1585,
+      "agreedVotes": 1446,
+      "alignmentRate": 91.23028391167193
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-11-18",
+      "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza",
+      "motionText": "That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;\n\nii) C...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+    },
+    {
+      "date": "2026-11-18",
+      "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)",
+      "motionText": "​That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM. ​",
+      "vote": "nay",
+      "result": "Motion Passed (14 to 1)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-10-14",
       "meetingTitle": "15th Meeting of Council",
@@ -222,24 +240,6 @@
       "vote": "nay",
       "result": "Motion Passed (9 to 6)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...",
-      "vote": "yea",
-      "result": "Motion Failed (7 to 8)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-08-25",
-      "meetingTitle": "13th Meeting of Council",
-      "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-      "motionText": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
-      "vote": "nay",
-      "result": "Motion Passed (11 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -252,10 +252,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 2204,
-      "yeas": 1432,
-      "nays": 159,
-      "participationRate": 72.1869328493648
+      "totalVotes": 2250,
+      "yeas": 1469,
+      "nays": 161,
+      "participationRate": 72.44444444444444
     },
     {
       "committee": "Planning and Environment Committee",

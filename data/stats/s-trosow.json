@@ -2,11 +2,11 @@
   "councillor": "Sam Trosow",
   "slug": "s-trosow",
   "attendance": {
-    "totalMeetings": 247,
-    "present": 238,
+    "totalMeetings": 248,
+    "present": 239,
     "absent": 9,
     "remote": 0,
-    "attendanceRate": 96.35627530364373,
+    "attendanceRate": 96.37096774193549,
     "trend": [
       {
         "period": "2022",
@@ -35,63 +35,63 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 32,
-        "meetingsTotal": 32
+        "meetingsAttended": 33,
+        "meetingsTotal": 33
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4113,
-    "yeas": 2996,
-    "nays": 671,
-    "absent": 258,
-    "participationRate": 89.15633357646486,
-    "yeaRate": 81.70166348513771,
-    "contestedDissentRate": 45.803971812940425,
-    "contestedVotes": 1561,
-    "substantiveVotes": 3075,
-    "substantiveYeas": 2051,
-    "substantiveNays": 671,
-    "substantiveParticipationRate": 88.52032520325204,
-    "substantiveYeaRate": 75.34900808229243
+    "totalVotes": 4159,
+    "yeas": 3032,
+    "nays": 672,
+    "absent": 260,
+    "participationRate": 89.05987016109643,
+    "yeaRate": 81.8574514038877,
+    "contestedDissentRate": 45.80934101087652,
+    "contestedVotes": 1563,
+    "substantiveVotes": 3118,
+    "substantiveYeas": 2084,
+    "substantiveNays": 672,
+    "substantiveParticipationRate": 88.38999358563181,
+    "substantiveYeaRate": 75.61683599419449
   },
   "budgetVoting": {
-    "totalBudgetVotes": 465,
-    "budgetYeas": 361,
+    "totalBudgetVotes": 466,
+    "budgetYeas": 362,
     "budgetNays": 94,
     "budgetAbsent": 10
   },
   "topAlignments": [
     {
       "councillor": "Anna Hopkins",
-      "sharedVotes": 1623,
-      "agreedVotes": 1501,
-      "alignmentRate": 92.483056069008
+      "sharedVotes": 1657,
+      "agreedVotes": 1535,
+      "alignmentRate": 92.63729631864815
     },
     {
       "councillor": "David Ferreira",
-      "sharedVotes": 1804,
-      "agreedVotes": 1656,
-      "alignmentRate": 91.7960088691796
+      "sharedVotes": 1838,
+      "agreedVotes": 1690,
+      "alignmentRate": 91.94776931447225
     },
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1541,
-      "agreedVotes": 1384,
-      "alignmentRate": 89.81181051265412
+      "sharedVotes": 1575,
+      "agreedVotes": 1418,
+      "alignmentRate": 90.03174603174602
     },
     {
       "councillor": "Hadleigh McAlister",
-      "sharedVotes": 1726,
-      "agreedVotes": 1538,
-      "alignmentRate": 89.10776361529548
+      "sharedVotes": 1760,
+      "agreedVotes": 1572,
+      "alignmentRate": 89.31818181818181
     },
     {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1649,
-      "agreedVotes": 1424,
-      "alignmentRate": 86.35536688902366
+      "sharedVotes": 1683,
+      "agreedVotes": 1458,
+      "alignmentRate": 86.63101604278076
     }
   ],
   "bottomAlignments": [
@@ -103,9 +103,9 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1462,
-      "agreedVotes": 1140,
-      "alignmentRate": 77.97537619699042
+      "sharedVotes": 1496,
+      "agreedVotes": 1174,
+      "alignmentRate": 78.47593582887701
     },
     {
       "councillor": "Steve Hillier",
@@ -114,19 +114,28 @@
       "alignmentRate": 80.78242964996568
     },
     {
-      "councillor": "Shawn Lewis",
-      "sharedVotes": 1608,
-      "agreedVotes": 1324,
-      "alignmentRate": 82.33830845771143
-    },
-    {
       "councillor": "Peter Cuddy",
       "sharedVotes": 1667,
       "agreedVotes": 1376,
       "alignmentRate": 82.54349130173965
+    },
+    {
+      "councillor": "Shawn Lewis",
+      "sharedVotes": 1642,
+      "agreedVotes": 1358,
+      "alignmentRate": 82.70401948842874
     }
   ],
   "notableDissents": [
+    {
+      "date": "2026-11-18",
+      "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+      "itemTitle": "Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza",
+      "motionText": "That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;\n\nii) C...",
+      "vote": "nay",
+      "result": "Motion Passed (13 to 2)",
+      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+    },
     {
       "date": "2026-10-14",
       "meetingTitle": "15th Meeting of Council",
@@ -207,15 +216,6 @@
       "vote": "nay",
       "result": "Motion Passed (10 to 3)",
       "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
-    },
-    {
-      "date": "2026-10-14",
-      "meetingTitle": "15th Meeting of Council",
-      "itemTitle": "By-laws",
-      "motionText": "That Second Reading of Bill No. 352, BE APPROVED.",
-      "vote": "nay",
-      "result": "Motion Passed (9 to 4)",
-      "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
     }
   ],
   "committeeActivity": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1030,
-      "yeas": 687,
-      "nays": 133,
-      "participationRate": 79.6116504854369
+      "totalVotes": 1076,
+      "yeas": 723,
+      "nays": 134,
+      "participationRate": 79.64684014869889
     },
     {
       "committee": "Community and Protective Services Committee",

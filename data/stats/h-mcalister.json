@@ -2,11 +2,11 @@
   "councillor": "Hadleigh McAlister",
   "slug": "h-mcalister",
   "attendance": {
-    "totalMeetings": 250,
-    "present": 237,
+    "totalMeetings": 251,
+    "present": 238,
     "absent": 13,
     "remote": 0,
-    "attendanceRate": 94.8,
+    "attendanceRate": 94.82071713147411,
     "trend": [
       {
         "period": "2022",
@@ -35,45 +35,51 @@
       {
         "period": "2026",
         "attendanceRate": 100,
-        "meetingsAttended": 33,
-        "meetingsTotal": 33
+        "meetingsAttended": 34,
+        "meetingsTotal": 34
       }
     ],
     "trendDirection": "stable"
   },
   "voting": {
-    "totalVotes": 4156,
-    "yeas": 3317,
+    "totalVotes": 4202,
+    "yeas": 3356,
     "nays": 291,
     "absent": 305,
-    "participationRate": 86.81424446583253,
-    "yeaRate": 91.93458980044346,
-    "contestedDissentRate": 13.704918032786887,
-    "contestedVotes": 1525,
-    "substantiveVotes": 3094,
-    "substantiveYeas": 2327,
+    "participationRate": 86.79200380771061,
+    "yeaRate": 92.02083904579106,
+    "contestedDissentRate": 13.686967910936476,
+    "contestedVotes": 1527,
+    "substantiveVotes": 3137,
+    "substantiveYeas": 2363,
     "substantiveNays": 291,
-    "substantiveParticipationRate": 84.61538461538461,
-    "substantiveYeaRate": 88.88464476699771
+    "substantiveParticipationRate": 84.60312400382531,
+    "substantiveYeaRate": 89.03541823662397
   },
   "budgetVoting": {
-    "totalBudgetVotes": 467,
-    "budgetYeas": 367,
+    "totalBudgetVotes": 468,
+    "budgetYeas": 368,
     "budgetNays": 63,
     "budgetAbsent": 37
   },
   "topAlignments": [
     {
       "councillor": "Skylar Franke",
-      "sharedVotes": 1582,
-      "agreedVotes": 1502,
-      "alignmentRate": 94.94310998735777
+      "sharedVotes": 1618,
+      "agreedVotes": 1538,
+      "alignmentRate": 95.05562422744129
     },
     {
       "councillor": "Josh Morgan",
-      "sharedVotes": 1619,
-      "agreedVotes": 1534,
-      "alignmentRate": 94.74984558369364
+      "sharedVotes": 1655,
+      "agreedVotes": 1570,
+      "alignmentRate": 94.86404833836858
+    },
+    {
+      "councillor": "Steve Lehman",
+      "sharedVotes": 1554,
+      "agreedVotes": 1456,
+      "alignmentRate": 93.69369369369369
     },
     {
       "councillor": "Jerry Pribil",
@@ -82,16 +88,10 @@
       "alignmentRate": 93.57142857142857
     },
     {
-      "councillor": "Steve Lehman",
-      "sharedVotes": 1518,
-      "agreedVotes": 1420,
-      "alignmentRate": 93.54413702239789
-    },
-    {
       "councillor": "Corrine Rahman",
-      "sharedVotes": 1690,
-      "agreedVotes": 1579,
-      "alignmentRate": 93.4319526627219
+      "sharedVotes": 1726,
+      "agreedVotes": 1615,
+      "alignmentRate": 93.56894553881807
     }
   ],
   "bottomAlignments": [
@@ -103,15 +103,15 @@
     },
     {
       "councillor": "Paul Van Meerbergen",
-      "sharedVotes": 1595,
-      "agreedVotes": 1408,
-      "alignmentRate": 88.27586206896552
+      "sharedVotes": 1631,
+      "agreedVotes": 1444,
+      "alignmentRate": 88.5346413243409
     },
     {
       "councillor": "Sam Trosow",
-      "sharedVotes": 1726,
-      "agreedVotes": 1538,
-      "alignmentRate": 89.10776361529548
+      "sharedVotes": 1760,
+      "agreedVotes": 1572,
+      "alignmentRate": 89.31818181818181
     },
     {
       "councillor": "Steve Hillier",
@@ -121,9 +121,9 @@
     },
     {
       "councillor": "Elizabeth Peloza",
-      "sharedVotes": 1515,
-      "agreedVotes": 1404,
-      "alignmentRate": 92.67326732673268
+      "sharedVotes": 1551,
+      "agreedVotes": 1439,
+      "alignmentRate": 92.77885235332045
     }
   ],
   "notableDissents": [
@@ -228,10 +228,10 @@
     },
     {
       "committee": "Strategic Priorities and Policy Committee",
-      "totalVotes": 1101,
-      "yeas": 778,
+      "totalVotes": 1147,
+      "yeas": 817,
       "nays": 71,
-      "participationRate": 77.11171662125341
+      "participationRate": 77.41935483870968
     },
     {
       "committee": "Community and Protective Services Committee",

@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-21T14:53:46.484Z",
+  "generatedAt": "2026-11-24T18:10:02.409Z",
   "councillorStats": {
     "j-morgan": {
       "councillor": "Josh Morgan",
       "slug": "j-morgan",
       "attendance": {
-        "totalMeetings": 805,
-        "present": 744,
+        "totalMeetings": 806,
+        "present": 745,
         "absent": 61,
         "remote": 1,
-        "attendanceRate": 92.4223602484472,
+        "attendanceRate": 92.4317617866005,
         "trend": [
           {
             "period": "2014",
@@ -86,45 +86,45 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 34,
-            "meetingsTotal": 34
+            "meetingsAttended": 35,
+            "meetingsTotal": 35
           }
         ],
         "trendDirection": "improving"
       },
       "voting": {
-        "totalVotes": 12762,
-        "yeas": 10523,
+        "totalVotes": 12808,
+        "yeas": 10562,
         "nays": 677,
         "absent": 1010,
-        "participationRate": 87.76053910045447,
-        "yeaRate": 93.95535714285714,
-        "contestedDissentRate": 10.613697005632968,
-        "contestedVotes": 3373,
-        "substantiveVotes": 9197,
-        "substantiveYeas": 7531,
+        "participationRate": 87.74984384759526,
+        "yeaRate": 93.97633241391583,
+        "contestedDissentRate": 10.607407407407408,
+        "contestedVotes": 3375,
+        "substantiveVotes": 9240,
+        "substantiveYeas": 7567,
         "substantiveNays": 677,
-        "substantiveParticipationRate": 89.24649342176797,
-        "substantiveYeaRate": 91.75194931773879
+        "substantiveParticipationRate": 89.22077922077922,
+        "substantiveYeaRate": 91.78796700630761
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1414,
-        "budgetYeas": 1205,
+        "totalBudgetVotes": 1415,
+        "budgetYeas": 1206,
         "budgetNays": 186,
         "budgetAbsent": 21
       },
       "topAlignments": [
         {
           "councillor": "Steve Lehman",
-          "sharedVotes": 3194,
-          "agreedVotes": 3076,
-          "alignmentRate": 96.3055729492799
+          "sharedVotes": 3230,
+          "agreedVotes": 3112,
+          "alignmentRate": 96.3467492260062
         },
         {
           "councillor": "Shawn Lewis",
-          "sharedVotes": 3295,
-          "agreedVotes": 3170,
-          "alignmentRate": 96.20637329286798
+          "sharedVotes": 3331,
+          "agreedVotes": 3206,
+          "alignmentRate": 96.24737316121285
         },
         {
           "councillor": "Peter Cuddy",
@@ -140,17 +140,17 @@
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1619,
-          "agreedVotes": 1534,
-          "alignmentRate": 94.74984558369364
+          "sharedVotes": 1655,
+          "agreedVotes": 1570,
+          "alignmentRate": 94.86404833836858
         }
       ],
       "bottomAlignments": [
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1596,
-          "agreedVotes": 1358,
-          "alignmentRate": 85.08771929824562
+          "sharedVotes": 1630,
+          "agreedVotes": 1392,
+          "alignmentRate": 85.39877300613496
         },
         {
           "councillor": "Susan Stevenson",
@@ -160,21 +160,21 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 3128,
-          "agreedVotes": 2846,
-          "alignmentRate": 90.98465473145781
+          "sharedVotes": 3164,
+          "agreedVotes": 2882,
+          "alignmentRate": 91.08723135271808
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1646,
-          "agreedVotes": 1498,
-          "alignmentRate": 91.00850546780073
+          "sharedVotes": 1682,
+          "agreedVotes": 1534,
+          "alignmentRate": 91.20095124851368
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1625,
-          "agreedVotes": 1506,
-          "alignmentRate": 92.67692307692307
+          "sharedVotes": 1661,
+          "agreedVotes": 1542,
+          "alignmentRate": 92.83564118001205
         }
       ],
       "notableDissents": [
@@ -279,10 +279,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2956,
-          "yeas": 2268,
+          "totalVotes": 3002,
+          "yeas": 2307,
           "nays": 176,
-          "participationRate": 82.67929634641408
+          "participationRate": 82.71152564956695
         },
         {
           "committee": "Corporate Services Committee",
@@ -332,11 +332,11 @@
       "councillor": "Hadleigh McAlister",
       "slug": "h-mcalister",
       "attendance": {
-        "totalMeetings": 250,
-        "present": 237,
+        "totalMeetings": 251,
+        "present": 238,
         "absent": 13,
         "remote": 0,
-        "attendanceRate": 94.8,
+        "attendanceRate": 94.82071713147411,
         "trend": [
           {
             "period": "2022",
@@ -365,45 +365,51 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 33,
-            "meetingsTotal": 33
+            "meetingsAttended": 34,
+            "meetingsTotal": 34
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 4156,
-        "yeas": 3317,
+        "totalVotes": 4202,
+        "yeas": 3356,
         "nays": 291,
         "absent": 305,
-        "participationRate": 86.81424446583253,
-        "yeaRate": 91.93458980044346,
-        "contestedDissentRate": 13.704918032786887,
-        "contestedVotes": 1525,
-        "substantiveVotes": 3094,
-        "substantiveYeas": 2327,
+        "participationRate": 86.79200380771061,
+        "yeaRate": 92.02083904579106,
+        "contestedDissentRate": 13.686967910936476,
+        "contestedVotes": 1527,
+        "substantiveVotes": 3137,
+        "substantiveYeas": 2363,
         "substantiveNays": 291,
-        "substantiveParticipationRate": 84.61538461538461,
-        "substantiveYeaRate": 88.88464476699771
+        "substantiveParticipationRate": 84.60312400382531,
+        "substantiveYeaRate": 89.03541823662397
       },
       "budgetVoting": {
-        "totalBudgetVotes": 467,
-        "budgetYeas": 367,
+        "totalBudgetVotes": 468,
+        "budgetYeas": 368,
         "budgetNays": 63,
         "budgetAbsent": 37
       },
       "topAlignments": [
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1582,
-          "agreedVotes": 1502,
-          "alignmentRate": 94.94310998735777
+          "sharedVotes": 1618,
+          "agreedVotes": 1538,
+          "alignmentRate": 95.05562422744129
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1619,
-          "agreedVotes": 1534,
-          "alignmentRate": 94.74984558369364
+          "sharedVotes": 1655,
+          "agreedVotes": 1570,
+          "alignmentRate": 94.86404833836858
+        },
+        {
+          "councillor": "Steve Lehman",
+          "sharedVotes": 1554,
+          "agreedVotes": 1456,
+          "alignmentRate": 93.69369369369369
         },
         {
           "councillor": "Jerry Pribil",
@@ -412,16 +418,10 @@
           "alignmentRate": 93.57142857142857
         },
         {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1518,
-          "agreedVotes": 1420,
-          "alignmentRate": 93.54413702239789
-        },
-        {
           "councillor": "Corrine Rahman",
-          "sharedVotes": 1690,
-          "agreedVotes": 1579,
-          "alignmentRate": 93.4319526627219
+          "sharedVotes": 1726,
+          "agreedVotes": 1615,
+          "alignmentRate": 93.56894553881807
         }
       ],
       "bottomAlignments": [
@@ -433,15 +433,15 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1595,
-          "agreedVotes": 1408,
-          "alignmentRate": 88.27586206896552
+          "sharedVotes": 1631,
+          "agreedVotes": 1444,
+          "alignmentRate": 88.5346413243409
         },
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1726,
-          "agreedVotes": 1538,
-          "alignmentRate": 89.10776361529548
+          "sharedVotes": 1760,
+          "agreedVotes": 1572,
+          "alignmentRate": 89.31818181818181
         },
         {
           "councillor": "Steve Hillier",
@@ -451,9 +451,9 @@
         },
         {
           "councillor": "Elizabeth Peloza",
-          "sharedVotes": 1515,
-          "agreedVotes": 1404,
-          "alignmentRate": 92.67326732673268
+          "sharedVotes": 1551,
+          "agreedVotes": 1439,
+          "alignmentRate": 92.77885235332045
         }
       ],
       "notableDissents": [
@@ -558,10 +558,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1101,
-          "yeas": 778,
+          "totalVotes": 1147,
+          "yeas": 817,
           "nays": 71,
-          "participationRate": 77.11171662125341
+          "participationRate": 77.41935483870968
         },
         {
           "committee": "Community and Protective Services Committee",
@@ -604,11 +604,11 @@
       "councillor": "Shawn Lewis",
       "slug": "s-lewis",
       "attendance": {
-        "totalMeetings": 508,
-        "present": 500,
+        "totalMeetings": 509,
+        "present": 501,
         "absent": 8,
         "remote": 2,
-        "attendanceRate": 98.4251968503937,
+        "attendanceRate": 98.42829076620825,
         "trend": [
           {
             "period": "2018",
@@ -660,31 +660,31 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 91.42857142857143,
-            "meetingsAttended": 32,
-            "meetingsTotal": 35
+            "attendanceRate": 91.66666666666666,
+            "meetingsAttended": 33,
+            "meetingsTotal": 36
           }
         ],
         "trendDirection": "declining"
       },
       "voting": {
-        "totalVotes": 9790,
-        "yeas": 8482,
+        "totalVotes": 9836,
+        "yeas": 8521,
         "nays": 548,
         "absent": 309,
-        "participationRate": 92.23697650663942,
-        "yeaRate": 93.93133997785161,
-        "contestedDissentRate": 11.517719568567026,
-        "contestedVotes": 2596,
-        "substantiveVotes": 5902,
-        "substantiveYeas": 4766,
+        "participationRate": 92.20211468076454,
+        "yeaRate": 93.9574374241923,
+        "contestedDissentRate": 11.508852963818322,
+        "contestedVotes": 2598,
+        "substantiveVotes": 5945,
+        "substantiveYeas": 4802,
         "substantiveNays": 548,
-        "substantiveParticipationRate": 90.03727549983057,
-        "substantiveYeaRate": 89.68761761385021
+        "substantiveParticipationRate": 89.99158957106812,
+        "substantiveYeaRate": 89.75700934579439
       },
       "budgetVoting": {
-        "totalBudgetVotes": 897,
-        "budgetYeas": 730,
+        "totalBudgetVotes": 898,
+        "budgetYeas": 731,
         "budgetNays": 134,
         "budgetAbsent": 33
       },
@@ -697,15 +697,15 @@
         },
         {
           "councillor": "Steve Lehman",
-          "sharedVotes": 4153,
-          "agreedVotes": 4022,
-          "alignmentRate": 96.84565374428125
+          "sharedVotes": 4189,
+          "agreedVotes": 4058,
+          "alignmentRate": 96.87276199570303
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 3295,
-          "agreedVotes": 3170,
-          "alignmentRate": 96.20637329286798
+          "sharedVotes": 3331,
+          "agreedVotes": 3206,
+          "alignmentRate": 96.24737316121285
         },
         {
           "councillor": "Steve Hillier",
@@ -723,9 +723,9 @@
       "bottomAlignments": [
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1608,
-          "agreedVotes": 1324,
-          "alignmentRate": 82.33830845771143
+          "sharedVotes": 1642,
+          "agreedVotes": 1358,
+          "alignmentRate": 82.70401948842874
         },
         {
           "councillor": "Susan Stevenson",
@@ -735,21 +735,21 @@
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1665,
-          "agreedVotes": 1480,
-          "alignmentRate": 88.88888888888889
+          "sharedVotes": 1701,
+          "agreedVotes": 1516,
+          "alignmentRate": 89.12404467960023
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 3650,
-          "agreedVotes": 3326,
-          "alignmentRate": 91.12328767123287
+          "sharedVotes": 3686,
+          "agreedVotes": 3362,
+          "alignmentRate": 91.20998372219208
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 3055,
-          "agreedVotes": 2789,
-          "alignmentRate": 91.29296235679215
+          "sharedVotes": 3091,
+          "agreedVotes": 2825,
+          "alignmentRate": 91.39437075380135
         }
       ],
       "notableDissents": [
@@ -861,10 +861,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2134,
-          "yeas": 1539,
+          "totalVotes": 2180,
+          "yeas": 1578,
           "nays": 144,
-          "participationRate": 78.8659793814433
+          "participationRate": 78.9908256880734
         },
         {
           "committee": "Community and Protective Services Committee",
@@ -907,11 +907,11 @@
       "councillor": "Peter Cuddy",
       "slug": "p-cuddy",
       "attendance": {
-        "totalMeetings": 242,
-        "present": 238,
+        "totalMeetings": 243,
+        "present": 239,
         "absent": 4,
         "remote": 0,
-        "attendanceRate": 98.34710743801654,
+        "attendanceRate": 98.35390946502058,
         "trend": [
           {
             "period": "2022",
@@ -939,12 +939,12 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 94.28571428571428,
-            "meetingsAttended": 33,
-            "meetingsTotal": 35
+            "attendanceRate": 94.44444444444444,
+            "meetingsAttended": 34,
+            "meetingsTotal": 36
           }
         ],
-        "trendDirection": "declining"
+        "trendDirection": "stable"
       },
       "voting": {
         "totalVotes": 4611,
@@ -1179,11 +1179,11 @@
       "councillor": "Susan Stevenson",
       "slug": "s-stevenson",
       "attendance": {
-        "totalMeetings": 247,
+        "totalMeetings": 248,
         "present": 219,
-        "absent": 28,
+        "absent": 29,
         "remote": 1,
-        "attendanceRate": 88.66396761133603,
+        "attendanceRate": 88.30645161290323,
         "trend": [
           {
             "period": "2022",
@@ -1211,12 +1211,12 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 87.75510204081633,
+            "attendanceRate": 86,
             "meetingsAttended": 43,
-            "meetingsTotal": 49
+            "meetingsTotal": 50
           }
         ],
-        "trendDirection": "stable"
+        "trendDirection": "declining"
       },
       "voting": {
         "totalVotes": 4294,
@@ -1451,11 +1451,11 @@
       "councillor": "Jerry Pribil",
       "slug": "j-pribil",
       "attendance": {
-        "totalMeetings": 258,
-        "present": 249,
+        "totalMeetings": 259,
+        "present": 250,
         "absent": 9,
         "remote": 0,
-        "attendanceRate": 96.51162790697676,
+        "attendanceRate": 96.52509652509652,
         "trend": [
           {
             "period": "2022",
@@ -1483,9 +1483,9 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 94.11764705882352,
-            "meetingsAttended": 32,
-            "meetingsTotal": 34
+            "attendanceRate": 94.28571428571428,
+            "meetingsAttended": 33,
+            "meetingsTotal": 35
           }
         ],
         "trendDirection": "stable"
@@ -1716,11 +1716,11 @@
       "councillor": "Sam Trosow",
       "slug": "s-trosow",
       "attendance": {
-        "totalMeetings": 247,
-        "present": 238,
+        "totalMeetings": 248,
+        "present": 239,
         "absent": 9,
         "remote": 0,
-        "attendanceRate": 96.35627530364373,
+        "attendanceRate": 96.37096774193549,
         "trend": [
           {
             "period": "2022",
@@ -1749,63 +1749,63 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 32,
-            "meetingsTotal": 32
+            "meetingsAttended": 33,
+            "meetingsTotal": 33
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 4113,
-        "yeas": 2996,
-        "nays": 671,
-        "absent": 258,
-        "participationRate": 89.15633357646486,
-        "yeaRate": 81.70166348513771,
-        "contestedDissentRate": 45.803971812940425,
-        "contestedVotes": 1561,
-        "substantiveVotes": 3075,
-        "substantiveYeas": 2051,
-        "substantiveNays": 671,
-        "substantiveParticipationRate": 88.52032520325204,
-        "substantiveYeaRate": 75.34900808229243
+        "totalVotes": 4159,
+        "yeas": 3032,
+        "nays": 672,
+        "absent": 260,
+        "participationRate": 89.05987016109643,
+        "yeaRate": 81.8574514038877,
+        "contestedDissentRate": 45.80934101087652,
+        "contestedVotes": 1563,
+        "substantiveVotes": 3118,
+        "substantiveYeas": 2084,
+        "substantiveNays": 672,
+        "substantiveParticipationRate": 88.38999358563181,
+        "substantiveYeaRate": 75.61683599419449
       },
       "budgetVoting": {
-        "totalBudgetVotes": 465,
-        "budgetYeas": 361,
+        "totalBudgetVotes": 466,
+        "budgetYeas": 362,
         "budgetNays": 94,
         "budgetAbsent": 10
       },
       "topAlignments": [
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 1623,
-          "agreedVotes": 1501,
-          "alignmentRate": 92.483056069008
+          "sharedVotes": 1657,
+          "agreedVotes": 1535,
+          "alignmentRate": 92.63729631864815
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1804,
-          "agreedVotes": 1656,
-          "alignmentRate": 91.7960088691796
+          "sharedVotes": 1838,
+          "agreedVotes": 1690,
+          "alignmentRate": 91.94776931447225
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1541,
-          "agreedVotes": 1384,
-          "alignmentRate": 89.81181051265412
+          "sharedVotes": 1575,
+          "agreedVotes": 1418,
+          "alignmentRate": 90.03174603174602
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1726,
-          "agreedVotes": 1538,
-          "alignmentRate": 89.10776361529548
+          "sharedVotes": 1760,
+          "agreedVotes": 1572,
+          "alignmentRate": 89.31818181818181
         },
         {
           "councillor": "Corrine Rahman",
-          "sharedVotes": 1649,
-          "agreedVotes": 1424,
-          "alignmentRate": 86.35536688902366
+          "sharedVotes": 1683,
+          "agreedVotes": 1458,
+          "alignmentRate": 86.63101604278076
         }
       ],
       "bottomAlignments": [
@@ -1817,9 +1817,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1462,
-          "agreedVotes": 1140,
-          "alignmentRate": 77.97537619699042
+          "sharedVotes": 1496,
+          "agreedVotes": 1174,
+          "alignmentRate": 78.47593582887701
         },
         {
           "councillor": "Steve Hillier",
@@ -1828,19 +1828,28 @@
           "alignmentRate": 80.78242964996568
         },
         {
-          "councillor": "Shawn Lewis",
-          "sharedVotes": 1608,
-          "agreedVotes": 1324,
-          "alignmentRate": 82.33830845771143
-        },
-        {
           "councillor": "Peter Cuddy",
           "sharedVotes": 1667,
           "agreedVotes": 1376,
           "alignmentRate": 82.54349130173965
+        },
+        {
+          "councillor": "Shawn Lewis",
+          "sharedVotes": 1642,
+          "agreedVotes": 1358,
+          "alignmentRate": 82.70401948842874
         }
       ],
       "notableDissents": [
+        {
+          "date": "2026-11-18",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "itemTitle": "Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza",
+          "motionText": "That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;\n\nii) C...",
+          "vote": "nay",
+          "result": "Motion Passed (13 to 2)",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2026-10-14",
           "meetingTitle": "15th Meeting of Council",
@@ -1921,15 +1930,6 @@
           "vote": "nay",
           "result": "Motion Passed (10 to 3)",
           "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-10-14",
-          "meetingTitle": "15th Meeting of Council",
-          "itemTitle": "By-laws",
-          "motionText": "That Second Reading of Bill No. 352, BE APPROVED.",
-          "vote": "nay",
-          "result": "Motion Passed (9 to 4)",
-          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -1942,10 +1942,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1030,
-          "yeas": 687,
-          "nays": 133,
-          "participationRate": 79.6116504854369
+          "totalVotes": 1076,
+          "yeas": 723,
+          "nays": 134,
+          "participationRate": 79.64684014869889
         },
         {
           "committee": "Community and Protective Services Committee",
@@ -1981,11 +1981,11 @@
       "councillor": "Corrine Rahman",
       "slug": "c-rahman",
       "attendance": {
-        "totalMeetings": 250,
-        "present": 249,
+        "totalMeetings": 251,
+        "present": 250,
         "absent": 1,
         "remote": 0,
-        "attendanceRate": 99.6,
+        "attendanceRate": 99.60159362549801,
         "trend": [
           {
             "period": "2022",
@@ -2014,39 +2014,39 @@
           {
             "period": "2026",
             "attendanceRate": 100,
-            "meetingsAttended": 33,
-            "meetingsTotal": 33
+            "meetingsAttended": 34,
+            "meetingsTotal": 34
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 4394,
-        "yeas": 3678,
+        "totalVotes": 4440,
+        "yeas": 3717,
         "nays": 409,
         "absent": 48,
-        "participationRate": 93.01319981793354,
-        "yeaRate": 89.99265965255688,
-        "contestedDissentRate": 16.58446362515413,
-        "contestedVotes": 1622,
-        "substantiveVotes": 3083,
-        "substantiveYeas": 2385,
+        "participationRate": 92.92792792792793,
+        "yeaRate": 90.08725157537567,
+        "contestedDissentRate": 16.564039408866996,
+        "contestedVotes": 1624,
+        "substantiveVotes": 3126,
+        "substantiveYeas": 2421,
         "substantiveNays": 409,
-        "substantiveParticipationRate": 90.6260136230944,
-        "substantiveYeaRate": 85.36148890479599
+        "substantiveParticipationRate": 90.53103007037748,
+        "substantiveYeaRate": 85.54770318021201
       },
       "budgetVoting": {
-        "totalBudgetVotes": 475,
-        "budgetYeas": 375,
+        "totalBudgetVotes": 476,
+        "budgetYeas": 376,
         "budgetNays": 99,
         "budgetAbsent": 1
       },
       "topAlignments": [
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1673,
-          "agreedVotes": 1575,
-          "alignmentRate": 94.14225941422593
+          "sharedVotes": 1709,
+          "agreedVotes": 1611,
+          "alignmentRate": 94.26565242832066
         },
         {
           "councillor": "Jerry Pribil",
@@ -2055,22 +2055,22 @@
           "alignmentRate": 93.59910162829871
         },
         {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1721,
-          "agreedVotes": 1608,
-          "alignmentRate": 93.43404997094711
+          "councillor": "Hadleigh McAlister",
+          "sharedVotes": 1726,
+          "agreedVotes": 1615,
+          "alignmentRate": 93.56894553881807
         },
         {
-          "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1690,
-          "agreedVotes": 1579,
-          "alignmentRate": 93.4319526627219
+          "councillor": "Steve Lehman",
+          "sharedVotes": 1757,
+          "agreedVotes": 1644,
+          "alignmentRate": 93.5685828116107
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1823,
-          "agreedVotes": 1696,
-          "alignmentRate": 93.03346132748217
+          "sharedVotes": 1859,
+          "agreedVotes": 1732,
+          "alignmentRate": 93.16837009144702
         }
       ],
       "bottomAlignments": [
@@ -2082,27 +2082,27 @@
         },
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1649,
-          "agreedVotes": 1424,
-          "alignmentRate": 86.35536688902366
+          "sharedVotes": 1683,
+          "agreedVotes": 1458,
+          "alignmentRate": 86.63101604278076
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1666,
-          "agreedVotes": 1470,
-          "alignmentRate": 88.23529411764706
+          "sharedVotes": 1702,
+          "agreedVotes": 1506,
+          "alignmentRate": 88.48413631022328
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1694,
-          "agreedVotes": 1537,
-          "alignmentRate": 90.73199527744983
+          "sharedVotes": 1730,
+          "agreedVotes": 1573,
+          "alignmentRate": 90.92485549132948
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 1706,
-          "agreedVotes": 1553,
-          "alignmentRate": 91.03165298944901
+          "sharedVotes": 1742,
+          "agreedVotes": 1589,
+          "alignmentRate": 91.21699196326063
         }
       ],
       "notableDissents": [
@@ -2207,10 +2207,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1101,
-          "yeas": 785,
+          "totalVotes": 1147,
+          "yeas": 824,
           "nays": 91,
-          "participationRate": 79.56403269754769
+          "participationRate": 79.77332170880558
         },
         {
           "committee": "Planning and Environment Committee",
@@ -2260,11 +2260,11 @@
       "councillor": "Steve Lehman",
       "slug": "s-lehman",
       "attendance": {
-        "totalMeetings": 429,
-        "present": 414,
+        "totalMeetings": 430,
+        "present": 415,
         "absent": 15,
         "remote": 3,
-        "attendanceRate": 96.5034965034965,
+        "attendanceRate": 96.51162790697676,
         "trend": [
           {
             "period": "2018",
@@ -2316,40 +2316,40 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 96.96969696969697,
-            "meetingsAttended": 32,
-            "meetingsTotal": 33
+            "attendanceRate": 97.05882352941177,
+            "meetingsAttended": 33,
+            "meetingsTotal": 34
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 9211,
-        "yeas": 7893,
+        "totalVotes": 9257,
+        "yeas": 7932,
         "nays": 493,
         "absent": 325,
-        "participationRate": 91.04331777222886,
-        "yeaRate": 94.1211543047937,
-        "contestedDissentRate": 12.17356368019285,
-        "contestedVotes": 2489,
-        "substantiveVotes": 5575,
-        "substantiveYeas": 4433,
+        "participationRate": 91.01220697850275,
+        "yeaRate": 94.14836795252226,
+        "contestedDissentRate": 12.16378964271377,
+        "contestedVotes": 2491,
+        "substantiveVotes": 5618,
+        "substantiveYeas": 4469,
         "substantiveNays": 493,
-        "substantiveParticipationRate": 88.35874439461884,
-        "substantiveYeaRate": 89.99187982135606
+        "substantiveParticipationRate": 88.32324670701317,
+        "substantiveYeaRate": 90.06449012494961
       },
       "budgetVoting": {
-        "totalBudgetVotes": 859,
-        "budgetYeas": 706,
+        "totalBudgetVotes": 860,
+        "budgetYeas": 707,
         "budgetNays": 124,
         "budgetAbsent": 17
       },
       "topAlignments": [
         {
           "councillor": "Shawn Lewis",
-          "sharedVotes": 4153,
-          "agreedVotes": 4022,
-          "alignmentRate": 96.84565374428125
+          "sharedVotes": 4189,
+          "agreedVotes": 4058,
+          "alignmentRate": 96.87276199570303
         },
         {
           "councillor": "Peter Cuddy",
@@ -2359,9 +2359,9 @@
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 3194,
-          "agreedVotes": 3076,
-          "alignmentRate": 96.3055729492799
+          "sharedVotes": 3230,
+          "agreedVotes": 3112,
+          "alignmentRate": 96.3467492260062
         },
         {
           "councillor": "Steve Hillier",
@@ -2379,15 +2379,9 @@
       "bottomAlignments": [
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1504,
-          "agreedVotes": 1248,
-          "alignmentRate": 82.97872340425532
-        },
-        {
-          "councillor": "David Ferreira",
-          "sharedVotes": 1554,
-          "agreedVotes": 1372,
-          "alignmentRate": 88.28828828828829
+          "sharedVotes": 1538,
+          "agreedVotes": 1282,
+          "alignmentRate": 83.35500650195058
         },
         {
           "councillor": "Susan Stevenson",
@@ -2396,16 +2390,22 @@
           "alignmentRate": 88.48297213622291
         },
         {
+          "councillor": "David Ferreira",
+          "sharedVotes": 1590,
+          "agreedVotes": 1408,
+          "alignmentRate": 88.55345911949686
+        },
+        {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1844,
-          "agreedVotes": 1682,
-          "alignmentRate": 91.21475054229936
+          "sharedVotes": 1880,
+          "agreedVotes": 1718,
+          "alignmentRate": 91.38297872340425
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 3596,
-          "agreedVotes": 3295,
-          "alignmentRate": 91.62958843159066
+          "sharedVotes": 3632,
+          "agreedVotes": 3331,
+          "alignmentRate": 91.71255506607929
         }
       ],
       "notableDissents": [
@@ -2517,10 +2517,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2159,
-          "yeas": 1501,
+          "totalVotes": 2205,
+          "yeas": 1540,
           "nays": 124,
-          "participationRate": 75.26632700324224
+          "participationRate": 75.46485260770976
         },
         {
           "committee": "Civic Works Committee",
@@ -2542,11 +2542,11 @@
       "councillor": "Anna Hopkins",
       "slug": "a-hopkins",
       "attendance": {
-        "totalMeetings": 750,
-        "present": 726,
+        "totalMeetings": 751,
+        "present": 727,
         "absent": 24,
         "remote": 1,
-        "attendanceRate": 96.8,
+        "attendanceRate": 96.80426098535287,
         "trend": [
           {
             "period": "2014",
@@ -2622,64 +2622,64 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 96.875,
-            "meetingsAttended": 31,
-            "meetingsTotal": 32
+            "attendanceRate": 96.96969696969697,
+            "meetingsAttended": 32,
+            "meetingsTotal": 33
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 13313,
-        "yeas": 11678,
+        "totalVotes": 13359,
+        "yeas": 11717,
         "nays": 980,
         "absent": 180,
-        "participationRate": 95.07999699541801,
-        "yeaRate": 92.25786064149155,
-        "contestedDissentRate": 26.423231742380676,
-        "contestedVotes": 3478,
-        "substantiveVotes": 8946,
-        "substantiveYeas": 7411,
+        "participationRate": 95.0445392619208,
+        "yeaRate": 92.28164133259826,
+        "contestedDissentRate": 26.408045977011497,
+        "contestedVotes": 3480,
+        "substantiveVotes": 8989,
+        "substantiveYeas": 7447,
         "substantiveNays": 980,
-        "substantiveParticipationRate": 93.79610999329309,
-        "substantiveYeaRate": 88.3208199261113
+        "substantiveParticipationRate": 93.74791411725442,
+        "substantiveYeaRate": 88.37071318381393
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1248,
-        "budgetYeas": 1074,
+        "totalBudgetVotes": 1249,
+        "budgetYeas": 1075,
         "budgetNays": 170,
         "budgetAbsent": 4
       },
       "topAlignments": [
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1803,
-          "agreedVotes": 1709,
-          "alignmentRate": 94.78646699944537
+          "sharedVotes": 1839,
+          "agreedVotes": 1745,
+          "alignmentRate": 94.88852637302882
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1665,
-          "agreedVotes": 1570,
-          "alignmentRate": 94.29429429429429
+          "sharedVotes": 1701,
+          "agreedVotes": 1606,
+          "alignmentRate": 94.41504997060552
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 5301,
-          "agreedVotes": 4966,
-          "alignmentRate": 93.68043765327296
+          "sharedVotes": 5337,
+          "agreedVotes": 5002,
+          "alignmentRate": 93.72306539254262
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1542,
-          "agreedVotes": 1438,
-          "alignmentRate": 93.25551232166018
+          "sharedVotes": 1578,
+          "agreedVotes": 1474,
+          "alignmentRate": 93.40937896070976
         },
         {
           "councillor": "Elizabeth Peloza",
-          "sharedVotes": 3117,
-          "agreedVotes": 2905,
-          "alignmentRate": 93.19858838626884
+          "sharedVotes": 3153,
+          "agreedVotes": 2940,
+          "alignmentRate": 93.24452901998097
         }
       ],
       "bottomAlignments": [
@@ -2691,9 +2691,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 3065,
-          "agreedVotes": 2634,
-          "alignmentRate": 85.93800978792822
+          "sharedVotes": 3101,
+          "agreedVotes": 2670,
+          "alignmentRate": 86.10125765881975
         },
         {
           "councillor": "Peter Cuddy",
@@ -2816,10 +2816,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2922,
-          "yeas": 2215,
+          "totalVotes": 2968,
+          "yeas": 2254,
           "nays": 219,
-          "participationRate": 83.29911019849419
+          "participationRate": 83.32210242587601
         },
         {
           "committee": "Planning and Environment Committee",
@@ -2869,11 +2869,11 @@
       "councillor": "Paul Van Meerbergen",
       "slug": "p-van-meerbergen",
       "attendance": {
-        "totalMeetings": 605,
-        "present": 577,
+        "totalMeetings": 606,
+        "present": 578,
         "absent": 28,
         "remote": 6,
-        "attendanceRate": 95.37190082644628,
+        "attendanceRate": 95.37953795379538,
         "trend": [
           {
             "period": "2011",
@@ -2949,40 +2949,40 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 96.96969696969697,
-            "meetingsAttended": 32,
-            "meetingsTotal": 33
+            "attendanceRate": 97.05882352941177,
+            "meetingsAttended": 33,
+            "meetingsTotal": 34
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 10012,
-        "yeas": 7769,
+        "totalVotes": 10058,
+        "yeas": 7808,
         "nays": 1076,
         "absent": 641,
-        "participationRate": 88.34398721534158,
-        "yeaRate": 87.83493499152063,
-        "contestedDissentRate": 32.92641573414717,
-        "contestedVotes": 2949,
-        "substantiveVotes": 7563,
-        "substantiveYeas": 5564,
+        "participationRate": 88.32769934380592,
+        "yeaRate": 87.88833858622243,
+        "contestedDissentRate": 32.90410030498136,
+        "contestedVotes": 2951,
+        "substantiveVotes": 7606,
+        "substantiveYeas": 5600,
         "substantiveNays": 1076,
-        "substantiveParticipationRate": 87.79584820838292,
-        "substantiveYeaRate": 83.79518072289157
+        "substantiveParticipationRate": 87.77281093873258,
+        "substantiveYeaRate": 83.88256440982624
       },
       "budgetVoting": {
-        "totalBudgetVotes": 1279,
-        "budgetYeas": 956,
+        "totalBudgetVotes": 1280,
+        "budgetYeas": 957,
         "budgetNays": 261,
         "budgetAbsent": 39
       },
       "topAlignments": [
         {
           "councillor": "Steve Lehman",
-          "sharedVotes": 3028,
-          "agreedVotes": 2797,
-          "alignmentRate": 92.37120211360634
+          "sharedVotes": 3064,
+          "agreedVotes": 2833,
+          "alignmentRate": 92.46083550913838
         },
         {
           "councillor": "Peter Cuddy",
@@ -2998,47 +2998,47 @@
         },
         {
           "councillor": "Shawn Lewis",
-          "sharedVotes": 3055,
-          "agreedVotes": 2789,
-          "alignmentRate": 91.29296235679215
+          "sharedVotes": 3091,
+          "agreedVotes": 2825,
+          "alignmentRate": 91.39437075380135
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 3128,
-          "agreedVotes": 2846,
-          "alignmentRate": 90.98465473145781
+          "sharedVotes": 3164,
+          "agreedVotes": 2882,
+          "alignmentRate": 91.08723135271808
         }
       ],
       "bottomAlignments": [
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1462,
-          "agreedVotes": 1140,
-          "alignmentRate": 77.97537619699042
+          "sharedVotes": 1496,
+          "agreedVotes": 1174,
+          "alignmentRate": 78.47593582887701
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1441,
-          "agreedVotes": 1195,
-          "alignmentRate": 82.92852185981957
+          "sharedVotes": 1477,
+          "agreedVotes": 1231,
+          "alignmentRate": 83.34461746784022
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1557,
-          "agreedVotes": 1323,
-          "alignmentRate": 84.97109826589595
+          "sharedVotes": 1593,
+          "agreedVotes": 1359,
+          "alignmentRate": 85.31073446327684
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 3065,
-          "agreedVotes": 2634,
-          "alignmentRate": 85.93800978792822
+          "sharedVotes": 3101,
+          "agreedVotes": 2670,
+          "alignmentRate": 86.10125765881975
         },
         {
           "councillor": "Elizabeth Peloza",
-          "sharedVotes": 3158,
-          "agreedVotes": 2786,
-          "alignmentRate": 88.22039265357822
+          "sharedVotes": 3194,
+          "agreedVotes": 2821,
+          "alignmentRate": 88.32185347526612
         }
       ],
       "notableDissents": [
@@ -3143,10 +3143,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2462,
-          "yeas": 1621,
+          "totalVotes": 2508,
+          "yeas": 1660,
           "nays": 241,
-          "participationRate": 75.62956945572705
+          "participationRate": 75.79744816586921
         },
         {
           "committee": "Civic Works Committee",
@@ -3182,11 +3182,11 @@
       "councillor": "Skylar Franke",
       "slug": "s-franke",
       "attendance": {
-        "totalMeetings": 234,
-        "present": 225,
+        "totalMeetings": 235,
+        "present": 226,
         "absent": 9,
         "remote": 0,
-        "attendanceRate": 96.15384615384616,
+        "attendanceRate": 96.17021276595744,
         "trend": [
           {
             "period": "2022",
@@ -3214,64 +3214,64 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 93.93939393939394,
-            "meetingsAttended": 31,
-            "meetingsTotal": 33
+            "attendanceRate": 94.11764705882352,
+            "meetingsAttended": 32,
+            "meetingsTotal": 34
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 4570,
-        "yeas": 3795,
+        "totalVotes": 4616,
+        "yeas": 3834,
         "nays": 359,
         "absent": 157,
-        "participationRate": 90.89715536105032,
-        "yeaRate": 91.35772749157438,
-        "contestedDissentRate": 23.33544705136335,
-        "contestedVotes": 1577,
-        "substantiveVotes": 3026,
-        "substantiveYeas": 2315,
+        "participationRate": 90.83622183708839,
+        "yeaRate": 91.4381111376103,
+        "contestedDissentRate": 23.30588980367321,
+        "contestedVotes": 1579,
+        "substantiveVotes": 3069,
+        "substantiveYeas": 2351,
         "substantiveNays": 359,
-        "substantiveParticipationRate": 88.36748182419035,
-        "substantiveYeaRate": 86.57442034405385
+        "substantiveParticipationRate": 88.30237862495926,
+        "substantiveYeaRate": 86.75276752767527
       },
       "budgetVoting": {
-        "totalBudgetVotes": 461,
-        "budgetYeas": 369,
+        "totalBudgetVotes": 462,
+        "budgetYeas": 370,
         "budgetNays": 76,
         "budgetAbsent": 16
       },
       "topAlignments": [
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1582,
-          "agreedVotes": 1502,
-          "alignmentRate": 94.94310998735777
+          "sharedVotes": 1618,
+          "agreedVotes": 1538,
+          "alignmentRate": 95.05562422744129
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 1803,
-          "agreedVotes": 1709,
-          "alignmentRate": 94.78646699944537
+          "sharedVotes": 1839,
+          "agreedVotes": 1745,
+          "alignmentRate": 94.88852637302882
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1592,
-          "agreedVotes": 1488,
-          "alignmentRate": 93.46733668341709
+          "sharedVotes": 1628,
+          "agreedVotes": 1524,
+          "alignmentRate": 93.61179361179362
         },
         {
           "councillor": "Corrine Rahman",
-          "sharedVotes": 1823,
-          "agreedVotes": 1696,
-          "alignmentRate": 93.03346132748217
+          "sharedVotes": 1859,
+          "agreedVotes": 1732,
+          "alignmentRate": 93.16837009144702
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1625,
-          "agreedVotes": 1506,
-          "alignmentRate": 92.67692307692307
+          "sharedVotes": 1661,
+          "agreedVotes": 1542,
+          "alignmentRate": 92.83564118001205
         }
       ],
       "bottomAlignments": [
@@ -3283,9 +3283,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1557,
-          "agreedVotes": 1323,
-          "alignmentRate": 84.97109826589595
+          "sharedVotes": 1593,
+          "agreedVotes": 1359,
+          "alignmentRate": 85.31073446327684
         },
         {
           "councillor": "Steve Hillier",
@@ -3301,9 +3301,9 @@
         },
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1541,
-          "agreedVotes": 1384,
-          "alignmentRate": 89.81181051265412
+          "sharedVotes": 1575,
+          "agreedVotes": 1418,
+          "alignmentRate": 90.03174603174602
         }
       ],
       "notableDissents": [
@@ -3408,10 +3408,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1100,
-          "yeas": 745,
+          "totalVotes": 1146,
+          "yeas": 784,
           "nays": 75,
-          "participationRate": 74.54545454545455
+          "participationRate": 74.95636998254798
         },
         {
           "committee": "Planning and Environment Committee",
@@ -3447,11 +3447,11 @@
       "councillor": "Elizabeth Peloza",
       "slug": "e-peloza",
       "attendance": {
-        "totalMeetings": 457,
-        "present": 448,
+        "totalMeetings": 459,
+        "present": 450,
         "absent": 9,
         "remote": 1,
-        "attendanceRate": 98.03063457330416,
+        "attendanceRate": 98.0392156862745,
         "trend": [
           {
             "period": "2018",
@@ -3503,64 +3503,64 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 94.28571428571428,
-            "meetingsAttended": 33,
-            "meetingsTotal": 35
+            "attendanceRate": 94.5945945945946,
+            "meetingsAttended": 35,
+            "meetingsTotal": 37
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 8054,
-        "yeas": 6394,
-        "nays": 642,
+        "totalVotes": 8100,
+        "yeas": 6431,
+        "nays": 644,
         "absent": 480,
-        "participationRate": 87.36031785448225,
-        "yeaRate": 90.87549744172826,
-        "contestedDissentRate": 20.22279348757498,
-        "contestedVotes": 2334,
-        "substantiveVotes": 5561,
-        "substantiveYeas": 4020,
-        "substantiveNays": 642,
-        "substantiveParticipationRate": 83.83384283402265,
-        "substantiveYeaRate": 86.22908622908622
+        "participationRate": 87.34567901234568,
+        "yeaRate": 90.89752650176679,
+        "contestedDissentRate": 20.291095890410958,
+        "contestedVotes": 2336,
+        "substantiveVotes": 5604,
+        "substantiveYeas": 4054,
+        "substantiveNays": 644,
+        "substantiveParticipationRate": 83.83297644539614,
+        "substantiveYeaRate": 86.29203916560239
       },
       "budgetVoting": {
-        "totalBudgetVotes": 881,
-        "budgetYeas": 696,
+        "totalBudgetVotes": 882,
+        "budgetYeas": 697,
         "budgetNays": 138,
         "budgetAbsent": 45
       },
       "topAlignments": [
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 3224,
-          "agreedVotes": 3034,
-          "alignmentRate": 94.10669975186104
+          "sharedVotes": 3260,
+          "agreedVotes": 3069,
+          "alignmentRate": 94.14110429447852
         },
         {
           "councillor": "Shawn Lewis",
-          "sharedVotes": 3472,
-          "agreedVotes": 3258,
-          "alignmentRate": 93.83640552995391
+          "sharedVotes": 3508,
+          "agreedVotes": 3293,
+          "alignmentRate": 93.87115165336374
         },
         {
           "councillor": "Steve Lehman",
-          "sharedVotes": 3345,
-          "agreedVotes": 3118,
-          "alignmentRate": 93.21375186846039
+          "sharedVotes": 3381,
+          "agreedVotes": 3153,
+          "alignmentRate": 93.2564330079858
         },
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 3117,
-          "agreedVotes": 2905,
-          "alignmentRate": 93.19858838626884
+          "sharedVotes": 3153,
+          "agreedVotes": 2940,
+          "alignmentRate": 93.24452901998097
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1515,
-          "agreedVotes": 1404,
-          "alignmentRate": 92.67326732673268
+          "sharedVotes": 1551,
+          "agreedVotes": 1439,
+          "alignmentRate": 92.77885235332045
         }
       ],
       "bottomAlignments": [
@@ -3572,30 +3572,48 @@
         },
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1470,
-          "agreedVotes": 1259,
-          "alignmentRate": 85.64625850340136
+          "sharedVotes": 1504,
+          "agreedVotes": 1292,
+          "alignmentRate": 85.90425531914893
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 3158,
-          "agreedVotes": 2786,
-          "alignmentRate": 88.22039265357822
+          "sharedVotes": 3194,
+          "agreedVotes": 2821,
+          "alignmentRate": 88.32185347526612
         },
         {
           "councillor": "David Ferreira",
-          "sharedVotes": 1572,
-          "agreedVotes": 1418,
-          "alignmentRate": 90.20356234096693
+          "sharedVotes": 1608,
+          "agreedVotes": 1453,
+          "alignmentRate": 90.36069651741293
         },
         {
           "councillor": "Corrine Rahman",
-          "sharedVotes": 1549,
-          "agreedVotes": 1411,
-          "alignmentRate": 91.09102646868948
+          "sharedVotes": 1585,
+          "agreedVotes": 1446,
+          "alignmentRate": 91.23028391167193
         }
       ],
       "notableDissents": [
+        {
+          "date": "2026-11-18",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "itemTitle": "Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza",
+          "motionText": "That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;\n\nii) C...",
+          "vote": "nay",
+          "result": "Motion Passed (13 to 2)",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+        },
+        {
+          "date": "2026-11-18",
+          "meetingTitle": "1st Meeting of the Strategic Priorities and Policy Committee",
+          "itemTitle": "Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)",
+          "motionText": "​That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM. ​",
+          "vote": "nay",
+          "result": "Motion Passed (14 to 1)",
+          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English"
+        },
         {
           "date": "2026-10-14",
           "meetingTitle": "15th Meeting of Council",
@@ -3667,24 +3685,6 @@
           "vote": "nay",
           "result": "Motion Passed (9 to 6)",
           "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-08-25",
-          "meetingTitle": "13th Meeting of Council",
-          "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-          "motionText": "That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...",
-          "vote": "yea",
-          "result": "Motion Failed (7 to 8)",
-          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
-        },
-        {
-          "date": "2026-08-25",
-          "meetingTitle": "13th Meeting of Council",
-          "itemTitle": "(2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis",
-          "motionText": "That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.",
-          "vote": "nay",
-          "result": "Motion Passed (11 to 4)",
-          "meetingUrl": "https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English"
         }
       ],
       "committeeActivity": [
@@ -3697,10 +3697,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 2204,
-          "yeas": 1432,
-          "nays": 159,
-          "participationRate": 72.1869328493648
+          "totalVotes": 2250,
+          "yeas": 1469,
+          "nays": 161,
+          "participationRate": 72.44444444444444
         },
         {
           "committee": "Planning and Environment Committee",
@@ -3750,11 +3750,11 @@
       "councillor": "David Ferreira",
       "slug": "d-ferreira",
       "attendance": {
-        "totalMeetings": 247,
-        "present": 240,
+        "totalMeetings": 248,
+        "present": 241,
         "absent": 7,
         "remote": 1,
-        "attendanceRate": 97.16599190283401,
+        "attendanceRate": 97.17741935483872,
         "trend": [
           {
             "period": "2022",
@@ -3782,64 +3782,64 @@
           },
           {
             "period": "2026",
-            "attendanceRate": 96.875,
-            "meetingsAttended": 31,
-            "meetingsTotal": 32
+            "attendanceRate": 96.96969696969697,
+            "meetingsAttended": 32,
+            "meetingsTotal": 33
           }
         ],
         "trendDirection": "stable"
       },
       "voting": {
-        "totalVotes": 4169,
-        "yeas": 3295,
+        "totalVotes": 4215,
+        "yeas": 3334,
         "nays": 439,
         "absent": 182,
-        "participationRate": 89.56584312784841,
-        "yeaRate": 88.243170862346,
-        "contestedDissentRate": 27.55102040816326,
-        "contestedVotes": 1568,
-        "substantiveVotes": 3141,
-        "substantiveYeas": 2324,
+        "participationRate": 89.51364175563464,
+        "yeaRate": 88.36469652796184,
+        "contestedDissentRate": 27.515923566878982,
+        "contestedVotes": 1570,
+        "substantiveVotes": 3184,
+        "substantiveYeas": 2360,
         "substantiveNays": 439,
-        "substantiveParticipationRate": 87.96561604584528,
-        "substantiveYeaRate": 84.11147303655447
+        "substantiveParticipationRate": 87.90829145728644,
+        "substantiveYeaRate": 84.3158270811004
       },
       "budgetVoting": {
-        "totalBudgetVotes": 467,
-        "budgetYeas": 367,
+        "totalBudgetVotes": 468,
+        "budgetYeas": 368,
         "budgetNays": 88,
         "budgetAbsent": 12
       },
       "topAlignments": [
         {
           "councillor": "Anna Hopkins",
-          "sharedVotes": 1665,
-          "agreedVotes": 1570,
-          "alignmentRate": 94.29429429429429
+          "sharedVotes": 1701,
+          "agreedVotes": 1606,
+          "alignmentRate": 94.41504997060552
         },
         {
           "councillor": "Skylar Franke",
-          "sharedVotes": 1592,
-          "agreedVotes": 1488,
-          "alignmentRate": 93.46733668341709
+          "sharedVotes": 1628,
+          "agreedVotes": 1524,
+          "alignmentRate": 93.61179361179362
         },
         {
           "councillor": "Hadleigh McAlister",
-          "sharedVotes": 1703,
-          "agreedVotes": 1580,
-          "alignmentRate": 92.77745155607751
+          "sharedVotes": 1739,
+          "agreedVotes": 1616,
+          "alignmentRate": 92.9269695227142
         },
         {
           "councillor": "Sam Trosow",
-          "sharedVotes": 1804,
-          "agreedVotes": 1656,
-          "alignmentRate": 91.7960088691796
+          "sharedVotes": 1838,
+          "agreedVotes": 1690,
+          "alignmentRate": 91.94776931447225
         },
         {
           "councillor": "Josh Morgan",
-          "sharedVotes": 1646,
-          "agreedVotes": 1498,
-          "alignmentRate": 91.00850546780073
+          "sharedVotes": 1682,
+          "agreedVotes": 1534,
+          "alignmentRate": 91.20095124851368
         }
       ],
       "bottomAlignments": [
@@ -3851,9 +3851,9 @@
         },
         {
           "councillor": "Paul Van Meerbergen",
-          "sharedVotes": 1441,
-          "agreedVotes": 1195,
-          "alignmentRate": 82.92852185981957
+          "sharedVotes": 1477,
+          "agreedVotes": 1231,
+          "alignmentRate": 83.34461746784022
         },
         {
           "councillor": "Steve Hillier",
@@ -3862,16 +3862,16 @@
           "alignmentRate": 86.0650298606503
         },
         {
-          "councillor": "Steve Lehman",
-          "sharedVotes": 1554,
-          "agreedVotes": 1372,
-          "alignmentRate": 88.28828828828829
-        },
-        {
           "councillor": "Peter Cuddy",
           "sharedVotes": 1647,
           "agreedVotes": 1456,
           "alignmentRate": 88.40315725561626
+        },
+        {
+          "councillor": "Steve Lehman",
+          "sharedVotes": 1590,
+          "agreedVotes": 1408,
+          "alignmentRate": 88.55345911949686
         }
       ],
       "notableDissents": [
@@ -3976,10 +3976,10 @@
         },
         {
           "committee": "Strategic Priorities and Policy Committee",
-          "totalVotes": 1093,
-          "yeas": 729,
+          "totalVotes": 1139,
+          "yeas": 768,
           "nays": 91,
-          "participationRate": 75.02287282708143
+          "participationRate": 75.41703248463566
         },
         {
           "committee": "Community and Protective Services Committee",
@@ -9815,51 +9815,51 @@
   },
   "alignmentMatrix": {
     "j-morgan": {
-      "h-mcalister": 94.74984558369364,
-      "s-lewis": 96.20637329286798,
+      "h-mcalister": 94.86404833836858,
+      "s-lewis": 96.24737316121285,
       "p-cuddy": 95.2465834818776,
       "s-stevenson": 86.28930817610063,
       "j-pribil": 95.04477611940298,
-      "s-trosow": 85.08771929824562,
-      "c-rahman": 94.14225941422593,
-      "s-lehman": 96.3055729492799,
-      "a-hopkins": 93.68043765327296,
-      "p-van-meerbergen": 90.98465473145781,
-      "s-franke": 92.67692307692307,
-      "e-peloza": 94.10669975186104,
-      "d-ferreira": 91.00850546780073,
+      "s-trosow": 85.39877300613496,
+      "c-rahman": 94.26565242832066,
+      "s-lehman": 96.3467492260062,
+      "a-hopkins": 93.72306539254262,
+      "p-van-meerbergen": 91.08723135271808,
+      "s-franke": 92.83564118001205,
+      "e-peloza": 94.14110429447852,
+      "d-ferreira": 91.20095124851368,
       "s-hillier": 94.2367601246106
     },
     "h-mcalister": {
-      "j-morgan": 94.74984558369364,
-      "s-lewis": 93.29993738259236,
+      "j-morgan": 94.86404833836858,
+      "s-lewis": 93.4476423759951,
       "p-cuddy": 93.30227140361094,
       "s-stevenson": 84.40366972477065,
       "j-pribil": 93.57142857142857,
-      "s-trosow": 89.10776361529548,
-      "c-rahman": 93.4319526627219,
-      "s-lehman": 93.54413702239789,
-      "a-hopkins": 93.25551232166018,
-      "p-van-meerbergen": 88.27586206896552,
-      "s-franke": 94.94310998735777,
-      "e-peloza": 92.67326732673268,
-      "d-ferreira": 92.77745155607751,
+      "s-trosow": 89.31818181818181,
+      "c-rahman": 93.56894553881807,
+      "s-lehman": 93.69369369369369,
+      "a-hopkins": 93.40937896070976,
+      "p-van-meerbergen": 88.5346413243409,
+      "s-franke": 95.05562422744129,
+      "e-peloza": 92.77885235332045,
+      "d-ferreira": 92.9269695227142,
       "s-hillier": 90.93387866394002
     },
     "s-lewis": {
-      "j-morgan": 96.20637329286798,
-      "h-mcalister": 93.29993738259236,
+      "j-morgan": 96.24737316121285,
+      "h-mcalister": 93.4476423759951,
       "p-cuddy": 97.44272775705913,
       "s-stevenson": 88.07121661721068,
       "j-pribil": 94.26280074028378,
-      "s-trosow": 82.33830845771143,
-      "c-rahman": 92.87317620650954,
-      "s-lehman": 96.84565374428125,
-      "a-hopkins": 91.12328767123287,
-      "p-van-meerbergen": 91.29296235679215,
-      "s-franke": 91.29511677282377,
-      "e-peloza": 93.83640552995391,
-      "d-ferreira": 88.88888888888889,
+      "s-trosow": 82.70401948842874,
+      "c-rahman": 93.01430143014301,
+      "s-lehman": 96.87276199570303,
+      "a-hopkins": 91.20998372219208,
+      "p-van-meerbergen": 91.39437075380135,
+      "s-franke": 91.45833333333333,
+      "e-peloza": 93.87115165336374,
+      "d-ferreira": 89.12404467960023,
       "s-hillier": 95.88811857518527
     },
     "p-cuddy": {
@@ -9911,131 +9911,131 @@
       "s-hillier": 92.89439374185136
     },
     "s-trosow": {
-      "j-morgan": 85.08771929824562,
-      "h-mcalister": 89.10776361529548,
-      "s-lewis": 82.33830845771143,
+      "j-morgan": 85.39877300613496,
+      "h-mcalister": 89.31818181818181,
+      "s-lewis": 82.70401948842874,
       "p-cuddy": 82.54349130173965,
       "s-stevenson": 76.62251655629139,
       "j-pribil": 85.09316770186336,
-      "c-rahman": 86.35536688902366,
-      "s-lehman": 82.97872340425532,
-      "a-hopkins": 92.483056069008,
-      "p-van-meerbergen": 77.97537619699042,
-      "s-franke": 89.81181051265412,
-      "e-peloza": 85.64625850340136,
-      "d-ferreira": 91.7960088691796,
+      "c-rahman": 86.63101604278076,
+      "s-lehman": 83.35500650195058,
+      "a-hopkins": 92.63729631864815,
+      "p-van-meerbergen": 78.47593582887701,
+      "s-franke": 90.03174603174602,
+      "e-peloza": 85.90425531914893,
+      "d-ferreira": 91.94776931447225,
       "s-hillier": 80.78242964996568
     },
     "c-rahman": {
-      "j-morgan": 94.14225941422593,
-      "h-mcalister": 93.4319526627219,
-      "s-lewis": 92.87317620650954,
+      "j-morgan": 94.26565242832066,
+      "h-mcalister": 93.56894553881807,
+      "s-lewis": 93.01430143014301,
       "p-cuddy": 92.76693455797933,
       "s-stevenson": 85.9987929993965,
       "j-pribil": 93.59910162829871,
-      "s-trosow": 86.35536688902366,
-      "s-lehman": 93.43404997094711,
-      "a-hopkins": 91.03165298944901,
-      "p-van-meerbergen": 88.23529411764706,
-      "s-franke": 93.03346132748217,
-      "e-peloza": 91.09102646868948,
-      "d-ferreira": 90.73199527744983,
+      "s-trosow": 86.63101604278076,
+      "s-lehman": 93.5685828116107,
+      "a-hopkins": 91.21699196326063,
+      "p-van-meerbergen": 88.48413631022328,
+      "s-franke": 93.16837009144702,
+      "e-peloza": 91.23028391167193,
+      "d-ferreira": 90.92485549132948,
       "s-hillier": 92.41622574955908
     },
     "s-lehman": {
-      "j-morgan": 96.3055729492799,
-      "h-mcalister": 93.54413702239789,
-      "s-lewis": 96.84565374428125,
+      "j-morgan": 96.3467492260062,
+      "h-mcalister": 93.69369369369369,
+      "s-lewis": 96.87276199570303,
       "p-cuddy": 96.40021175224986,
       "s-stevenson": 88.48297213622291,
       "j-pribil": 95.58080808080808,
-      "s-trosow": 82.97872340425532,
-      "c-rahman": 93.43404997094711,
-      "a-hopkins": 91.62958843159066,
-      "p-van-meerbergen": 92.37120211360634,
-      "s-franke": 91.21475054229936,
-      "e-peloza": 93.21375186846039,
-      "d-ferreira": 88.28828828828829,
+      "s-trosow": 83.35500650195058,
+      "c-rahman": 93.5685828116107,
+      "a-hopkins": 91.71255506607929,
+      "p-van-meerbergen": 92.46083550913838,
+      "s-franke": 91.38297872340425,
+      "e-peloza": 93.2564330079858,
+      "d-ferreira": 88.55345911949686,
       "s-hillier": 96.28681177976952
     },
     "a-hopkins": {
-      "j-morgan": 93.68043765327296,
-      "h-mcalister": 93.25551232166018,
-      "s-lewis": 91.12328767123287,
+      "j-morgan": 93.72306539254262,
+      "h-mcalister": 93.40937896070976,
+      "s-lewis": 91.20998372219208,
       "p-cuddy": 88.00497203231821,
       "s-stevenson": 80.10610079575596,
       "j-pribil": 90.5875641756988,
-      "s-trosow": 92.483056069008,
-      "c-rahman": 91.03165298944901,
-      "s-lehman": 91.62958843159066,
-      "p-van-meerbergen": 85.93800978792822,
-      "s-franke": 94.78646699944537,
-      "e-peloza": 93.19858838626884,
-      "d-ferreira": 94.29429429429429,
+      "s-trosow": 92.63729631864815,
+      "c-rahman": 91.21699196326063,
+      "s-lehman": 91.71255506607929,
+      "p-van-meerbergen": 86.10125765881975,
+      "s-franke": 94.88852637302882,
+      "e-peloza": 93.24452901998097,
+      "d-ferreira": 94.41504997060552,
       "s-hillier": 90.10770975056688
     },
     "p-van-meerbergen": {
-      "j-morgan": 90.98465473145781,
-      "h-mcalister": 88.27586206896552,
-      "s-lewis": 91.29296235679215,
+      "j-morgan": 91.08723135271808,
+      "h-mcalister": 88.5346413243409,
+      "s-lewis": 91.39437075380135,
       "p-cuddy": 92.32221522970421,
       "s-stevenson": 89.00804289544236,
       "j-pribil": 90.03931847968545,
-      "s-trosow": 77.97537619699042,
-      "c-rahman": 88.23529411764706,
-      "s-lehman": 92.37120211360634,
-      "a-hopkins": 85.93800978792822,
-      "s-franke": 84.97109826589595,
-      "e-peloza": 88.22039265357822,
-      "d-ferreira": 82.92852185981957,
+      "s-trosow": 78.47593582887701,
+      "c-rahman": 88.48413631022328,
+      "s-lehman": 92.46083550913838,
+      "a-hopkins": 86.10125765881975,
+      "s-franke": 85.31073446327684,
+      "e-peloza": 88.32185347526612,
+      "d-ferreira": 83.34461746784022,
       "s-hillier": 92.1765295887663
     },
     "s-franke": {
-      "j-morgan": 92.67692307692307,
-      "h-mcalister": 94.94310998735777,
-      "s-lewis": 91.29511677282377,
+      "j-morgan": 92.83564118001205,
+      "h-mcalister": 95.05562422744129,
+      "s-lewis": 91.45833333333333,
       "p-cuddy": 89.78562421185372,
       "s-stevenson": 81.06206014075495,
       "j-pribil": 91.5576694411415,
-      "s-trosow": 89.81181051265412,
-      "c-rahman": 93.03346132748217,
-      "s-lehman": 91.21475054229936,
-      "a-hopkins": 94.78646699944537,
-      "p-van-meerbergen": 84.97109826589595,
-      "e-peloza": 92.40080699394755,
-      "d-ferreira": 93.46733668341709,
+      "s-trosow": 90.03174603174602,
+      "c-rahman": 93.16837009144702,
+      "s-lehman": 91.38297872340425,
+      "a-hopkins": 94.88852637302882,
+      "p-van-meerbergen": 85.31073446327684,
+      "e-peloza": 92.51477347340776,
+      "d-ferreira": 93.61179361179362,
       "s-hillier": 89.42731277533039
     },
     "e-peloza": {
-      "j-morgan": 94.10669975186104,
-      "h-mcalister": 92.67326732673268,
-      "s-lewis": 93.83640552995391,
+      "j-morgan": 94.14110429447852,
+      "h-mcalister": 92.77885235332045,
+      "s-lewis": 93.87115165336374,
       "p-cuddy": 92.08459214501511,
       "s-stevenson": 83.24396782841823,
       "j-pribil": 91.51061173533084,
-      "s-trosow": 85.64625850340136,
-      "c-rahman": 91.09102646868948,
-      "s-lehman": 93.21375186846039,
-      "a-hopkins": 93.19858838626884,
-      "p-van-meerbergen": 88.22039265357822,
-      "s-franke": 92.40080699394755,
-      "d-ferreira": 90.20356234096693,
+      "s-trosow": 85.90425531914893,
+      "c-rahman": 91.23028391167193,
+      "s-lehman": 93.2564330079858,
+      "a-hopkins": 93.24452901998097,
+      "p-van-meerbergen": 88.32185347526612,
+      "s-franke": 92.51477347340776,
+      "d-ferreira": 90.36069651741293,
       "s-hillier": 92.54331683168317
     },
     "d-ferreira": {
-      "j-morgan": 91.00850546780073,
-      "h-mcalister": 92.77745155607751,
-      "s-lewis": 88.88888888888889,
+      "j-morgan": 91.20095124851368,
+      "h-mcalister": 92.9269695227142,
+      "s-lewis": 89.12404467960023,
       "p-cuddy": 88.40315725561626,
       "s-stevenson": 81.19180633147114,
       "j-pribil": 90.23872679045093,
-      "s-trosow": 91.7960088691796,
-      "c-rahman": 90.73199527744983,
-      "s-lehman": 88.28828828828829,
-      "a-hopkins": 94.29429429429429,
-      "p-van-meerbergen": 82.92852185981957,
-      "s-franke": 93.46733668341709,
-      "e-peloza": 90.20356234096693,
+      "s-trosow": 91.94776931447225,
+      "c-rahman": 90.92485549132948,
+      "s-lehman": 88.55345911949686,
+      "a-hopkins": 94.41504997060552,
+      "p-van-meerbergen": 83.34461746784022,
+      "s-franke": 93.61179361179362,
+      "e-peloza": 90.36069651741293,
       "s-hillier": 86.0650298606503
     },
     "s-hillier": {
