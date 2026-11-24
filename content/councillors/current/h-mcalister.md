@@ -2,21 +2,21 @@
 title: "Hadleigh McAlister"
 type: councillor
 slug: "h-mcalister"
-meetingCount: 242
+meetingCount: 243
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4156
-votesYea: 3317
+totalVotes: 4202
+votesYea: 3356
 votesNay: 291
 votesAbsent: 305
 votesRecused: 7
 votesAbstained: 0
-votesOther: 236
+votesOther: 243
 attendanceRate: 94.8
 participationRate: 86.8
-yeaRate: 91.9
+yeaRate: 92.0
 contestedDissentRate: 13.7
-contestedVotes: 1525
+contestedVotes: 1527
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,156 |
-| Voted Yea | 3,317 (79.8%) |
-| Voted Nay | 291 (7.0%) |
+| Total Votes | 4,202 |
+| Voted Yea | 3,356 (79.9%) |
+| Voted Nay | 291 (6.9%) |
 | Absent | 305 (7.3%) |
 | Recused (conflict of interest) | 7 (0.2%) |
 | Abstained | 0 (0.0%) |
-| Other/Unrecorded | 236 (5.7%) |
+| Other/Unrecorded | 243 (5.8%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,094 |
-| Voted Yea | 2,327 (88.9%) |
-| Voted Nay | 291 (11.1%) |
+| Substantive Votes | 3,137 |
+| Voted Yea | 2,363 (89.0%) |
+| Voted Nay | 291 (11.0%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 13.7%
-- **Contested Votes**: 1,525
+- **Contested Votes**: 1,527
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 467 |
-| Voted Yea | 367 (85.3%) |
-| Voted Nay | 63 (14.7%) |
+| Budget Votes | 468 |
+| Voted Yea | 368 (85.4%) |
+| Voted Nay | 63 (14.6%) |
 | Absent | 37 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 94.8%
-- **Meetings Attended**: 237 of 250
+- **Meetings Attended**: 238 of 251
 - **Meetings Missed**: 13
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 90.9% (70/77 meetings)
   - 2024: 93.4% (71/76 meetings)
   - 2025: 98.2% (54/55 meetings)
-  - 2026: 100.0% (33/33 meetings)
+  - 2026: 100.0% (34/34 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.9%)
-- Josh Morgan (94.7%)
-- Jerry Pribil (93.6%)
+- Skylar Franke (95.1%)
+- Josh Morgan (94.9%)
+- Steve Lehman (93.7%)
 
 **Least aligned with:**
 - Susan Stevenson (84.4%)
-- Paul Van Meerbergen (88.3%)
-- Sam Trosow (89.1%)
+- Paul Van Meerbergen (88.5%)
+- Sam Trosow (89.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,229 | 1,877 | 149 | 90.9% |
-| Strategic Priorities and Policy Committee | 1,101 | 778 | 71 | 77.1% |
+| Strategic Priorities and Policy Committee | 1,147 | 817 | 71 | 77.4% |
 | Community and Protective Services Committee | 266 | 228 | 14 | 91.0% |
 | Budget Committee | 189 | 135 | 39 | 92.1% |
 | Corporate Services Committee | 173 | 130 | 1 | 75.7% |
@@ -206,16 +206,17 @@ Voted **Nay** - Motion Passed (3 to 2)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (242 total)
+## Recent Meetings (243 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
 - [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
@@ -225,4 +226,3 @@ Voted **Nay** - Motion Passed (3 to 2)
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
-- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026

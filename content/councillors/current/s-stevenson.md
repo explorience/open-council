@@ -12,7 +12,7 @@ votesAbsent: 377
 votesRecused: 3
 votesAbstained: 0
 votesOther: 230
-attendanceRate: 88.7
+attendanceRate: 88.3
 participationRate: 85.8
 yeaRate: 82.1
 contestedDissentRate: 38.5
@@ -79,16 +79,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 88.7%
-- **Meetings Attended**: 219 of 247
-- **Meetings Missed**: 28
-- **Trend**: Stable -
+- **Attendance Rate**: 88.3%
+- **Meetings Attended**: 219 of 248
+- **Meetings Missed**: 29
+- **Trend**: Declining v
 
 **Attendance by Year:**
   - 2023: 88.6% (70/79 meetings)
   - 2024: 89.4% (59/66 meetings)
   - 2025: 86.4% (38/44 meetings)
-  - 2026: 87.8% (43/49 meetings)
+  - 2026: 86.0% (43/50 meetings)
 
 
 ## Voting Alignment

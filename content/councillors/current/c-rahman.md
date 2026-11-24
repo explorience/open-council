@@ -2,21 +2,21 @@
 title: "Corrine Rahman"
 type: councillor
 slug: "c-rahman"
-meetingCount: 278
+meetingCount: 279
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4394
-votesYea: 3678
+totalVotes: 4440
+votesYea: 3717
 votesNay: 409
 votesAbsent: 48
 votesRecused: 23
 votesAbstained: 1
-votesOther: 235
+votesOther: 242
 attendanceRate: 99.6
-participationRate: 93.0
-yeaRate: 90.0
+participationRate: 92.9
+yeaRate: 90.1
 contestedDissentRate: 16.6
-contestedVotes: 1622
+contestedVotes: 1624
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,394 |
-| Voted Yea | 3,678 (83.7%) |
-| Voted Nay | 409 (9.3%) |
+| Total Votes | 4,440 |
+| Voted Yea | 3,717 (83.7%) |
+| Voted Nay | 409 (9.2%) |
 | Absent | 48 (1.1%) |
 | Recused (conflict of interest) | 23 (0.5%) |
 | Abstained | 1 (0.0%) |
-| Other/Unrecorded | 235 (5.3%) |
+| Other/Unrecorded | 242 (5.5%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,083 |
-| Voted Yea | 2,385 (85.4%) |
-| Voted Nay | 409 (14.6%) |
+| Substantive Votes | 3,126 |
+| Voted Yea | 2,421 (85.5%) |
+| Voted Nay | 409 (14.5%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 16.6%
-- **Contested Votes**: 1,622
+- **Contested Votes**: 1,624
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 475 |
-| Voted Yea | 375 (79.1%) |
-| Voted Nay | 99 (20.9%) |
+| Budget Votes | 476 |
+| Voted Yea | 376 (79.2%) |
+| Voted Nay | 99 (20.8%) |
 | Absent | 1 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 99.6%
-- **Meetings Attended**: 249 of 250
+- **Meetings Attended**: 250 of 251
 - **Meetings Missed**: 1
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 100.0% (74/74 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 100.0% (55/55 meetings)
-  - 2026: 100.0% (33/33 meetings)
+  - 2026: 100.0% (34/34 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Josh Morgan (94.1%)
+- Josh Morgan (94.3%)
 - Jerry Pribil (93.6%)
-- Steve Lehman (93.4%)
+- Hadleigh McAlister (93.6%)
 
 **Least aligned with:**
 - Susan Stevenson (86.0%)
-- Sam Trosow (86.4%)
-- Paul Van Meerbergen (88.2%)
+- Sam Trosow (86.6%)
+- Paul Van Meerbergen (88.5%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,229 | 1,924 | 234 | 96.8% |
-| Strategic Priorities and Policy Committee | 1,101 | 785 | 91 | 79.6% |
+| Strategic Priorities and Policy Committee | 1,147 | 824 | 91 | 79.8% |
 | Planning and Environment Committee | 417 | 405 | 8 | 99.0% |
 | Budget Committee | 189 | 136 | 53 | 100.0% |
 | Community and Protective Services Committee | 169 | 160 | 8 | 99.4% |
@@ -207,8 +207,8 @@ Voted **Nay** - Motion Passed (10 to 2)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Planning and Environment Committee](/committees/planning-environment)
@@ -218,8 +218,9 @@ Voted **Nay** - Motion Passed (10 to 2)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (278 total)
+## Recent Meetings (279 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
 - [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
@@ -229,4 +230,3 @@ Voted **Nay** - Motion Passed (10 to 2)
 - [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
-- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026

@@ -2,7 +2,7 @@
 title: "Peter Cuddy"
 type: councillor
 slug: "p-cuddy"
-meetingCount: 243
+meetingCount: 244
 yearsActive: "2022 - 2026"
 isCurrent: true
 totalVotes: 4611
@@ -12,7 +12,7 @@ votesAbsent: 97
 votesRecused: 11
 votesAbstained: 1
 votesOther: 235
-attendanceRate: 98.3
+attendanceRate: 98.4
 participationRate: 92.5
 yeaRate: 91.5
 contestedDissentRate: 11.4
@@ -79,16 +79,16 @@ prefillQuestions:
 
 ## Attendance
 
-- **Attendance Rate**: 98.3%
-- **Meetings Attended**: 238 of 242
+- **Attendance Rate**: 98.4%
+- **Meetings Attended**: 239 of 243
 - **Meetings Missed**: 4
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 100.0% (61/61 meetings)
   - 2024: 100.0% (67/67 meetings)
   - 2025: 97.2% (69/71 meetings)
-  - 2026: 94.3% (33/35 meetings)
+  - 2026: 94.4% (34/36 meetings)
 
 
 ## Voting Alignment
@@ -207,18 +207,19 @@ Voted **Nay** - Motion Passed (11 to 3)
 ## Committees Served
 
 - [City Council](/committees/city-council)
+- [Audit Committee](/committees/audit)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
-- [Audit Committee](/committees/audit)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Civic Works Committee](/committees/civic-works)
 
-## Recent Meetings (243 total)
+## Recent Meetings (244 total)
 
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
+- [4th Meeting of the Audit Committee](</months/2026-10/2026-10-07 4th Meeting of the Audit Committee>) - Wed Oct 7 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [The 15th Meeting of the Planning and Environment Committee](</months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee>) - Tue Sep 29 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
@@ -227,4 +228,3 @@ Voted **Nay** - Motion Passed (11 to 3)
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [The 12th Meeting of the Planning and Environment Committee](</months/2026-08/2026-08-11 The 12th Meeting of the Planning and Environment Committee>) - Tue Aug 11 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [The 11th Meeting of the Planning and Environment Committee](</months/2026-07/2026-07-14 The 11th Meeting of the Planning and Environment Committee>) - Tue Jul 14 2026

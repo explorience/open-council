@@ -2,21 +2,21 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 493
+meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 8054
-votesYea: 6394
-votesNay: 642
+totalVotes: 8100
+votesYea: 6431
+votesNay: 644
 votesAbsent: 480
 votesRecused: 20
 votesAbstained: 7
-votesOther: 511
+votesOther: 518
 attendanceRate: 98.0
-participationRate: 87.4
+participationRate: 87.3
 yeaRate: 90.9
-contestedDissentRate: 20.2
-contestedVotes: 2334
+contestedDissentRate: 20.3
+contestedVotes: 2336
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 8,054 |
-| Voted Yea | 6,394 (79.4%) |
-| Voted Nay | 642 (8.0%) |
-| Absent | 480 (6.0%) |
+| Total Votes | 8,100 |
+| Voted Yea | 6,431 (79.4%) |
+| Voted Nay | 644 (8.0%) |
+| Absent | 480 (5.9%) |
 | Recused (conflict of interest) | 20 (0.2%) |
 | Abstained | 7 (0.1%) |
-| Other/Unrecorded | 511 (6.3%) |
+| Other/Unrecorded | 518 (6.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,561 |
-| Voted Yea | 4,020 (86.2%) |
-| Voted Nay | 642 (13.8%) |
+| Substantive Votes | 5,604 |
+| Voted Yea | 4,054 (86.3%) |
+| Voted Nay | 644 (13.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.2%
-- **Contested Votes**: 2,334
+- **Dissent Rate**: 20.3%
+- **Contested Votes**: 2,336
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 881 |
-| Voted Yea | 696 (83.5%) |
+| Budget Votes | 882 |
+| Voted Yea | 697 (83.5%) |
 | Voted Nay | 138 (16.5%) |
 | Absent | 45 |
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 448 of 457
+- **Meetings Attended**: 450 of 459
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 94.3% (33/35 meetings)
+  - 2026: 94.6% (35/37 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
 - Josh Morgan (94.1%)
-- Shawn Lewis (93.8%)
-- Steve Lehman (93.2%)
+- Shawn Lewis (93.9%)
+- Steve Lehman (93.3%)
 
 **Least aligned with:**
 - Susan Stevenson (83.2%)
-- Sam Trosow (85.6%)
-- Paul Van Meerbergen (88.2%)
+- Sam Trosow (85.9%)
+- Paul Van Meerbergen (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 4,350 | 3,666 | 347 | 92.3% |
-| Strategic Priorities and Policy Committee | 2,204 | 1,432 | 159 | 72.2% |
+| Strategic Priorities and Policy Committee | 2,250 | 1,469 | 161 | 72.4% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Civic Works Committee | 378 | 355 | 13 | 97.4% |
 | Community and Protective Services Committee | 374 | 316 | 30 | 92.5% |
@@ -123,6 +123,24 @@ prefillQuestions:
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
+
+### 2026-11-18: Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza
+
+[1st Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English)
+
+> That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;
+
+ii) C...
+
+Voted **Nay** - Motion Passed (13 to 2)
+
+### 2026-11-18: Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)
+
+[1st Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English)
+
+> ​That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM. ​
+
+Voted **Nay** - Motion Passed (14 to 1)
 
 ### 2026-10-14: (2.6) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 4307 Colonel Talbot Road
 
@@ -188,45 +206,29 @@ Voted **Nay** - Motion Passed (10 to 5)
 
 Voted **Nay** - Motion Passed (9 to 6)
 
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That the staff report dated August 10, 2026, related to the Housing Stability Services Procurement and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis BE REFERRED ...
-
-Voted **Yea** - Motion Failed (7 to 8)
-
-### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
-
-[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
-
-Voted **Nay** - Motion Passed (11 to 4)
-
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
+- [Audit Committee](/committees/audit)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [Audit Committee](/committees/audit)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (493 total)
+## Recent Meetings (495 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
 - [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
+- [4th Meeting of the Audit Committee](</months/2026-10/2026-10-07 4th Meeting of the Audit Committee>) - Wed Oct 7 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
 - [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
 - [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
 - [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
-- [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
-- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026

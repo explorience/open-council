@@ -2,21 +2,21 @@
 title: "David Ferreira"
 type: councillor
 slug: "d-ferreira"
-meetingCount: 246
+meetingCount: 247
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4169
-votesYea: 3295
+totalVotes: 4215
+votesYea: 3334
 votesNay: 439
 votesAbsent: 182
 votesRecused: 1
 votesAbstained: 4
-votesOther: 248
+votesOther: 255
 attendanceRate: 97.2
-participationRate: 89.6
-yeaRate: 88.2
-contestedDissentRate: 27.6
-contestedVotes: 1568
+participationRate: 89.5
+yeaRate: 88.4
+contestedDissentRate: 27.5
+contestedVotes: 1570
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,169 |
-| Voted Yea | 3,295 (79.0%) |
-| Voted Nay | 439 (10.5%) |
-| Absent | 182 (4.4%) |
+| Total Votes | 4,215 |
+| Voted Yea | 3,334 (79.1%) |
+| Voted Nay | 439 (10.4%) |
+| Absent | 182 (4.3%) |
 | Recused (conflict of interest) | 1 (0.0%) |
 | Abstained | 4 (0.1%) |
-| Other/Unrecorded | 248 (5.9%) |
+| Other/Unrecorded | 255 (6.0%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,141 |
-| Voted Yea | 2,324 (84.1%) |
-| Voted Nay | 439 (15.9%) |
+| Substantive Votes | 3,184 |
+| Voted Yea | 2,360 (84.3%) |
+| Voted Nay | 439 (15.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 27.6%
-- **Contested Votes**: 1,568
+- **Dissent Rate**: 27.5%
+- **Contested Votes**: 1,570
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 467 |
-| Voted Yea | 367 (80.7%) |
+| Budget Votes | 468 |
+| Voted Yea | 368 (80.7%) |
 | Voted Nay | 88 (19.3%) |
 | Absent | 12 |
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 97.2%
-- **Meetings Attended**: 240 of 247
+- **Meetings Attended**: 241 of 248
 - **Meetings Missed**: 7
 - **Trend**: Stable -
 
@@ -88,19 +88,19 @@ prefillQuestions:
   - 2023: 98.7% (76/77 meetings)
   - 2024: 98.6% (73/74 meetings)
   - 2025: 92.7% (51/55 meetings)
-  - 2026: 96.9% (31/32 meetings)
+  - 2026: 97.0% (32/33 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Anna Hopkins (94.3%)
-- Skylar Franke (93.5%)
-- Hadleigh McAlister (92.8%)
+- Anna Hopkins (94.4%)
+- Skylar Franke (93.6%)
+- Hadleigh McAlister (92.9%)
 
 **Least aligned with:**
 - Susan Stevenson (81.2%)
-- Paul Van Meerbergen (82.9%)
+- Paul Van Meerbergen (83.3%)
 - Steve Hillier (86.1%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 2,229 | 1,854 | 263 | 95.0% |
-| Strategic Priorities and Policy Committee | 1,093 | 729 | 91 | 75.0% |
+| Strategic Priorities and Policy Committee | 1,139 | 768 | 91 | 75.4% |
 | Community and Protective Services Committee | 480 | 429 | 35 | 96.7% |
 | Budget Committee | 189 | 139 | 50 | 100.0% |
 | Corporate Services Committee | 123 | 92 | 0 | 74.8% |
@@ -209,9 +209,9 @@ Voted **Nay** - Motion Passed (9 to 4)
 
 ## Committees Served
 
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
@@ -219,8 +219,9 @@ Voted **Nay** - Motion Passed (9 to 4)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 - [Corporate Services Committee](/committees/corporate-services)
 
-## Recent Meetings (246 total)
+## Recent Meetings (247 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
 - [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
@@ -230,4 +231,3 @@ Voted **Nay** - Motion Passed (9 to 4)
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026

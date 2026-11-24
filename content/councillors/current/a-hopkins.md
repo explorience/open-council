@@ -2,21 +2,21 @@
 title: "Anna Hopkins"
 type: councillor
 slug: "a-hopkins"
-meetingCount: 673
+meetingCount: 674
 yearsActive: "2014 - 2026"
 isCurrent: true
-totalVotes: 13313
-votesYea: 11678
+totalVotes: 13359
+votesYea: 11717
 votesNay: 980
 votesAbsent: 180
 votesRecused: 16
 votesAbstained: 16
-votesOther: 443
+votesOther: 450
 attendanceRate: 96.8
-participationRate: 95.1
+participationRate: 95.0
 yeaRate: 92.3
 contestedDissentRate: 26.4
-contestedVotes: 3478
+contestedVotes: 3480
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 13,313 |
-| Voted Yea | 11,678 (87.7%) |
-| Voted Nay | 980 (7.4%) |
-| Absent | 180 (1.4%) |
+| Total Votes | 13,359 |
+| Voted Yea | 11,717 (87.7%) |
+| Voted Nay | 980 (7.3%) |
+| Absent | 180 (1.3%) |
 | Recused (conflict of interest) | 16 (0.1%) |
 | Abstained | 16 (0.1%) |
-| Other/Unrecorded | 443 (3.3%) |
+| Other/Unrecorded | 450 (3.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,9 +50,9 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 8,946 |
-| Voted Yea | 7,411 (88.3%) |
-| Voted Nay | 980 (11.7%) |
+| Substantive Votes | 8,989 |
+| Voted Yea | 7,447 (88.4%) |
+| Voted Nay | 980 (11.6%) |
 
 
 ### Dissent on Contested Votes
@@ -60,7 +60,7 @@ prefillQuestions:
 *Only counts non-unanimous votes where the councillor participated*
 
 - **Dissent Rate**: 26.4%
-- **Contested Votes**: 3,478
+- **Contested Votes**: 3,480
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,8 +71,8 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 1,248 |
-| Voted Yea | 1,074 (86.3%) |
+| Budget Votes | 1,249 |
+| Voted Yea | 1,075 (86.3%) |
 | Voted Nay | 170 (13.7%) |
 | Absent | 4 |
 
@@ -80,7 +80,7 @@ prefillQuestions:
 ## Attendance
 
 - **Attendance Rate**: 96.8%
-- **Meetings Attended**: 726 of 750
+- **Meetings Attended**: 727 of 751
 - **Meetings Missed**: 24
 - **Trend**: Stable -
 
@@ -88,19 +88,19 @@ prefillQuestions:
   - 2023: 91.7% (55/60 meetings)
   - 2024: 98.4% (60/61 meetings)
   - 2025: 96.4% (53/55 meetings)
-  - 2026: 96.9% (31/32 meetings)
+  - 2026: 97.0% (32/33 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Skylar Franke (94.8%)
-- David Ferreira (94.3%)
+- Skylar Franke (94.9%)
+- David Ferreira (94.4%)
 - Josh Morgan (93.7%)
 
 **Least aligned with:**
 - Susan Stevenson (80.1%)
-- Paul Van Meerbergen (85.9%)
+- Paul Van Meerbergen (86.1%)
 - Peter Cuddy (88.0%)
 
 [View full voting alignment →](/councillors/alignment)
@@ -111,7 +111,7 @@ prefillQuestions:
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
 | Council | 6,780 | 6,055 | 628 | 98.6% |
-| Strategic Priorities and Policy Committee | 2,922 | 2,215 | 219 | 83.3% |
+| Strategic Priorities and Policy Committee | 2,968 | 2,254 | 219 | 83.3% |
 | Planning and Environment Committee | 2,629 | 2,518 | 62 | 98.1% |
 | Civic Works Committee | 318 | 313 | 5 | 100.0% |
 | Corporate Services Committee | 271 | 260 | 3 | 97.0% |
@@ -211,8 +211,8 @@ Voted **Nay** - Motion Passed (9 to 4)
 
 ## Committees Served
 
-- [City Council](/committees/city-council)
 - [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [City Council](/committees/city-council)
 - [Community and Protective Services Committee](/committees/community-protective-services)
 - [Budget Committee](/committees/budget)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
@@ -221,8 +221,9 @@ Voted **Nay** - Motion Passed (9 to 4)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Audit Committee](/committees/audit)
 
-## Recent Meetings (673 total)
+## Recent Meetings (674 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
 - [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
 - [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
 - [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
@@ -232,4 +233,3 @@ Voted **Nay** - Motion Passed (9 to 4)
 - [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
