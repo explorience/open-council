@@ -946,6 +946,7 @@ Councillor Hilliard, seconded by Councillor Cutty and we'll open the vote on tha
 Councillor Cutty, seconded by Councillor Hilliard and a hand vote on that. closing the vote, the motion carries.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -980,3 +981,5 @@ Unanimous (5-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

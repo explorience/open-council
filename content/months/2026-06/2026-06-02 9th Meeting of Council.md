@@ -745,7 +745,7 @@ d)    AUTHORIZE the Deputy City Manager, Neighbourhood and Community-Wide Serv
 
 ### 6.8.3&nbsp;&nbsp;&nbsp;7th Report of the Strategic Priorities and Policy Committee
 
-[2026-05-28 SPPC Report 7](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>)
+[2026-05-28 SPPC Report 7](</2026-05/2026-05-28 - Strategic Priorities and Policy Committee>)
 
 > Motion made by C. Rahman
 
@@ -783,7 +783,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-#### 6.8.3.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#212026-corporate-asset-management-plan-progress-review>) 2026 Corporate Asset Management Plan Progress Review
+#### 6.8.3.2&nbsp;&nbsp;&nbsp;(2.1) 2026 Corporate Asset Management Plan Progress Review
 
 > Motion made by C. Rahman
 
@@ -793,7 +793,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 6.8.3.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#22request-for-shareholders-meeting---london--middlesex-community-housing>) Request for Shareholder's Meeting - London & Middlesex Community Housing
+#### 6.8.3.3&nbsp;&nbsp;&nbsp;(2.2) Request for Shareholder's Meeting - London & Middlesex Community Housing
 
 > Motion made by C. Rahman
 
@@ -815,7 +815,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 6.8.3.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#23request-for-shareholders-meeting---housing-development-corporation-london>) Request for Shareholder's Meeting - Housing Development Corporation, London
+#### 6.8.3.4&nbsp;&nbsp;&nbsp;(2.3) Request for Shareholder's Meeting - Housing Development Corporation, London
 
 > Motion made by C. Rahman
 
@@ -837,7 +837,7 @@ it being noted that the Strategic Priorities and Policy Committee received a com
 
 ****
 
-#### 6.8.3.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#24strategic-plan-implementation-update-mid-year-2026>) Strategic Plan Implementation Update: Mid-Year 2026
+#### 6.8.3.5&nbsp;&nbsp;&nbsp;(2.4) Strategic Plan Implementation Update: Mid-Year 2026
 
 > Motion made by C. Rahman
 
@@ -847,7 +847,7 @@ That, on the recommendation of the City Manager, the report including the 2026 M
 
 ****
 
-#### 6.8.3.6&nbsp;&nbsp;&nbsp;[(2.5)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#25rbc-place-london-steam-transition>) RBC Place London Steam Transition
+#### 6.8.3.6&nbsp;&nbsp;&nbsp;(2.5) RBC Place London Steam Transition
 
 > Motion made by C. Rahman
 
@@ -869,7 +869,7 @@ c)    the Civic Administration BE DIRECTED to provide a report to the Strategi
 
 ****
 
-#### 6.8.3.7&nbsp;&nbsp;&nbsp;[(2.6)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#26review-of-rfpq-2025-056-redevelopment-of-city-hall-campus-procurement-and-related-information>) Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
+#### 6.8.3.7&nbsp;&nbsp;&nbsp;(2.6) Review of RFPQ 2025-056 Redevelopment of City Hall Campus Procurement and Related Information
 
 > Motion made by C. Rahman
 
@@ -879,7 +879,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the re
 
 ****
 
-#### 6.8.3.8&nbsp;&nbsp;&nbsp;[(3.1)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#31not-to-be-heard-before-105-pm---london-hydro-inc---2025-annual-general-meeting-of-the-shareholder-annual-resolutions>) London Hydro Inc. - 2025 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 219)
+#### 6.8.3.8&nbsp;&nbsp;&nbsp;(3.1) London Hydro Inc. - 2025 Annual General Meeting of the Shareholder Annual Resolutions (Relates to Bill No. 219)
 
 > Motion made by C. Rahman
 
@@ -905,7 +905,7 @@ d)   the communication regarding the Draft Shareholder Resolution BE RECEIVED.
 
 ****
 
-#### 6.8.3.9&nbsp;&nbsp;&nbsp;[(3.2)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#32delegation---ysni-semsedini-chief-executive-officer-london-hydro-inc---london-hydro-holdings-inc-newco>) London Hydro Holdings Inc. ("NewCo")
+#### 6.8.3.9&nbsp;&nbsp;&nbsp;(3.2) London Hydro Holdings Inc. ("NewCo")
 
 > Motion made by C. Rahman
 
@@ -931,7 +931,7 @@ it being noted that the Strategic Priorities and Policy Committee heard a verbal
 
 ****
 
-#### 6.8.3.10&nbsp;&nbsp;&nbsp;[(3.3)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#33delegation---kelly-paleczny-general-manager-london-transit-commission---2025-london-transit-commission-annual-report>) 2025 London Transit Commission Annual Report
+#### 6.8.3.10&nbsp;&nbsp;&nbsp;(3.3) 2025 London Transit Commission Annual Report
 
 > Motion made by C. Rahman
 
@@ -941,7 +941,7 @@ That the London Transit Commission 2025 Annual Report BE RECEIVED; it being note
 
 ****
 
-#### 6.8.3.11&nbsp;&nbsp;&nbsp;[(3.4)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#34delegation---paul-chisholm-chief-executive-officer-and-phil-squire-board-chair-london--middlesex-community-housing---lmch-master-regeneration-plan>) LMCH MasterRegeneration Plan
+#### 6.8.3.11&nbsp;&nbsp;&nbsp;(3.4) LMCH MasterRegeneration Plan
 
 > Motion made by C. Rahman
 
@@ -951,7 +951,7 @@ That the London & Middlesex Community Housing's 15-Year Regeneration Plan BE REC
 
 ****
 
-#### 6.8.3.13&nbsp;&nbsp;&nbsp;[(4.2)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#42london-transit-commission-governance-review-findings-and-recommendations>) London Transit Commission Governance Review: Findings and Recommendations
+#### 6.8.3.13&nbsp;&nbsp;&nbsp;(4.2) London Transit Commission Governance Review: Findings and Recommendations
 
 > Motion made by C. Rahman
 
@@ -985,7 +985,7 @@ it being noted that the Strategic Priorities and Policy Committee heard a delega
 
 ****
 
-#### 6.8.3.14&nbsp;&nbsp;&nbsp;[(4.3)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#43request-to-maintain-the-size-of-the-london-police-service-board-at-seven-members>) Request to Maintain the Size of the London Police Service Board at Seven Members
+#### 6.8.3.14&nbsp;&nbsp;&nbsp;(4.3) Request to Maintain the Size of the London Police Service Board at Seven Members
 
 > Motion made by C. Rahman
 
@@ -1003,7 +1003,7 @@ b)  the communication dated May 12, 2026, from R. Gauss Chair, London Police Se
 
 ****
 
-#### 6.8.3.12&nbsp;&nbsp;&nbsp;[(4.1)](</2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee#41review-of-the-london--middlesex-community-housing-master-regeneration-plan>) Review of the London & Middlesex Community Housing Master Regeneration Plan
+#### 6.8.3.12&nbsp;&nbsp;&nbsp;(4.1) Review of the London & Middlesex Community Housing Master Regeneration Plan
 
 At 2:43 PM, Councillor S. Hillier leaves the meeting.
 
@@ -2095,6 +2095,7 @@ Motion carries 14 to zero. And second reading on that set of by-laws, any discus
 Third and final reading for that set of bylaws and on this one the third reading of bill 19 which is a drainage bylaw so same mover and seconder for all that plus the third reading of the other bylaw will open this final reading for voting. Motion carries 14 to 0. Okay that's it that means I just need a motion to adjourn. Councillor McAllister seconded by Councillor ramen we can use by hand all those in favor of adjournment thank you we're adjourned.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -2324,3 +2325,5 @@ Unanimous (13-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

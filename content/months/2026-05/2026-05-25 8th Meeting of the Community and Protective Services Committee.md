@@ -509,6 +509,7 @@ So, well, that moves us to adjournment, looking for motion to adjourn. I have Co
 Motion carries. Great day.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -526,3 +527,5 @@ Motion carries. Great day.
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

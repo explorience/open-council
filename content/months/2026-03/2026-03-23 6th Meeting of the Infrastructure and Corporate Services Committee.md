@@ -1632,6 +1632,7 @@ Before we call adjournment, yeah, round of happy birthday. Yes, let's do a round
 Okay, Councillor and me, Rick, and I will second. All those in favor. Motion carries.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1806,3 +1807,5 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

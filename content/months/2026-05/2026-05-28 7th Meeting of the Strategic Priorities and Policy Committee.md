@@ -1613,6 +1613,7 @@ Councillors say yes. Councillors say yes. Motion carries. Thanks everyone.
 Have a great evening.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1692,3 +1693,5 @@ Have a great evening.
 
 </details>
 
+=======
+>>>>>>> origin/main

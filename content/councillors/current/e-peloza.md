@@ -2,21 +2,21 @@
 title: "Elizabeth Peloza"
 type: councillor
 slug: "e-peloza"
-meetingCount: 486
+meetingCount: 495
 yearsActive: "2018 - 2026"
 isCurrent: true
-totalVotes: 7926
-votesYea: 6306
-votesNay: 628
-votesAbsent: 458
-votesRecused: 16
+totalVotes: 8100
+votesYea: 6431
+votesNay: 644
+votesAbsent: 480
+votesRecused: 20
 votesAbstained: 7
-votesOther: 511
+votesOther: 518
 attendanceRate: 98.0
-participationRate: 87.5
+participationRate: 87.3
 yeaRate: 90.9
-contestedDissentRate: 20.2
-contestedVotes: 2289
+contestedDissentRate: 20.3
+contestedVotes: 2336
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 7,926 |
-| Voted Yea | 6,306 (79.6%) |
-| Voted Nay | 628 (7.9%) |
-| Absent | 458 (5.8%) |
-| Recused (conflict of interest) | 16 (0.2%) |
+| Total Votes | 8,100 |
+| Voted Yea | 6,431 (79.4%) |
+| Voted Nay | 644 (8.0%) |
+| Absent | 480 (5.9%) |
+| Recused (conflict of interest) | 20 (0.2%) |
 | Abstained | 7 (0.1%) |
-| Other/Unrecorded | 511 (6.4%) |
+| Other/Unrecorded | 518 (6.4%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 5,472 |
-| Voted Yea | 3,961 (86.3%) |
-| Voted Nay | 628 (13.7%) |
+| Substantive Votes | 5,604 |
+| Voted Yea | 4,054 (86.3%) |
+| Voted Nay | 644 (13.7%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 20.2%
-- **Contested Votes**: 2,289
+- **Dissent Rate**: 20.3%
+- **Contested Votes**: 2,336
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,24 +71,24 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 879 |
-| Voted Yea | 695 (83.5%) |
-| Voted Nay | 137 (16.5%) |
+| Budget Votes | 882 |
+| Voted Yea | 697 (83.5%) |
+| Voted Nay | 138 (16.5%) |
 | Absent | 45 |
 
 
 ## Attendance
 
 - **Attendance Rate**: 98.0%
-- **Meetings Attended**: 441 of 450
+- **Meetings Attended**: 450 of 459
 - **Meetings Missed**: 9
-- **Trend**: Declining v
+- **Trend**: Stable -
 
 **Attendance by Year:**
   - 2023: 98.3% (57/58 meetings)
   - 2024: 95.3% (61/64 meetings)
   - 2025: 96.6% (56/58 meetings)
-  - 2026: 92.9% (26/28 meetings)
+  - 2026: 94.6% (35/37 meetings)
 
 
 ## Voting Alignment
@@ -100,8 +100,8 @@ prefillQuestions:
 
 **Least aligned with:**
 - Susan Stevenson (83.2%)
-- Sam Trosow (85.6%)
-- Paul Van Meerbergen (88.2%)
+- Sam Trosow (85.9%)
+- Paul Van Meerbergen (88.3%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,123 +110,125 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 4,240 | 3,595 | 334 | 92.7% |
-| Strategic Priorities and Policy Committee | 2,195 | 1,424 | 158 | 72.1% |
+| Council | 4,350 | 3,666 | 347 | 92.3% |
+| Strategic Priorities and Policy Committee | 2,250 | 1,469 | 161 | 72.4% |
 | Planning and Environment Committee | 385 | 364 | 19 | 99.5% |
 | Civic Works Committee | 378 | 355 | 13 | 97.4% |
 | Community and Protective Services Committee | 374 | 316 | 30 | 92.5% |
 | Budget Committee | 189 | 122 | 67 | 100.0% |
 | Corporate Services Committee | 116 | 87 | 2 | 76.7% |
-| Infrastructure and Corporate Services Committee | 49 | 43 | 5 | 98.0% |
+| Infrastructure and Corporate Services Committee | 58 | 52 | 5 | 98.3% |
 
 
 ## Notable Dissenting Votes
 
 *Recent split votes where Elizabeth Peloza voted against the final outcome:*
 
-### 2026-07-21: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 471 Nightingale Avenue
+### 2026-11-18: Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[1st Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English)
 
-> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated July 14, 2026, related to the Designation under Part IV of the Ontario Heritage Act for the He...
+> That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;
 
-Voted **Nay** - Motion Passed (11 to 4)
-
-### 2026-07-21: (2.4) Housing Stability Services Procurement and Delivery Framework
-
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
-
-> That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+ii) C...
 
 Voted **Nay** - Motion Passed (13 to 2)
 
-### 2026-07-21: (2.3) Proposed Winter Response for 2026-2027
+### 2026-11-18: Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[1st Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=8d244533-927f-4e08-bc0e-f61bd873a868&Agenda=PostMinutes&lang=English)
 
-> That the staff report dated July 13, 2026, regarding the Proposed Winter Response for 2026–2027, BE REFERRED to the next meeting of the Community and Protective Services Committee to allow Civic Admin...
+> ​That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM. ​
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (14 to 1)
 
-### 2026-07-21: (4.4) City of London Special Constable Program
+### 2026-10-14: (2.6) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 4307 Colonel Talbot Road
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That the following part BE APPROVED: d) estimated capital and operating costs, funding options, including the potential use of revenues generated through the City's Automated Speed Enforcement Program...
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 21, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
+
+Voted **Nay** - Motion Passed (9 to 6)
+
+### 2026-10-14: (2.4) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 2457 Main Street
+
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
+
+> That notwithstanding the recommendation of the Director, Planning and Development, the staff report dated September 29, 2026, related to the Designation Under Part IV of the Ontario Heritage Act for t...
 
 Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-07-21: (4.5) By-law Enforcement Administrative Fees
+### 2026-10-14: (2.5) Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
 
-[12th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=62bb49c2-d761-4de8-9a00-8c409a042a4f&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That the Civic Administration BE DIRECTED to review the application of the administrative fee and any cost recovery associated with PW-15, Yard and Lot Maintenance by-law initial work order when it is...
+> That the staff report dated September 29, 2026, related to the heritage listed property at 11 Wellington Crescent BE REFERRED to the December 1, 2026 meeting of the Planning and Environment Committee ...
 
-Voted **Yea** - Motion Failed (7 to 8)
+Voted **Nay** - Motion Passed (11 to 4)
 
-### 2026-06-23: (3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
+### 2026-10-14: (3.1) Demolition Request by the Corporation of the City of London for the Heritage Designated Property - 100 Stanley Street
 
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> Notwithstanding the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Sifton Properties Limited relating to the property locat...
+> That the matter of the request for demolition of the heritage designated property at 100 Stanley Street BE REFERRED to a future meeting of the Planning and Environment Committee to allow staff to advi...
 
-Voted **Nay** - Motion Passed (10 to 3)
+Voted **Yea** - Motion Failed (5 to 10)
 
-### 2026-06-23: (4.1) Councillor C. Rahman - Third-Party Appeal Mechanism
+### 2026-10-14: (3.4) 954 Gainsborough Road - Z-26089
 
-[11th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=948470cd-fe8f-491c-afab-0012197b9009&Agenda=PostMinutes&lang=English)
+[15th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bad379f2-e4e6-4fd2-940d-197c45f74d87&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 11.10 of the Council Procedure by-law, the Council BE PERMITTED to proceed beyond 6:00 PM.
+> That the application dated September 29, 2026, from Royal Premier Homes, care of Zelinka Priamo Ltd. related to the property located at 954 Gainsborough Road BE REFERRED to December 1, 2026, meeting o...
 
-Voted **Nay** - Motion Passed (12 to 1)
+Voted **Nay** - Motion Passed (8 to 6)
 
-### 2026-06-17: Build Communities Strong Fund Provincial and Territorial Stream: Development Charge Reduction Program
+### 2026-10-06: Not to be heard before 1:05 PM - Public Participation Meeting - 2027 Amendments to Consolidated Fees and Charges By-law
 
-[10th Special Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=4ded2b07-9300-45c5-9b86-489f66930984&Agenda=PostMinutes&lang=English)
+[9th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=5a0fe1cb-c138-464a-af8d-595d0827ec74&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 2.3 of the Council Procedure By-law, the speaking-once provision contained in section 9.7 of the Council Procedure By-law BE SUSPENDED for the Council meeting held on June 17...
+> That the motion BE AMENDED to revise Schedule 1 of the proposed 2027 Consolidated Fees and Charges By-law, as appended to the staff report dated October 6, 2026 as Appendix “B”, to maintain the existi...
 
-Voted **Yea** - Motion Failed (9 to 4)
+Voted **Nay** - Motion Passed (13 to 1)
 
-### 2026-06-16: Not to be heard before 1:05 PM - London & Middlesex Community Housing - 2025 Annual General Meeting of the Shareholder Annual Resolutions
+### 2026-08-25: (2.2) Proposed Winter Response for 2026-2027 (Relates to Bill No. 301)
 
-[8th Meeting of the Strategic Priorities and Policy Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=a1f160a0-0ce3-4a5a-8c16-928242b55c4d&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Trosow BE PERMITTED to speak an additional 2 minutes with respect to this matter.
+> That the following part BE APPROVED: iii)   all proposed locations be subject to fire and by-law compliance review and sign-off by the appropriate City officials prior to the execution of any related ...
 
-Voted **Nay** - Motion Passed (13 to 2)
+Voted **Nay** - Motion Passed (10 to 5)
 
-### 2026-05-27: 2026 Reserve and Reserve Fund Monitoring and Housekeeping Report
+### 2026-08-25: (2.3) Housing Stability Services Procurement  and Delivery Framework - Emergency Shelter Guidelines 2011 vs. 2026 Comparative Analysis
 
-[10th Meeting of the Infrastructure and Corporate Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=26f90392-e7cf-407f-911a-be41af35676c&Agenda=PostMinutes&lang=English)
+[13th Meeting of Council](https://pub-london.escribemeetings.com//Meeting.aspx?Id=7383f3f3-51de-4153-8776-6e7bab9ab9d6&Agenda=PostMinutes&lang=English)
 
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Item 2.7 in Stage 2, Consent...
+> That the following part BE APPROVED: d) the Civic Administration BE DIRECTED to amend the Emergency Shelter Guidelines, as appended to the above-noted staff report as Appendix “A”, to: i. remove any p...
 
-Voted **Nay** - Motion Passed (4 to 1)
+Voted **Nay** - Motion Passed (9 to 6)
 
 
 ## Committees Served
 
-- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
-- [Community and Protective Services Committee](/committees/community-protective-services)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [City Council](/committees/city-council)
 - [Audit Committee](/committees/audit)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Planning and Environment Committee](/committees/planning-environment)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Corporate Services Committee](/committees/corporate-services)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (486 total)
+## Recent Meetings (495 total)
 
+- [1st Meeting of the Strategic Priorities and Policy Committee](</months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee>) - Wed Nov 18 2026
+- [1st Meeting of Council - Inaugural](</months/2026-11/2026-11-17 1st Meeting of Council - Inaugural>) - Tue Nov 17 2026
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
+- [4th Meeting of the Audit Committee](</months/2026-10/2026-10-07 4th Meeting of the Audit Committee>) - Wed Oct 7 2026
+- [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
+- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
+- [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
+- [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
-- [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
-- [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
-- [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [3rd Meeting of the Audit Committee](</months/2026-06/2026-06-17 3rd Meeting of the Audit Committee>) - Wed Jun 17 2026
-- [10th Special Meeting of Council](</months/2026-06/2026-06-17 10th Special Meeting of Council>) - Wed Jun 17 2026
-- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026

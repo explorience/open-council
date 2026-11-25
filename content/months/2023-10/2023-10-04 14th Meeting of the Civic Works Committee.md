@@ -153,6 +153,20 @@ None.
 
 
 The meeting adjourned at 12:31 PM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -367,6 +381,7 @@ Thank you, onto item five. Deferred matters in additional business. I have not b
 I'll be looking to item six, motion to adjourn. Councillor McCallister, Councillor Cuddy, by hand. Thanks, everyone. Great rest of your day.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -384,3 +399,5 @@ I'll be looking to item six, motion to adjourn. Councillor McCallister, Councill
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

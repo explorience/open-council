@@ -853,6 +853,7 @@ Thank you, looking for a motion to adjourn. Councillor Frank, I'll second. All t
 Thank you.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -877,3 +878,5 @@ Thank you.
 
 </details>
 
+=======
+>>>>>>> origin/main

@@ -259,6 +259,28 @@ The Civic Works Committee convenes, in Closed Session, from 12:20 PM to 12:46 PM
 
 
 The meeting adjourned at 12:47 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, and 2.8 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Participation in the South London Air Monitoring Network Pilot Project
+
+> That the staff report dated July 27, 2021 with respect to the South London Air Monitoring Network Pilot Project BE DEFERRED to the next Civic Works Committee meeting for consideration. (2021-E05)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -361,6 +383,7 @@ Closing the vote, the motion carries five to zero. For the public, we will adjou
 So.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -388,3 +411,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

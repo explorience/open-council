@@ -794,6 +794,7 @@ Any further questions or comments on that? Seeing none, we'll call the vote. Clo
 Councillor Stevenson, seconded by Councillor Cut ty, and just a hand vote on that one. Close in the vote, the motion carries. Thank you, we're adjourned.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -831,3 +832,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

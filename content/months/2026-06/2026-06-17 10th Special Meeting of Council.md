@@ -718,6 +718,7 @@ Okay, and third and final reading on this, we'll open that for voting. Councillo
 Okay, that concludes the confirmation by-law. I only have a motion to adjourn last left, so I got Councillor Cutty, seconded by myself. We could do that by hand, and I'll just look to the screen, all those in favor. Motion carries.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -754,3 +755,5 @@ Okay, that concludes the confirmation by-law. I only have a motion to adjourn la
 
 Unanimous (13-0)
 
+=======
+>>>>>>> origin/main

@@ -278,6 +278,20 @@ None.
 
 
 The meeting adjourned at 9:57 AM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.9 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -416,6 +430,7 @@ Moving on to scheduled items. There are none, items for direction. There are non
 Councillor Preble and seconded by Councillor Frank. And hand vote, don't leave yet, hand vote. And that is carried, have a great day, everyone.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -433,3 +448,5 @@ Councillor Preble and seconded by Councillor Frank. And hand vote, don't leave y
 
 Unanimous (4-0)
 
+=======
+>>>>>>> origin/main

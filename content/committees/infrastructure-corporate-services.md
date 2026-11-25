@@ -2,7 +2,7 @@
 title: "Infrastructure and Corporate Services Committee"
 type: committee
 slug: "infrastructure-corporate-services"
-meetingCount: 30
+meetingCount: 32
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -11,6 +11,8 @@ prefillQuestions:
 
 ## Recent Meetings
 
+- [15th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-10/2026-10-05 15th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Oct 5 2026
+- [14th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Sep 14 2026
 - [13th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-08/2026-08-12 13th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Aug 12 2026
 - [12th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>) - Wed Jul 15 2026
 - [11th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Jun 15 2026
@@ -19,9 +21,7 @@ prefillQuestions:
 - [8th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-27 8th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 27 2026
 - [7th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-04/2026-04-20 7th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Apr 20 2026
 - [6th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-23 6th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 23 2026
-- [5th Special Meeting of the Infrastructure and Corporate Services Committee](</months/2026-03/2026-03-02 5th Special Meeting of the Infrastructure and Corporate Services Committee>) - Mon Mar 2 2026
-- [4th Meeting of the Infrastructure and Corporate Services Committee](</months/2026-02/2026-02-23 4th Meeting of the Infrastructure and Corporate Services Committee>) - Mon Feb 23 2026
 
 
-[View all 30 meetings →](#)
+[View all 32 meetings →](#)
 

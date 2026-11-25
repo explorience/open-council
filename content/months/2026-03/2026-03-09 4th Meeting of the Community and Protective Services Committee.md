@@ -1915,6 +1915,7 @@ Councillor Trosto, closing the vote, the motion carries four to zero. Thank you,
 Councilor Hopkins and Councilor Pripple, thank you by hand, all in favor. Motion carries. Thanks everyone. Have a great day.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -2138,3 +2139,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

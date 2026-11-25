@@ -1734,6 +1734,7 @@ And with that, we'll take a motion to adjourn. Councillor McAllister and Council
 Thanks, everyone.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1829,3 +1830,5 @@ Unanimous (12-0)
 
 Unanimous (12-0)
 
+=======
+>>>>>>> origin/main

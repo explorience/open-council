@@ -3068,6 +3068,7 @@ Good, that leaves a German. Councilor Stephen, are you moving to adjourn? Second
 Thank you.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -3255,3 +3256,5 @@ Unanimous (5-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

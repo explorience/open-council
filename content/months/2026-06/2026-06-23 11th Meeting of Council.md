@@ -256,7 +256,7 @@ None.
 
 ## 8.1&nbsp;&nbsp;&nbsp;9th Report of the Community and Protective Services Committee
 
-[2026-06-08 CPSC Report](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>)
+[2026-06-08 CPSC Report](</2026-06/2026-06-08 - Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -294,7 +294,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#23municipal-compliance-services-policy-update-and-online-public-municipal-compliance-tools-review>) Municipal Compliance Services Policy Update and Online Public Municipal Compliance Tools Review (Relates to Bill No. 249)
+### 8.1.4&nbsp;&nbsp;&nbsp;(2.3) Municipal Compliance Services Policy Update and Online Public Municipal Compliance Tools Review (Relates to Bill No. 249)
 
 > Motion made by C. Rahman
 
@@ -312,7 +312,7 @@ d)    the above-noted staff report BE RECEIVED.
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(2.5)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#25by-law-amendments-and-management-measures-to-reduce-rat-infestations>) By-law Amendments and Management Measures to Reduce Rat Infestations (Relates to Bill No.'s 244, 247 and 252)
+### 8.1.6&nbsp;&nbsp;&nbsp;(2.5) By-law Amendments and Management Measures to Reduce Rat Infestations (Relates to Bill No.'s 244, 247 and 252)
 
 > Motion made by C. Rahman
 
@@ -332,7 +332,7 @@ e)    the implementation of a Corporate Rat Management Plan and associated fun
 
 ****
 
-### 8.1.8&nbsp;&nbsp;&nbsp;[(2.8)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#28london-fire-department---source-of-financing-for-fire-apparatus>) London Fire Department - Source of Financing for Fire Apparatus
+### 8.1.8&nbsp;&nbsp;&nbsp;(2.8) London Fire Department - Source of Financing for Fire Apparatus
 
 > Motion made by C. Rahman
 
@@ -348,7 +348,7 @@ c)    the Civic Administration BE AUTHORIZED to undertake all the administrati
 
 ****
 
-### 8.1.9&nbsp;&nbsp;&nbsp;[(2.10)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#210city-of-london-community-grants-program-impact-reports-2024---2025>) City of London Community Grants Program: Impact Reports (2024 - 2025)
+### 8.1.9&nbsp;&nbsp;&nbsp;(2.10) City of London Community Grants Program: Impact Reports (2024 - 2025)
 
 > Motion made by C. Rahman
 
@@ -358,7 +358,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-### 8.1.10&nbsp;&nbsp;&nbsp;[(2.11)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#211london-middlesex-child-care-and-early-years-service-system-plan-update--2025-progress-report>) London-Middlesex Child Care and Early Years Service System Plan Update – 2025 Progress Report
+### 8.1.10&nbsp;&nbsp;&nbsp;(2.11) London-Middlesex Child Care and Early Years Service System Plan Update – 2025 Progress Report
 
 > Motion made by C. Rahman
 
@@ -368,7 +368,7 @@ That, on the recommendation of the Deputy City Manager, Social and Health Develo
 
 ****
 
-### 8.1.12&nbsp;&nbsp;&nbsp;[(2.9)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#29byron-veterans-monument-donation-to-springbank-park>) Byron Veterans Monument Donation to Springbank Park
+### 8.1.12&nbsp;&nbsp;&nbsp;(2.9) Byron Veterans Monument Donation to Springbank Park
 
 > Motion made by C. Rahman
 
@@ -378,7 +378,7 @@ That the matter of the Byron Veterans Monument Donation to Springbank Park, as i
 
 ****
 
-### 8.1.13&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#315th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.1.13&nbsp;&nbsp;&nbsp;(3.1) 5th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -432,7 +432,7 @@ it being further noted that verbal delegations from B. Samuels and M. Blake Rose
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#21londons-newcomer-strategy-choose-london--innovative-vibrant-and-global-2024-2028-and-the-welcoming-francophone-community-initiative>) London’s Newcomer Strategy: Choose London – Innovative, Vibrant and Global (2024-2028) and the Welcoming Francophone Community Initiative
+### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) London’s Newcomer Strategy: Choose London – Innovative, Vibrant and Global (2024-2028) and the Welcoming Francophone Community Initiative
 
 > Motion made by C. Rahman
 
@@ -459,7 +459,7 @@ That, on the recommendation of the City Manager, the staff report dated June 8, 
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#22city-of-london-tree-nursery-feasibility>) City of London Tree Nursery Feasibility
+### 8.1.3&nbsp;&nbsp;&nbsp;(2.2) City of London Tree Nursery Feasibility
 
 > Motion made by C. Rahman
 
@@ -490,7 +490,7 @@ b)    the Civic Administration BE DIRECTED to retain consulting services to un
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(2.4)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#24request-to-submit-an-application-for-new-affordable-housing-funding-through-build-canada-homes>) Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes
+### 8.1.5&nbsp;&nbsp;&nbsp;(2.4) Request to Submit an Application for New Affordable Housing Funding Through Build Canada Homes
 
 > Motion made by C. Rahman
 
@@ -517,7 +517,7 @@ That, on the recommendation of the Deputy City Manager, Housing and Community Gr
 
 ****
 
-### 8.1.7&nbsp;&nbsp;&nbsp;[(2.6)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#26122-base-line-tenant-transition-plan-update-q2>) 122 Base Line Tenant Transition Plan Update Q2
+### 8.1.7&nbsp;&nbsp;&nbsp;(2.6) 122 Base Line Tenant Transition Plan Update Q2
 
 > Motion made by C. Rahman
 
@@ -544,7 +544,7 @@ That, on recommendation of the Deputy City Manager, Housing and Community Growth
 
 ****
 
-### 8.1.11&nbsp;&nbsp;&nbsp;[(2.7)](</2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee#27award-of-nrfp-2025-248-municipal-land-for-affordable-housing-at-1958-duluth-crescent-block-6>) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
+### 8.1.11&nbsp;&nbsp;&nbsp;(2.7) Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 (Relates to Bill No. 239)    
 
 > Motion made by C. Rahman
 
@@ -914,7 +914,7 @@ it being further pointed out that the Strategic Priorities and Policy Committee 
 
 ## 8.4&nbsp;&nbsp;&nbsp;11th Report of the Infrastructure and Corporate Services Committee
 
-[2026-06-15 ICSC Report 11](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-06-15 ICSC Report 11](</2026-06/2026-06-15 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -951,7 +951,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#21w12a-landfill-review-of-vehicle-speeds-and-odour-regulations>) W12A Landfill: Review of Vehicle Speeds and Odour Regulations
+### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) W12A Landfill: Review of Vehicle Speeds and Odour Regulations
 
 > Motion made by H. McAlister
 
@@ -961,7 +961,7 @@ That, on the recommendation of the Deputy City Manager, Environment & Infrastruc
 
 ****
 
-### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#22w12a-landfill-community-enhancement-and-mitigative-measures-program-and-by-law-update>) W12A Landfill Community Enhancement and Mitigative Measures Program and By-law Update (Relates to Bill No. 240)    
+### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) W12A Landfill Community Enhancement and Mitigative Measures Program and By-law Update (Relates to Bill No. 240)    
 
 > Motion made by H. McAlister
 
@@ -971,7 +971,7 @@ That, on the recommendation of the Deputy City Manager, Environment & Infrastruc
 
 ****
 
-### 8.4.4&nbsp;&nbsp;&nbsp;[(2.5)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#25award-of-rft-2026-100-w12a-equipment-rental-and-operators>) Award of RFT-2026-100 W12A-Equipment Rental and Operators
+### 8.4.4&nbsp;&nbsp;&nbsp;(2.5) Award of RFT-2026-100 W12A-Equipment Rental and Operators
 
 > Motion made by H. McAlister
 
@@ -989,7 +989,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.5&nbsp;&nbsp;&nbsp;[(2.6)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#26new-traffic-signals-pedestrian-signals-and-pedestrian-crossovers>) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 251)
+### 8.4.5&nbsp;&nbsp;&nbsp;(2.6) New Traffic Signals, Pedestrian Signals and Pedestrian Crossovers (Relates to Bill No. 251)
 
 > Motion made by H. McAlister
 
@@ -1023,7 +1023,7 @@ c)    the proposed by-law, as appended to the staff report dated June 15, 2026
 
 ****
 
-### 8.4.6&nbsp;&nbsp;&nbsp;[(2.8)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#28emergency-procurement-of-replacement-components-for-centrifuges-at-greenway-wwtp>) Emergency Procurement of Replacement Components for Centrifuges at Greenway WWTP
+### 8.4.6&nbsp;&nbsp;&nbsp;(2.8) Emergency Procurement of Replacement Components for Centrifuges at Greenway WWTP
 
 > Motion made by H. McAlister
 
@@ -1041,7 +1041,7 @@ d)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.7&nbsp;&nbsp;&nbsp; [(2.9)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#29expropriation-of-lands--western-road-and-sarnia-roadphilip-aziz-avenue-corridor-and-intersection-improvements-phase-2>) Expropriation of Lands – Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2 (Relates to Bill No. 250)
+### 8.4.7&nbsp;&nbsp;&nbsp; (2.9) Expropriation of Lands – Western Road and Sarnia Road/Philip Aziz Avenue Corridor and Intersection Improvements Phase 2 (Relates to Bill No. 250)
 
 > Motion made by H. McAlister
 
@@ -1059,7 +1059,7 @@ d)    the proposed by-law, as appended to the staff report dated June 15, 2026
 
 ****
 
-### 8.4.10&nbsp;&nbsp;&nbsp;[(2.7)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#27appointment-of-consulting-engineers-for-construction-administration>) Appointment of Consulting Engineers for Construction Administration
+### 8.4.10&nbsp;&nbsp;&nbsp;(2.7) Appointment of Consulting Engineers for Construction Administration
 
 > Motion made by H. McAlister
 
@@ -1083,7 +1083,7 @@ e)     the Mayor and the City Clerk BE AUTHORIZED to execute any contract or o
 
 ****
 
-### 8.4.8&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#23federation-of-canadian-municipalities-green-municipal-fund-agreement-for-enhancing-londons-resilience-through-climate-adaptation-planning>) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)
+### 8.4.8&nbsp;&nbsp;&nbsp;(2.3) Federation of Canadian Municipalities: Green Municipal Fund Agreement for Enhancing London’s Resilience Through Climate Adaptation Planning (Relates to Bill No. 241)
 
 At 3:20 PM, Councillor E. Peloza enters the meeting.
 
@@ -1118,7 +1118,7 @@ c)    AUTHORIZE the Deputy City Manager, Environment & Infrastructure, as the 
 
 ****
 
-### 8.4.9&nbsp;&nbsp;&nbsp;[(2.4)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#24contract-award-tender-no-rft-2025-222-wellington-gateway-and-municipal-infrastructure-improvements-phase-2b--base-line-road-to-watson-street>) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
+### 8.4.9&nbsp;&nbsp;&nbsp;(2.4) Contract Award: Tender No. RFT-2025-222 Wellington Gateway and Municipal Infrastructure Improvements Phase 2B – Base Line Road to Watson Street
 
 > Motion made by H. McAlister
 
@@ -1159,7 +1159,7 @@ g)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.4.11&nbsp;&nbsp;&nbsp;[(2.10)](</2026-06/2026-06-15 11th Meeting of the Infrastructure and Corporate Services Committee#2102025-portfolio-investments-report>) 2025 Portfolio Investments Report
+### 8.4.11&nbsp;&nbsp;&nbsp;(2.10) 2025 Portfolio Investments Report
 
 > Motion made by H. McAlister
 
@@ -1188,7 +1188,7 @@ That, on the recommendation of the Deputy City Manager, Finance Supports, the 20
 
 ## 8.5&nbsp;&nbsp;&nbsp;9th Report of the Planning and Environment Committee
 
-[2026-06-09 - PEC Report](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee>)
+[2026-06-09 - PEC Report](</2026-06/2026-06-09 - Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -1226,7 +1226,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.5.2&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#313924-4012-and-4050-colonel-talbot-road--o-26047z-2604639t-12503>) 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503 (Relates to Bill No.'s 245 and 256)
+### 8.5.2&nbsp;&nbsp;&nbsp;(3.1) 3924, 4012, and 4050 Colonel Talbot Road - O-26047/Z-26046/39T-12503 (Relates to Bill No.'s 245 and 256)
 
 > Motion made by S. Lehman
 
@@ -1274,7 +1274,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.3&nbsp;&nbsp;&nbsp;[(3.2)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#32employment-area-policy-review-and-unsuitableineligible-industrial-land-review--o-25125>) Employment Area Policy Review and Unsuitable/Ineligible Industrial Land Review - O-25125 (Relates to Bill No. 246)
+### 8.5.3&nbsp;&nbsp;&nbsp;(3.2) Employment Area Policy Review and Unsuitable/Ineligible Industrial Land Review - O-25125 (Relates to Bill No. 246)
 
 > Motion made by S. Lehman
 
@@ -1314,7 +1314,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.4&nbsp;&nbsp;&nbsp;[(3.3)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#331837-churchill-avenue--z-26048>) 1837 Churchill Avenue - Z-26048
+### 8.5.4&nbsp;&nbsp;&nbsp;(3.3) 1837 Churchill Avenue - Z-26048
 
 > Motion made by S. Lehman
 
@@ -1338,7 +1338,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.10&nbsp;&nbsp;&nbsp;[(3.9)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#391945-hyde-park-road--z-26044>) 1945 Hyde Park Road - Z-26044 (Relates to Bill No. 262)
+### 8.5.10&nbsp;&nbsp;&nbsp;(3.9) 1945 Hyde Park Road - Z-26044 (Relates to Bill No. 262)
 
 > Motion made by S. Lehman
 
@@ -1366,7 +1366,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.11&nbsp;&nbsp;&nbsp;[(3.10)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#310517-525-fanshawe-park-road-east-and-1536-geary-avenue--z-26039>) 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
+### 8.5.11&nbsp;&nbsp;&nbsp;(3.10) 517-525 Fanshawe Park Road East and 1536 Geary Avenue - Z-26039
 
 > Motion made by S. Lehman
 
@@ -1452,7 +1452,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.5&nbsp;&nbsp;&nbsp;[(3.4)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#342496-dundas-street--z-26043>) 2496 Dundas Street - Z-26043 (Relates to Bill No. 257)
+### 8.5.5&nbsp;&nbsp;&nbsp;(3.4) 2496 Dundas Street - Z-26043 (Relates to Bill No. 257)
 
 > Motion made by S. Lehman
 
@@ -1507,7 +1507,7 @@ At 3:44 PM, Councillor H. McAlister leaves the meeting.
 
 ****
 
-### 8.5.6&nbsp;&nbsp;&nbsp;[(3.5)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#35221-queens-avenue--tz-26045>) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
+### 8.5.6&nbsp;&nbsp;&nbsp;(3.5) 221 Queens Avenue - TZ-26045 (Relates to Bill No. 258)
 
 > Motion made by S. Lehman
 
@@ -1549,7 +1549,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.7&nbsp;&nbsp;&nbsp;[(3.6)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#361057-1061-richmond-street--z-26051>) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
+### 8.5.7&nbsp;&nbsp;&nbsp;(3.6) 1057-1061 Richmond Street - Z-26051 (Relates to Bill No. 259)
 
 > Motion made by S. Lehman
 
@@ -1685,7 +1685,7 @@ The Council recesses at 4:26 PM and reconvenes at 4:43 PM.
 
 ****
 
-### 8.5.8&nbsp;&nbsp;&nbsp;[(3.7)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#3736-wethered-street--z-26050>) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)
+### 8.5.8&nbsp;&nbsp;&nbsp;(3.7) 36 Wethered Street - Z-26050 (Relates to Bill No. 260)
 
 > Motion made by S. Lehman
 
@@ -1729,7 +1729,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.9&nbsp;&nbsp;&nbsp;[(3.8)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#38929-cheapside-street--z-26003>) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
+### 8.5.9&nbsp;&nbsp;&nbsp;(3.8) 929 Cheapside Street - Z-26003 (Relates to Bill No. 261)
 
 > Motion made by S. Lehman
 
@@ -1804,7 +1804,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.5.12&nbsp;&nbsp;&nbsp;[(4.1)](</2026-06/2026-06-09 The 9th Meeting of the Planning and Environment Committee#41councillor-c-rahman---third-party-appeal-mechanism>) Councillor C. Rahman - Third-Party Appeal Mechanism
+### 8.5.12&nbsp;&nbsp;&nbsp;(4.1) Councillor C. Rahman - Third-Party Appeal Mechanism
 
 > Motion made by S. Lehman
 
@@ -1927,7 +1927,7 @@ At 5:52 PM, Councillor S. Trosow enters the meeting.
 
 ## 8.6&nbsp;&nbsp;&nbsp;3rd Report of the Audit Committee
 
-[2026-06-17 Audit Committee Report 3](</2026-06/2026-06-17 - Audit Committee>)
+[2026-06-17 Audit Committee Report 3](<https://pub-london.escribemeetings.com/filestream.ashx?DocumentId=125102>)
 
 > Motion made by E. Peloza
 
@@ -3911,6 +3911,7 @@ Moved by Councillor Hough and seconded by Coun cillor Frank. We can do that by h
 All right. We're adjourned.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -4795,3 +4796,5 @@ Unanimous (12-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

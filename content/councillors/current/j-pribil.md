@@ -2,21 +2,21 @@
 title: "Jerry Pribil"
 type: councillor
 slug: "j-pribil"
-meetingCount: 245
+meetingCount: 252
 yearsActive: "2022 - 2026"
 isCurrent: true
-totalVotes: 4006
-votesYea: 3372
-votesNay: 336
+totalVotes: 4137
+votesYea: 3494
+votesNay: 345
 votesAbsent: 52
 votesRecused: 13
 votesAbstained: 2
 votesOther: 231
-attendanceRate: 96.4
-participationRate: 92.6
-yeaRate: 90.9
-contestedDissentRate: 12.4
-contestedVotes: 1586
+attendanceRate: 96.5
+participationRate: 92.8
+yeaRate: 91.0
+contestedDissentRate: 11.9
+contestedVotes: 1645
 prefillQuestions:
   - "What were the key decisions?"
   - "What topics were discussed most?"
@@ -33,13 +33,13 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Total Votes | 4,006 |
-| Voted Yea | 3,372 (84.2%) |
-| Voted Nay | 336 (8.4%) |
+| Total Votes | 4,137 |
+| Voted Yea | 3,494 (84.5%) |
+| Voted Nay | 345 (8.3%) |
 | Absent | 52 (1.3%) |
 | Recused (conflict of interest) | 13 (0.3%) |
 | Abstained | 2 (0.0%) |
-| Other/Unrecorded | 231 (5.8%) |
+| Other/Unrecorded | 231 (5.6%) |
 
 *Recused = declared a pecuniary interest and stepped out of the vote, an ethical/legal requirement - not the same as being absent.*
 
@@ -50,17 +50,17 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Substantive Votes | 3,016 |
-| Voted Yea | 2,407 (87.8%) |
-| Voted Nay | 336 (12.2%) |
+| Substantive Votes | 3,111 |
+| Voted Yea | 2,493 (87.8%) |
+| Voted Nay | 345 (12.2%) |
 
 
 ### Dissent on Contested Votes
 
 *Only counts non-unanimous votes where the councillor participated*
 
-- **Dissent Rate**: 12.4%
-- **Contested Votes**: 1,586
+- **Dissent Rate**: 11.9%
+- **Contested Votes**: 1,645
 
 *Dissent = voting against the final outcome (e.g., voting "nay" on a motion that passed)*
 
@@ -71,16 +71,16 @@ prefillQuestions:
 
 | Statistic | Count |
 |-----------|-------|
-| Budget Votes | 473 |
-| Voted Yea | 363 (77.9%) |
-| Voted Nay | 103 (22.1%) |
+| Budget Votes | 477 |
+| Voted Yea | 367 (78.1%) |
+| Voted Nay | 103 (21.9%) |
 | Absent | 1 |
 
 
 ## Attendance
 
-- **Attendance Rate**: 96.4%
-- **Meetings Attended**: 243 of 252
+- **Attendance Rate**: 96.5%
+- **Meetings Attended**: 250 of 259
 - **Meetings Missed**: 9
 - **Trend**: Stable -
 
@@ -88,20 +88,20 @@ prefillQuestions:
   - 2023: 100.0% (62/62 meetings)
   - 2024: 98.7% (78/79 meetings)
   - 2025: 92.0% (69/75 meetings)
-  - 2026: 92.9% (26/28 meetings)
+  - 2026: 94.3% (33/35 meetings)
 
 
 ## Voting Alignment
 
 **Most aligned with:**
-- Steve Lehman (95.5%)
-- Josh Morgan (94.9%)
-- Peter Cuddy (94.7%)
+- Steve Lehman (95.6%)
+- Josh Morgan (95.0%)
+- Peter Cuddy (94.8%)
 
 **Least aligned with:**
-- Sam Trosow (85.2%)
-- Susan Stevenson (88.1%)
-- Paul Van Meerbergen (89.9%)
+- Sam Trosow (85.1%)
+- Susan Stevenson (88.3%)
+- Paul Van Meerbergen (90.0%)
 
 [View full voting alignment →](/councillors/alignment)
 
@@ -110,9 +110,9 @@ prefillQuestions:
 
 | Committee | Votes | Yea | Nay | Participation |
 |-----------|------:|----:|----:|--------------:|
-| Council | 2,119 | 1,906 | 167 | 97.8% |
-| Strategic Priorities and Policy Committee | 1,092 | 780 | 73 | 78.1% |
-| Community and Protective Services Committee | 468 | 419 | 41 | 98.3% |
+| Council | 2,229 | 2,007 | 176 | 97.9% |
+| Strategic Priorities and Policy Committee | 1,101 | 789 | 73 | 78.3% |
+| Community and Protective Services Committee | 480 | 431 | 41 | 98.3% |
 | Budget Committee | 189 | 141 | 48 | 100.0% |
 | Infrastructure and Corporate Services Committee | 83 | 72 | 6 | 94.0% |
 | Civic Works Committee | 55 | 54 | 1 | 100.0% |
@@ -148,7 +148,7 @@ Voted **Nay** - Motion Passed (7 to 6)
 
 ### 2026-06-08: Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6 
 
-[9th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com/Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
+[9th Meeting of the Community and Protective Services Committee](https://pub-london.escribemeetings.com//Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
 
 > That part c) BE APPROVED.
 
@@ -205,24 +205,24 @@ Voted **Yea** - Motion Failed (7 to 8)
 
 ## Committees Served
 
-- [Community and Protective Services Committee](/committees/community-protective-services)
 - [City Council](/committees/city-council)
-- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
 - [Audit Committee](/committees/audit)
+- [Strategic Priorities and Policy Committee](/committees/strategic-priorities)
+- [Community and Protective Services Committee](/committees/community-protective-services)
 - [Infrastructure and Corporate Services Committee](/committees/infrastructure-corporate-services)
 - [Budget Committee](/committees/budget)
 - [Civic Works Committee](/committees/civic-works)
 - [Community Protective Services Committee](/committees/community-protective-services-committee)
 
-## Recent Meetings (245 total)
+## Recent Meetings (252 total)
 
+- [15th Meeting of Council](</months/2026-10/2026-10-14 15th Meeting of Council>) - Wed Oct 14 2026
+- [4th Meeting of the Audit Committee](</months/2026-10/2026-10-07 4th Meeting of the Audit Committee>) - Wed Oct 7 2026
+- [9th Meeting of the Strategic Priorities and Policy Committee](</months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee>) - Tue Oct 6 2026
+- [14th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee>) - Mon Sep 28 2026
+- [14th Meeting of Council](</months/2026-09/2026-09-22 14th Meeting of Council>) - Tue Sep 22 2026
+- [13th Meeting of the Community and Protective Services Committee](</months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee>) - Tue Sep 8 2026
+- [13th Meeting of Council](</months/2026-08/2026-08-25 13th Meeting of Council>) - Tue Aug 25 2026
 - [12th Meeting of the Community and Protective Services Committee](</months/2026-08/2026-08-10 12th Meeting of the Community and Protective Services Committee>) - Mon Aug 10 2026
 - [12th Meeting of Council](</months/2026-07/2026-07-21 12th Meeting of Council>) - Tue Jul 21 2026
 - [11th Meeting of the Community and Protective Services Committee](</months/2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>) - Mon Jul 13 2026
-- [11th Meeting of Council](</months/2026-06/2026-06-23 11th Meeting of Council>) - Tue Jun 23 2026
-- [10th Special Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-16 10th Special Meeting of the Community and Protective Services Committee>) - Tue Jun 16 2026
-- [8th Meeting of the Strategic Priorities and Policy Committee](</months/2026-06/2026-06-16 8th Meeting of the Strategic Priorities and Policy Committee>) - Tue Jun 16 2026
-- [9th Meeting of the Community and Protective Services Committee](</months/2026-06/2026-06-08 9th Meeting of the Community and Protective Services Committee>) - Mon Jun 8 2026
-- [9th Meeting of Council](</months/2026-06/2026-06-02 9th Meeting of Council>) - Tue Jun 2 2026
-- [7th Meeting of the Strategic Priorities and Policy Committee](</months/2026-05/2026-05-28 7th Meeting of the Strategic Priorities and Policy Committee>) - Thu May 28 2026
-- [8th Meeting of the Community and Protective Services Committee](</months/2026-05/2026-05-25 8th Meeting of the Community and Protective Services Committee>) - Mon May 25 2026

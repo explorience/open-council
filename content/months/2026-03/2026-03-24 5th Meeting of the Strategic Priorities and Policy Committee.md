@@ -1646,6 +1646,7 @@ I'm also happy to report that it was the mayor's birthday yesterday, happy birth
 Thank you everyone, have a good evening.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1769,3 +1770,5 @@ Unanimous (14-0)
 
 Unanimous (14-0)
 
+=======
+>>>>>>> origin/main

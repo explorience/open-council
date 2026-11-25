@@ -182,6 +182,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:19 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 5. Deferred Matters/Additional Business
+
+> That items 5.1 and 5.2 BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -224,6 +238,7 @@ All those in favor? Put that. Less than 20 minutes. Good job, everybody.
 Motion passes.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -241,3 +256,5 @@ Motion passes.
 
 Unanimous (4-0)
 
+=======
+>>>>>>> origin/main

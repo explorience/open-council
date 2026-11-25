@@ -213,6 +213,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:39 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+> That Items for Direction 4.1 and 4.2 BE APPROVED.
+
+**✅ Motion Passed (13 to 0)**
+
+Unanimous (13-0)
 ---
 
 ## Full Transcript
@@ -411,6 +425,7 @@ I know there was a committee yesterday, but we weren't all here. So I think on b
 And we can do that one by hand. That motion carries. Thank you colleagues. We are adjourned.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -428,3 +443,5 @@ And we can do that one by hand. That motion carries. Thank you colleagues. We ar
 
 Unanimous (13-0)
 
+=======
+>>>>>>> origin/main

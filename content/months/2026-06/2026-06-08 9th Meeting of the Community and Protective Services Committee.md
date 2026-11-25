@@ -4,7 +4,7 @@ date: 2026-06-08
 ---
 June 8, 2026, at  1:00 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=80e0f621-386a-4aa3-85b2-97a740591d0f&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > C. Rahman, J. Pribil, S. Trosow, A. Hopkins, D. Ferreira
@@ -1087,6 +1087,7 @@ Thank you, Chair, and I would like to report that progress has been made in the 
 Okay, Councillor Joceau, Councillor Hopkins, thank you by hand, all in favor. Motion carries. Thank you, everyone. [BLANK_AUDIO]
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1151,3 +1152,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

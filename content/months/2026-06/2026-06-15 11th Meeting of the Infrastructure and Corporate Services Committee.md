@@ -572,6 +572,7 @@ Thank you and I look for a motion to adjourn. Councillor Ben Mirberg Councillor 
 Thank you everyone have a good day.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -640,3 +641,5 @@ Unanimous (5-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

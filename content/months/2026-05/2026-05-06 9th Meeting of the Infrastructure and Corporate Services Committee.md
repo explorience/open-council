@@ -503,6 +503,7 @@ Mr. Chair, could you call A separately? Yes, we can do that. Okay, we're doing A
 We're all open for voting. Motion carries, 3 to 0. Okay, and we'll do the rest of them together.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -549,3 +550,5 @@ Unanimous (3-0)
 
 Unanimous (3-0)
 
+=======
+>>>>>>> origin/main

@@ -287,6 +287,28 @@ The Community and Protective Services Committee convened In Closed Session from 
 
 
 The meeting adjourned at 5:40 PM.
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1, 2.2 and 2.4 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Housing Stability Services – Rent-Geared-to-Income (RGI) Waitlist Placement Ratio
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor S. Stevenson BE PERMITTED to speak an additional 5 minutes with respect to this matter.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -707,6 +729,7 @@ And now I'll move the adjournment. Okay, and all in favor of the adjournment, yo
 Thank you.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -734,3 +757,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

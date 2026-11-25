@@ -193,6 +193,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 9:51 AM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -305,6 +319,7 @@ So thank you. And with that, I will look for adjournment. Councilor Frank, secon
 And that is by everyone.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -322,3 +337,5 @@ And that is by everyone.
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

@@ -150,6 +150,20 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:30 PM.
 
 ****
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2.1. Demolition of City-Owned Property Buildings - 3243 Manning Drive
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, on the advice of the Director, Realty Services, with respect to the City-owned property located at 3243 Manning Drive, the following actions be taken: a) the improvements associated with the subject City-owned property BE R...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -206,6 +220,7 @@ Councillor van Merbergen, okay. All those, oh, we just do it by hand. All those 
 Motion carries.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -223,3 +238,5 @@ Motion carries.
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

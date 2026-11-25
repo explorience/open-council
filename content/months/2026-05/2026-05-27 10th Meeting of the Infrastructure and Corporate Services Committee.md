@@ -1086,6 +1086,7 @@ Mr. Van Meregan, thank you. I will second that. All those in favor?
 Motion carries. Good afternoon.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1218,3 +1219,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

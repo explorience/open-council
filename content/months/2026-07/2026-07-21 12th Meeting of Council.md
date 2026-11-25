@@ -283,7 +283,7 @@ That, pursuant to section 6.4 of the Council Procedure By-law, a change in order
 
 ## 8.4&nbsp;&nbsp;&nbsp;11th Report of the Community and Protective Services Committee
 
-[2026-07-13 CPSC Report](</2026-07/2026-07-13 - Community and Protective Services Committee>)
+[2026-07-13 CPSC Report](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee>)
 
 > Motion made by C. Rahman
 
@@ -351,7 +351,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.4.2&nbsp;&nbsp;&nbsp;(2.1) Establishment and Operation of Hazardous Materials Team in Support of Province of Ontario’s Mutual Aid Plan (Relates to Bill No. 266)
+### 8.4.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#21establishment-and-operation-of-hazardous-materials-team-in-support-of-province-of-ontarios-mutual-aid-plan>) Establishment and Operation of Hazardous Materials Team in Support of Province of Ontario’s Mutual Aid Plan (Relates to Bill No. 266)
 
 > Motion made by C. Rahman
 
@@ -381,7 +381,7 @@ e) AUTHORIZE the City of London Fire Services to enter onto lands or premises th
 
 ****
 
-### 8.4.3&nbsp;&nbsp;&nbsp;(2.2) City of London Community Grants Program: Capital Funding Allocations (2026)
+### 8.4.3&nbsp;&nbsp;&nbsp;[(2.2)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#22city-of-london-community-grants-program-capital-funding-allocations-2026>) City of London Community Grants Program: Capital Funding Allocations (2026)
 
 > Motion made by C. Rahman
 
@@ -391,7 +391,7 @@ That, on the recommendation of the Deputy City Manager, Neighbourhood and Commun
 
 ****
 
-### 8.4.7&nbsp;&nbsp;&nbsp;(4.1) 6th Report of the Environmental Stewardship and Action Community Advisory Committee
+### 8.4.7&nbsp;&nbsp;&nbsp;[(4.1)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#416th-report-of-the-environmental-stewardship-and-action-community-advisory-committee>) 6th Report of the Environmental Stewardship and Action Community Advisory Committee
 
 > Motion made by C. Rahman
 
@@ -437,7 +437,7 @@ d) clauses 1.1, 3.1 and 5.1 BE RECEIVED.
 
 ****
 
-### 8.4.8&nbsp;&nbsp;&nbsp;(4.2) Amendments to Business Licensing By-Law to Regulate Driving School Instruction
+### 8.4.8&nbsp;&nbsp;&nbsp;[(4.2)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#42amendments-to-business-licensing-by-law-to-regulate-driving-school-instruction>) Amendments to Business Licensing By-Law to Regulate Driving School Instruction
 
 > Motion made by C. Rahman
 
@@ -525,7 +525,7 @@ it being further noted that communications from the following individuals, with 
 
 ****
 
-### 8.4.10&nbsp;&nbsp;&nbsp;(4.4) City of London Special Constable Program
+### 8.4.10&nbsp;&nbsp;&nbsp;[(4.4)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#44city-of-london-special-constable-program>) City of London Special Constable Program
 
 > Motion made by C. Rahman
 
@@ -787,7 +787,7 @@ The Council recesses at 5:00 PM and reconvenes at 5:16 PM.
 
 ****
 
-### 8.4.4&nbsp;&nbsp;&nbsp;(2.4) Housing Stability Services Procurement and Delivery Framework
+### 8.4.4&nbsp;&nbsp;&nbsp;[(2.4)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#24housing-stability-services-procurement-and-delivery-framework>) Housing Stability Services Procurement and Delivery Framework
 
 > Motion made by C. Rahman
 
@@ -907,7 +907,7 @@ it being noted that a communication from K. Morrison, Old East Village Business 
 
 ****
 
-### 8.4.5&nbsp;&nbsp;&nbsp;(2.5) Child Care and Early Years - Engagement of Auditor Services (Relates to Bill No. 267)
+### 8.4.5&nbsp;&nbsp;&nbsp;[(2.5)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#25child-care-and-early-years---engagement-of-auditor-services>) Child Care and Early Years - Engagement of Auditor Services (Relates to Bill No. 267)
 
 > Motion made by C. Rahman
 
@@ -943,7 +943,7 @@ b) DELEGATE the Deputy City Manager, Social and Health Development and the City 
 
 ****
 
-### 8.4.6&nbsp;&nbsp;&nbsp;(2.3) Proposed Winter Response for 2026-2027
+### 8.4.6&nbsp;&nbsp;&nbsp;[(2.3)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#23proposed-winter-response-for-2026-2027>) Proposed Winter Response for 2026-2027
 
 > Motion made by J. Pribil
 
@@ -998,7 +998,7 @@ it being noted that communications from K. Morrison, Old East Village Business I
 
 ****
 
-### 8.4.9&nbsp;&nbsp;&nbsp;(4.3) Pilot Program for Air Conditioning Support for Low-Income Seniors
+### 8.4.9&nbsp;&nbsp;&nbsp;[(4.3)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#43pilot-program-for-air-conditioning-support-for-low-income-seniors>) Pilot Program for Air Conditioning Support for Low-Income Seniors
 
 At 5:45 PM, Deputy Mayor S. Lewis leaves the meeting.
 
@@ -1114,7 +1114,7 @@ it being noted that communications from D. Ronson and N. Fraser, with respect to
 
 ****
 
-### 8.4.11&nbsp;&nbsp;&nbsp;(4.5) By-law Enforcement Administrative Fees
+### 8.4.11&nbsp;&nbsp;&nbsp;[(4.5)](</2026-07/2026-07-13 11th Meeting of the Community and Protective Services Committee#45by-law-enforcement-administrative-fees>) By-law Enforcement Administrative Fees
 
 > Motion made by C. Rahman
 
@@ -1140,7 +1140,7 @@ it being noted that the communication from Councillor S. Stevenson and the commu
 
 ## 8.1&nbsp;&nbsp;&nbsp;12th Report of the Infrastructure and Corporate Services Committee
 
-[2026-07-15 ICSC Report 12](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee>)
+[2026-07-15 ICSC Report 12](</2026-07/2026-07-15 - Infrastructure and Corporate Services Committee>)
 
 > Motion made by H. McAlister
 
@@ -1179,7 +1179,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.1.2&nbsp;&nbsp;&nbsp;[(2.1)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#21update-to-council-policy---queen-elizabeth-scholarship>) Update to Council Policy - Queen Elizabeth Scholarship (Relates to Bill No. 275)
+### 8.1.2&nbsp;&nbsp;&nbsp;(2.1) Update to Council Policy - Queen Elizabeth Scholarship (Relates to Bill No. 275)
 
 > Motion made by H. McAlister
 
@@ -1189,7 +1189,7 @@ That, on the recommendation of the City Clerk, Legal Services, the proposed by-l
 
 ****
 
-### 8.1.3&nbsp;&nbsp;&nbsp;[(2.4)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#24lt-2026-198-operation-and-maintenance-of-landfill-gas-collection-and-flaring-system-w12a-landfill-site>) LT-2026-198 Operation and Maintenance of Landfill Gas Collection and Flaring System W12A Landfill Site
+### 8.1.3&nbsp;&nbsp;&nbsp;(2.4) LT-2026-198 Operation and Maintenance of Landfill Gas Collection and Flaring System W12A Landfill Site
 
 > Motion made by H. McAlister
 
@@ -1219,7 +1219,7 @@ e)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.1.4&nbsp;&nbsp;&nbsp;[(2.5)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#25municipal-drains-consultant-assignment---limited-tendering--lt-2026-189>) Municipal Drains Consultant Assignment - Limited Tendering- LT-2026-189
+### 8.1.4&nbsp;&nbsp;&nbsp;(2.5) Municipal Drains Consultant Assignment - Limited Tendering- LT-2026-189
 
 > Motion made by H. McAlister
 
@@ -1245,7 +1245,7 @@ c)    the Mayor and the City Clerk BE AUTHORIZED to execute any contract or ot
 
 ****
 
-### 8.1.6&nbsp;&nbsp;&nbsp;[(2.3)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#23pet-waste-green-bin-pilot-project-and-townhomes-waste-review>) Pet Waste Green Bin Pilot Project and Townhomes Waste Review
+### 8.1.6&nbsp;&nbsp;&nbsp;(2.3) Pet Waste Green Bin Pilot Project and Townhomes Waste Review
 
 > Motion made by H. McAlister
 
@@ -1279,7 +1279,7 @@ f)    the Civic Administration BE DIRECTED to report back to Committee and Cou
 
 ****
 
-### 8.1.5&nbsp;&nbsp;&nbsp;[(2.2)](</2026-07/2026-07-15 12th Meeting of the Infrastructure and Corporate Services Committee#22canada-public-transit-fund---baseline-funding--contribution-agreement>) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
+### 8.1.5&nbsp;&nbsp;&nbsp;(2.2) Canada Public Transit Fund - Baseline Funding – Contribution Agreement (Relates to Bill No.  268)
 
 > Motion made by H. McAlister
 
@@ -1347,7 +1347,7 @@ b)    the Civic Administration BE AUTHORIZED to undertake all administrative a
 
 ## 8.2&nbsp;&nbsp;&nbsp;10th Report of the Planning and Environment Committee
 
-[2026-06-22 - PEC Report](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee>)
+[2026-06-22 - PEC Report](</2026-06/2026-06-22 - Planning and Environment Committee>)
 
 > Motion made by S. Lehman
 
@@ -1386,7 +1386,7 @@ That it BE NOTED that no pecuniary interests were disclosed.
 
 ****
 
-### 8.2.2&nbsp;&nbsp;&nbsp;[(2.2)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#22rethink-zoning-project-update>) Rethink Zoning Project Update
+### 8.2.2&nbsp;&nbsp;&nbsp;(2.2) Rethink Zoning Project Update
 
 > Motion made by S. Lehman
 
@@ -1396,7 +1396,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.2.3&nbsp;&nbsp;&nbsp;[(2.3)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#23withdrawal-of-the-request-by-the-trustees-of-the-london-congregation-of-the-british-methodist-episcopal-church-in-canada-to-repeal-the-heritage-designating-by-law-for-the-property-at-430-grey-street-beth-emanuel-british-methodist-episcopal-church>) Withdrawal of the Request by the Trustees of the London Congregation of the British Methodist Episcopal Church in Canada to Repeal the Heritage Designating By-law for the Property at 430 Grey Street (Beth Emanuel British Methodist Episcopal Church)
+### 8.2.3&nbsp;&nbsp;&nbsp;(2.3) Withdrawal of the Request by the Trustees of the London Congregation of the British Methodist Episcopal Church in Canada to Repeal the Heritage Designating By-law for the Property at 430 Grey Street (Beth Emanuel British Methodist Episcopal Church)
 
 > Motion made by S. Lehman
 
@@ -1406,7 +1406,7 @@ That, on the recommendation of the Director, Planning and Development, the staff
 
 ****
 
-### 8.2.5&nbsp;&nbsp;&nbsp;[(3.1)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#31415-york-street---oz-25124>) 415 York Street - OZ-25124
+### 8.2.5&nbsp;&nbsp;&nbsp;(3.1) 415 York Street - OZ-25124
 
 > Motion made by S. Lehman
 
@@ -1430,7 +1430,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.6&nbsp;&nbsp;&nbsp;[(3.2)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#322027-growth-management-implementation-strategy-gmis-update>) 2027 Growth Management Implementation Strategy (GMIS) Update
+### 8.2.6&nbsp;&nbsp;&nbsp;(3.2) 2027 Growth Management Implementation Strategy (GMIS) Update
 
 > Motion made by S. Lehman
 
@@ -1476,7 +1476,7 @@ it being acknowledged that any and all oral and written submissions from the pub
 
 ****
 
-### 8.2.4&nbsp;&nbsp;&nbsp;[(2.1)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#21green-development-framework-update>) Green Development Framework Update
+### 8.2.4&nbsp;&nbsp;&nbsp;(2.1) Green Development Framework Update
 
 > Motion made by S. Lehman
 
@@ -1567,7 +1567,7 @@ it being noted that this report fulfills Council’s request related to Green De
 
 ****
 
-### 8.2.7&nbsp;&nbsp;&nbsp;[(3.3)](</2026-06/2026-06-22 The 10th Meeting of the Planning and Environment Committee#33parking-provisions-update>) Parking Provisions Update (Relates to Bill No. 285)
+### 8.2.7&nbsp;&nbsp;&nbsp;(3.3) Parking Provisions Update (Relates to Bill No. 285)
 
 > Motion made by S. Lehman
 
@@ -3259,6 +3259,7 @@ The meeting adjourned at 8:26 PM.
 > 
 > By-law No. Z.-1-263466 - A by-law to amend By-law No. Z.-1 with respect to the Residential Parking Provisions – rates (3.3/10/PEC).
 
+<<<<<<< HEAD
 ---
 
 ## Votes
@@ -3931,3 +3932,5 @@ Unanimous (15-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

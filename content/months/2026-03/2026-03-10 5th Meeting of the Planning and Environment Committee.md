@@ -2051,6 +2051,7 @@ Thank you, so that completes all the matters at hand. I'll look for a motion to 
 Motion carries. adjourned.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -2125,3 +2126,5 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

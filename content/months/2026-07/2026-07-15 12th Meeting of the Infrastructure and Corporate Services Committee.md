@@ -264,6 +264,7 @@ The meeting adjourned at 2:40 PM.
 
 ****
 
+<<<<<<< HEAD
 ---
 
 ## Votes
@@ -287,3 +288,5 @@ The meeting adjourned at 2:40 PM.
 
 </details>
 
+=======
+>>>>>>> origin/main

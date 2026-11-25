@@ -215,6 +215,7 @@ The meeting adjourned at 1:39 PM.
 
 ****
 
+<<<<<<< HEAD
 ---
 
 ## Votes
@@ -231,3 +232,5 @@ The meeting adjourned at 1:39 PM.
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

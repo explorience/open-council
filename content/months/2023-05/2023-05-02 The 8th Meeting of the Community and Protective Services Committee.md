@@ -132,6 +132,20 @@ None.
 
 
 The meeting adjourned at 4:10 PM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -206,6 +220,7 @@ Moved by Councillor ramen, seconded by Councillor Ferrer, a hand vote of all in 
 Thank you.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -223,3 +238,5 @@ Thank you.
 
 Unanimous (4-0)
 
+=======
+>>>>>>> origin/main

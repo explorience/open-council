@@ -180,6 +180,20 @@ None.
 
 
 The meeting adjourned at 12:34 PM.
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -330,6 +344,7 @@ There's a commitment made to come back to this word, this committee with respect
 Thank you. And members with that, I'm looking for a German, Councillor Pribble, Councillor Frank is seconding it. We can do a hand vote, all in favor and that's carried. Good afternoon.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -347,3 +362,5 @@ Thank you. And members with that, I'm looking for a German, Councillor Pribble, 
 
 Unanimous (5-0)
 
+=======
+>>>>>>> origin/main

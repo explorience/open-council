@@ -2618,6 +2618,7 @@ So I think that's just a motion to adjourn. I'll look from motion to turn, Counc
 Thanks everyone. My apologies for the intermittent internet.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -2714,3 +2715,5 @@ Unanimous (3-0)
 
 Unanimous (3-0)
 
+=======
+>>>>>>> origin/main

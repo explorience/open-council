@@ -2312,6 +2312,7 @@ Thank you, that deals with all of our additional items. Were there any other ite
 Councillor McAllister with a second, and by hand, all in favor. Motion carries. Thanks everyone, have a great,
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -2528,3 +2529,5 @@ Unanimous (14-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

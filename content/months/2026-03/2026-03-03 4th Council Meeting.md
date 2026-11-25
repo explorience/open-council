@@ -4,7 +4,7 @@ date: 2026-03-03
 ---
 March 3, 2026, at  1:00 PM
 
-[Original link](https://pub-london.escribemeetings.com/Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
+[Original link](https://pub-london.escribemeetings.com//Meeting.aspx?Id=bd4f0af4-bc8d-4fbf-9317-15a7b5b490b7&Agenda=PostMinutes&lang=English)
 
 > [!abstract]- Present:
 > J. Morgan, H. McAlister, S. Lewis, P. Cuddy, S. Stevenson, J. Pribil, S. Trosow, C. Rahman, S. Lehman, A. Hopkins, P. Van Meerbergen, S. Franke, E. Peloza, D. Ferreira, S. Hillier
@@ -4258,6 +4258,7 @@ We just have two minor, what I will call housekeeping items on this one. The fir
 Councilor McAllister and Stevenson, we can do this one by hand, all in favor. Motion carries. Thank you, everyone.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -5042,3 +5043,5 @@ Unanimous (12-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

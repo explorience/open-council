@@ -1391,6 +1391,7 @@ Okay, seeing none, we will look to open the vote on the referral. Councillor Tro
 That takes us to item seven, adjournment, looking for a mover and seconder, Councillor Fer rera. Councillor Per beau, thank you by hand, all in favor. That motion carries. Thanks everyone, have a great evening.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -1507,3 +1508,5 @@ Unanimous (5-0)
 
 </details>
 
+=======
+>>>>>>> origin/main

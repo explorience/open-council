@@ -326,6 +326,28 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:22 PM.
 
 ****
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+> That Items 2.1 to 2.5 BE APPREOVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Demolition Request and Heritage Alteration Permit Application at 66 Blackfriars Street
+
+> That, on the recommendation of the Director, Housing and Community Growth, the application under Section 42 of the Ontario Heritage Act seeking approval for the demolition of the existing building and approval for a proposed building, as described, herein, and appended in Appendix “E”, on the pro...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -448,6 +470,7 @@ That concludes the business of the committee. I'll look for motion for a German.
 All in favor. The committee meeting is closed.
 
 </details>
+<<<<<<< HEAD
 
 ---
 
@@ -475,3 +498,5 @@ Unanimous (4-0)
 
 Unanimous (4-0)
 
+=======
+>>>>>>> origin/main
