@@ -269,37 +269,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:40 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement
-
-> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
-
-> That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -739,3 +708,39 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Budweiser Gardens Proposed Expansion - Additional Information and Proposed Amending Agreement
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Finance Supports, the following actions be taken: a)    the report providing additional information on the proposed Budweiser Gardens Expansion BE RECEIVED for information; b)    the proposed by-law as appended to the staff report dated Octo...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.3. (ADDED) Application - Issuance of Proclamation - Turkish Republic Day
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
+> That based on the application dated September 29, 2023 from the Federation of Canadian Turkish Associations, October 29, 2023 BE PROCLAIMED Turkish Republic Day.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

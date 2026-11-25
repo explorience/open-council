@@ -970,118 +970,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:47 PM.
 
 ****
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (4 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.2 in Stage 2, Consent, to remain in Stage 2, Consent, following Item 2.1.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.1. The 4th Report of the Ecological Community Advisory Committee
-
-> that the motion be amended to include a new part that reads as follows: the Civic Administration BE REQUESTED to include in the Ecological Reference Group Terms of Reference a review Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports and S...
-
-**❌ Motion Failed (1 to 5)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 2.2. Amendments and Additions to the Downtown Community Improvement Plan Program Guidelines : Vacant Commercial Space Fit-Out Grant Program
-
-> That, the Civic Administration BE DIRECTED to bring forward a by-law to the Municipal Council meeting on April 22, 2025, to amend By-law C.P.-1559-83, as amended, being A By-law to establish financial incentives for the Core Area Community Improvement Project Area, by adding Schedule 4 – Core Are...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.2. Amendments and Additions to the Downtown Community Improvement Plan Program Guidelines : Vacant Commercial Space Fit-Out Grant Program
-
-> That the delegation request from K. Morrison, as appended to the Added Agenda, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 3.1. 3095 Bostwick Road (Z-9791/O-25032)
-
-> that part c) be amended to include i) to read as follows: i)    The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net l...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.3. 1622 Evans Boulevard (OZ-25010)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1620 Evans Boulevard (formerly 1622 Evans Boulevard):    a)    the proposed by-law as appended to the s...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.6. 825 Wharncliffe Road South (Z-25021)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Hafiz Qaddafi c/o Creative Structures - Kenneth Gakuhi Ngacaku relating to the property located at 825 Wharncliffe Rd S, the proposed by-law as appended to the ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 801 Sarnia Road (OZ-25017)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Royal Premier Homes (c/o Siv-ik Planning and Design Inc.) relating to the property located at 801 Sarnia Road: a)    the request to amend the Official Plan for ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 4.1. Planning Fees and Review Recommendations
-
-> That the delegation request from M. Wallace, as appended to the Added Agenda, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1788,3 +1676,134 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (4 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 2.2 in Stage 2, Consent, to remain in Stage 2, Consent, following Item 2.1.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.1. The 4th Report of the Ecological Community Advisory Committee
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
+> that the motion be amended to include a new part that reads as follows: the Civic Administration BE REQUESTED to include in the Ecological Reference Group Terms of Reference a review Environmental Impact Studies, Environmental Assessments, infrastructure reviews, Subject Land Status Reports and S...
+
+**❌ Motion Failed (1 to 5)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (5):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 2.2. Amendments and Additions to the Downtown Community Improvement Plan Program Guidelines : Vacant Commercial Space Fit-Out Grant Program
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
+> That, the Civic Administration BE DIRECTED to bring forward a by-law to the Municipal Council meeting on April 22, 2025, to amend By-law C.P.-1559-83, as amended, being A By-law to establish financial incentives for the Core Area Community Improvement Project Area, by adding Schedule 4 – Core Are...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.2. Amendments and Additions to the Downtown Community Improvement Plan Program Guidelines : Vacant Commercial Space Fit-Out Grant Program
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
+> That the delegation request from K. Morrison, as appended to the Added Agenda, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 3.1. 3095 Bostwick Road (Z-9791/O-25032)
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
+> that part c) be amended to include i) to read as follows: i)    The subdivision approval authority include a draft plan condition specific to natural heritage compensation for the 1.27 hectares of feature removal, consisting of 0.57 ha of wetlands and 0.70 ha of woodlands, to demonstrate no net l...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.3. 1622 Evans Boulevard (OZ-25010)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Drewlo Holdings Inc. relating to the property located at 1620 Evans Boulevard (formerly 1622 Evans Boulevard):    a)    the proposed by-law as appended to the s...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.6. 825 Wharncliffe Road South (Z-25021)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Hafiz Qaddafi c/o Creative Structures - Kenneth Gakuhi Ngacaku relating to the property located at 825 Wharncliffe Rd S, the proposed by-law as appended to the ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 801 Sarnia Road (OZ-25017)
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Royal Premier Homes (c/o Siv-ik Planning and Design Inc.) relating to the property located at 801 Sarnia Road: a)    the request to amend the Official Plan for ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Shawn Lewis](/councillors/current/s-lewis)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 4.1. Planning Fees and Review Recommendations
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That the delegation request from M. Wallace, as appended to the Added Agenda, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -477,3 +477,96 @@ The meeting adjourned at 2:31 PM.
 
 ****
 
+---
+
+## Votes
+
+*8 substantive votes at this meeting (1 contested, 7 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Item 3.1 in Stage 3, Scheduled Items, to be considered before Stage 2, Consent.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> That Items 2.1 and 2.2, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Heritage Property Tax Relief Program
+
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
+> That the motion BE AMENDED to add a new part c), as follows: c)    the Civic Administration BE DIRECTED to include, as part of the referral to the Multi Year Budget, a proposed structure or format based on the model used by the Town of Collingwood.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Heritage Property Tax Relief Program
+
+<div id="motion-2-3-3" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 203 Bathurst Street
+
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
+> That the delegation request from T. Lundy, as appended to the Agenda, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 33 Bromleigh Avenue
+
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
+> That the staff report dated September 21, 2026 related to the Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 33 Bromleigh Avenue BE REFERRED to the December 1, 2026, meeting of the Planning and Environment Committee to allow for further consultation with...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 2.7. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 255 Delacourt Road
+
+<div id="motion-2-7-1" class="motion-anchor"></div>
+
+> That the delegation request from J. Rosenzweig, in attendance of the Planning and Environment Committee, be heard at this time.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.9. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 1057 Waterloo Street
+
+<div id="motion-2-9-1" class="motion-anchor"></div>
+
+> That the delegation request from I. Wallace, as appended to the Added Agenda, be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

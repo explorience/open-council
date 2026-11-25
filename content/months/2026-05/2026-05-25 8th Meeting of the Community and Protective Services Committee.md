@@ -527,5 +527,3 @@ Motion carries. Great day.
 
 Unanimous (5-0)
 
-=======
->>>>>>> origin/main

@@ -270,52 +270,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:34 PM.
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2.1. 2023-2027 Strategic Advocacy Framework
-
-> That part a) of the recommendation BE AMENDED to read as follows: "a)  that the attached, revised, 2023-2027 Strategic Advocacy Framework BE ENDORSED, it being noted that specific notation has been included to specific reference to working with Indigenous organizations and the inclusion of the ex...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.1. 2023-2027 Strategic Advocacy Framework
-
-> That the motion, as amended, BE APPROVED, including the following: "it being noted that specific notation was made by the Committee with respect to advocacy regarding the rent control regime and other actions which would be included in the advocacy outcomes identified in the Report."
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.3. Declare Surplus - City-Owned Property - 652 Elizabeth Street
-
-> That the following actions be taken with respect to a City-owned property municipally known as 652 Elizabeth Street, being Part Lot 11, Concession 1, in the City of London, London Township, being part of PIN 08279-0210, and to be further described in a reference plan to be deposited (the “Subject...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4. Items for Direction
-
-> That Items 4.1 to 4.3, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Councillor Expense Approval Request
-
-> That, notwithstanding current interpretations of the Council Members’ Expense Account Policy, the expense request from Councillor Lewis for a Canada Day Event advertisement, including contact information, in flyers and an on-stage banner in the amount of $300.00, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -762,3 +716,60 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (0 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2.1. 2023-2027 Strategic Advocacy Framework
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
+> That part a) of the recommendation BE AMENDED to read as follows: "a)  that the attached, revised, 2023-2027 Strategic Advocacy Framework BE ENDORSED, it being noted that specific notation has been included to specific reference to working with Indigenous organizations and the inclusion of the ex...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.1. 2023-2027 Strategic Advocacy Framework
+
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED, including the following: "it being noted that specific notation was made by the Committee with respect to advocacy regarding the rent control regime and other actions which would be included in the advocacy outcomes identified in the Report."
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Declare Surplus - City-Owned Property - 652 Elizabeth Street
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to a City-owned property municipally known as 652 Elizabeth Street, being Part Lot 11, Concession 1, in the City of London, London Township, being part of PIN 08279-0210, and to be further described in a reference plan to be deposited (the “Subject...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4. Items for Direction
+
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> That Items 4.1 to 4.3, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Councillor Expense Approval Request
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
+> That, notwithstanding current interpretations of the Council Members’ Expense Account Policy, the expense request from Councillor Lewis for a Canada Day Event advertisement, including contact information, in flyers and an on-stage banner in the amount of $300.00, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

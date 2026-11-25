@@ -281,74 +281,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:02 PM.
 
 ****
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.1. Whole of Community System Response Overview
-
-> That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil)
-
-</details>
-
-### 4.1. Whole of Community System Response Overview
-
-> That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.2. (ADDED) Memo - Affordable and Supportive Housing Agreement Templates
-
-> That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates: a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: i)          au...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
-
-> That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following actions be taken with respect to the staff report, dated May 20, 2025, related to RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
-
-> That the delegation request from D. Astolfi, as appended to the added agenda, BE APPROVED to be heard at this meeting.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -553,3 +485,84 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (2 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Whole of Community System Response Overview
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the communication from Councillor S. Stevenson, dated May 12, 2025, with respect to the Whole of Community System Response Overview, BE RECEIVED and no further action be taken.
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Sam Trosow](/councillors/current/s-trosow), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 4.1. Whole of Community System Response Overview
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That pursuant to section 31.6 of the Council Procedure By-law, Councillor J. Pribil BE PERMITTED to speak an additional 1 minute with respect to this matter.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.2. (ADDED) Memo - Affordable and Supportive Housing Agreement Templates
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the memo, dated May 20, 2025, related to Affordable and Supportive Housing Agreement Templates: a)         the proposed by-law, as appended to the above-noted memo, BE INTRODUCED at Municipal Council to be held on June 3, 2025 to: i)          au...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Housing and Community Growth the following actions be taken with respect to the staff report, dated May 20, 2025, related to RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.3. (ADDED) RFP-2024-227 Approval of the Template Contribution Agreement for Highly Supportive Housing Projects at 248-256 Hill Street and 644-646 Huron Street
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
+> That the delegation request from D. Astolfi, as appended to the added agenda, BE APPROVED to be heard at this meeting.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

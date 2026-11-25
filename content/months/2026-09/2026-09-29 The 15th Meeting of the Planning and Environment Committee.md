@@ -1240,3 +1240,88 @@ The meeting adjourned at 3:30 PM.
 
 ****
 
+---
+
+## Votes
+
+*7 substantive votes at this meeting (1 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 and 2.3, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.2. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 415 Base Line Road East
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
+> That the delegation request from S. Autio, as appended to the Agenda, to be heard at this time.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 2.4. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 2457 Main Street
+
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
+> That the delegation request from Z. Haji, as appended to the Agenda, to be heard at this time.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 2.5. Designation Under Part IV of the Ontario Heritage Act for the Heritage Listed Property at 11 Wellington Crescent
+
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 29, 2026, related to the heritage listed property at 11 Wellington Crescent: a)    notice BE GIVEN under the provisions of Section 29(3) of the On...
+
+**✅ Motion Passed (2 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Peter Cuddy](/councillors/current/p-cuddy), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Steve Lehman](/councillors/current/s-lehman)
+
+**Absent (2):** [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.6. 57-75 Wellington Road & 68 High Street - OZ-26078
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 29, 2026, related to the application of Foundation Development Fund I LP (c/o Nemanic Law PC) related to the property located at 57-75 Wellington ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.7. 60-68 High Street - OZ-26079
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the staff report dated September 29, 2026, related to the application of Foundation Development Fund II LP (c/o Nemanic Law PC) related to the properties located at 60-68 High Str...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 3.11. 444 York Street & 330 Burwell Street - Z-26088
+
+<div id="motion-3-11-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of 1000725093 Ontario Inc. relating to the properties located at 444 York Street & 330 Burwell Street, the proposed by-law as appended to the staff report dated Se...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+

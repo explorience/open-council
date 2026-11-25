@@ -268,3 +268,49 @@ The meeting adjourned at 1:38 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Report Back: Housing Stability Services Procurement and Delivery Framework of Services and Unsheltered Homelessness and Encampments Initiative (UHEI)
+
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken with respect to the staff report dated September 28, 2026 related to a Report Back on Housing Stability Services Procurement and Delivery Framework and the Unsheltered Homelessnes...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.5. Report Back: Housing Stability Services Procurement and Delivery Framework of Services and Unsheltered Homelessness and Encampments Initiative (UHEI)
+
+<div id="motion-2-5-1" class="motion-anchor"></div>
+
+> That the requests for delegation status from C. Moss and L. Malbrecht BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) Tolpuddle Cooperative
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
+
+> That the communication, as appended to the Added Agenda, from Councillor S. Stevenson related to the Tolpuddle Cooperative BE REFERRED to the November 30, 2026 meeting of the Community and Protective Services Committee for consideration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

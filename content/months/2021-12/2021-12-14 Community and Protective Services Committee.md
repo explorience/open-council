@@ -214,28 +214,6 @@ None.
 
 
 The meeting adjourned at 4:14 PM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 1.2. Election of Vice-Chair for the term ending November 14, 2022
-
-> That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 14, 2022.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2. Consent
-
-> That Items 2.1 to 2.5 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -340,3 +318,30 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 1.2. Election of Vice-Chair for the term ending November 14, 2022
+
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
+> That Councillor J. Helmer BE ELECTED Vice-Chair of the Community and Protective Services Committee for the term ending November 14, 2022.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

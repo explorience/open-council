@@ -332,36 +332,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4;57 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. Actions Implementing London's UNESCO Designation as Canada's 'City of Music'
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to London’s UNESCO designation as Canada's 'City of Music': a)    the area previously identified in the Music, Entertainment and Culture District Strategy as the D...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Anti-Racism and Anti-Oppression Framework
-
-> That, on the recommendation of the City Manager, the following actions be taken with respect to the new Anti-Racism and Anti-Oppression Framework: a)    the above-noted Framework, as outlined in the staff report dated September 20, 2022, BE ENDORSED; and,    b)    the Civic Administration BE DIRE...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.2. Hyde Park Business Improvement Association
-
-> That the following actions be taken with respect to the Hyde Park Business Improvement Association:    a) the resignation of Jean Coles from the Hyde Park Business Improvement Association BE ACCEPTED; and,    b) Vicki Balazs, Jaydancinc Inc. and Kelsey Watkinson, Curley Brewing Company BE APPOINT...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -458,3 +428,40 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. Actions Implementing London's UNESCO Designation as Canada's 'City of Music'
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development the following actions be taken with respect to London’s UNESCO designation as Canada's 'City of Music': a)    the area previously identified in the Music, Entertainment and Culture District Strategy as the D...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Anti-Racism and Anti-Oppression Framework
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the City Manager, the following actions be taken with respect to the new Anti-Racism and Anti-Oppression Framework: a)    the above-noted Framework, as outlined in the staff report dated September 20, 2022, BE ENDORSED; and,    b)    the Civic Administration BE DIRE...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.2. Hyde Park Business Improvement Association
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the Hyde Park Business Improvement Association:    a) the resignation of Jean Coles from the Hyde Park Business Improvement Association BE ACCEPTED; and,    b) Vicki Balazs, Jaydancinc Inc. and Kelsey Watkinson, Curley Brewing Company BE APPOINT...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

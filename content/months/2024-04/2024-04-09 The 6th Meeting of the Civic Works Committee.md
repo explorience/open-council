@@ -228,20 +228,6 @@ That the Civic Works Committee Deferred Matters List, as at March 15, 2024, BE R
 
 
 The meeting adjourned at 9:58 AM.
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -416,3 +402,20 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -1234,259 +1234,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 8:24 PM.
 
 ****
-
----
-
-## Votes
-
-*20 substantive votes at this meeting (13 contested, 7 unanimous). Procedural motions excluded.*
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That the delegation requests from R. Van Gelderen, J. Herb, J. Ross and D. Devine BE APPROVED to heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part b) of the motion be amended to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $141,400 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part c) of the motion be amended to read as follows: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of ...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part f) of the motion be further amended to indicate "with a buffer of 100 metres"
-
-**❌ Motion Failed (6 to 9) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part f) i) and ii) of the motion be amended to read as follows: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agen...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part f) iii) of the motion be amended to read as follows: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffe...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part b) of the motion be further amended to change funding amount from $141,400 to $99,700 and to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of...
-
-**✅ Motion Passed (9 to 6) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part a) of the motion be approved: a)    amendments to the setback requirements in the Community Encampment Response Plan to be on or within 25 metres of any private residential property line with a habitable dwelling as per the Building Code BE ENDORSED;
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part b) of the motion, as amended, be approved: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part c) of the motion, as amended, be approved: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of Londo...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part f) i) and ii) of the motion, as amended, be approved: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agencies,...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part f) iii) of the motion, as amended, be approved: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of ...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That part h) of the motion be approved: h) continuation of contracted services at the Canadian Mental Health Association Thames Valley Addictions Mental Health Services (CMHA-TVAMHS) related to their previously approved Cold Weather Response by reallocating remaining operational surplus to mainta...
-
-**✅ Motion Passed (8 to 7) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That parts d), e), g), i), j) and balance of the motion be approved: d) the Civic Administration BE DIRECTED to seek out and apply for additional sources of funding to offset any Municipal funding; e) the Civic Administration BE DIRECTED to report back in mid-2025 on plans and recommended funding...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
-
-> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
-
-### 4.2. Sprung Shelter Motion - Councillor S.  Franke and Councillor J. Pribil
-
-> That correspondence from Councillor S. Franke and Councillor J. Pribil regarding the feasibility of a quick community with small housing structures such as sprung shelters, tiny homes etc. BE REFERRED to the Customer Service and Process Improvements Reference Group to receive feedback from commun...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
-
-</details>
-
-### 4.3. Agencies, Boards and Commissions Motion - Councillor S. Franke and Councillor C. Rahman
-
-> That the Civic Administration BE DIRECTED to convey to all agencies, boards and commissions that receive tax levy funding through the City of London budget, be directed to work in good faith in their interactions with the City and that the use of municipal funding intended to support lobbying eff...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.5. Committee Appointment Preferences Submitted by Council Members
-
-> That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2024 to November 30, 2025:    a)      Planning and Environment Committee    Councillor P. Cuddy  Councillor E. Peloza  Councillor S. Hillier     b)      Infrastructure and Corporat...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.5. Committee Appointment Preferences Submitted by Council Members
-
-> Appointment to Planning and Environment Committee
-
-**❌ Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-</details>
-
-### 5.1. (ADDED) 2025 Calendar Amendment Motion - Deputy Mayor S. Lewis and Councillor P. Cuddy
-
-> That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend the Council Procedure By-law to adjust the Annual Schedule of Meetings, effective 2025 and on an ongoing basis, by incorporating a meeting-free "Constituency Week" in both April a...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -2694,3 +2441,297 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*20 substantive votes at this meeting (13 contested, 7 unanimous). Procedural motions excluded.*
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That the delegation requests from R. Van Gelderen, J. Herb, J. Ross and D. Devine BE APPROVED to heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> That part b) of the motion be amended to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $141,400 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
+> That part c) of the motion be amended to read as follows: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-5" class="motion-anchor"></div>
+
+> That part f) of the motion be further amended to indicate "with a buffer of 100 metres"
+
+**❌ Motion Failed (6 to 9) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (6):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (9):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-6" class="motion-anchor"></div>
+
+> That part f) i) and ii) of the motion be amended to read as follows: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agen...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-7" class="motion-anchor"></div>
+
+> That part f) iii) of the motion be amended to read as follows: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffe...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-9" class="motion-anchor"></div>
+
+> That part b) of the motion be further amended to change funding amount from $141,400 to $99,700 and to read as follows: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of...
+
+**✅ Motion Passed (9 to 6) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (6):** [Josh Morgan](/councillors/current/j-morgan), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-10" class="motion-anchor"></div>
+
+> That part a) of the motion be approved: a)    amendments to the setback requirements in the Community Encampment Response Plan to be on or within 25 metres of any private residential property line with a habitable dwelling as per the Building Code BE ENDORSED;
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-11" class="motion-anchor"></div>
+
+> That part b) of the motion, as amended, be approved: b)    the Civic Administration BE DIRECTED to reallocate up to $99,700 from the surplus 2024 Housing Stability Services funding to fund the basic needs provision for a period of November 1, 2024 through December 31, 2024;
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Susan Stevenson](/councillors/current/s-stevenson), [Anna Hopkins](/councillors/current/a-hopkins), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-12" class="motion-anchor"></div>
+
+> That part c) of the motion, as amended, be approved: c)    the Civic Administration and the Mayor BE REQUESTED to engage with the federal and provincial governments to fund the Encampment Implementation Recommendations for an initial period of January 1, 2025 to December 31, 2025 as part of Londo...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-13" class="motion-anchor"></div>
+
+> That part f) i) and ii) of the motion, as amended, be approved: f)     the following actions BE TAKEN with respect to additional service depot location(s):  i) the establishment of future service depot locations include a community meeting, which will include city staff, service support agencies,...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-14" class="motion-anchor"></div>
+
+> That part f) iii) of the motion, as amended, be approved: iii) future service depot locations be deferred for consideration at the November 19, 2024 meeting of Strategic Priorities and Policy Committee and that Civic Administration bring forward a new list of possible locations (with a buffer of ...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-15" class="motion-anchor"></div>
+
+> That part h) of the motion be approved: h) continuation of contracted services at the Canadian Mental Health Association Thames Valley Addictions Mental Health Services (CMHA-TVAMHS) related to their previously approved Cold Weather Response by reallocating remaining operational surplus to mainta...
+
+**✅ Motion Passed (8 to 7) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (8):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (7):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-16" class="motion-anchor"></div>
+
+> That parts d), e), g), i), j) and balance of the motion be approved: d) the Civic Administration BE DIRECTED to seek out and apply for additional sources of funding to offset any Municipal funding; e) the Civic Administration BE DIRECTED to report back in mid-2025 on plans and recommended funding...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Whole of Community System Response – Community Encampment Plan: Implementation Recommendations 2025 and Basic Needs Update
+
+<div id="motion-4-1-17" class="motion-anchor"></div>
+
+> That pursuant to section 33.8 of the Council Procedure By-law, the Strategic Priorities and Policy Committee BE PERMITTED to proceed beyond 6:00 PM.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Sprung Shelter Motion - Councillor S.  Franke and Councillor J. Pribil
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That correspondence from Councillor S. Franke and Councillor J. Pribil regarding the feasibility of a quick community with small housing structures such as sprung shelters, tiny homes etc. BE REFERRED to the Customer Service and Process Improvements Reference Group to receive feedback from commun...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Peter Cuddy](/councillors/current/p-cuddy)
+
+</details>
+
+### 4.3. Agencies, Boards and Commissions Motion - Councillor S. Franke and Councillor C. Rahman
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to convey to all agencies, boards and commissions that receive tax levy funding through the City of London budget, be directed to work in good faith in their interactions with the City and that the use of municipal funding intended to support lobbying eff...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.5. Committee Appointment Preferences Submitted by Council Members
+
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
+> That the following appointments BE MADE to the Standing Committees of the Municipal Council for the term December 1, 2024 to November 30, 2025:    a)      Planning and Environment Committee    Councillor P. Cuddy  Councillor E. Peloza  Councillor S. Hillier     b)      Infrastructure and Corporat...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.5. Committee Appointment Preferences Submitted by Council Members
+
+<div id="motion-4-5-1" class="motion-anchor"></div>
+
+> Appointment to Planning and Environment Committee
+
+**❌ Majority Winner: Councillor P. Cuddy; Councillor E. Peloza; Councillor S. Hillier 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 5.1. (ADDED) 2025 Calendar Amendment Motion - Deputy Mayor S. Lewis and Councillor P. Cuddy
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to bring forward a by-law to a future meeting of Municipal Council to amend the Council Procedure By-law to adjust the Annual Schedule of Meetings, effective 2025 and on an ongoing basis, by incorporating a meeting-free "Constituency Week" in both April a...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

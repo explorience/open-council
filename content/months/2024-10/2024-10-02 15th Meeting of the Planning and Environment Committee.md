@@ -571,59 +571,6 @@ The meeting adjourned at 3:15 PM.
 > **Motion Passed (4 to 0)**
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 9th Report of the Community Advisory Committee on Planning
-
-> That the 9th Report of the Community Advisory Committee on Planning, from its meeting held on September 11, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN relating to the request to consider designating the City Hall building located at 300 Dufferin Avenue; it being noted that the Planning and E...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.1. 9th Report of the Community Advisory Committee on Planning
-
-> That S. Miller, BE GRANTED delegation status with respect to these matters.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 850 Highbury Avenue - London Psychiatric Hospital Lands (Z-9577/O-9766)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Old Oak Properties Inc., relating to the property located at 850 Highbury Avenue: a)    the proposed by-law appended to the staff report dated October 2, 2024 a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 7. Adjournment
-
-> The meeting adjourned at 3:15 PM.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -819,3 +766,67 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.3 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 9th Report of the Community Advisory Committee on Planning
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
+> That the 9th Report of the Community Advisory Committee on Planning, from its meeting held on September 11, 2024 BE RECEIVED and NO FURTHER ACTION BE TAKEN relating to the request to consider designating the City Hall building located at 300 Dufferin Avenue; it being noted that the Planning and E...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.1. 9th Report of the Community Advisory Committee on Planning
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
+> That S. Miller, BE GRANTED delegation status with respect to these matters.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 850 Highbury Avenue - London Psychiatric Hospital Lands (Z-9577/O-9766)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Old Oak Properties Inc., relating to the property located at 850 Highbury Avenue: a)    the proposed by-law appended to the staff report dated October 2, 2024 a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 7. Adjournment
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> The meeting adjourned at 3:15 PM.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

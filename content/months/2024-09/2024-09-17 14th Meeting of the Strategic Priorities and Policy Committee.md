@@ -546,109 +546,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:24 PM.
 
 ****
-
----
-
-## Votes
-
-*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That part a) i) 641 Queens Avenue, ii) 434 Elizabeth Street, vi) 824 Dundas Street BE REFERRED to Civic Administration to consult with the Old East Village Business Improvement Area and community association and report back to a future meeting of the Strategic Priorities and Policy Committee.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That part a) of the motion be amended to read as follows: a)    the Civic Administration BE DIRECTED to undertake a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techn...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
-
-> That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
-
-**✅ Motion Passed (13 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
-
-> That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to the next meeting of Strategic Priorities and Policy Committee in order to allow the accommodation industry to provide comment on the proposed increase to the MAT.
-
-**❌ Motion Failed (1 to 13)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
-
-**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.1. 2nd Report of the Strategic Opportunities Review Working Group
-
-> That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.2. 3rd Report of the Strategic Opportunities Review Working Group
-
-> That the delegation request from A. McGuigan BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. 12th Report of the Governance Working Group
-
-> That the following actions be taken with respect to the 12th Report of the Special Governance Working Group from its meeting held on August 15, 2024: a)    the Councillor Role Description, as amended and attached, BE APPROVED; b)    on the recommendation of the City Clerk, the following actions b...
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 5.1. (ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
-
-> That the grant application for the Growing Canada's Community Canopies to assist London in achieving our tree canopy target BE SUPPORTED by Municipal Council.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -886,3 +783,125 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*9 substantive votes at this meeting (3 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+<div id="motion-2-1-2" class="motion-anchor"></div>
+
+> That part a) i) 641 Queens Avenue, ii) 434 Elizabeth Street, vi) 824 Dundas Street BE REFERRED to Civic Administration to consult with the Old East Village Business Improvement Area and community association and report back to a future meeting of the Strategic Priorities and Policy Committee.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+<div id="motion-2-1-3" class="motion-anchor"></div>
+
+> That part a) of the motion be amended to read as follows: a)    the Civic Administration BE DIRECTED to undertake a procurement process to solicit development proposals from qualified firms that can redevelop City-owned parking lots for high-density housing, encouraging modular construction techn...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.1. Mayoral Direction 2024-001, City-Owned Parking Lot Redevelopment
+
+<div id="motion-2-1-4" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the Municipal Accommodation Tax: a)    on the recommendation of the Deputy City Manager, Planning and Economic Development, Tourism’s London annual report on the expenditures of Municipal Accommodation Tax (MAT) revenues BE RECEIVED for informat...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 2.2. Municipal Accommodation Tax - Tourism London Annual Report
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
+> That the motion related to the Municipal Accommodation Tax (MAT) BE REFERRED to the next meeting of Strategic Priorities and Policy Committee in order to allow the accommodation industry to provide comment on the proposed increase to the MAT.
+
+**❌ Motion Failed (1 to 13)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+**Nay (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.1. 2nd Report of the Strategic Opportunities Review Working Group
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That it BE NOTED the 2nd Report of the Strategic Opportunities Review Working Group was considered at the Council meeting held on July 23, 2024.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.2. 3rd Report of the Strategic Opportunities Review Working Group
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
+> That the delegation request from A. McGuigan BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. 12th Report of the Governance Working Group
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the 12th Report of the Special Governance Working Group from its meeting held on August 15, 2024: a)    the Councillor Role Description, as amended and attached, BE APPROVED; b)    on the recommendation of the City Clerk, the following actions b...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 5.1. (ADDED) Support for a Grant Application for the Growing Canada's Community Canopies - Councillors S. Franke and C. Rahman
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
+> That the grant application for the Growing Canada's Community Canopies to assist London in achieving our tree canopy target BE SUPPORTED by Municipal Council.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

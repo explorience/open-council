@@ -182,28 +182,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:56 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
-
-> That the delegation request of M. Wallace, London Development Institute, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
-
-> That the recommendation BE AMENDED by adding the following new part d): "d)    that the Province BE FURTHER ADVISED that the Municipal Council supports the submissions on Bill 23, More Homes Built Faster Act, 2022, from the Association of Municipalities of Ontario and the Ontario Big City Mayors;"
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -466,3 +444,30 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> That the delegation request of M. Wallace, London Development Institute, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. Bill 23, More Homes Built Faster Act, 2022, Information Report
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
+> That the recommendation BE AMENDED by adding the following new part d): "d)    that the Province BE FURTHER ADVISED that the Municipal Council supports the submissions on Bill 23, More Homes Built Faster Act, 2022, from the Association of Municipalities of Ontario and the Ontario Big City Mayors;"
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

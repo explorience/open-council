@@ -186,29 +186,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:20 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
-
-### 2.1. Recruitment, Retention and Accommodation of Planning & Development and Building Staff
-
-> Motion TO APPROVE the preamble and parts a) and parts b) to read as follows: "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the Deputy City Manager, Enterprise Supports, and the Deputy City Manager, Finance Supports, the following actions be taken: a) ...
-
-**✅ Motion Passed (12 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
 ---
 
 ## Full Transcript
@@ -570,3 +547,29 @@ Moved by Councilor Cuddy, seconded by Councilor Stevenson. All those in favor, a
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (1 contested, 0 unanimous). Procedural motions excluded.*
+
+### 2.1. Recruitment, Retention and Accommodation of Planning & Development and Building Staff
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
+> Motion TO APPROVE the preamble and parts a) and parts b) to read as follows: "That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the Deputy City Manager, Enterprise Supports, and the Deputy City Manager, Finance Supports, the following actions be taken: a) ...
+
+**✅ Motion Passed (12 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+

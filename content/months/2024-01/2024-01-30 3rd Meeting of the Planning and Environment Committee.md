@@ -922,81 +922,6 @@ That the Deferred Matters List BE RECEIVED for information. (2023-D09)
 
 
 The meeting adjourned at 4:11 PM.
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 4366 Colonel Talbot Road (Z-9676)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Lambeth Health Organization Inc., (c/o Siv-ik Planning & Design Inc.), relating to the property located at 4366 Colonel Talbot Road: a)    the proposed by-law a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.6. 934 Oxford Street West (Z-9678)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2419361 Ontario Inc., relating to the property located at 934 Oxford Street West: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the ...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.6. 934 Oxford Street West (Z-9678)
-
-> Motion to approve the application by 2419361 Ontario Inc., relating to the property located at 934 Oxford Street West: a)    the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Offici...
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 3.8. City-Wide 5-Bedroom Limits and Increased Permissions for Additional Residential Units (OZ-9661)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for 5-bedroom limits and additional residential units: a)    the proposed by-law appended to the staff report dated January 30, 20...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. 1310 Adelaide Street North and 795 Windermere Road (OZ-8709)
-
-> That the following actions be taken with respect to the application by Royal Premier Development, relating to the property located at 1310 Adelaide Street North & 795 Windermere Road: a)    the attached, revised, proposed by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be ...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1526,3 +1451,91 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (3 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.4, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 4366 Colonel Talbot Road (Z-9676)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Lambeth Health Organization Inc., (c/o Siv-ik Planning & Design Inc.), relating to the property located at 4366 Colonel Talbot Road: a)    the proposed by-law a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.6. 934 Oxford Street West (Z-9678)
+
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by 2419361 Ontario Inc., relating to the property located at 934 Oxford Street West: a)    the request to amend Zoning By-law No. Z.-1 to change the zoning of the ...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.6. 934 Oxford Street West (Z-9678)
+
+<div id="motion-3-6-3" class="motion-anchor"></div>
+
+> Motion to approve the application by 2419361 Ontario Inc., relating to the property located at 934 Oxford Street West: a)    the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on February 13, 2024, to amend Zoning By-law No. Z.-1, (in conformity with the Offici...
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Shawn Lewis](/councillors/current/s-lewis), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (3):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 3.8. City-Wide 5-Bedroom Limits and Increased Permissions for Additional Residential Units (OZ-9661)
+
+<div id="motion-3-8-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the Official Plan and Zoning By-law requirements for 5-bedroom limits and additional residential units: a)    the proposed by-law appended to the staff report dated January 30, 20...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 1310 Adelaide Street North and 795 Windermere Road (OZ-8709)
+
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the application by Royal Premier Development, relating to the property located at 1310 Adelaide Street North & 795 Windermere Road: a)    the attached, revised, proposed by-law (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be ...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Corrine Rahman](/councillors/current/c-rahman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+

@@ -197,57 +197,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:56 PM.
 
 ****
-
----
-
-## Votes
-
-*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
-
-### 4.1. Code of Conduct for Members of Council and Local Boards
-
-> That the Code of Conduct for Members of Council and Local Boards and the Council and Staff Relations Policy BE REFERRED to a future meeting of the Governance Working Group for further review, with an invitation extended to the Integrity Commissioner to attend and respond to questions; it being no...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
-
-> That, with respect to the London Hydro Inc. Affiliate Proposal, the Civic Administration BE DIRECTED to work with London Hydro Inc. and report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and supporting documentation to implement the propose...
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
-
-> That the delegation request from Y. Semsedini, CEO and T. Goodine, Board Chair, London Hydro, BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> That Michelle Southern BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
-
-### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
-
-> Consideration of Appointment to the Eldon House Board of Directors.
-
-**❌ Majority Winner: Michelle Southern 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
 ---
 
 ## Full Transcript
@@ -635,3 +584,65 @@ Unanimous (14-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 4.1. Code of Conduct for Members of Council and Local Boards
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the Code of Conduct for Members of Council and Local Boards and the Council and Staff Relations Policy BE REFERRED to a future meeting of the Governance Working Group for further review, with an invitation extended to the Integrity Commissioner to attend and respond to questions; it being no...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That, with respect to the London Hydro Inc. Affiliate Proposal, the Civic Administration BE DIRECTED to work with London Hydro Inc. and report back to a future meeting of the Strategic Priorities and Policy Committee with the necessary by-laws and supporting documentation to implement the propose...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.2. Delegation - Ysni Semsedini, CEO and Tanya Goodine, Board Chair, London Hydro - Affiliated Proposal
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
+> That the delegation request from Y. Semsedini, CEO and T. Goodine, Board Chair, London Hydro, BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
+> That Michelle Southern BE APPOINTED to the Eldon House Board of Directors for the term ending November 14, 2026.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.3. Consideration of Appointment to the Eldon House Board of Directors (Requires 1 Member)
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
+> Consideration of Appointment to the Eldon House Board of Directors.
+
+**❌ Majority Winner: Michelle Southern 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+

@@ -3260,6 +3260,7 @@ The meeting adjourned at 8:26 PM.
 > By-law No. Z.-1-263466 - A by-law to amend By-law No. Z.-1 with respect to the Residential Parking Provisions – rates (3.3/10/PEC).
 
 <<<<<<< HEAD
+
 ---
 
 ## Votes
@@ -3932,5 +3933,3 @@ Unanimous (15-0)
 
 </details>
 
-=======
->>>>>>> origin/main

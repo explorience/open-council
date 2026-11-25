@@ -755,5 +755,3 @@ Okay, that concludes the confirmation by-law. I only have a motion to adjourn la
 
 Unanimous (13-0)
 
-=======
->>>>>>> origin/main

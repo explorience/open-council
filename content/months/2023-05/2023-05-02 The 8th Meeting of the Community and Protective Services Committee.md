@@ -132,20 +132,6 @@ None.
 
 
 The meeting adjourned at 4:10 PM.
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.4 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -240,3 +226,20 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.4 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

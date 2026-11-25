@@ -404,112 +404,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 9:43 PM.
 
 ****
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (6 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.
-
-**❌ Motion Failed (4 to 11)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> That part g) BE AMENDED to read as follows: “g)     the Mayor and the Budget Chair BE APPOINTED to represent the Municipal Council at the Strategy and Accountability table, for the Whole of Community System response, with the Deputy Mayor to serve as an alternate for either, if required; and”
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve part a): That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Response Proposed H...
-
-**✅ Motion Passed (11 to 4)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve part b): b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing for approval;
-
-**✅ Motion Passed (12 to 3)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
-
-> Motion to approve the balance of the motion, including the amended part g), c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homel...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. July Progress Update - Health and Homelessness Whole of Community System Response
-
-> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken: a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information; b)    the Request for Proposal (RFP-2023-174) submit...
-
-**✅ Motion Passed (12 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1716,3 +1610,124 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (6 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That the following delegations BE APPROVED to be heard at this time: - M. Wallace, London Development Institute; - J. Herb
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-4" class="motion-anchor"></div>
+
+> That consideration of the matter of London's Health and Homelessness Whole of Community System Response BE REFERRED to a future special meeting of the Strategic Priorities and Policy Committee which would include a public participation meeting.
+
+**❌ Motion Failed (4 to 11)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-6" class="motion-anchor"></div>
+
+> That part g) BE AMENDED to read as follows: “g)     the Mayor and the Budget Chair BE APPOINTED to represent the Municipal Council at the Strategy and Accountability table, for the Whole of Community System response, with the Deputy Mayor to serve as an alternate for either, if required; and”
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-7" class="motion-anchor"></div>
+
+> Motion to approve part a): That the following actions be taken with respect to the London’s Health & Homelessness Whole of Community System Response Proposed Hubs Implementation Plan report dated July 24, 2023: a)    the London’s Health & Homelessness Whole of Community System Response Proposed H...
+
+**✅ Motion Passed (11 to 4)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (11):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (4):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-8" class="motion-anchor"></div>
+
+> Motion to approve part b): b)    the Civic Administration BE DIRECTED to undertake a competitive procurement process to select the Lead Agencies and their corresponding locations for the implementation of the first five Hubs and report back with the results and sources of financing for approval;
+
+**✅ Motion Passed (12 to 3)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.1. London's Health and Homelessness Whole of Community System Response Proposed Hubs Implementation Plan
+
+<div id="motion-4-1-9" class="motion-anchor"></div>
+
+> Motion to approve the balance of the motion, including the amended part g), c)    the Civic Administration BE DIRECTED to secure sources of financing to support the implementation of the first five Hubs including a request through the London Community Foundation for access to the Health and Homel...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. July Progress Update - Health and Homelessness Whole of Community System Response
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Social and Health Development, the following actions be taken: a)    the July Progress Update – Health & Homelessness Whole of Community System Response Report BE RECEIVED for information; b)    the Request for Proposal (RFP-2023-174) submit...
+
+**✅ Motion Passed (12 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (12):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+**Absent (2):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+

@@ -1525,69 +1525,6 @@ e)        clauses 1.1, 2.1 and 2.2, inclusive, 4.1, 4.2 and 4.4, BE RECEIVED
 
 
 The meeting adjourned at 8:40 PM.
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road – (Z-9301)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1630 HP Inc., relating to the property located at 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road: a) the proposed by-law a...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM – 435-451 Ridout Street North - (OZ-9157)
-
-> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Farhi Holdings Corporation, relating to the property located at 435-451 Ridout Street North: a) consistent with Policy 19.1.1. of the Official Plan for the City of ...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
-
-**Absent (1):** [Ed Holder](/councillors/former/e-holder)
-
-</details>
-
-### 4.1. 5th Report of the London Advisory Committee on Heritage
-
-> That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on May 12, 2021:    a) M. Corby, Senior Planner, BE ADVISED of the following comments from the London Advisory Committee on Heritage (LACH) with respect to the No...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.1. Deferred Matters List
-
-> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 5.2. (ADDED) 4th Report of the Trees and Forests Advisory Committee
-
-> That the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on May 26, 2021:    a)        the Educational Initiatives and Outreach Sub-Committee recommendations, appended to the Trees and Forests Advisory Committee (TFAC) A...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1737,3 +1674,79 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.6, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road – (Z-9301)
+
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by 1630 HP Inc., relating to the property located at 1634 – 1656 Hyde Park Road, 1480 North Routledge Park and Part of 1069 Gainsborough Road: a) the proposed by-law a...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.10. Public Participation Meeting - Not to be heard before 5:30 PM – 435-451 Ridout Street North - (OZ-9157)
+
+<div id="motion-3-10-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Farhi Holdings Corporation, relating to the property located at 435-451 Ridout Street North: a) consistent with Policy 19.1.1. of the Official Plan for the City of ...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (1):** [Anna Hopkins](/councillors/current/a-hopkins)
+
+**Absent (1):** [Ed Holder](/councillors/former/e-holder)
+
+</details>
+
+### 4.1. 5th Report of the London Advisory Committee on Heritage
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That, the following actions be taken with respect to the 5th Report of the London Advisory Committee on Heritage from its meeting held on May 12, 2021:    a) M. Corby, Senior Planner, BE ADVISED of the following comments from the London Advisory Committee on Heritage (LACH) with respect to the No...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 5.2. (ADDED) 4th Report of the Trees and Forests Advisory Committee
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the 4th Report of the Trees and Forests Advisory Committee, from its meeting held on May 26, 2021:    a)        the Educational Initiatives and Outreach Sub-Committee recommendations, appended to the Trees and Forests Advisory Committee (TFAC) A...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

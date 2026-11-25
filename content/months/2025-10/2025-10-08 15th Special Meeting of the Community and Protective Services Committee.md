@@ -111,35 +111,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:46 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Micro-Modular Shelter Site
-
-> That part b) of the motion BE APPROVED.
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
-
-</details>
-
-### 4.1. Micro-Modular Shelter Site
-
-> That the remainder of the motion BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -895,3 +866,37 @@ Unanimous (6-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Micro-Modular Shelter Site
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That part b) of the motion BE APPROVED.
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Sam Trosow](/councillors/current/s-trosow)
+
+</details>
+
+### 4.1. Micro-Modular Shelter Site
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> That the remainder of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

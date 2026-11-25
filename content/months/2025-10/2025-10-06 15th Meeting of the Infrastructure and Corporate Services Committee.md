@@ -300,28 +300,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:52 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
-
-> That parts a), b), c), and e) of the motion BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
-
-> That part d) of the motion BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -572,3 +550,30 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
+
+<div id="motion-2-5-1" class="motion-anchor"></div>
+
+> That parts a), b), c), and e) of the motion BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.5. City/County Cost Apportionment & Agency Agreements for Land Ambulance, Ontario Works, Housing, Child Care and Homelessness Prevention Program
+
+<div id="motion-2-5-2" class="motion-anchor"></div>
+
+> That part d) of the motion BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

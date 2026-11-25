@@ -299,36 +299,6 @@ None.
 
 
 The meeting adjourned at 12:49 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2 and 2.4 to 2.12 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
-
-> Motion to approve part a).
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
-
-> Motion to approve part b).
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
 ---
 
 ## Full Transcript
@@ -569,3 +539,40 @@ Unanimous (6-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1, 2.2 and 2.4 to 2.12 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
+
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
+> Motion to approve part a).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.3. Hamilton Road and Highbury Avenue Intersection - Safety Review
+
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
+> Motion to approve part b).
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+

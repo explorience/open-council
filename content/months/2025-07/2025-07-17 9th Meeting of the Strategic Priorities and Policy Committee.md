@@ -515,96 +515,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 4:37 PM.
 
 ****
-
----
-
-## Votes
-
-*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. 2nd Report of the Governance Working Group
-
-> That part b) be approved to read as follows: b)    the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with an environmental scan of comparable municipalities regarding the selection process and role description for the position of Deputy Mayor...
-
-**❌ Motion Failed (5 to 10)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
-
-**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.2. London Transit Commission Governance - Councillor S. Franke, Chair, London Transit
-
-> That London Transit Commission Governance BE DEFERRED pending the outcome of the external governance review and report back to the Strategic Priorities and Policy Committee. it being noted that the Strategic Priorities and Policy Committee received a communication dated June 24, 2025 from Council...
-
-**✅ Motion Passed (14 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That the motion be amended in part b) to add the following wording "statutory 30-day public review and comment period to assist in guiding implementation"
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That parts a) and b) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.3. Mobility Master Plan Notice of Completion
-
-> That part c) of the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
-
-### 4.4. 2024 Climate Emergency Action Plan Progress Report
-
-> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken: a)    the presentation and staff report, providing a summary of progress and policy implications and opportunities pertaining to the Climate Emergency Action Plan (CEAP) as well...
-
-**✅ Motion Passed (13 to 2)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
-
-### 4.4. 2024 Climate Emergency Action Plan Progress Report
-
-> That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE APPROVED to be heard at this time.
-
-**✅ Motion Passed (15 to 0)**
-
-Unanimous (15-0)
 ---
 
 ## Full Transcript
@@ -813,3 +723,108 @@ Unanimous (15-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*7 substantive votes at this meeting (4 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. 2nd Report of the Governance Working Group
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
+> That part b) be approved to read as follows: b)    the Civic Administration BE REQUESTED to report back to a future meeting of the Governance Working Group with an environmental scan of comparable municipalities regarding the selection process and role description for the position of Deputy Mayor...
+
+**❌ Motion Failed (5 to 10)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Susan Stevenson](/councillors/current/s-stevenson), [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (10):** [Josh Morgan](/councillors/current/j-morgan), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.2. London Transit Commission Governance - Councillor S. Franke, Chair, London Transit
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That London Transit Commission Governance BE DEFERRED pending the outcome of the external governance review and report back to the Strategic Priorities and Policy Committee. it being noted that the Strategic Priorities and Policy Committee received a communication dated June 24, 2025 from Council...
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
+> That the motion be amended in part b) to add the following wording "statutory 30-day public review and comment period to assist in guiding implementation"
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+<div id="motion-4-3-2" class="motion-anchor"></div>
+
+> That parts a) and b) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.3. Mobility Master Plan Notice of Completion
+
+<div id="motion-4-3-3" class="motion-anchor"></div>
+
+> That part c) of the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+
+### 4.4. 2024 Climate Emergency Action Plan Progress Report
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken: a)    the presentation and staff report, providing a summary of progress and policy implications and opportunities pertaining to the Climate Emergency Action Plan (CEAP) as well...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke), [Elizabeth Peloza](/councillors/current/e-peloza), [David Ferreira](/councillors/current/d-ferreira), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+
+### 4.4. 2024 Climate Emergency Action Plan Progress Report
+
+<div id="motion-4-4-1" class="motion-anchor"></div>
+
+> That the delegation request from M. Shannon and M. Sye, Enbridge Gas Ontario BE APPROVED to be heard at this time.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (15-0)
+

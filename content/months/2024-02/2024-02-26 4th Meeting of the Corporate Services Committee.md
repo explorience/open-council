@@ -226,20 +226,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:41 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4. Items for Direction
-
-> That Items for Direction 4.1 and 4.2 BE APPROVED
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -382,3 +368,20 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> That Items for Direction 4.1 and 4.2 BE APPROVED
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

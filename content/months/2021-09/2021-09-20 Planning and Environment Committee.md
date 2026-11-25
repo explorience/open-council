@@ -625,44 +625,6 @@ The Planning and Environment Committee convenes, In Closed Session, from 6:36 PM
 
 
 The meeting adjourned at 6:40 PM.
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2, inclusive, BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.4. 250-272 Springbank Drive (OZ-9310)
-
-> That, on the recommendation of the Director, Planning and Development the following actions be taken with respect to the application of 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    the proposed by-law appended to the staff report dated September 20, 20...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.5. Argyle Core Area Community Improvement Plan (O-9299)
-
-> That, on the recommendation of the Director, Planning and Development and Interim Director, Economic Services and Supports, the following actions BE TAKEN with respect to the Argyle Core Area Community Improvement Plan (CIP): a)    the proposed by-law appended to the staff report dated September ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 4.1. 9th Report of the London Advisory Committee on Heritage
-
-> That the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 8, 2021, BE RECIEVED for information.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -839,3 +801,50 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 and 2.2, inclusive, BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.4. 250-272 Springbank Drive (OZ-9310)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development the following actions be taken with respect to the application of 2355440 Ontario Inc., relating to the property located at 250-272 Springbank Drive: a)    the proposed by-law appended to the staff report dated September 20, 20...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.5. Argyle Core Area Community Improvement Plan (O-9299)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development and Interim Director, Economic Services and Supports, the following actions BE TAKEN with respect to the Argyle Core Area Community Improvement Plan (CIP): a)    the proposed by-law appended to the staff report dated September ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. 9th Report of the London Advisory Committee on Heritage
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the 9th Report of the London Advisory Committee on Heritage, from its meeting held on September 8, 2021, BE RECIEVED for information.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

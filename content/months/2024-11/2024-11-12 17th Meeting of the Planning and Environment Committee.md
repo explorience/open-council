@@ -786,51 +786,6 @@ The meeting adjourned at 5:00 PM.
 > **Motion Passed (5 to 0)**
 
 ****
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Item 2.1 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. 3640 Dingman Drive (OZ-9771)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of The Corporation of the City of London, relating to the property located at 3640 Dingman Drive: a) the proposed by-law appended to the staff report dated Novembe...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 145 Base Line Road West (Z-9783)
-
-> That, the following actions be taken with respect to the application of 1000915350 Ontario Inc., (c/o Siv-ik), relating to the property located at 145 Base Line Road West: a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to amend Zonin...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 7. Adjournment
-
-> The meeting adjourned at 5:00 PM.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1310,3 +1265,57 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (1 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Item 2.1 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 3640 Dingman Drive (OZ-9771)
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of The Corporation of the City of London, relating to the property located at 3640 Dingman Drive: a) the proposed by-law appended to the staff report dated Novembe...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 145 Base Line Road West (Z-9783)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
+> That, the following actions be taken with respect to the application of 1000915350 Ontario Inc., (c/o Siv-ik), relating to the property located at 145 Base Line Road West: a) the proposed attached by-law BE INTRODUCED at the Municipal Council meeting to be held on November 26, 2024 to amend Zonin...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 7. Adjournment
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> The meeting adjourned at 5:00 PM.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

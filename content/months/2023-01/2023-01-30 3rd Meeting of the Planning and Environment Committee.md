@@ -628,54 +628,6 @@ None.
 
 
 The meeting adjourned at 7:49 PM.
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.5, inclusive, BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 489 Upper Queen Street (Z-9540)
-
-> That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendi...
-
-**✅ Motion Passed (3 to 2) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
-
-### 3.5. 608 Commissioners Road West (Z-9516)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Copia Developments, relating to the property located at 608 Commissioners Road West: a) the proposed by-law appended to the staff re...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
-
-</details>
 ---
 
 ## Full Transcript
@@ -1836,3 +1788,58 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (2 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.5, inclusive, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 489 Upper Queen Street (Z-9540)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, based on the application by 2863382 Ontario Inc. c/o Siv-ik Planning & Design Inc., relating to the property located at 489 Upper Queen Street, the proposed by-law appended to the staff report dated January 30, 2023 as Appendi...
+
+**✅ Motion Passed (3 to 2) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (2):** [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+
+### 3.5. 608 Commissioners Road West (Z-9516)
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Zelinka Priamo on behalf of Copia Developments, relating to the property located at 608 Commissioners Road West: a) the proposed by-law appended to the staff re...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Josh Morgan](/councillors/current/j-morgan)
+
+</details>
+

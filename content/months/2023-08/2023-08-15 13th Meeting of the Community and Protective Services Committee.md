@@ -424,62 +424,6 @@ None.
 
 
 The meeting adjourned at 8:12 PM.
-
----
-
-## Votes
-
-*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 and 2.2 BE APPROVED.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Fireworks By-law Options
-
-> That the motion BE AMENDED by adding the following: That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fee...
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 3.1. Fireworks By-law Options
-
-> That the motion, as amended, BE APPROVED.
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
-
-**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
-
-**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
-
-</details>
-
-### 4.1. Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated August 15, 2023, related to the Inter Faith Homes (London) Transition Strategy and the Appointment of London-Middlesex Community Housin...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -1126,3 +1070,68 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*4 substantive votes at this meeting (2 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 and 2.2 BE APPROVED.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Fireworks By-law Options
+
+<div id="motion-3-1-4" class="motion-anchor"></div>
+
+> That the motion BE AMENDED by adding the following: That the Civic Administration BE DIRECTED to review the Business Licensing By-law with respect to the sale of fireworks and report back on the following: licensing all retailers of fireworks, required communications to retailers and clients, fee...
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.1. Fireworks By-law Options
+
+<div id="motion-3-1-5" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Inter Faith Homes (London) Transition Strategy: Appointment of London-Middlesex Community Housing
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the staff report, dated August 15, 2023, related to the Inter Faith Homes (London) Transition Strategy and the Appointment of London-Middlesex Community Housin...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

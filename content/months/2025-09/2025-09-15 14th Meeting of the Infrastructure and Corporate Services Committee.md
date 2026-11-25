@@ -226,35 +226,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 2:44 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Consent Item 2.4 BE APPROVED.
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 2.1. Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
-
-> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project: a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consult...
-
-**✅ Motion Passed (5 to 1)**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
-
-**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
-
-</details>
 ---
 
 ## Full Transcript
@@ -420,3 +391,37 @@ Unanimous (6-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (1 contested, 1 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Consent Item 2.4 BE APPROVED.
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 2.1. Design Contract Price Increase: Wellington Gateway Transit and Municipal Infrastructure Improvements RFP20-29
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
+> That on the recommendation of the Deputy City Manager, Environment & Infrastructure, the following actions be taken with respect to the Wellington Gateway Transit and Municipal Infrastructure Improvements project: a)    the contract with AECOM Canada ULC for detailed design for RFP20-29 – Consult...
+
+**✅ Motion Passed (5 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (5):** [Josh Morgan](/councillors/current/j-morgan), [Jerry Pribil](/councillors/current/j-pribil), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [Skylar Franke](/councillors/current/s-franke)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+</details>
+

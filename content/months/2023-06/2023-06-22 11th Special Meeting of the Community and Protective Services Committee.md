@@ -71,20 +71,6 @@ None.
 
 
 The meeting adjourned at 12:12 PM.
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 4.1. Building Safer Communities Fund (BSCF) Multi-Year Contribution Agreement
-
-> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed By-law, as appended to the staff report dated June 22, 2023, BE INTRODUCED at the Municipal Council meeting to be held on June 27, 2023, to: a)    repeal Schedule “A” to By-law No. A.-8...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -169,3 +155,20 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 4.1. Building Safer Communities Fund (BSCF) Multi-Year Contribution Agreement
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the proposed By-law, as appended to the staff report dated June 22, 2023, BE INTRODUCED at the Municipal Council meeting to be held on June 27, 2023, to: a)    repeal Schedule “A” to By-law No. A.-8...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

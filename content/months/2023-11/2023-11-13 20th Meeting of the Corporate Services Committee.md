@@ -190,28 +190,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 1:17 PM.
 
 ****
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 4.1. Application - Issuance of Proclamation - Recognizing the Salvation Army Week
-
-> That the application dated October 26, 2023 from The Salvation Army of Canada and Bermuda, December 18, 2023 BE PROCLAIMED Recognizing the Salvation Army Week.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 4.2. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 6 Members)
-
-> That Jon Higgins BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending February 2024.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -326,3 +304,30 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 4.1. Application - Issuance of Proclamation - Recognizing the Salvation Army Week
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the application dated October 26, 2023 from The Salvation Army of Canada and Bermuda, December 18, 2023 BE PROCLAIMED Recognizing the Salvation Army Week.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.2. Consideration of Appointment to the Animal Welfare Community Advisory Committee (Requires up to 6 Members)
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That Jon Higgins BE APPOINTED to the Animal Welfare Community Advisory Committee for the term ending February 2024.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

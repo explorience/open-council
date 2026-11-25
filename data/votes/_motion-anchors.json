@@ -1,7 +1,7 @@
 {
   "note": "Per-motion evidence anchors emitted into the Votes section of each meeting page. Key: motion-<normalized itemNumber>-<rollCallOrdinal>. Append-only: see writeAnchorManifest in scripts/add-votes-to-pages.ts.",
-  "totalAnchors": 16652,
-  "meetings": 1376,
+  "totalAnchors": 16817,
+  "meetings": 1387,
   "anchors": [
     {
       "meetingSlug": "months/2011-08/2011-08-29 MINUTES FOURTEENTH MEETING",
@@ -133218,6 +133218,1326 @@
       "itemNumber": "4.1",
       "rollCallOrdinal": 1,
       "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-0",
+      "motionId": "b630173bb659",
+      "itemNumber": "13",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (11 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-1",
+      "motionId": "7c8371fd7432",
+      "itemNumber": "13",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (11 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-10",
+      "motionId": "27ab3ce20003",
+      "itemNumber": "13",
+      "rollCallOrdinal": 10,
+      "result": "Motion Passed (10 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-2",
+      "motionId": "8453d6fa518c",
+      "itemNumber": "13",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (11 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-3",
+      "motionId": "4638e58c292e",
+      "itemNumber": "13",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (8 to 5)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-6",
+      "motionId": "c40863510b0c",
+      "itemNumber": "13",
+      "rollCallOrdinal": 6,
+      "result": "Motion Passed (7 to 6)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-7",
+      "motionId": "8019dd2472e9",
+      "itemNumber": "13",
+      "rollCallOrdinal": 7,
+      "result": "Motion Passed (11 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-8",
+      "motionId": "667b5a934121",
+      "itemNumber": "13",
+      "rollCallOrdinal": 8,
+      "result": "Motion Passed (9 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-13-9",
+      "motionId": "1f5f00449ec8",
+      "itemNumber": "13",
+      "rollCallOrdinal": 9,
+      "result": "Motion Passed (10 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-1-0",
+      "motionId": "612531753b2c",
+      "itemNumber": "8.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-1-10-0",
+      "motionId": "cc9c5f40aa9f",
+      "itemNumber": "8.1.10",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-1-11-0",
+      "motionId": "b61539e1e9a6",
+      "itemNumber": "8.1.11",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-1-7-1",
+      "motionId": "f75eb13966a2",
+      "itemNumber": "8.1.7",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-1-7-2",
+      "motionId": "7612e4ea2e73",
+      "itemNumber": "8.1.7",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-0",
+      "motionId": "34f44c783ae6",
+      "itemNumber": "8.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-10",
+      "motionId": "af27c3059b59",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 10,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-2",
+      "motionId": "1efe8c9b8893",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-4",
+      "motionId": "c4ba934258c2",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 4,
+      "result": "Motion Failed (5 to 10)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-5",
+      "motionId": "5975591a7471",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 5,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-6",
+      "motionId": "0e6a0a5cdf97",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 6,
+      "result": "Motion Passed (10 to 5)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-7",
+      "motionId": "c6c5c77c7d10",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 7,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-3-9",
+      "motionId": "ee3fd992ddfa",
+      "itemNumber": "8.2.3",
+      "rollCallOrdinal": 9,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-10",
+      "motionId": "814607f978f4",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 10,
+      "result": "Motion Passed (9 to 6)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-11",
+      "motionId": "b537ea266cbb",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 11,
+      "result": "Motion Passed (9 to 4)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-12",
+      "motionId": "53d754fd48ca",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 12,
+      "result": "Motion Passed (11 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-2",
+      "motionId": "1f73ca13065c",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 2,
+      "result": "Motion Failed (7 to 8)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-3",
+      "motionId": "475bc60e554c",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 3,
+      "result": "Motion Failed (6 to 9)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-4",
+      "motionId": "b6076928211c",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 4,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-5",
+      "motionId": "2a956e0a866b",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 5,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-6",
+      "motionId": "b1b5049cfa89",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 6,
+      "result": "Motion Passed (9 to 6)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-8",
+      "motionId": "75e65aca0e93",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 8,
+      "result": "Motion Failed (7 to 8)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-2-4-9",
+      "motionId": "d21ab1b7ab04",
+      "itemNumber": "8.2.4",
+      "rollCallOrdinal": 9,
+      "result": "Motion Passed (11 to 4)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-3-0",
+      "motionId": "16e58964d87d",
+      "itemNumber": "8.3",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-3-2-1",
+      "motionId": "482a7ac57223",
+      "itemNumber": "8.3.2",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-3-2-2",
+      "motionId": "2430ec10d9f7",
+      "itemNumber": "8.3.2",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (13 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-3-4-0",
+      "motionId": "c957fd7e5930",
+      "itemNumber": "8.3.4",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (10 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-08/2026-08-25 13th Meeting of Council",
+      "anchorId": "motion-8-3-4-1",
+      "motionId": "ae393ec2c7ed",
+      "itemNumber": "8.3.4",
+      "rollCallOrdinal": 1,
+      "result": "Motion Failed (3 to 10)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-2-0",
+      "motionId": "40b18dddb7f3",
+      "itemNumber": "2.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-2-1",
+      "motionId": "df9a952b5a3e",
+      "itemNumber": "2.2",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-3-2",
+      "motionId": "05b857adfcb3",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-3-3",
+      "motionId": "5a97ae7ea72f",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-4-1-2",
+      "motionId": "7a031396c4f2",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-08 13th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-4-1-3",
+      "motionId": "f5bf5995efd2",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-0",
+      "motionId": "3fe1caf7890a",
+      "itemNumber": "2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-1",
+      "motionId": "ccca4d97cac1",
+      "itemNumber": "2",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-3-0",
+      "motionId": "2cac5452ad65",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (4 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-3-1",
+      "motionId": "175c253f6cc7",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (4 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-3-1",
+      "motionId": "110b91e0250d",
+      "itemNumber": "3.3",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-3-2",
+      "motionId": "ed6e9bed54aa",
+      "itemNumber": "3.3",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (4 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-4-0",
+      "motionId": "9b09b126cbb4",
+      "itemNumber": "3.4",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-7-0",
+      "motionId": "183e18fa8213",
+      "itemNumber": "3.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (3 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-4-1-0",
+      "motionId": "e7acb109111b",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (4 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-09 The 13th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-4-1-1",
+      "motionId": "9a664a40b3ac",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (4 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee",
+      "anchorId": "motion-1-0",
+      "motionId": "bc1b22b94b32",
+      "itemNumber": "1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee",
+      "anchorId": "motion-3-1-1",
+      "motionId": "86e8a14b03a6",
+      "itemNumber": "3.1",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee",
+      "anchorId": "motion-3-1-2",
+      "motionId": "5a6f3235ad18",
+      "itemNumber": "3.1",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-14 14th Meeting of the Infrastructure and Corporate Services Committee",
+      "anchorId": "motion-3-1-4",
+      "motionId": "d93dda388789",
+      "itemNumber": "3.1",
+      "rollCallOrdinal": 4,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-0",
+      "motionId": "cc9b5ac83673",
+      "itemNumber": "2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-1",
+      "motionId": "68d0077f1715",
+      "itemNumber": "2",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-3-2",
+      "motionId": "2fe8531794d3",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-3-3",
+      "motionId": "569e4d207f37",
+      "itemNumber": "2.3",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-4-1",
+      "motionId": "6d097db13b87",
+      "itemNumber": "2.4",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-5-0",
+      "motionId": "f7b67728c4d2",
+      "itemNumber": "2.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (4 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-7-1",
+      "motionId": "3e2f8f15d03d",
+      "itemNumber": "2.7",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-21 The 14th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-9-1",
+      "motionId": "a84629e7a872",
+      "itemNumber": "2.9",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-0",
+      "motionId": "df792e7cbd87",
+      "itemNumber": "13",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (12 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-1",
+      "motionId": "b2f7baa1ae15",
+      "itemNumber": "13",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (12 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-2",
+      "motionId": "89d06fd6c80f",
+      "itemNumber": "13",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (12 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-3",
+      "motionId": "912318bbfc2d",
+      "itemNumber": "13",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-4",
+      "motionId": "9697d1f88615",
+      "itemNumber": "13",
+      "rollCallOrdinal": 4,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-13-5",
+      "motionId": "6a8287d606b2",
+      "itemNumber": "13",
+      "rollCallOrdinal": 5,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-7-1-0",
+      "motionId": "070cebca624d",
+      "itemNumber": "7.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-7-1-1",
+      "motionId": "d0b2a053f9c8",
+      "itemNumber": "7.1",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-0",
+      "motionId": "c35d20591331",
+      "itemNumber": "8",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-1-0",
+      "motionId": "26b3b507e96b",
+      "itemNumber": "8.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-2-0",
+      "motionId": "fc2539c38113",
+      "itemNumber": "8.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-3-0",
+      "motionId": "6922ae128030",
+      "itemNumber": "8.3",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-3-12-0",
+      "motionId": "fb89af831bc4",
+      "itemNumber": "8.3.12",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-3-13-0",
+      "motionId": "de5753c8e0de",
+      "itemNumber": "8.3.13",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-3-6-0",
+      "motionId": "d8fc8a6341a9",
+      "itemNumber": "8.3.6",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (12 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-22 14th Meeting of Council",
+      "anchorId": "motion-8-3-9-0",
+      "motionId": "05d03bc728ce",
+      "itemNumber": "8.3.9",
+      "rollCallOrdinal": 0,
+      "result": "Motion Failed (2 to 13)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-0",
+      "motionId": "93ab8ed1a403",
+      "itemNumber": "2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-5-0",
+      "motionId": "1910b8299d9c",
+      "itemNumber": "2.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-2-5-1",
+      "motionId": "bb03064ef1aa",
+      "itemNumber": "2.5",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-28 14th Meeting of the Community and Protective Services Committee",
+      "anchorId": "motion-5-2-0",
+      "motionId": "62ce0247074c",
+      "itemNumber": "5.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (5 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-0",
+      "motionId": "6e7cd2a6ba81",
+      "itemNumber": "2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (4 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-2-1",
+      "motionId": "ae66eef6f25e",
+      "itemNumber": "2.2",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (3 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-4-1",
+      "motionId": "39670d595894",
+      "itemNumber": "2.4",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (3 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-2-5-0",
+      "motionId": "f76eafabd946",
+      "itemNumber": "2.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (2 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-11-0",
+      "motionId": "4e79f0df7129",
+      "itemNumber": "3.11",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (3 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-6-0",
+      "motionId": "528a72bddcbd",
+      "itemNumber": "3.6",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (3 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-09/2026-09-29 The 15th Meeting of the Planning and Environment Committee",
+      "anchorId": "motion-3-7-0",
+      "motionId": "c3401ead0342",
+      "itemNumber": "3.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (3 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-3-2-4",
+      "motionId": "02a81bbf8e42",
+      "itemNumber": "3.2",
+      "rollCallOrdinal": 4,
+      "result": "Motion Passed (13 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-3-2-5",
+      "motionId": "6ed8c0357a12",
+      "itemNumber": "3.2",
+      "rollCallOrdinal": 5,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-06 9th Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-1-0",
+      "motionId": "d3a7ded640aa",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-0",
+      "motionId": "0faa03b66f16",
+      "itemNumber": "13",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (10 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-1",
+      "motionId": "6eec77579e2e",
+      "itemNumber": "13",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (9 to 4)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-2",
+      "motionId": "0eb1dd9ebf81",
+      "itemNumber": "13",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (9 to 4)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-3",
+      "motionId": "81c1d50ed9ea",
+      "itemNumber": "13",
+      "rollCallOrdinal": 3,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-4",
+      "motionId": "48d0369ae4d8",
+      "itemNumber": "13",
+      "rollCallOrdinal": 4,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-13-5",
+      "motionId": "fa2c94cf6b27",
+      "itemNumber": "13",
+      "rollCallOrdinal": 5,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-6-1-0",
+      "motionId": "bb02ca42646d",
+      "itemNumber": "6.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-6-1-1",
+      "motionId": "8bb3bed46cd8",
+      "itemNumber": "6.1",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-6-2-0",
+      "motionId": "36be576b08a7",
+      "itemNumber": "6.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-1-0",
+      "motionId": "eb3a4800f5d5",
+      "itemNumber": "8.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-2-0",
+      "motionId": "a21587d128c3",
+      "itemNumber": "8.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-2-7-0",
+      "motionId": "1d13283305f4",
+      "itemNumber": "8.2.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (9 to 6)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-2-9-0",
+      "motionId": "9da71ae333f2",
+      "itemNumber": "8.2.9",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-2-9-1",
+      "motionId": "251af9f0e3f6",
+      "itemNumber": "8.2.9",
+      "rollCallOrdinal": 1,
+      "result": "Motion Failed (5 to 10)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-0",
+      "motionId": "057b3b228b02",
+      "itemNumber": "8.3",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-10-0",
+      "motionId": "8da9cc1d5997",
+      "itemNumber": "8.3.10",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (8 to 6)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-5-0",
+      "motionId": "4a735b182e6a",
+      "itemNumber": "8.3.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (10 to 5)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-6-1",
+      "motionId": "0e368951b6eb",
+      "itemNumber": "8.3.6",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (11 to 4)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-7-0",
+      "motionId": "1eaf8f2af71c",
+      "itemNumber": "8.3.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (12 to 3)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-7-1",
+      "motionId": "1cbbd09f372c",
+      "itemNumber": "8.3.7",
+      "rollCallOrdinal": 1,
+      "result": "Motion Failed (5 to 10)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-7-2",
+      "motionId": "30d08fe80c2d",
+      "itemNumber": "8.3.7",
+      "rollCallOrdinal": 2,
+      "result": "Motion Failed (2 to 13)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-3-8-0",
+      "motionId": "6102133bea47",
+      "itemNumber": "8.3.8",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (12 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-4-0",
+      "motionId": "0ca854413b15",
+      "itemNumber": "8.4",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-4-7-0",
+      "motionId": "20f23320ef2f",
+      "itemNumber": "8.4.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-5-0",
+      "motionId": "6f8c94f14646",
+      "itemNumber": "8.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-5-5-1",
+      "motionId": "4a75478c5a9f",
+      "itemNumber": "8.5.5",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-5-5-2",
+      "motionId": "86f1fee41ad5",
+      "itemNumber": "8.5.5",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (13 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-5-6-1",
+      "motionId": "6ec45a2e56a0",
+      "itemNumber": "8.5.6",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (12 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-10/2026-10-14 15th Meeting of Council",
+      "anchorId": "motion-8-5-6-2",
+      "motionId": "3d654e9ff258",
+      "itemNumber": "8.5.6",
+      "rollCallOrdinal": 2,
+      "result": "Motion Passed (12 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-0",
+      "motionId": "b615b4016fda",
+      "itemNumber": "4",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-1-0",
+      "motionId": "c1af3109b4fc",
+      "itemNumber": "4.1",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (13 to 2)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-10-0",
+      "motionId": "1b524471c2eb",
+      "itemNumber": "4.10",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-10-1",
+      "motionId": "21665025b20b",
+      "itemNumber": "4.10",
+      "rollCallOrdinal": 1,
+      "result": "Majority Winner: S. Lewis; C. Rahman"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-11-0",
+      "motionId": "14f29e000636",
+      "itemNumber": "4.11",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-11-1",
+      "motionId": "2953d9c6772a",
+      "itemNumber": "4.11",
+      "rollCallOrdinal": 1,
+      "result": "Majority Winner: S. Lehman"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-12-0",
+      "motionId": "e2c96b0a2be4",
+      "itemNumber": "4.12",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-12-1",
+      "motionId": "10794632f95c",
+      "itemNumber": "4.12",
+      "rollCallOrdinal": 1,
+      "result": "Majority Winner: C. Rahman; S. Lewis"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-13-0",
+      "motionId": "fe0b0b226ae8",
+      "itemNumber": "4.13",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-14-0",
+      "motionId": "fe9046cfd762",
+      "itemNumber": "4.14",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-15-0",
+      "motionId": "65192367245c",
+      "itemNumber": "4.15",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-16-0",
+      "motionId": "98ed9468194d",
+      "itemNumber": "4.16",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-17-0",
+      "motionId": "a59261d0ae20",
+      "itemNumber": "4.17",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-18-0",
+      "motionId": "cb65ed21a427",
+      "itemNumber": "4.18",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-18-1",
+      "motionId": "80506fd61069",
+      "itemNumber": "4.18",
+      "rollCallOrdinal": 1,
+      "result": "Majority Winner: S. Trosow"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-19-0",
+      "motionId": "27bb69b9a32b",
+      "itemNumber": "4.19",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-2-0",
+      "motionId": "147843554080",
+      "itemNumber": "4.2",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-20-0",
+      "motionId": "5f55aff5a32d",
+      "itemNumber": "4.20",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-22-0",
+      "motionId": "807629fe2c5e",
+      "itemNumber": "4.22",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-22-1",
+      "motionId": "3fb8c7ab59b8",
+      "itemNumber": "4.22",
+      "rollCallOrdinal": 1,
+      "result": "Majority Winner: E. Peloza"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-28-0",
+      "motionId": "063ff840c459",
+      "itemNumber": "4.28",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-29-0",
+      "motionId": "b68748547b56",
+      "itemNumber": "4.29",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-3-0",
+      "motionId": "dce032222943",
+      "itemNumber": "4.3",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-30-0",
+      "motionId": "2efe8473991b",
+      "itemNumber": "4.30",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-31-0",
+      "motionId": "0c1fac70aefe",
+      "itemNumber": "4.31",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-31-1",
+      "motionId": "435b8c521d72",
+      "itemNumber": "4.31",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (14 to 1)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-32-0",
+      "motionId": "230500c0607b",
+      "itemNumber": "4.32",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-33-0",
+      "motionId": "9d3aca472d8e",
+      "itemNumber": "4.33",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-34-0",
+      "motionId": "b5a69ce40514",
+      "itemNumber": "4.34",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-35-0",
+      "motionId": "cc93990ed5d6",
+      "itemNumber": "4.35",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-36-0",
+      "motionId": "3d118043b7e5",
+      "itemNumber": "4.36",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-37-0",
+      "motionId": "f36c30cb79fb",
+      "itemNumber": "4.37",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-38-0",
+      "motionId": "07c66430132c",
+      "itemNumber": "4.38",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (14 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-39-0",
+      "motionId": "2df043dc6ec6",
+      "itemNumber": "4.39",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-4-0",
+      "motionId": "0a9d95a4ac8d",
+      "itemNumber": "4.4",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-5-0",
+      "motionId": "659ed473d11c",
+      "itemNumber": "4.5",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-6-0",
+      "motionId": "ff33afa9da9a",
+      "itemNumber": "4.6",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-7-0",
+      "motionId": "cc3181f79d78",
+      "itemNumber": "4.7",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-8-0",
+      "motionId": "88160554a8be",
+      "itemNumber": "4.8",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-4-9-0",
+      "motionId": "c4377a4aebaf",
+      "itemNumber": "4.9",
+      "rollCallOrdinal": 0,
+      "result": "Motion Passed (15 to 0)"
+    },
+    {
+      "meetingSlug": "months/2026-11/2026-11-18 1st Meeting of the Strategic Priorities and Policy Committee",
+      "anchorId": "motion-6-1-1",
+      "motionId": "f2ed60f9acf3",
+      "itemNumber": "6.1",
+      "rollCallOrdinal": 1,
+      "result": "Motion Passed (15 to 0)"
     }
   ],
   "retired": []

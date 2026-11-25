@@ -1807,5 +1807,3 @@ Okay, Councillor and me, Rick, and I will second. All those in favor. Motion car
 
 Unanimous (5-0)
 
-=======
->>>>>>> origin/main

@@ -296,28 +296,6 @@ None.
 
 
 The meeting adjourned at 9:58 AM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
-
-> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -492,3 +470,30 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.3 and 2.5 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Contract Award - Tender No. RFT-2023-264 - East London Link Phase 3A West - Dundas Street
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
+> That on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report, dated January 30, 2024, related to a Contract Award for Tender No. RFT-2023-264 for the East London Link Phase 3A West Dundas Street: a)    the b...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

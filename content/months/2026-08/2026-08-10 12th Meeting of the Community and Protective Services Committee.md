@@ -320,6 +320,7 @@ The meeting adjourned at 3:44 PM.
 ****
 
 <<<<<<< HEAD
+
 ---
 
 ## Votes
@@ -366,5 +367,3 @@ Unanimous (6-0)
 
 Unanimous (6-0)
 
-=======
->>>>>>> origin/main

@@ -297,36 +297,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 12:30 PM.
 
 ****
-
----
-
-## Votes
-
-*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
-
-### 2.1. Council Policy Review - Flags at City Hall and Illumination of City of London Buildings and Amenities
-
-> That the proposed Illumination of City of London Buildings and Amenities Policy BE AMENDED by adding the remainder of the month of June to be allocated for national Pride month, with part j), as amended to read as follows: “j)    Notwithstanding the above, City of London buildings and amenities w...
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
-
-> That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
-
-> That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -435,3 +405,40 @@ Unanimous (3-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (0 contested, 3 unanimous). Procedural motions excluded.*
+
+### 2.1. Council Policy Review - Flags at City Hall and Illumination of City of London Buildings and Amenities
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
+> That the proposed Illumination of City of London Buildings and Amenities Policy BE AMENDED by adding the remainder of the month of June to be allocated for national Pride month, with part j), as amended to read as follows: “j)    Notwithstanding the above, City of London buildings and amenities w...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.1. Application - Issuance of Proclamation - Orange Shirt Day/National Day for Truth and Reconciliation
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That based on the application dated July 14, 2023 from the City of London Indigenous Employee Resource Group, September 30, 2023 BE PROCLAIMED Orange Shirt Day/National Day for Truth and Reconciliation.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+

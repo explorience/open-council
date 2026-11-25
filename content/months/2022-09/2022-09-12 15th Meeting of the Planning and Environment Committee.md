@@ -217,20 +217,6 @@ That the Deputy City Manager, Planning and Economic Development BE DIRECTED to u
 
 
 The meeting adjourned at 4:38 PM.
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 5.1. Deferred Matters List
-
-> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.   (2022-D19)
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -427,3 +413,20 @@ Unanimous (5-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
+
+> That the Deputy City Manager, Planning and Economic Development BE DIRECTED to update the Deferred Matters List to remove any items that have been addressed by the Civic Administration.   (2022-D19)
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

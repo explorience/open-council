@@ -253,20 +253,6 @@ That the meeting BE ADJOURNED.
 The meeting adjourned at 3:53 PM.
 
 ****
-
----
-
-## Votes
-
-*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
-
-### 8.1. 4th Special Report of the Strategic Priorities and Policy Committee
-
-> That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
-
-**✅ Motion Passed (14 to 0)**
-
-Unanimous (14-0)
 ---
 
 ## Full Transcript
@@ -335,3 +321,20 @@ Unanimous (14-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*1 substantive vote at this meeting (0 contested, 1 unanimous). Procedural motions excluded.*
+
+### 8.1. 4th Special Report of the Strategic Priorities and Policy Committee
+
+<div id="motion-8-1-0" class="motion-anchor"></div>
+
+> That the 4th Report of the Strategic Priorities and Policy Committee BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

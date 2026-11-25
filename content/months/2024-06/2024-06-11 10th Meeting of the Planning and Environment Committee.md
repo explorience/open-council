@@ -1303,123 +1303,6 @@ That the 6th Report of the Community Advisory Committee on Planning, from its me
 
 
 The meeting adjourned at 6:13 PM.
-
----
-
-## Votes
-
-*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1, 2.2, 2.3 and 2.5 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
-
-> That the Heritage Alteration Permit application under Section 42 of the Ontario Heritage Act relating to the property located at 332 St. James Street BE APPROVED; it being noted that the Planning and Environment Committee heard a verbal delegation from G. Keene, with respect to these matters; it ...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
-
-> That G. Keane BE GRANTED delegation status with respect to the Heritage Alteration Permit application relating to the property located at 332 St. James Street.
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
-
-### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
-
-> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Community Improvement Plans Review for Increasing Affordable Housing: a)    the Civic Administration BE DIRECTED to amend the Affordable Housing Community ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
-
-> Motion to approve #15 -    #15 requires no action because introducing affordable housing minimums would have a negative impact on the existing housing-related financial incentive programs; and,
-
-**✅ Motion Passed (4 to 1) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
-
-> Motion to approve clauses c) i), ii) and d) ii) c) the Civic Administration BE DIRECTED to undertake the following recommendations to support the Affordable Housing CIP’s implementation and the construction of affordable housing: i) review and report back on the coordination and program delivery ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.2. 1944 Bradley Avenue (Z-9724)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Martin Quarcoopome c/o Weston Consulting, relating to the property located at 1944 Bradley Avenue: a)    the proposed by-law appended to the staff report dated ...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.7. 735 Southdale Road West (OZ-9567)
-
-> That the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 735 Southdale Road West: a)    the proposed attached, revised by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2024,  to amen...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
-
-> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sam Katz Holdings Inc., relating to the properties located at 323 Oxford Street West, 92 and 825 Proudfoot Lane: a)    the proposed by-law appended to the staff...
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
-
-> Motion to amend clause to read as follows: d) the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process: iv) consider providing an enhanced landscaped view corridor and amenity space south of Westfield Drive; and,
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
-
-> Motion to approve the recommendation, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.9. Draft Land Needs Assessment of The London Plan (O-9595)
-
-> That, the following actions be taken with respect to the Section 26 Official Plan Review of The London Plan and Land Needs Assessment: a)    the proposed attached, revised by-law as Schedules 3 to 10, in Appendix "A" and related mapping in Appendix “F” to adopt the schedules as part of the Sectio...
-
-**✅ Motion Passed (6 to 0)**
-
-Unanimous (6-0)
-
-### 4.1. (ADDED) School Block Acquisitions
-
-> That the Civic Administration BE DIRECTED to provide information and associated recommended actions on school block acquisitions and report back to the Planning and Environment Committee in Q4 of 2024, including, but not limited to: a) background on the acquisition of blocks for the purposes of a...
-
-**✅ Motion Passed (4 to 0)**
-
-Unanimous (4-0)
 ---
 
 ## Full Transcript
@@ -2133,3 +2016,147 @@ Unanimous (4-0)
 
 =======
 >>>>>>> origin/main
+
+---
+
+## Votes
+
+*13 substantive votes at this meeting (1 contested, 12 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1, 2.2, 2.3 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
+> That the Heritage Alteration Permit application under Section 42 of the Ontario Heritage Act relating to the property located at 332 St. James Street BE APPROVED; it being noted that the Planning and Environment Committee heard a verbal delegation from G. Keene, with respect to these matters; it ...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.4. Heritage Alteration Permit Application – 332 St. James Street – Bishop 	Hellmuth Heritage Conservation District (HAP23-107-L)
+
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
+> That G. Keane BE GRANTED delegation status with respect to the Heritage Alteration Permit application relating to the property located at 332 St. James Street.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Planning and Economic Development, the following actions be taken with respect to the Community Improvement Plans Review for Increasing Affordable Housing: a)    the Civic Administration BE DIRECTED to amend the Affordable Housing Community ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
+> Motion to approve #15 -    #15 requires no action because introducing affordable housing minimums would have a negative impact on the existing housing-related financial incentive programs; and,
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.1. Community Improvement Plans Review for Increasing Affordable Housing
+
+<div id="motion-3-1-2" class="motion-anchor"></div>
+
+> Motion to approve clauses c) i), ii) and d) ii) c) the Civic Administration BE DIRECTED to undertake the following recommendations to support the Affordable Housing CIP’s implementation and the construction of affordable housing: i) review and report back on the coordination and program delivery ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.2. 1944 Bradley Avenue (Z-9724)
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Martin Quarcoopome c/o Weston Consulting, relating to the property located at 1944 Bradley Avenue: a)    the proposed by-law appended to the staff report dated ...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 735 Southdale Road West (OZ-9567)
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the application by Royal Premier Homes, relating to the property located at 735 Southdale Road West: a)    the proposed attached, revised by-law as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 25, 2024,  to amen...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+<div id="motion-3-8-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Sam Katz Holdings Inc., relating to the properties located at 323 Oxford Street West, 92 and 825 Proudfoot Lane: a)    the proposed by-law appended to the staff...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+<div id="motion-3-8-1" class="motion-anchor"></div>
+
+> Motion to amend clause to read as follows: d) the Site Plan Approval Authority BE REQUESTED to consider the following design issues through the site plan process: iv) consider providing an enhanced landscaped view corridor and amenity space south of Westfield Drive; and,
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.8. 323 Oxford St West, 92 and 825 Proudfoot Lane (Z-9416)
+
+<div id="motion-3-8-2" class="motion-anchor"></div>
+
+> Motion to approve the recommendation, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.9. Draft Land Needs Assessment of The London Plan (O-9595)
+
+<div id="motion-3-9-0" class="motion-anchor"></div>
+
+> That, the following actions be taken with respect to the Section 26 Official Plan Review of The London Plan and Land Needs Assessment: a)    the proposed attached, revised by-law as Schedules 3 to 10, in Appendix "A" and related mapping in Appendix “F” to adopt the schedules as part of the Sectio...
+
+**✅ Motion Passed (6 to 0)**
+
+Unanimous (6-0)
+
+### 4.1. (ADDED) School Block Acquisitions
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to provide information and associated recommended actions on school block acquisitions and report back to the Planning and Environment Committee in Q4 of 2024, including, but not limited to: a) background on the acquisition of blocks for the purposes of a...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
