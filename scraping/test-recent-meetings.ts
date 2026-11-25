@@ -1,7 +1,15 @@
 // Test script to verify recent meetings are in the RAG database
-// Run with: npx tsx scraping/test-recent-meetings.ts
+// Run with: RUN_LIVE_CHAT_TESTS=1 CHATBOT_URL=<url>/api/chat npx tsx scraping/test-recent-meetings.ts
+// Opt-in only: this file matches the `test-*` pattern, so a bare `tsx --test` could otherwise run it.
 
-const API_URL = "https://open-council-production.up.railway.app";
+import { liveChatConfig } from "../server/tests/live-guard.js";
+
+const live = liveChatConfig();
+if (live.skip) {
+  console.log(`Skipping: ${live.skip}`);
+  process.exit(0);
+}
+const API_URL = live.url.replace(/\/api\/chat$/, "");
 
 interface TestCase {
   name: string;

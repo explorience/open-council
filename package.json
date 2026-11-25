@@ -19,6 +19,7 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
+    "test:live": "tsx --test server/tests/representative-accuracy.test.ts server/tests/comprehensive-accuracy.test.ts server/tests/difficult-questions.test.ts server/tests/councillor-votes.test.ts server/tests/q1-2026-accuracy.test.ts server/tests/chatbot-accuracy.test.ts",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "chat:generate": "tsx server/generate-embeddings.ts",
     "chat:server": "tsx server/index.ts",

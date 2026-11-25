@@ -12,8 +12,10 @@
 
 import test, { describe } from 'node:test';
 import assert from 'node:assert';
+import { liveChatConfig } from './live-guard.js';
 
-const CHATBOT_URL = 'https://open-council-production.up.railway.app/api/chat';
+// Live test: opt-in only (RUN_LIVE_CHAT_TESTS=1 plus explicit CHATBOT_URL). See live-guard.ts.
+const { url: CHATBOT_URL, skip: LIVE_SKIP } = liveChatConfig();
 
 interface AccuracyTestCase {
   id: string;
@@ -904,7 +906,7 @@ const testCases: AccuracyTestCase[] = [
 // TEST EXECUTION
 // =============================================================================
 
-describe('Comprehensive Accuracy Test Suite (100 tests)', { timeout: 600000 }, () => {
+describe('Comprehensive Accuracy Test Suite (100 tests)', { timeout: 600000, skip: LIVE_SKIP }, () => {
   // Stats - reserved for future aggregate reporting
   // @ts-expect-error Reserved for future aggregate reporting
   const _stats = {

@@ -18,8 +18,9 @@ npx tsx --test tests/q1-2026-accuracy.test.ts
 # Run with AI judge scoring (requires Anthropic API key)
 JUDGE=1 ANTHROPIC_API_KEY=sk-ant-... npx tsx --test tests/q1-2026-accuracy.test.ts
 
-# Run against a local dev server
-OPENCOUNCIL_API_URL=http://localhost:3000/api/chat npx tsx --test tests/q1-2026-accuracy.test.ts
+# Live tests are skipped unless BOTH are set (no default URL):
+#   RUN_LIVE_CHAT_TESTS=1  and  CHATBOT_URL=<full /api/chat URL>
+RUN_LIVE_CHAT_TESTS=1 CHATBOT_URL=http://localhost:3000/api/chat npx tsx --test tests/q1-2026-accuracy.test.ts
 ```
 
 ---
@@ -28,7 +29,8 @@ OPENCOUNCIL_API_URL=http://localhost:3000/api/chat npx tsx --test tests/q1-2026-
 
 | Variable | Default | Description |
 |---|---|---|
-| `OPENCOUNCIL_API_URL` | `https://open-council-production.up.railway.app/api/chat` | Chat API endpoint |
+| `RUN_LIVE_CHAT_TESTS` | _(unset)_ | Must be `1` or every live test is skipped |
+| `CHATBOT_URL` | _(none, required)_ | Full chat endpoint URL, e.g. `http://localhost:3000/api/chat`. `OPENCOUNCIL_API_URL` still works as an alias |
 | `JUDGE` | _(unset)_ | Set to `1` to enable AI judge scoring |
 | `ANTHROPIC_API_KEY` | _(unset)_ | Required when `JUDGE=1` |
 
