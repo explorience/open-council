@@ -14,8 +14,10 @@
 
 import test, { describe } from 'node:test';
 import assert from 'node:assert';
+import { liveChatConfig } from './live-guard.js';
 
-const CHATBOT_URL = 'https://open-council-production.up.railway.app/api/chat';
+// Live test: opt-in only (RUN_LIVE_CHAT_TESTS=1 plus explicit CHATBOT_URL). See live-guard.ts.
+const { url: CHATBOT_URL, skip: LIVE_SKIP } = liveChatConfig();
 
 interface DifficultTestCase {
   id: string;
@@ -385,7 +387,7 @@ const testCases: DifficultTestCase[] = [
 // TEST RUNNER
 // =============================================================================
 
-describe('Difficult Questions Test Suite (50 questions)', { concurrency: false }, async () => {
+describe('Difficult Questions Test Suite (50 questions)', { concurrency: false, skip: LIVE_SKIP }, async () => {
   // Run tests sequentially with delay to avoid rate limiting
   for (const testCase of testCases) {
     test(`[${testCase.id}] ${testCase.question} (${testCase.category})`, async () => {

@@ -20,6 +20,7 @@
 
 import test, { describe } from 'node:test';
 import assert from 'node:assert';
+import { liveChatConfig } from './live-guard.js';
 
 // =============================================================================
 // Test Case Interface
@@ -850,15 +851,18 @@ describe('Chatbot Accuracy Test Suite', () => {
   });
 });
 
+// Live test: opt-in only (RUN_LIVE_CHAT_TESTS=1 plus explicit CHATBOT_URL). See live-guard.ts.
+const { url: LIVE_URL, skip: LIVE_SKIP } = liveChatConfig();
+
 // =============================================================================
 // Integration Test Placeholder
 // =============================================================================
 
-describe('Integration Tests (production API)', () => {
+describe('Integration Tests (live chat API, opt-in)', { skip: LIVE_SKIP }, () => {
   // These tests would call the actual chatbot API
   // Skip by default since they require a running server
 
-  const CHATBOT_API_URL = process.env.CHATBOT_URL || 'https://open-council-production.up.railway.app/api/chat';
+  const CHATBOT_API_URL = LIVE_URL;
 
   async function askChatbot(question: string): Promise<string> {
     // This would make an actual HTTP request to the chatbot

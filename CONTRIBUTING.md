@@ -70,6 +70,11 @@ Thank you for your interest in contributing to Open Council! This project aims t
    npm run check
    npm run test
    ```
+   `npm run test` is offline. The accuracy suites that call a running chat server
+   (live LLM calls, rate-limited) are skipped unless you opt in with both
+   `RUN_LIVE_CHAT_TESTS=1` and an explicit `CHATBOT_URL`, for example
+   `RUN_LIVE_CHAT_TESTS=1 CHATBOT_URL=http://localhost:3000/api/chat npm run test:live`.
+   There is no default URL. Don't point it at production.
 4. Commit with a clear message describing the change
 5. Open a pull request with:
    - Description of what the PR does

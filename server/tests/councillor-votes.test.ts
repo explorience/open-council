@@ -32,6 +32,7 @@
 
 import test, { describe, before } from 'node:test';
 import assert from 'node:assert';
+import { liveChatConfig } from './live-guard.js';
 
 // =============================================================================
 // Test Case Interface
@@ -392,7 +393,8 @@ const testCases: CouncillorVoteTestCase[] = [
 // Test Configuration
 // =============================================================================
 
-const CHATBOT_URL = process.env.CHATBOT_URL || 'https://open-council-production.up.railway.app/api/chat';
+// Live test: opt-in only (RUN_LIVE_CHAT_TESTS=1 plus explicit CHATBOT_URL). See live-guard.ts.
+const { url: CHATBOT_URL, skip: LIVE_SKIP } = liveChatConfig();
 const TEST_TIMEOUT = 30000; // 30 seconds per test
 
 // =============================================================================
@@ -456,7 +458,7 @@ function checkUnexpectedContent(response: string, unexpectedContent: string[]): 
 // Test Suite
 // =============================================================================
 
-describe('Councillor Voting Pattern Tests', async () => {
+describe('Councillor Voting Pattern Tests', { skip: LIVE_SKIP }, async () => {
   // Health check before running tests
   before(async () => {
     try {

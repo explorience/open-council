@@ -11,13 +11,20 @@ import OpenAI from 'openai';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
+import { liveChatConfig } from './live-guard.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 dotenv.config({ path: path.join(__dirname, '..', '..', '.env') });
 
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
-const PRODUCTION_API = 'https://open-council-production.up.railway.app/api/context';
+// Opt-in only: needs RUN_LIVE_CHAT_TESTS=1 and an explicit CHATBOT_URL (its /api/chat is swapped for /api/context).
+const live = liveChatConfig();
+if (live.skip) {
+  console.error(`Skipping: ${live.skip}`);
+  process.exit(0);
+}
+const PRODUCTION_API = live.url.replace(/\/api\/chat$/, '/api/context');
 
 if (!OPENROUTER_API_KEY) {
   console.error('Missing OPENROUTER_API_KEY in .env');

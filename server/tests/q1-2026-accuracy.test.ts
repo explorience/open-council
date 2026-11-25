@@ -17,13 +17,13 @@
 
 import { test, describe, before } from "node:test";
 import assert from "node:assert/strict";
+import { liveChatConfig } from "./live-guard.js";
 
 // ---------------------------------------------------------------------------
 // Config
 // ---------------------------------------------------------------------------
-const API_URL =
-  process.env.OPENCOUNCIL_API_URL ||
-  "https://open-council-production.up.railway.app/api/chat";
+// Live test: opt-in only (RUN_LIVE_CHAT_TESTS=1 plus explicit CHATBOT_URL). See live-guard.ts.
+const { url: API_URL, skip: LIVE_SKIP } = liveChatConfig();
 const TIMEOUT_MS = 30_000;
 const JUDGE_MODE = process.env.JUDGE === "1";
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY ?? "";
@@ -744,7 +744,7 @@ const byCategory = TEST_CASES.reduce<Record<string, TestCase[]>>((acc, tc) => {
   return acc;
 }, {});
 
-describe("OpenCouncil Accuracy – March 3 2026", { timeout: 1800000 }, () => {
+describe("OpenCouncil Accuracy – March 3 2026", { timeout: 1800000, skip: LIVE_SKIP }, () => {
   before(() => {
     console.log(`\n🗳️  OpenCouncil Accuracy Test Suite`);
     console.log(`   API: ${API_URL}`);
@@ -766,7 +766,7 @@ describe("OpenCouncil Accuracy – March 3 2026", { timeout: 1800000 }, () => {
 // ---------------------------------------------------------------------------
 // Smoke test – basic connectivity
 // ---------------------------------------------------------------------------
-describe("Smoke", { timeout: TIMEOUT_MS }, () => {
+describe("Smoke", { timeout: TIMEOUT_MS, skip: LIVE_SKIP }, () => {
   test("API responds to a basic council question", async () => {
     const response = await askChatbot(
       "When was the most recent London city council meeting you have data for?"
