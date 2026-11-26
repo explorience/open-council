@@ -21,3 +21,7 @@ server/chat-logs/.DS_Store
 # (the checkpoint manifest.json alongside it IS committed - that's the
 # durable resume state; this is just the run's console transcript)
 scraping/recovery_checkpoint/run.log
+
+# Upcoming-agenda scraper: polite-fetch cache and local output
+scraping/.cache/
+scraping/output/
