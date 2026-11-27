@@ -1,0 +1,452 @@
+[
+ {
+  "id": "6841ce6dc566",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to redesignate 420 Fanshawe Park Road East from Low Density Residential to Multi-family, Medium Density Residential and to rezone it to a Bonus Zone permitting an apartment building with density up to 100 units per hectare, on the application of 2431602 Ontario Limited.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 23, 2017 as Appendix \"A\" BE INTRODUCED ... to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation TO a Multi-family, Medium Density Residential designation; ... the proposed by-law appended ... as Appendix \"B\" BE INTRODUCED ... to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM a Residential R1 (R1-7) Zone TO a holding Residential R1 Bonus (h-5*R1-7*B-__) Zone ... the Bonus Zone shall be implemented through a development agreement to provide for an apartment building of 14.6m (48 ft) with an increased density up to 100 units per hectare",
+  "flags": []
+ },
+ {
+  "id": "3ccec8905da2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Museum London's request to transfer the Museum London Endowment funds to the Museum London Foundation back to the Civic Administration for further discussion with Museum London and a report back at a future Community and Protective Services Committee meeting.",
+  "confidence": "high",
+  "quote": "Approve that the request from Museum London with respect to the possible transfer of the Museum London Endowment funds to the Museum London Foundation be referred back to the Civic Administration for further discussion with Museum London and a report back at a future meeting of the Community and Protective Services Committee regarding this matter.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "3e27c4d9ed27",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law authorizing a Grant Agreement between the City and the London Optimist Sports Centre for the expansion of the BMO Centre at 295 Rectory Street, and authorized the Mayor and City Clerk to execute it.",
+  "confidence": "high",
+  "quote": "the proposed by-law, appended to the staff report dated May 24, 2017 BE INTRODUCED at the Municipal Council meeting of May 30, 2017, to: a) approve a Grant Agreement, substantially in the form appended to the above-noted staff report, between The Corporation of the City of London and the London Optimist Sports Centre, for the expansion of the BMO Centre at 295 Rectory Street; and, b) authorize the Mayor and the City Clerk to execute the above-noted Grant Agreement.",
+  "flags": []
+ },
+ {
+  "id": "0a0972070291",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took a procedural step on clause 2 of the Strategic Plan Semi-Annual Progress Report; the specific wording voted on is not captured in the source text.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "19e1e54e5bf7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 2 of the Strategic Plan Semi-Annual Progress Report, as amended; the amendment's own wording is not captured in the source text.",
+  "confidence": "medium",
+  "quote": "Approve clause 2, as amended.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "dc7468db8ee8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law to set the City of London's ward boundaries in preparation for the 2018 municipal election.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated May 23, 2017 BE INTRODUCED at the Municipal Council meeting to be held on May 30, 2017 to set out the City of London's ward boundaries in preparation for the 2018 Municipal Election.",
+  "flags": []
+ },
+ {
+  "id": "83895a3a596e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the proposed Council Policy for publicly releasing enforcement conviction information back to a future Public Participation Meeting before the Community and Protective Services Committee, rather than introducing the by-law as recommended.",
+  "confidence": "high",
+  "quote": "Approve that the proposed Council Policy for publicly releasing enforcement conviction information be referred back to receive further comment at a future Public Participation Meeting to be held before the Community and Protective Services Committee.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "1c761c6a6e73",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 6 (the report on consultations regarding the City of London becoming a Sanctuary City) for consideration in 2019.",
+  "confidence": "high",
+  "quote": "Approve that clause 6 be referred for consideration in 2019.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "eac50de391f2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the staff report on consultations regarding appropriate arrangements for the City of London to become a Sanctuary City.",
+  "confidence": "medium",
+  "quote": "the staff report dated May 29, 2017 on the consultations regarding appropriate arrangements for the City of London to become a Sanctuary City, BE RECEIVED for information.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "e727b2d32d71",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 231.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 231.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "dfc0389f90fe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 231.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 231.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "245bfe0d7938",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 231.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 231.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "b4bc804c0810",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have removed the maximum permitted commercial floor area from the proposed Wonderland Road Community Enterprise Corridor Secondary Plan policy amendment (O-8731).",
+  "confidence": "low",
+  "quote": "Motion to approve an amendment to remove the maximum commercial floor area.",
+  "flags": ["no_text"]
+ },
+ {
+  "id": "d5e6dcbd4c14",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to the Civic Works Committee with an overview of cities that have adopted Vision Zero and their best practices on speeding on local streets.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to report back to the Civic Works Committee with an overview of cities who have adopted Vision Zero and what their best practices are in terms of speeding on local streets.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "6843b9df8d64",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed Councillor van Holst to the Rapid Transit Implementation Working Group.",
+  "confidence": "high",
+  "quote": "That Councillor van Holst BE APPOINTED to the Rapid Transit Implementation Working Group.",
+  "flags": ["appointment"]
+ },
+ {
+  "id": "eafede36dc1e",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended clause 13 (the Wonderland Road Community Enterprise Corridor secondary-plan policy, O-8731) to increase the maximum permitted commercial floor area from 100,000 m² to 140,000 m², with the Civic Administration reporting back in two years on the impact of the increase.",
+  "confidence": "medium",
+  "quote": "Approve that clause 13 be amended by adding the following new part d): \"d) increasing the maximum commercial floor area from 100,000 m2 to 140,000 m2 with the Civic Administration reporting back in two (2) years as to the impact of the increased permitted commercial floor area;\"",
+  "flags": []
+ },
+ {
+  "id": "dabcc4044a13",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 13 (the Wonderland Road Community Enterprise Corridor secondary-plan policy, O-8731) to direct the Civic Administration to report back to the Planning and Environment Committee with recommendations for an orderly and efficient development pattern in the corridor, including the potential of increasing or eliminating the cap on permitted commercial floor area.",
+  "confidence": "high",
+  "quote": "Approve that clause 13 be amended by adding the following wording: \"Civic Administration BE DIRECTED to report back to Planning and Environment Committee with recommendations to allow for an orderly and efficient development pattern in Wonderland Road Community Enterprise Corridor, including the potential of increasing or eliminating the cap on permitted commercial floor area in the corridor.\"",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "05c3715f0fab",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "restrictive",
+  "whatAYeaDid": "Approved amending the Southwest Area Secondary Plan's Wonderland Road Community Enterprise Corridor policies (O-8731), as amended, to reduce the maximum and minimum permitted residential intensity and the maximum office floor area per building, and to restructure the policies by use, intensity and form.",
+  "confidence": "medium",
+  "quote": "a) reducing maximum and minimum permitted residential intensity; b) reducing the maximum office floor area per building; and, c) re-formatting the policies to be structured by use, intensity and form",
+  "flags": []
+ },
+ {
+  "id": "6c654e03e67e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the staff report on traffic and road safety concerns on Aldersbrook Gate.",
+  "confidence": "high",
+  "quote": "the staff report dated June 7, 2017, with respect to traffic and road safety concerns on Aldersbrook Gate BE RECEIVED for information",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "ca49682523ce",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of appointing individuals to the Environmental and Ecological Planning Advisory Committee to the next Corporate Services Committee meeting, in order to consider all applicants.",
+  "confidence": "high",
+  "quote": "Approve that the matter of appointing individuals to the Environmental and Ecological Planning Advisory Committee BE REFERRED to the next meeting of the Corporate Services Committee in order to consider all applicants.",
+  "flags": ["referral", "appointment"]
+ },
+ {
+  "id": "f27c6e94f83e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved implementing the LSNS Neighbourhood Decision Making program city-wide, based on the model using five geographic areas of the city (Northeast, Northwest, Southeast, Southwest and Central).",
+  "confidence": "high",
+  "quote": "the LSNS Neighbourhood Decision Making program BE IMPLEMENTED city-wide, based on the model using five geographic areas of the City (Northeast, Northwest, Southeast, Southwest and Central)",
+  "flags": []
+ },
+ {
+  "id": "ca2baf637ba7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved hearing the delegation request from William Komer, Executive Director of Campus Creative, at that time.",
+  "confidence": "high",
+  "quote": "That the request for delegation from William Komer, Executive Director, Campus Creative BE APPROVED, to be heard at this time.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "2059e3f31574",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the staff report on the Western Fair Association's intention to demolish the building located at 316 Rectory Street under its Lease Agreement with the City.",
+  "confidence": "high",
+  "quote": "the staff report dated June 20, 2017 entitled “City of London/Western Fair Association Lease Agreement WFA Intention to Demolish Building at 316 Rectory” outlining the Western Fair Association's intention to demolish the building located at 316 Rectory Street, BE RECEIVED for information.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "890baeff17f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a Council, In Closed Session matter to receive information on a personal, employment-related matter regarding identifiable individuals, including advice or recommendations of officers and employees of the Corporation.",
+  "confidence": "high",
+  "quote": "Approve that pursuant to section 11.4 of the Council Procedure By-law, leave be given to add a Council, In Closed Session matter to receive information related to a matter pertaining to personal matters, including information regarding identifiable individuals, with respect to employment-related matters, advice or recommendations of officers and employees of the Corporation including communications necessary for that purpose and for the purpose of providing instructions and directions to officers and employees of the Corporation.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "47192e753138",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred Seasons Retirement Communities' application for 633-655 Base Line Road East (OZ-8711) back to the Civic Administration to work with the applicant to reduce the height of the proposed building.",
+  "confidence": "high",
+  "quote": "That, the application of Seasons Retirement Communities, relating to the properties located at 633, 635, 637, 645, 649, 651 and 655 Base Line Road East BE REFERRED back to the Civic Administration to work with the applicant to reduce the height of the proposed building",
+  "flags": ["referral"]
+ },
+ {
+  "id": "4318b60499e2",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to redesignate 633-655 Base Line Road East (OZ-8711) from Low Density Residential to Multi-Family, Medium Density Residential and to rezone it to a Bonus Zone permitting a continuum-of-care facility with a building height increased to up to eight storeys (38.5 m), on the application of Seasons Retirement Communities.",
+  "confidence": "high",
+  "quote": "the proposed by-law attached hereto as Appendix \"A\" BE INTRODUCED ... to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation, TO a Multi-Family, Medium Density Residential designation ... the proposed by-law attached hereto as Appendix \"B\" BE INTRODUCED ... to amend Zoning By-law No. Z.-1 ... to change the zoning of the subject property FROM a Residential R1 (R1-6) Zone, TO a Residential R1 Bonus (R1-6*B-__) Zone; ... the Bonus Zone shall be implemented through a development agreement to provide for a continuum of care facility with an increased building height of up to eight (8) storeys (38.5m)",
+  "flags": []
+ },
+ {
+  "id": "fe0e0802e932",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the review of the Council Expense Policy to the Governance Working Group.",
+  "confidence": "high",
+  "quote": "Approve that the matter of a review of the Council Expense Policy be referred to the Governance Working Group.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "9206b3d03f40",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Appointed six individuals to the Environmental and Ecological Planning Advisory Committee for the term ending February 28, 2019, in accordance with the ranked ballot.",
+  "confidence": "high",
+  "quote": "The following individuals BE APPOINTED to the Environmental and Ecological Planning Advisory Committee, for the term ending February 28, 2019 in accordance with the attached ranked ballot: Mirindi Eric Dusenge Carol Dyck Berta Krichker Edward Krynak Subashini Sivakumar Christian Therrien",
+  "flags": ["appointment"]
+ },
+ {
+  "id": "8bc5370bb132",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved implementing the LSNS Neighbourhood Decision Making program city-wide, based on the five-geographic-area model, and implementing the Neighbourhood Small Events Fund to support small neighbourhood events held by local residents and/or neighbourhood associations.",
+  "confidence": "high",
+  "quote": "a) the LSNS Neighbourhood Decision Making program BE IMPLEMENTED city-wide, based on the model using five geographic areas of the City (Northeast, Northwest, Southeast, Southwest and Central); and, b) the Neighbourhood Small Events Fund BE IMPLEMENTED to support small neighbourhood events held by local residents and/or neighbourhood associations.",
+  "flags": []
+ },
+ {
+  "id": "ed5025589512",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue (TZ-8748) for a period not exceeding three years, on the application of Sifton Properties Limited.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated June 19, 2017 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2017 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), by extending the Temporary Use (T-69) Zone for a period not exceeding three (3) years",
+  "flags": []
+ },
+ {
+  "id": "5aa7c4151560",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to the by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue (TZ-8748) for a period not exceeding three years, on the application of Sifton Properties Limited.",
+  "confidence": "medium",
+  "quote": "Approve Introduction and First Reading of Bill No. 318.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "a21b46a4ba4c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to the by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue (TZ-8748) for a period not exceeding three years, on the application of Sifton Properties Limited.",
+  "confidence": "medium",
+  "quote": "Approve Second Reading of Bill No. 318.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "20356afde2f5",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading to and enacted the by-law extending the Temporary Use (T-69) Zone at 221 Queens Avenue (TZ-8748) for a period not exceeding three years, on the application of Sifton Properties Limited.",
+  "confidence": "medium",
+  "quote": "Approve Third Reading and Enactment of Bill No. 318.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "b1942a98c3af",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 320.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 320.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "5ee664f2bedb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 320.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 320.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "bb154a98401f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 320.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 320.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "fdd0dd445227",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill Nos. 324 and 325.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No.'s 324 and 325.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "76937dcad7d1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill Nos. 324 and 325.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No.'s 324 and 325.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "f90b1b841d74",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill Nos. 324 and 325.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No.'s 324 and 325.",
+  "flags": ["procedural", "no_text"]
+ },
+ {
+  "id": "edf8d0943bfe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no action at this time to install sidewalks on Trowbridge Avenue, so that removal of trees for construction purposes could be avoided, while recognizing that some trees would still need to be removed for safety reasons due to their condition.",
+  "confidence": "high",
+  "quote": "That NO ACTION BE TAKEN at this time to install sidewalks on Trowbridge Avenue, so that the removal of trees for construction purposes can be avoided, recognizing that some trees will still need to be removed for safety reasons due to their condition",
+  "flags": []
+ },
+ {
+  "id": "8fba027245eb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the matter of downsizing water meters to the Civic Administration for review and a report back to the Civic Works Committee on options that would allow people to right-size water meters on their property.",
+  "confidence": "high",
+  "quote": "That the matter of downsizing water meters BE REFERRED to the Civic Administration for review and report back to the Civic Works Committee with respect to options that will allow people to right size water meters on their property.",
+  "flags": ["referral", "informational_ask"]
+ },
+ {
+  "id": "9e4961cdee07",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave notice of the Municipal Council's intention to designate 660 Sunningdale Road East to be of cultural heritage value or interest, and directed the Civic Administration to evaluate the current approvals process so that identified natural or built heritage features are considered at all stages of approvals.",
+  "confidence": "high",
+  "quote": "a) notice BE GIVEN under the provision of Section 29(3) of the Ontario Heritage Act, R.S.O. 1990, c. O. 18, of the Municipal Council's intention to designate the property located at 660 Sunningdale Road East to be of cultural heritage value or interest for the attached, revised reasons; and, b) the Civic Administration BE DIRECTED to evaluate the current approvals processes to ensure that applications with identified natural or built heritage features on the properties consider the identified features at all stages of the approvals",
+  "flags": []
+ },
+ {
+  "id": "fc18189dd0de",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to evaluate the current approvals processes so that applications with identified natural or built heritage features have those features considered at all stages of approvals.",
+  "confidence": "high",
+  "quote": "Motion to ask that the Civic Administration BE DIRECTED to evaluate the current approvals processes to ensure that applications with identified natural or built heritage features on the properties consider the identified features at all stages of the approvals properties are considered at all stages of approvals.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "e9dd64a8f73b",
+  "issue": "housing",
+  "axis": "use-permission",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to amend the Official Plan and Zoning By-law (OZ-8053) to permit secondary dwelling units city-wide in single detached, semi-detached and street townhouse dwellings, and to remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood.",
+  "confidence": "high",
+  "quote": "the attached, revised, proposed by-law (Appendix \"A”) BE INTRODUCED ... to amend the City of London Official Plan, 1989 to amend Policy 3.2.3.9 Secondary Dwelling Units to add policies to permit the creation of secondary dwelling units in a single detached dwelling, semi-detached dwelling or street townhouse dwelling and to remove the prohibition on secondary dwelling units in the Near Campus Neighbourhood",
+  "flags": []
+ },
+ {
+  "id": "9311c1e641a3",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Advised the Approval Authority that no issues were raised at the public meeting on the site plan approval application by Village West Developments (London) Inc. to permit construction of a five-storey apartment building at 1355 Commissioners Road West (SPA17-024).",
+  "confidence": "medium",
+  "quote": "the Approval Authority BE ADVISED that no issues were raised at the public meeting held by the Planning and Environment Committee with respect to the application for Site Plan approval to permit the construction of a five (5) storey apartment building",
+  "flags": []
+ }
+]

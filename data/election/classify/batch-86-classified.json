@@ -1,0 +1,480 @@
+[
+ {
+  "id": "1d09dcceddd6",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the application by Farhi Holdings for 200 Albert Street, 192-196 Central Avenue, and 193-197 Central Avenue back to the Managing Director, Planning and City Planner, to determine which two of the three properties would be best suited to extend the Temporary Use (T-70) Zone for surface parking for a period not exceeding three years.",
+  "confidence": "high",
+  "quote": "the application of Farhi Holdings, relating to the properties located at 200 Albert Street, 192 to 196 Central Avenue and 193 to 197 Central Avenue, BE REFERRED back to the Managing Director, Planning and City Planner, to work with the applicant to determine which two of the above-noted properties would be best suited to extend the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "d91c51aea322",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the recommendation back to the Managing Director, Planning and City Planner, to approve two of the properties at 200 Albert Street, 192-196 Central Avenue, and 193-197 Central Avenue for a temporary parking-lot zoning of up to three years.",
+  "confidence": "high",
+  "quote": "Motion to refer the recommendation back to the Managing Director, Planning and City Planner, to approve two of the properties for a temporary zoning for up to three years.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "dc91fd485354",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a by-law to rezone 661 and 667 Talbot Street from a Residential R3/R10/Office Conversion zone to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare) through a bonus-zone development agreement.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda dated October 23, 2017 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R3/Residential R10/Office Conversion (R3-1/R10-3*H30/OC4) Zone TO a Residential R3/Residential R10 Bonus (R3-1/R10-3*H30*B(_)) Zone and an Open Space (OS4) Zone; it being noted that the Bonus Zone shall be implemented through a development agreement to facilitate the development of a high quality, multi-storey residential apartment building, with an increased building height of up to sixteen (16) storeys (49.5m) and a maximum of 236 dwelling units (403 units per hectare)",
+  "flags": []
+ },
+ {
+  "id": "d835638e79c1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have requested the Division Manager, Water Engineering, to report back to a future meeting of the Civic Works Committee with a proposed amendment to By-law W-8 to remove limitations on the external use of water during June, July, and August.",
+  "confidence": "high",
+  "quote": "Motion to Approve that the Division Manager Water Engineering BE REQUESTED to report back at a future meeting of the Civic Works Committee with a proposed amendment to By-law W-8 “Regulation of Water Supply in the City of London” to remove limitations on the external use of water during the months of June, July and August.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "22ba0f2fb9f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a revised by-law repealing the Election Campaign Sign By-law and replacing it with a new Election Sign By-law, including extending the period for removal of signs from 72 to 96 hours.",
+  "confidence": "high",
+  "quote": "That the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017 to repeal By-law No. E-180-305, being the “Election Campaign Sign By-law” and to replace it with a new Election Sign By-law which reflects the direction of the Municipal Council; it being noted that the revised by-law includes an extension to the sign removal period from 72 hours to 96 hours.",
+  "flags": []
+ },
+ {
+  "id": "8a7fb22b7b83",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended the proposed Election Sign By-law to set the permitted sign height at 1.2 metres.",
+  "confidence": "high",
+  "quote": "Motion to Amend the permitted sign height to 1.2 metres.",
+  "flags": []
+ },
+ {
+  "id": "fb42b3484d96",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved extending the period for removal of election signs from 72 hours to 96 hours.",
+  "confidence": "high",
+  "quote": "Motion to Approve an extension to the period for the removal of signs from 72 hours to 96 hours.",
+  "flags": []
+ },
+ {
+  "id": "fb07e9a5888a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a revised by-law to implement a Council Policy governing the use of City of London corporate resources for municipal election purposes.",
+  "confidence": "high",
+  "quote": "the revised by-law appended to the memorandum dated September 27, 2017, from the City Clerk, BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017 to implement a Council Policy regarding the use of City of London resources for Municipal Election purposes.",
+  "flags": []
+ },
+ {
+  "id": "6c187ff5e960",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Removed 4100 Glanworth Drive from the Inventory of Heritage Resources and advised the Chief Building Official that Municipal Council consents to the requested demolition of the heritage-listed property.",
+  "confidence": "high",
+  "quote": "4100 Glanworth Drive BE REMOVED from the Inventory of Heritage Resources (the Register); and, b) the Chief Building Official BE ADVISED that Municipal Council consents to the requested demolition on this property",
+  "flags": []
+ },
+ {
+  "id": "56820a82a755",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law to extend the Temporary Use (T-70) Zone for surface parking at 200 Albert Street, 192-196 Central Avenue, and 193-197 Central Avenue for a period not exceeding three years, reversing the Planning and Environment Committee's recommendation to refer the application back for further work.",
+  "confidence": "medium",
+  "quote": "the proposed by-law as appended to the staff report dated October 23, 2017 BE INTRODUCED at the Municipal Council meeting on October 30, 2017 to amend Zoning By-law Z.-1, in conformity with the Official Plan, by extending the Temporary Use (T-70) Zone for a period not exceeding three (3) years",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "bef2af7315d2",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Amended clause 12 a) to introduce a by-law rezoning 661 and 667 Talbot Street from a Residential R3/R10/Office Conversion zone to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare).",
+  "confidence": "high",
+  "quote": "Approve clause 12 a) be amended to read as follows: “a) the proposed attached revised by-law BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R3/Residential R10/Office Conversion (R3-1/R10-3*H30/OC4) Zone TO a Residential R3/Residential R10 Bonus (R3-1/R10-3*H30*B(_)) Zone and an Open Space (OS4) Zone; it being noted that the Bonus Zone shall be implemented through a development agreement to facilitate the development of a high quality, multi-storey residential apartment building, with an increased building height of up to sixteen (16) storeys (49.5m) and a maximum of 236 dwelling units (403 units per hectare)...”",
+  "flags": []
+ },
+ {
+  "id": "724348dfb140",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved clause 12, as amended, adopting the by-law to rezone 661 and 667 Talbot Street from a Residential R3/R10/Office Conversion zone to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare).",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the Planning and Environment Committee Added Agenda dated October 23, 2017 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R3/Residential R10/Office Conversion (R3-1/R10-3*H30/OC4) Zone TO a Residential R3/Residential R10 Bonus (R3-1/R10-3*H30*B(_)) Zone and an Open Space (OS4) Zone; it being noted that the Bonus Zone shall be implemented through a development agreement to facilitate the development of a high quality, multi-storey residential apartment building, with an increased building height of up to sixteen (16) storeys (49.5m) and a maximum of 236 dwelling units (403 units per hectare)",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "7d2ea577befe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred Clause 2, relating to the Election Campaign Sign By-law, back to the Corporate Services Committee for additional consideration.",
+  "confidence": "high",
+  "quote": "Approve Clause 2, related to the Election Campaign Sign By-law, BE REFERRED back to the Corporate Services Committee for additional consideration.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "b40299a1f664",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a revised by-law to implement a Council Policy governing the use of City of London corporate resources for municipal election purposes.",
+  "confidence": "high",
+  "quote": "the revised by-law appended to the memorandum dated September 27, 2017, from the City Clerk, BE INTRODUCED at the Municipal Council meeting to be held on October 30, 2017 to implement a Council Policy regarding the use of City of London resources for Municipal Election purposes.",
+  "flags": []
+ },
+ {
+  "id": "1b9145387105",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 631, a by-law to implement a Council Policy regarding the use of City of London resources for municipal election purposes.",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of Bill No. 631.",
+  "flags": []
+ },
+ {
+  "id": "a509d02a0526",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 631, a by-law to implement a Council Policy regarding the use of City of London resources for municipal election purposes.",
+  "confidence": "high",
+  "quote": "Approve Second Reading of Bill No. 631.",
+  "flags": []
+ },
+ {
+  "id": "61db3b19abb1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 631, a by-law to implement a Council Policy regarding the use of City of London resources for municipal election purposes.",
+  "confidence": "high",
+  "quote": "Approve Third Reading and Enactment of Bill No. 631.",
+  "flags": []
+ },
+ {
+  "id": "daeb2f920c45",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave first reading to the revised Bill No. 638, rezoning 661 and 667 Talbot Street to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare).",
+  "confidence": "high",
+  "quote": "Approve Introduction and First Reading of the revised Bill No. 638.",
+  "flags": []
+ },
+ {
+  "id": "7a19f72777fb",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave second reading to the revised Bill No. 638, rezoning 661 and 667 Talbot Street to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare).",
+  "confidence": "high",
+  "quote": "Approve Second Reading of the revised Bill No. 638.",
+  "flags": []
+ },
+ {
+  "id": "0d643eb2ffa2",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Gave third reading to and enacted the revised Bill No. 638, rezoning 661 and 667 Talbot Street to a Residential R3/R10 Bonus zone and an Open Space zone, permitting an increased building height of up to 16 storeys (49.5 metres) and up to 236 dwelling units (403 units per hectare).",
+  "confidence": "medium",
+  "quote": "Amend Third Reading and Enactment of the revised Bill No. 638.",
+  "flags": []
+ },
+ {
+  "id": "52de19d43b2e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added a new part b) advising the Consent Authority that Municipal Council does not support requiring a road allowance dedication at this time for the properties at 1140 and 1154 Sunningdale Road East.",
+  "confidence": "high",
+  "quote": "Motion to add a new part b) which reads as follows: “the Consent Authority BE ADVISED that the Municipal Council does not support the requirement for a road allowance dedication at this time;”",
+  "flags": []
+ },
+ {
+  "id": "ea66692b36b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a further revised Election Sign By-law, including amending section 4.3(b) on sign setback from a roadway and section 4.4(a) on placement of signs over 1.8 metres in height.",
+  "confidence": "high",
+  "quote": "the attached further revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on November 14, 2017 for the purpose of implementing a new Election Sign By-law; it being noted that the further revised by-law reflects the following additional amendments to the revised draft by-law that was before the Municipal Council at its meeting held on October 30, 2017: a) amending section 4.3 (b) to read as follows: “within 3 metres of a Roadway”; and b) amending section 4.4 (a) to read as follows: “of more than 1.8 metres placed within 3 to 8 metres of the Roadway;”",
+  "flags": []
+ },
+ {
+  "id": "6c1ede244949",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have deferred Strategic Investment Case #20, London's Downtown Plan Small Scale Projects, to a future budget.",
+  "confidence": "high",
+  "quote": "Motion to Approve the deferral of Strategic Investment Case #20 - London's Downtown Plan - Small Scale Projects, to a future budget.",
+  "flags": []
+ },
+ {
+  "id": "833c0e21acc8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved Budget Case #2, relating to Councillors' Annual Compensation, as part of the 2018 Budget Update; the source record does not include the case's dollar detail.",
+  "confidence": "low",
+  "quote": "Motion to Approve Case #2 – Councillors’ Annual Compensation",
+  "flags": []
+ },
+ {
+  "id": "cb3b09267810",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved Budget Case #4, providing for the ongoing place management of Dundas Place, as part of the 2018 Budget Update.",
+  "confidence": "medium",
+  "quote": "Motion to Approve Case #4 – Dundas Place – Ongoing Place Management",
+  "flags": []
+ },
+ {
+  "id": "91b6a911c52d",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have reduced the 2019 Budget allocation for the Dundas Place Ongoing Place Management case by $75,000, cutting its security allocation.",
+  "confidence": "high",
+  "quote": "Motion to Approve a reduction in the 2019 Budget allocation for Case #4 – Dundas Place – Ongoing Place Management, in order to reduce the security allocation by $75,000.",
+  "flags": []
+ },
+ {
+  "id": "f740f66d327a",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have reduced the 2019 Budget allocation for the Dundas Place Ongoing Place Management case to allocate $0 to maintenance.",
+  "confidence": "high",
+  "quote": "Motion to Approve a reduction in the 2019 Budget allocation for Case #4 – Dundas Place – Ongoing Place Management, in order to allocate $0 to maintenance.",
+  "flags": []
+ },
+ {
+  "id": "6849ebb4b956",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted (recorded) on the Corporate Operating and Capital Budgets item as amended, in the sequence immediately following adoption of the 2018 and 2019 tax levies and the 2018-2025 Capital Budget; the source record does not identify which specific clause this particular recorded vote addressed.",
+  "confidence": "low",
+  "quote": "the revised 2018 tax levy BE ADOPTED in the gross amount of $920,361,272 and in the net amount of $579,532,227 after recognizing $7,063,000 of increased taxation from assessment growth; and B) the revised 2019 forecasted tax levy BE ADOPTED in the gross amount of $940,096,979 and in the net amount of $597,656,613",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "af0ee95f8b79",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted (recorded) on the Corporate Operating and Capital Budgets item as amended, in the sequence immediately following adoption of the 2018 and 2019 tax levies and the 2018-2025 Capital Budget; the source record does not identify which specific clause this particular recorded vote addressed.",
+  "confidence": "low",
+  "quote": "the revised 2018 Capital Budget BE ADOPTED in the amount of $159,336,000; B) the revised 2019 Capital Budget BE ADOPTED in the amount of $192,232,000; C) the revised 2020-2025 Capital Forecast BE APPROVED in principle, in the gross amount of $1,373,619,000",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "e04bbe4c7ee8",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the City Manager to report back during the 2019 Budget review process with potential adjustments to the 2019 Budget that would meet the targets set by the 2016-2019 Multi-Year Budget.",
+  "confidence": "high",
+  "quote": "the City Manager BE REQUESTED to report back, during the 2019 Budget review process, with potential adjustments to the 2019 Budget that would provide for the targets set by the 2016-2019 Multi-Year Budget.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "75ef1850578f",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended part b) of clause 17 to adopt a revised Dundas Place Governance Model and Operational Model reflecting a reporting structure for the Business Manager through the appropriate City of London Service Area, rather than to the outside organization Main Street London.",
+  "confidence": "high",
+  "quote": "Approve that part b) of clause 17 be amended to read as follows: b) the attached revised Dundas Place Governance Model and the Dundas Place Operational Model to reflect a reporting structure of the Business Manager to be though the appropriate City of London Service Area, rather than to an outside organization (Main Street London), BE ADOPTED;",
+  "flags": []
+ },
+ {
+  "id": "f5d52f11c059",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part c) ii) of clause 17, relating to Dundas Place Management and the Dundas Field House; the source record does not include the text of that specific part.",
+  "confidence": "low",
+  "quote": "The motion to Approve part c) ii) of clause 17 is put.",
+  "flags": []
+ },
+ {
+  "id": "886514b56a14",
+  "issue": "downtown",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the balance of clause 17, relating to Dundas Place Management and the Dundas Field House, covering the remaining parts not separately voted; the source record does not include the text of those remaining parts.",
+  "confidence": "low",
+  "quote": "The motion to Approve the balance of clause 17 is put.",
+  "flags": []
+ },
+ {
+  "id": "fc7562bd6e2d",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Managing Director, Corporate Services and City Treasurer/Chief Financial Officer to change the vacancy rebate program in accordance with Option 1, directed the City Clerk to forward the resulting resolution to the Minister of Finance, deferred action on vacant/excess land subclass reductions pending other municipalities' decisions, received related community communications, and directed a report back on options for using savings from phasing out the Rebate Program.",
+  "confidence": "high",
+  "quote": "the Managing Director, Corporate Services and City Treasurer/Chief Financial Officer BE DIRECTED to change the vacancy rebate program in accordance with Option 1, as detailed in the staff report dated November 21, 2017; b) the City Clerk BE DIRECTED to send the resolution adopted by Municipal Council to the Minister of Finance with the request that the Minister issue the necessary regulations to put into effect the Option approved in a), above; c) NO ACTION BE TAKEN with respect to the vacant/excess land subclass reductions until a later date",
+  "flags": []
+ },
+ {
+  "id": "b6a0f7c5286f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report on Planning for Non-Therapeutic Cannabis Retail Stores, introduced a by-law establishing a Council Policy on the siting of cannabis retail stores in London, directed that the policy be forwarded to the Province, directed Official Plan and Zoning By-law amendments to plan for cannabis retail store locations, directed continued work with other governments on policing and by-law enforcement requirements, and requested that the Province consider allowing up to five retail stores in London by July 1, 2018.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated December 4, 2017 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on December 12, 2017 to establish a new Council Policy entitled “Siting of Cannabis Retail Stores in London”",
+  "flags": []
+ },
+ {
+  "id": "4ed84b1bde4a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part b), introducing a by-law to establish a new Council Policy entitled “Siting of Cannabis Retail Stores in London.”",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated December 4, 2017 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on December 12, 2017 to establish a new Council Policy entitled “Siting of Cannabis Retail Stores in London”",
+  "flags": []
+ },
+ {
+  "id": "7d5cd8989169",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part d), directing the Managing Director, Planning and City Planner to initiate the necessary amendments to the Official Plan and Zoning By-law to plan for cannabis retail stores at appropriate locations, ensure adequate parking, and require appropriate site design.",
+  "confidence": "high",
+  "quote": "the Managing Director, Planning and City Planner BE DIRECTED to initiate the necessary amendments to the Official Plan and Zoning By-law, to plan for cannabis retail stores at appropriate locations, ensure adequate parking facilities and require appropriate site design (where applicable) going forward",
+  "flags": []
+ },
+ {
+  "id": "caaa84eef072",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the application by Southside Group for 940 and 956 Wharncliffe Road South back to the Managing Director, Planning and City Planner, to identify and report back on the appropriate raw materials that can be stored on the property.",
+  "confidence": "high",
+  "quote": "the application of Southside Group, relating to the properties located at 940 and 956 Wharncliffe Road South, BE REFERRED back to the Managing Director, Planning and City Planner, to identify and report back on the appropriate raw materials that can be stored on the property.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "4411a0f0ddcc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Recommended refusing the application by Bradel Properties Limited to extend the Temporary Use (T-71) Zone at 324 York Street for up to six months, on the grounds that existing parking lots surround the development and an additional parking lot is not required.",
+  "confidence": "high",
+  "quote": "the application of Bradel Properties Limited, relating to the property located at 324 York Street, to extend the Temporary Use (T-71) Zone for a period not exceeding six (6) months BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required",
+  "flags": []
+ },
+ {
+  "id": "6d2afff4d5e3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved the staff recommendation to extend the Temporary Use (T-71) Zone for up to six months at 324 York Street, rather than the amended motion refusing the extension that the Committee had just adopted.",
+  "confidence": "medium",
+  "quote": "Motion to approve the staff recommendation.",
+  "flags": [
+   "substitution"
+  ]
+ },
+ {
+  "id": "e1696a44a888",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Forwarded a communication to the City Clerk to advance the Diversity, Inclusion and Anti-Oppression Advisory Committee's request for equity group data collection from 2018 election candidates, forwarded a letter to the London Police Service responding to its Community Consultation Process request for feedback, and received clauses 1 to 9 and 12 of the Committee's 11th Report.",
+  "confidence": "high",
+  "quote": "the attached communication BE FORWARDED to the City Clerk for the purpose of moving forward with the request of the Diversity, Inclusion and Anti-Oppression Advisory Committee (DIAAC) for equity group data to be collected from candidates in the 2018 election; ... b) the attached letter BE FORWARDED to the London Police Services in response to its request for feedback to the London Police Service Community Consultation Process; and, c) clauses 1 to 9 and 12, BE RECEIVED.",
+  "flags": []
+ },
+ {
+  "id": "a3a3c13fadc0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the City Clerk to investigate and give a verbal report back to the Community and Protective Services Committee on what occurred when the Council Chamber gallery doors were locked following the committee's In Closed Session portion on December 5, 2017.",
+  "confidence": "high",
+  "quote": "The City Clerk BE REQUESTED to investigate and give a verbal report back to the Community and Protective Services Committee (CPSC) with respect to what occurred during the CPSC meeting held on December 5, 2017 when the Council Chamber gallery doors were locked following the committee meeting, In Closed Session.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "5aa4fb88e540",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part b), directing the Managing Director, Corporate Services and City Treasurer/Chief Financial Officer to allocate remaining 2017 budgetary funds, estimated at approximately $112,000, toward implementation of the Community Mental Health and Addiction Strategy for London.",
+  "confidence": "high",
+  "quote": "the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer BE DIRECTED to allocate remaining budgetary funds at the end of 2017, estimated at approximately $112,000, towards implementation activities of the Community Mental Health and Addiction Strategy for London",
+  "flags": []
+ },
+ {
+  "id": "8ddbbfbe4578",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Governance Working Group to investigate and report back on the implications of changing the Council and Standing Committee meeting schedule in terms of time of day and day of week.",
+  "confidence": "high",
+  "quote": "the Governance Working Group BE REQUESTED to investigate and report back on the implications of changing the Council and Standing Committee meeting schedule in terms of time of day and day of week.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "0b7bbad3ba2e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have added a new part c) directing the City Clerk to report back with the necessary steps required to allow Council Members to participate in meetings remotely, in accordance with recent changes to the Municipal Act, 2001.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to report back with the necessary steps that would be required to allow Council Members to participate in meetings in accordance with recent changes to the provisions of the Municipal Act, 2001, as amended.",
+  "flags": [
+   "informational_ask"
+  ]
+ }
+]

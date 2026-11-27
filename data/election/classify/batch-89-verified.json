@@ -1,0 +1,590 @@
+[
+  {
+    "id": "212d661d16ab",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting held on the Applewood Subdivision rezoning and draft-plan-of-subdivision application at 660 Sunningdale Road East.",
+    "confidence": "high",
+    "quote": "Motion to close the public participation meeting.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed: item 9 PE committee has 3 Motion nodes (ordinals 0/1/2 in _all-motions.json); ordinal 2 = this id, vote roster (6 yeas incl. M.Brown/Hopkins/Helmer/Cassidy/Turner/Park, 0 nays) matches only the 'close the public participation meeting' node verbatim, not the rezoning motion (ordinal 0, id 1e71e88fbf2e, out of this batch). Title-vs-operative override correct."
+  },
+  {
+    "id": "351fe97535c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Animal Welfare Advisory Committee's 2018 Work Plan, received its 2017 Work Plan summary, and directed follow-up reports on a beaver-lodge removal and on extending Animal Control By-law rescue-organization exemptions to more animal classes.",
+    "confidence": "high",
+    "quote": "the attached 2018 Work Plan for the AWAC BE APPROVED; and ... J. MacKay, Ecologist, BE REQUESTED to report back at the next AWAC meeting with respect to the destruction/removal of a beaver lodge in West London",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 10 source: pure AWAC work-plan approval/receive/report-back package, no operative issue-vocab clause."
+  },
+  {
+    "id": "baff3d0ff87e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved purchase of Facilitators Training Guides and a Sub-Committee room-booking budget, appointed A. Hamza as Chair of the Policy and Planning Sub-Committee, corrected a report's spelling, requested a Black History Month update, and referred one clause to the City Clerk.",
+    "confidence": "high",
+    "quote": "A. Hamza BE APPOINTED as the Chair of the Policy and Planning Sub-Committee ... clause 11 BE REFERRED to the City Clerk for consideration",
+    "flags": [
+      "appointment",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 11 source: purchase/appointment/spelling-correction/referral omnibus, no substantive policy clause."
+  },
+  {
+    "id": "adfd2a7e5e32",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised Council that the London Housing Advisory Committee supports Inclusionary Zoning in principle while raising several concerns about the province's draft regulations, and directed that those comments be included in the City's submission to the Ministry of Municipal Affairs.",
+    "confidence": "medium",
+    "quote": "the Municipal Council BE ADVISED that the London Housing Advisory Committee supports Inclusionary Zoning in principle as a tool to advance affordable housing and the development of mixed income communities; ... the Municipal Council BE ADVISED that the London Housing Advisory Committee expressed concerns over the draft regulations",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 12 source verbatim. Genuinely mixed 'supports IZ in principle' + 5 listed concerns forwarded as advisory comment to the Ministry -- not an unambiguous FOR/AGAINST IZ vote. null correct; not levy-line so no polarity anyway."
+  },
+  {
+    "id": "63cc40ab8fe3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to prepare a business case on implementing an Administrative Monetary Penalties system to enforce parking, licensing, and property-standards by-laws.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE DIRECTED to prepare a business case on the implementation of a system of Administrative Monetary Penalties as an enforcement tool to address by-law violations, including but not limited to parking, licensing and property standards",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 13 source. 'business case' keyword hit but clause only directs staff to prepare a business case (study directive, no $ commitment) -- matches corpus precedent (batch-71 4da057393faa parking-enforcement tender, batch-59 property acquisition) that bare procurement/study directives with no on-topic keyword stay none/null."
+  },
+  {
+    "id": "2dabf64e29d0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Updated and received the Community and Protective Services Committee's January 2018 Deferred Matters List.",
+    "confidence": "high",
+    "quote": "the January 2018 Deferred Matters List for the Community and Protective Services Committee BE UPDATED and BE RECEIVED",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 14: pure update-and-receive of a deferred matters list."
+  },
+  {
+    "id": "370b149fb33b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred a resident's communication about paratransit zones and by-law enforcement to the Managing Director, Development and Compliance Services and Chief Building Official for review and potential enforcement action.",
+    "confidence": "high",
+    "quote": "That the communication from J. Daunt with respect to Paratransit zones and by-law enforcement BE REFERRED to the Managing Director, Development and Compliance Services and Chief Building Official for review, consultation with Mr. Daunt and potential enforcement action.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 15. Note: 'Paratransit' contains substring 'transit' (mechanical keyword would fire) but clause is a referral of one resident's by-law-enforcement complaint, not transit policy -- correctly none, consistent in spirit with the two transit overrides the classifier did call out."
+  },
+  {
+    "id": "13330c3a5846",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 1st Report of the Childcare Advisory Committee from its January 16, 2018 meeting.",
+    "confidence": "high",
+    "quote": "That the 1st Report of the Childcare Advisory Committee, from its meeting held on January 16, 2018, BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 16: pure receive."
+  },
+  {
+    "id": "2619adced9f2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on the Vital Services By-law's air-conditioning provisions.",
+    "confidence": "high",
+    "quote": "the staff report dated January 23, 2018, related to the Vital Services By-law, air-conditioning, BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 2: pure receive-for-information."
+  },
+  {
+    "id": "cd78150c7e68",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law to replace the Business Licensing By-law's Schedule 2A and 3A maps with updated versions, at the January 30, 2018 Council meeting.",
+    "confidence": "high",
+    "quote": "the by-law, as appended to the staff report dated January 23, 2018, BE INTRODUCED at the Municipal Council meeting of January 30, 2018, to: a) amend by-law L.-131-16 by deleting Schedule 2A in its entirety and replacing it with the attached Schedule 2A maps",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 3: schedule-map technical amendment, no policy content."
+  },
+  {
+    "id": "58869fa6d538",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law authorizing a revised veterinary service agreement with Tracy Satchell Professional Corporation, and approved using pet-license-fee revenue to fund a second Registered Veterinary Technician position.",
+    "confidence": "high",
+    "quote": "authorize the revised attached Service Agreement between The Corporation of the City of London and Tracy Satchell Professional Corporation; ... the use of revenue generated through the Municipal Council resolution of October 17, 2017, related to the increase of pet license fees to provide the Veterinarian with the additional resource of a second Registered Veterinary Technician",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 4: service-agreement authorization + fee-revenue allocation, no tracked-issue keyword."
+  },
+  {
+    "id": "44647a1357ed",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back on Vehicle for Hire By-law ridership and licensing statistics after a full year of implementation, in April 2018.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back on ridership and licensing statistics after a full year of implementation of the Vehicle for Hire By-law, April 2018.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 5: report-back directive only."
+  },
+  {
+    "id": "2191455c8fa2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing by-laws authorizing cost-apportionment agreements between the City of London and the County of Middlesex for Land Ambulance, Ontario Works, Housing Services (CHPI), and Child Care services.",
+    "confidence": "high",
+    "quote": "authorize and approve a Land Ambulance Services Cost Apportionment Agreement between The Corporation of the City of London and The Corporation of the County of Middlesex",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 6: inter-municipal cost-apportionment agreement authorizations, no tracked-issue keyword."
+  },
+  {
+    "id": "465217c39ba7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law authorizing a single-source agreement with Arcane Digital Incorporated to design, produce, sell advertising for, and distribute the Spectrum Recreation and Activity Guide.",
+    "confidence": "high",
+    "quote": "authorize and approve and Agreement between The Corporation of the City of London and Arcane Digital Incorporated to design, produce and sell advertising and to distribute the Spectrum Recreation and Activity Guide",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 7: single-source vendor agreement authorization, no tracked-issue keyword."
+  },
+  {
+    "id": "579a5abd5025",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to review and report back on the Council policy governing the warrant process for crossing guards, following a crossing-guard request near the Lord Roberts Public School intersection of Maitland Street and Princess Avenue.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to review and report back to the appropriate standing committee with respect to the Council Policy related to the warrant process for crossing guards in the City of London",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 8: report-back directive on crossing-guard warrant policy."
+  },
+  {
+    "id": "701cd450459b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received communications from Councillor Salih, Anova, and L. Paul regarding the name of Paul Haggis Park.",
+    "confidence": "high",
+    "quote": "That the communications from Councillor M. Salih, Anova and L. Paul, related to the name of Paul Haggis Park, BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CPS item 9. Contested (4-1, Salih nay) but motion is a pure 'communications ... BE RECEIVED' -- receiving is not itself a stance on the park-naming question; correctly none/null despite the nay."
+  },
+  {
+    "id": "4f780c2ff801",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to apply for a Federation of Canadian Municipalities Municipal Asset Management Program grant to help fund the 2018 Corporate Asset Management Plan and Strategic Asset Management Policy, and authorized the Mayor and City Clerk to execute the related grant documentation.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to apply for a grant from the Federation of Canadian Municipalities' Municipal Asset Management Program to assist with expenditures related to the creation of the 2018 City of London Corporate Asset Management Plan and Strategic Asset Management Policy",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 10: grant-application authorization, no tracked-issue keyword."
+  },
+  {
+    "id": "191502d8b75e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on the 2017 Corporate Asset Management Plan Review.",
+    "confidence": "high",
+    "quote": "the staff report dated January 23, 2018 with respect to the Corporate Asset Management Plan 2017 Review BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 11: receive-for-information only."
+  },
+  {
+    "id": "c468ac437926",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Declared a small City-owned parcel of land abutting 740 Dundas Street surplus and approved its transfer to Terrasan 744 Ltd. for nominal consideration.",
+    "confidence": "high",
+    "quote": "the subject property BE DECLARED SURPLUS; and ... the subject property BE TRANSFERRED to Terrasan 744 Ltd. for nominal consideration.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 12: routine surplus-land declaration/transfer, no tracked-issue keyword."
+  },
+  {
+    "id": "4ffd9d0397b4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Schouten Excavating Inc.'s $349,500 tendered bid to demolish 280 York Street/340 Wellington Street, approved the project's financing, and authorized the Mayor and City Clerk to execute the contract.",
+    "confidence": "high",
+    "quote": "the bid submitted by Schouten Excavating Inc., 8547 LaSalle Line, Watford, Ontario, N0M 2S0, at its tendered price of $349,500.00 excluding HST BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 13. $349,500 demolition tender award, no on-topic keyword (not transit/bikes/downtown/housing/climate). Matches corpus precedent exactly: bare tender awards without an on-topic keyword stay none/null (batch-0 9fb0955b1afa $50.4M Wellington Gateway tender, batch-51 0d6b52aa2f96 $11.2M tender) while tender awards WITH an on-topic keyword (transit/bikes/downtown) get issue+expansive (batch-16/18/52/55/92/returning). Override correct."
+  },
+  {
+    "id": "c5de93af61fd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Affirmed the Mayor's public apology to the LGBTQ2 community for the 1995 discrimination surrounding the Gay Pride proclamation, and advised Londoners that City Hall is open to all regardless of sexual orientation or gender identity.",
+    "confidence": "high",
+    "quote": "the Mayor's apology BE AFFIRMED by City Council, and an official apology BE EXTENDED on behalf of City Council; and ... all Londoners BE ADVISED that City Hall is open, for employment, for volunteer service on committees and boards, and for seeking positions on Council, for all Londoners regardless of their sexual orientation or gender identity",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 14 (committee twin, ordinal 0): affirms Mayor's apology + advisory welcome clause -- 'LGBTQ2 apology' is not in the 8-issue vocabulary regardless of substance, so none is correct on vocabulary grounds alone."
+  },
+  {
+    "id": "0988940bf741",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved S. Lewis's request for delegation status to speak to the LGBTQ2 Community Apology item.",
+    "confidence": "high",
+    "quote": "Motion to Approve the request for delegation status by S. Lewis.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 14 (ordinal 1): pure delegation-status procedural motion."
+  },
+  {
+    "id": "b0c19f65ad20",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Designated the 2018 Latin Gastronomy Festival, held March 3, 2018 at Hassan Law, as an event of municipal significance in the City of London.",
+    "confidence": "high",
+    "quote": "That the Latin Gastronomy Festival 2018, to be held on Saturday, March 3, 2018 from 6:00 p.m. to 1:00 a.m. at Hassan Law, BE DESIGNATED as an event of municipal significance in the City of London.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 15: municipal-significance event designation, no tracked-issue keyword."
+  },
+  {
+    "id": "ffbcce2a6890",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Mayor's notice of his attendance at the Canada Strong Cities Exchange Program and U.S. Conference of Mayors Winter Meeting in Washington, DC, and requested that he report back on the meetings attended.",
+    "confidence": "high",
+    "quote": "Mayor M. Brown BE REQUESTED to report back to the Corporate Services Committee, at the earliest possible date, with a summary of the meetings he attended in Washington, DC",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 16: receive travel notice + report-back directive."
+  },
+  {
+    "id": "34557839d86d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the 2017 update on Corporate Human Rights and Code of Conduct inquiries, requests, and complaints, and directed annual report-back on the same going forward.",
+    "confidence": "high",
+    "quote": "the Managing Director, Corporate Services and Chief Human Resources Officer BE DIRECTED to review and report back annually on Corporate Human Rights and Code of Conduct inquires, requests, complaints and training initiatives.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 2: receive + annual report-back directive."
+  },
+  {
+    "id": "65c35b83d66c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on provincial changes to the Employment Standards Act, 2000 and the Labour Relations Act, 1995 under Bill 148.",
+    "confidence": "high",
+    "quote": "the staff report dated January 23, 2018 regarding the changes to the Employment Standards Act, 2000 and the Labour Relations Act, 1995 - Bill 148 BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 3: receive-for-information on provincial legislation."
+  },
+  {
+    "id": "904d467809fa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on the corporate Workforce Census and community comparator data.",
+    "confidence": "high",
+    "quote": "the staff report dated January 23, 2018 regarding the Workforce Census and community comparators BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 4: receive-for-information."
+  },
+  {
+    "id": "8391b43d1fa2",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to report back to the Corporate Services Committee every six months with workforce diversity and demographic metrics and progress on the Workplace Diversity and Inclusion Plan.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to report back to the Corporate Services Committee, every six months (Nov to April, May to Oct), with metrics and results associated with workforce diversity/demographics and the implementation of the Workplace Diversity and Inclusion Plan",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 5: report-back directive only."
+  },
+  {
+    "id": "78806d6c4fc3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Dimensional Strategies Inc.'s $293,625 proposal to migrate the City's Microsoft Reports to Microsoft Business Intelligence Reporting Services and approved the project's financing.",
+    "confidence": "high",
+    "quote": "the proposal submitted by Dimensional Strategies Inc. (DSI) ... for Implementation Services to Migrate Existing Microsoft Reports to Microsoft Business Intelligence (BI) Reporting Services at their proposed fees of $293,625.00 excluding HST, BE ACCEPTED",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 6. $293,625 BI-reporting-migration proposal acceptance, no on-topic keyword -- same precedent class as 4ffd9d0397b4 above (generic IT/consultant procurement, not a personnel appointment either, but no tracked issue attaches). Override correct."
+  },
+  {
+    "id": "f27a4657ebea",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received for information the staff report on 2018 assessment growth, changes in taxable phase-in values, and taxation shifts resulting from reassessment.",
+    "confidence": "high",
+    "quote": "the staff report dated January 23, 2018 regarding assessment growth for 2018, changes in taxable phase-in values and shifts in taxation as a result of reassessment BE RECEIVED for information.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 7: pure receive-for-information on assessment/taxation shifts, no operative decision."
+  },
+  {
+    "id": "604be4803932",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recommended introducing a by-law authorizing the City's temporary borrowing to meet 2018 current expenditures, at the January 30, 2018 Council meeting.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 23, 2018 BE INTRODUCED at the Municipal Council meeting of January 30, 2018, to authorize the borrowing of certain sums to meet current expenditures of The Corporation of the City of London for the year 2018.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 8: routine annual temporary-borrowing by-law introduction."
+  },
+  {
+    "id": "ad9813cb36a0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Authorized the City Treasurer to proceed with issuing up to $55,000,000 in debentures for permanent financing of capital works, with flexibility to postpone the issuance in unfavourable market conditions.",
+    "confidence": "high",
+    "quote": "the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer BE AUTHORIZED to proceed with the issue of debentures to provide permanent financing for capital works in an amount not to exceed $55,000,000",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs CS item 9: $55M debenture-issuance authorization -- capital-markets financing mechanism, not a printed Tax Levy $ figure, no tracked-issue keyword; correctly outside the levy-size axis per 'no derivable $ line = polarity null'."
+  },
+  {
+    "id": "05a5cff989a1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Accepted Councillor B. Armstrong's resignation from the Rapid Transit Implementation Working Group.",
+    "confidence": "high",
+    "quote": "That the resignation of Councillor B. Armstrong, from the Rapid Transit Implementation Working Group, BE ACCEPTED.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 10 source verbatim: pure resignation-acceptance from a working group (B. Armstrong from Rapid Transit Implementation WG). 'transit' keyword fires mechanically on the WG's name but clause is personnel, not transit policy. Override correct."
+  },
+  {
+    "id": "b38c267c8c55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Took no action on the City of London hosting the 2020 International Plowing Match.",
+    "confidence": "high",
+    "quote": "That NO ACTION BE TAKEN for the City of London to host the International Plowing Match being held in 2020",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 11 source verbatim ('NO ACTION BE TAKEN' re hosting the 2020 Plowing Match). Contested (9-1, Armstrong nay) but taking no action is not itself an issue-vocab stance."
+  },
+  {
+    "id": "7ecdad25a44c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received a staff report on the municipal approval requirements for a proposed gaming-site expansion in London and directed a public consultation process, including a public open house, an online survey, a public participation session, and outreach to the Old East Village BIA, the Old East Village Community Association, and other stakeholders.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE DIRECTED to implement the proposed options for public input consisting of a Public Open House and Information Session, an online survey, as well as a Public Participation session to be held at a meeting of the Strategic Priorities and Policy Committee",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 2: receive-for-information + public-engagement-process directives on a gaming-site expansion; no approve/deny decision taken on the expansion itself."
+  },
+  {
+    "id": "14ecdbe76f3d",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed implementing a 4% Municipal Accommodation Tax in London and directed the Civic Administration and Tourism London to report back with the by-laws and agreements needed to put it in place.",
+    "confidence": "medium",
+    "quote": "the implementation of a 4% tax on transient accommodation in London BE ENDORSED; ... the Civic Administration, in conjunction with Tourism London, BE DIRECTED to report back with the necessary documentation in order to implement the transient accommodation tax, including all necessary by-laws and agreements",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 3 source verbatim -- this is the 'Approve parts a) and b)' roll call (11-3), correctly pulling parts a)+b) text (4% MAT endorsement + report-back directive) and NOT part c)'s separate business-case clause. budget issue correct (no other axis fires); polarity null correct per era-notes 'MAT/non-property-tax != the tax levy' -- text says '4% tax' with no printed Tax Levy $ line, so no derivable $ figure either. Verified direction-rules.ts budget axis (levy-size only, requires increase/decrease near levy/tax-rate/budget/spending/funding) does not match this text mechanically either -- axis=null is correct on both textual and convention grounds."
+  },
+  {
+    "id": "f4fd93d3b070",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested that the Civic Administration report back on methods for allocating the funds raised by the new Municipal Accommodation Tax, and that Tourism London prepare a business case for additional MAT-funded resources.",
+    "confidence": "medium",
+    "quote": "the Civic Administration BE REQUESTED to report back with suggested methods and practices for determining the allocation of the funds the City would realize through the implementation of a transient accommodation tax and, further, Tourism London BE REQUESTED to prepare and present a business case for additional funds",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 3 source verbatim -- this is the separate 'Approve part c)' roll call (13-1, ordinal 1), correctly isolating part c)'s report-back/business-case directive text out of the shared preamble, distinct from 14ecdbe76f3d's parts a/b. Same MAT/no-$-line null reasoning applies."
+  },
+  {
+    "id": "884b295e1641",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed three additional policy matters — Urban Works Reserve Fund retirement, a non-residential Development Charges rate review, and Development Charges recovery for water supply — for review as part of the 2019 Development Charges Background Study, subject to further stakeholder consultation.",
+    "confidence": "medium",
+    "quote": "the following additional policy matters BE ENDORSED for review as part of the 2019 Development Charges Background Study: a) Urban Works Reserve Fund Retirement; b) Non-residential Development Charges Rate Review; and, c) Development Charges Recovery for Water Supply",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 4 source verbatim: pure DC Background Study scoping/endorsement of three policy matters for future review, no printed $ figure. budget issue correct, polarity null correct per 'policy/study-scope-setting motion with no printed $ levy line'."
+  },
+  {
+    "id": "8d242925ddc8",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed the Core Area Servicing Studies for water, wastewater, and stormwater, and a Local Servicing Policy funding approach, to inform the funding of infill/intensification infrastructure in the 2019 Development Charges Background Study.",
+    "confidence": "medium",
+    "quote": "the Core Area Servicing Studies for water, wastewater, and stormwater services ... BE ENDORSED to inform the funding of growth-related infrastructure projects to support infill and intensification development",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 5 source verbatim: Core Area Servicing Studies + Local Servicing Policy endorsed as funding APPROACH (to be detailed in future DC study/capital budget updates), no printed $ figure. Same null reasoning."
+  },
+  {
+    "id": "f257dffa4c73",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Endorsed a staff report for use in preparing the 2019 Development Charges Background Study, continued the existing policy distinguishing Development Charges rates inside and outside the Urban Growth Boundary, and directed further analysis toward an area-rating servicing policy beyond 2019.",
+    "confidence": "medium",
+    "quote": "the current policy to distinguish Development Charges rates inside the Urban Growth Boundary from those outside the Urban Growth Boundary, BE CONTINUED; and ... the Civic Administration BE DIRECTED to continue its analysis to review services that are candidates for differential recovery areas",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 6 source verbatim: DC area-rating policy-review scoping, no printed $ figure. Same null reasoning."
+  },
+  {
+    "id": "c05b93574a7e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Daniela Schmidt to the Committee of Adjustment as a Voting Member for the term ending November 30, 2018, per a ranked ballot.",
+    "confidence": "high",
+    "quote": "That Daniela Schmidt BE APPOINTED to the Committee of Adjustment as a Voting Member for the term ending November 30, 2018",
+    "flags": [
+      "appointment",
+      "not_divided"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 7: single-candidate committee appointment via ranked ballot -- appointment, direction-null per convention."
+  },
+  {
+    "id": "271c361fd02b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the London Transit Commission's notice of its election of Sheryl Rooth as Chair and Dean Sheppard as Vice-Chair for the December 2017 to November 2018 term.",
+    "confidence": "high",
+    "quote": "the election of Sheryl Rooth as Chair and Dean Sheppard as Vice-Chair for the LTC, for the term December 2017 to November 2018, BE RECEIVED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 8 source verbatim: pure receive of an internal LTC chair/vice-chair election notice. 'transit' (via 'London Transit') fires mechanically but this is an internal governance receipt, not transit policy. Override correct."
+  },
+  {
+    "id": "5bc7ac0ae0b0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Removed Luca Cosentino from and appointed Samira Soufan to the Hyde Park Business Improvement Association Board of Management for the term ending November 30, 2018.",
+    "confidence": "high",
+    "quote": "Luca Cosentino BE REMOVED from the Hyde Park Business Improvement Association Board of Management; and ... Samira Soufan BE APPOINTED to the Hyde Park Business Improvement Association Board of Management for the term ending November 30, 2018.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs SPP item 9: BIA board member removal/appointment -- personnel, direction-null."
+  },
+  {
+    "id": "87d7a08dd6b7",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended the LGBTQ2 Community Apology motion at Council to direct the City Solicitor to review and report back on publicly releasing confidential legal reports prepared between 1995 and 1998 on the underlying 1995 Gay Pride proclamation matter.",
+    "confidence": "high",
+    "quote": "the City Solicitor BE DIRECTED to review and report back with respect to the request that any previously provided confidential reports prepared by the City Solicitor's Office between 1995 and 1998, in response to this matter, be publicly released",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council item 14 source verbatim: 4 Motion-class nodes present (ordinals 0-3: amendment-mover/amendment-vote/final-mover/final-vote). This id = ordinal 1 (the amendment vote, 12-0), and its quote correctly pulls from the PRECEDING mover node's own motion_texts (the actual amendment language: City Solicitor directed to review/report back on releasing 1995-98 confidential reports) rather than the vote node's own empty 'Motion Passed' text. Confirms 0-indexed-across-all-Motion-nodes convention. Not in issue vocabulary (LGBTQ2 apology/human-rights topic has no ISSUE_ORDER key) so none is correct regardless of substance; also unanimous, so no direction signal exists to miss."
+  },
+  {
+    "id": "020a8012167e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted the LGBTQ2 Community Apology at Municipal Council, as amended to direct the City Solicitor to review and report back on releasing 1995-1998 confidential reports related to the matter.",
+    "confidence": "high",
+    "quote": "Approve Clause 14, as amended.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Confirmed vs Council item 14 source verbatim: this id = ordinal 3 (the final 'as amended' vote, 12-0), quote correctly pulls the preceding mover node's 'Approve Clause 14, as amended.' text. Same vocabulary/unanimity reasoning as above -- none correct."
+  }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "595a6e78b2c7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the staff report on the Strategic Plan Progress Variance.",
+  "confidence": "high",
+  "quote": "the staff report dated February 20, 2018, entitled \"Strategic Plan Progress Variance\" BE RECEIVED for information.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "931a3ad56a83",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received for information the Building Division Monthly Report for December 2017.",
+  "confidence": "high",
+  "quote": "the Building Division Monthly Report for the month of December, 2017 BE RECEIVED for information.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "59e86fb97b4d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 2nd Report of the Environmental and Ecological Planning Advisory Committee, including approving its 2018 Work Plan, establishing a working group on proposed issues for investigation, referring proposed Green Standards for Light Pollution and Bird-Friendly Development back to that working group, appointing two individuals to the Dingman Creek Environmental Assessment Stakeholder Committee, and forwarding working-group comments on the Sifton Properties Limited application near Colonel Talbot Road and Pack Road to planning staff for consideration.",
+  "confidence": "medium",
+  "quote": "the 2018 Work Plan for the Environmental and Ecological Planning Advisory Committee (EEPAC) appended to the 2nd Report of the EEPAC BE APPROVED",
+  "flags": ["referral", "appointment", "informational_ask", "not_divided"]
+ },
+ {
+  "id": "b3ef7b3e7bfb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law authorizing a Memorandum of Understanding between the City and the Canadian Plastics Industry Association to advance shared waste-to-resources objectives, and authorized the Mayor and City Clerk to execute it.",
+  "confidence": "high",
+  "quote": "authorize and approve a Memorandum of Understanding between the Canadian Plastics Industry Association and The Corporation of the City of London with respect to advancing our joint waste to resources (waste management, diversion and/or conversion into products with beneficial uses) objectives",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "c5b2a77d4563",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law authorizing a Memorandum of Understanding between the City and Resource Energy Development of Canada Ltd. to advance shared waste-to-resources objectives, and authorized the Mayor and City Clerk to execute it.",
+  "confidence": "high",
+  "quote": "authorize and approve a Memorandum of Understanding between The Corporation of the City of London and Resource Energy Development of Canada Ltd. with respect to advancing our joint waste to resources (waste management, diversion and/or conversion into products with beneficial uses) objectives",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "f47e4525db63",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a resolution, to be forwarded to the Minister of the Environment and Climate Change, requesting that the Minister take steps to expedite the Municipal Class Environmental Assessment process, better integrate it with the Planning Act, and reduce duplication with municipal Official Plans and other public processes and provincial legislation.",
+  "confidence": "high",
+  "quote": "be it resolved that The Corporation of the City of London request that the Minister of the Environment and Climate Change take immediate steps to expedite the response process for Part II Orders or Bump-Up requests, as part of the s.61 review to improve MCEA process times and reduce study costs",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "e82290793162",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Civic Works Committee Deferred Matters List, as at February 12, 2018.",
+  "confidence": "high",
+  "quote": "the Civic Works Committee Deferred List, as at February 12, 2018, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "d76371c211d1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the price of $415,000 (excluding HST) submitted by APG-Neuros for the supply of one blower and associated components for the Greenway Wastewater Treatment Plant, approved financing for the acquisition, and authorized the Civic Administration to undertake the related administrative acts.",
+  "confidence": "high",
+  "quote": "the price submitted by APG-Neuros of $415,000, excluding HST, for the supply of one blower and associated components BE ACCEPTED",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "9b3afa317028",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Increased the value of design and contract administration fees for CH2M by $473,475.00 to $4,183,470.00 (including contingency, excluding HST), to cover additional efforts for the Greenway Wastewater Treatment Plant expansion project, and approved financing for the project.",
+  "confidence": "high",
+  "quote": "the value of design and contract administration fees for CH2M BE INCREASED by $473,475.00 to $4,183,470.00, including contingency, excluding HST, to cover additional efforts required as a result of complex project delivery and additional work scope",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "dae35c7970fc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report on the 2017 Drinking Water Annual Report and Summary Report for the City of London Distribution System.",
+  "confidence": "high",
+  "quote": "the staff report dated February 21, 2018, related to the 2017 Drinking Water Annual Report and Summary Report for the City of London Distribution System, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "b52762471250",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Increased the value of design and contract administration fees for Stantec Consulting Ltd. by $487,082.20 to $1,359,550.60 (including contingency, excluding HST), to cover additional work scope for the Colonel Talbot Pumping Station, and approved financing for the project.",
+  "confidence": "high",
+  "quote": "the value of the total detailed design and contract administration fees for Stantec Consulting Ltd. BE INCREASED by $487,082.20 to $1,359,550.60, including contingency, excluding HST to cover additional efforts required as a result of additional work scope required",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "070f821a0c51",
+  "issue": "downtown",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Accepted the bid from Amico Infrastructures (Oxford) Inc. at $26,691,941.90 (excluding HST), the lowest of five bids, for the Dundas Place Project, authorized Dillon Consulting Ltd. to carry out resident inspection and construction administration for $2,472,030 (excluding HST), and approved financing for the project.",
+  "confidence": "medium",
+  "quote": "the bid submitted by Amico Infrastructures (Oxford) Inc., at its submitted tendered price of $26,691,941.90 (excluding HST), for the said project, BE ACCEPTED; it being noted that the bid submitted by Amico Infrastructures (Oxford) Inc. was the lowest of five bids received and meets the City's specifications and requirements in all areas",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "d85242e3abc2",
+  "issue": "budget",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law authorizing a Transfer Payment Agreement with the Province for funding under the Ontario Municipal Commuter Cycling Program, and authorized increasing the 2016-2019 Multi-Year Capital Budget by $3.3 million to reflect the approved OMCC contribution.",
+  "confidence": "medium",
+  "quote": "the Civic Administration BE AUTHORIZED to increase the 2016-2019 Multi-Year Capital Budget by $3.3 million to reflect the approved OMCC contribution as set out in the Source of Financing appended to the staff report dated February 21, 2018",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "ab56c7461af0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the 2nd Report of the Rapid Transit Implementation Working Group, from its meeting held on February 8, 2018.",
+  "confidence": "high",
+  "quote": "the 2nd Report of the Rapid Transit Implementation Working Group, from its meeting held on February 8, 2018, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "110c098c5989",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the comments and discussion in the staff report on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting on its draft Guideline on Community Emissions Reduction Planning, and directed that they be submitted to the Ministry by the March 4, 2018 comment deadline.",
+  "confidence": "medium",
+  "quote": "the comments and discussion included within the staff report dated February 21, 2018, with respect to the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting (EBR 013-2083) entitled \"Guideline on Community Emissions Reduction Planning\", BE ENDORSED and BE SUBMITTED to the Ministry of the Environment",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "0bd2ae0356c3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the 2nd Report of the Animal Welfare Advisory Committee, from its meeting held on February 1, 2018.",
+  "confidence": "high",
+  "quote": "the 2nd Report of the Animal Welfare Advisory Committee, from its meeting held on February 1, 2018, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "ece344899765",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the 1st Report of the Accessibility Advisory Committee, including implementing the Site Plan Checklist in the City's Site Plan Approval Process, approving delegation status at an upcoming Community and Protective Services Committee meeting on the Mayor's New Year's Honour List Award for Accessibility, and receiving the balance of the report's clauses.",
+  "confidence": "medium",
+  "quote": "the attached Site Plan Checklist BE IMPLEMENTED in the Site Plan Approval Process",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "8d57dacba9d0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the City Clerk review and consider new, additional resources for Advisory Committee, Board, and Commission membership recruitment, to augment the diversity of applications for vacant positions with a focus on diverse young women, and report back to the Community and Protective Services Committee, and received the balance of the report's clauses.",
+  "confidence": "high",
+  "quote": "the City Clerk BE REQUESTED to review and consider new, additional resources for the Advisory Committee, Board and Commission membership recruitment in order to augment the diversity of applications for vacant positions, specifically focusing on diverse, young women and report back to the Community and Protective Services Committee with respect to this matter",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "bc1748e45d4e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the January 2018 Deferred Matters List for the Community and Protective Services Committee.",
+  "confidence": "high",
+  "quote": "the January 2018 Deferred Matters List for the Community and Protective Services Committee BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "6094bb6512fe",
+  "issue": "encampments",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Increased the value of the Purchase of Service Agreement with Cargo Management Consulting Inc. for the implementation of London's Homeless Management Information System by up to $205,796, to a revised total of up to $931,351 plus HST, to cover one-time start-up costs, subject to the availability of funding.",
+  "confidence": "medium",
+  "quote": "the amended value of the Purchase of Service Agreement with Cargo Management Consulting Inc. for the implementation of a Homeless Management Information System at a total cost of $725,555 plus HST, BE INCREASED by up to $205,796 to a revised total of up to $931,351 plus HST for one-time costs associated with the start-up of the Homeless Management Information System",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "ec2201492c36",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report providing an update on London's Homeless Prevention System Housing Stability Bank.",
+  "confidence": "high",
+  "quote": "the staff report dated February 21, 2018, with respect to an update on London's Homeless Prevention System Housing Stability Bank, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "f3008e9f07c7",
+  "issue": "encampments",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report providing an update on London's Homeless Prevention System, London CAReS Homeless Response Services.",
+  "confidence": "high",
+  "quote": "the staff report dated February 21, 2018, with respect to an update on London's Homeless Prevention System, London CAReS Homeless Response Services, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "23b8f0a55fcc",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing a by-law to approve the standard form Rent Supplement Agreement between the City and eligible Housing Providers, to provide rent supplements to tenants of approved Housing Projects, and authorized the Managing Director of Housing, Social Services and Dearness Home, or designate, to execute it.",
+  "confidence": "medium",
+  "quote": "approve the standard form Rent Supplement Agreement, as appended to the above-noted by-law, and satisfactory to the City Solicitor, between The Corporation of the City of London and eligible Housing Providers for the purpose of providing Rent Supplements to tenants of approved Housing Projects",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "13bfb27ca62c",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to enter into a Transfer Payment Agreement with the Ministry of Housing and a Housing Provider Contribution Agreement for the Social Housing Apartment Improvement Program (SHAIP), and authorized the Mayor and City Clerk, and the Managing Director of Housing, Social Services and Dearness Home, to execute the agreements.",
+  "confidence": "medium",
+  "quote": "approve a Transfer Payment Agreement for the Social Housing Apartment Improvement Program (SHAIP), appended to the above-noted by-law, and satisfactory to the City Solicitor, between The Corporation of the City of London and Her Majesty the Queen in the Right of Ontario as represented by The Ministry of Housing",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "4f5cd33dba90",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report on Strategic Plan Progress Variance.",
+  "confidence": "high",
+  "quote": "the staff report dated February 21, 2018, with respect to Strategic Plan Progress Variance, BE RECEIVED.",
+  "flags": ["informational_ask", "not_divided"]
+ },
+ {
+  "id": "a79f7c3093f8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the submission by Monteith Brown Planning Consultants Limited, in the amount of $174,995.00 (excluding HST), as an irregular result under the Procurement of Goods and Services Policy, to provide consulting services for the Parks and Recreation Strategic Master Plan Update, and approved financing for the project.",
+  "confidence": "high",
+  "quote": "the submission by Monteith Brown Planning Consultants Limited, 610 Princess Street, London, Ontario, N6B 2B9, to provide consulting services for the above-noted project, in the amount of $174,995.00 (excluding HST) BE ACCEPTED as an irregular result in accordance with Section 8.10 (b) of the City of London's Procurement of Goods and Services Policy",
+  "flags": ["not_divided"]
+ },
+ {
+  "id": "cc55ca4bd39d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the staff report and draft Public Nuisance By-law amendment addressing nuisance odours from Anaerobic Digestion Facilities, Composting Facilities and Rendering Plants, referred it to an April 4, 2018 public participation meeting for public input, approved enhancing municipal enforcement by hiring one additional Municipal Law Enforcement Officer on a two-year temporary basis at up to $90,000 per year funded from the Sanitary Landfill Site Reserve Fund, and directed a report back after one year of enforcement.",
+  "confidence": "medium",
+  "quote": "the above-noted staff report and draft Public Nuisance By-law amendment, to address nuisance odours related to Anaerobic Digestion Facilities, Composting Facilities and Rendering Plants, BE RECEIVED and BE REFERRED to a public participation meeting to be held by the Community and Protective Services Committee on April 4, 2018, for the purpose of seeking public input on the draft by-law",
+  "flags": ["referral", "informational_ask", "not_divided"]
+ },
+ {
+  "id": "c987563b1b3c",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved introducing a by-law to amend the Southwest Area Secondary Plan to delete policy 20.5.6.1.v)a), which had required that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres of gross floor area, on the application of The Corporation of the City of London.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+  "flags": []
+ },
+ {
+  "id": "7fee592a5cd1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved in principle a program of forgivable loans, similar to those provided in downtown and Old East Village, for the Hamilton Road Community Improvement Area, noting that the Community Investment Reserve Fund's balance is sufficient to cover the estimated $118,000 budget for 2018 and 2019.",
+  "confidence": "high",
+  "quote": "that forgivable loans similar to those provided in downtown and Old East Village BE APPROVED IN PRINCIPLE for the Hamilton Road Community Improvement Area, it being noted that the balance of the Community Investment Reserve Fund is sufficient to cover the estimated budget of $118,000 for 2018 and 2019",
+  "flags": []
+ },
+ {
+  "id": "1f3c130b77e9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred ANOVA's communication requesting support for the UN Safe Cities Initiative back to the City Manager for further refinement of the proposal, including resource sourcing.",
+  "confidence": "high",
+  "quote": "That the communication dated March 20, 2018, from ANOVA, with respect to a request for support related to the UN Safe Cities Initiative BE REFERRED to the City Manager for further refinement regarding the proposal, including resource sourcing.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "466449e4486b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the staff report on Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City back to the Civic Administration to report back on next steps, including modelling options and associated costing, for consideration at a future Strategic Priorities and Policy Committee meeting.",
+  "confidence": "high",
+  "quote": "That the staff report dated March 26, 2018, entitled \"Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City\" BE REFERRED back to the Civic Administration in order for the Civic Administration to report back on next steps for London to become a Sanctuary City, including details on modelling options and associated costing, for consideration at a future meeting of the Strategic Priorities and Policy Committee.",
+  "flags": ["referral", "informational_ask"]
+ },
+ {
+  "id": "8e0d9bb2a8b9",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the proposal from KPMG LLP, at proposed fees of $260,000.00 (excluding HST), to provide consulting services for the City of London Service Review (RFP 18-04), and approved financing for the project.",
+  "confidence": "high",
+  "quote": "the proposal submitted by KPMG LLP, 1400 – 140 Fullarton Street London, ON N6A 5P2 to provide consulting services for the City of London Service Review, at their proposed fees of $260,000.00 (excluding HST), BE ACCEPTED in accordance with the Procurement of Goods and Services Policy",
+  "flags": []
+ },
+ {
+  "id": "0eb59b48a11a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "confidence": "high",
+  "quote": "the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED",
+  "flags": []
+ },
+ {
+  "id": "6836300aa513",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Changed the order of business, pursuant to section 6.4 of the Council Procedure By-law, to permit Item 9 of the 5th Report of the Civic Works Committee to be dealt with prior to Council moving into Closed Session.",
+  "confidence": "high",
+  "quote": "That pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration of Item 9 of the 5th Report of the Civic Works Committee to be dealt with prior to Stage IV Council, In Closed Session.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "e4e237470a62",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the 3rd Report of the Rapid Transit Implementation Working Group, from its meeting held on March 8, 2018.",
+  "confidence": "high",
+  "quote": "That the 3rd Report of the Rapid Transit Implementation Working Group, from its meeting held on March 8, 2018, BE RECEIVED.",
+  "flags": ["informational_ask"]
+ },
+ {
+  "id": "9ec7c56d07ec",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed the City Manager to identify a lead person within the Corporation to coordinate the London Safe City Initiative alongside ANOVA, at approximately 20 hours per week; Council instead separately approved directing the City Manager to identify a staff person to provide ANOVA interim assistance for 14–16 hours per week for up to two months, plus up to $15,000 in additional funding for ANOVA to hire an outside individual to provide that assistance.",
+  "confidence": "medium",
+  "quote": "The motion to approve part b) IS PUT: b) the City Manager BE DIRECTED to identify a lead person within The Corporation of the City of London who will be tasked with co-ordinating the London Safe City Initiative alongside ANOVA; it being noted that this person will help coordinate focus groups and regular Steering Committee meetings and manage the launch and dissemination of the mapping tool, with the work totalling approximately 20 hours per week;",
+  "flags": ["substitution"]
+ },
+ {
+  "id": "9684a909d110",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the 2nd Report of the Transportation Advisory Committee (TAC), from its meeting held on February 27, 2018, to the Civic Administration for review of the 2018 Work Plan, to identify additional areas where the TAC can assist, in alignment with the Strategic Plan.",
+  "confidence": "high",
+  "quote": "That the 2nd Report of the Transportation Advisory Committee (TAC), from its meeting held on February 27, 2018, BE REFERRED to the Civic Administration for review of the 2018 Work Plan, which will allow Civic Administration to identify additional areas where the TAC can be of assistance, in alignment with the Strategic Plan.",
+  "flags": ["referral"]
+ },
+ {
+  "id": "5247f38cc910",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Permitted Councillor S. Turner to speak longer than five minutes on the Wonderland Road Community Enterprise Corridor matter, pursuant to section 9.6 of the Council Procedure By-law.",
+  "confidence": "high",
+  "quote": "That pursuant to section 9.6 of the Council Procedure By-law, Councillor S. Turner be permitted to speak longer than 5 minutes with respect to this matter.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "3f7c0b9517b0",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have introduced a by-law to amend the Southwest Area Secondary Plan to delete policy 20.5.6.1.v)a), which had required that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres of gross floor area, on the application of The Corporation of the City of London.",
+  "confidence": "medium",
+  "quote": "the proposed by-law appended to the staff report dated March 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on March 27, 2018 to amend the Southwest Area Secondary Plan TO DELETE policy 20.5.6.1.v) a), which requires that commercial development within a portion of the Wonderland Road Community Enterprise Corridor south of Bradley Avenue not exceed 100,000 square metres in gross floor area",
+  "flags": []
+ },
+ {
+  "id": "de2967aafbd7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved reconsidering Item 17 (the Wonderland Road Community Enterprise Corridor matter), pursuant to section 13.2 of the Council Procedure By-law, to permit a correction of a vote of a member of Council.",
+  "confidence": "high",
+  "quote": "That pursuant to section 13.2 of the Council Procedure By-law reconsideration of Item 17 BE APPROVED, to permit a correction of a vote of a member of Council.",
+  "flags": ["procedural"]
+ },
+ {
+  "id": "143317814b4a",
+  "issue": "housing",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "On reconsideration, would have approved Item 17, the Wonderland Road Community Enterprise Corridor matter — introducing a by-law to amend the Southwest Area Secondary Plan to delete policy 20.5.6.1.v)a), which had required that commercial development within a portion of the corridor south of Bradley Avenue not exceed 100,000 square metres of gross floor area.",
+  "confidence": "medium",
+  "quote": "That Item 17 BE APPROVED.",
+  "flags": ["wrapper_preamble"]
+ },
+ {
+  "id": "d0611ea26cf3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved in principle a program of forgivable loans, similar to those provided in downtown and Old East Village, for the Hamilton Road Community Improvement Area, noting that the Community Investment Reserve Fund's balance is sufficient to cover the estimated $118,000 budget for 2018 and 2019.",
+  "confidence": "high",
+  "quote": "that forgivable loans similar to those provided in downtown and Old East Village BE APPROVED IN PRINCIPLE for the Hamilton Road Community Improvement Area, it being noted that the balance of the Community Investment Reserve Fund is sufficient to cover the estimated budget of $118,000 for 2018 and 2019",
+  "flags": []
+ },
+ {
+  "id": "9b7dccefebd5",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the staff report on Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City back to the Civic Administration to report back on next steps, including modelling options and associated costing, for consideration at a future Strategic Priorities and Policy Committee meeting.",
+  "confidence": "high",
+  "quote": "That the staff report dated March 26, 2018, entitled \"Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City\" BE REFERRED back to the Civic Administration in order for the Civic Administration to report back on next steps for London to become a Sanctuary City/Access to Service Without Fear City, including details on modeling options and associated costing, for consideration at a future meeting of the Strategic Priorities and Policy Committee.",
+  "flags": ["referral", "informational_ask"]
+ },
+ {
+  "id": "4bee191c1cb1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Accepted the proposal from KPMG LLP, at proposed fees of $260,000.00 (excluding HST), to provide consulting services for the City of London Service Review (RFP 18-04), and approved financing for the project.",
+  "confidence": "high",
+  "quote": "the proposal submitted by KPMG LLP, 1400 – 140 Fullarton Street London, ON N6A 5P2 to provide consulting services for the City of London Service Review, at their proposed fees of $260,000.00 (excluding HST), BE ACCEPTED in accordance with the Procurement of Goods and Services Policy",
+  "flags": []
+ },
+ {
+  "id": "286131c377d8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Endorsed the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report, following the Committee's review of the update from the Director, Community and Economic Innovation.",
+  "confidence": "high",
+  "quote": "the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED",
+  "flags": []
+ }
+]

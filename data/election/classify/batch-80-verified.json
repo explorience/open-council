@@ -1,0 +1,625 @@
+[
+  {
+    "id": "7465e69ea8bc",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that Council rise and go into Closed Session to consider legal advice regarding the City of London's compliance with the Accessibility for Ontarians with Disabilities Act.",
+    "confidence": "high",
+    "quote": "Approve that Council rise and go into Council, In Closed Session, for the purpose of considering a matter pertaining to advice subject to solicitor-client privilege, including communications necessary for that purpose, with respect to City of London compliance with the Accessibility for Ontarians with Disabilities Act.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim against source JSON (item 17, 2017-01-31 Council). Closed-session procedural, correctly issue=none."
+  },
+  {
+    "id": "71f37804c927",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted an amendment adding a new part c) to clause 17 (Alternative Formats for Council and Standing Committee Agendas); the added part's own text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against per-meeting JSON item 17#2: source motion text genuinely ends at the colon before part c)'s sub-clause (confirmed by reading the full item content array) — no_text is correct, not an artifact of truncation."
+  },
+  {
+    "id": "9476fd1acf21",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted an amendment adding a new part d) to clause 17 (Alternative Formats for Council and Standing Committee Agendas); the added part's own text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same item, part d) amendment — verified genuinely textless at source (colon-terminated) same as part c)."
+  },
+  {
+    "id": "7a28f201670f",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 17 (report on alternative formats for Council and Standing Committee agendas), as amended to add new parts c) through e); as originally recommended, the clause forwarded the report to the Accessibility Advisory Committee for comment and directed the Civic Administration to prepare a comment on the compliance of the pre-recorded video on the City of London website. The text of the added parts c) through e) is not preserved in the source minutes.",
+    "confidence": "medium",
+    "quote": "Approve clause 17, as amended.",
+    "flags": [
+      "informational_ask",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified quote against source. whatAYeaDid's 'parts c) through e)' is accurate — confirmed a third amendment (part e), id cfb24f91f93e, exists in the same item outside this batch."
+  },
+  {
+    "id": "e743ec721027",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that the Council meeting proceed beyond the hour of 11:00 PM.",
+    "confidence": "high",
+    "quote": "Approve that the meeting proceed beyond the hour of 11:00 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim against source (rollCallOrdinal 4, same item)."
+  },
+  {
+    "id": "13d039a65abb",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Noted that Councillor P. Hubert had asked the Managing Director, Corporate Services and Chief Human Resources Officer about Council Policy 18(24) (“No-cut” Employment Agreements) and what would constitute a “no-cut” contract, and that staff responded describing the policy and indicating the City does not have any such contracts, though could not speak for local boards and commissions.",
+    "confidence": "high",
+    "quote": "That it BE NOTED that Councillor P. Hubert requested the Managing Director, Corporate Services and Chief Human Resources Officer to advise what is stated in Council Policy 18(24) – “No-cut” Employment Agreements and enquired about what constituted a “no-cut” contract and if the City offered lengthy “no-cut” contracts. The Managing Director, Corporate Services and Chief Human Resources Officer relayed the content of Council Policy 18(24), outlined what would constitute a “no-cut” contract and indicated that to the best of her knowledge the City does not have any “no-cut” contracts, but that she could not speak for the local boards and commissions.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim against _all-motions.json; pure informational exchange, correctly issue=none/polarity=null."
+  },
+  {
+    "id": "a2cade76154b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the City Clerk to begin the public consultation process for a possible ranked ballot election, including further research and a draft by-law for a future public participation meeting, should Council choose to proceed with a ranked ballot election.",
+    "confidence": "high",
+    "quote": "That the City Clerk BE DIRECTED to begin the public consultation process for a ranked ballot election which would include additional research and provision of a draft by-law for consideration at a public participation meeting that would be held in sufficient time to meet the legislative requirements, should the Municipal Council choose to proceed with a ranked ballot election.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; directs beginning a consultation process, not a tracked-issue vote."
+  },
+  {
+    "id": "a9214ca77a3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that Council rise and go into Closed Session to consider legal advice regarding clause 2 of the 4th Report of the Strategic Priorities and Policy Committee (the delegation request from the London Police Association).",
+    "confidence": "high",
+    "quote": "Approve that Council rise and go into Council, In Closed Session for the purpose of considering a matter pertaining to information and advice subject to solicitor-client privilege, including communications necessary for that purpose, with respect to clause 2 of the 4th Report of the Strategic Priorities and Policy Committee.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; closed-session procedural re: a delegation request, not a policing-issue vote (no 'police service'/'police services board' keyword hit — 'London Police Association' does not match)."
+  },
+  {
+    "id": "529c92afcc7e",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred part b) of clause 2 back for additional legal advice on requesting the Ontario Civilian Police Commission proceed with an investigation, as outlined in the January 5, 2017 letter from David Gilmore, President of the London Police Association, rather than deciding on the request now.",
+    "confidence": "high",
+    "quote": "Approve that part b) of clause 2 be referred back in order for the Civic Administration to report back with additional legal advice regarding requesting the Ontario Civilian Police Commission to proceed with the investigation as outlined in the January 5, 2017 letter from David Gilmore, President, London Police Association.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; referral for further legal advice, correctly polarity-null. No policing keyword hit (checked against issue-rules.ts vocabulary)."
+  },
+  {
+    "id": "8d8b4c56722c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have recorded a procedural vote associated with the Mayor resuming the Chair during consideration of the Cold Beverage Vending Machines item; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "FAILED motion, correctly hedged 'Would have'. Source confirms no operative text preserved."
+  },
+  {
+    "id": "638624ce5c55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have approved the Civic Administration's plan to arrange removal of cold beverage vending machines from recreation facilities and City Hall, including development and implementation of a communication and education strategy.",
+    "confidence": "high",
+    "quote": "Approve the following part b): b) the Civic Administration's plan to arrange the removal of cold beverage vending machines from recreation facilities and City Hall BE ENDORSED, including the development and implementation of a comprehensive communication and education strategy;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim against source (curly-apostrophe only diff). Source's own 'BE ENDORSED' correctly NOT echoed as a stance verb in whatAYeaDid ('approved' used instead) — hedged correctly for a FAILED motion."
+  },
+  {
+    "id": "7b2f04939b89",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have asked the Middlesex-London Health Unit to develop and implement the communication and education strategy for removing cold beverage vending machines from recreation facilities and City Hall.",
+    "confidence": "high",
+    "quote": "Approve the following part c): c) the Middlesex London Health Unit BE ASKED to develop and implement the communication and education strategy;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; FAILED, hedged correctly, no stance verb."
+  },
+  {
+    "id": "9dfefa819920",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the Civic Administration's plan to arrange removal of candy vending machines from recreation facilities at the end of the existing contract in 2017.",
+    "confidence": "high",
+    "quote": "Approve the following part d): d) the Civic Administration's plan to arrange for the removal of candy vending from recreational facilities at the end of the existing contract in 2017 BE ENDORSED.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim (curly-apostrophe diff only); PASSED, 'approved' used correctly instead of source's 'BE ENDORSED'."
+  },
+  {
+    "id": "8406c658f5e3",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Property Located at 1245 Michael Street (39T-1506/Z-8664) (Relates to Bill No. 84)'; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: motion field is a bare placeholder, no_text correctly applied, issue=none correct (no tracked-issue keywords in itemTitle)."
+  },
+  {
+    "id": "3de634da7a5f",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on the Minister's modifications to the London Plan regarding secondary dwelling units: received the February 6, 2017 staff report, and directed the Civic Administration to make arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive public input on the modifications. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "confidence": "medium",
+    "quote": "That the following actions be taken with respect to the Minister's modifications to the London Plan as they relate to secondary dwelling units and specifically Policy 942: a) the report of the Managing Director, Planning and City Planner, dated February 6, 2017 and entitled “Minister's Modifications to the London Plan Secondary Dwelling Units”, BE RECEIVED; and, b) the Civic Administration BE DIRECTED to make the necessary arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive input from the public with respect to the Minister's modifications to the London Plan regarding secondary dwelling units;",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: committee-stage motion field is literally 'Motion Passed' (confirmed in raw JSON); description accurately drawn from the item's own preamble paragraph (matches Council twin c4e011e78af9's item verbatim). issue=housing correct ('the London Plan' + 'secondary dwelling' keyword hits, both with body support, no GLOBAL_EXCLUDE match)."
+  },
+  {
+    "id": "df609480401b",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Dillon Consulting Limited as Consulting Engineers for the detailed design and tendering of the Dundas Place project at an upset amount of $1,369,500.00 (excluding H.S.T.), approved the project's financing, and authorized related administrative and contract-execution steps. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "confidence": "medium",
+    "quote": "That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Dundas Place Project: a) Dillon Consulting Limited, BE APPOINTED Consulting Engineers for the detailed design and tendering for the project at an upset amount of $1,369,500.00, excluding H.S.T., in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy; b) the financing for this project BE APPROVED as set out in the Sources of Financing Report appended to the staff report dated February 7, 2017 as Appendix ‘A’; c) the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; d) the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and, e) the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: committee-stage motion field is 'Motion Passed' placeholder; description matches Council twin c5ee7b49018a's full text verbatim. issue=downtown correct ('Dundas Place' keyword, body-supported)."
+  },
+  {
+    "id": "2f48c4165435",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Asset Review: London Hydro Inc. - Discussion Paper'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: placeholder-only motion text, no_text correctly applied; 'London Hydro' not a tracked-issue keyword."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on 'Consideration of Appointment to the Economic Partnership Advisory Panel'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text",
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: appointment to advisory panel, correctly GLOBAL_EXCLUDE-adjacent (personnel/appointment, direction-null per convention) and no_text confirmed at source."
+  },
+  {
+    "id": "c4e011e78af9",
+    "issue": "housing",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Civic Administration to make arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive public input on the Minister's modifications to the London Plan regarding secondary dwelling units.",
+    "confidence": "high",
+    "quote": "The motion to Approve part b) of clause 11 is put.",
+    "flags": [
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim ('The motion to Approve part b) of clause 11 is put.' — a genuine separately-recorded roll call, confirmed in source with its own distinct yea/nay list from part a)'s). issue=housing correct."
+  },
+  {
+    "id": "645dd1d3a2e4",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Passed a further motion on 'Asset Review of London Hydro Inc. – Discussion Paper' (clause 3 of the 5th Report of the Strategic Priorities and Policy Committee); the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: placeholder-only text, no_text correctly applied."
+  },
+  {
+    "id": "c5ee7b49018a",
+    "issue": "downtown",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Appointed Dillon Consulting Limited as Consulting Engineers for the detailed design and tendering of the Dundas Place project at an upset amount of $1,369,500.00 (excluding H.S.T.), approved the project's financing, and authorized related administrative and contract-execution steps.",
+    "confidence": "high",
+    "quote": "That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Dundas Place Project: a) Dillon Consulting Limited, BE APPOINTED Consulting Engineers for the detailed design and tendering for the project at an upset amount of $1,369,500.00, excluding H.S.T., in accordance with Section 15.2 (g) of the Procurement of Goods and Services Policy; b) the financing for this project BE APPROVED as set out in the Sources of Financing Report appended to the staff report dated February 7, 2017 as Appendix ‘A’; c) the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project; d) the approvals given herein BE CONDITIONAL upon the Corporation entering into a formal contract with the consultant for the work; and, e) the Mayor and the City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations.",
+    "flags": [
+      "appointment"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim in full against source (5-part appointment/financing/authorization clause). issue=downtown correct; procurement/consultant-appointment correctly left direction-null per convention."
+  },
+  {
+    "id": "98ea7ff7e64a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that the Council meeting proceed beyond 11:00 PM.",
+    "confidence": "high",
+    "quote": "Approve that the meeting proceed beyond 11:00 PM.",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; procedural, correct."
+  },
+  {
+    "id": "14e08b5dddb8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved that Council rise and go into Closed Session to consider the closed-session matters listed on the agenda (the specific matters are not detailed in this record).",
+    "confidence": "medium",
+    "quote": "Approve Council rise and go into Council, In Closed Session for the purpose of considering the following matters:",
+    "flags": [
+      "procedural"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim (ends at colon before the closed-session matter list); correctly not treated as no_text since the wrapper clause itself is the complete, real vote."
+  },
+  {
+    "id": "05594d94c190",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave first reading to Bill No. 92 (the by-law later amended to require cameras only in vehicles for hire that accept street hails, i.e. the Vehicle for Hire By-law).",
+    "confidence": "high",
+    "quote": "Approve Introduction and First Reading of Bill No. 92.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim. Confirmed 'Bill No. 92' = the Vehicle for Hire By-law via an unrelated cross-reference elsewhere in the same source document (order-of-business change referencing 'Bill No. 92 ... having to do with the Proposed Vehicle for Hire By-law') — not inferred, not hallucinated. Reading-stage voice lowercase, correct; not a tracked issue."
+  },
+  {
+    "id": "e058741adbc6",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved amendments to Bill No. 92 that would result in cameras being required only in those vehicles for hire that accept street hails, specifically cabs, accessible cabs, and limousines; the itemized amendment text itself is not preserved in the source minutes.",
+    "confidence": "medium",
+    "quote": "Approve the following amendments to Bill No. 92 that would result in cameras only being required in those vehicles for hire that accept street hails, specifically cabs, accessible cabs and limousines:",
+    "flags": [
+      "wrapper_preamble"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; wrapper_preamble flag correct (ends in colon, itemized cabs/limousines list not preserved)."
+  },
+  {
+    "id": "eb3ead1f6afa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Passed a further motion within the Bill No. 92 (Vehicle for Hire By-law) reading sequence; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: this is a genuine 'Motion Passed'-only placeholder positioned between two OTHER real-text motions (a Schedule-5 fee amendment and the actual second-reading vote) that themselves have no recorded roll call and so never became ids — confirmed this id is not silently dropping recoverable text."
+  },
+  {
+    "id": "9a4451d22cc9",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Passed a further motion within the Bill No. 92 (Vehicle for Hire By-law) reading sequence; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Same verification as eb3ead1f6afa (adjacent placeholder in the same reading sequence)."
+  },
+  {
+    "id": "faa0d23d4f8b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave second reading to Bill No. 92 (the Vehicle for Hire By-law), as amended.",
+    "confidence": "high",
+    "quote": "Approve Second Reading of Bill No. 92",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; second reading, correct."
+  },
+  {
+    "id": "10ea4ec14c87",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave third reading to, and enacted, Bill No. 92 (the Vehicle for Hire By-law), as amended.",
+    "confidence": "high",
+    "quote": "Approve Third Reading and Enactment of Bill No. 92, as amended.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim; third reading + enactment wording correctly used only here (genuine third-reading+enactment motion per convention)."
+  },
+  {
+    "id": "a1b9225a3754",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "confidence": "medium",
+    "quote": "That the following actions be taken with respect to the installation of sidewalks on East Mile Road, Oban Crescent, West Mile Road, North Mile Road, and Green Lane: a) curbface sidewalks BE IMPLEMENTED throughout the Oakridge Acres community, specifically on East Mile Road, North Mile Road, West Mile Road, Green Lane, and Oban Crescent; b) a road width of 7 meters BE IMPLEMENTED; c) parking BE PERMITTED on one side of the road, to alleviate any potential traffic congestion and concerns; d) the attached presentation from A. Rozentals, Environmental Service Engineer, BE RECEIVED;",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: committee-stage field is 'Motion Passed' placeholder; description matches Council twin 512cea0b41bf's full text verbatim. 'Sidewalk' is not a tracked-issue keyword — issue=none correct regardless."
+  },
+  {
+    "id": "984bae24d9a0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area. (The Council report of the same clause, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "confidence": "medium",
+    "quote": "b) Wayne Road, Regis Avenue and Regis Place BE PULLED from the 2017 Warranted Sidewalk List and consideration of these projects BE REFERRED to a future date so that a broader conversation can take place with the community with respect to parking concerns related to school accessibility and the need for further sidewalks in the area;",
+    "flags": [
+      "referral",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: committee-stage field is placeholder; full part-b) text matches the preamble paragraph of the Council twin item (2017-03-02, item 6) verbatim, not a fabrication."
+  },
+  {
+    "id": "aaea98937625",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on the Lorne Avenue Public School Request for Proposals process, recorded in the source minutes as approving that the February 21, 2017 staff report BE RECEIVED, that the Civic Administration BE DIRECTED to return with a demolition plan for the building (noting a financing source for demolition costs would need to be identified), and that the Civic Administration BE DIRECTED to hold a community meeting to re-engage the Old East Village community on the process and the community's vision for parkland and residential infill on a cleared site; this description is drawn from an adjacent clerk's-summary paragraph rather than the motion's own text field.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: motion's own text field is a placeholder; whatAYeaDid text matches the adjacent clerk's-summary paragraph verbatim (checked in source). Quote correctly left empty since that paragraph is not the motion's own text field per convention."
+  },
+  {
+    "id": "48017eef0e5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted an amendment to the Lorne Avenue Public School Request for Proposals staff recommendation, recorded in the source minutes as adding a new part directing that, in the event staff feel there is a viable opportunity to retain the building before its demolition, the Civic Administration BE DIRECTED to bring that opportunity forward for Council's consideration; this description is drawn from an adjacent clerk's-summary paragraph rather than the motion's own text field.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: same pattern, adjacent clerk's-summary paragraph text matches whatAYeaDid verbatim."
+  },
+  {
+    "id": "99378ff56eaf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have passed a further motion on the Lorne Avenue Public School Request for Proposals process, repeating the wording of the recommendation already approved earlier in this item; what specifically distinguished this particular vote is not clear from the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified: FAILED, hedged correctly ('Would have'); adjacent paragraph repeats the same a)/b)/c) text as the already-passed aaea98937625 motion, so the honest 'what distinguished this vote is not clear' framing is accurate rather than guessed."
+  },
+  {
+    "id": "68f05230f0fe",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recorded a procedural vote associated with a Chair change during Council proceedings; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: genuine chair-change-only context, no operative text, procedural flag correct."
+  },
+  {
+    "id": "6b521bacda9d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Recorded a procedural vote associated with the Mayor resuming the Chair during consideration of the Request for Naming of Vimy Ridge Park item; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: same pattern, chair change during Vimy Ridge Park item."
+  },
+  {
+    "id": "96fde01cdd7a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved clause 17 (Request for Naming of Vimy Ridge Park), as amended to add part c): requested a stakeholder consultation report back to the Community and Protective Services Committee on a suitable Vimy Ridge commemorative location and budget (part a), referred the request to name land adjacent to the Charlie Fox Overpass at Hale Street and Trafalgar Street “Vimy Ridge Park” to a future Community and Protective Services Committee meeting (part b), and directed that those lands be designated a temporary “Vimy Ridge Park” in the meantime (part c).",
+    "confidence": "high",
+    "quote": "Approve clause 17, as amended.",
+    "flags": [
+      "referral",
+      "informational_ask"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified in full against source: parts a), b) match the item's preamble paragraph verbatim; part c) (temporary park designation) matches a separate in-item amendment motion with real text but no recorded roll call (found by reading the full per-meeting JSON, not just _all-motions.json) — an accurate, well-sourced description, not an inference from the title."
+  },
+  {
+    "id": "512cea0b41bf",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project.",
+    "confidence": "high",
+    "quote": "That the following actions be taken with respect to the installation of sidewalks on East Mile Road, Oban Crescent, West Mile Road, North Mile Road, and Green Lane: a) curbface sidewalks BE IMPLEMENTED throughout the Oakridge Acres community, specifically on East Mile Road, North Mile Road, West Mile Road, Green Lane, and Oban Crescent; b) a road width of 7 meters BE IMPLEMENTED; c) parking BE PERMITTED on one side of the road, to alleviate any potential traffic congestion and concerns; d) the attached presentation from A. Rozentals, Environmental Service Engineer, BE RECEIVED;",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim in full against source (matches a1b9225a3754's twin content)."
+  },
+  {
+    "id": "c4714998b2aa",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion under clause 18 of the 8th Report of the Corporate Services Committee ('Request for Renaming Mildred Barons Park to \"Vimy Ridge Park\"'), following a recommendation to refer the renaming request to a future Community and Protective Services Committee meeting once more information is available; the motion's own operative text is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text",
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: placeholder-only text; referral framing consistent with the recommendation summary; no_text correctly applied."
+  },
+  {
+    "id": "013b3d3427bd",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved parts a) and c) of clause 6 (2017 Annual Warranted Sidewalk Program), voted separately from part b) at Councillor Helmer's request under section 12.3 of the Council Procedure By-law: considered curbface sidewalks on Oak Park Drive (part a), and approved the remainder of the proposed new sidewalks for implementation (part c).",
+    "confidence": "high",
+    "quote": "Pursuant to section 12.3 of the Council Procedure Bylaw, Councillor J. Helmer calls for a separate vote on part b) of clause 6. The motion to approve parts a) and c) of clause 6 is put.",
+    "flags": [],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim against source (the section-12.3 separate-vote request and 'parts a) and c)' framing both confirmed)."
+  },
+  {
+    "id": "e4e700555312",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved part b) of clause 6 (2017 Annual Warranted Sidewalk Program): pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area.",
+    "confidence": "high",
+    "quote": "The motion to approve part b) of clause 6 is put.",
+    "flags": [
+      "referral"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified verbatim ('The motion to approve part b) of clause 6 is put.', a genuine separately-recorded roll call per section 12.3); this is the source of 984bae24d9a0's borrowed description."
+  },
+  {
+    "id": "041fa583b320",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have adopted a motion on 'Audio Recording of Municipal Council and Standing Committee In Closed Session Meetings'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: FAILED, no_text correctly applied, hedged correctly."
+  },
+  {
+    "id": "8c25afccefc8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Adopted a motion on the 2017 Rock the Park One-Time Exemption Request; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "confidence": "low",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: placeholder-only text, no_text correct; 'Rock the Park' exemption is not a tracked issue."
+  },
+  {
+    "id": "7d0da833aef5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Opened the Public Participation Meeting on the Music, Entertainment and Culture District Feasibility Study and Strategy; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate), but an adjacent clerk's paragraph identifies it as opening the meeting.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "procedural",
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: meeting-opening procedural with no operative clause text; correctly not inferred as 'downtown' from the MECD item title (no title-only inference per convention)."
+  },
+  {
+    "id": "e93ff2d8259a",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Excluded Operating Hours of Festivals and Events and Volume of Noise (pages 63 to 65 of the Feasibility Study) from approval of the Music, Entertainment and Culture District Strategy; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate), but an adjacent clerk's paragraph identifies this as the vote's subject.",
+    "confidence": "medium",
+    "quote": "",
+    "flags": [
+      "no_text"
+    ],
+    "verdict": "confirmed",
+    "verifierNote": "Verified against source: placeholder-only text; correctly not inferred as 'downtown' from the MECD item title."
+  }
+]

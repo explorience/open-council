@@ -1,0 +1,459 @@
+[
+  {
+    "id": "af122cfc0d5e",
+    "field": "issue",
+    "live_value": "policing",
+    "pass2_value": "none",
+    "decision": "adopt_pass2",
+    "chosen_value": "none",
+    "quote": "Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board.",
+    "reason": "SPPC 2017-01-30 item 3: this vote only schedules a candidate interview for an LPSB vacancy. The original classifier said none; pass1's 'correction' to policing applied issue-rules.ts's literal 'police services board' keyword hit, but issue-rules.ts's own GLOBAL_EXCLUDE comment documents this exact failure mode ('Policing votes inflated by Consideration of Appointment to the London Police Services Board motions, which decide WHO sits on the board, not any policing question') -- the plain-string exclude just doesn't reach this interview-scheduling phrasing. A personnel/appointment-process vote is not a substantive policing position; none is correct.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-30 SPPC item 3 source JSON: motion text is exactly \"Motion to Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board\" (Yeas 11, Nays Hubert+Park). Checked scripts/election/issue-rules.ts directly: \"police services board\" is a literal policing include-keyword, and the GLOBAL_EXCLUDE comment (lines ~66-82) documents exactly this false-positive pattern (appointment/interview votes for the LPSB seat, not a policing stance) but the exclude string \"consideration of appointment to\" does not match this interview-scheduling phrasing, confirming pass1's classifier miss and pass2's fix. issue=none, verdict=confirmed both correct; no vote-direction claim at stake (axis/polarity null)."
+  },
+  {
+    "id": "af122cfc0d5e",
+    "field": "verdict",
+    "live_value": "corrected",
+    "pass2_value": "confirmed",
+    "decision": "adopt_pass2",
+    "chosen_value": "confirmed",
+    "quote": "Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board.",
+    "reason": "Follows the issue-field decision above: the original issue=none was correct, so pass2's 'confirmed' is the accurate verdict, not pass1's 'corrected'.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-30 SPPC item 3 source JSON: motion text is exactly \"Motion to Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board\" (Yeas 11, Nays Hubert+Park). Checked scripts/election/issue-rules.ts directly: \"police services board\" is a literal policing include-keyword, and the GLOBAL_EXCLUDE comment (lines ~66-82) documents exactly this false-positive pattern (appointment/interview votes for the LPSB seat, not a policing stance) but the exclude string \"consideration of appointment to\" does not match this interview-scheduling phrasing, confirming pass1's classifier miss and pass2's fix. issue=none, verdict=confirmed both correct; no vote-direction claim at stake (axis/polarity null)."
+  },
+  {
+    "id": "71f37804c927",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Approve that clause 17 be amended by adding the following new part c):",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approve that clause 17 be amended by adding the following new part c):",
+    "quote": "Approve that clause 17 be amended by\n  adding the following new part c):",
+    "reason": "2017-01-31 MINUTES SIXTH MEETING item 17#2, motion_texts[0]: this exact string is the record's own motion text (it genuinely ends at a colon in the source -- the sub-clause text itself isn't preserved, but the wrapper text is real, not blank). Pass1's blank quote was wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-31 MINUTES SIXTH MEETING item 17#2 (second occurrence of item 17): motion_texts[0] for the first rollcall is verbatim \"Approve that clause 17 be amended by adding the following new part c):\" (Yeas 11, Nays van Holst+Park). Pass1's blank quote was wrong; pass2's populated quote is exact and this is genuinely the record's own truncated-at-colon wrapper text, not boilerplate. No direction claim at stake."
+  },
+  {
+    "id": "71f37804c927",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "Approve that clause 17 be amended by\n  adding the following new part c):",
+    "reason": "Quote needed fixing (was wrongly blank), so 'corrected' is accurate.",
+    "outcome_link": "quote",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-31 MINUTES SIXTH MEETING item 17#2 (second occurrence of item 17): motion_texts[0] for the first rollcall is verbatim \"Approve that clause 17 be amended by adding the following new part c):\" (Yeas 11, Nays van Holst+Park). Pass1's blank quote was wrong; pass2's populated quote is exact and this is genuinely the record's own truncated-at-colon wrapper text, not boilerplate. No direction claim at stake."
+  },
+  {
+    "id": "9476fd1acf21",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Approve that clause 17 be amended by adding the following new part d):",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approve that clause 17 be amended by adding the following new part d):",
+    "quote": "Approve that clause 17 be amended by\n  adding the following new part d):",
+    "reason": "Same item 17#2, second rollcall (sibling part-d amendment), motion_texts[0] verbatim. Same fix as 71f37804c927: this wrapper text is real, not blank.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed in the same item 17#2 block: the second rollcall's motion_texts[0] is verbatim \"Approve that clause 17 be amended by adding the following new part d):\" (Yeas 12, Nay Park). Same fix pattern as the sibling part-c amendment, verified directly, no direction claim at stake."
+  },
+  {
+    "id": "9476fd1acf21",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "Approve that clause 17 be amended by\n  adding the following new part d):",
+    "reason": "Quote needed fixing, so 'corrected' is accurate.",
+    "outcome_link": "quote",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed in the same item 17#2 block: the second rollcall's motion_texts[0] is verbatim \"Approve that clause 17 be amended by adding the following new part d):\" (Yeas 12, Nay Park). Same fix pattern as the sibling part-c amendment, verified directly, no direction claim at stake."
+  },
+  {
+    "id": "8d8b4c56722c",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "At 5:48 PM, Mayor M. Brown resumes the Chair, and Councillor Hubert takes his seat at the Council Board.",
+    "decision": "adopt_pass2",
+    "chosen_value": "At 5:48 PM, Mayor M. Brown resumes the Chair, and Councillor Hubert takes his seat at the Council Board.",
+    "quote": "At 5:48 PM, Mayor M. Brown resumes the\n  Chair, and Councillor Hubert takes his seat at the Council Board.",
+    "reason": "2017-01-31 MINUTES SIXTH MEETING item 9 (Motion Failed, Yeas 4/Nays 9): motion_texts[0] is literally this chair-change narrative -- it IS the record's own recorded text, not absent. Pass1's 'not preserved in the source minutes' framing was false; the quote should not be blank.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-31 MINUTES SIXTH MEETING item 9 (Cold Beverage Vending Machines): the relevant Motion block's motion_texts[0] is verbatim \"At 5:48 PM, Mayor M. Brown resumes the Chair, and Councillor Hubert takes his seat at the Council Board.\" with Yeas 4 (Brown, van Holst, Armstrong, Park) / Nays 9, result Motion Failed. Pass1's 'not preserved' framing was false; the quote is the record's own literal (non-substantive, procedural chair-change) text. FAILED-motion framing and no_text+procedural flags are internally consistent with convention. No direction claim at stake."
+  },
+  {
+    "id": "8d8b4c56722c",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "At 5:48 PM, Mayor M. Brown resumes the\n  Chair, and Councillor Hubert takes his seat at the Council Board.",
+    "reason": "Quote needed fixing, so 'corrected' is accurate.",
+    "outcome_link": "quote",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-01-31 MINUTES SIXTH MEETING item 9 (Cold Beverage Vending Machines): the relevant Motion block's motion_texts[0] is verbatim \"At 5:48 PM, Mayor M. Brown resumes the Chair, and Councillor Hubert takes his seat at the Council Board.\" with Yeas 4 (Brown, van Holst, Armstrong, Park) / Nays 9, result Motion Failed. Pass1's 'not preserved' framing was false; the quote is the record's own literal (non-substantive, procedural chair-change) text. FAILED-motion framing and no_text+procedural flags are internally consistent with convention. No direction claim at stake."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "issue",
+    "live_value": "housing",
+    "pass2_value": "none",
+    "decision": "adopt_pass2",
+    "chosen_value": "none",
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "Wrong-motion error confirmed via data/votes/_all-motions.json: this id's own rollCallOrdinal is 1, yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner] -- exactly the SECOND vote block at P&E Cttee 2017-02-06 item 11, which sits directly under the paragraph 'Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.' The substantive Minister's-Modifications recommendation is a separate rollCall (ordinal 0, unanimous 4-0 w/ Hopkins recused) -- a different id, not this one. This vote is a delegation-status grant, not a housing-policy vote; issue=none is correct.",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "whatAYeaDid",
+    "live_value": "Adopted a motion on the Minister's modifications to the London Plan regarding secondary dwelling units: received the February 6, 2017 staff report, and directed the Civic Administration to make arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive public input on the modifications. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "pass2_value": "Granted delegation status to Mr. J. Schlemmer, Neighbourhood Legal Services, to speak to the Committee on the Minister's Modifications to the London Plan (Secondary Dwelling Units) item.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Granted delegation status to Mr. J. Schlemmer, Neighbourhood Legal Services, to speak to the Committee on the Minister's Modifications to the London Plan (Secondary Dwelling Units) item.",
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "Pass1's whatAYeaDid describes a completely different rollCall's substance (the a/b recommendation) attached to the wrong vote's id/vote tally. Confirmed via rollCallOrdinal in the votes data (see issue field decision) that this id is the delegation-status grant.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "quote",
+    "live_value": "That the following actions be taken with respect to the Minister's modifications to the London Plan as they relate to secondary dwelling units and specifically Policy 942: a) the report of the Managing Director, Planning and City Planner, dated February 6, 2017 and entitled “Minister's Modifications to the London Plan Secondary Dwelling Units”, BE RECEIVED; and, b) the Civic Administration BE DIRECTED to make the necessary arrangements to hold a Public Participation Meeting before the Planning and Environment Committee to receive input from the public with respect to the Minister's modifications to the London Plan regarding secondary dwelling units;",
+    "pass2_value": "Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.",
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "Pass1 quoted the OTHER rollCall's (ordinal 0) recommendation text, not this id's own motion. This id's actual paragraph is the delegation-status grant, verified against the vote tally.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "flags",
+    "live_value": [
+      "informational_ask"
+    ],
+    "pass2_value": [
+      "procedural"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "procedural"
+    ],
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "Follows from the corrected identification of this vote as a delegation-status grant (procedural), not an informational-ask on the Minister's-modifications recommendation.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "Pass1's whatAYeaDid/quote/issue were a genuine wrong-motion error needing correction, not confirmation.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "3de634da7a5f",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "Motion to grant Mr. J. Schlemmer,\n  Neighbourhood Legal Services, delegation status.",
+    "reason": "The correct rollCall is now identified with a verified, distinctive yea/nay tally match against the votes data -- high confidence is warranted.",
+    "outcome_link": "issue",
+    "checkVerdict": "upheld",
+    "checkNote": "Independently re-verified via BOTH the raw source (2017-02-06 P&E Committee item 11) AND data/votes/_all-motions.json. The item has two rollcalls: ordinal 0 (Yeas Park/Cassidy/Helmer/Turnout, recused Hopkins, 4-0 unanimous) is the substantive Minister's-Modifications recommendation; ordinal 1, directly following the paragraph \"Motion to grant Mr. J. Schlemmer, Neighbourhood Legal Services, delegation status.\", has Yeas [Park,Cassidy,Helmer,Hopkins] / Nay [Turner] -- an exact match to _all-motions.json's entry for id 3de634da7a5f (yeas=[Hopkins,Helmer,Cassidy,Park], nays=[Turner], rollCallOrdinal=1). This conclusively confirms pass1 attached the wrong rollcall's substance/quote/issue to this id (a genuine wrong-motion error) and pass2's delegation-status-grant identification is correct. issue none, flags procedural, confidence high, verdict corrected -- all follow correctly. No false vote-direction claim (polarity was and remains null); this is the single highest-value fix in the slice since it repairs a wrong-motion misattribution, not just a flag/quote gap."
+  },
+  {
+    "id": "2f48c4165435",
+    "field": "whatAYeaDid",
+    "live_value": "Adopted a motion on 'Asset Review: London Hydro Inc. - Discussion Paper'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "pass2_value": "Received the London Hydro discussion paper for information, and authorized the Civic Administration to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro addressing financial, economic and legal implications of possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Received the London Hydro discussion paper for information, and authorized the Civic Administration to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro addressing financial, economic and legal implications of possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+    "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer, the\n  following actions be taken with respect to a review of London Hydro Inc.: a) the discussion paper regarding London Hydro and potential alternatives, included as Appendix “A” to the staff report dated February 13, 2017, BE RECEIVED for information; and b) ... the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro...",
+    "reason": "SPPC 2017-02-13 item 3: the recommendation text is present as this item's own preceding Paragraph (only the Motion sub-block's motion_texts says 'Motion Passed') -- this is the routine committee-minutes structure, not the no-text era pattern. Pass1's 'not recorded in the source minutes' was false.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 3 (Asset Review: London Hydro Inc.): the item's own preceding Paragraph is verbatim the quoted recommendation text (\"That, on the recommendation of the Managing Director, Corporate Services...BE AUTHORIZED to engage a consultant...\"), immediately followed by the item's own rollcall (Yeas 10 / Nays Salih,Morgan,Park). Pass1's 'not recorded in the source minutes' / no_text framing was false -- the text is this item's own record, just not in the separate motion_texts sub-field the no_text flag tracks. This is a consultant-engagement/procurement-adjacent matter; issue stays none and polarity stays null per convention (procurement is direction-null), so no vote-direction claim is created. flags no_text->appointment is an approximate but non-false label given the corpus's flag vocabulary lacks 'procurement'."
+  },
+  {
+    "id": "2f48c4165435",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to a review of London Hydro Inc.: a) the discussion paper regarding London Hydro and potential alternatives, included as Appendix “A” to the staff report dated February 13, 2017, BE RECEIVED for information; and b) in order to fulfil the direction of the Municipal Council from its meeting held on December 6, 2016, the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro, addressing financial, economic and legal implications related to possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to a review of London Hydro Inc.: a) the discussion paper regarding London Hydro and potential alternatives, included as Appendix “A” to the staff report dated February 13, 2017, BE RECEIVED for information; and b) in order to fulfil the direction of the Municipal Council from its meeting held on December 6, 2016, the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge to assist with a strategic review of London Hydro, addressing financial, economic and legal implications related to possible mergers, acquisitions, amalgamations, partnerships and dispositions.",
+    "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer, the\n  following actions be taken with respect to a review of London Hydro Inc.:...",
+    "reason": "Verified verbatim against the item's own Paragraph node in the source JSON. Pass1's blank quote / no_text framing was wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 3 (Asset Review: London Hydro Inc.): the item's own preceding Paragraph is verbatim the quoted recommendation text (\"That, on the recommendation of the Managing Director, Corporate Services...BE AUTHORIZED to engage a consultant...\"), immediately followed by the item's own rollcall (Yeas 10 / Nays Salih,Morgan,Park). Pass1's 'not recorded in the source minutes' / no_text framing was false -- the text is this item's own record, just not in the separate motion_texts sub-field the no_text flag tracks. This is a consultant-engagement/procurement-adjacent matter; issue stays none and polarity stays null per convention (procurement is direction-null), so no vote-direction claim is created. flags no_text->appointment is an approximate but non-false label given the corpus's flag vocabulary lacks 'procurement'."
+  },
+  {
+    "id": "2f48c4165435",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [
+      "appointment"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "appointment"
+    ],
+    "quote": "the Civic Administration BE AUTHORIZED to engage a consultant with industry-specific knowledge",
+    "reason": "no_text is wrong (real text exists, see quote decision). 'appointment' is an imperfect fit for a consultant-engagement item but not clearly wrong within this corpus's flag vocabulary (no 'procurement' flag exists); dropping the false no_text flag is the important fix.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 3 (Asset Review: London Hydro Inc.): the item's own preceding Paragraph is verbatim the quoted recommendation text (\"That, on the recommendation of the Managing Director, Corporate Services...BE AUTHORIZED to engage a consultant...\"), immediately followed by the item's own rollcall (Yeas 10 / Nays Salih,Morgan,Park). Pass1's 'not recorded in the source minutes' / no_text framing was false -- the text is this item's own record, just not in the separate motion_texts sub-field the no_text flag tracks. This is a consultant-engagement/procurement-adjacent matter; issue stays none and polarity stays null per convention (procurement is direction-null), so no vote-direction claim is created. flags no_text->appointment is an approximate but non-false label given the corpus's flag vocabulary lacks 'procurement'."
+  },
+  {
+    "id": "2f48c4165435",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer...",
+    "reason": "whatAYeaDid/quote/flags needed real fixes, so 'corrected' is accurate.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 3 (Asset Review: London Hydro Inc.): the item's own preceding Paragraph is verbatim the quoted recommendation text (\"That, on the recommendation of the Managing Director, Corporate Services...BE AUTHORIZED to engage a consultant...\"), immediately followed by the item's own rollcall (Yeas 10 / Nays Salih,Morgan,Park). Pass1's 'not recorded in the source minutes' / no_text framing was false -- the text is this item's own record, just not in the separate motion_texts sub-field the no_text flag tracks. This is a consultant-engagement/procurement-adjacent matter; issue stays none and polarity stays null per convention (procurement is direction-null), so no vote-direction claim is created. flags no_text->appointment is an approximate but non-false label given the corpus's flag vocabulary lacks 'procurement'."
+  },
+  {
+    "id": "2f48c4165435",
+    "field": "confidence",
+    "live_value": "low",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "That, on the recommendation of the Managing\n  Director, Corporate Services and City Treasurer, Chief Financial Officer...",
+    "reason": "Real source text is now verified verbatim; high confidence is warranted.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 3 (Asset Review: London Hydro Inc.): the item's own preceding Paragraph is verbatim the quoted recommendation text (\"That, on the recommendation of the Managing Director, Corporate Services...BE AUTHORIZED to engage a consultant...\"), immediately followed by the item's own rollcall (Yeas 10 / Nays Salih,Morgan,Park). Pass1's 'not recorded in the source minutes' / no_text framing was false -- the text is this item's own record, just not in the separate motion_texts sub-field the no_text flag tracks. This is a consultant-engagement/procurement-adjacent matter; issue stays none and polarity stays null per convention (procurement is direction-null), so no vote-direction claim is created. flags no_text->appointment is an approximate but non-false label given the corpus's flag vocabulary lacks 'procurement'."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "field": "whatAYeaDid",
+    "live_value": "Adopted a motion on 'Consideration of Appointment to the Economic Partnership Advisory Panel'; the motion's own operative text is not recorded in the source minutes (committee-stage boilerplate).",
+    "pass2_value": "Approved replacing the Council Member position on the Economic Partnership Advisory Panel, recently vacated by Councillor T. Park, with a member from the business community.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved replacing the Council Member position on the Economic Partnership Advisory Panel, recently vacated by Councillor T. Park, with a member from the business community.",
+    "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community.",
+    "reason": "SPPC 2017-02-13 item 4: this exact sentence is the item's own preceding Paragraph, verified verbatim in the source JSON. Pass1's 'not recorded in the source minutes' was false.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 4 (Economic Partnership Advisory Panel): item's own preceding Paragraph is verbatim \"That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.\" directly followed by its own rollcall (Yeas 9 / Nays Armstrong,Helmer,Cassidy,Hubert,Usher). Pass1's 'not recorded' claim was false; this is a personnel/appointment matter (issue none, polarity null unchanged) so no vote-direction claim is at stake. Quote and whatAYeaDid fixes are verbatim and accurate."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.",
+    "decision": "adopt_pass2",
+    "chosen_value": "That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.",
+    "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community.",
+    "reason": "Verified verbatim against source. Pass1's blank quote was wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 4 (Economic Partnership Advisory Panel): item's own preceding Paragraph is verbatim \"That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.\" directly followed by its own rollcall (Yeas 9 / Nays Armstrong,Helmer,Cassidy,Hubert,Usher). Pass1's 'not recorded' claim was false; this is a personnel/appointment matter (issue none, polarity null unchanged) so no vote-direction claim is at stake. Quote and whatAYeaDid fixes are verbatim and accurate."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "field": "flags",
+    "live_value": [
+      "no_text",
+      "appointment"
+    ],
+    "pass2_value": [
+      "appointment"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "appointment"
+    ],
+    "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community.",
+    "reason": "no_text is false (real text exists); appointment correctly describes a board-seat replacement.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 4 (Economic Partnership Advisory Panel): item's own preceding Paragraph is verbatim \"That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.\" directly followed by its own rollcall (Yeas 9 / Nays Armstrong,Helmer,Cassidy,Hubert,Usher). Pass1's 'not recorded' claim was false; this is a personnel/appointment matter (issue none, polarity null unchanged) so no vote-direction claim is at stake. Quote and whatAYeaDid fixes are verbatim and accurate."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community.",
+    "reason": "whatAYeaDid/quote/flags needed real fixes.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 4 (Economic Partnership Advisory Panel): item's own preceding Paragraph is verbatim \"That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.\" directly followed by its own rollcall (Yeas 9 / Nays Armstrong,Helmer,Cassidy,Hubert,Usher). Pass1's 'not recorded' claim was false; this is a personnel/appointment matter (issue none, polarity null unchanged) so no vote-direction claim is at stake. Quote and whatAYeaDid fixes are verbatim and accurate."
+  },
+  {
+    "id": "812ab9a47e3a",
+    "field": "confidence",
+    "live_value": "low",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "That the Council Member position on the\n  Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE\n  REPLACED with a member from the business community.",
+    "reason": "Real source text is now verified verbatim.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-13 SPPC item 4 (Economic Partnership Advisory Panel): item's own preceding Paragraph is verbatim \"That the Council Member position on the Economic Partnership Advisory Panel recently vacated by Councillor T. Park BE REPLACED with a member from the business community.\" directly followed by its own rollcall (Yeas 9 / Nays Armstrong,Helmer,Cassidy,Hubert,Usher). Pass1's 'not recorded' claim was false; this is a personnel/appointment matter (issue none, polarity null unchanged) so no vote-direction claim is at stake. Quote and whatAYeaDid fixes are verbatim and accurate."
+  },
+  {
+    "id": "a1b9225a3754",
+    "field": "whatAYeaDid",
+    "live_value": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project. (The Council report of the same recommendation, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "pass2_value": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved installing curbface sidewalks throughout the Oakridge Acres community (East Mile Road, Oban Crescent, West Mile Road, North Mile Road and Green Lane) with a 7-metre road width and one-side parking, and received an Environmental Services Engineer's presentation on the project.",
+    "quote": "curbface\n  sidewalks BE IMPLEMENTED throughout the Oakridge Acres community, specifically on East Mile Road, North Mile Road, West Mile Road, Green Lane, and Oban Crescent; ... a road width of 7 meters BE IMPLEMENTED; ... parking BE PERMITTED on one side of the road ... the attached presentation from A. Rozentals, Environmental Service Engineer, BE RECEIVED",
+    "reason": "Civic Works Cttee 2017-02-21 item 17: this text is this item's own preceding Paragraph, verified verbatim -- it was never boilerplate needing the Council twin. Only the false parenthetical (attributing the description to a different record) is wrong; the description itself was already accurate.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 17 (Oakridge Acres sidewalks): the item's own preceding Paragraph carries the full a)-d) recommendation (curbface sidewalks, 7m road width, one-side parking, receipt of presentation) verbatim, directly followed by its own rollcall. This was never boilerplate needing the Council twin -- the false parenthetical and no_text flag were the only errors; the whatAYeaDid substance itself was already correct in pass1. Dropping the false framing while keeping the same substance is a safe, confirmable fix. No direction claim involved (procurement/infrastructure implementation, direction-null)."
+  },
+  {
+    "id": "a1b9225a3754",
+    "field": "flags",
+    "live_value": [
+      "no_text"
+    ],
+    "pass2_value": [],
+    "decision": "adopt_pass2",
+    "chosen_value": [],
+    "quote": "curbface\n  sidewalks BE IMPLEMENTED throughout the Oakridge Acres community...",
+    "reason": "no_text is false; the item's own record carries the full recommendation directly.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 17 (Oakridge Acres sidewalks): the item's own preceding Paragraph carries the full a)-d) recommendation (curbface sidewalks, 7m road width, one-side parking, receipt of presentation) verbatim, directly followed by its own rollcall. This was never boilerplate needing the Council twin -- the false parenthetical and no_text flag were the only errors; the whatAYeaDid substance itself was already correct in pass1. Dropping the false framing while keeping the same substance is a safe, confirmable fix. No direction claim involved (procurement/infrastructure implementation, direction-null)."
+  },
+  {
+    "id": "a1b9225a3754",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "curbface\n  sidewalks BE IMPLEMENTED throughout the Oakridge Acres community...",
+    "reason": "The false no_text/parenthetical framing needed correction even though the quote itself and the substance of whatAYeaDid were already right.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 17 (Oakridge Acres sidewalks): the item's own preceding Paragraph carries the full a)-d) recommendation (curbface sidewalks, 7m road width, one-side parking, receipt of presentation) verbatim, directly followed by its own rollcall. This was never boilerplate needing the Council twin -- the false parenthetical and no_text flag were the only errors; the whatAYeaDid substance itself was already correct in pass1. Dropping the false framing while keeping the same substance is a safe, confirmable fix. No direction claim involved (procurement/infrastructure implementation, direction-null)."
+  },
+  {
+    "id": "a1b9225a3754",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "curbface\n  sidewalks BE IMPLEMENTED throughout the Oakridge Acres community...",
+    "reason": "Source text is directly present and verified verbatim; no cross-record inference needed.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 17 (Oakridge Acres sidewalks): the item's own preceding Paragraph carries the full a)-d) recommendation (curbface sidewalks, 7m road width, one-side parking, receipt of presentation) verbatim, directly followed by its own rollcall. This was never boilerplate needing the Council twin -- the false parenthetical and no_text flag were the only errors; the whatAYeaDid substance itself was already correct in pass1. Dropping the false framing while keeping the same substance is a safe, confirmable fix. No direction claim involved (procurement/infrastructure implementation, direction-null)."
+  },
+  {
+    "id": "984bae24d9a0",
+    "field": "whatAYeaDid",
+    "live_value": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area. (The Council report of the same clause, captured verbatim elsewhere in this record, is the source for this description; this committee-stage record's own motion text is boilerplate.)",
+    "pass2_value": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area.",
+    "decision": "adopt_pass2",
+    "chosen_value": "Approved part b) of the 2017 Annual Warranted Sidewalk Program recommendation: pulled Wayne Road, Regis Avenue and Regis Place from the 2017 Warranted Sidewalk List, and referred consideration of those projects to a future date for a broader conversation with the community about parking concerns related to school accessibility and the need for further sidewalks in the area.",
+    "quote": "Wayne\n  Road, Regis Avenue and Regis Place BE PULLED from the 2017 Warranted Sidewalk\n  List and consideration of these projects BE REFERRED to a future date so that\n  a broader conversation can take place with the community with respect to parking\n  concerns related to school accessibility and the need for further sidewalks\n  in the area",
+    "reason": "Civic Works Cttee 2017-02-21 item 6, clause b) rollcall: this text is this item's own preceding Paragraph clause b), verified verbatim, with a separate 'Motion to Approve clause b).' rollcall directly below it. Never boilerplate needing the Council twin -- only the false parenthetical is wrong.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 6, clause b) (2017 Annual Warranted Sidewalk Program): item's own preceding Paragraph clause b) is verbatim the quoted text (Wayne Road/Regis Avenue/Regis Place pulled and referred), with a distinct 'Motion to Approve clause b)' rollcall directly below it (Yeas 4 / Nay Ridley). Same pattern as a1b9225a3754 -- never boilerplate, only the false parenthetical/no_text flag needed correction. No direction claim involved (referral is direction-null)."
+  },
+  {
+    "id": "984bae24d9a0",
+    "field": "flags",
+    "live_value": [
+      "referral",
+      "no_text"
+    ],
+    "pass2_value": [
+      "referral"
+    ],
+    "decision": "adopt_pass2",
+    "chosen_value": [
+      "referral"
+    ],
+    "quote": "consideration of these projects BE REFERRED to a future date",
+    "reason": "no_text is false; referral is correct and stays.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 6, clause b) (2017 Annual Warranted Sidewalk Program): item's own preceding Paragraph clause b) is verbatim the quoted text (Wayne Road/Regis Avenue/Regis Place pulled and referred), with a distinct 'Motion to Approve clause b)' rollcall directly below it (Yeas 4 / Nay Ridley). Same pattern as a1b9225a3754 -- never boilerplate, only the false parenthetical/no_text flag needed correction. No direction claim involved (referral is direction-null)."
+  },
+  {
+    "id": "984bae24d9a0",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "consideration of these projects BE REFERRED to a future date",
+    "reason": "The false no_text/parenthetical framing needed correction.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 6, clause b) (2017 Annual Warranted Sidewalk Program): item's own preceding Paragraph clause b) is verbatim the quoted text (Wayne Road/Regis Avenue/Regis Place pulled and referred), with a distinct 'Motion to Approve clause b)' rollcall directly below it (Yeas 4 / Nay Ridley). Same pattern as a1b9225a3754 -- never boilerplate, only the false parenthetical/no_text flag needed correction. No direction claim involved (referral is direction-null)."
+  },
+  {
+    "id": "984bae24d9a0",
+    "field": "confidence",
+    "live_value": "medium",
+    "pass2_value": "high",
+    "decision": "adopt_pass2",
+    "chosen_value": "high",
+    "quote": "consideration of these projects BE REFERRED to a future date",
+    "reason": "Source text is directly present and verified verbatim.",
+    "outcome_link": "whatAYeaDid",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Civic Works Committee item 6, clause b) (2017 Annual Warranted Sidewalk Program): item's own preceding Paragraph clause b) is verbatim the quoted text (Wayne Road/Regis Avenue/Regis Place pulled and referred), with a distinct 'Motion to Approve clause b)' rollcall directly below it (Yeas 4 / Nay Ridley). Same pattern as a1b9225a3754 -- never boilerplate, only the false parenthetical/no_text flag needed correction. No direction claim involved (referral is direction-null)."
+  },
+  {
+    "id": "aaea98937625",
+    "field": "quote",
+    "live_value": "",
+    "pass2_value": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+    "decision": "adopt_pass2",
+    "chosen_value": "Motion to Approve that the following actions be taken with respect to the Lorne Avenue Public School Request for Proposals process: a) the staff report dated February 21, 2017 BE RECEIVED; b) the Civic Administration BE DIRECTED to return with a plan for demolition of the Lorne Avenue Public School building; it being noted that a source of financing for the demolition costs will need to be identified; c) the Civic Administration BE DIRECTED to hold a community meeting to re-engage the local Old East Village community to update them on the process to date and articulate the community's vision for parkland and residential infill on a cleared site; and",
+    "quote": "Motion to Approve that the following\n  actions be taken with respect to the Lorne Avenue Public School Request for\n  Proposals process:\n a) the\n  staff report dated February 21, 2017 BE RECEIVED; b)...",
+    "reason": "Corporate Services Cttee 2017-02-21 item 8: this rollCall's own 'Motion to Approve...' paragraph, verified verbatim in the source JSON, directly preceding the vote. Pass1's blank quote was wrong; it is not an adjacent clerk's summary, it is this rollCall's own motion text.",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Corporate Services Committee item 8 (Lorne Avenue PS RFP): the FIRST 'Motion to Approve that the following actions be taken...a)...b)...c)...' paragraph matches the chosen quote verbatim and precedes the rollcall that PASSED (Yeas Hubert/Helmer/Morgan/Usher, Nay Park). Checked carefully because this exact wording is reused word-for-word by a THIRD rollcall later in the same item that FAILED (Yeas Morgan/Park, Nays Hubert/Helmer/Usher) -- confirmed the live/pass1 whatAYeaDid already says 'Adopted a motion' (passed framing, unchanged by this fix), which matches only the first (passed) rollcall, not the later failed re-vote of the same wording. So attaching this verbatim quote to this id does not create any false pass/fail or vote-direction claim. Quote fix and confidence raise are safe and correct."
+  },
+  {
+    "id": "aaea98937625",
+    "field": "verdict",
+    "live_value": "confirmed",
+    "pass2_value": "corrected",
+    "decision": "adopt_pass2",
+    "chosen_value": "corrected",
+    "quote": "Motion to Approve that the following\n  actions be taken with respect to the Lorne Avenue Public School Request for\n  Proposals process:...",
+    "reason": "Quote needed fixing (was wrongly blank).",
+    "outcome_link": "quote",
+    "checkVerdict": "upheld",
+    "checkNote": "Confirmed against 2017-02-21 Corporate Services Committee item 8 (Lorne Avenue PS RFP): the FIRST 'Motion to Approve that the following actions be taken...a)...b)...c)...' paragraph matches the chosen quote verbatim and precedes the rollcall that PASSED (Yeas Hubert/Helmer/Morgan/Usher, Nay Park). Checked carefully because this exact wording is reused word-for-word by a THIRD rollcall later in the same item that FAILED (Yeas Morgan/Park, Nays Hubert/Helmer/Usher) -- confirmed the live/pass1 whatAYeaDid already says 'Adopted a motion' (passed framing, unchanged by this fix), which matches only the first (passed) rollcall, not the later failed re-vote of the same wording. So attaching this verbatim quote to this id does not create any false pass/fail or vote-direction claim. Quote fix and confidence raise are safe and correct."
+  }
+]

@@ -1,0 +1,499 @@
+[
+  {
+    "id": "f22b54868718",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the staff report on the financial and other resources required to host the 2020 International Plowing Match, and received Councillor B. Armstrong's communication providing additional letters of support for hosting the event.",
+    "confidence": "high",
+    "quote": "the staff report dated December 11, 2017, entitled “Financial and Other Resources Required to Host International Plowing Match 2020”, BE RECEIVED; and b) the communication dated December 4, 2017, from Councillor B. Armstrong, providing additional letters of support for hosting the 2020 International Plowing Match, BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a8cfc3b5a929",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have added a new part c) stating that no further action be taken by the City of London to pursue hosting the 2020 International Plowing Match; the motion failed.",
+    "confidence": "high",
+    "quote": "No further action be taken by the City of London to pursue hosting the 2020 International Plowing Match.",
+    "flags": []
+  },
+  {
+    "id": "edd5567f6b0a",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the staff report on the 2019 Development Charges (DC) Study – Growth Projections back to the Civic Administration to provide a sensitivity analysis of DC revenue impacts through various housing ratio projections.",
+    "confidence": "high",
+    "quote": "the staff report dated December 11, 2017, entitled “2019 Development Charges (DC) Study – Growth Projections” BE REFERRED back to the Civic Administration to provide a sensitivity analysis of DC revenue impacts through various housing ratio projections (e.g. higher, lower and as projected in the Watson report)",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "516abc892221",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Governance Working Group to investigate and report back on the implications of changing the timing (time of day and day of week) of Council and Standing Committee meetings.",
+    "confidence": "high",
+    "quote": "the Governance Working Group BE REQUESTED to investigate and report back on the implications of changing the Council and Standing Committee meeting schedule in terms of time of day and day of week.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "8954bd8b2b3d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 11th Report of the Cycling Advisory Committee, from its meeting held on November 22, 2017.",
+    "confidence": "high",
+    "quote": "the 11th Report of the Cycling Advisory Committee, from its meeting held on November 22, 2017, BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "2f0bc5af390c",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Would have referred part b) of the non-therapeutic cannabis retail-siting recommendation — introducing the by-law establishing the “Siting of Cannabis Retail Stores in London” Council Policy — back to the Civic Administration for additional provincial guidance before proceeding; the motion failed.",
+    "confidence": "high",
+    "quote": "part b) of clause 11 BE REFERRED back to the Civic Administration, in order for the Province to provide additional guidance related to this matter.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "66e1dd367654",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "restrictive",
+    "whatAYeaDid": "Would have refused Bradel Properties Limited's application to extend the Temporary Use (T-71) Zone at 324 York Street for a period not exceeding six months, on the grounds that existing parking lots surrounding the development made the additional parking lot unnecessary; the motion failed.",
+    "confidence": "high",
+    "quote": "the application of Bradel Properties Limited, relating to the property located at 324 York Street, to extend the Temporary Use (T-71) Zone for a period not exceeding six (6) months BE REFUSED as there are existing parking lots surrounding this development and the rezoning to add an additional parking lot is not required",
+    "flags": []
+  },
+  {
+    "id": "6093ff46ba2f",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law No. Z.-1 for the property at 324 York Street (Bradel Properties Limited), extending the Temporary Use (T-71) Zone for a period not exceeding six months, based on the rationale in the December 4, 2017 staff report.",
+    "confidence": "high",
+    "quote": "the by-law appended to the staff report dated December 4, 2017 as Appendix “A” BE INTRODUCED at the Municipal Council meeting on December 12, 2017 to amend Zoning By-law No. Z.-1, in conformity with the Official Plan, by extending the Temporary Use (T-71) Zone for a period of no exceeding six (6) months",
+    "flags": []
+  },
+  {
+    "id": "76cbf3addccf",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Referred the staff report on the 2019 Development Charges (DC) Study – Growth Projections back to the Civic Administration to provide a sensitivity analysis of DC revenue impacts through various housing ratio projections, and received the accompanying presentation.",
+    "confidence": "high",
+    "quote": "the staff report dated December 11, 2017, entitled “2019 Development Charges (DC) Study – Growth Projections” BE REFERRED back to the Civic Administration to provide a sensitivity analysis of DC revenue impacts through various housing ratio projections (e.g. higher, lower and as projected in the Watson report); and b) the attached presentation from K. Edwards, Manager III, Development Finance and J. Cook, Watson & Associates BE RECEIVED.",
+    "flags": [
+      "referral"
+    ]
+  },
+  {
+    "id": "a3979e755fad",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a Multi-Year Budget adjustment to the Operating Budget for Councillors' Annual Compensation (Case #2), a $245,000 net increase in 2019 with no net change in 2018.",
+    "confidence": "high",
+    "quote": "the following Multi-Year Budget adjustments to the Operating Budget resulting from new Council direction and cost/revenue drivers impacting the municipality BE APPROVED... B) Councillors’ Annual Compensation (Case #2): $0 Net (2018), $245,000 Net (2019)",
+    "flags": []
+  },
+  {
+    "id": "812ff98fffc3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved a Multi-Year Budget adjustment to the Operating Budget for Dundas Place – Ongoing Place Management (Case #4), a $375,000 net increase in 2019 with no net change in 2018.",
+    "confidence": "high",
+    "quote": "the following Multi-Year Budget adjustments to the Operating Budget resulting from new Council direction and cost/revenue drivers impacting the municipality BE APPROVED... D) Dundas Place – Ongoing Place Management (Case #4) $0 Net (2018), $375,000 Net (2019)",
+    "flags": []
+  },
+  {
+    "id": "1b4ec72fc4fc",
+    "issue": "transit",
+    "axis": "transit-service",
+    "polarity": "expansive",
+    "whatAYeaDid": "Would have amended clause 6a)iii) of the 20th Report of the Strategic Priorities and Policy Committee to direct the Civic Administration to add a 25%-discount reduced-rate transit ticket for seniors to the youth reduced-fare bus pass pilot project, and directed the City Clerk to bring forward the implementing by-law; the motion failed.",
+    "confidence": "medium",
+    "quote": "clause 6a)iii) of the 20th Report of the Strategic Priorities and Policy Committee be amended by adding the following new parts B) and C): “B) the Civic Administration BE DIRECTED to include, as an additional part of the above-noted Pilot Project, provision for reduced rate (25% discount) transit tickets for seniors; and C) the City Clerk BE DIRECTED to bring forward the necessary by-law, at the January 16, 2018 meeting of the Municipal Council, to implement the addition to the Pilot Project, as detailed in B), above.”",
+    "flags": []
+  },
+  {
+    "id": "a8252258bc8b",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "On reconsideration, re-approved part b) of clause 7 of the 14th Report of the Community and Protective Services Committee (adopted October 17, 2017), introducing the by-law that repeals sections 1 to 3 of By-law L.T.C.-52-13 (the flat reduced bus fare for elderly persons) as part of moving to the new income-related subsidized transit program.",
+    "confidence": "medium",
+    "quote": "the proposed by-law, as appended to the staff report dated October 11, 2017, BE INTRODUCED at the Municipal Council meeting on October 17, 2017, to repeal sections 1, 2 and 3 of By-law L.T.C.-52-13, being a by-law to provide for entering into an arrangement with the London Transit Commission with respect to reduced bus fares for elderly persons, passed on December 16, 1991; and,",
+    "flags": []
+  },
+  {
+    "id": "84750526d4d1",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended part 6a)iv) of the Multi-Year Budget clause (the vacancy-tax-rebate phase-out) by deleting a noting statement about how future incentive-program funding changes might come forward as a business case in a future budget update, without changing the substance of the phase-out itself.",
+    "confidence": "medium",
+    "quote": "part 6a)iv) be amended by deleting the wording “; it being noted that changes to funding for existing and new incentive programs, if directed by Council, may come forward as a business case in the 2019 Multi-Year Budget Update or the 2020-2023 Multi-Year Budget”.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "59aeef91813c",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Amended clause 6b) i) (the 2018-2019 Capital Budget adjustments) by adding a new Lifecycle Renewal part D) directing the Civic Administration to report back with a revised cost estimate for the 2018 Hamilton Road and Sackville Street Infrastructure Project, including utility-undergrounding costs and a funding source, noting any impact on other 2019 capital projects.",
+    "confidence": "high",
+    "quote": "clause 6b) be amended in part i) by adding a new part D), under LIFECYCLE RENEWAL, as follows: “D) the Civic Administration BE DIRECTED to report back with a revised cost estimate for the 2018 Hamilton Road and Sackville Street Infrastructure Project, including engineering costs to provide for the relocation of utilities and telecommunications infrastructure to be placed underground, and a source of financing to accommodate the additional work; it being noted that the source of financing is to include information regarding potential impacts to 2019 Projects that may need to be cancelled or postponed to accommodate the increase budget.”",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "3856232251fc",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the revised 2018 tax levy in the gross amount of $920,361,272 and net amount of $579,532,227, after recognizing $7,063,000 of increased taxation from assessment growth.",
+    "confidence": "high",
+    "quote": "in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the Operating Budget (Appendix A, Page 29): A) the revised 2018 tax levy BE ADOPTED in the gross amount of $920,361,272 and in the net amount of $579,532,227 after recognizing $7,063,000 of increased taxation from assessment growth",
+    "flags": []
+  },
+  {
+    "id": "5d99011dc1f3",
+    "issue": "budget",
+    "axis": "levy-size",
+    "polarity": "expansive",
+    "whatAYeaDid": "Adopted the revised 2019 forecasted tax levy in the gross amount of $940,096,979 and net amount of $597,656,613.",
+    "confidence": "high",
+    "quote": "in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the Operating Budget (Appendix A, Page 29): “B) the revised 2019 forecasted tax levy BE ADOPTED in the gross amount of $940,096,979 and in the net amount of $597,656,613.”",
+    "flags": []
+  },
+  {
+    "id": "ef147dfd729e",
+    "issue": "budget",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the City Manager to report back during the 2019 Budget review process with potential budget adjustments to meet the targets set in the 2016-2019 Multi-Year Budget.",
+    "confidence": "high",
+    "quote": "the City Manager BE REQUESTED to report back, during the 2019 Budget review process, with potential adjustments to the 2019 Budget that would provide for the targets set by the 2016-2019 Multi-Year Budget.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "aa2ef6b8b3f0",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Directed the Managing Director, Corporate Services and City Treasurer/Chief Financial Officer to allocate approximately $112,000 in remaining 2017 budgetary funds toward implementation activities of the Community Mental Health and Addiction Strategy for London: Moving Forward Together.",
+    "confidence": "high",
+    "quote": "the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer BE DIRECTED to allocate remaining budgetary funds at the end of 2017, estimated at approximately $112,000, towards implementation activities of the Community Mental Health and Addiction Strategy for London",
+    "flags": []
+  },
+  {
+    "id": "04750baadd3c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law No. Z.-1 for 653 Talbot Street (London Language Institute), rezoning the property from Residential R3/Office Conversion to Residential R3 Special Provision/Neighbourhood Facility Special Provision and Open Space zones, and directed staff to prepare a Statement of Cultural Heritage Value for the property and report back on a possible heritage designation.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 8, 2018 BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Residential R3/Office Conversion (R3-1/OC2) Zone TO a Residential R3 Special Provision/Neighbourhood Facility Special Provision (R3-1(_)/NF1(_)) Zone, and an Open Space (OS4) Zone",
+    "flags": []
+  },
+  {
+    "id": "7363f2a29809",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Opened the public participation meeting for the 653 Talbot Street rezoning application.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "7dd110811309",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting for the 653 Talbot Street rezoning application.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "b88af5e49fee",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Voted on the 1st Report of the London Advisory Committee on Heritage; the specific action taken is not preserved in the source minutes.",
+    "confidence": "low",
+    "quote": null,
+    "flags": [
+      "no_text"
+    ]
+  },
+  {
+    "id": "3023732e4a5d",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Gave notice, under section 29 of the Ontario Heritage Act, of Municipal Council's intention to designate the property at 440 Grey Street as being of cultural heritage value or interest, based on the revised Statement of Cultural Heritage Value or Interest in the 10th Report of the London Advisory Committee on Heritage.",
+    "confidence": "high",
+    "quote": "notice BE GIVEN under the provisions of Section 29 of the Ontario Heritage Act, R.S.O. 1990, c. O. 18, of Municipal Council’s intent to designate the property located at 440 Grey Street to be of cultural heritage value or interest based on the revised Statement of Cultural Heritage Value or Interest appended to the 10th Report of the LACH",
+    "flags": []
+  },
+  {
+    "id": "cd62baf33a0b",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Granted delegation status to Dr. C. Mackie, CEO and Medical Officer of Health for the Middlesex-London Health Unit, to address the January 22, 2018 Planning and Environment Committee meeting on the siting of supervised consumption sites and other harm reduction matters.",
+    "confidence": "high",
+    "quote": "delegation status BE GRANTED to Dr. C. Mackie, CEO and Medical Officer of Health, Middlesex-London Health Unit, at the January 22, 2018 Planning and Environment Committee with respect to the siting of supervised consumption sites and other harm reduction matters.",
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "f4974223c154",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the 1st Report of the Environmental and Ecological Planning Advisory Committee: submitted its Springbank Dam One River Master Plan recommendation to the Civic Works Committee for consideration, requested a member's attendance there, forwarded revised comments on the W3 Farms Environmental Impact Statement to Planning staff, requested EEPAC review a list of potential initiatives, noted receipt of a revised application notice for 660 Sunningdale Road East, established a Working Group to review a Sifton Properties application on Colonel Talbot Road/Pack Road and report back, postponed consideration of the Medway Valley Environmentally Significant Area Conservation Master Plan clause to a future meeting, and received several other Committee clauses.",
+    "confidence": "medium",
+    "quote": null,
+    "flags": [
+      "referral",
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "abfadfc22446",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the 1st Report of the Advisory Committee on the Environment from its meeting held on December 6, 2017.",
+    "confidence": "high",
+    "quote": "the 1st Report of the Advisory Committee on the Environment from its meeting held on December 6, 2017 BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6a589e9ca9fb",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law Z.-1 for 1733 Hamilton Road and 2046 Commissioners Road East (Hajjar Subdivision, Sifton Properties Limited), changing the zoning from a holding Residential R1 Special Provision zone to a Residential R1 Special Provision zone, removing the holding provision.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 8, 2018 BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a holding Residential R1 Special Provision (h-R1-2(10)) Zone TO a Residential R1 Special Provision (R1-2(10)) Zone to remove the holding (h) provision.",
+    "flags": []
+  },
+  {
+    "id": "f145edbf154a",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law Z.-1 for 1691 Hamilton Road (Thames Village Joint Venture Corporation), changing the zoning from a holding Residential R1 Special Provision zone to a Residential R1 Special Provision zone, removing the holding provision.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 8, 2018 BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018 to amend Zoning By-law Z.-1, (in conformity with the Official Plan), to change the zoning of the subject lands FROM a holding Residential R1 Special Provision (h-R1-3(17)) Zone TO a Residential R1 Special Provision (R1-3(17)) Zone to remove the holding (h) provision.",
+    "flags": []
+  },
+  {
+    "id": "ccca11011a08",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Special Provisions for a Subdivision Agreement with Drewlo Holdings Inc. for the Edgevalley Subdivision (39T-05505) on Kilally Road, approved the associated financing, and authorized the Mayor and City Clerk to execute the agreement.",
+    "confidence": "medium",
+    "quote": "the Special Provisions, to be contained in a Subdivision Agreement between The Corporation of the City of London and Drewlo Holdings Inc., for the Edgevalley Subdivision (39T-05505) appended to the staff report dated January 8, 2018 as Schedule “A”, BE APPROVED... the financing for this project BE APPROVED as set out in the Source of Financing Report appended to the staff report dated January 8, 2018 as Schedule “C”",
+    "flags": []
+  },
+  {
+    "id": "9a369f3f1b68",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved the Special Provisions for a Subdivision Agreement with Drewlo Holdings Inc. for the Summerside Subdivision – Phase 13A (39T-92020) on Bradley Avenue, approved the associated financing, and authorized the Mayor and City Clerk to execute the agreement.",
+    "confidence": "medium",
+    "quote": "the Special Provisions, to be contained in a Subdivision Agreement between The Corporation of the City of London and Drewlo Holdings Inc., for the Summerside Subdivision – Phase 13A (39T-92020) appended to the staff report dated January 8, 2018 as Schedule “A”, BE APPROVED... the financing for this project BE APPROVED as set out in the Source of Financing Report appended to the staff report dated January 8, 2018 as Schedule “C”",
+    "flags": []
+  },
+  {
+    "id": "3e6ee6b26acc",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law No. Z.-1 for 7 Annadale Drive (City of London's own application), changing the zoning from holding Open Space, Residential R1, and Residential R6 zones to their non-holding equivalents, removing the “h-18” holding provision.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 8, 2018 BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Open Space (h-18-OS1) Zone, a Holding Residential R1 Special Provision (h-18-R1-5(13)) Zone, and a Holding Residential R6 Special Provision (h-5-h-18-R6-3(8)) Zone TO an Open Space (OS1) Zone, a Residential R1 Special Provision (R1-5(13)) Zone, and a Holding Residential R6 Special Provision (h-5-R6-3(8)) Zone to remove the “h-18” holding provision.",
+    "flags": []
+  },
+  {
+    "id": "288fd1c36bd1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Forwarded the staff report on Ontario Municipal Board (OMB) Reform: Bill 139 Potential Regulations to the Ministry of Municipal Affairs and the Ministry of the Attorney General for their information.",
+    "confidence": "high",
+    "quote": "the staff report dated January 8, 2018, entitled \"Ontario Municipal Board (OMB) Reform: Bill 139 Potential Regulations\", BE FORWARDED to the Ministry of Municipal Affairs and the Ministry of the Attorney General for their information.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "6a700211049c",
+    "issue": "housing",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law to amend Zoning By-law No. Z.-1 for 1843 Frederick Crescent (Futurestreets Inc.), changing the zoning from a holding Residential R1 zone to a Residential R1 zone, removing the holding provision to allow a single detached dwelling.",
+    "confidence": "high",
+    "quote": "the proposed by-law appended to the staff report dated January 8, 2018 BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to change the zoning of the subject property FROM a Holding Residential R1 (h-82*R1-3) Zone TO a Residential R1 (R1-3) Zone",
+    "flags": []
+  },
+  {
+    "id": "2fe762842f55",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Opened the public participation meeting for the 1843 Frederick Crescent rezoning application.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "65cec2a853ad",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting for the 1843 Frederick Crescent rezoning application.",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "c996e494aee8",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved the recommended option to decommission the Springbank Dam, as identified in the One River Master Plan Environmental Assessment Phase II Stage I Report, and received related public communications and a staff presentation.",
+    "confidence": "high",
+    "quote": "the recommended option to decommission the Springbank Dam BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "7882fcade815",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Opened the public participation meeting on the One River Master Plan Environmental Assessment Phase II Stage I Report (Springbank Dam).",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "08cbf61e25c1",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Closed the public participation meeting on the One River Master Plan Environmental Assessment Phase II Stage I Report (Springbank Dam).",
+    "confidence": "high",
+    "quote": null,
+    "flags": [
+      "procedural"
+    ]
+  },
+  {
+    "id": "1ee7b29801c5",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Received the Deferred Matters List for the Civic Works Committee, as at December 12, 2017.",
+    "confidence": "high",
+    "quote": "the Deferred Matters List for the Civic Works Committee, as at December 12, 2017, BE RECEIVED.",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "a95f451ec788",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Advised Municipal Council that the Cycling Advisory Committee supports the provincial allocation of $3.3 million in 2017 Ontario Municipal Commuter Cycling Program funding toward projects such as the north branch of the Thames Valley Parkway, and received several other Committee report clauses.",
+    "confidence": "high",
+    "quote": "the Municipal Council BE ADVISED that the Cycling Advisory Committee supports the provincial allocation of the 2017 Ontario Municipal Commuter Cycling Program monies, in the amount of $3.3 million, toward projects such as the north branch of the Thames Valley Parkway; it being noted that the north branch is a Council-approved project that has been awaiting funding",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "34dd4c82ed95",
+    "issue": "transit",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Requested the Civic Administration to invite staff from one or more transit systems or municipalities that have implemented rapid transit to speak to the Rapid Transit Implementation Working Group, and received several other Working Group report clauses.",
+    "confidence": "high",
+    "quote": "the Civic Administration BE REQUESTED to invite staff from one or more transit systems and/or municipalities that have implemented rapid transit, or are in the process of implementation, to speak to the Rapid Transit Implementation Working Group",
+    "flags": [
+      "informational_ask"
+    ]
+  },
+  {
+    "id": "d3471a675b77",
+    "issue": "none",
+    "axis": null,
+    "polarity": null,
+    "whatAYeaDid": "Approved exercising the renewal options in the curbside recyclables collection, garbage/yard-materials collection (southwest London), and Material Recovery Facility Operations contracts with Miller Waste Systems Inc. for one year (October 30, 2018 to October 30, 2019), and authorized the Civic Administration to undertake the necessary administrative acts.",
+    "confidence": "high",
+    "quote": "the renewable options of the contracts with Miller Waste Systems Inc., for the collection of recyclables in London and the collection of garbage and yard materials in the southwest portion of the city, including Lambeth, Riverbend and Settlement Trail, and Material Recovery Facility Operations, for one (1) year from October 30, 2018 to October 30, 2019, as provided in the existing, amended agreements in accordance with Procurement of Goods and Services Policy, Section 8.5 a. v, and Section 20.2, BE APPROVED",
+    "flags": []
+  },
+  {
+    "id": "ab66b1958f8a",
+    "issue": "climate",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Endorsed the City's comments and discussion on the Ministry of the Environment and Climate Change's Environmental Bill of Rights Registry posting, “Ontario's Approach to Climate Change Adaptation,” and submitted them to the Ministry.",
+    "confidence": "medium",
+    "quote": "the comments and discussion, as appended to the staff report dated January 9, 2018, with respect to the Ministry of the Environment and Climate Change’s Environmental Bill of Rights Registry entitled Ontario’s Approach to Climate Change Adaptation, BE ENDORSED and BE SUBMITTED to the Ministry of the Environment and Climate Change.",
+    "flags": []
+  },
+  {
+    "id": "7aab801aa8db",
+    "issue": "downtown",
+    "axis": "application-approval",
+    "polarity": "expansive",
+    "whatAYeaDid": "Approved introducing the by-law authorizing Memoranda of Understanding between the City and London Hydro Inc. and between the City and Bell Canada for utility construction coordination within the Dundas Place project, and authorized the Mayor and City Clerk to execute them.",
+    "confidence": "high",
+    "quote": "the proposed by-law, as appended to the staff report dated January 9, 2018, BE INTRODUCED at the Municipal Council meeting to be held on January 16, 2018, to: i) approve a Memorandum of Understanding... to be entered into between The Corporation of the City of London and London Hydro Inc., for utility coordination within the Dundas Place project; ii) approve a Memorandum of Understanding... to be entered into between The Corporation of the City of London and Bell Canada, for utility coordination within the Dundas Place project; and, iii) authorize the Mayor and the City Clerk to execute the above-noted Memoranda of Understanding",
+    "flags": []
+  }
+]

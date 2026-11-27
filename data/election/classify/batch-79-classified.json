@@ -1,0 +1,525 @@
+[
+ {
+  "id": "5f88919882ca",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have requested a report back from the Civic Administration on the potential reconfiguration of the Municipal Council, per a communication from Councillor P. Hubert; this failed.",
+  "confidence": "high",
+  "quote": "Motion to Approve the recommendation contained in Councillor P. Hubert’s communication dated December 2, 2016, requesting a report back from the Civic Administration with respect to the potential reconfiguration of the Municipal Council.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "69212969f190",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, for information, the staff report on the Shift Rapid Transit Implementation Office.",
+  "confidence": "high",
+  "quote": "the staff report dated November 29, 2016 with respect to the Shift Rapid Transit Implementation Office BE RECEIVED for information. (2016-T03)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "e71512dc3f55",
+  "issue": "budget",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended clause 2 b) f) (the $100,000-per-year Community Economic Roadmap Implementation funding allocation, Case #6, from the Economic Development Reserve Fund) to add a request that the Civic Administration bring forward the applicable business cases for this allocation, to provide Council with additional oversight.",
+  "confidence": "high",
+  "quote": "Approve that cause 2 b) f) be amended by adding the following words to the end of the clause: “and further that the Civic Administration BE REQUESTED to bring forward the applicable business cases with respect to this allocation, in order to provide Council with additional oversight related to this funding”.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "60db8009e91a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, for information, the staff report on the Riverside Drive and Beaverbrook Avenue intersection.",
+  "confidence": "high",
+  "quote": "the staff report dated November 29, 2016, with respect to the Riverside Drive and Beaverbrook Avenue intersection, BE RECEIVED for information. (2016-T07)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "1ef6bd3351ed",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved reimbursing Councillor J. Helmer's expenses for attending the 2016-2017 Association of Municipalities of Ontario Health Task Force meetings, outside his annual expense allocation, subject to the annual budget approval process and the Council's Travel and Business Expense Policy.",
+  "confidence": "high",
+  "quote": "the request of Councillor J. Helmer to be reimbursed for his expenses associated with attending the 2016-2017 Association of Municipalities of Ontario - Health Task Force meetings for 2016-2017, outside of his annual expense allocation, BE APPROVED subject to the annual budget approval process, and in accordance with the Municipal Council’s Travel and Business Expense Policy 28(1).",
+  "flags": []
+ },
+ {
+  "id": "5397bc5c769c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, for information, the staff report on the South Carriage Road and Hyde Park Road intersection, noting a related communication from the Hyde Park Business Association.",
+  "confidence": "high",
+  "quote": "the staff report dated November 29, 2016, with respect to the South Carriage Road and Hyde Park Road intersection, BE RECEIVED for information; it being noted that the Civic Works Committee received a communication dated November 28, 2016, from D. Szpakowski, Executive Director, Hyde Park Business Association, with respect to this matter. (2016-T07)",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "c6575f87f7d4",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to change the Official Plan designation and Zoning By-law for 1448 Adelaide Street North from Low Density Residential to Multi-Family, Medium Density Residential, on the application of Kim Nguyen.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated December 12, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on January 17, 2017, to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation TO a Multi-Family, Medium Density Residential designation and to amend the Official Plan BY ADDING a policy to section 10.1.3 – Policies for Specific Areas; and, the proposed by-law appended to the staff report dated December 12, 2016 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 17, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan, as amended in part a) above), to change the zoning of the subject property FROM a Residential R2/Office Conversion (R2-2/OC2) Zone TO a Residential R2/Office Conversion Special Provision (R2-2/OC5(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "2ddcebe69b2b",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved removing the visually-impaired-specific monthly bus pass allocation from the proposed subsidized transit program, resulting in no change to the current program for the visually impaired in London.",
+  "confidence": "high",
+  "quote": "the current budget allocation for transit subsidy for the visually impaired to receive a monthly bus pass BE REMOVED from the proposed subsidy program, resulting in no change to the current program for the visually impaired in London",
+  "flags": []
+ },
+ {
+  "id": "13de0d95984b",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved using the remaining budget allocation to implement an income-related subsidized transit pass program at approximately $52.00/month, administered until the budget was exhausted (rather than by monthly cap or waiting list), noting the Civic Administration would report back before the allocation was exhausted and that the program would make over 1,200 Londoners eligible for subsidy.",
+  "confidence": "high",
+  "quote": "the remaining budget allocation BE USED to implement an income-related subsidy program in the City of London resulting in a monthly pass amount in the approximate amount of $52.00/month, as proposed in the staff report dated December 13, 2016, with the exception of a monthly cap and waiting list creation and rather that the program will be administered until the budget amount is exhausted; it being noted that the Civic Administration will report back to the Community and Protective Services Committee prior to the exhaustion of the budget allocation; it being further noted that this proposal will allow over 1200 Londoners to be eligible for subsidy",
+  "flags": []
+ },
+ {
+  "id": "0c448c00b466",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have closed debate by putting the question on a motion to refer the Subsidized Transit item (clause 18); this failed.",
+  "confidence": "high",
+  "quote": "Approve that in accordance with section 11.14 of the Council Procedure By-law, the question on the referral be put.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "a2b59987a2d3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the Subsidized Transit item (clause 18) elsewhere for further consideration; this failed. The source minutes do not give this referral motion's own text.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "referral",
+   "no_text"
+  ]
+ },
+ {
+  "id": "ce6f5568d58a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Voted on a floor amendment to part b) of the Subsidized Transit item (clause 18), as modified by the mover and seconder; the amendment's own text is not given in the source minutes.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "84bbedbca6cc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part b) of the Subsidized Transit item (clause 18) as amended by Council; the final amended text is not given in the source minutes.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "8eaf78067425",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved removing the visually-impaired-specific monthly bus pass allocation from the proposed subsidized transit program, resulting in no change to the current program for the visually impaired in London.",
+  "confidence": "high",
+  "quote": "the current budget allocation for transit subsidy for the visually impaired to receive a monthly bus pass BE REMOVED from the proposed subsidy program, resulting in no change to the current program for the visually impaired in London",
+  "flags": []
+ },
+ {
+  "id": "f1d619dfe7c4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved adding a new part i) to the Subsidized Transit item (clause 18); the new part's own text is not given in the source minutes.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "ccd371f1815e",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved requesting that the London Transit Commission consider steps it could take to assist Londoners in need of subsidy for public transit.",
+  "confidence": "high",
+  "quote": "the London Transit Commission BE REQUESTED to consider steps that it can take to assist Londoners in need of subsidy for public transit",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d4f8a9aa0063",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the whole Subsidized Transit item (clause 18) as amended by Council, ratifying the separately-voted parts; the full compiled text as amended is not given in the source minutes.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble",
+   "no_text"
+  ]
+ },
+ {
+  "id": "1f2c547928f1",
+  "issue": "housing",
+  "axis": "density",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved introducing by-laws to change the Official Plan designation and Zoning By-law for 1448 Adelaide Street North from Low Density Residential to Multi-Family, Medium Density Residential, on the application of Kim Nguyen, ratifying the Planning and Environment Committee's recommendation.",
+  "confidence": "high",
+  "quote": "the proposed by-law appended to the staff report dated December 12, 2016 as Appendix \"A\" BE INTRODUCED at the Municipal Council meeting to be held on January 17, 2017, to amend the Official Plan to change the designation of the subject lands FROM a Low Density Residential designation TO a Multi-Family, Medium Density Residential designation and to amend the Official Plan BY ADDING a policy to section 10.1.3 – Policies for Specific Areas; and, the proposed by-law appended to the staff report dated December 12, 2016 as Appendix \"B\" BE INTRODUCED at the Municipal Council meeting to be held on January 17, 2017, to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan, as amended in part a) above), to change the zoning of the subject property FROM a Residential R2/Office Conversion (R2-2/OC2) Zone TO a Residential R2/Office Conversion Special Provision (R2-2/OC5(_)) Zone",
+  "flags": []
+ },
+ {
+  "id": "7314fcf7c68a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred clause 8 (the Open Air Burning By-law Education Plan report) back to the Community and Protective Services Committee, to allow additional public delegations; this failed.",
+  "confidence": "high",
+  "quote": "Approve that clause 8 BE REFERRED back to the Community and Protective Services Committee (CPSC), to allow those who wished to have delegation status to do so at the January meeting of the CPSC; it being noted that several Council Members have received notice from residents of their intent to request delegation status before the Committee regarding this matter.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "efb6dc8e8492",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Added Bill No. 51; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve Introduction and First Reading of Added Bill No. 51.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "1216354a86ca",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Added Bill No. 51; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve Second Reading of Added Bill No. 51.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "cc165b2e5e24",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Added Bill No. 51; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve Third Reading and Enactment of Added Bill No.51.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "0af9f300303e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave first reading to Bill No. 52; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve Introduction and 1st Reading of Bill No. 52.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "1673990f03da",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave second reading to Bill No. 52; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve 2nd Reading of Bill No. 52.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "ad585adeb78b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Gave third reading to and enacted Bill No. 52; the source minutes do not identify this bill's subject matter.",
+  "confidence": "low",
+  "quote": "Approve 3rd Reading and Enactment of Bill No. 52.",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "71ca3d7ac713",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received, for information, the staff report on proposed biannual meetings with local Members of Parliament and local Members of Provincial Parliament.",
+  "confidence": "high",
+  "quote": "the staff report dated January 10, 2017 with respect to biannual meetings with local Members of Parliament and local Members of the Legislative Assembly of Ontario BE RECEIVED for information.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "086b01346e22",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved giving leave to add a reason to Council, In Closed Session, to receive information on personal employment-related matters involving one of the Corporation's associations or unions, related advice and instructions to officers and employees, and solicitor-client-privileged advice.",
+  "confidence": "high",
+  "quote": "leave be given to add a Council, In Closed Session reason to receive information related to personal matters, including information regarding identifiable individuals with respect to employment-related matters in regard to one of the Corporation’s associations or unions, advice or recommendations of officers and employees of the Corporation including communications necessary for that purpose and for the purpose of providing instructions and directions to officers and employees of the Corporation; and advice subject to solicitor-client privilege, including communications necessary for that purpose.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "b792c29b2df4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved adding, as a reason for Council, In Closed Session, personal employment-related matters involving one of the Corporation's associations or unions, related advice and instructions to officers and employees, and solicitor-client-privileged advice.",
+  "confidence": "high",
+  "quote": "the following be added to the reasons for Council, In Closed Session: Personal matters, including information regarding identifiable individuals with respect to employment-related matters in regard to one of the Corporation’s associations or unions, advice or recommendations of officers and employees of the Corporation including communications necessary for that purpose and for the purpose of providing instructions and directions to officers and employees of the Corporation; and advice subject to solicitor-client privilege, including communications necessary for that purpose.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "0a4e9a51bc64",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved clause 1 of the 3rd Report of the Strategic Priorities and Policy Committee, a confidential matter the Committee considered in closed session; the source minutes do not disclose its substance.",
+  "confidence": "high",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "939c17fe8855",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the proposed Vehicle for Hire By-law, Part 6.1 – Issuance of Licences, to add the words 'electronic or' before 'Every licence shall be', permitting electronic issuance of licences.",
+  "confidence": "high",
+  "quote": "approve an amendment to the proposed by-law in Part 6.1 – Issuance of Licences by adding the words, “electronic or”, following the words, “Every licence shall be”",
+  "flags": []
+ },
+ {
+  "id": "e28106557aaa",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the proposed Vehicle for Hire By-law, Schedule II – Section 2.2, to delete the words 'as the first year' and replace them with 'as year zero'.",
+  "confidence": "high",
+  "quote": "approve an amendment to Schedule II – Section 2.2 by deleting the words “as the first year” and replacing with the words, “as year zero”",
+  "flags": []
+ },
+ {
+  "id": "2c583cb4661d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have introduced the revised Vehicle for Hire By-law, including the Part 6.1 and Schedule II amendments and the Errata Sheet changes, at Municipal Council on January 31, 2017, to license and regulate cabs, accessible cabs, limousines, private vehicles for hire, accessible vehicles for hire, drivers, owners and brokers; this failed.",
+  "confidence": "high",
+  "quote": "approve the revised, by-law with respect to vehicles for hire, including the part 6.1 and Schedule II, Section 2.2 amendments and various administrative amendments outlined on the attached Errata Sheet BE INTRODUCED at Municipal Council on January 31, 2017 to provide for the licensing, regulating and governing of vehicles for hire, including cabs, accessible cabs, limousines, private vehicles for hire and accessible vehicles for hire, drivers, owners and brokers",
+  "flags": []
+ },
+ {
+  "id": "2123f391f678",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the staff report on cold beverage vending machines in City of London recreation facilities and City Hall to a future Public Participation Meeting of the Community and Protective Services Committee.",
+  "confidence": "high",
+  "quote": "the report dated January 24, 2017 from the Managing Director of Parks & Recreation and the Managing Director of Neighbourhood, Children, and Fire Services, with respect to cold beverage vending machines in City of London recreation facilities and City Hall, BE REFERRED to a Public Participation Meeting, to be held at a future meeting of the Community and Protective Services Committee.",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "3484c5a5d267",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the City Clerk to begin the public consultation process for a ranked ballot election, including additional research and provision of a draft by-law for a future public participation meeting, should Council choose to proceed with a ranked ballot election.",
+  "confidence": "high",
+  "quote": "the City Clerk BE DIRECTED to begin the public consultation process for a ranked ballot election which would include additional research and provision of a draft by-law for consideration at a public participation meeting that would be held in sufficient time to meet the legislative requirements, should the Municipal Council choose to proceed with a ranked ballot election.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "64759878e18d",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Took no action to proceed with a Municipal Election Campaign Contribution Rebate Program for the City of London.",
+  "confidence": "high",
+  "quote": "NO ACTION BE TAKEN to proceed with a Municipal Election Campaign Rebate Program for the City of London.",
+  "flags": []
+ },
+ {
+  "id": "ca99da8ddd30",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested that the Ontario Civilian Police Commission proceed with an investigation, as outlined in a January 5, 2017 letter from the President of the London Police Association, into why details of a potential budget compromise did not reach all Council Members.",
+  "confidence": "high",
+  "quote": "the Ontario Civilian Police Commission BE REQUESTED to proceed with the investigation as outlined in the January 5, 2017 letter from David Gilmore, President, London Police Association.",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "d7329702b15f",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted the delegation item from Richard Robson, London Police Association (clause 2), combining part a) (receiving the delegation) and part b) (requesting the Ontario Civilian Police Commission investigation), as separately approved.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble"
+  ]
+ },
+ {
+  "id": "51e67bf4c3b2",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved inviting Stephanie Marentette to be interviewed by the Corporate Services Committee for the vacancy on the London Police Services Board.",
+  "confidence": "high",
+  "quote": "Approve that Stephanie Marentette be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "af122cfc0d5e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved inviting Bill Tucker to be interviewed by the Corporate Services Committee for the vacancy on the London Police Services Board.",
+  "confidence": "high",
+  "quote": "Approve that Bill Tucker be interviewed by the Corporate Services Committee with respect to the vacancy on the London Police Services Board.",
+  "flags": [
+   "appointment"
+  ]
+ },
+ {
+  "id": "a7112a826931",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred clauses 8d) and 8e) of the 1st Report of the Outstanding London Ambassador Award Committee to a future Strategic Priorities and Policy Committee meeting, to review what changes, if any, would be in order, while the current process continued using the existing terms of reference and evaluation form.",
+  "confidence": "high",
+  "quote": "clauses 8d) and 8e) BE REFERRED to a future meeting of the Strategic Priorities and Policy Committee for the purpose of reviewing and determining what changes, if any, would be in order at a future date; it being understood that the current process will continue to move forward utilizing the existing terms of reference and evaluation form",
+  "flags": [
+   "referral"
+  ]
+ },
+ {
+  "id": "26f9ba830218",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Sustained a ruling of the Chair during Council's consideration of the Vehicle for Hire By-law item.",
+  "confidence": "high",
+  "quote": "The question “Shall the ruling of the Chair be sustained?” is put.",
+  "flags": [
+   "procedural"
+  ]
+ },
+ {
+  "id": "f8efd2d5cbf3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved part b) of the Vehicle for Hire By-law item under Council's direct consideration; the source minutes do not record this part's own text.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "ab5a5fffcdb0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Amended the proposed Schedule 5 – Fees amendments to the Vehicle for Hire By-law to add that the Civic Administration would report back to the Community and Protective Services Committee, within six months of implementation, with an analysis of whether the fees covered all associated City costs.",
+  "confidence": "high",
+  "quote": "Approve an amendment to the proposed amendment to Schedule 5 - Fees, as follows: “it being understood that the Civic Administration will report back to the Community and Protective Services Committee with an analysis and evaluation of whether or not the Fees are covering all associated costs incurred by the City within six months of implementation;”",
+  "flags": [
+   "informational_ask"
+  ]
+ },
+ {
+  "id": "1fcd2279ab80",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the proposed amendments to Schedule 5 – Fees of the Vehicle for Hire By-law, as amended to add a report-back requirement; the fee schedule's own text is not recorded in the source minutes.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ]
+ },
+ {
+  "id": "c1d89b443968",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the whole Vehicle for Hire By-law item (clause 11), as amended by Council, with the by-law to take force and effect April 4, 2017; the full amended text is not compiled in the source minutes.",
+  "confidence": "medium",
+  "quote": "",
+  "flags": [
+   "wrapper_preamble",
+   "no_text"
+  ]
+ }
+]

@@ -1,0 +1,593 @@
+[
+ {
+  "id": "865d9899e5d3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have approved a reworded version of part g) of Item 14 of the 7th Report of the Corporate Services Committee (the Workplace Harassment and Discrimination Prevention Policy item), following a reconsideration granted \"to provide clarification to the intent of the wording\"; this failed unanimously, and Council instead retained part g)'s original wording (see the following motion).",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text",
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Not a tracked issue (workplace-harassment policy wording). Read full source (2018-03-27 Council, items 8.2.14 and 9.2): this is the SECOND of two same-meeting reconsideration attempts to reword part g); source text for this specific roll call is genuinely blank in both _all-motions.json and the raw eSCRIBE JSON (bare 'Motion to Approve part g).'). Sibling motions in the same item establish the outcome (failed 0-12; original wording reaffirmed 12-0 next), which whatAYeaDid correctly summarizes without inventing quotable text. no_text/low-confidence stands per ERA NOTES — confirmed, not downgraded further since issue/polarity already at the safe null state."
+ },
+ {
+  "id": "9494202439bc",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Suspended Section 11.10 of the Council Procedure By-law to permit the meeting to proceed beyond 11:00 PM.",
+  "confidence": "high",
+  "quote": "That pursuant to section 2.3 of the Council Procedure By-law, section 11.10 of the said by-law BE SUSPENDED for the purpose of permitting the meeting to proceed beyond 11:00 PM.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Pure procedural (suspend 11:00 PM rule). Quote verbatim matches source. Confirmed."
+ },
+ {
+  "id": "c2069e90f44e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved a request for delegation status from J. Peaire to be heard at a future meeting of the appropriate committee, on the matter of London & Middlesex Housing Corporation Board membership.",
+  "confidence": "high",
+  "quote": "Motion to approve the request for delegation status from J. Peaire, at a future meeting of the appropriate committee.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Pure procedural (delegation status request). Confirmed."
+ },
+ {
+  "id": "28d8ab600cda",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have directed consultation with the Upper Thames River Conservation Authority, the Ministry of Natural Resources and Forestry, other stakeholder agencies, neighbouring First Nations governments and organizations, and the Gloucester Neighbourhood, on environmental impacts of trail implementation and other matters raised at the public participation meeting for the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan; this failed.",
+  "confidence": "medium",
+  "quote": "Motion to consult with the following agencies: a) Upper Thames River Conservation Authority; b) the Ministry of Natural Resources and Forestry; c) other stakeholder agencies as to the environmental impacts of trail implementation in the ESA; d) neighbouring First Nations Governments and Organizations; and, e) the Gloucester Neighbourhood around access points and the other matters raised at the public participation meeting.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Climate issue via 'Conservation Authority' in the clause body itself (not just the item title) — correctly independent of the title-only-hit exclusion. FAILED motion correctly hedged 'Motion to consult...' / 'this failed', polarity null. Confirmed."
+ },
+ {
+  "id": "176fe4ba1a34",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have removed the proposed Bridge D from the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan; this failed.",
+  "confidence": "medium",
+  "quote": "Motion to remove the proposed Bridge D from the Conservation Master Plan.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Same item as the two climate-tagged Medway ESA motions, but THIS clause's own body ('remove the proposed Bridge D from the Conservation Master Plan') contains no independent climate keyword (title-only hits don't count per issue-rules.ts). Correctly issue=none, not an inconsistency with siblings. Confirmed."
+ },
+ {
+  "id": "078d0e846391",
+  "issue": "climate",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have referred the matter of the proposed bridge in the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan back to staff for further consultation with the Upper Thames River Conservation Authority and the Ministry of Natural Resources and Forestry about the presence of Species at Risk and the probability of permit approvals necessary to construct the bridge; this failed.",
+  "confidence": "high",
+  "quote": "Motion to refer the matter back for staff to undertake further consultation with the Upper Thames River Conservation Authority, the Ministry of Natural Resources and Forestry, about the presence of Species at Risk and about the probability of approvals for permits necessary to construct the bridge.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Climate via 'Conservation Authority' in the clause body. FAILED motion correctly hedged, polarity null. Confirmed."
+ },
+ {
+  "id": "aaf2ab13294c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved that part b) of the gaming-site expansion item commence with wording approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+  "confidence": "high",
+  "quote": "Motion to approve that part b) commence with the words \"the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table games, within the jurisdiction of The Corporation of the City of London, BE ENDORSED;\"",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "d4fb52172efe",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Added wording to part b) of the gaming-site expansion item noting that the City of London prefers an expanded gaming location at the Western Fair District.",
+  "confidence": "high",
+  "quote": "Motion to approve the addition of the words \"it being noted that The Corporation of the City of London prefers an expanded location at the Western Fair District;\" to the end of part b).",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Gaming siting is not a tracked issue. Quote verbatim. Confirmed."
+ },
+ {
+  "id": "4db95eb2352a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back on how some or all of the incremental revenues from expanded gaming could be allocated to prevent, reduce, or mitigate problem-gambling harms in the Zone SW 4 bundle, including fostering a partnership between the local community and the gaming operator.",
+  "confidence": "high",
+  "quote": "Motion to approve the following part c) c) the Civic Administration BE DIRECTED to report back on how some or all of the incremental revenues from expanded gaming, paid to The Corporation of the City of London according to the contribution agreement with the Ontario Lottery and Gaming Corporation, could be allocated to prevent, reduce or mitigate harms in the Zone SW 4 bundle from problem gambling, including fostering a partnership between the local community and the gaming operator;",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Gaming-revenue report-back; informational_ask correctly forces null even though gaming isn't tracked anyway. Confirmed."
+ },
+ {
+  "id": "61626d6fbbff",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the Bus Rapid Transit Environmental Assessment Initiative staff report, presentation, and a communication from C. Butler to the May 7, 2018 Strategic Priorities and Policy Committee meeting for consideration and debate, to allow additional time for public and Council review.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a) the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental Assessment Initiative”, together with the associated presentation made by the Project Director, Rapid Transit Implementation at the April 23, 2018 meeting of the Strategic Priorities and Policy Committee, as well as the communication dated April 12, 2018, from C. Butler, BE REFERRED to the May 7, 2018 meeting of the Strategic Priorities and Policy Committee for consideration and debate, in order to allow additional time for the public and the Council Members to review the information; and",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "BRT referral to a later SPPC meeting — pure procedural non-decision (DEFER_RE), correctly null despite issue=transit. Cross-checked against the source SPPC 2018-04-23 file: this is the referral that PRECEDED the substantive design vote; text matches verbatim. Confirmed."
+ },
+ {
+  "id": "35d864f3619e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have changed the order of business to deal with Item 4.1 (the Bus Rapid Transit Environmental Assessment Initiative) before Item 3.1 (the gaming-site expansion item); this failed.",
+  "confidence": "high",
+  "quote": "That the order of business BE CHANGED in order to permit Item 4.1 to be dealt with prior to Item 3.1.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Procedural order-of-business motion, FAILED (3-9 at the source SPPC meeting). Correctly hedged/none. Confirmed."
+ },
+ {
+  "id": "2448f547b77a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved an added Closed Session reason, related to clause 3.2 of the 7th Report of the Planning and Environment Committee (the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan), covering solicitor-client privileged advice, litigation or potential litigation relating to the Accessibility for Ontarians with Disabilities Act, and instructions to Corporation officers and employees.",
+  "confidence": "high",
+  "quote": "That the following Council, In Closed Session reason, related to clause 3.2 of the 7th Report of the Planning and Environment Committee (Item 7 of Stage 8.2 of the Council Agenda), having to do with the Medway Valley Heritage Forest Environmentally Significant Area (South) – Conservation Master Plan BE APPROVED: A matter pertaining to advice that is subject to solicitor-client privilege, including communications necessary for that purpose; litigation or potential litigation with respect to the Medway Valley Heritage Forest Environmentally Significant Area (South) – Conservation Master Plan as it relates to the Accessibility for Ontarians with Disabilities Act (AODA); and for the purpose of providing instructions and directions to officers and employees of the Corporation concerning this matter.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Procedural closed-session reason. Confirmed."
+ },
+ {
+  "id": "9062d43b8c9a",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Changed the order of business to permit consideration of clause 3.2 of the 7th Report of the Planning and Environment Committee (the Medway Valley Heritage Forest Environmentally Significant Area (South) Conservation Master Plan) at that time.",
+  "confidence": "high",
+  "quote": "That pursuant to section 6.4 of the Council Procedure By-law, the order of business be changed to permit consideration clause 3.2 of the 7th Report of the Planning and Environment Committee (Item No. 6 of Stage 8.2 of the Council Agenda), having to do with the Medway Valley Heritage Forest Environmentally Significant Area (South) – Conservation Master Plan at this time.",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Procedural order-of-business change. Confirmed."
+ },
+ {
+  "id": "939b6e74e9c0",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Directed the Civic Administration to process rezoning and Official Plan amendment applications submitted by Southside Group for 3234, 3263, and 3274 Wonderland Road South, to provide for commercial development on those properties, in accordance with the Planning Act.",
+  "confidence": "medium",
+  "quote": "That the Civic Administration BE DIRECTED to process the applications submitted by Southside Group for the properties located at 3234, 3263, 3274 Wonderland Road South requesting amendments to the Zoning by-law and the Official Plan to provide for commercial development on the subject properties, in accordance with the Planning Act.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (2018-04-24 Council, item 9.1): quote is verbatim (checked against the raw eSCRIBE JSON, not just truncated _all-motions.json), nay voters (Hopkins, Hubert) match. issue=housing is correct per issue-rules.ts's own documented design — CODE_PATTERNS explicitly treats any Z/OZ/O/TZ-code-style rezoning/Official-Plan item as housing-issue structural signal regardless of residential vs. commercial end use, and GENERIC_NOUN['housing'] is deliberately 'the development, rezoning, or housing-policy item' (not 'housing') for exactly this reason — so whatAYeaDid's own explicit 'commercial development' wording is not a contradiction of the housing tag, it's the correct disclosure alongside it. axis=application-approval/expansive correct (BE DIRECTED to process = AFFIRM_RE, no denial). No stance verbs, no reading-voice issue. Confirmed."
+ },
+ {
+  "id": "5d477f5ee6e3",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, at Council, the introduction to part b) of the gaming-site expansion item, approving entertainment options allowing up to 1,200 slots at a casino and up to 50 live table games within the City of London's jurisdiction.",
+  "confidence": "high",
+  "quote": "Approve the introduction included in part b), as follows: b) the expansion of a gaming site to include entertainment options that would allow for up to 1,200 slots at a casino, and up to 50 live table games, within the jurisdiction of The Corporation of the City of London, BE ENDORSED;",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "ecaacdfa7fea",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, at Council, the remainder of part b) of the gaming-site expansion item, noting that the City of London prefers an expanded gaming location at the Western Fair District.",
+  "confidence": "high",
+  "quote": "Approve the remainder of part b), as follows: it being noted that The Corporation of the City of London prefers an expanded location at the Western Fair District;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council-level twin of d4fb52172efe (gaming, not tracked). Quote verbatim. Confirmed."
+ },
+ {
+  "id": "b8f18e2583cb",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved, at Council, part c) of the gaming-site expansion item, directing the Civic Administration to report back on how some or all of the incremental revenues from expanded gaming could be allocated to prevent, reduce, or mitigate problem-gambling harms in the Zone SW 4 bundle, including fostering a partnership between the local community and the gaming operator.",
+  "confidence": "high",
+  "quote": "Approve part c) as follows: c) the Civic Administration BE DIRECTED to report back on how some or all of the incremental revenues from expanded gaming, paid to The Corporation of the City of London according to the contribution agreement with the Ontario Lottery and Gaming Corporation, could be allocated to prevent, reduce or mitigate harms in the Zone SW 4 bundle from problem gambling, including fostering a partnership between the local community and the gaming operator; and",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council-level twin of 4db95eb2352a; informational_ask correctly null. Confirmed."
+ },
+ {
+  "id": "917beb1f0f47",
+  "issue": "transit",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred, at Council, the Bus Rapid Transit Environmental Assessment Initiative staff report, presentation, and a communication from C. Butler to the May 7, 2018 Strategic Priorities and Policy Committee meeting for consideration and debate, to allow additional time for public and Council review.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a) the staff report dated April 23, 2018, entitled “Bus Rapid Transit – Environmental Assessment Initiative”, together with the associated presentation made by the Project Director, Rapid Transit Implementation at the April 23, 2018 meeting of the Strategic Priorities and Policy Committee, as well as the communication dated April 12, 2018, from C. Butler, BE REFERRED to the May 7, 2018 meeting of the Strategic Priorities and Policy Committee for consideration and debate, in order to allow additional time for the public and the Council Members to review the information; and",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Council-level twin of 61626d6fbbff (BRT referral); correctly null. Confirmed."
+ },
+ {
+  "id": "1ea7dcbc0bf7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to the Community and Protective Services Committee on the potential administration of a transient tax on short term rentals, and requested a further report back with a status update on short term rentals in London in approximately one year.",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the following actions be taken with respect to Short Term Accommodations: a) the staff report dated May 1, 2018 BE RECEIVED; b) the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with respect to the potential administration of transient tax on short term rentals; and, c) the Civic Administration BE REQUESTED to report back to the CPSC with respect to an update on the status of short term rentals in London, in approximately one year; it being noted that communications from C. Keeling, C. Robichaud and T. McBride were received with respect to this matter. (2018-S11)",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Short-term-rental report-back/update ask; 'short term rental' is not in the housing keyword list, and the clause is informational_ask regardless. Correctly none/null. Confirmed."
+ },
+ {
+  "id": "14f5718032e0",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred clause 2.1 of the 4th Report of the Animal Welfare Advisory Committee back to that Committee for consultation with parties currently conducting a similar campaign in London to confirm efforts are not duplicated, and received the remaining clauses of the Report.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to the 4th Report of the Animal Welfare Advisory Committee from its meeting held on April 5, 2018: a) clause 2.1 of the Report BE REFERRED back to the Animal Welfare Advisory Committee for consultation with parties currently conducting a similar campaign in London to confirm that efforts are not duplicated; and, b) clauses 1.1, 3.1, 3.2, 4.1, 5.1, 5.2 and 6.1, BE RECEIVED.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Animal Welfare Committee referral; not a tracked issue. Confirmed."
+ },
+ {
+  "id": "48519a73673e",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined to amend the Business Licensing By-law L.-131-16 to permit substituting an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street for a proposed location at 802 Exeter Road.",
+  "confidence": "high",
+  "quote": "That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street to a proposed location at 802 Exeter Road; it being noted that the attached presentation from O. Katolyk, Chief Municipal Law Enforcement Officer, was received with respect to this matter; it being further noted that a communication from M. Quarcoopome, Weston Consulting, was received with respect to this matter; it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made an oral submission regarding this matter. (2018-P09)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Adult Entertainment Parlour relocation declined — not a tracked issue (business licensing), so the 'relocations read as support' caution doesn't change anything here. Confirmed."
+ },
+ {
+  "id": "f93d13a026d8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted a four percent (4%) Municipal Accommodation Tax on the purchase price of transient accommodation in the City of London effective October 1, 2018, directed the Civic Administration to bring back the required by-laws and agreements, and approved key principles for establishing the tax and for the use and monitoring of Tourism London's share of the revenue.",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax (formerly “transient accommodation tax”): a) a four percent (4%) Municipal Accommodation Tax (MAT) on the purchase price of transient accommodation in the City of London BE ADOPTED effective October 1, 2018; b) the Civic Administration BE DIRECTED to bring back the required by-laws and agreements referenced in c) through f) below for approval by Municipal Council prior to implementation of the Municipal Accommodation Tax; c) the key principles included in Appendix A to the staff report dated May 7, 2018, with respect to establishing a tax on the purchase of municipal accommodation in the City of London, BE ENDORSED; it being noted that these key principles will be included in the by-law; e) the key principles included in Appendix C to the staff report dated May 7, 2018, with respect to the use and monitoring of funds from the Municipal Accommodation Tax received by Tourism London, as the eligible tourism entity in the City of London, BE ENDORSED; it being noted that these key principles will be included in an agreement between the Corporation of the City of London and Tourism London; and it being also noted that the Strategic Priorities and Policy Committee received a communication dated April 20, 2018, and heard a verbal presentation, from J. Winston, General Manager, Tourism London, with respect to this matter.",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "a2f1c1855785",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the letter of resignation from S. Campbell from the London Middlesex Housing Corporation Board of Directors, and directed that three additional individuals (Anna Marie Evans, Steve Hillier, and Rodger J. Moran) be interviewed by the Corporate Services Committee for the two current Board vacancies.",
+  "confidence": "high",
+  "quote": "That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors: a) the letter of resignation appended to the staff report dated May 7, 2018 as Appendix A from S. Campbell, effective April 27, 2018 BE RECEIVED; and b) the following individuals BE INTERVIEWED by the Corporate Services Committee (CSC), in addition to the individuals already approved for interview by the CSC, to potentially fill the two current vacancies: - Anna Marie Evans - Steve Hillier - Rodger J. Moran",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Housing-corporation board resignation + interview candidates is a personnel/appointment matter, not a housing-policy vote; correctly issue=none. Confirmed."
+ },
+ {
+  "id": "c11689ada789",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved the provision of supervised consumption services at 241 Simcoe Street and 446 York Street, subject to the properties meeting the criteria for siting a supervised consumption facility under Council's \"Siting of Supervised Consumption Facilities (SCF) and Temporary Overdose Prevention Sites (TOPS)\" policy.",
+  "confidence": "high",
+  "quote": "The motion to Approve part b) is put. b) the provision of supervised consumption services at: i) 241 Simcoe St BE ENDORSED subject to the properties meeting the criteria for the location of supervised consumption facility in accordance with Council policy \"Siting of Supervised Consumption Facilities (SCF) and Temporary Overdose Prevention Sites (TOPS)\";and; ii) 446 York St BE ENDORSED subject to the properties meeting the criteria for the location of supervised consumption facility in accordance with Council policy \"Siting of Supervised Consumption Facilities (SCF) and Temporary Overdose Prevention Sites (TOPS)\";",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "bf990e1bb5e8",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Would have amended part c) of the Short Term Accommodations item to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments addressing short-term-rental licensing, zoning, and taxation, with a focus on health/safety and residential stability; this failed.",
+  "confidence": "high",
+  "quote": "That Item 4.2 BE AMENDED in part c) to direct staff to hold a public participation meeting before the Community and Protective Services Committee on draft by-law amendments to a number of by-laws, to address licensing, zoning and taxation issues with a focus on the municipal purposes of health / safety and residential stability",
+  "flags": [
+   "procedural"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "FAILED STR amendment, correctly hedged 'Would have amended...this failed', polarity null; STR not in housing keyword list anyway. Confirmed."
+ },
+ {
+  "id": "1b0dfaa7cf04",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to report back to the Community and Protective Services Committee on the potential administration of a transient tax on short term rentals.",
+  "confidence": "high",
+  "quote": "The motion to approve part b) is put. b) the Civic Administration BE DIRECTED to report back to the Community and Protective Services Committee (CPSC) with respect to the potential administration of transient tax on short term rentals; and,",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "STR report-back informational_ask, correctly null. Confirmed."
+ },
+ {
+  "id": "c3611abb06c7",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Requested the Civic Administration to report back to the Community and Protective Services Committee with a status update on short term rentals in London in approximately one year, noting communications received from C. Keeling, C. Robichaud, and T. McBride.",
+  "confidence": "high",
+  "quote": "The motion to approve part c) is put. c) the Civic Administration BE REQUESTED to report back to the CPSC with respect to an update on the status of short term rentals in London, in approximately one year; it being noted that communications from C. Keeling, C. Robichaud and T. McBride were received with respect to this matter. (2018-S11)",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "STR status-update informational_ask, correctly null. Confirmed."
+ },
+ {
+  "id": "ecf7387b2a56",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Declined, at Council, to amend the Business Licensing By-law L.-131-16 to permit substituting an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street for a proposed location at 802 Exeter Road.",
+  "confidence": "high",
+  "quote": "That NO AMENDMENT BE MADE to the Business Licensing By-law L.-131-16 with respect to the application made to substitute an existing licensed Adult Entertainment Parlour location at 2010 Dundas Street to a proposed location at 802 Exeter Road; it being noted that the attached presentation from O. Katolyk, Chief Municipal Law Enforcement Officer, was received with respect to this matter; it being further noted that a communication from M. Quarcoopome, Weston Consulting, was received with respect to this matter; it being pointed out that at the public participation meeting associated with these matters, the individuals indicated on the attached public participation meeting record made an oral submission regarding this matter. (2018-P09)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Council-level twin of 48519a73673e. Quote verbatim identical. Confirmed."
+ },
+ {
+  "id": "e4e7a8cfc7af",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the North Leg of the Bus Rapid Transit preliminary engineering design (dedicated centre-running transit lanes from Queens Avenue to just south of Fanshawe Park Road), filed the Notice of TPAP Commencement, put the BRT project forward for federal Public Transit Infrastructure Stream funding, directed the Civic Administration to submit the funding application, and authorized the Mayor, City Clerk, and Civic Administration to execute related contracts and administrative acts.",
+  "confidence": "high",
+  "quote": "Motion to approve parts a)i), b), c), d), g) and h) That on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the concurrence of the Managing Director, Corporate Services and City Treasurer, the following actions be taken with respect to the Bus Rapid Transit Environmental Assessment Initiative: a)i) North Leg, north of Queens Avenue, consisting of dedicated centre-running transit lanes on Clarence Street, Richmond Street, University Drive, Lambton Drive, Western Road and Richmond Street to just south of Fanshawe Park Road; b) the Notice of TPAP Commencement, appended to the staff report dated April 23, 2018 as Appendix B, BE FILED with the Municipal Clerk; c) the Bus Rapid Transit Project BE SUPPORTED for funding application under Ontario’s Infrastructure Plan for Federal Government funding under the Public Transit Infrastructure Stream; d) the Civic Administration BE DIRECTED to take all necessary steps to submit the City of London’s application for funding; g) the Mayor and City Clerk BE AUTHORIZED to execute any contract or other documents, if required, to give effect to these recommendations; and h) the Civic Administration BE AUTHORIZED to undertake all the administrative acts that are necessary in connection with this project;",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Verified against source (2018-05-08 Council item 9.1.4, content[1]): quote is verbatim including all six bundled clauses. issue=transit/axis=transit-service/polarity=expansive correct — this is the North Leg BRT design approval plus funding-application authorization. CORRECTED: whatAYeaDid used 'supported the BRT project for federal...funding' — 'supported' is one of the three explicitly banned voter-stance verbs (Supported/Backed/Endorsed) per convention, even though it's lifted directly from the clause's own 'BE SUPPORTED' text; convention bars it regardless of source wording. Reworded to 'put the BRT project forward for...funding' (motion-action voice, same meaning). Also checked for a same-content Committee twin: the SPPC 2018-05-07 meeting held an IDENTICAL 5-motion sequence with identical tallies the night before Council adopted it — a genuine 'committee and Council twin' per convention, but those committee-side ids are not in this batch/manifest, so nothing to fix in this file; flagging for downstream stance-aggregation dedup awareness."
+ },
+ {
+  "id": "6a5591e3a523",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the South Leg of the Bus Rapid Transit preliminary engineering design (dedicated centre-running transit lanes on Wellington Street and Wellington Road, with mixed-traffic operation to the south turnaround).",
+  "confidence": "high",
+  "quote": "Motion to Approve part a)iii) as follows: a)iii) South Leg, south of King Street, consisting of dedicated centre-running transit lanes on Wellington Street and Wellington Road to south of Bradley Avenue, and transit operating in mixed traffic to the south turnaround using Holiday Avenue or the park-and-ride on Exeter Road near Bessemer Road;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (content[2]): quote verbatim, tally 10-2 matches (van Holst, Squire nay). issue/axis/polarity correct (South Leg BRT design approval). No stance verbs. Confirmed."
+ },
+ {
+  "id": "112acf498719",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the East Leg of the Bus Rapid Transit preliminary engineering design (dedicated curbside and centre-running transit lanes from Wellington Street through Dundas Street, Highbury Avenue, and Oxford Street East to Fanshawe College), appointed Infrastructure Ontario to undertake a Procurement Options Analysis and Value for Money Assessment at an estimated cost of $111,142.00 (excluding HST), and approved financing for that assignment.",
+  "confidence": "high",
+  "quote": "Motion to approve part a)ii), e) and f). a)ii) East Leg, east of Wellington Street, consisting of dedicated curbside transit lanes on King Street and Ontario Street, and dedicated centre-running transit lanes on Dundas Street, Highbury Avenue, and Oxford Street East to Fanshawe College; e) Infrastructure Ontario, BE APPOINTED to undertake a Procurement Options Analysis and Value for Money Assessment in accordance with the provided estimate in the amount of $111,142.00 (excluding HST) in accordance with Section 14.3 of the City’s Procurement of Goods and Services Policy; f) the financing for the Infrastructure Ontario assignment BE APPROVED in accordance with the “Sources of Financing Report” appended to the staff report dated April 23, 2018 as Appendix D; it being noted that the Strategic Priorities and Policy Committee (SPPC) received a communication dated April 12, 2018 from C. Butler, a communication dated April 22, 2018 from J. Grainer, President, London Region Branch, Architectural Conservancy Ontario, and a communication dated April 13, 2018 from J. MacDonald, CEO and General Manager, Downtown London, G. Gallacher, Chair, LDBA and D. McCallum, Chair, MainStreet London, with respect to this matter; it being further noted that the SPPC also received the attached presentation from the Project Director, Rapid Transit Implementation.",
+  "flags": [
+   "appointment"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (content[3]): quote verbatim, tally 12-2. Bundles the East Leg BRT design clause with an Infrastructure Ontario procurement appointment ($111,142 assessment) and its financing approval. Per the procurement convention (appointment=null only when procurement IS the whole substance), this motion also carries a genuine substantive transit-design clause, so issue=transit/expansive correctly follows the dominant substantive act rather than reading as a bare appointment; the bundled financing approval reinforces rather than undermines that (a capital-commitment-flavoured clause, not a bare appointment). whatAYeaDid uses 'appointed'/'approved', no banned stance verbs. Confirmed."
+ },
+ {
+  "id": "fba4f09cc043",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the West Leg and Downtown Couplet segments of the Bus Rapid Transit preliminary engineering design (dedicated transit lanes on Riverside Drive and Oxford Street West, mixed-traffic segments on Wharncliffe Road and at the west turnaround, and dedicated curbside transit lanes on the downtown Queens Avenue-Ridout-Clarence-Wellington-King couplet).",
+  "confidence": "medium",
+  "quote": "Motion to approve parts iv) and v) of part a) as follows: a)iv) West Leg, west of the Thames River, consisting of dedicated westbound curbside and eastbound centre-running transit lanes on Riverside Drive, transit operating in mixed traffic on Wharncliffe Road, dedicated centre-running transit lanes on Oxford Street West to Wonderland Road, and transit operating in mixed traffic to the west turnaround using Capulet Walk and Capulet Lane; a)v) The Downtown Couplet, consisting of dedicated curbside transit lanes on Queens Avenue, Ridout Street, Clarence Street, Wellington Street, and King Street;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (content[4]): quote verbatim, tally 11-3 (Morgan joins van Holst/Squire in nay here only). issue=transit correctly wins the 'downtown/transit' tie: the clause's only 'downtown' hit is the engineering label 'The Downtown Couplet' naming a stretch of dedicated TRANSIT lanes, not a downtown-policy substance (no Dundas Place/core-area/downtown-plan content) — issue-rules.ts's own regex tie-break would default to 'downtown' on a raw keyword tie, but the LLM-verified layer is documented as the actual source of truth here, and transit is the substantively correct read. Confirmed."
+ },
+ {
+  "id": "39b1b0373f43",
+  "issue": "transit",
+  "axis": "transit-service",
+  "polarity": "expansive",
+  "whatAYeaDid": "Approved the Recommended Preliminary Engineering Design for the Bus Rapid Transit Network (covering the North, East, South, and West Legs and the Downtown Couplet) to proceed through the Transit Project Assessment Process in accordance with Ontario Regulation 231/08.",
+  "confidence": "high",
+  "quote": "Motion to approve the preamble of part a) as follows: a) the Recommended Preliminary Engineering Design for the BRT Network approved by Council May 16, 2017, as described in parts i) through v), BE APPROVED to proceed through the Transit Project Assessment Process in accordance with Ontario Regulation 231/08;",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (content[5]): quote verbatim, tally 11-2. This is literally the BRT Network's own overarching 'BE APPROVED to proceed through TPAP' clause. issue/axis/polarity correct. Confirmed."
+ },
+ {
+  "id": "a23d07e27219",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Adopted, at Council, a four percent (4%) Municipal Accommodation Tax on the purchase price of transient accommodation in the City of London effective October 1, 2018, directed the Civic Administration to bring back the required by-laws and agreements, and approved key principles for establishing the tax and for the use and monitoring of Tourism London's share of the revenue.",
+  "confidence": "high",
+  "quote": "Motion to approve parts a), b), c) and e). That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax (formerly “transient accommodation tax”): a) a four percent (4%) Municipal Accommodation Tax (MAT) on the purchase price of transient accommodation in the City of London BE ADOPTED effective October 1, 2018; b) the Civic Administration BE DIRECTED to bring back the required by-laws and agreements referenced in c) through f) below for approval by Municipal Council prior to implementation of the Municipal Accommodation Tax; c) the key principles included in Appendix A to the staff report dated May 7, 2018, with respect to establishing a tax on the purchase of municipal accommodation in the City of London, BE ENDORSED; it being noted that these key principles will be included in the by-law; e) the key principles included in Appendix C to the staff report dated May 7, 2018, with respect to the use and monitoring of funds from the Municipal Accommodation Tax received by Tourism London, as the eligible tourism entity in the City of London, BE ENDORSED; it being noted that these key principles will be included in an agreement between the Corporation of the City of London and Tourism London; and it being also noted that the Strategic Priorities and Policy Committee received a communication dated April 20, 2018, and heard a verbal presentation, from J. Winston, General Manager, Tourism London, with respect to this matter.",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "653462c633b1",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred the recommendation to negotiate a Municipal Accommodation Tax collection agreement with the Ontario Restaurant Hotel & Motel Association to the Civic Administration to report back on the implications of the proposed collection model for the City's CUPE Local 101 Collective Agreement.",
+  "confidence": "high",
+  "quote": "Motion to approve part d). the following staff recommendation BE REFERRED to the Civic Administration to report back at a future meeting of the Strategic Priorities and Policy Committee with respect to the implications of the proposed collection model on the provisions of The Corporation of the City of London’s Collective Agreement with CUPE Local 101: “d) the Civic Administration BE DIRECTED to negotiate an agreement with the Ontario Restaurant Hotel & Motel Association (ORHMA) for the collection of the Municipal Accommodation Tax in the City of London and that the key principles included in Appendix B to the staff report dated May 7, 2018 BE ENDORSED; it being noted that these key principles will be included in an agreement between The Corporation of the City of London and ORHMA;”.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "MAT collection-agreement referral to staff re: CUPE implications — genuine referral (DEFER_RE), correctly null; MAT is not 'the tax levy' per convention regardless. Confirmed."
+ },
+ {
+  "id": "da333e1ae995",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Approved key principles for establishing a new reserve fund to receive and distribute the City's net 50% share of revenue from the Municipal Accommodation Tax, to be incorporated into a reserve fund by-law.",
+  "confidence": "high",
+  "quote": "Motion made to Approve part f). f) the key principles included in Appendix D to the staff report dated May 7, 2018, for the establishment of a new reserve fund for the purposes of receiving and distributing the City’s net 50% share of revenue from the Municipal Accommodation Tax, BE ENDORSED; it being noted that these key principles will be incorporated into a reserve fund by-law;",
+  "flags": [],
+  "verdict": "corrected",
+  "verifierNote": "Not a tracked-issue vote (issue=none/polarity=null unaffected). CORRECTED whatAYeaDid wording only: the motion's own operative clause literally reads 'BE ENDORSED', but the codified convention explicitly bans 'Endorsed' (with Supported/Backed) as a whatAYeaDid verb regardless of source wording, since it reads as a personal voter-stance claim. Replaced with 'approved' (the corpus's standard safe AFFIRM verb, used throughout this same batch). Quote and classification otherwise verified against source and confirmed correct."
+ },
+ {
+  "id": "354aed0eaf8b",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Received the Civic Works Committee Deferred Matters List as at May 17, 2018.",
+  "confidence": "high",
+  "quote": "That the Civic Works Committee Deferred List, as at May 17, 2018, BE RECEIVED.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Pure receipt of a deferred-matters list. Confirmed."
+ },
+ {
+  "id": "41ab13e93284",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action Plan.",
+  "confidence": "high",
+  "quote": "That the Civic Administration BE DIRECTED to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action Plan.",
+  "flags": [
+   "informational_ask"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Clear-bags investigate/report-back; informational_ask, and 'waste diversion' is not a climate keyword. Correctly none/null. Confirmed."
+ },
+ {
+  "id": "2bf19ea2c512",
+  "issue": "housing",
+  "axis": "application-approval",
+  "polarity": "expansive",
+  "whatAYeaDid": "Introduced a by-law to amend Zoning By-law No. Z.-1 for 1055-1075 Fanshawe Park Road West to add pharmacies (in association with a medical/dental office), clinics, and medical/dental laboratories to the list of permitted uses in the Office Special Provision (OF5(5)) Zone, and to modify the municipal address to which the zone applies, on the application of North London Medical Centre.",
+  "confidence": "medium",
+  "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, based on the application by North London Medical Centre, relating to the property located at 1055-1075 Fanshawe Park Road West, the proposed by-law appended to the staff report dated May 28, 2018, BE INTRODUCED at the Municipal Council meeting to be held on June 12, 2018 to amend Zoning By-law No. Z.-1, (in conformity with the Official Plan), to amend Section 19.4 f) 5) of the Office Special Provision (OF5(5)) Zone to ADD Pharmacies in association with a medical/dental office; Clinics; and Medical/ dental laboratories to the list of permitted uses and to MODIFY the municipal address to which the Zone applies; it being pointed out that at the public participation meeting associated with these matters, the individual indicated on the attached public participation meeting record made an oral submission regarding these matters; it being further noted that the Municipal Council approves this application for the following reasons: - the recommended Zoning By-law Amendment is consistent with the Provincial Policy Statement; - the recommended Zoning By-law Amendment conforms to the 1989 Official Plan; - the recommended uses are within the range of permitted uses contemplated in The London Plan; - the amount of non-residential gross floor area is not anticipated to increase beyond what is currently permitted by the existing Zoning By-law; and - the recommended Zoning By-law Amendment would allow an expanded range of uses that would complement the permitted medical/dental office use within a building that is currently under construction. (2018-D09)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against source (2018-05-28 Planning and Environment Committee, item 3.4): quote verbatim including the full reasons list, nay voter (Helmer) matches. issue=housing correct per the documented Z-code structural rule (itemTitle contains 'Z-8903'); whatAYeaDid correctly discloses 'to add pharmacies... clinics... medical/dental laboratories' rather than overclaiming a housing-supply stance, consistent with GENERIC_NOUN's deliberately broad 'development, rezoning, or housing-policy item' phrasing. axis=application-approval/expansive correct (BE INTRODUCED = AFFIRM_RE, no denial). No stance verbs. Confirmed."
+ },
+ {
+  "id": "9fd6912ced00",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Referred parts 3.2 and 3.4 of the 5th Report of the Accessibility Advisory Committee to a future meeting of the Community and Protective Services Committee for consideration.",
+  "confidence": "high",
+  "quote": "Motion to refer parts 3.2 and 3.4 of the 5th Report of the Accessibility Advisory Committee to a future meeting of the Community and Protective Services Committee for consideration.",
+  "flags": [
+   "referral"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Accessibility Committee referral; not tracked. Confirmed."
+ },
+ {
+  "id": "f6bdf8380e34",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law to establish financial incentive programs, including forgivable loans, for the Hamilton Road Area Community Improvement Project area.",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the Hamilton Road Area Community Improvement Plan Forgivable Loan Program, the proposed by-law appended to the staff report dated June 18, 2018 BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2018 to adopt a by-law to establish financial incentive programs, including forgivable loans, for the Hamilton Road Area Community Improvement Project area. (2018-D19)",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Hamilton Road CIP forgivable-loan by-law introduction — distinct from the 'affordable housing community improvement plan' keyword phrase, correctly not matched as housing. Confirmed."
+ },
+ {
+  "id": "597535dfb456",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Cast one of the recorded votes on the Subdivision Application Procedure item for 3080 Bostwick Road, 3700 Colonel Talbot Road, and 3645 Bostwick Road (a two-part motion covering authorization to accept and process the York Developments applications, and direction to accept and process planning applications for residential growth within the Southwest Area Plan); the source minutes do not preserve this specific vote's own operative text separately.",
+  "confidence": "low",
+  "quote": "",
+  "flags": [
+   "no_text"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Verified against the raw source JSON directly (not just _all-motions.json): motion_texts is genuinely empty '' for this specific roll call (3-2) even in the primary source, confirming no_text is not a scraper artifact. The item's sibling motions (full text + part-a-only) make it highly inferable this is 'part b)' (residential growth, Southwest Area Plan) but ERA NOTES bars inferring from adjacent text/title when the vote's own text is absent — none/null/no_text correctly stands. Confirmed."
+ },
+ {
+  "id": "d55d9316949c",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced a by-law to implement a new \"Designation of Municipally Significant Events Policy\".",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the City Clerk, with the concurrence of the Managing Director, Corporate Services and City Solicitor, the proposed by-law included as Appendix “A” to the staff report dated June 19, 2018 BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2018 to implement a new policy entitled “Designation of Municipally Significant Events Policy”.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "Events-designation policy by-law introduction; not tracked. Confirmed."
+ },
+ {
+  "id": "923aa93843e4",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Introduced by-laws to implement the Municipal Accommodation Tax: a by-law imposing the tax; a by-law approving and authorizing execution of the Municipal Accommodation Tax Collection Agreement with the Ontario Restaurant Hotel & Motel Association; a by-law approving and authorizing execution of the Financial Accountability Agreement with Tourism London; and a by-law establishing the Tourism Infrastructure Reserve Fund to receive and distribute the City's share of MAT revenue.",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax: a) the proposed by-law appended to the staff report dated June 25, 2018 as Appendix A, BE INTRODUCED at the Municipal Council meeting on June 26, 2018, with respect to establishing a tax on the purchase of municipal accommodation in the City of London, entitled “A By-law to Impose a Municipal Accommodation Tax”; b) the proposed by-law appended to the staff report dated June 25, 2018 as Appendix B, BE INTRODUCED at the Municipal Council meeting on June 26, 2018 to: i) approve the Municipal Accommodation Tax Collection Agreement (Schedule 1) representing the Agreement between The Corporation of the City of London and the Ontario Restaurant Hotel & Motel Association (ORHMA) for the collection of the Municipal Accommodation Tax in the City of London; and ii) authorize the Mayor and City Clerk to execute the Agreement approved in b) i) above; c) the proposed by-law appended to the staff report dated June 25, 2018 as Appendix C, BE INTRODUCED at the Municipal Council meeting on June 26, 2018 to: i) approve the Municipal Accommodation Tax Financial Accountability Agreement (Schedule 1) substantially in the form attached and satisfactory to the City Solicitor, representing the Agreement between The Corporation of the City of London and Tourism London regarding the use and monitoring of Tourism London’s share of revenue from the Municipal Accommodation Tax; and ii) authorize the Mayor and City Clerk to execute the Agreement approved in c) i) above; and, d) the proposed by-law appended to the staff report dated June 25, 2018 as Appendix D, BE INTRODUCED at the Municipal Council meeting on June 26, 2018, with respect to establishing a reserve fund for the purposes of receiving and distributing the City of London’s share of revenue from the Municipal Accommodation Tax, entitled “A by-law to establish the Tourism Infrastructure Reserve Fund”.",
+  "flags": [],
+  "verdict": "confirmed",
+  "verifierNote": "MAT implementation by-laws; correctly none per MAT convention. Confirmed."
+ },
+ {
+  "id": "f78431a76885",
+  "issue": "none",
+  "axis": null,
+  "polarity": null,
+  "whatAYeaDid": "Directed the Civic Administration to implement Option #2 of the Free of Fear Services for All Policy, as outlined in the June 25, 2018 staff report, with the cost to be accommodated within the approved operating budget.",
+  "confidence": "high",
+  "quote": "That, on the recommendation of the Managing Director, Housing, Social Services and Dearness Home, the following actions be taken with respect to London adopting a Free of Fear Services for All Policy: a) the commitment to ensuring access to municipal services free of fear to non-status immigrants or immigrants with uncertain status BE AFFIRMED; b) the initiative of providing access to municipal services to non-status immigrants or immigrants with uncertain status BE DESIGNATED as “Free of Fear Services for All”; c) the by-law as appended to the staff report dated June 25, 2018, BE INTRODUCED at the Municipal Council meeting to be held on June 26, 2018 to adopt the Council Policy entitled “Free of Fear Services for All”; d) the Civic Administration BE DIRECTED to implement Option #2 as outlined in the staff report date June 25, 2018; it being noted that the cost of this option will be accommodated within the approved operating budget; and, e) the Civic Administration BE DIRECTED to report back on the results of research and any anticipated long-term program costs as a result of implementing this policy.",
+  "flags": [
+   "informational_ask",
+   "wrapper_preamble"
+  ],
+  "verdict": "confirmed",
+  "verifierNote": "Free of Fear Services for All policy; not a tracked issue. Confirmed."
+ }
+]
