@@ -977,3 +977,125 @@ The meeting adjourned at 5:06 PM.
 
 ****
 
+---
+
+## Votes
+
+*10 substantive votes at this meeting (2 contested, 8 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Planning and Environment Committee Agenda BE APPROVED, to provide for Items # 6.1 and 6.2 in Stage 6, Confidential, to be considered before Stage #2, Consent.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2. Consent
+
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> That Items 2.1, 2.2, 2.4 and 2.5 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. 725 Notre Dame Drive - Z-26073
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Wastell Homes relating to the property located at 725 Notre Dame Drive: a)    the proposed by-law as appended to the staff repot dated September 9, 2026, as App...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 2.3. 725 Notre Dame Drive - Z-26073
+
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
+> That the delegation request from D. Stegelmann, D. Vanderbrink and L. Ward, as appended to the Added Agenda, be heard at this time.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 3.3. 299-307 Sarnia Road - Z-26076
+
+<div id="motion-3-3-1" class="motion-anchor"></div>
+
+> That the motion BE AMENDED to include:     that the Civic Administration BE DIRECTED to bring forward a revised by-law to the Municipal Council meeting to be held on September 22, 2026, to increase the recommended setback allowing for the incorporation of 13.3 m to the interior side and 12.8 m fo...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.3. 299-307 Sarnia Road - Z-26076
+
+<div id="motion-3-3-2" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 3.4. 1766 Wilton Grove Road - OZ-26083
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Dancor Constructing Ltd. relating to the property located at 1766 Wilton Grove Road: a)    the proposed by-law as appended to the staff report dated September 9...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.7. 767 Fanshawe Park Road East and 679 Dunboyne Crescent - SPA-26030
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application of Nine Eyes Capital Partners Ltd / 767 Fanshawe LP relating to the property located at 767 Fanshawe Park Road East & 679 Dunboyne Crescent: a)    the Planning and...
+
+**✅ Motion Passed (3 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (3):** [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Steve Lehman](/councillors/current/s-lehman)
+
+**Nay (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+**Absent (1):** [Susan Stevenson](/councillors/current/s-stevenson)
+
+</details>
+
+### 4.1. Councillor S. Franke – Permeable Driveway Surfaces
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to undertake a review of opportunities to incorporate permeable driveway surfaces into the Zoning By-law's driveway regulations, or as part of the green development framework, and report back to the appropriate Standing Committee on: i)    potential defin...
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+
+### 4.1. Councillor S. Franke – Permeable Driveway Surfaces
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
+> That the delegation request from M. Wallace, as appended to the Added Agenda, be heard at this time.
+
+**✅ Motion Passed (4 to 0)**
+
+Unanimous (4-0)
+

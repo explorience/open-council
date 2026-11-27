@@ -2243,6 +2243,8 @@ Passed
 ### 11#2. Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
 
+<div id="motion-11-2-2" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -2258,6 +2260,8 @@ Passed
 
 ### 11#2. Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+<div id="motion-11-2-3" class="motion-anchor"></div>
 
 > The   motion to Approve part a) of clause 11 is put.
 
@@ -2275,6 +2279,8 @@ Passed
 ### 11#2. Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
 
+<div id="motion-11-2-4" class="motion-anchor"></div>
+
 > The   motion to Approve part b) of clause 11 is put.
 
 **✅ Motion Passed**
@@ -2283,6 +2289,8 @@ Unanimous (15-0)
 
 ### 11#2. Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+<div id="motion-11-2-5" class="motion-anchor"></div>
 
 > The   motion to Approve parts c) and d) of clause 11 is put.
 
@@ -2299,6 +2307,8 @@ Unanimous (15-0)
 
 ### 11#2. Integrity Commissioner, Council Code of
   Conduct, Voluntary Disclosure, and Lobbyist Registry
+
+<div id="motion-11-2-6" class="motion-anchor"></div>
 
 > The   motion to Approve part e) of clause 11 is put.
 
@@ -2319,6 +2329,8 @@ Unanimous (15-0)
   for Consideration with clause 11 of the 24th Report of the Finance and
   Administrative Services Committee.)
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2327,6 +2339,8 @@ Unanimous (15-0)
 
 ### 3#3. Property located at
   1139 Fanshawe Park Road West (39T-04503)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That the request for a three year extension   of the draft plan of subdivision, submitted by Claybar Developments Inc., for   the property located at 1139 Fanshawe Park Road West, BE REFERRED to a future   meeting of the Planning and Environment Committee to provide an opportunity   for the appli...
 
@@ -2339,6 +2353,8 @@ Unanimous (15-0)
   Corporate Human Rights Program, Code of Conduct Program and Corporate
   Training Initiatives as of June 30, 2012
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > Amend clause 3 by deleting part b) in its   entirety and by replacing it with the following new part b) in order to   comply with established process for amending a Council Policy:   “b)       the   attached proposed by-law BE INTRODUCED at the Municipal Council   meeting on September 18, 2012 to...
 
 **✅ Motion Passed**
@@ -2349,6 +2365,8 @@ Unanimous (15-0)
   Corporate Human Rights Program, Code of Conduct Program and Corporate
   Training Initiatives as of June 30, 2012
 
+<div id="motion-3-5-1" class="motion-anchor"></div>
+
 > The motion to adopt clause 3, as amended,   is put.
 
 **✅ Motion Passed**
@@ -2358,6 +2376,8 @@ Unanimous (15-0)
 ### III. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTEENTH MEETING HELD ON AUGUST 28, 2012
 
+<div id="motion-iii-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Fifteenth   Meeting held on August 28, 2012.
 
 **✅ Motion Passed**
@@ -2365,6 +2385,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XI. EMERGENT MOTIONS
+
+<div id="motion-xi-0" class="motion-anchor"></div>
 
 > Approve leave for the introduction of an   emergent motion related to demolition at the old McCormick factory damaged by   fire.
 
@@ -2381,6 +2403,8 @@ Unanimous (15-0)
 
 ### XI. EMERGENT MOTIONS
 
+<div id="motion-xi-1" class="motion-anchor"></div>
+
 > Approve that Civic Administration be   directed to take the necessary steps to remove the damaged portion at the   rear of the property at 1156 Dundas Street.
 
 **❌ Motion Failed**
@@ -2396,6 +2420,8 @@ Unanimous (15-0)
 
 ### XI. EMERGENT MOTIONS
 
+<div id="motion-xi-2" class="motion-anchor"></div>
+
 > Approve leave for the introduction of   an emergent motion related to the removal of trees in Kains Woods.
 
 **✅ Motion Passed**
@@ -2403,6 +2429,8 @@ Unanimous (15-0)
 Unanimous (13-0)
 
 ### XI. EMERGENT MOTIONS
+
+<div id="motion-xi-3" class="motion-anchor"></div>
 
 > Approve that the Managing Director,   Planning and City Planner BE REQUESTED to report back to the Planning   and Environment Committee with respect to the City of London’s policies and   procedures, including enforcement, for best forest management practices,   particularly considering the recen...
 
@@ -2412,6 +2440,8 @@ Unanimous (14-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Approve   1st reading of Bill Nos. 365 to 393, inclusive.
 
 **✅ Motion Passed**
@@ -2419,6 +2449,8 @@ Unanimous (14-0)
 Unanimous (14-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve   2nd reading of Bill Nos. 365 to 393, inclusive.
 
@@ -2428,6 +2460,8 @@ Unanimous (14-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-2" class="motion-anchor"></div>
+
 > Approve   3rd reading of Bill Nos. 365 to 393, inclusive.
 
 **✅ Motion Passed**
@@ -2436,6 +2470,8 @@ Unanimous (14-0)
 
 ### 14. Bicycles on
   Sidewalks
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Amend clause 14 to add a new   part b) directing the Civic Administration to report back on the following:   i)               the   possibility of also permitting individuals over 65 years of age to ride   bicycles on City sidewalks;    ii)              restricting   the riding of bicycles on sid...
 
@@ -2453,6 +2489,8 @@ Unanimous (14-0)
 ### 14. Bicycles on
   Sidewalks
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2469,6 +2507,8 @@ Unanimous (14-0)
 ### 15. Concerns with
   London Hydro
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > That the communication from Todor Ivanov,   264 Brunswick Crescent, with respect to his concerns about London Hydro BE   REFERRED to London Hydro Inc., for its consideration; it being noted that the   Civic Works Committee did not grant delegation status to Mr. Ivanov.   (2012-W12-00)
 
 **✅ Motion
@@ -2478,6 +2518,8 @@ Unanimous (15-0)
 
 ### 17. Letter of Support
   for Childhood Cancer Awareness Month
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the Mayor BE REQUESTED to write a   letter to Childcan in support of Childhood Cancer Awareness Month. (See   communication attached.)
 

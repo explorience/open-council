@@ -584,6 +584,8 @@ The meeting adjourned at 6:49 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -591,6 +593,8 @@ The meeting adjourned at 6:49 PM.
 Unanimous (5-0)
 
 ### 3.3. 1420 Hyde Park Road (O-9422/Z-9423)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Planning and Development, the following actions be taken with respect to the application by Hyde Construction (c/o Pete Hyde), relating to the property located at 1420 Hyde Park Road: a) the proposed by-law appended to the staff report dated March 7, 2...
 

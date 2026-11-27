@@ -339,6 +339,8 @@ The
 ### 2. 8th Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -348,6 +350,8 @@ Unanimous (3-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -359,6 +363,8 @@ Unanimous (3-0)
 ### 4. Closing Part of
   Concept Drive
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -368,6 +374,8 @@ Unanimous (3-0)
 
 ### 5. Closing Part of the
   Unnamed Road Allowance on Sarnia Road
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -380,6 +388,8 @@ Unanimous (3-0)
   Project-Braesyde and Dengate Infrastructure Replacement Detailed Design and
   Tendering Appointment of Consulting Engineer
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -389,6 +399,8 @@ Unanimous (3-0)
 
 ### 7. 5th Report of the
   Cycling Advisory Committee
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -400,6 +412,8 @@ Unanimous (3-0)
 ### 8. Parking Regulation
   Changes
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -409,6 +423,8 @@ Unanimous (3-0)
 
 ### 9. Sharp Curve North
   End of Proudfoot Lane
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -420,6 +436,8 @@ Unanimous (3-0)
 ### 10. Installation of
   Traffic Control Measures at Hyde Park Road and South Carriage Road
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -428,6 +446,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 11. Parking Regulation Amendment
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -438,6 +458,8 @@ Unanimous (3-0)
 
 ### 12. (ADDED) Civic Works Committee Meeting –
   November 17, 2014
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -523,6 +523,8 @@ The meeting adjourned at 8:55 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -530,6 +532,8 @@ The meeting adjourned at 8:55 PM.
 Unanimous (6-0)
 
 ### 3.3. Public Participation Meeting - Planning for Supervised Consumption Facilities and Temporary Overdose Prevention Sites (OZ-8852)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the application by The Corporation of the City of London, relating to Planning for Supervised Consumption Facilities and Temporary Overdose Prevention Sites: a)         ...
 
@@ -539,6 +543,8 @@ Unanimous (5-0)
 
 ### 4.3. Hamilton Road Business Improvement Area Authorization to Initiate Creation
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, with the concurrence of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken regarding the establishment of the Hamilton Road Business Improvement Area...
 
 **✅ Motion Passed (5 to 0)**
@@ -547,6 +553,8 @@ Unanimous (5-0)
 
 ### 4.4. Expansion of and, Amendments to, By-law CP-1 - Old East Village Business Improvement Area
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, with the concurrence of the Managing Director, Corporate Services and City Treasurer, the following actions be taken regarding the Old East Village Business Improvement Area request for expansion: a)            the p...
 
 **✅ Motion Passed (5 to 0)**
@@ -554,6 +562,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.5. Request for Delegation Status - C. Linton, Developro Land Services Inc. - Riverbend Meadows Phase 3
+
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the request from C. Linton, Developro Land Services Inc., for delegation status relating to Riverbend Meadows Phase 3, BE REFERRED to the Managing Director, Development and Compliance Services and Chief Building Official to review and to determine the appropriate process to be undertaken.  (...
 

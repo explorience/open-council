@@ -81,6 +81,8 @@ Motion
 ### 2. ReThink London – The London Plan
   – Development of a New Official Plan for the City of London
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion

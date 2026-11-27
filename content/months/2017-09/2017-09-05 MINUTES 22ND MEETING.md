@@ -3067,6 +3067,8 @@ Passed
 ### 11#2. Property located at
   2426 Wickerson Road (OZ-8783) (Relates to Bill Nos. 396 and 407)
 
+<div id="motion-11-2-0" class="motion-anchor"></div>
+
 > Approve that parts b) and c) of clause 11   be amended to read as follows:   “b)       the   proposed revised by-law attached as Appendix "B" BE INTRODUCED at   the Municipal Council meeting to be held on September 5, 2017 to amend Zoning   By-law No. Z.-1, (in conformity with the Official Plan a...
 
 **✅ Motion Passed**
@@ -3075,6 +3077,8 @@ Unanimous (14-0)
 
 ### 11#2. Property located at
   2426 Wickerson Road (OZ-8783) (Relates to Bill Nos. 396 and 407)
+
+<div id="motion-11-2-1" class="motion-anchor"></div>
 
 > Approve clause 11, as amended.
 
@@ -3086,6 +3090,8 @@ Unanimous (14-0)
   from Industrial Sources (Focus on Odour) and Potential Municipal Actions
   (Primarily South of Highway 401)
 
+<div id="motion-16-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Development & Compliance Services and Chief Building Official   and the Managing Director, Environmental & Engineering Services and City   Engineer, the following actions be taken with respect to current and   potential odour challenges from...
 
 **✅ Motion Passed**
@@ -3094,6 +3100,8 @@ Unanimous (12-0)
 
 ### 3#3. LAV III Monument
   Agreements (Relates to Bill Nos. 393 and 394)
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Community and Economic Innovation, the following actions be taken   with respect to the execution of agreements related to the purchase and   location of a LAV III Public Art Monument:   a)         the   by-law, as appended to the staff report dated ...
 
@@ -3104,6 +3112,8 @@ Unanimous (14-0)
 ### 5#4. Joint Use Agreement
   with Western University - Conduit Pathways (Relates to Bill No.392)
 
+<div id="motion-5-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the   Director, Information Technology Services, the following actions be taken   with respect to a Joint Use Agreement (JUA) between the University of Western   Ontario and The Corporation of the City of London for the University’s access   to City of London-owned ...
 
 **✅ Motion Passed**
@@ -3112,6 +3122,8 @@ Unanimous (11-0)
 
 ### 8#2. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
+
+<div id="motion-8-2-1" class="motion-anchor"></div>
 
 > At 5:25 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:30 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -3129,6 +3141,8 @@ Unanimous (11-0)
 ### 8#2. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
 
+<div id="motion-8-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3145,6 +3159,8 @@ Unanimous (11-0)
 ### 8#2. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
 
+<div id="motion-8-2-3" class="motion-anchor"></div>
+
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of clause 3 of the 11th Report of the Community and Protective   Services Committee, having to do with the LAVIII Monument Agreements, to be   dealt with at this time.
 
 **✅ Motion Passed**
@@ -3153,6 +3169,8 @@ Unanimous (12-0)
 
 ### 9#3. Appointment to the
   London Hydro Board of Directors (Relates to Bill No. 411)
+
+<div id="motion-9-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Corporate Services Committee, the attached proposed by-law (Appendix   “A”) BE INTRODUCED at the Municipal Council meeting to be held September 5,   2017 to:   a)         ratify   and confirm the Resolution of the Shareholder of London Hydro Inc., attached   a...
 
@@ -3164,6 +3182,8 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIRST MEETING HELD ON  AUGUST 22,
   2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Twenty-First Meeting   held on August 22, 2017.
 
 **✅ Motion Passed**
@@ -3172,6 +3192,8 @@ Unanimous (14-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-6" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 410.
 
@@ -3189,6 +3211,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-7" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No. 410.
 
 **✅ Motion Passed**
@@ -3204,6 +3228,8 @@ Unanimous (14-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-8" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 410.
 
@@ -3225,6 +3251,8 @@ Unanimous (14-0)
   Committee Stage for Consideration with Clause 21 of the 16th Report of the
   Planning and Environment Committee )
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3233,6 +3261,8 @@ Unanimous (14-0)
 
 ### 20. Properties located
   at 598, 600, 604 and 608 Springbank Drive (SPA17-028)
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Approve an amendment to add a new part   d), as follows:   "d)         the Civic Administration BE DIRECTED to consider the planting of   appropriate trees along the boulevard;"
 
@@ -3243,6 +3273,8 @@ Unanimous (14-0)
 ### 20. Properties located
   at 598, 600, 604 and 608 Springbank Drive (SPA17-028)
 
+<div id="motion-20-1" class="motion-anchor"></div>
+
 > Approve clause 20, as amended.
 
 **✅ Motion Passed**
@@ -3252,6 +3284,8 @@ Unanimous (14-0)
 ### 21. Properties located
   at 32, 36 and 40 York Street and Part of 330 Thames Street (OZ-8789) (Relates
   to Bill No. 410)
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Approve that clause 21 be amended as   follows:   a)         in   part a) i) B) III) by removing the word “northwest” and by replacing it with   the word “southwest”; and   b)         in   part a) ii) B) II) by removing the word “northwest” and by replacing it with   the words “southwest”.
 
@@ -3270,6 +3304,8 @@ Unanimous (14-0)
   at 32, 36 and 40 York Street and Part of 330 Thames Street (OZ-8789) (Relates
   to Bill No. 410)
 
+<div id="motion-21-1" class="motion-anchor"></div>
+
 > Approve clause 21, as amended.
 
 **✅ Motion Passed**
@@ -3285,6 +3321,8 @@ Unanimous (14-0)
 
 ### 23. Definition of
   Supervised Injection Sites
+
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > That the Managing Director, Planning and   City Planner BE DIRECTED to examine the use definition of supervised   injection sites in the Zoning By-law and how this will be distinguished from   the broader Zoning By-law use "clinic";   it being noted that the Planning and   Environment Committee r...
 

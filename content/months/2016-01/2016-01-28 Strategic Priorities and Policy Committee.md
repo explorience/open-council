@@ -315,6 +315,8 @@ Motion Passed
 ### 2. Downtown
   Infrastructure Planning and Coordination
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -331,14 +333,7 @@ Motion Passed
 ### 2. Downtown
   Infrastructure Planning and Coordination
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 2. Downtown
-  Infrastructure Planning and Coordination
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -349,14 +344,7 @@ Unanimous (15-0)
 ### 2. Downtown
   Infrastructure Planning and Coordination
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 2. Downtown
-  Infrastructure Planning and Coordination
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -366,6 +354,30 @@ Unanimous (15-0)
 
 ### 2. Downtown
   Infrastructure Planning and Coordination
+
+<div id="motion-2-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2. Downtown
+  Infrastructure Planning and Coordination
+
+<div id="motion-2-4" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2. Downtown
+  Infrastructure Planning and Coordination
+
+<div id="motion-2-5" class="motion-anchor"></div>
 
 > Motion Passed
 

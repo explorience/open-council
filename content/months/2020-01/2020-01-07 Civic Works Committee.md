@@ -508,6 +508,8 @@ The meeting adjourned at 1:00 PM.
 
 ### 1.2. Election of Vice-Chair for the term ending November 30, 2020
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > That Councillor E. Peloza BE ELECTED Vice-Chair of the Civic Works Committee for the term ending November 30, 2020.
 
 **✅ Motion Passed (6 to 0)**
@@ -516,6 +518,8 @@ Unanimous (6-0)
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.2 to 2.4, 2.6, 2.8 and 2.9 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -523,6 +527,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.1. 11th Report of the Cycling Advisory Committee
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That the 11th report of the Cycling Advisory Committee (CAC) BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.
 
@@ -539,6 +545,8 @@ Unanimous (6-0)
 
 ### 2.5. Downtown Loop and Municipal Infrastructure Improvements - Appointment of Consulting Engineer
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Downtown Loop and Municipal Infrastructure Improvements:    a)       AECOM Canada Ltd. BE...
 
 **✅ Motion Passed (5 to 1)**
@@ -553,6 +561,8 @@ Unanimous (6-0)
 </details>
 
 ### 2.7. Amendments to the Traffic and Parking By-Law Related School Community Safety Zones
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in the City ...
 
@@ -569,6 +579,8 @@ Unanimous (6-0)
 
 ### 2.10. Amendments to the Traffic and Parking By-Law Related to Lot 10
 
+<div id="motion-2-10-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the proposed by-law, as appended to the staff report dated January 7, 2020, to amend By-law PS-113 entitled, “A by-law to regulate traffic and the parking of motor vehicles in th...
 
 **✅ Motion Passed (6 to 0)**
@@ -576,6 +588,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.3. Municipal Parking Lot 10 - Delegation
+
+<div id="motion-4-3-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from A.M. Valastro.
 
@@ -585,6 +599,8 @@ Unanimous (6-0)
 
 ### 4.3. Municipal Parking Lot 10 - Delegation
 
+<div id="motion-4-3-2" class="motion-anchor"></div>
+
 > Motion to receive the presentation from A.M. Valastro.
 
 **✅ Motion Passed (6 to 0)**
@@ -592,6 +608,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.3. (ADDED) 1st Report of the Cycling Advisory Committee
+
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That the 1st report of the Cycling Advisory Committee BE REFERRED back to the CAC for re-submission to the Civic Works Committee with a completed 2020 work plan for Council consideration and approval.
 
@@ -607,6 +625,8 @@ Unanimous (6-0)
 </details>
 
 ### 6. Adjournment
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 1:00 PM.
 

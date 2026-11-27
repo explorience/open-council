@@ -195,6 +195,8 @@ That it BE NOTED that the Managing Director
 ### 2. London Community
   Garden Program Strategic Plan (2015-2019)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -204,6 +206,8 @@ Unanimous (5-0)
 
 ### 3. Healthy Kids
   Community Challenge and Transfer Payment Agreement
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -215,6 +219,8 @@ Unanimous (5-0)
 ### 4. Middlesex-London in
   motion™ Community Challenge
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -225,6 +231,8 @@ Unanimous (5-0)
 ### 5. 1st Report of the
   City of London and Thames Valley District School Board Liaison Committee
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -234,6 +242,8 @@ Unanimous (5-0)
 
 ### 6. Deferred Matters
   List
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

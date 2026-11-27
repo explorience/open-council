@@ -387,3 +387,48 @@ The meeting adjourned at 1:33 PM.
 
 ****
 
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 3.2. Not to be heard before 1:05 PM - Public Participation Meeting - 2027 Amendments to Consolidated Fees and Charges By-law
+
+<div id="motion-3-2-4" class="motion-anchor"></div>
+
+> That the motion BE AMENDED to revise Schedule 1 of the proposed 2027 Consolidated Fees and Charges By-law, as appended to the staff report dated October 6, 2026 as Appendix “B”, to maintain the existing 2026 rates for City of London delivered registered and drop-in programs for individuals and fa...
+
+**✅ Motion Passed (13 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Peter Cuddy](/councillors/current/p-cuddy), [Susan Stevenson](/councillors/current/s-stevenson), [Jerry Pribil](/councillors/current/j-pribil), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Absent (1):** [David Ferreira](/councillors/current/d-ferreira)
+
+</details>
+
+### 3.2. Not to be heard before 1:05 PM - Public Participation Meeting - 2027 Amendments to Consolidated Fees and Charges By-law
+
+<div id="motion-3-2-5" class="motion-anchor"></div>
+
+> That the motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+
+### 4.1. Delegated Authority Transparency - Councillor S. Stevenson
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to report back to a future meeting of the Strategic Priorities and Policy Committee with a jurisdictional scan of other municipalities' best practices and recommendations on how to provide the highest level of transparency and public reporting on decision...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (14-0)
+

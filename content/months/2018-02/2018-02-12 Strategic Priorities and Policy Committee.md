@@ -178,6 +178,8 @@ The meeting adjourned at 5:02 PM.
 ### 2. STAFF REPORT - 2018
   Assessment Growth Funding Allocation
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -191,6 +193,8 @@ The meeting adjourned at 5:02 PM.
 
 ### 3. STAFF REPORT -
   Strategic Plan Progress Variance
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -206,6 +210,8 @@ The meeting adjourned at 5:02 PM.
 ### 4. STAFF REPORT - 2019
   Development Charges (DC) Study - Growth Projections
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -220,6 +226,8 @@ The meeting adjourned at 5:02 PM.
 ### 5. STAFF REPORT - 2019
   Development Charges Background Study: Interim Financing for Growth
   Infrastructure Projects
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 

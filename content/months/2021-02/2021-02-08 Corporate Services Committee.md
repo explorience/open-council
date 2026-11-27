@@ -292,6 +292,8 @@ The meeting adjourned at 1:23 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 to 2.7, excluding item 2.5, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -300,6 +302,8 @@ Unanimous (6-0)
 
 ### 4.1. Application - Issuance of Proclamation - Personal Support Worker Day
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That based on the application dated January 14, 2021, from the Canadian PSW Network, May 19, 2021 BE PROCLAIMED Personal Support Worker (PSW) Day.
 
 **✅ Motion Passed (6 to 0)**
@@ -307,6 +311,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Paid Sick Leave Enhancement
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Federal and Provincial Governments BE ADVISED that the Municipal Council of The Corporation of the City of London requests the two levels of government to work together, as soon as possible, to enhance paid sick leave for all, in order to ensure that individuals are not forced to attend ...
 

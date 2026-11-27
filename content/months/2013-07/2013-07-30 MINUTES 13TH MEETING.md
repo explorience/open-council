@@ -5370,6 +5370,8 @@ Passed
   Guard Program - One-Year Contract with Stinson Security Services Limited -
   Single Source
 
+<div id="motion-11-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer, the   following actions be taken with respect to the School Crossing Guard Program:   a)         the   Single Source contract with Stinson Security Services Limited BE APPROVED in   acc...
 
 **✅ Motion Passed**
@@ -5378,6 +5380,8 @@ Unanimous (12-0)
 
 ### 14#3. 6th Report of the
   London Diversity and Race Relations Advisory Committee
+
+<div id="motion-14-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 6th Report of the London Diversity and Race Relations Advisory   Committee (LDRRAC) from its meeting held on June 20, 2013:   a)         the London Race Relations Award   Policy BE AMENDED as follows:    i)          the   purpose of the Aw...
 
@@ -5395,6 +5399,8 @@ Unanimous (12-0)
 ### 14#3. 6th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<div id="motion-14-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5411,6 +5417,8 @@ Unanimous (12-0)
 ### 15#4. Workplace Diversity
   Statement and Plan Update
 
+<div id="motion-15-4-0" class="motion-anchor"></div>
+
 > Amend part b) to read as follows:   “b)       the   Civic Administration BE DIRECTED to invite the City of London agencies,   boards and commissions to embrace the City’s Workplace Diversity Statement   and to participate in the renewed Diversity Task Force; and”.
 
 **✅ Motion Passed**
@@ -5419,6 +5427,8 @@ Unanimous (12-0)
 
 ### 15#4. Workplace Diversity
   Statement and Plan Update
+
+<div id="motion-15-4-1" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 
@@ -5429,6 +5439,8 @@ Unanimous (12-0)
 ### 16#3. Distracted Driving
   Law: Municipal By-Law to Allow Police to Issue Fine and Seize Cell Phone
 
+<div id="motion-16-3-0" class="motion-anchor"></div>
+
 > Amend clause 16 to add the words   "and Police Chief" following the word "Mayor".
 
 **✅ Motion Passed**
@@ -5437,6 +5449,8 @@ Unanimous (12-0)
 
 ### 16#3. Distracted Driving
   Law: Municipal By-Law to Allow Police to Issue Fine and Seize Cell Phone
+
+<div id="motion-16-3-1" class="motion-anchor"></div>
 
 > Approve clause 16, as amended.
 
@@ -5450,6 +5464,8 @@ Unanimous (12-0)
     Committee Stage for Consideration with Clause 26 of the 17th Report of the
     Planning and Environment Committee.)
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5458,6 +5474,8 @@ Unanimous (12-0)
 
 ### 2#4. Ontario's Safe Drinking
   Water Act, 2002 Standards of Care Provision
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to Ontario’s Safe Drinking Water Act, 2002:   a)         a   communication BE SENT to the Ministry of Environment seeking further   clarification with respect to the individual responsibility with respect to   the Standards of Care Provision;   b...
 
@@ -5475,6 +5493,8 @@ Unanimous (12-0)
 ### 2#7. Neighbourhood Watch
   London
 
+<div id="motion-2-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children and Fire Services, the  following actions   be taken with respect to the funding agreement between The Corporation of the   City of London and Neighbourhood Watch London:   a)         the   Civic Administration BE D...
 
 **✅ Motion Passed**
@@ -5483,6 +5503,8 @@ Unanimous (12-0)
 
 ### 20#2. London Psychiatric
   Hospital Secondary Plan (O-7668)
+
+<div id="motion-20-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the report, dated July 23, 2013,   relating to the decision by the Ontario Municipal Board, concerning the   appeal by Robert Malpass, President of the Fairmont Lawn Bowling Club, on   behalf of the Fairmont Lawn B...
 
@@ -5493,6 +5515,8 @@ Unanimous (12-0)
 ### 20#2. London Psychiatric
   Hospital Secondary Plan (O-7668)
 
+<div id="motion-20-2-1" class="motion-anchor"></div>
+
 > Amend   clause 13 by adding at the end the words “; it being noted that the Municipal   Council supports the establishment of a parkette within this development.”
 
 **✅ Motion Passed**
@@ -5501,6 +5525,8 @@ Unanimous (10-0)
 
 ### 20#2. London Psychiatric
   Hospital Secondary Plan (O-7668)
+
+<div id="motion-20-2-2" class="motion-anchor"></div>
 
 > Approve clause 13, as amended.
 
@@ -5511,6 +5537,8 @@ Unanimous (10-0)
 ### 21#3. Public Notification
   System and Communication Plan for Emergencies
 
+<div id="motion-21-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and Chief Human Resources Officer, the Civic   Administration BE DIRECTED to develop and pursue a request for proposal to   purchase a public notification system. (2013-P03)
 
 **✅ Motion Passed**
@@ -5520,6 +5548,8 @@ Unanimous (12-0)
 ### 21#4. Appointment to the
   London Diversity and Race Relations Advisory Committee
 
+<div id="motion-21-4-0" class="motion-anchor"></div>
+
 > That Janet Tufts BE APPOINTED to the London   Diversity and Race Relations Advisory Committee for the term ending February   28, 2015, as a Non-Voting Member representing the United Way of London and   Middlesex.
 
 **✅ Motion Passed**
@@ -5528,6 +5558,8 @@ Unanimous (10-0)
 
 ### 22#3. Ten Year Review -
   Monitored Surveillance Camera Program
+
+<div id="motion-22-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Division   Manager, Corporate Security and Emergency Management with the concurrence of   the Managing Director, Corporate Services and Chief Human Resources Officer,   the following actions be taken with respect to the Monitored Surveillance   Camera Program:  ...
 
@@ -5545,6 +5577,8 @@ Unanimous (10-0)
 ### 22#3. Ten Year Review -
   Monitored Surveillance Camera Program
 
+<div id="motion-22-3-1" class="motion-anchor"></div>
+
 > Approve reconsideration the actions   of the Municipal Council taken at its meeting of May 14, 2013, related to the   adoption of clause 7 of the 9th Report of the Community and Protective   Services Committee (CPSC), concerning a delegation request from Youth Create   Health Communities, as deta...
 
 **❌ Motion Failed**
@@ -5560,6 +5594,8 @@ Unanimous (10-0)
 
 ### 22#4. Resignation from the
   Accessibility Advisory Committee
+
+<div id="motion-22-4-0" class="motion-anchor"></div>
 
 > That the communication dated June 21, 2013   from Antoinette Dona, resigning her appointment to the Accessibility Advisory   Committee, BE ACCEPTED and Ms. Dona BE THANKED for participating on the   Committee.
 
@@ -5577,6 +5613,8 @@ Unanimous (10-0)
 ### 24#2. Request for
   Consideration of Lifecycle Extension for Limousines
 
+<div id="motion-24-2-0" class="motion-anchor"></div>
+
 > That the communication dated July 18, 2013,   from M. Taylor, Checker Limousine, BE REFERRED to the Civic Administration   for consideration and report back as part of the Taxi By-law report currently   being drafted.
 
 **✅ Motion Passed**
@@ -5585,6 +5623,8 @@ Unanimous (10-0)
 
 ### 3#5. Local Improvement
   Charges - Sherwood Forest Public School
+
+<div id="motion-3-5-0" class="motion-anchor"></div>
 
 > Amend part c) of clause 3 to read as   follows:   "c)       the   Civic Administration BE REQUESTED to meet with the Sherwood Forest community    and the London Muslim Mosque to explore how the City might facilitate the   acquisition of Sherwood Forest School for a community or school use purpose...
 
@@ -5595,6 +5635,8 @@ Unanimous (10-0)
 ### 3#5. Local Improvement
   Charges - Sherwood Forest Public School
 
+<div id="motion-3-5-1" class="motion-anchor"></div>
+
 > Approve clause 3, as amended.
 
 **✅ Motion Passed**
@@ -5603,6 +5645,8 @@ Unanimous (10-0)
 
 ### 4#7. London's Medical
   Innovation and Commercialization Network Vision
+
+<div id="motion-4-7-0" class="motion-anchor"></div>
 
 > At 8:36 PM His Worship the Mayor resumes   the Chair and Councillor D.G. Henderson takes his seat at the Council Board.
 
@@ -5613,6 +5657,8 @@ Unanimous (10-0)
 ### 4#8. Special Strategic Priorities and Policy
   Committee Meeting – Council Member Training and Education Session
 
+<div id="motion-4-8-0" class="motion-anchor"></div>
+
 > That a Special Meeting of the Strategic   Priorities and Policy Committee BE HELD at a future date to be determined   based upon Council Member availability, at an offsite location, for the   purpose of holding an education/training session to assist the Council   Members in defining interpersona...
 
 **✅ Motion Passed**
@@ -5621,6 +5667,8 @@ Unanimous (12-0)
 
 ### 5#3. Physiotherapy
   Services - Dearness Home
+
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > Approve that clause 5 be amended to read   as follows:   That, on the recommendation of the Managing   Director of Housing, Social Services and Dearness Home, the following actions   be taken with respect to the physiotherapy and occupational therapy services   at the Dearness Home:   a)         ...
 
@@ -5631,6 +5679,8 @@ Unanimous (12-0)
 ### 5#3. Physiotherapy
   Services - Dearness Home
 
+<div id="motion-5-3-1" class="motion-anchor"></div>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -5639,6 +5689,8 @@ Unanimous (12-0)
 
 ### 5#4. City of London Days
   - Budweiser Gardens
+
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > Amend clause 5 to read as follows:   That   the following actions be taken with respect to City of London Days at the   Budweiser Gardens:   a)              in accordance with the policy for City events at the   Budweiser Gardens, the following event BE APPROVED as a City of London Day at   the B...
 
@@ -5649,6 +5701,8 @@ Unanimous (12-0)
 ### 5#4. City of London Days
   - Budweiser Gardens
 
+<div id="motion-5-4-1" class="motion-anchor"></div>
+
 > Approve clause 5, as amended.
 
 **✅ Motion Passed**
@@ -5657,6 +5711,8 @@ Unanimous (12-0)
 
 ### 5#6. Solar Project
   Proposal on the Pottersburg Creek Brownfield Property
+
+<div id="motion-5-6-0" class="motion-anchor"></div>
 
 > That David Webb BE GRANTED delegation   status at a future meeting of the Investment and Economic Prosperity   Committee, pertaining to a development proposal for the Pottersburg Creek   Brownfield property, subject to the satisfactory review of the proposal by   the Civic Administration.
 
@@ -5667,6 +5723,8 @@ Unanimous (12-0)
 
 ### 6#5. Succession Plan
 
+<div id="motion-6-5-0" class="motion-anchor"></div>
+
 > That, the Managing Director, Corporate   Services and Chief Human Resources Officer BE DIRECTED to provide a written   report of the September 2013 Audit Committee meeting with respect to   succession planning; it being noted that the Audit Committee received a   verbal update from the Managing D...
 
 **✅ Motion Passed**
@@ -5675,6 +5733,8 @@ Unanimous (12-0)
 
 ### 8#4. Declare Surplus -
   City Owned Property - 337 Ridgewood Avenue
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager   Realty Services, with respect to the vacant City-owned property, municipally   known as 337 Ridgewood Avenue, described as Parts 1, 2, Lot 39, Plan 783,   measuring approximately 55’ X 124’ (16.764 m x 38.054 m), containing an area   of approximately 6...
 
@@ -5685,6 +5745,8 @@ Unanimous (12-0)
 ### 9#3. Ontario Works
   Service Plan 2013-2014
 
+<div id="motion-9-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Housing, Social Services and Dearness Home, the report dated July   22, 2013 with respect to the Ontario Works Service Plan for  2013-2014 BE   RECEIVED for information.   (2013-S04)
 
 **✅ Motion Passed**
@@ -5693,6 +5755,8 @@ Unanimous (10-0)
 
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve  that Council rise and go   into Committee of the Whole in camera, for the purpose of considering the   following:
 
@@ -5703,6 +5767,8 @@ Unanimous (12-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5711,6 +5777,8 @@ Unanimous (12-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE TWELFTH MEETING HELD ON JUNE 25, 2013
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 12th Meeting   held on June 25, 2013.
 
@@ -5721,6 +5789,8 @@ Unanimous (12-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Approve:   1.         That, on the recommendation of   the City Clerk, the following actions be taken with respect to the 2013 Queen   Elizabeth Scholarships:   (a)            notwithstanding   Council Policy 1(3), which provides for Queen Elizabeth Scholarships in the   amount of $2,000 each, to...
 
 **✅ Motion Passed**
@@ -5729,6 +5799,8 @@ Unanimous (12-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve:    2.                    That, on the   recommendation of the City Manager, regarding the lease between the City of   London and Farhi Holding Corporation with respect to Market Tower, located at   151 Dundas Street, the following actions be taken:   a)         the   proposal submitted b...
 
@@ -5740,6 +5812,8 @@ Unanimous (10-0)
   Environmental Assessment Schedule 'B' Study for Pottersburg Creek Slope
   Stability South of Hamilton Road Bridge
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director,   Roads and Transportation, the following actions be taken with respect to the   Pottersburg Creek Slope Stability South of Hamilton Road Bridge Municipal   Class Environmental Assessment (EA) Schedule “B”:   a)         the   Pottersburg Creek Slope St...
 
 **✅ Motion Passed**
@@ -5748,6 +5822,8 @@ Unanimous (12-0)
 
 ### 18. Residential Parking
   Pass Program
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to bring forward the necessary proposed by-law(s) to a public participation   meeting to be held by the Civic Works Committee on August 19, 2013 to give   consideration to deleting the fee exemption for the initial pilot program   area for the Residenti...
 
@@ -5765,6 +5841,8 @@ Unanimous (12-0)
 ### 20. Highway 401/Colonel
   Talbot Intersection
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > That the communication dated July 12, 2013,   from Councillor H. L. Usher and Councillor D. G. Henderson, with respect to   the realignment of Highway 401 at Colonel Talbot Road BE REFERRED back to   staff for a report back to the Civic Works Committee. (2013-T09)
 
 **✅ Motion
@@ -5774,6 +5852,8 @@ Unanimous (12-0)
 
 ### 21. Increased Time on
   Wellington Street Parking Meters - St. Joseph's Hospital
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > That the communication dated June 21, 2013,   from Councillor S. Orser, with respect to a request to consider increasing   the time on the Wellington Street parking meters adjacent to St. Joseph's   Hospital from 2 hours to 6 hours BE REFERRED to staff for a report back to   the Civic Works Commi...
 
@@ -5790,6 +5870,8 @@ Unanimous (12-0)
 
 ### 22. CN/CP Rail Safety
 
+<div id="motion-22-0" class="motion-anchor"></div>
+
 > That the matter of railway safety BE   BROUGHT forward to a future meeting of the appropriate Standing Committee of   Council for the purpose of discussing such matters as traffic flow, how   communities are being protected when dangerous goods are being transported,   and what measures are in pl...
 
 **✅ Motion Passed**
@@ -5798,6 +5880,8 @@ Unanimous (12-0)
 
 ### 25. Properties Located
   at 754 and 764 Waterloo Street and 354 Oxford Street East (Oz-8121)
+
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Amend clause 25 by adding a new part   d)i)VIII) as follows:   “VIII)    consideration   be given to the rooflines so that they are in keeping with the heritage   district;”.
 
@@ -5808,6 +5892,8 @@ Unanimous (12-0)
 ### 25. Properties Located
   at 754 and 764 Waterloo Street and 354 Oxford Street East (Oz-8121)
 
+<div id="motion-25-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -5816,6 +5902,8 @@ Unanimous (12-0)
 
 ### 26. Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
+
+<div id="motion-26-0" class="motion-anchor"></div>
 
 > Amend part b) by deleting everything   following the word "boundary" and by adding a new part c), as   follows:   "c)       staff   to evaluate the lands within the Urban Growth Boundary, and requests beyond,   with a view to not expanding the Urban Growth Boundary but possibly   re-adjusting whe...
 
@@ -5826,6 +5914,8 @@ Unanimous (12-0)
 ### 26. Land Needs
   Background Study for the 2011 Official Plan Review (O-7938)
 
+<div id="motion-26-1" class="motion-anchor"></div>
+
 > Approve clause 26, as amended.
 
 **✅ Motion Passed**
@@ -5834,6 +5924,8 @@ Unanimous (12-0)
 
 ### 28. Property Located at
   13 Blackfriars Street - Request for Delegation Status
+
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > That B. Storonianski, 13 Blackfriars Street   BE DENIED delegation status at a future Planning and Environment Committee   meeting; it being noted that the staff will work with the applicant to try to   resolve this matter.
 

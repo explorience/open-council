@@ -323,6 +323,8 @@ The meeting adjourned at 4:34 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.2 to 2.5 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -330,6 +332,8 @@ The meeting adjourned at 4:34 PM.
 Unanimous (6-0)
 
 ### 2.1. Adelaide Street North/Canadian Pacific Railway Grade Separation Detailed Design & Tendering - Appointment of Consulting Engineer
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions BE TAKEN with respect to the appointment of a Consulting Engineer for the Adelaide Street North at Canadian Pacific Rail Grade Separation from McMahen Street to Ce...
 
@@ -339,6 +343,8 @@ Unanimous (6-0)
 
 ### 2.2. Replacement/Relocation of Watermain on Pond Mills Road to Facilitate Future Highway 401 Overpass at Pond Mills Road Structure Expansion - Consultant Appointment
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of an engineering consultant for design and construction administration for the replacement/relocation of a watermain on P...
 
 **✅ Motion Passed (6 to 0)**
@@ -346,6 +352,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.3. Greenway Sludge Tank Mixing System Pre-Purchase
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Greenway Wastewater Treatment Plant (WWTP) Sludge Tank Mixing System Purchase: a)  the bid submitted by John Brooks Company Ltd. in th...
 
@@ -355,6 +363,8 @@ Unanimous (6-0)
 
 ### 2.5. Comments on Environmental Registry of Ontario (ERO): A Made-In-Ontario Environment Plan
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Directors of Environmental and Engineering Services and City Engineer; City Planning and City Planner; Development and Compliance Services and Chief Building Official; and Parks and Recreation: the comments related to "A Made-In-Ontario Environment Plan...
 
 **✅ Motion Passed (6 to 0)**
@@ -362,6 +372,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. (ADDED) Snow Clearing Standards
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That Civic Administration BE DIRECTED to investigate and report back, before the next multi-year budget process, on the operation and budget impact of the following items related to snow clearing: a) lowering the snow clearing of residential streets from 10 cm to 8cm and 7cm options; b) the capit...
 

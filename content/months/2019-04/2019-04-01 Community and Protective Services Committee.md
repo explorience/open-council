@@ -353,6 +353,8 @@ The meeting adjourned at 1:20 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.4, 2.5, 2.6 and 2.7 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -361,6 +363,8 @@ Unanimous (5-0)
 
 ### 2.3. Property Standards Related Demolitions
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Development and Compliance Services and Chief Building Official, the attached revised proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on April 9, 2019, to approve the demolition of abandoned buildings at the municipal...
 
 **✅ Motion Passed (5 to 0)**
@@ -368,6 +372,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.3. Property Standards Related Demolitions
+
+<div id="motion-2-3-1" class="motion-anchor"></div>
 
 > That the delegation request from T. Cuzzocrea BE APPROVED with respect to the above noted matter.
 

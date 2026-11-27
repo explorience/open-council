@@ -2036,6 +2036,8 @@ Passed
 ### 13#2. Council Policy
   28(2) - Council Members' Expense Account
 
+<div id="motion-13-2-0" class="motion-anchor"></div>
+
 > Approve that clause 13 be amended by   deleting the word "DIRECTED" and by replacing it with the word   "REQUESTED"
 
 **✅ Motion Passed**
@@ -2045,6 +2047,8 @@ Unanimous (15-0)
 ### 13#2. Council Policy
   28(2) - Council Members' Expense Account
 
+<div id="motion-13-2-1" class="motion-anchor"></div>
+
 > Approve clause 13, as amended.
 
 **✅ Motion Passed**
@@ -2053,6 +2057,8 @@ Unanimous (15-0)
 
 ### 2#3. 2015 – 2019
   Strategic Plan
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > Approve that clause 2 be amended in   the section entitled “Strengthing our Community – 2. Diverse, inclusive, and   welcoming community – B”, by deleting the word “gender” and by replacing it   with the word “equity”.
 
@@ -2070,6 +2076,8 @@ Unanimous (15-0)
 ### 2#3. 2015 – 2019
   Strategic Plan
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2078,6 +2086,8 @@ Unanimous (15-0)
 
 ### 2#7. Argyle Business
   Improvement Area 2015 Proposed Budget - Municipal Special Levy
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken:   a)         the   Argyle Business Improvement Area proposed 2015 budget submission in the   amount of $137,966 BE APPROVED as outlined in Sche...
 
@@ -2088,6 +2098,8 @@ Unanimous (15-0)
 ### 2#8. Old Victoria
   Hospital Lands
 
+<div id="motion-2-8-0" class="motion-anchor"></div>
+
 > Amend clause 2 as follows:   i)          in part a) by adding the words "and the Health Services Building"   at the end of the of part a);  ii)           in part b) by adding the words “and the Health Services Building” after the   words “War Memorial Hospital Building”;  iii)       in   part c) ...
 
 **✅ Motion Passed**
@@ -2096,6 +2108,8 @@ Unanimous (14-0)
 
 ### 2#8. Old Victoria
   Hospital Lands
+
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -2109,6 +2123,8 @@ Unanimous (14-0)
   for consideration with clause 5 of the 14th Report of the Strategic
   Priorities and Policy Committee.)
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2117,6 +2133,8 @@ Unanimous (15-0)
 
 ### 8#4. Music and
   Entertainment District for London, Ontario
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2128,6 +2146,8 @@ Unanimous (15-0)
   Grant Program for Downtown and Old East Village Community Improvement Plan
   (CIP) Areas
 
+<div id="motion-9-2-0" class="motion-anchor"></div>
+
 > That, the application of Susan Dejong   c/oTridon Group Ltd., relating to the property located at 161 Windermere   Road, BE REFERRED to the April 7, 2015 Planning and Environment Committee   meeting for consideration; it being noted that the Planning and Environment   Committee will hear delegati...
 
 **✅ Motion Passed**
@@ -2136,6 +2156,8 @@ Unanimous (15-0)
 
 ### 9#4. Delegation by the
   African Canadian Federation of London and Area
+
+<div id="motion-9-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2146,6 +2168,8 @@ Unanimous (13-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve that Council rise and go into the   Committee of the Whole, in camera, for the purpose of considering the   following:
 
 **✅ Motion Passed**
@@ -2154,6 +2178,8 @@ Unanimous (12-0)
 
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
+
+<div id="motion-v-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 7.4 of   the Council Procedure By-law, the order of business be changed to permit   consideration of the 12th Report of the Strategic Priorities and Policy   Committee, having to do with the 2015-2019 Strategic Plan, to be dealt at   this time.
 
@@ -2164,6 +2190,8 @@ Unanimous (15-0)
 ### V#2. COMMITTEE OF THE WHOLE, IN
   CAMERA (continued)
 
+<div id="motion-v-2-1" class="motion-anchor"></div>
+
 > Approve clause 1.      1.                     That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   That, on the   recommendation of the Managing Directo...
 
 **✅ Motion Passed**
@@ -2173,6 +2201,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SEVENTH AND EIGHTH MEETINGS HELD ON
   FEBRUARY 24, 2015 AND FEBRUARY 26, 2015, RESPECTIVELY
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Seventh and   Eighth Meetings held on February 24 and 26, 2015, respectively.
 
@@ -2185,6 +2215,8 @@ Unanimous (15-0)
   presented with the Partners for Climate Protection (PCP) Spirit Award from
   the Federation of Canadian Municipalities (FCM).
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2193,6 +2225,8 @@ Unanimous (13-0)
 
 ### 4. Canada Post
   Community Mailbox Program Jurisdictional
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.16 of   the Council Procedure By-law, consideration of clause 4 of the 4th Report of   the Civic Works Committee, having do to with the Canada Post Community   Mailbox Program BE POSTPONED to not later than September 30, 2015 in order to   provide Canada Post w...
 
@@ -2210,6 +2244,8 @@ Unanimous (13-0)
 ### 13. Commercial Corridor
   Along Commissioners Road East
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > That, the communication dated February 26,   2015, from Councillor J. Zaifman, with respect to the request to review the   Commercial corridor along Commissioners Road East, BE REFERRED to the Civic   Administration for incorporation into the Planning Departments Work Plan and   to report back at...
 
 **✅ Motion Passed**
@@ -2218,6 +2254,8 @@ Unanimous (15-0)
 
 ### 14. Potential Youth
   Award
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to liaise   with the London Youth Advisory Council, and other appropriate stakeholders,   to explore the establishment of an award that recognizes the contributions of   the local youth population to the community.
 

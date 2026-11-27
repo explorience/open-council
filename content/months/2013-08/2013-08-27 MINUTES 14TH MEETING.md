@@ -3407,6 +3407,8 @@ Motion Passed
 
 ### 10#2. Music on Patios
 
+<div id="motion-10-2-1" class="motion-anchor"></div>
+
 > Amend part c) of clause 7 by adding   a new part iii) as follows:   "iii)      “rescue pet stores” BE EXCLUDED from any potential by-law amendments as noted   in part c)i), above;”
 
 **✅ Motion Passed**
@@ -3415,6 +3417,8 @@ Unanimous (15-0)
 
 ### 10#2. Music on Patios
 
+<div id="motion-10-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3422,6 +3426,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 10#2. Music on Patios
+
+<div id="motion-10-2-3" class="motion-anchor"></div>
 
 > further Amend clause 8 in line 2 by adding   the words "with Councillor S. Orser as the Task Force Chair", after   the words "Task Force".
 
@@ -3438,6 +3444,8 @@ Unanimous (15-0)
 
 ### 10#2. Music on Patios
 
+<div id="motion-10-2-4" class="motion-anchor"></div>
+
 > Approve clause 8, as amended.
 
 **✅ Motion Passed**
@@ -3445,6 +3453,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 10#2. Music on Patios
+
+<div id="motion-10-2-5" class="motion-anchor"></div>
 
 > Amend clause 9, in line 4, by deleting the   word "inclusion" and by replacing it with the word   "consideration".
 
@@ -3454,6 +3464,8 @@ Unanimous (15-0)
 
 ### 10#2. Music on Patios
 
+<div id="motion-10-2-6" class="motion-anchor"></div>
+
 > Approve clause 9, as amended.
 
 **✅ Motion Passed**
@@ -3461,6 +3473,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 10#2. Music on Patios
+
+<div id="motion-10-2-7" class="motion-anchor"></div>
 
 > At 6:17 PM Mayor J.F. Fontana resumes the   Chair and Councillor P. Hubert takes his seat at the Council Board.
 
@@ -3476,6 +3490,8 @@ Unanimous (15-0)
 </details>
 
 ### 10#2. Music on Patios
+
+<div id="motion-10-2-8" class="motion-anchor"></div>
 
 > Approve that the Civic Administration   BE DIRECTED to report back to the appropriate Standing Committee, with   respect to by-law amendments that would permit acoustic music on patios,   during reasonable hours, in the City of London for the Committee’s   consideration.
 
@@ -3493,6 +3509,8 @@ Unanimous (15-0)
 ### 11#2. Resignation from
   the Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-11-2-0" class="motion-anchor"></div>
+
 > That the communication dated July 21, 2013   from Curtis Peterson, resigning his appointment to the Environmental and   Ecological Planning Advisory Committee, BE ACCEPTED and Mr. Peterson BE   THANKED for participating on the Committee.
 
 **✅ Motion Passed**
@@ -3501,6 +3519,8 @@ Unanimous (15-0)
 
 ### 11#2. Resignation from
   the Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-11-2-1" class="motion-anchor"></div>
 
 > Amend clause 2 as follows:   a)         in line 1, by adding the words “at the September 24, 2013 meeting of the   Corporate Services Committee” after the words “report back”; and,     b)          in part a)ii) by adding the words “Strengthening Neighbourhoods Strategy and”   after the words “Cit...
 
@@ -3518,6 +3538,8 @@ Unanimous (15-0)
 ### 11#2. Resignation from
   the Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-11-2-2" class="motion-anchor"></div>
+
 > Approve clause 2, as amended.
 
 **✅ Motion Passed**
@@ -3534,6 +3556,8 @@ Unanimous (15-0)
 ### 13#2. The Great Lakes
   Sewage Report Card 2013
 
+<div id="motion-13-2-0" class="motion-anchor"></div>
+
 > That the Civic Works Committee received a   presentation from the Managing Director, Environmental and Engineering   Services and City Engineer and the Director, Water and Wastewater, with   respect to the Great Lakes Sewage Report Card 2013 prepared by Ecojustice; it   being noted that the Civic...
 
 **✅ Motion Passed**
@@ -3542,6 +3566,8 @@ Unanimous (15-0)
 
 ### 2#6. 2013 Debenture
   Issue Update
+
+<div id="motion-2-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3552,6 +3578,8 @@ Unanimous (15-0)
 ### 3#4. 1156 Dundas Street
   - REOI and RFQUAL 13-03 for the Purchase and Re-Adaptive Use of Former
   McCormick Building
+
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > Approve part c) of clause 3.
 
@@ -3570,6 +3598,8 @@ Unanimous (15-0)
   - REOI and RFQUAL 13-03 for the Purchase and Re-Adaptive Use of Former
   McCormick Building
 
+<div id="motion-3-4-2" class="motion-anchor"></div>
+
 > Approve part d) of clause 3.
 
 **✅ Motion Passed**
@@ -3579,6 +3609,8 @@ Unanimous (15-0)
 ### 4#3. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
+
+<div id="motion-4-3-2" class="motion-anchor"></div>
 
 > At 7:40 PM Mayor J.F. Fontana resumes the   Chair and Councillor P. Van Meerbergen takes his seat at the Council Board.
 
@@ -3597,6 +3629,8 @@ Unanimous (15-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
+<div id="motion-4-3-3" class="motion-anchor"></div>
+
 > Amend clause 4 as follows:   1.          By deleting the first paragraph and part a) in their entirety and by   replacing them with the following:   “That, on the direction of Municipal   Council, with respect to the applications of PenEquity Realty Corporation,   relating to the property located...
 
 **✅ Motion Passed**
@@ -3613,6 +3647,8 @@ Unanimous (15-0)
 ### 4#3. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
+
+<div id="motion-4-3-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3631,6 +3667,8 @@ Unanimous (15-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
+<div id="motion-4-3-5" class="motion-anchor"></div>
+
 > Approve “That the Civic Administration BE   DIRECTED to undertake a review, in the most expedient manner, of “Unevaluated   Vegetation Patches” shown on Schedule “B-1” of the Official Plan that are not   shown as “Open Space” or “Environmental Review” on Schedule “A” of the   Official Plan and to...
 
 **✅ Motion Passed**
@@ -3648,6 +3686,8 @@ Unanimous (15-0)
   Planning and City Planner - ReThink London Discussion Papers - What We've
   Heard
 
+<div id="motion-4-7-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the report dated August 26, 2013 with   respect to public feedback regarding the ReThink London discussion papers BE   RECEIVED; it being noted that the Corporate Services Committee heard the attached   presentatio...
 
 **✅ Motion Passed**
@@ -3656,6 +3696,8 @@ Unanimous (15-0)
 
 ### 7#5. Municipality
   Contribution Agreement - Ontario Lottery and Gaming Corporation
+
+<div id="motion-7-5-0" class="motion-anchor"></div>
 
 > Recommendation:  That the following actions   be taken with respect to a Municipality Contribution Agreement:   a)         the   by-law appended to the staff report dated August 26, 2013 BE INTRODUCED at   the Municipal Council meeting to be held on August 27, 2013, to:   i)      approve the   Mu...
 
@@ -3666,6 +3708,8 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-iv-0" class="motion-anchor"></div>
+
 > Approve that Council rise and go into   Committee of the Whole in camera, for the purpose of considering the   following:
 
 **✅ Motion Passed**
@@ -3674,6 +3718,8 @@ Unanimous (14-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRTEENTH MEETING HELD ON JULY 30, 2013
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 13th   Meeting held on July 30, 2013.
 
@@ -3684,6 +3730,8 @@ Unanimous (14-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an emergent   motion with respect to a report back regarding the installation of a traffic   signal at the intersection of Dalmagarry Road and Fanshawe Park Road West.
 
 **✅ Motion Passed**
@@ -3692,6 +3740,8 @@ Unanimous (15-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that the Civic Administration BE   DIRECTED to report back, at a Special Meeting of the Civic Works Committee,   to be held prior to the September 17, 2013 meeting of Municipal Council, to   treat this as a priority and provide all available options for the   installation of a traffic sig...
 
@@ -3702,6 +3752,8 @@ Unanimous (15-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-2" class="motion-anchor"></div>
+
 > Approve progress on the in camera items as noted in the motion to go in   camera.
 
 **✅ Motion Passed**
@@ -3709,6 +3761,8 @@ Unanimous (15-0)
 Unanimous (12-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Approve First Reading of Bill No.   389.
 
@@ -3725,6 +3779,8 @@ Unanimous (12-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-10" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill   No. 389.
 
 **✅ Motion Passed**
@@ -3739,6 +3795,8 @@ Unanimous (12-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-11" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 389.
 
@@ -3759,6 +3817,8 @@ Unanimous (12-0)
   with clause 7 of the 15th Report of the Community and Protective Services
   Committee.)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3770,6 +3830,8 @@ Unanimous (14-0)
   (Refer to the Community and Protective Services Committee Stage for consideration
   with clause 7 of the 15th Report of the Community and Protective Services
   Committee.)
+
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3787,6 +3849,8 @@ Unanimous (14-0)
 ### 13. City-Wide Day Care
   Centres in Schools (Z-8211)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of the   City of London, relating to Zoning By-law No. Z.-1, the proposed by-law as   appended to the staff report dated August 20, 2013, BE INTRODUCED at the   Municipal Council mee...
 
 **✅ Motion Passed**
@@ -3795,6 +3859,8 @@ Unanimous (13-0)
 
 ### 16. Veterans Memorial
   Parkway (Z-8194)
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of the   City of London for amendments to the City’s Zoning By-law for the Veterans   Memorial Parkway, the following actions be taken:   a)              the   proposed by-law, as ap...
 

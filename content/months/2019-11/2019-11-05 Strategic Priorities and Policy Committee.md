@@ -412,6 +412,8 @@ The meeting adjourned at 7:02 PM.
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That part b)ii) BE AMENDED to include the following wording at the end of the clause, "it being noted that the London Police Services will be excluded from this additional request, as the London Police Service Budget has already been reviewed and reduced."
 
 **❌ Motion Failed (6 to 7) 🔥**
@@ -428,6 +430,8 @@ The meeting adjourned at 7:02 PM.
 </details>
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
+
+<div id="motion-2-1-1" class="motion-anchor"></div>
 
 > That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing such as the one-time doub...
 
@@ -437,6 +441,8 @@ Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
+<div id="motion-2-1-3" class="motion-anchor"></div>
+
 > That part b)ii) BE AMENDED to include the following wording at the end of the clause, "it being noted that the London Police Services will be excluded from this additional request, as the London Police Service Budget has already been reviewed and reduced."
 
 **❌ Motion Failed (6 to 7) 🔥**
@@ -454,6 +460,8 @@ Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
+<div id="motion-2-1-4" class="motion-anchor"></div>
+
 > That a new part b)iii) BE ADDED, as follows: “iii) the Civic Administration BE DIRECTED to work with the London Transit Commission to identify opportunities to replace City of London capital levy funding for LTC capital projects with non-property tax sources of financing, such as the one-time dou...
 
 **✅ Motion Passed (13 to 0)**
@@ -461,6 +469,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
+
+<div id="motion-2-1-5" class="motion-anchor"></div>
 
 > The motion to approve part b)i) is put. b) the Civic Administration BE DIRECTED to take the following actions to address anticipated tax levy pressures in the 2020-2023 Multi-Year Budget:  i) develop business cases for potential reductions within civic service areas for Council’s consideration; i...
 
@@ -479,6 +489,8 @@ Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
+<div id="motion-2-1-7" class="motion-anchor"></div>
+
 > The motion to approve part b) ii) is put.    ii) engage with the City’s agencies, boards and commissions (ABC’s), who submitted draft budgets in excess of the budget targets provided to encourage them to submit potential opportunities for reductions, in accordance with the City’s format and timel...
 
 **✅ Motion Passed (11 to 1)**
@@ -496,6 +508,8 @@ Unanimous (13-0)
 
 ### 2.1. Update on the 2020-2023 Multi-Year Budget
 
+<div id="motion-2-1-8" class="motion-anchor"></div>
+
 > That the date of the December Strategic Priorities and Policy Committee meeting BE CHANGED to December 17, 2019 at 4:00 PM.
 
 **✅ Motion Passed (13 to 0)**
@@ -504,18 +518,7 @@ Unanimous (13-0)
 
 ### 4.1. 5th Report of the Governance Working Group
 
-> Selection Demonstration - ONE candidate to be selected
-
-**❌ Majority Winner: No majority 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
-
-</details>
-
-### 4.1. 5th Report of the Governance Working Group
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Selection Demonstration - ONE candidate to be selected
 
@@ -529,6 +532,23 @@ Unanimous (13-0)
 </details>
 
 ### 4.1. 5th Report of the Governance Working Group
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> Selection Demonstration - ONE candidate to be selected
+
+**❌ Majority Winner: No majority 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Absent (1):** [Steve Hillier](/councillors/current/s-hillier)
+
+</details>
+
+### 4.1. 5th Report of the Governance Working Group
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
 
 > Selection Demonstration - ONE candidate to be selected
 
@@ -542,6 +562,8 @@ Unanimous (13-0)
 </details>
 
 ### 4.2. Resignation from the Middlesex-London Health Unit Board of Directors
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the resignation of Councillor E. Peloza, dated October 25, 2019, BE ACCEPTED, and the appointment of another member BE CONSIDERED at the next meeting of the Strategic Priorities and Policy Committee.
 

@@ -460,6 +460,8 @@ The meeting adjourned at 12:22 PM.
   London's Homeless Prevention System- Homeless Management Information System -
   Cargo Management Consulting Inc. - Contract Amendment #2
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -474,6 +476,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 3. STAFF REPORT -
   London's Homeless Prevention System - Housing Stability Bank Update
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -490,6 +494,8 @@ The meeting adjourned at 12:22 PM.
 ### 4. STAFF REPORT -
   London's Homeless Prevention System - London CAReS Homeless Response Services
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -504,6 +510,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 5. STAFF REPORT -
   Housing Services - Rent Supplement Program
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -520,6 +528,8 @@ The meeting adjourned at 12:22 PM.
 ### 6. STAFF REPORT -
   Social Housing Apartment Improvement Program (SHAIP)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -534,6 +544,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 7. STAFF REPORT -
   Strategic Plan Progress Variance
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -551,6 +563,8 @@ The meeting adjourned at 12:22 PM.
   Irregular Result Request for Proposal 18-09 - Parks and Recreation Strategic
   Master Plan Update
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -565,6 +579,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 9. STAFF REPORT -
   Proposed Public Nuisance By-law Amendment to Address Odour
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -581,6 +597,8 @@ The meeting adjourned at 12:22 PM.
 ### 10. 2nd Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -595,6 +613,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 11. 1st Report of the
   Accessibility Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -611,6 +631,8 @@ The meeting adjourned at 12:22 PM.
 ### 12. 2nd Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -625,6 +647,8 @@ The meeting adjourned at 12:22 PM.
 
 ### 13. Deferred Matters
   List
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -186,6 +186,8 @@ Motion
 ### 2. 2014 Development
   Charges By-law
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Voting Record:   Motion to Approve that the Civic   Administration include, as part of their monthly reporting, a list of those   enterprises that benefit from the DC rate reduction.   Motion Passed
 
 **✅ Motion Passed**
@@ -201,6 +203,8 @@ Motion
 
 ### 2. 2014 Development
   Charges By-law
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -218,6 +222,8 @@ Motion
 ### 2. 2014 Development
   Charges By-law
 
+<div id="motion-2-4" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -234,6 +240,8 @@ Motion
 ### 2. 2014 Development
   Charges By-law
 
+<div id="motion-2-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -249,6 +257,8 @@ Motion
 
 ### 2. 2014 Development
   Charges By-law
+
+<div id="motion-2-6" class="motion-anchor"></div>
 
 > Motion   Passed
 

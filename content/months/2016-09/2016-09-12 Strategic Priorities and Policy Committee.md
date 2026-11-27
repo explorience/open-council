@@ -119,6 +119,8 @@ The Strategic Priorities and Policy
 ### 2. STAFF REPORT -
   Rapid Transit Implementation Working Group
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -127,6 +129,8 @@ Unanimous (13-0)
 
 ### 3. (ADDED) Resignation from Governance Working
   Group
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 

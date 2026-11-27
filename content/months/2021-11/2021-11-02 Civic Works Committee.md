@@ -406,6 +406,8 @@ The meeting adjourned at 1:29 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.4, 2.5, and 2.6 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -413,6 +415,8 @@ The meeting adjourned at 1:29 PM.
 Unanimous (6-0)
 
 ### 2.7. Meadowlily Road Area Environmental Assessment and Servicing Study
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated November 2, 2021, related to the Appointment of Consulting Engineer for RFP 21-59 Meadowlily Road Area Environmental Assessment and Servici...
 
@@ -422,6 +426,8 @@ Unanimous (6-0)
 
 ### 4.1. Initiation of the Mobility Master Plan Development
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, the following actions be taken with respect to the staff report dated November 2, 2021, related to the development of the Mobility Master Plan: a)        the following Draft Vision and Guiding Principles for t...
 
 **✅ Motion Passed (6 to 0)**
@@ -429,6 +435,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.2. Wharncliffe Road South Improvements - 100 Stanley Street Process
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Deputy City Manager, Environment and Infrastructure, with consideration of the March 23, 2021 Council resolution, the Civic Administration BE DIRECTED to submit an application to Council to demolish the heritage designated property at 100 Stanley Street, it bein...
 
@@ -445,6 +453,8 @@ Unanimous (6-0)
 
 ### 5. Deferred Matters/Additional Business
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > That Items 5.1 to 5.3 BE APPROVED
 
 **✅ Motion Passed (6 to 0)**
@@ -452,6 +462,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.4. (ADDED) Blackfriars Bridge
+
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the Blackfriars Bridge: a)        the Civic Administration BE DIRECTED to leave Blackfriars Bridge closed to vehicles at this time and commence the review of the bridge operations as required by the Ministry of the Environment, Conservation and ...
 

@@ -1153,6 +1153,8 @@ The meeting adjourned at 8:02 PM.
 ### 2. 3rd Report of the
   Agriculture Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1162,6 +1164,8 @@ Unanimous (5-0)
 
 ### 3. 10th Report of the
   Trees and Forests Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1174,6 +1178,8 @@ Unanimous (5-0)
   at 633, 635, 637, 645, 649, 651 and 655 Base Line Road East - Notice of
   Appeal to Ontario Municipal Board (OZ-8711)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1184,6 +1190,8 @@ Unanimous (5-0)
 ### 5. Property located at
   581 Ross Street - Notice of Appeal to the Ontario Municipal Board (Z-8695)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1193,6 +1201,8 @@ Unanimous (5-0)
 
 ### 6. Planning Services
   Work Program Update
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1205,15 +1215,7 @@ Unanimous (5-0)
   Various Planning Related By-laws Pertaining to Delegation and Signing
   Authority
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  1835 Dundas Street (Z-8790)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1225,6 +1227,8 @@ Unanimous (5-0)
 ### 8. Property located at
   1835 Dundas Street (Z-8790)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1235,6 +1239,20 @@ Unanimous (5-0)
 ### 8. Property located at
   1835 Dundas Street (Z-8790)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  1835 Dundas Street (Z-8790)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1245,15 +1263,7 @@ Unanimous (5-0)
 ### 9. Property located at
   4380 Castleton Road (Z-8769)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Property located at
-  4380 Castleton Road (Z-8769)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1264,6 +1274,20 @@ Unanimous (5-0)
 
 ### 9. Property located at
   4380 Castleton Road (Z-8769)
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Property located at
+  4380 Castleton Road (Z-8769)
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1276,6 +1300,8 @@ Unanimous (5-0)
   Environmental and Ecological Planning Advisory Committee re 9th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1285,6 +1311,8 @@ Unanimous (5-0)
 
 ### 11. Property located at
   6188 Colonel Talbot Road (Z-8795)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1303,6 +1331,8 @@ Unanimous (5-0)
 ### 11. Property located at
   6188 Colonel Talbot Road (Z-8795)
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1313,16 +1343,7 @@ Unanimous (5-0)
 ### 11. Property located at
   6188 Colonel Talbot Road (Z-8795)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Properties located
-  at 100, 335 and 353 Kellogg Lane, 1063, 1080, 1097, 1127 Dundas Street and
-  1151 York Street (OZ-8794)
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1335,6 +1356,8 @@ Unanimous (5-0)
   at 100, 335 and 353 Kellogg Lane, 1063, 1080, 1097, 1127 Dundas Street and
   1151 York Street (OZ-8794)
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1345,6 +1368,21 @@ Unanimous (5-0)
 ### 12. Properties located
   at 100, 335 and 353 Kellogg Lane, 1063, 1080, 1097, 1127 Dundas Street and
   1151 York Street (OZ-8794)
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Properties located
+  at 100, 335 and 353 Kellogg Lane, 1063, 1080, 1097, 1127 Dundas Street and
+  1151 York Street (OZ-8794)
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1356,6 +1394,8 @@ Unanimous (5-0)
 ### 13. Property located at
   2054 Adelaide Street North (39T-11502/OZ-7921)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1365,6 +1405,8 @@ Unanimous (5-0)
 
 ### 14. Small Agricultural Lot Creation for
   Microfarming Operations
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

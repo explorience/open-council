@@ -945,6 +945,8 @@ Motion
 ### 2. 1st Report of the
   Childcare Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -954,6 +956,8 @@ Unanimous (6-0)
 
 ### 3. 3rd Report of the
   London Housing Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -965,6 +969,8 @@ Unanimous (6-0)
 ### 4. Update on
   Immigrants and the Labour Market: A London Perspective
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -974,6 +980,8 @@ Unanimous (6-0)
 
 ### 5. Open Air Burning
   By-law - Air Quality and Enforcement
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -985,6 +993,8 @@ Unanimous (6-0)
 ### 6. Neighbourhood Family Centre - London
   District Catholic School Board - St. Francis Catholic School
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -994,6 +1004,8 @@ Unanimous (6-0)
 
 ### 7. Corporate
   Sponsorship and Advertising Policy
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1005,6 +1017,8 @@ Unanimous (6-0)
 ### 8. Outdoor Tethering
   of Dogs
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Voting   Record:   Motion   Passed
 
 **✅ Motion
@@ -1015,6 +1029,8 @@ Unanimous (4-0)
 ### 9. Springbank Park
   Playground Upgrade Sponsored by Jenny Jones - London Hometown Hero Project
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1024,6 +1040,8 @@ Unanimous (5-0)
 
 ### 10. LAV lll Public Art
   Monument
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1036,6 +1054,8 @@ Unanimous (5-0)
   Accountability Agreement Between the Corporation of the City of London
   (Dearness Home) and the South West Local Health Integration Network (LHIN)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1045,6 +1065,8 @@ Unanimous (5-0)
 
 ### 12. Community Response to Situations of
   Potential Vulnerable Occupancy
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1056,15 +1078,7 @@ Unanimous (5-0)
 ### 13. New Provincial
   Funding for Energy Retrofits in Social Housing
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 14. Climate Change Risk
-  Disclosures on Gas Pumps
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1075,6 +1089,20 @@ Unanimous (5-0)
 
 ### 14. Climate Change Risk
   Disclosures on Gas Pumps
+
+<div id="motion-14-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 14. Climate Change Risk
+  Disclosures on Gas Pumps
+
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Voting   Record:   Motion   Passed
 
@@ -1086,14 +1114,7 @@ Unanimous (4-0)
 ### 16. Pay and Display
   Parking Receipt Advertisement
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 17. Tea Cup Pigs
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1103,6 +1124,19 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 17. Tea Cup Pigs
+
+<div id="motion-17-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 17. Tea Cup Pigs
+
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1114,6 +1148,8 @@ Unanimous (5-0)
 ### 19. 2nd and 3rd Reports
   of London Diversity and Race Relations Advisory Committee
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1124,6 +1160,8 @@ Unanimous (5-0)
 ### 20. 3rd and 4th Reports
   of the Animal Welfare Advisory Committee
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1133,6 +1171,8 @@ Unanimous (5-0)
 
 ### 21. 2nd Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1150,6 +1190,8 @@ Unanimous (5-0)
 
 ### 22. Deferred Matters List
 
+<div id="motion-22-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1159,6 +1201,8 @@ Unanimous (5-0)
 
 ### 23. (ADDED) Additional Community and Protective
   Services Committee Meetings
+
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

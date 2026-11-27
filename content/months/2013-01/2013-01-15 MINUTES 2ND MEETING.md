@@ -2533,6 +2533,8 @@ Motion Passed
 
 ### 1#7. Disclosures of Pecuniary Interest
 
+<div id="motion-1-7-0" class="motion-anchor"></div>
+
 > Approve clause 1.
 
 **✅ Motion Passed**
@@ -2541,6 +2543,8 @@ Unanimous (13-0)
 
 ### 11#2. Welcoming the World
   to London Campaign
+
+<div id="motion-11-2-0" class="motion-anchor"></div>
 
 > At 8:09 PM, Mayor J.F. Fontana resumes the   Chair and Councillor Hubert takes his seat at the Council Board.
 
@@ -2558,6 +2562,8 @@ Unanimous (13-0)
 ### 2#8. Election of Chair
   and Vice-Chair for the term ending November 30, 2013
 
+<div id="motion-2-8-0" class="motion-anchor"></div>
+
 > That Councillor M. Brown BE ELECTED Chair   and Councillor P. Hubert BE ELECTED Vice Chair of the Audit Committee for the   term ending November 30, 2013.
 
 **✅ Motion
@@ -2568,6 +2574,8 @@ Unanimous (15-0)
 ### 2#8. Election of Chair
   and Vice-Chair for the term ending November 30, 2013
 
+<div id="motion-2-8-1" class="motion-anchor"></div>
+
 > Approve that, as a procedural matter pursuant to Section 239 (6) of the Municipal   Act, 2001, the following recommendation be forwarded to City Council for   deliberation and a vote in public session:   1.                 That,   on the recommendation of the Director Corporate Investments & Part...
 
 **✅ Motion Passed**
@@ -2577,6 +2585,8 @@ Unanimous (15-0)
 ### 2#8. Election of Chair
   and Vice-Chair for the term ending November 30, 2013
 
+<div id="motion-2-8-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2585,6 +2595,8 @@ Unanimous (15-0)
 
 ### 2#8. Election of Chair
   and Vice-Chair for the term ending November 30, 2013
+
+<div id="motion-2-8-3" class="motion-anchor"></div>
 
 > 1.              Disclosures   of Pecuniary Interest.    That it BE NOTED that no pecuniary   interests were disclosed.   2.          Joint Venture   – Fit Program   That the following actions be taken with   respect to the proposed Joint Venture Agreement between London Hydro Inc. and   the Londo...
 
@@ -2603,6 +2615,8 @@ Unanimous (15-0)
   Environmental Bill of Rights Registry Ontario Ministry of Transportation's
   Cycling Strategy.
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the   Director, Environmental Programs & Solid Waste and the Director, Roads   & Transportation, the attached comments BE APPROVED and   submitted by London Municipal Council to the Ministry of Transportation by   January 29th, 2013 in response to the Environmental ...
 
 **✅ Motion
@@ -2613,6 +2627,8 @@ Unanimous (15-0)
 ### 4#4. Performing Arts
   Centre Proposal
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That the communications dated November 28   and 30, 2012, and the delegation request from S. Farhi, President, Farhi   Holdings Corporation, with respect to his proposals for a Performing Arts   Centre at the Forks or in the area of Queens Avenue and Ridout Street BE   RECEIVED and BE REFERRED to...
 
 **✅ Motion Passed**
@@ -2622,6 +2638,8 @@ Unanimous (14-0)
 ### 4#5. Update on Landfill
   Gas Utilization.
 
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
 > Amend clause 4 in part b) to add the   words “including other possible models” after the word “options”, and to add   an “it being noted that a full report related to biosolids will be coming   forward at a future date.”
 
 **✅ Motion Passed**
@@ -2630,6 +2648,8 @@ Unanimous (13-0)
 
 ### 5#4. Proposed Change of
   Use of the London Normal School
+
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > That W. Komer, Co-founder, CLW Holdings and   KoolGroups and their partners BE GRANTED delegation status at the next   Investment and Economic Prosperity Committee (IEPC) meeting to bring forth an   alternate proposal for a technology development centre facility; it being   noted that the IEPC re...
 
@@ -2641,6 +2661,8 @@ Unanimous (15-0)
 ### 5#5. Joint Venture - Fit
   Program
 
+<div id="motion-5-5-0" class="motion-anchor"></div>
+
 > That the communication dated January 7,   2013 from P. Johnson, Chair, London Hydro Inc., BE REFERRED to a special   meeting of the Strategic Priorities and Policy Committee prior to the January   15, 2013 Council meeting.
 
 **✅ Motion
@@ -2650,6 +2672,8 @@ Unanimous (15-0)
 
 ### 6#4. Councillor D.
   Henderson - Development Proposals
+
+<div id="motion-6-4-0" class="motion-anchor"></div>
 
 > Amend clause 6 of the 1st Report of   the Investment and Economic Prosperity Committee be amended by deleting the   word “a” and adding the following words “the attached” after the words   “provided”.
 
@@ -2664,6 +2688,8 @@ Unanimous (15-0)
 
 ### 7#2. Food Truck Proposal
 
+<div id="motion-7-2-0" class="motion-anchor"></div>
+
 > That the request for delegation status from   M. Navakas, with respect to a food truck proposal, BE REFERRED to the Civic   Administration for review and report back at a future meeting of the   Community and Protective Services Committee.
 
 **✅ Motion
@@ -2674,6 +2700,8 @@ Unanimous (15-0)
 ### IV. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > That Council rise   and go into Committee of the Whole, in camera, for the purpose of considering   the following:
 
 **✅ Motion Passed**
@@ -2683,6 +2711,8 @@ Unanimous (14-0)
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIRST MEETING HELD ON DECEMBER 11, 2012
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the 1st   Meeting held on December 11, 2012.
 
 **✅ Motion Passed**
@@ -2690,6 +2720,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### XI. ENQUIRIES
+
+<div id="motion-xi-0" class="motion-anchor"></div>
 
 > Approve leave to introduce a substantive   motion with respect to the Glanworth Library.
 
@@ -2699,6 +2731,8 @@ Unanimous (15-0)
 
 ### XI. ENQUIRIES
 
+<div id="motion-xi-1" class="motion-anchor"></div>
+
 > Approve that   the Civic Administration BE DIRECTED That the Civic   Administration BE DIRECTED to find a source of financing for   $1,975.00, in order to top up the Infrastructure Funding awarded to the   Glanworth Library Branch to $100,000.
 
 **✅ Motion Passed**
@@ -2706,6 +2740,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-0" class="motion-anchor"></div>
 
 > Approve Leave to introduce Added By-laws   69 and 70.
 
@@ -2715,6 +2751,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-1" class="motion-anchor"></div>
+
 > Approve 1st reading of Bill No.s 35 to 70,   except Bill No.s 45, 52, 54 and 68.
 
 **✅ Motion Passed**
@@ -2722,6 +2760,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-2" class="motion-anchor"></div>
 
 > Approve 2nd reading of Bill No.s 35 to   70, except Bill No.s 45, 52, 54 and 68.
 
@@ -2731,6 +2771,8 @@ Unanimous (15-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-3" class="motion-anchor"></div>
+
 > Approve 3rd reading and enactment of all Bill   No.s 35 to 70, except Bill No.s 45, 52, 54 and 68.
 
 **✅ Motion Passed**
@@ -2738,6 +2780,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-4" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill No.s 45 and   68.
 
@@ -2747,6 +2791,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-5" class="motion-anchor"></div>
+
 > Approve 2nd  reading of Bill No.s 45 and   68.
 
 **✅ Motion Passed**
@@ -2754,6 +2800,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-6" class="motion-anchor"></div>
 
 > Approve 3rd reading and enactment of Bill   No.s 45 and 68.
 
@@ -2763,6 +2811,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-7" class="motion-anchor"></div>
+
 > Approve 1st reading of Bill No.s 52   and 54.
 
 **✅ Motion Passed**
@@ -2771,6 +2821,8 @@ Unanimous (13-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-8" class="motion-anchor"></div>
+
 > Approve 2nd reading of Bill No.s 52 and   54.
 
 **✅ Motion Passed**
@@ -2778,6 +2830,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-9" class="motion-anchor"></div>
 
 > Approve 3rd reading and enactment of Bill   No.s 52 and 54.
 
@@ -2788,6 +2842,8 @@ Unanimous (13-0)
 ### 16. Property located at
   527 Wellington Road South
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Amend clause 16 by adding at the end the words   "; and staff BE REQUESTED to make the report available to the public as   soon as possible in advance of the meeting."
 
 **✅ Motion Passed**
@@ -2796,6 +2852,8 @@ Unanimous (15-0)
 
 ### 17. Hamilton Road
   Businesses
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to study the Hamilton Road area to allow businesses to open without having   parking on their property.
 
@@ -2807,6 +2865,8 @@ Unanimous (15-0)
 ### 21. 2013 World Figure
   Skating Championships
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > Amend clause 21 to read as follows:   “That the following actions be taken with   respect to the 2013 World Figure Skating Championships:   a)              the   Civic Administration BE ADVISED that it is the Municipal Council’s   expectation that the Civic Administration will continue to assist,...
 
 **✅ Motion Passed**
@@ -2815,6 +2875,8 @@ Unanimous (15-0)
 
 ### 21. 2013 World Figure
   Skating Championships
+
+<div id="motion-21-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2832,6 +2894,8 @@ Unanimous (15-0)
 ### 21. 2013 World Figure
   Skating Championships
 
+<div id="motion-21-2" class="motion-anchor"></div>
+
 > Amend clause 21 to add a new part c, as   follows:   "c)       the   Civic Administration BE AUTHORIZED to transfer up to a maximum of $100,000   from the Operating Budget Contingency Reserve to Corporate Communications in   2013 to implement the “Welcoming the World to London” marketing   commun...
 
 **✅ Motion Passed**
@@ -2847,6 +2911,8 @@ Unanimous (15-0)
 
 ### 22. Advancement in
   Lighting Technology
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to report back to the Civic Works Committee with respect to what steps are   being taken, and may be taken, to take advantage of energy and cost savings   arising from advancements in lighting technology.
 

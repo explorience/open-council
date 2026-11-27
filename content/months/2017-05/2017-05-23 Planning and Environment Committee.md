@@ -1184,6 +1184,8 @@ The meeting adjourned at 11:40 PM.
 ### 2. 6th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1193,6 +1195,8 @@ Unanimous (3-0)
 
 ### 3. Old Victoria East
   Subdivision - South Parcel - 1691 Hamilton Road (39T-13502)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1204,6 +1208,8 @@ Unanimous (5-0)
 ### 4. Foxhollow North
   Kent Subdivision - Phase 1 - 1388 Sunningdale Road West (39T-04510)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1214,16 +1220,7 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Building Division Monthly Report - March 2017
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. PUBLIC
-  PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
-  North - Demolition Request
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1236,6 +1233,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
   North - Demolition Request
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1246,6 +1245,21 @@ Unanimous (5-0)
 ### 6. PUBLIC
   PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
   North - Demolition Request
+
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. PUBLIC
+  PARTICIPATION MEETING - Properties located at 345, 349 and 351 Ridout Street
+  North - Demolition Request
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1259,17 +1273,7 @@ Unanimous (5-0)
   Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
   Avenue (O-8764)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Outdoor Patios in
-  Association with Craft Brewery and Artisan Workshop Establishments, McCormick
-  Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
-  Avenue (O-8764)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1282,6 +1286,22 @@ Unanimous (5-0)
   Association with Craft Brewery and Artisan Workshop Establishments, McCormick
   Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
   Avenue (O-8764)
+
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Outdoor Patios in
+  Association with Craft Brewery and Artisan Workshop Establishments, McCormick
+  Area Secondary Plan Amendments, 521 Burbrook Place and 1017-1021 Princess
+  Avenue (O-8764)
+
+<div id="motion-7-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1292,6 +1312,8 @@ Unanimous (5-0)
 
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1310,6 +1332,8 @@ Unanimous (5-0)
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1320,6 +1344,8 @@ Unanimous (5-0)
 ### 8. PUBLIC
   PARTICIPATION MEETING - Property located at 8076 Longwoods Road (Z-8735)
 
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1331,16 +1357,7 @@ Unanimous (5-0)
   PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
   Current Sign and Canopy By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 9. PUBLIC
-  PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
-  Current Sign and Canopy By-law
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1352,6 +1369,21 @@ Unanimous (6-0)
 ### 9. PUBLIC
   PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
   Current Sign and Canopy By-law
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 9. PUBLIC
+  PARTICIPATION MEETING  - Proposed Revised Sign By-law and Amendments to
+  Current Sign and Canopy By-law
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1363,6 +1395,8 @@ Unanimous (6-0)
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1382,6 +1416,8 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1392,6 +1428,8 @@ Unanimous (6-0)
 ### 10. PUBLIC
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -1411,6 +1449,8 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
 
+<div id="motion-10-3" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1422,6 +1462,8 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Property located at 420 Fanshawe Park Road East -
   (OZ-8624)
 
+<div id="motion-10-4" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1431,6 +1473,8 @@ Unanimous (6-0)
 
 ### 11. 6th Report of the
   London Advisory Committee on Heritage
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

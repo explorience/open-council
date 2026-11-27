@@ -646,6 +646,8 @@ The meeting adjourned at 5:28 PM.
 ### 2. 1st Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -656,6 +658,8 @@ Unanimous (5-0)
 ### 3. 1st Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -665,6 +669,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT - Property
   located at 161 Windermere Road (39CD-14501/Z-8167)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -677,15 +683,7 @@ Unanimous (5-0)
   Request for Designation - Property located at 807 Colborne Street (Fire Hall
   No. 4)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. 1st Report of the
-  London Advisory Committee on Heritage
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,16 +695,7 @@ Unanimous (5-0)
 ### 6. 1st Report of the
   London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. PUBLIC
-  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
-  Study
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -715,20 +704,10 @@ Unanimous (5-0)
 
 Unanimous (5-0)
 
-### 7. PUBLIC
-  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
-  Study
+### 6. 1st Report of the
+  London Advisory Committee on Heritage
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. PUBLIC
-  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
-  Study
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -741,6 +720,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
   Study
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -751,6 +732,47 @@ Unanimous (5-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
   Study
+
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. PUBLIC
+  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
+  Study
+
+<div id="motion-7-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. PUBLIC
+  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
+  Study
+
+<div id="motion-7-3" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. PUBLIC
+  PARTICIPATION MEETING - St. George-Grosvenor Heritage Conservation District
+  Study
+
+<div id="motion-7-4" class="motion-anchor"></div>
 
 > Motion   Passed
 

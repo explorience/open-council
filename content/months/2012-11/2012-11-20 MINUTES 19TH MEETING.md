@@ -3582,6 +3582,8 @@ Passed
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-0" class="motion-anchor"></div>
+
 > Approve that, on the recommendation of the Managing Director, Planning &   City Planner, in response to the letter of appeal submitted by Middlesex   Vacant Land Condominium Plan No. 677 to the Ontario Municipal Board, dated   August 16, 2012, 2012, relating to the rezoning application concerning...
 
 **✅ Motion Passed**
@@ -3591,6 +3593,8 @@ Unanimous (11-0)
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3599,6 +3603,8 @@ Unanimous (13-0)
 
 ### 10#2. Property located at
   181 Skyline Avenue
+
+<div id="motion-10-2-2" class="motion-anchor"></div>
 
 > Amend clause 15 by adding a new part c) as follows:   “c)        the City of London BE REQUIRED to ensure that the site plan includes a tree preservation plan;”.
 
@@ -3609,6 +3615,8 @@ Unanimous (13-0)
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3617,6 +3625,8 @@ Unanimous (13-0)
 
 ### 10#2. Property located at
   181 Skyline Avenue
+
+<div id="motion-10-2-4" class="motion-anchor"></div>
 
 > Amend clause 18 in line 7, after the word “neighbourhood”, by adding the   words “which would incorporate a suitable addition, while maintaining the   front of the building”.
 
@@ -3634,6 +3644,8 @@ Unanimous (13-0)
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -3650,6 +3662,8 @@ Unanimous (13-0)
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-6" class="motion-anchor"></div>
+
 > Approve reconsideration of clause 17,   pursuant to section 13.6 of the Council Procedure By-law.
 
 **✅ Motion Passed**
@@ -3659,6 +3673,8 @@ Unanimous (13-0)
 ### 10#2. Property located at
   181 Skyline Avenue
 
+<div id="motion-10-2-7" class="motion-anchor"></div>
+
 > Amend clause 17, in part b) by   substituting the attached revised by-law.
 
 **✅ Motion Passed**
@@ -3667,6 +3683,8 @@ Unanimous (13-0)
 
 ### 10#2. Property located at
   181 Skyline Avenue
+
+<div id="motion-10-2-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3686,6 +3704,8 @@ Unanimous (13-0)
   Secondary Plan (O-7609) (Refer to the By-law Stage for Consideration with
   Bill No. 453)
 
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion
@@ -3696,6 +3716,8 @@ Unanimous (12-0)
 ### 2#6. Property
   located at 4675 Wellington Road South
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > Amend clause   2 by adding a new part d) as follows:   “d)        the   Civic Administration BE DIRECTED to identify potential sources of financing   for the additional work identified in Clauses a) and b) including having   discussions with Orgaworld Canada Inc, Ministry of the Environment, City...
 
 **✅ Motion Passed**
@@ -3704,6 +3726,8 @@ Unanimous (11-0)
 
 ### 2#6. Property
   located at 4675 Wellington Road South
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 1 and clause   2, as amended, is put.   Motion Passed
 
@@ -3714,6 +3738,8 @@ Unanimous (11-0)
 ### 2#9. Investment and Economic Prosperity
     Proposal Assessment Process
 
+<div id="motion-2-9-0" class="motion-anchor"></div>
+
 > Pursuant to section 12.3 of the Council   Procedure By-law, Councillor D. Henderson calls for a separate vote on clause   2.
 
 **✅ Motion Passed**
@@ -3722,6 +3748,8 @@ Unanimous (13-0)
 
 ### 2#9. Investment and Economic Prosperity
     Proposal Assessment Process
+
+<div id="motion-2-9-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 2 is put.
 
@@ -3739,6 +3767,8 @@ Unanimous (13-0)
 ### 4#6. The Board of Health of the Middlesex-London
   Health Unit
 
+<div id="motion-4-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3754,6 +3784,8 @@ Unanimous (13-0)
 
 ### 4#6. The Board of Health of the Middlesex-London
   Health Unit
+
+<div id="motion-4-6-1" class="motion-anchor"></div>
 
 > The motion to Approve clause 4 is put.
 
@@ -3771,6 +3803,8 @@ Unanimous (13-0)
 ### 4#6. The Board of Health of the Middlesex-London
   Health Unit
 
+<div id="motion-4-6-2" class="motion-anchor"></div>
+
 > Approve reconsideration of clause 7,   due to a voting error.
 
 **❌ Motion Failed 🔥**
@@ -3786,6 +3820,8 @@ Unanimous (13-0)
 
 ### 4#6. The Board of Health of the Middlesex-London
   Health Unit
+
+<div id="motion-4-6-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3803,6 +3839,8 @@ Unanimous (13-0)
 ### 7#2. Dundas Street and
   Hale Street Intersection
 
+<div id="motion-7-2-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE REQUESTED   to report back at a future meeting of the Civic Works Committee with respect   to the visibility from an eastbound right turn lane on Dundas Street, at Hale   Street, and the potential removal and demolition of the vacant building at   the southwest co...
 
 **✅ Motion
@@ -3812,6 +3850,8 @@ Unanimous (13-0)
 
 ### 8#2. New "Value
   Based" Funding Model for Water and Wastewater Services
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of the Managing Director of Environmental   and Engineering Services and City Engineer, the following actions be taken   with respect to the proposed new “value-based” funding model for water and   wastewater services:   a)              the   new funding model ...
 
@@ -3829,6 +3869,8 @@ Unanimous (13-0)
 ### 8#4. Sole Source
   Purchases of a License for Centralized Child Care Waitlist Application
 
+<div id="motion-8-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director of Neighbourhood, Children & Fire Services, with the concurrence   of the Manager of Purchasing and Supply, the following actions be taken with   respect to the purchase of a license for a centralized child care waitlist   application as a so...
 
 **✅ Motion Passed**
@@ -3837,6 +3879,8 @@ Unanimous (12-0)
 
 ### III. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTEENTH MEETING HELD ON OCTOBER 30, 2012
+
+<div id="motion-iii-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Eighteenth   Meeting held on October 30, 2012.
 
@@ -3847,6 +3891,8 @@ Unanimous (12-0)
 ### XI. EMERGENT
   MOTIONS
 
+<div id="motion-xi-0" class="motion-anchor"></div>
+
 > Approve leave to introduce an   emergent motion related to the Queens Diamond Jubilee medals pursuant to section   11.4 of the Council Procedure By-law.
 
 **✅ Motion Passed**
@@ -3856,6 +3902,8 @@ Unanimous (13-0)
 ### XI. EMERGENT
   MOTIONS
 
+<div id="motion-xi-1" class="motion-anchor"></div>
+
 > Approve That Members of Council BE   REQUESTED to provide the City Clerk with names of individuals they wish   to nominate for the Queen’s Diamond Jubilee Medal by 9AM, Friday, November   23, 2012 so that they can be brought forward to the Finance and   Administrative Services Committee meeting o...
 
 **✅ Motion Passed**
@@ -3863,6 +3911,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill Nos. 446   to 470, except Bill No. 453.
 
@@ -3872,6 +3922,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-1" class="motion-anchor"></div>
+
 > Approve 2nd reading of Bill Nos. 446 to   470, except Bill No. 453.
 
 **✅ Motion Passed**
@@ -3880,6 +3932,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-2" class="motion-anchor"></div>
+
 > Approve 3rd and final reading of Bill   Nos. 446 to 470, except Bill No. 453.
 
 **✅ Motion Passed**
@@ -3887,6 +3941,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill 453
 
@@ -3903,6 +3959,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-4" class="motion-anchor"></div>
+
 > Amend Bill No. 453 to include the attached   revised map as a part of the by-law.
 
 **✅ Motion Passed**
@@ -3910,6 +3968,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-5" class="motion-anchor"></div>
 
 > Approve 2nd reading of Bill 453,   as amended.
 
@@ -3926,6 +3986,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-6" class="motion-anchor"></div>
+
 > Approve 3rd reading of Bill 453, as   amended.
 
 **✅ Motion Passed 🔥**
@@ -3941,6 +4003,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-7" class="motion-anchor"></div>
+
 > Approve leave to introduce the added   by-laws.
 
 **✅ Motion Passed**
@@ -3948,6 +4012,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-8" class="motion-anchor"></div>
 
 > Approve 1st reading of Bill Nos. 471, 472   and 473.
 
@@ -3964,6 +4030,8 @@ Unanimous (13-0)
 
 ### XII. BY-LAWS
 
+<div id="motion-xii-9" class="motion-anchor"></div>
+
 > Approve 2nd reading of Bill Nos. 471,   472 and 473.
 
 **✅ Motion Passed**
@@ -3978,6 +4046,8 @@ Unanimous (13-0)
 </details>
 
 ### XII. BY-LAWS
+
+<div id="motion-xii-10" class="motion-anchor"></div>
 
 > Approve 3rd reading of Bill Nos. 471,   472 and 473.
 
@@ -3995,6 +4065,8 @@ Unanimous (13-0)
 ### XIII. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-xiii-0" class="motion-anchor"></div>
+
 > That Council rise   and go into Committee of the Whole, in camera, for the purpose of considering   the following:
 
 **✅ Motion Passed**
@@ -4002,6 +4074,8 @@ Unanimous (13-0)
 Unanimous (12-0)
 
 ### 9. Pensions
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That the attached presentation from   Gareth Neilson and Bill Tufts, Fair Pensions for All, BE REFERRED to the   Managing Director, Corporate Services and City Treasurer, Chief Financial   Officer and the Managing Director, Corporate Services and Chief Human   Resources Officer, for consideration...
 
@@ -4012,6 +4086,8 @@ Unanimous (13-0)
 
 ### 11. Beavers
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED   to work with the Upper Thames River Conservation Authority (UTRCA) and the   Ministry of Natural Resources (MNR) in rectifying any issues concerning   beavers; it being noted that the Civic Works Committee heard a verbal report   from Councillor J.L. Ba...
 
 **✅ Motion Passed**
@@ -4020,6 +4096,8 @@ Unanimous (13-0)
 
 ### 22. Performance
   Indicators
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Approve that the Managing Director, Planning & City Planner BE DIRECTED   to provide, at the end of every Committee year, a report relating to the   volume of work undertaken, the key performance indicators and how much money   is spent for the amount of development that occurs, by the Planning  ...
 
@@ -4030,6 +4108,8 @@ Unanimous (13-0)
 
 ### 22. Performance
   Indicators
+
+<div id="motion-22-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4046,6 +4126,8 @@ Unanimous (13-0)
 
 ### 22. Performance
   Indicators
+
+<div id="motion-22-2" class="motion-anchor"></div>
 
 > Motion Passed
 

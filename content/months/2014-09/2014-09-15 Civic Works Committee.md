@@ -76,6 +76,8 @@ The
 ### 2. Installation of
   Sidewalks  on Shavian Blvd.
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion

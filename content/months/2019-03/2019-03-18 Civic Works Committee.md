@@ -521,6 +521,8 @@ The meeting adjourned at 1:07 pm
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1 - 2.8, 2.10 - 2.13, 2.15, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -528,6 +530,8 @@ The meeting adjourned at 1:07 pm
 Unanimous (5-0)
 
 ### 2.9. Blue Communities Program Feasibility
+
+<div id="motion-2-9-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the report dated March 18, 2019 with respect to the Council of Canadians’ Blue Communities Project and its application to the City of London BE RECEIVED for information. (2019-E08)
 
@@ -546,6 +550,8 @@ Unanimous (5-0)
 
 ### 2.9. Blue Communities Program Feasibility
 
+<div id="motion-2-9-1" class="motion-anchor"></div>
+
 > That Civic Administration Be REQUESTED to report back to Civic Works Committee with respect to the feasibility of implementing the Blue Communities Program, including the financial impacts of this implementation.
 
 **❌ Motion Failed (2 to 3) 🔥**
@@ -563,6 +569,8 @@ Unanimous (5-0)
 
 ### 2.14. Appointment of Consulting Engineer for the Detailed Design & Tendering of the Churchill Avenue Infrastructure Renewal Project
 
+<div id="motion-2-14-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the appointment of a Consulting Engineer for the Churchill Avenue Reconstruction Project: a)         Dillon Consulting Limited BE APPOINTE...
 
 **✅ Motion Passed (5 to 0)**
@@ -571,6 +579,8 @@ Unanimous (5-0)
 
 ### 3.1. Items not to be heard before 12:10 PM and 12:15 PM - PUBLIC PARTICIPATION MEETING - Proposed Water By-law (W-8) and Wastewater & Stormwater By-law (W-28) Amendments
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Water By-law (W-8) and the Wastewater and Stormwater By-law (WM-28): a)         the attached revised by-law BE INTRODUCED at the Munic...
 
 **✅ Motion Passed (5 to 0)**
@@ -578,6 +588,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. Stopping and Parking in Dedicated Bicycle Lanes
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to stopping and parking in dedicated bicycles lanes: a)         the Civic Administration BE REQUESTED to report back to the Civic Works Committee with respect to improved enforcement options related to the prohibition of stopping and parking in bic...
 

@@ -931,6 +931,8 @@ The meeting adjourned at 8:24 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -938,6 +940,8 @@ The meeting adjourned at 8:24 PM.
 Unanimous (6-0)
 
 ### 3.1. Delegation - S. Levin, Chair, Environmental and Ecological Planning Advisory Committee - 10th Report of the Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
 
 > Motion to add part c) which reads as follows: "c)            the Civic Administration BE REQUESTED to work with the Environmental and Ecological Planning Advisory Committee with respect to natural heritage and stormwater management on a system basis, particularly in the southwest area of the city...
 
@@ -947,6 +951,8 @@ Unanimous (6-0)
 
 ### 3.6. Public Participation Meeting - Application - 147-149 Wellington Street and 253-257 Grey Street (Z-8905)
 
+<div id="motion-3-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Planning and City Planner, with respect to the application of JAM Properties Inc., relating to the property located at 147-149 Wellington Street and 253-257 Grey Street: a)            the proposed by-law appended to the staff report dated Octo...
 
 **✅ Motion Passed (5 to 0)**
@@ -954,6 +960,8 @@ Unanimous (6-0)
 Unanimous (5-0)
 
 ### 3.7. Public Participation Meeting - Amendments to Section 4.10 (Home Occupations) (Z-8946)
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That the application by The Corporation of the City of London, with respect to the proposed Zoning By-law for Home Occupations to add day sitting for dogs and domestic cats as a permitted use BE REFERRED back to the Civic Administration for further consideration, providing direction on issues rai...
 
@@ -970,6 +978,8 @@ Unanimous (5-0)
 
 ### 4.2. Hyde Parks Business Association Board of Management By-laws
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Hyde Park Business Improvement Area By-law as requested by the Hyde Park Business Improvement Area Board of Management as outlined in the communication ...
 
 **✅ Motion Passed (5 to 0)**
@@ -977,6 +987,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.3. Argyle Business Improvement Area Board of Management By-laws
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the Argyle Business Improvement Area By-law as requested by the Argyle Business Improvement Area Board of Management as outlined in the communication dated ...
 

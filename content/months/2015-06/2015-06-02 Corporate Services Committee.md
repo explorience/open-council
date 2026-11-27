@@ -270,6 +270,8 @@ The Corporate Services Committee convened
 ### 2. 2014 Investment
   Report
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -279,14 +281,7 @@ Unanimous (5-0)
 ### 2. 2014 Investment
   Report
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (5-0)
-
-### 5. Standing Committee
-  Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -297,6 +292,8 @@ Unanimous (5-0)
 ### 5. Standing Committee
   Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -306,6 +303,19 @@ Unanimous (5-0)
 ### 5. Standing Committee
   Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
+
+### 5. Standing Committee
+  Membership - Federation of Canadian Municipalities - Councillor M. Cassidy
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -315,14 +325,7 @@ Unanimous (5-0)
 ### 8. London Convention
   Centre Naming Rights Policy
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (5-0)
-
-### 8. London Convention
-  Centre Naming Rights Policy
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -332,6 +335,19 @@ Unanimous (5-0)
 
 ### 8. London Convention
   Centre Naming Rights Policy
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (5-0)
+
+### 8. London Convention
+  Centre Naming Rights Policy
+
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion Passed
 

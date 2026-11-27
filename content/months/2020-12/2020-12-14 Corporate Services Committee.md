@@ -159,6 +159,8 @@ The meeting adjourned at 12:53 PM.
 
 ### 1.2. Election of Vice Chair for the term ending November 30, 2021
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > That Councillor Michael van Holst BE ELECTED Vice Chair of the Corporate Services Committee for the term ending November 30, 2021.
 
 **✅ Motion Passed (5 to 0)**
@@ -166,6 +168,8 @@ The meeting adjourned at 12:53 PM.
 Unanimous (5-0)
 
 ### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That items 2.1 and 2.2 BE APPROVED.
 

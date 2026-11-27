@@ -1022,6 +1022,8 @@ The meeting adjourned at 3:18 PM.
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2021 Annual Budget Update: a) Case #1 - RBC Place London - Promissory Note Forgiveness - Operating Expenditure ($72,000); Net Levy $0, BE APPROVED; b) Case #2 - RBC Place - Revised Capital Plan - Capital Expenditure $166,000; Net Levy $0, BE...
 
 **✅ Motion Passed (15 to 0)**
@@ -1029,6 +1031,8 @@ The meeting adjourned at 3:18 PM.
 Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
 
 > c) Case #3 - Recycling and Composting - Repair of Material Recovery Facility Fire Suppressant System - Capital Expenditure $800,000; Net Levy $0, BE APPROVED;
 
@@ -1038,6 +1042,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
 > d) Case #4 - Children's Services - Reduction in Required Investment in 2021 due to impacts of COVID-19 - Operating Expenditure ($1,630,000); Net Levy ($1,630,000), BE APPROVED;
 
 **✅ Motion Passed (13 to 0)**
@@ -1045,6 +1051,8 @@ Unanimous (15-0)
 Unanimous (13-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > e) Case #5 - Middlesex-London Health Unit - Increased Funding by the Ministry of Health in 2021 - Operating Expenditure ($610,000); Net Levy ($610,000), BE APPROVED;
 
@@ -1054,6 +1062,8 @@ Unanimous (14-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-7" class="motion-anchor"></div>
+
 > Motion to approve part a) of the amendment, as follows: That the following actions be taken with respect to Business Case #9: a)       the attached document entitled “London Community Ideas for Film Industry Development” BE REFFERED to the Civic Administration for consideration; and,
 
 **✅ Motion Passed (15 to 0)**
@@ -1061,6 +1071,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-8" class="motion-anchor"></div>
 
 > Motion to approve part b) of the amendment as follows: b)       Business Case #9 (ADDED) – Parks and Recreation – Implementation of Strategic Objectives Related to Growing a Film Sector in London” BE AMENDED to increase the annual funding allocation to $300,000
 
@@ -1077,6 +1089,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-10" class="motion-anchor"></div>
+
 > 
 
 **✅ Motion Passed (14 to 1)**
@@ -1091,6 +1105,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-11" class="motion-anchor"></div>
 
 > Approve Business Case #9, as further amended.
 
@@ -1107,6 +1123,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-13" class="motion-anchor"></div>
+
 > j) Case #10 - Revised Implementation - 60% Waste Diversion Action Plan - Operating Expenditure ($3,750,000); Net Levy ($3,750,000), BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -1114,6 +1132,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-16" class="motion-anchor"></div>
 
 > 
 
@@ -1130,6 +1150,8 @@ Unanimous (15-0)
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
 
+<div id="motion-4-1-17" class="motion-anchor"></div>
+
 > Approve the revision to BC #4B, as amended.
 
 **✅ Motion Passed (14 to 1)**
@@ -1144,6 +1166,8 @@ Unanimous (15-0)
 </details>
 
 ### 4.1. Review of Budget Amendments (2021 to 2023 totals: rounded to the closest $1,000)
+
+<div id="motion-4-1-18" class="motion-anchor"></div>
 
 > That Business Case 7B: Core Area Action Plan, BE AMENDED by reducing the annual allocation for 2021, 2022 and 2023, in the amount of $825 K, to eliminate the 4 year Core Area Ambassador Pilot Program.
 
@@ -1162,6 +1186,8 @@ Unanimous (15-0)
 
 ### 4.2. Reserves and Reserve Funds Overview
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the recommendations for items 4.2, 4.3 and 4.4 BE APPROVED.
 
 **✅ Motion Passed (13 to 0)**
@@ -1170,6 +1196,8 @@ Unanimous (13-0)
 
 ### 4.5. Operating Budget
 
+<div id="motion-4-5-1" class="motion-anchor"></div>
+
 > Motion to approve part a) That in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the operating budget (Appendix A): a)      Middlesex-London Health Unit i)      the revised 2021 budget for Middlesex-London Health Unit BE AP...
 
 **✅ Motion Passed (14 to 0)**
@@ -1177,6 +1205,8 @@ Unanimous (13-0)
 Unanimous (14-0)
 
 ### 4.5. Operating Budget
+
+<div id="motion-4-5-2" class="motion-anchor"></div>
 
 > Motion to approve part b) b)      Golf       i)       the revised 2021 budget for Golf BE APPROVED in the gross amount of $3,695,630 and net amount of $40,255;        ii)      the revised 2022 to 2023 budget for Golf BE APPROVED in the gross amount of $7,528,799 and net amount of $132,626.
 
@@ -1195,6 +1225,8 @@ Unanimous (14-0)
 
 ### 4.5. Operating Budget
 
+<div id="motion-4-5-3" class="motion-anchor"></div>
+
 > Motion to approve part c) c)      Children’s Services       i)      the revised 2021 budget for Children’s Services BE APPROVED in the gross amount of $60,972,901 and net amount of $9,902,857;       ii)      the revised 2022 to 2023 budget for Children’s Services BE APPROVED in the gross amount o...
 
 **✅ Motion Passed (13 to 0)**
@@ -1202,6 +1234,8 @@ Unanimous (14-0)
 Unanimous (13-0)
 
 ### 4.5. Operating Budget
+
+<div id="motion-4-5-4" class="motion-anchor"></div>
 
 > Motion to approve part d) d)      All Other Areas       i)      the revised 2021 budget, excluding Middlesex-London Health Unit, Golf, and Children’s Services BE APPROVED in the net amount of $657,542,662 after recognizing $8,852,749 of increased taxation from assessment growth; and 2021 gross ex...
 
@@ -1220,6 +1254,8 @@ Unanimous (13-0)
 
 ### 4.5. Operating Budget
 
+<div id="motion-4-5-5" class="motion-anchor"></div>
+
 > Motion to approve part e) e)      Total Budget       i)      it being noted that the revised total 2021 tax levy is the net amount of $673,580,833 after recognizing $8,852,749 of increased taxation from assessment growth; and total 2021 gross expenditures equal to $1,039,162,202; and,        ii) ...
 
 **✅ Motion Passed (13 to 1)**
@@ -1236,6 +1272,8 @@ Unanimous (13-0)
 </details>
 
 ### 4.6. Capital Budget
+
+<div id="motion-4-6-0" class="motion-anchor"></div>
 
 > That, in accordance with section 291(4)(c) of the Municipal Act 2001, as amended, the following actions be taken with respect to the capital budget (Appendix B), it being noted the 2021, 2022 and 2023 budget figures reflect the exclusion of the Master Accommodation Plan as approved via the “Maste...
 
@@ -1254,6 +1292,8 @@ Unanimous (13-0)
 
 ### 4.7. By-laws regarding Tax Levy, Operating and Capital Budgets
 
+<div id="motion-4-7-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to bring forward any necessary by-laws regarding tax levy, the operating and capital budgets for introduction at Municipal Council.
 
 **✅ Motion Passed (14 to 0)**
@@ -1262,6 +1302,8 @@ Unanimous (14-0)
 
 ### 4.8. Water and Wastewater and Treatment Services
 
+<div id="motion-4-8-0" class="motion-anchor"></div>
+
 > That in accordance with section 291(4)(c) of the Municipal Act, 2001, as amended, the following actions be taken with respect to the 2021 to 2023 operating budgets and 2021 to 2023 capital budgets and associated forecasts for Water and Wastewater and Treatment Services:    a)     the 2021 to 2023...
 
 **✅ Motion Passed (15 to 0)**
@@ -1269,6 +1311,8 @@ Unanimous (14-0)
 Unanimous (15-0)
 
 ### 5.2. Update Re: London Police Service
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > Following up on Municipal Council’s resolution on 16 June 2020, The London Police Services Board BE REQUESTED to update Municipal Council on how it has responded and is responding to the issues raised during the Black Lives Matter protest; it being noted that London Police Services Board reduced ...
 

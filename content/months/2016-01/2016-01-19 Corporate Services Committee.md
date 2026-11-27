@@ -580,15 +580,7 @@ Motion
   the Ministry of Economic Development, Trade and Employment for 2506 Bonder
   Road, Innovation Park, Phase IV
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 3. Future Tax Policy -
-  Possible Directions
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -599,6 +591,20 @@ Unanimous (4-0)
 
 ### 3. Future Tax Policy -
   Possible Directions
+
+<div id="motion-3-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 3. Future Tax Policy -
+  Possible Directions
+
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -616,6 +622,8 @@ Unanimous (4-0)
 
 ### 3. Future Tax Policy -
   Possible Directions
+
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -635,14 +643,7 @@ Unanimous (4-0)
   for 2016, Changes in Taxable Phase-in Values and Shifts in Taxation as a
   Result of Reassessment
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 5. Hydro One
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -653,14 +654,7 @@ Unanimous (4-0)
 
 ### 5. Hydro One
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 5. Hydro One
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,6 +664,30 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 5. Hydro One
+
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 5. Hydro One
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 5. Hydro One
+
+<div id="motion-5-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -681,6 +699,8 @@ Unanimous (4-0)
 ### 6. Public Question
   Session/Period
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -690,6 +710,8 @@ Unanimous (4-0)
 
 ### 7. Confirmation of
   Appointment to the London Advisory Committee on Heritage
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -701,6 +723,8 @@ Unanimous (4-0)
 ### 8. Request for
   Approval of an Expense on an Exception Basis
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -710,6 +734,8 @@ Unanimous (4-0)
 
 ### 9. Diversity,
   Integration and Inclusion in London
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -722,6 +748,8 @@ Unanimous (4-0)
   Designation of the International Food Festival as a Municipally Significant
   Event
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -731,6 +759,8 @@ Unanimous (4-0)
 
 ### 11. Request for
   Designation of the London Rib Fest as a Municipally Significant Event
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -742,6 +772,8 @@ Unanimous (4-0)
 ### 12. Corporate Services
   Committee Deferred Matters List
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -752,6 +784,8 @@ Unanimous (4-0)
 ### 13. ADDED - Provincial
   Dedicated Gas Tax Funds for Public Transportation Program
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -761,6 +795,8 @@ Unanimous (4-0)
 
 ### 14. ADDED - Absence
   from Meeting
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

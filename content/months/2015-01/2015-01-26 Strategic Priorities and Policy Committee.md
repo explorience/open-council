@@ -448,14 +448,7 @@ The meeting adjourned at 7:22 PM.
 ### 2. Establishment of a Governance
   Working Group
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. 4:00 PM -
-  Investment and Economic Prosperity Committee
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -466,14 +459,7 @@ Unanimous (14-0)
 ### 3. 4:00 PM -
   Investment and Economic Prosperity Committee
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. 4:00 PM -
-  Investment and Economic Prosperity Committee
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -484,6 +470,8 @@ Unanimous (14-0)
 ### 3. 4:00 PM -
   Investment and Economic Prosperity Committee
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -492,6 +480,30 @@ Unanimous (14-0)
 
 ### 3. 4:00 PM -
   Investment and Economic Prosperity Committee
+
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. 4:00 PM -
+  Investment and Economic Prosperity Committee
+
+<div id="motion-3-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. 4:00 PM -
+  Investment and Economic Prosperity Committee
+
+<div id="motion-3-4" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -509,6 +521,8 @@ Unanimous (14-0)
 ### 3. 4:00 PM -
   Investment and Economic Prosperity Committee
 
+<div id="motion-3-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -517,6 +531,8 @@ Unanimous (14-0)
 
 ### 4. Community Economic
   Strategy - Verbal (Lauren Millier, Millier Dickinson Blais)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -527,6 +543,8 @@ Unanimous (14-0)
 ### 5. Strategic Plan -
   Verbal
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -536,6 +554,8 @@ Unanimous (14-0)
 ### 6. Appointment to the
   Middlesex-London Health Unit (Requires 1)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -544,6 +564,8 @@ Unanimous (13-0)
 
 ### 7. Appointment to the
   Upper Thames River Conservation Authority (Requires 1)
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -560,6 +582,8 @@ Unanimous (13-0)
 
 ### 8. Argyle BIA Composition
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -568,6 +592,8 @@ Unanimous (13-0)
 
 ### 9. Request for
   Orientation by Boards and Commissions
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 

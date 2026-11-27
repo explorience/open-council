@@ -582,6 +582,8 @@ The meeting adjourned at 5:26 PM.
 ### 2. Parking Ticket
   Online Payment Module (TOPS)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -591,6 +593,8 @@ Unanimous (5-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -602,6 +606,8 @@ Unanimous (5-0)
 ### 4. Downtown Infrastructure
   Construction Project Coordination
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -611,6 +617,8 @@ Unanimous (5-0)
 
 ### 5. Hydro One Grant For
   Tree Planting
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -622,6 +630,8 @@ Unanimous (5-0)
 ### 6. Commissioners Road
   West Realignment Environmental Assessment Update
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -632,6 +642,8 @@ Unanimous (5-0)
 ### 7. Pollution
   Prevention and Control Plan Update
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -641,6 +653,8 @@ Unanimous (5-0)
 
 ### 8. Leak Logger Network
   for the Water Distribution System
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -653,6 +667,8 @@ Unanimous (5-0)
   Implementation of Cityworks CMMS Solution for Water Sanitary and Stormwater
   Infrastructure - Service Agreement
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -662,6 +678,8 @@ Unanimous (5-0)
 
 ### 10. Wastewater System
   Improvements Summary
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -674,6 +692,8 @@ Unanimous (5-0)
   Installation of an Inductively Coupled Plasma Optical Emission
   Spectrophotometer
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -683,6 +703,8 @@ Unanimous (5-0)
 
 ### 12. Amendment to the
   Waste Discharge By-law WM-16
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -694,6 +716,8 @@ Unanimous (5-0)
 ### 13. 9th Report of the
   Transportation Advisory Committee
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -703,6 +727,8 @@ Unanimous (5-0)
 
 ### 14. 8th Report of the
   Rapid Transit Implementation Working Group
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -714,6 +740,8 @@ Unanimous (5-0)
 ### 15. Safer School Zones
   Act
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -724,6 +752,8 @@ Unanimous (5-0)
 ### 16. Notification of
   Maintenance Activities
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -732,6 +762,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 17. Water Restrictions
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -743,6 +775,8 @@ Unanimous (4-0)
 ### 18. 10th Report of the
   Cycling Advisory Committee
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -752,6 +786,8 @@ Unanimous (4-0)
 
 ### 19. Deferred Matters
   List
+
+<div id="motion-19-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

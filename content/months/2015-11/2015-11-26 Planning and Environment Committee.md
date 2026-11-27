@@ -414,15 +414,7 @@ The
 ### 2. Draft McCormick
   Area Secondary Plan (OZ-7601)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 2. Draft McCormick
-  Area Secondary Plan (OZ-7601)
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -434,6 +426,20 @@ Unanimous (4-0)
 ### 2. Draft McCormick
   Area Secondary Plan (OZ-7601)
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 2. Draft McCormick
+  Area Secondary Plan (OZ-7601)
+
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -444,15 +450,7 @@ Unanimous (4-0)
 ### 3. Property located at
   1156 Dundas Street (OZ-8489)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 3. Property located at
-  1156 Dundas Street (OZ-8489)
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -464,6 +462,8 @@ Unanimous (4-0)
 ### 3. Property located at
   1156 Dundas Street (OZ-8489)
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -473,6 +473,20 @@ Unanimous (4-0)
 
 ### 3. Property located at
   1156 Dundas Street (OZ-8489)
+
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 3. Property located at
+  1156 Dundas Street (OZ-8489)
+
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -483,6 +497,8 @@ Unanimous (4-0)
 
 ### 4. Secondary Dwelling
   Units (OZ-8053)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -501,15 +517,7 @@ Unanimous (4-0)
 ### 4. Secondary Dwelling
   Units (OZ-8053)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 4. Secondary Dwelling
-  Units (OZ-8053)
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -520,6 +528,20 @@ Unanimous (4-0)
 
 ### 4. Secondary Dwelling
   Units (OZ-8053)
+
+<div id="motion-4-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 4. Secondary Dwelling
+  Units (OZ-8053)
+
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -803,6 +803,8 @@ The
 ### 2. 3rd Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -812,6 +814,8 @@ Unanimous (4-0)
 
 ### 2. 3rd Report of the
   Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -823,17 +827,7 @@ Unanimous (4-0)
 ### 4. Building Division
   Monthly Reports for December 2015 and January 2016
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 5. Properties located
-  at 1235, 1250, 1415, 1422 and 1603 Thornley Street, 1200, 1203 and 1206
-  Cranbrook Road, Block 205 in 33M-394, Block 82 in 33M-428 and Part 10 in
-  33R-16180 (Z-8561)
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -847,6 +841,8 @@ Unanimous (4-0)
   Cranbrook Road, Block 205 in 33M-394, Block 82 in 33M-428 and Part 10 in
   33R-16180 (Z-8561)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -859,6 +855,22 @@ Unanimous (4-0)
   Cranbrook Road, Block 205 in 33M-394, Block 82 in 33M-428 and Part 10 in
   33R-16180 (Z-8561)
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 5. Properties located
+  at 1235, 1250, 1415, 1422 and 1603 Thornley Street, 1200, 1203 and 1206
+  Cranbrook Road, Block 205 in 33M-394, Block 82 in 33M-428 and Part 10 in
+  33R-16180 (Z-8561)
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -869,15 +881,7 @@ Unanimous (4-0)
 ### 6. Mushroom Farm
   Zoning Review (Z-8513)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 6. Mushroom Farm
-  Zoning Review (Z-8513)
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -888,6 +892,20 @@ Unanimous (4-0)
 
 ### 6. Mushroom Farm
   Zoning Review (Z-8513)
+
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. Mushroom Farm
+  Zoning Review (Z-8513)
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -899,15 +917,7 @@ Unanimous (4-0)
 ### 7. Property located at
   925 Wonderland Road South (Z-8576)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 7. Property located at
-  925 Wonderland Road South (Z-8576)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -919,6 +929,20 @@ Unanimous (4-0)
 ### 7. Property located at
   925 Wonderland Road South (Z-8576)
 
+<div id="motion-7-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 7. Property located at
+  925 Wonderland Road South (Z-8576)
+
+<div id="motion-7-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -929,15 +953,7 @@ Unanimous (4-0)
 ### 8. Property located at
   585 Third Street (TZ-8563)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 8. Property located at
-  585 Third Street (TZ-8563)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -948,6 +964,20 @@ Unanimous (4-0)
 
 ### 8. Property located at
   585 Third Street (TZ-8563)
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 8. Property located at
+  585 Third Street (TZ-8563)
+
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -959,15 +989,7 @@ Unanimous (4-0)
 ### 9. Properties located
   at 1065, 1069 and 1093 Margaret Street (Z-8575)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. Properties located
-  at 1065, 1069 and 1093 Margaret Street (Z-8575)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -978,6 +1000,20 @@ Unanimous (4-0)
 
 ### 9. Properties located
   at 1065, 1069 and 1093 Margaret Street (Z-8575)
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Properties located
+  at 1065, 1069 and 1093 Margaret Street (Z-8575)
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -988,6 +1024,8 @@ Unanimous (4-0)
 
 ### 10. Properties located
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1006,6 +1044,8 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1015,6 +1055,8 @@ Unanimous (4-0)
 
 ### 10. Properties located
   at 1284 and 1388 Sunningdale Road West (39T-04510/Z-8521)
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1026,6 +1068,8 @@ Unanimous (4-0)
 ### 11. 3rd Report of the
   Trees and Forests Advisory Committee
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1034,6 +1078,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 12. PEC Deferred List
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

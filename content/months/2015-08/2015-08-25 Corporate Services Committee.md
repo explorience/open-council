@@ -425,6 +425,8 @@ The Corporate Services Committee convened
   Execution of the Occupancy Agreement with London Hydro for an Electric
   Vehicle Charger with Battery Storage System
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -434,6 +436,8 @@ Unanimous (5-0)
 
 ### 3. 2015 Federal
   Election
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -446,6 +450,8 @@ Unanimous (5-0)
   Agreement - Northwest Corner of Dundas and Burbrook Streets - By-law
   S.-5743-223
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -455,6 +461,8 @@ Unanimous (5-0)
 
 ### 5. 1499 Stoneybrook
   Crescent - Encroachment Agreement - By-law S.-5742-222
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -466,15 +474,7 @@ Unanimous (5-0)
 ### 6. Recognition of the
   Reign of Queen Elizabeth ll
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Amendment to
-  Council Policy 28(2) Council Members' Expense Account
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -485,6 +485,20 @@ Unanimous (5-0)
 
 ### 7. Amendment to
   Council Policy 28(2) Council Members' Expense Account
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Amendment to
+  Council Policy 28(2) Council Members' Expense Account
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -503,6 +517,8 @@ Unanimous (5-0)
 ### 8. Option to Convert
   Interest Free Loan to Grant - London Community Players (Palace Theatre)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -513,15 +529,7 @@ Unanimous (5-0)
 ### 9. Confirmation of
   Appointment to the Advisory Committee on the Environment
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Consideration of
-  Appointment to the Accessibility Advisory Committee
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -532,6 +540,20 @@ Unanimous (5-0)
 
 ### 10. Consideration of
   Appointment to the Accessibility Advisory Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Consideration of
+  Appointment to the Accessibility Advisory Committee
+
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -542,6 +564,8 @@ Unanimous (5-0)
 
 ### 12. (ADDED) Ranked Ballot Process –
   Appointments by Municipal Council
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

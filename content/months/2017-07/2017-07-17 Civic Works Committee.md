@@ -904,6 +904,8 @@ The
 ### 2. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -913,6 +915,8 @@ Unanimous (4-0)
 
 ### 3. STAFF REPORT -
   Legal Limit Transfer - Wonderland Road South and Colonel Talbot Road
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -925,6 +929,8 @@ Unanimous (4-0)
   Sunningdale Road Improvements Detailed Design and Tendering Appointment of
   Consulting Engineer
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -935,17 +941,7 @@ Unanimous (4-0)
 ### 5. STAFF REPORT -
   Appointment of Consulting Engineers Infrastructure Renewal Program 2017-2019
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 6. STAFF REPORT -
-  Appointment of Consulting Engineer for Various Technical Studies as Part of
-  the Environmental Assessment Process for the Proposed Expansion of the W12A
-  Landfill Site
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -958,6 +954,22 @@ Unanimous (4-0)
   Appointment of Consulting Engineer for Various Technical Studies as Part of
   the Environmental Assessment Process for the Proposed Expansion of the W12A
   Landfill Site
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. STAFF REPORT -
+  Appointment of Consulting Engineer for Various Technical Studies as Part of
+  the Environmental Assessment Process for the Proposed Expansion of the W12A
+  Landfill Site
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -968,6 +980,8 @@ Unanimous (4-0)
 
 ### 8. STAFF REPORT -
   Downsizing Water Meters
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -987,6 +1001,8 @@ Unanimous (4-0)
   Appointment of Consulting Engineers Growth Management Implementation Strategy
   Southwest Sanitary Servicing Projects
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -996,6 +1012,8 @@ Unanimous (4-0)
 
 ### 10. STAFF REPORT - High
   Speed Rail
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,6 +1027,8 @@ Unanimous (5-0)
   Services – Pottersburg - Vauxhall Wastewater Treatment Plants Interconnection
   Project
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1019,6 +1039,8 @@ Unanimous (4-0)
 ### 12. STAFF REPORT -
   Comments on Environmental Bill of Rights Registry – Discussion Paper:
   Addressing Food and Organic Waste in Ontario
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1031,6 +1053,8 @@ Unanimous (4-0)
   Water and Erosion Control Infrastructure (WECI) Program: 2017 Provincially-Approved
   Project Funding (Sole Sourced)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1040,6 +1064,8 @@ Unanimous (4-0)
 
 ### 14. STAFF REPORT -
   Shift Rapid Transit Additional Engineering and Legal Survey
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1051,6 +1077,8 @@ Unanimous (4-0)
 ### 15. STAFF REPORT - 2017 
   Ontario Municipal Commuter Cycling (OMCC) Program
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1060,6 +1088,8 @@ Unanimous (4-0)
 
 ### 16. 7th Report of the
   Transportation Advisory Committee
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1071,6 +1101,8 @@ Unanimous (4-0)
 ### 17. 2nd Report of the
   Waste Management Working Group
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1080,6 +1112,8 @@ Unanimous (4-0)
 
 ### 18. 7th Report of the
   Cycling Advisory Committee
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1091,6 +1125,8 @@ Unanimous (4-0)
 ### 19. COUNCILLOR
   SUBMISSION - J. Zaifman - Hydro One Beautification Fund
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1101,6 +1137,8 @@ Unanimous (4-0)
 ### 20. Deferred Matters
   List
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1110,6 +1148,8 @@ Unanimous (3-0)
 
 ### 21. (ADDED) – COUNCIL
   MEMBER SUBMISSION – Deferral of Tree Cutting on Trowbridge Avenue
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1128,6 +1168,8 @@ Unanimous (3-0)
 ### 22. (ADDED) PUBLIC
   SUBMISSION - F. Fernandez - Ontario Power Generation's Proposed Nuclear Waste
   Repository
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

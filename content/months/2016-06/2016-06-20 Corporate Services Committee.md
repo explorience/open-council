@@ -268,6 +268,8 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Declare Surplus - Portion of City-Owned Property - 7109 Westminster Drive
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -280,6 +282,8 @@ Unanimous (4-0)
   76 Evergreen Avenue, 80 Evergreen Avenue, 280 York Street, 340 Wellington
   Street, 1577 Wilton Grove Road and 3713 Scotland Drive
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -290,6 +294,8 @@ Unanimous (4-0)
 ### 4. STAFF REPORT - City
   of London/Western Fair Association Lease Agreement Request for Consent to
   Rehabilitate Grandstand
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -302,6 +308,8 @@ Unanimous (4-0)
   Request for Delegation - William Komer, Executive Director, Campus Creative
   re Lorne Avenue Public School
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -311,6 +319,8 @@ Unanimous (4-0)
 
 ### 6. ADDED -  COUNCIL
   MEMBER SUBMISSION - Request for Inquiry by the Integrity Commissioner
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -322,6 +332,8 @@ Unanimous (4-0)
 ### 7. ADDED - STAFF
   REPORT - Canada 150 Community Infrastructure Program - Intake Two
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -331,6 +343,8 @@ Unanimous (4-0)
 
 ### 8. ADDED - STAFF
   REPORT - Annual Meeting Calendar
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -1342,6 +1342,8 @@ The meeting adjourned at 9:16 PM.
 ### 2. 11th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1351,6 +1353,8 @@ Unanimous (4-0)
 
 ### 3. 10th Report of the
   Trees and Forests Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1362,6 +1366,8 @@ Unanimous (4-0)
 ### 4. Property located at
   3260 Singleton Avenue (H-8668)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1371,6 +1377,8 @@ Unanimous (4-0)
 
 ### 5. Property located at
   805 Killarney Road (Part Block 141 in Plan 33M-580) (P-8612)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1383,6 +1391,8 @@ Unanimous (4-0)
   Improvement Area and Old East Village Community Improvement Area - Result of
   Appeal to the Ontario Municipal Board (Z-8625)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1393,15 +1403,7 @@ Unanimous (4-0)
 ### 7. Property located on
   a portion of 1300 Fanshawe Park Road East (H-8692)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 8. Properties located
-  at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1413,15 +1415,7 @@ Unanimous (4-0)
 ### 8. Properties located
   at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 8. Properties located
-  at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1432,6 +1426,32 @@ Unanimous (4-0)
 
 ### 8. Properties located
   at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 8. Properties located
+  at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 8. Properties located
+  at 185 and 199 Commissioners Road East (39T-108501/Z-8682)
+
+<div id="motion-8-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1450,6 +1470,8 @@ Unanimous (4-0)
 ### 9. Property located at
   607 Wellington Road (Z-8681)
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1459,6 +1481,8 @@ Unanimous (4-0)
 
 ### 9. Property located at
   607 Wellington Road (Z-8681)
+
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1470,15 +1494,7 @@ Unanimous (3-0)
 ### 9. Property located at
   607 Wellington Road (Z-8681)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. Properties located
-  at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1490,6 +1506,8 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1500,6 +1518,20 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Properties located
+  at 1420 Westdel Bourne, 1826 and 1854 Oxford Street West (39T-16502/Z-8621)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1510,15 +1542,7 @@ Unanimous (4-0)
 ### 11. Properties located
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. Properties located
-  at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1529,6 +1553,20 @@ Unanimous (4-0)
 
 ### 11. Properties located
   at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. Properties located
+  at 1349, 1351, 1357 and 1361 Commissioners Road West (Z-8635)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1539,6 +1577,8 @@ Unanimous (4-0)
 
 ### 12. Properties located
   at 1577 and 1687 Wilton Grove Road (OZ-8667)
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1557,6 +1597,8 @@ Unanimous (4-0)
 ### 12. Properties located
   at 1577 and 1687 Wilton Grove Road (OZ-8667)
 
+<div id="motion-12-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1567,6 +1609,8 @@ Unanimous (3-0)
 ### 12. Properties located
   at 1577 and 1687 Wilton Grove Road (OZ-8667)
 
+<div id="motion-12-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1576,6 +1620,8 @@ Unanimous (4-0)
 
 ### 13. Property located at
   806 Victoria Avenue
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1587,6 +1633,8 @@ Unanimous (2-0)
 ### 13. Property located at
   806 Victoria Avenue
 
+<div id="motion-13-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1597,6 +1645,8 @@ Unanimous (2-0)
 ### 13. Property located at
   806 Victoria Avenue
 
+<div id="motion-13-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1607,15 +1657,7 @@ Unanimous (2-0)
 ### 14. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 14. Property located at
-  58 Sunningdale Road West (39T-16503/OZ-8637)
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1626,6 +1668,20 @@ Unanimous (4-0)
 
 ### 14. Property located at
   58 Sunningdale Road West (39T-16503/OZ-8637)
+
+<div id="motion-14-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 14. Property located at
+  58 Sunningdale Road West (39T-16503/OZ-8637)
+
+<div id="motion-14-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1637,6 +1693,8 @@ Unanimous (4-0)
 ### 15. (ADDED) 11th Report
   of the London Advisory Committee on Heritage
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1646,6 +1704,8 @@ Unanimous (3-0)
 
 ### 16. (ADDED)  Intensification/Primary Transit
   Area
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

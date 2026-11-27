@@ -602,6 +602,8 @@ The
 ### 2. 9th Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -612,6 +614,8 @@ Unanimous (5-0)
 ### 2. 9th Report of the
   Transportation Advisory Committee
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -621,6 +625,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   South Street and Grey Street Two-Way Conversion
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -633,6 +639,8 @@ Unanimous (5-0)
   Victoria Bridge - Environmental Assessment - Appointment of Consulting
   Engineer
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -642,6 +650,8 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT -
   Amendments to the Traffic and Parking By-law
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -654,6 +664,8 @@ Unanimous (5-0)
   Update on the Provincial Public Electric Vehicle (EV) Charging Application
   Process and Next Steps
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -663,6 +675,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT -
   Utility-Issued Alternate Locate Agreements
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -675,6 +689,8 @@ Unanimous (5-0)
   External Audit of London's Drinking Water Quality Management System and 2016
   Management Review
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -685,15 +701,7 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Appointment of Consultants - Clean Water and Wastewater Fund Projects
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Commercial
-  Boulevard Parking Application - 472 Ridout Street North
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -704,6 +712,20 @@ Unanimous (5-0)
 
 ### 11. Commercial
   Boulevard Parking Application - 472 Ridout Street North
+
+<div id="motion-11-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Commercial
+  Boulevard Parking Application - 472 Ridout Street North
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -715,6 +737,8 @@ Unanimous (5-0)
 ### 12. DELEGATION - S.
   Mathers, Manager, Stormwater - One River-Master Plan Environmental Assessment
   Terms of Reference
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -733,6 +757,8 @@ Unanimous (5-0)
 ### 12. DELEGATION - S.
   Mathers, Manager, Stormwater - One River-Master Plan Environmental Assessment
   Terms of Reference
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -751,6 +777,8 @@ Unanimous (5-0)
 ### 13. Deferred Matters
   List
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -759,6 +787,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 14. (ADDED) Downtown Parking Study
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

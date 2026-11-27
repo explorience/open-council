@@ -518,6 +518,8 @@ The Corporate Services Committee convened
   2016 Operating Budget Year-End Monitoring Report – Property Tax, Water,
   Wastewater & Treatment Budgets
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -528,6 +530,8 @@ Unanimous (6-0)
 ### 2. STAFF REPORT - 
   2016 Operating Budget Year-End Monitoring Report – Property Tax, Water,
   Wastewater & Treatment Budgets
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -546,6 +550,8 @@ Unanimous (6-0)
 ### 3. STAFF REPORT - 2016
   Life-To-Date Capital Budget – 2016 Year-End Capital Monitoring Report
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -556,6 +562,8 @@ Unanimous (6-0)
 ### 4. STAFF REPORT -
   Expropriation of Land - Implementation of the Medway Valley Trail Master Plan
   - North of Fanshawe Park Road
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -568,6 +576,8 @@ Unanimous (6-0)
   SUBMISSION - Report of the Federation of Canadian Municipalities Board of
   Directors Meeting - Whistler, BC March 13 - 17, 2017
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -578,6 +588,8 @@ Unanimous (6-0)
 ### 6. PUBLIC SUBMISSION -
   London Cycle Link and Squeaky Wheel Bike Co-Op - Request for Designation as a
   Municipally Significant Event
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -596,6 +608,8 @@ Unanimous (6-0)
 ### 7. Corporate Services
   Committee Deferred Matters List
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -606,6 +620,8 @@ Unanimous (6-0)
 ### 8. ADDED - COUNCIL MEMBER
   SUBMISSION - Board of Directors - Federation of Canadian Municipalities
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -615,6 +631,8 @@ Unanimous (6-0)
 
 ### 9. ADDED - PUBLIC
   SUBMISSION - London Police Services Board Composition
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -627,6 +645,8 @@ Unanimous (5-0)
   REPORT - Canada 150 Community Infrastructure Program Intake Two Contribution
   Agreement
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -636,6 +656,8 @@ Unanimous (5-0)
 
 ### 11. ADDED - STAFF
   REPORT - Vacancy - London Hydro Inc. Board of Directors
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

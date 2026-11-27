@@ -372,15 +372,7 @@ Motion
 ### 4. Municipal Golf -
   Agreement with London Golf Club
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 6. Amendment to Fees
-  and Charges By-law A-47 Adult Day Program - Dearness Home
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -391,6 +383,20 @@ Unanimous (4-0)
 
 ### 6. Amendment to Fees
   and Charges By-law A-47 Adult Day Program - Dearness Home
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 6. Amendment to Fees
+  and Charges By-law A-47 Adult Day Program - Dearness Home
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -402,6 +408,8 @@ Unanimous (4-0)
 ### 7. 4th Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -411,6 +419,8 @@ Unanimous (4-0)
 
 ### 8. 2nd Report of the
   Accessibility Advisory Committee
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -422,6 +432,8 @@ Unanimous (4-0)
 ### 9. Neighbourhood Family
   Centre - Thames Valley District School Board - Lord Nelson Public School
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -431,6 +443,8 @@ Unanimous (2-0)
 
 ### 10. Extension of Hours
   for Amplified Sound at the Memorial Cup
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

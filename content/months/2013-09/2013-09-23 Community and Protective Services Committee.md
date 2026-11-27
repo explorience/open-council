@@ -143,6 +143,8 @@ Motion
 ### 2. 9th Report of the
   London Housing Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -153,6 +155,8 @@ Unanimous (5-0)
 ### 3. 3rd Report of the
   Town and Gown Committee
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -162,6 +166,8 @@ Unanimous (5-0)
 
 ### 4. Long Term Care and
   Adult Day Program, Management Consulting and Administrator Services Contract
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

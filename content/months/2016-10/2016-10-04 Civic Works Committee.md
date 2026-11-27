@@ -667,6 +667,8 @@ The
   South Improvements (Manning Drive to South City Limits) Detailed Design and
   Tendering Appointment of Consulting Engineer
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -676,6 +678,8 @@ Unanimous (6-0)
 
 ### 4. Southwest Ontario's
   Public Transportation Opportunities
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -687,6 +691,8 @@ Unanimous (6-0)
 ### 6. Street Light Design
   Standards
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -696,6 +702,8 @@ Unanimous (6-0)
 
 ### 7. Parking Between the
   Sidewalk and Roadway
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -707,6 +715,8 @@ Unanimous (6-0)
 ### 8. Infrastructure
   Canada Phase 1 Project Requests - Clean Water and Wastewater Infrastructure Fund
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -716,6 +726,8 @@ Unanimous (6-0)
 
 ### 9. Foundation Drain
   Disconnection to Mitigate Basement Flooding
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -727,6 +739,8 @@ Unanimous (6-0)
 ### 11. RFP 16-37
   Envirodepot Operation and Management Program - Contract Award
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -736,6 +750,8 @@ Unanimous (6-0)
 
 ### 12. Landfill Gas
   Utilization Update and Next Steps
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -747,6 +763,8 @@ Unanimous (6-0)
 ### 13. Infrastructure
   Canada - Phase One Investments - Public Transit Infrastructure Fund
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -756,6 +774,8 @@ Unanimous (6-0)
 
 ### 17. Mud Creek Municipal
   Class Environmental Assessment - Status Update and Scope Change
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -767,6 +787,8 @@ Unanimous (5-0)
 ### 18. 8th Report of the
   Transportation Advisory Committee
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -777,6 +799,8 @@ Unanimous (5-0)
 ### 19. Road Hockey –
   Letting Kids Play
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -786,6 +810,8 @@ Unanimous (5-0)
 
 ### 20. Deferred Matters
   List
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -2118,6 +2118,8 @@ Passed
 ### 1#2. (ADDED) Councillor
   J. Morgan - Additional in Closed Session Matter
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 11.4 of   the Council Procedure By-law, leave be given to add a Council, In Closed   Session matter to receive information related to a matter pertaining to   personal matters, including information regarding identifiable individuals,   with respect to employment-...
 
 **✅ Motion Passed**
@@ -2134,6 +2136,8 @@ Passed
 ### 10#2. Taxi Plate Issuing
   - Y. Barbin
 
+<div id="motion-10-2-0" class="motion-anchor"></div>
+
 > That the delegation request of Y. Barbin,   with respect to issuing Taxi Plates, BE APPROVED to be heard at a future   meeting of the Community and Protective Services Committee. (2017-P09)
 
 **✅ Motion Passed**
@@ -2143,6 +2147,8 @@ Unanimous (12-0)
 ### 2#3. London
   Strengthening Neighbourhoods Strategy 2017-2020 - Implementation of New
   Initiatives
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Neighbourhood, Children and Fire Services, the following actions be   taken with respect to the following London Strengthening Neighbourhoods   Strategy (LSNS) initiatives outlined in the staff report dated June 20, 2017:   a)         the   ...
 
@@ -2161,6 +2167,8 @@ Unanimous (12-0)
   Strengthening Neighbourhoods Strategy 2017-2020 - Implementation of New
   Initiatives
 
+<div id="motion-2-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2169,6 +2177,8 @@ Unanimous (12-0)
 
 ### 3#2. Property located at
   995 Fanshawe Park Road West (39T-05512)
+
+<div id="motion-3-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager,   Development Planning, the following actions be taken with respect to entering   into a subdivision agreement between The Corporation of the City of London   and Landea Developments Inc., for the subdivisions of land over Part of Lot   22, Concession 5...
 
@@ -2179,6 +2189,8 @@ Unanimous (14-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 6.4 of   the Council Procedure By-law, the order of business be changed to permit   Stage XI Enquiries to be considered prior to Stage IV Council, In Closed   Session.
 
 **✅ Motion Passed**
@@ -2187,6 +2199,8 @@ Unanimous (14-0)
 
 ### IX. ADDED
   REPORTS
+
+<div id="motion-ix-0" class="motion-anchor"></div>
 
 > Approve:   1.               That,   as a procedural matter pursuant to Section 239 (6) of the Municipal Act,   2001, the following recommendation be forwarded to Council for deliberation   and a vote in public session:   That, on the   recommendation of the Managing Director, Corporate Services a...
 
@@ -2197,6 +2211,8 @@ Unanimous (12-0)
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE EIGHTEENTH MEETING HELD ON JUNE 13, 2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Eighteenth Meeting   held on June 13, 2017.
 
 **✅ Motion Passed**
@@ -2204,6 +2220,8 @@ Unanimous (12-0)
 Unanimous (14-0)
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-3" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No. 318.
 
@@ -2220,6 +2238,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-4" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No. 318.
 
 **✅ Motion Passed**
@@ -2234,6 +2254,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-5" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No. 318.
 
@@ -2250,6 +2272,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-6" class="motion-anchor"></div>
+
 > Approve Introduction and First Reading   of Bill No. 320.
 
 **✅ Motion Passed**
@@ -2264,6 +2288,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-7" class="motion-anchor"></div>
 
 > Approve Second Reading of Bill No.   320.
 
@@ -2280,6 +2306,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-8" class="motion-anchor"></div>
+
 > Approve Third Reading and Enactment of   Bill No. 320.
 
 **✅ Motion Passed**
@@ -2294,6 +2322,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-15" class="motion-anchor"></div>
 
 > Approve Introduction and First Reading of   Bill No.’s 324 and 325.
 
@@ -2310,6 +2340,8 @@ Unanimous (14-0)
 
 ### XIII. BY-LAWS
 
+<div id="motion-xiii-16" class="motion-anchor"></div>
+
 > Approve Second Reading of Bill No.’s   324 and 325.
 
 **✅ Motion Passed**
@@ -2324,6 +2356,8 @@ Unanimous (14-0)
 </details>
 
 ### XIII. BY-LAWS
+
+<div id="motion-xiii-17" class="motion-anchor"></div>
 
 > Approve Third Reading and Enactment of   Bill No.’s 324 and 325.
 
@@ -2341,6 +2375,8 @@ Unanimous (14-0)
 ### 8. Property located at
   221 Queens Avenue (TZ-8748) (Relates to Bill No. 318)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of   Sifton Properties Limited, relating to the property located at 221 Queens   Avenue, the proposed by-law appended to the staff report dated June 19, 2017   as Appendix “A” BE INT...
 
 **✅ Motion Passed**
@@ -2356,6 +2392,8 @@ Unanimous (14-0)
 
 ### 10. Properties located
   at 633, 635, 637, 645, 649, 651 and 655 Baseline Road East (OZ-8711)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > At 5:18 PM, His Worship the Mayor places   Councillor P. Hubert in the Chair, and takes a seat at the Council Board.    At 5:21 PM, His Worship the Mayor resumes   the Chair, and Councillor P. Hubert takes a seat at the Council Board.
 
@@ -2373,6 +2411,8 @@ Unanimous (14-0)
 ### 10. Properties located
   at 633, 635, 637, 645, 649, 651 and 655 Baseline Road East (OZ-8711)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Approve:   That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the application of Seasons Retirement Communities relating to the   properties located at 633, 635, 637, 645, 649, 651, 655 Base Line Road East:   a)     ...
 
 **✅ Motion Passed**
@@ -2389,6 +2429,8 @@ Unanimous (14-0)
 ### 12. Councillor M. Salih
   - Business Licensing By-law L- 6 – Second-Hand Dealers
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE REQUESTED   to consider as part of the review of the Business Licensing By-law L-6, the   inclusion of regulations requiring licensed second-hand dealers to make use   of enhanced recording protocols, such as cloud-based shared photography as a   possible deterren...
 
 **✅ Motion Passed**
@@ -2397,6 +2439,8 @@ Unanimous (12-0)
 
 ### 15. Council Expense
   Policy
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Approve that the matter of a review of   the Council Expense Policy be referred to the Governance Working Group.
 
@@ -2413,6 +2457,8 @@ Unanimous (12-0)
 
 ### 17. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > The following individuals BE APPOINTED to   the Environmental and Ecological Planning Advisory Committee, for the term   ending February 28, 2019 in accordance with the attached ranked   ballot:    Mirindi Eric Dusenge Carol Dyck Berta Krichker Edward Krynak Subashini Sivakumar Christian Therrien
 

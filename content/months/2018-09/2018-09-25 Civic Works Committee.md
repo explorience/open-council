@@ -723,6 +723,8 @@ The meeting adjourned at 7:36 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1-2.16, excluding items 2.3, 2.4, 2.7 and 2.12 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -731,6 +733,8 @@ Unanimous (5-0)
 
 ### 2.4. Byron South Neighbourhood Sidewalk Connectivity Plan
 
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the Byron South Neighbourhood Sidewalk Connectivity Plan BE ENDORSED for implementation in the 2019 Annual New Sidewalk Program. it being noted that the Civic Works Committee heard a ve...
 
 **✅ Motion Passed (5 to 0)**
@@ -738,6 +742,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.7. Downtown King Street Cycling Improvements
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to the Downtown King Street Cycling Improvements: (a)  the information related to initiatives to make King Street safer for cycling as outlin...
 
@@ -756,6 +762,8 @@ Unanimous (5-0)
 
 ### 2.12. Business Case - Switching to Compressed Natural Gas (CNG) Waste Collection Vehicles
 
+<div id="motion-2-12-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, the following actions be taken with respect to switching to compressed natural gas (CNG) Waste Collection Vehicles: a)    the Civic Administration BE AUTHORIZED to proceed with the Comp...
 
 **✅ Motion Passed (3 to 0)**
@@ -764,6 +772,8 @@ Unanimous (3-0)
 
 ### 4.2. Traffic Signalization at Priority Intersections
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED take the following actions with respect to traffic signalization at priority intersections: a)  conduct detailed design work on the following intersections of Pack Road and Colonel Talbot Road; Blackwater Rad and Adelaide Street; and Sunningdale Road and ...
 
 **✅ Motion Passed (4 to 0)**
@@ -771,6 +781,8 @@ Unanimous (3-0)
 Unanimous (4-0)
 
 ### 4.3. Unassumed Laneways
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
 
 > That Staff BE REQUESTED to report back to the appropriate standing committee with respect to the current process, and potential improvements, with respect to unassumed laneways, and the request for delegation from M. Koch Denomme BE APPROVED and BE REFERRED to the meeting when this matter will be...
 

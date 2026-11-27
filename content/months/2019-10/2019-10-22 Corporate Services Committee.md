@@ -284,6 +284,8 @@ The meeting adjourned at 1:48 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.1, 2.2 and 2.4 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -292,6 +294,8 @@ Unanimous (6-0)
 
 ### 2.3. Vacant/Excess Land Subclass Tax Reductions and Other Tax Policy Issues
 
+<div id="motion-2-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to vacant/excess land subclass tax reductions in the commercial and industrial property classes and other tax policies noted in the atta...
 
 **✅ Motion Passed (6 to 0)**
@@ -299,6 +303,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Corporate Services Committee Deferred Matters List
+
+<div id="motion-5-1-1" class="motion-anchor"></div>
 
 > That the Corporate Services Committee Deferred Matters List, BE AMENDED by removing item 1.1 - City of London involvement in partnerships with other cities.
 

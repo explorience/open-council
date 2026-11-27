@@ -474,6 +474,8 @@ Motion
 ### 8. Homemakers Program
   Update
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -483,6 +485,8 @@ Unanimous (4-0)
 
 ### 10. Thames Valley
   District School Board and City of London Joint Use of Facilities Agreement
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -494,6 +498,8 @@ Unanimous (2-0)
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -503,6 +509,8 @@ Unanimous (4-0)
 
 ### 12. By-law Amendments
   for Expanded Animal Welfare Initiatives
+
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -514,6 +522,8 @@ Unanimous (3-0)
 ### 13. 4th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -523,6 +533,8 @@ Unanimous (3-0)
 
 ### 14. 4th Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -535,6 +547,8 @@ Unanimous (3-0)
   Yard Regulations - False Verification of Ownership for Stolen Items - List of
   Prohibited Items for Scrap Metal Recycling Yards
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -545,6 +559,8 @@ Unanimous (3-0)
 ### 16. Legislative Changes
   Intended to Improve Fire Safety in Vulnerable Occupancies
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -554,6 +570,8 @@ Unanimous (3-0)
 
 ### 17. The Impact of
   Prescription and Non-Prescription Drug Use in Middlesex-London
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

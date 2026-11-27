@@ -603,6 +603,8 @@ The Corporate Services Committee convened
 ### 2. Submission of
   Questions on Ballot - 2014 Municipal Election
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -612,6 +614,8 @@ Unanimous (2-0)
 
 ### 3. Use of Corporate
   Resources for Election Purposes
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -623,6 +627,8 @@ Unanimous (4-0)
 ### 4. Annual Report -
   2012 Risk Management Services
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -633,6 +639,8 @@ Unanimous (4-0)
 ### 5. Expropriation of
   Lands - Veterans Memorial Parkway South Extension - TS1325
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -642,6 +650,8 @@ Unanimous (4-0)
 
 ### 6. Declare Surplus
   City-Owned Land Adjacent to 47 and 49 Agincourt Gardens
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -660,6 +670,8 @@ Unanimous (4-0)
 ### 7. Declare Surplus
   City-Owned Land Adjacent to 33, 37,41,45, 49, 53 and 57 Stoneycreek Crescent
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -677,6 +689,8 @@ Unanimous (4-0)
 ### 8. Amendment to
   Council Policy 28(1) Travel and Business Expenses
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -686,6 +700,8 @@ Unanimous (4-0)
 
 ### 9. Procurement of
   Goods and Services Policy Revisions
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,16 +713,7 @@ Unanimous (4-0)
 ### 10. 2013 Capital Budget
   Status - Third Quarter Report
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. Managing Director,
-  Corporate Services and City Treasurer, Chief Financial Officer - 2013
-  Operating Budget Status - Third Quarter Report
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -718,6 +725,21 @@ Unanimous (4-0)
 ### 11. Managing Director,
   Corporate Services and City Treasurer, Chief Financial Officer - 2013
   Operating Budget Status - Third Quarter Report
+
+<div id="motion-11-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. Managing Director,
+  Corporate Services and City Treasurer, Chief Financial Officer - 2013
+  Operating Budget Status - Third Quarter Report
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -729,6 +751,8 @@ Unanimous (4-0)
 ### 12. Extension of Realty
   Services - Agency of Record Agreement
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -738,6 +762,8 @@ Unanimous (4-0)
 
 ### 13. Sherwood Forest
   Public School - Stakeholder Consultation Process
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -749,6 +775,8 @@ Unanimous (4-0)
 ### 14. Accessibility for
   Ontarians with Disabilities Act Compliance
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -759,6 +787,8 @@ Unanimous (4-0)
 ### 15. Managing Director,
   Corporate Services and Chief Human Resources Officer - Security Services
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -768,6 +798,8 @@ Unanimous (4-0)
 
 ### 16. Agreements between
   the City of London and Fanshawe College for Mutual Benefit at Market Lane
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

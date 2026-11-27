@@ -609,6 +609,8 @@ The Community and Protective Services
 ### 2. 10th Report of the
   London Diversity and Race Relations Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -618,6 +620,8 @@ Unanimous (4-0)
 
 ### 3. Single Source for a
   Supply Chain Group Purchasing Organization
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -631,6 +635,8 @@ Unanimous (4-0)
   Assessment to Determine a Preferred Pedestrian Recreational Pathway Crossing
   of Richmond Street
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -641,6 +647,8 @@ Unanimous (4-0)
 ### 5. RFP 13-34 - Provide
   Physiotherapy and Occupational Therapy Services at the Dearness Home
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -651,6 +659,8 @@ Unanimous (4-0)
 ### 6. Rockin' New Year’s
   Eve
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -660,6 +670,8 @@ Unanimous (5-0)
 
 ### 6. Rockin' New Year’s
   Eve
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -671,15 +683,7 @@ Unanimous (5-0)
 ### 7. 7th Report of the
   Community Safety and Crime Prevention Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 9. Animal Welfare
-  Services - Pet Sales
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,6 +695,20 @@ Unanimous (4-0)
 ### 9. Animal Welfare
   Services - Pet Sales
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 9. Animal Welfare
+  Services - Pet Sales
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -701,6 +719,8 @@ Unanimous (4-0)
 ### 11. (ADDED) S. Ford,
   Dancor - Amendment to the Sign By-law
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -710,6 +730,8 @@ Unanimous (4-0)
 
 ### 11. (ADDED) S. Ford,
   Dancor - Amendment to the Sign By-law
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

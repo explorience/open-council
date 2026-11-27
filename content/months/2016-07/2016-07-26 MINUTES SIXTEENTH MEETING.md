@@ -3812,6 +3812,8 @@ Motion Passed
 
 ### 10#5. Annual Meeting Calendar
 
+<div id="motion-10-5-0" class="motion-anchor"></div>
+
 > Approve that part a)i) of clause 10 be   amended by adding the words "as needed" to the proposed additional   Community and Protective Services Committee meeting dates.
 
 **✅ Motion Passed**
@@ -3826,6 +3828,8 @@ Motion Passed
 </details>
 
 ### 10#5. Annual Meeting Calendar
+
+<div id="motion-10-5-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -3843,6 +3847,8 @@ Motion Passed
 ### 11#5. Consideration of Appointment to the
   Middlesex London Food Policy Council
 
+<div id="motion-11-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3852,6 +3858,8 @@ Unanimous (11-0)
 ### 13#4. Potential Policy for Addressing Temporary
   Standing Committee Vacancies
 
+<div id="motion-13-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3860,6 +3868,8 @@ Unanimous (13-0)
 
 ### 15#3. Vehicle for Hire
   By-law - Proposed Regulations
+
+<div id="motion-15-3-0" class="motion-anchor"></div>
 
 > Approve that part b)ii)J) of clause 15 be   amended to read as follows:   “J)    to only require interior and forward-facing cameras in vehicles that are   allowed to accept street hails;”
 
@@ -3877,6 +3887,8 @@ Unanimous (13-0)
 ### 15#3. Vehicle for Hire
   By-law - Proposed Regulations
 
+<div id="motion-15-3-1" class="motion-anchor"></div>
+
 > Approve that part b)ii)P) of clause 15 be   amended to read as follows:   “P)    to allow surge pricing only when rides are booked in advance via an application   (app) and to permit brokers to negotiate discounted fare agreements with   employers, institutions, associations etc. as long as the m...
 
 **✅ Motion Passed 🔥**
@@ -3893,6 +3905,8 @@ Unanimous (13-0)
 ### 15#3. Vehicle for Hire
   By-law - Proposed Regulations
 
+<div id="motion-15-3-2" class="motion-anchor"></div>
+
 > Approve that the following new part Q) be   added to part b)ii) of clause 15:    “Q)    to require proof in a form satisfactory to the Licence Manager that the   vehicle for which the vehicle licence will be issued and all persons who may   drive that vehicle are covered under a valid commercial ...
 
 **✅ Motion Passed**
@@ -3901,6 +3915,8 @@ Unanimous (13-0)
 
 ### 15#3. Vehicle for Hire
   By-law - Proposed Regulations
+
+<div id="motion-15-3-3" class="motion-anchor"></div>
 
 > Approve clause 15, as amended.
 
@@ -3918,6 +3934,8 @@ Unanimous (13-0)
 ### 16#2. Property located at
   129 Langarth Street East
 
+<div id="motion-16-2-0" class="motion-anchor"></div>
+
 > That the following actions be taken with   respect to the property located at 129 Langarth Street East:   a)         the   Civic Administration BE DIRECTED to retain a qualified consultant to complete   a “Statement of Cultural Heritage Value or Interest” with respect to the   contextual value of...
 
 **✅ Motion Passed 🔥**
@@ -3934,6 +3952,8 @@ Unanimous (13-0)
 ### 17#3. Thames Valley
   Parkway North Branch Connection Class Environmental Assessment
 
+<div id="motion-17-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the Managing Director, Environmental and   Engineering Services and City Engineer, and the Managing Director, Parks   & Recreation, the following actions be taken with respect to the Thames   Valley Parkway North B...
 
 **✅ Motion Passed**
@@ -3942,6 +3962,8 @@ Unanimous (11-0)
 
 ### 17#3. Thames Valley
   Parkway North Branch Connection Class Environmental Assessment
+
+<div id="motion-17-3-1" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.2   of the Council Procedure By-law, clause 16 of the 9th Report of the Community   and Protective Services Committee be reconsidered, as Councillor S. Turner   indicates that he has a pecuniary interest regarding this matter.
 
@@ -3952,6 +3974,8 @@ Unanimous (13-0)
 ### 19#2. Downtown Business
   Improvement Area and Old East Village Community Improvement Area (Z-8625)
   (Relates to Bill No. 292)
+
+<div id="motion-19-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with respect to the application of the   City of London, the proposed attached, revised, by-law   (Appendix "A") BE INTRODUCED at the Municipal Council meeting to be   held on July 26, 2016, to amend Section 50.2 (...
 
@@ -3969,6 +3993,8 @@ Unanimous (13-0)
 ### 2#6. Policy for Processing – Ontario Ombudsman
   Investigations
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3976,6 +4002,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 2#7. RPF 16-27 Smart City Strategy
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3994,6 +4022,8 @@ Unanimous (13-0)
   Neighbourhoods Strategy Review (OZ-8610) (Relates to Bill No. 270 and Bill
   No. 294)
 
+<div id="motion-21-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, the following actions be taken with   respect to the Great Near-Campus Neighbourhoods Strategy Review: a)              the   proposed attached, revised, by-law (Appendix “A” BE INTRODUCED   at the Municipal Council...
 
 **✅ Motion Passed**
@@ -4002,6 +4032,8 @@ Unanimous (13-0)
 
 ### 3#4. Property Standards
   Related Demolitions (Relates to Bill Nos. 266-268)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director of Development & Compliance Services and Chief Building   Official, the three proposed by-laws, as appended to the staff report dated   July 19, 2016, BE INTRODUCED at the Council meeting on July 26, 2016, to   approve the demolition of vario...
 
@@ -4012,6 +4044,8 @@ Unanimous (11-0)
 ### 5#4. Vacant Buildings
   Policy (Relates to Bill No. 261)
 
+<div id="motion-5-4-0" class="motion-anchor"></div>
+
 > Approve that clause 5 be amended by adding   the word “revised” after the word “attached” and by appending   the attached revised by-law.
 
 **✅ Motion Passed**
@@ -4020,6 +4054,8 @@ Unanimous (13-0)
 
 ### 5#4. Vacant Buildings
   Policy (Relates to Bill No. 261)
+
+<div id="motion-5-4-1" class="motion-anchor"></div>
 
 > Approve clause 5 as amended.
 
@@ -4030,14 +4066,7 @@ Unanimous (13-0)
 ### 5#6. Housing Development Corporation, London –
   Number and Composition of Director for the Corporation
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6#6. Housing Development Corporation London –
-  2015 Annual Meeting of the Shareholder Annual Resolutions
+<div id="motion-5-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4047,6 +4076,19 @@ Unanimous (13-0)
 
 ### 6#6. Housing Development Corporation London –
   2015 Annual Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-6-6-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6#6. Housing Development Corporation London –
+  2015 Annual Meeting of the Shareholder Annual Resolutions
+
+<div id="motion-6-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4065,6 +4107,8 @@ Unanimous (13-0)
   2016 Strategic Priorities and Policy Committee Meeting – London Police
   Services Board
 
+<div id="motion-7-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4081,6 +4125,8 @@ Unanimous (13-0)
 ### 8#6. Consideration of Appointment to the London
   & Middlesex Housing Corporation
 
+<div id="motion-8-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4090,6 +4136,8 @@ Unanimous (13-0)
 ### 9#5. Municipal Council Resolution Adopted at its
   Meeting Held on June 23, 2016 with Respect to the Appointment of a Deputy
   Mayor
+
+<div id="motion-9-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4107,6 +4155,8 @@ Unanimous (13-0)
 ### III. REVIEW OF
   CONFIDENTIAL MATTERS TO BE CONSIDERED IN PUBLIC
 
+<div id="motion-iii-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4115,6 +4165,8 @@ Unanimous (13-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > MOTION FOR IN CAMERA SESSION
 
@@ -4125,6 +4177,8 @@ Unanimous (13-0)
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
+<div id="motion-iv-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4133,6 +4187,8 @@ Unanimous (13-0)
 
 ### IV#2. COUNCIL, IN CLOSED SESSION
   (CONTINUED)
+
+<div id="motion-iv-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -4143,6 +4199,8 @@ Unanimous (13-0)
 ### IV#3. COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
+<div id="motion-iv-3-0" class="motion-anchor"></div>
+
 > Approve that, as a procedural matter   pursuant to Section 239 (6) of the Municipal Act, 2001, the following   recommendations be forwarded to City Council for deliberation and a vote in   public session:   1.                     That, on the   recommendation of the Managing Director, Corporate S...
 
 **✅ Motion Passed**
@@ -4151,6 +4209,8 @@ Unanimous (13-0)
 
 ### V. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE FIFTHTEENTH MEETING HELD ON JUNE 23, 2016
+
+<div id="motion-v-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the Fifteenth   Meeting, held on June 23, 2016.
 
@@ -4161,6 +4221,8 @@ Unanimous (13-0)
 ### VI. COMMUNICATIONS
   AND PETITIONS
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve that Council convene as the   Approving Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering   Communication No. 1 from the Managing Director, Environmental and Engineering   Services and City Engineer, dealing wi...
 
 **✅ Motion Passed**
@@ -4169,6 +4231,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 20.2   of the Council Procedure By-law, leave be given for the introduction of an   emergent motion to provide for the consideration of an additional   confidential matter to be considered during Stage IV – Council, In Closed   Session, as the matter is time sensi...
 
@@ -4179,6 +4243,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-2" class="motion-anchor"></div>
+
 > Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion to receive notice from Councillor J. Zaifman of the withdrawal   of his request for Municipal Council’s support and approval to put his name   forward for election ...
 
 **✅ Motion Passed**
@@ -4187,6 +4253,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-3" class="motion-anchor"></div>
 
 > Approve that Councillor J. Zaifman’s attached   notice of the withdrawal of his request for Municipal Council’s support and   approval to put his name forward for election to the Association of   Municipalities of Ontario (AMO) Board of Directors, Large Urban Caucus for   the 2016/2018 term, BE A...
 
@@ -4198,6 +4266,8 @@ Unanimous (13-0)
   Environmental & Engineering Services and City Engineer - Expropriation of
   Lands - Wonderland Road Improvements - Phase 1 - TS1487 PR-01
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > Approve that, on the recommendation of   the Managing Director, Environmental and Engineering Services and City   Engineer, on the advice of the Manager of Realty Services, with the review and   concurrence of the Director, Roads and Transportation, with respect to the   expropriation of lands fo...
 
 **✅ Motion Passed**
@@ -4208,6 +4278,8 @@ Unanimous (13-0)
   Environmental & Engineering Services and City Engineer - Expropriation of
   Lands - Wonderland Road Improvements - Phase 1 - TS1487 PR-01
 
+<div id="motion-1-1" class="motion-anchor"></div>
+
 > Approve that the meeting of the Approving   Authority adjourn and that Council reconvene.
 
 **✅ Motion Passed**
@@ -4217,6 +4289,8 @@ Unanimous (13-0)
 ### 2. Managing Director,
   Environmental & Engineering Services and City Engineer - Expropriation of
   Lands - Wonderland Road Improvements - Phase 1 - TS1487-01
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Approve that, on the recommendation of   the Managing Director, Environmental and Engineering Services and City Engineer,   on the advice of the Manager of Realty Services, with the review and   concurrence of the Director, Roads and Transportation, with respect to the   expropriation of lands fo...
 
@@ -4230,6 +4304,8 @@ Unanimous (13-0)
   consideration with clause 21 of the 13th Report of the Planning and
   Environment Committee.)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -4239,6 +4315,8 @@ Unanimous (13-0)
 ### 10. Amendments to the
   Traffic and Parking By-law (Relates to Bill Nos. 277-278)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and  City Engineer, these   proposed by-laws appended to the staff report dated July 18, 2016 as Appendix   "A" and "B", BE INTRODUCED at the Municipal Council   meeting to be held on July 26, 2016 for ...
 
 **✅ Motion Passed**
@@ -4247,6 +4325,8 @@ Unanimous (13-0)
 
 ### 18. Draft School Zone
   Speed Limit Policy - Resubmitted Report
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the Draft School Zone Speed Limit   Policy:   a)         the   Draft School Zone Speed Limit Policy, appended to the staff report date...
 
@@ -4264,6 +4344,8 @@ Unanimous (13-0)
 ### 21. 2019 IIHF World
   Junior Ice Hockey Championship Joint Bid London/Windsor
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > At 4:12 PM His Worship the Mayor resumes   the Chair and Councillor P. Hubert takes his seat at the Council Board.
 
 **✅ Motion Passed**
@@ -4272,6 +4354,8 @@ Unanimous (13-0)
 
 ### 24. Sign and Canopy
   By-law
+
+<div id="motion-24-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED   to consult Business Improvement Areas to seek input with respect to the   current review of the City’s Sign and Canopy By-law, and to include details   of the input received as part of the staff report regarding this matter.     (See attached communicat...
 

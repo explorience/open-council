@@ -138,6 +138,8 @@ The meeting adjourned at 4:28 PM.
 
 ### 2.1. Homeless Prevention Head Lease Program (Single Source 20-34)
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Acting Managing Director, Housing, Social Services and Dearness Home and with the concurrence of the Director, Financial Services, the following actions be taken with respect to the staff report dated January 19, 2021, related to the award of contracts through S...
 
 **✅ Motion Passed (6 to 0)**
@@ -145,6 +147,8 @@ The meeting adjourned at 4:28 PM.
 Unanimous (6-0)
 
 ### 4.2. Housing First Emergency Youth Shelter - Request for Delegation Status - Youth Opportunities Unlimited
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the delegation request by T. Gillis, S. Cordes and M. Doucet, Youth Opportunities Unlimited (YOU), with respect to funding awarded to YOU in 2017, BE APPROVED for a future meeting of the Community and Protective Services Committee; it being noted that a communication from T. Gillis, S. Corde...
 

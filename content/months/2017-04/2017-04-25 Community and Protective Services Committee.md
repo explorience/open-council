@@ -594,6 +594,8 @@ The
 ### 2. STAFF REPORT - 4th
   Report of the London Housing Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -603,6 +605,8 @@ Unanimous (3-0)
 
 ### 3. STAFF REPORT -
   Community Action Program for Children (CAPC) Funding in London:  2017-2020
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -614,6 +618,8 @@ Unanimous (3-0)
 ### 4. STAFF REPORT - Lead
   Agency to Oversee the Implementation of London For All:  A Roadmap to End
   Poverty Request for Proposal 17-10
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -633,6 +639,8 @@ Unanimous (3-0)
   Supporting the Community Response to Syrian Newcomers - Update on Potential
   Survey Questions or Other Means of Gathering Information
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -644,6 +652,8 @@ Unanimous (3-0)
   Agreement with the Province of Ontario to Support the Development of an
   Immigration Strategy
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -653,6 +663,8 @@ Unanimous (3-0)
 
 ### 7. STAFF REPORT -
   Short Term Accommodations
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -665,6 +677,8 @@ Unanimous (3-0)
   Anti-Contraband Tobacco Campaign Funded by Tobacco Industry Front Groups
   Intend to Block Tobacco Control Measures
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -675,6 +689,8 @@ Unanimous (3-0)
 ### 9. Community Diversity
   and Inclusion Strategy
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -683,6 +699,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 10. Open Air Burning
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -702,16 +720,7 @@ Unanimous (3-0)
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. Business Licensing
-  By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
-  Seasonal Sales Businesses
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -723,6 +732,21 @@ Unanimous (4-0)
 ### 11. Business Licensing
   By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
   Seasonal Sales Businesses
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. Business Licensing
+  By-Law Review - Commercial Parking Facilities, Pet Shops, Public Halls and
+  Seasonal Sales Businesses
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -734,6 +758,8 @@ Unanimous (4-0)
 ### 12. 4th Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -743,6 +769,8 @@ Unanimous (4-0)
 
 ### 13. File No. 16-260872
   - Naturalization Project - London Condominium Corporation No. 11
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -755,6 +783,8 @@ Unanimous (4-0)
   Council and Standing Committee Pre-Recorded Video Content - City Website and
   YouTube Channel
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -764,6 +794,8 @@ Unanimous (4-0)
 
 ### 15. Deferred Matters
   List
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -775,6 +807,8 @@ Unanimous (3-0)
 ### 16. (ADDED) COUNCILLOR
   SUBMISSION - Withdrawal Renaming Proposal - Mildred Barons Park to Vimy Ridge
   Park
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -720,6 +720,8 @@ The meeting adjourned at 8:59 PM.
 ### 2. 1st Report of the
   Diversity, Inclusion and Anti-Oppression Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -729,6 +731,8 @@ Unanimous (5-0)
 
 ### 3. STAFF REPORT -
   Update on Mental Health and Addictions Strategy
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -741,6 +745,8 @@ Unanimous (5-0)
   Ontario Early Years Child and Family Centres Planning and Transfer Payment
   Agreement
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -751,6 +757,8 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   London's Homeless Prevention System, Homelessness Partnering Strategy Funding
   Agreement Amendment 3
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -763,6 +771,8 @@ Unanimous (5-0)
   London's Homeless Prevention System, Contract Award Request for Proposal
   16-57, Housing First Emergency Shelter for Youth Operator
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -773,6 +783,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT -
   London's Homeless Prevention System, Contract Award Request for Proposal
   16-56 Homeless Management Information System Implementation Consultant
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -785,6 +797,8 @@ Unanimous (5-0)
   London's Homeless Prevention System Community Homelessness Prevention
   Initiative Funding Allocation
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -795,6 +809,8 @@ Unanimous (5-0)
 ### 9. STAFF REPORT - Cold
   Beverage Vending Machines in City of London Recreation Facilities and City
   Hall
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -813,6 +829,8 @@ Unanimous (5-0)
 ### 10. STAFF REPORT -
   Parks and Recreation Strategic  Master Plan Interim Update
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -822,6 +840,8 @@ Unanimous (5-0)
 
 ### 11. STAFF REPORT -
   Vehicle for Hire By-law
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -840,6 +860,8 @@ Unanimous (5-0)
 ### 11. STAFF REPORT -
   Vehicle for Hire By-law
 
+<div id="motion-11-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -856,6 +878,8 @@ Unanimous (5-0)
 
 ### 11. STAFF REPORT -
   Vehicle for Hire By-law
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -875,16 +899,7 @@ Unanimous (5-0)
   By-law Review - General Provisions, Payday Loan Businesses and Door-to-Door
   Sales Business
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 12. Business Licensing
-  By-law Review - General Provisions, Payday Loan Businesses and Door-to-Door
-  Sales Business
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -896,6 +911,21 @@ Unanimous (4-0)
 ### 12. Business Licensing
   By-law Review - General Provisions, Payday Loan Businesses and Door-to-Door
   Sales Business
+
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 12. Business Licensing
+  By-law Review - General Provisions, Payday Loan Businesses and Door-to-Door
+  Sales Business
+
+<div id="motion-12-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -907,6 +937,8 @@ Unanimous (4-0)
 ### 13. 1st and 2nd Reports
   of the Animal Welfare Advisory Committee
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -916,6 +948,8 @@ Unanimous (4-0)
 
 ### 14. 1st Report of the
   London Housing Advisory Committee
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -927,6 +961,8 @@ Unanimous (4-0)
 ### 15. Ban on Outdoor Wood
   Burning
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -936,6 +972,8 @@ Unanimous (4-0)
 
 ### 16. Deferred Matters
   List
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -947,6 +985,8 @@ Unanimous (4-0)
 ### 17. (ADDED) STAFF
   REPORT - Alternative Formats for Council and Standing Committee Agendas to
   Support Greater Participation in Local Government
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

@@ -2389,3 +2389,448 @@ The meeting adjourned at 7:31 PM.
 
 ****
 
+---
+
+## Votes
+
+*41 substantive votes at this meeting (7 contested, 34 unanimous). Procedural motions excluded.*
+
+### 4. Items for Direction
+
+<div id="motion-4-0" class="motion-anchor"></div>
+
+> That Items for Direction 4.23 to 4.27 with respect to Appointments to Business Improvement Areas BE APPROVED.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.1. Consideration of Chair and Vice Chair Appointments - Councillor E. Peloza
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the following appointments BE ENDORSED as Chairs of the Standing Committees for the term ending November 30, 2027: i) Councillor S. Lewis - Infrastructure and Corporate Services Committee;  ii) Councillor S. Franke - Planning and Environment Committee; and   iii) Councillor H. McAlister - Co...
+
+**✅ Motion Passed (13 to 2)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (9):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (2):** [Sam Trosow](/councillors/current/s-trosow), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.2. Consideration of Appointments to the Planning and Environment Committee (Requires 5 Council Members, one of whom shall be Chair)
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
+> That the following appointments BE MADE to the Planning and Environment Committee for the term ending November 30, 2027: Councillor S. Franke (Chair)  Councillor S. Lewis  Councillor T. Cull  Councillor A. Hopkins  Councillor P. Van Meerbergen it being noted that Councillor S. Franke was appointe...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.3. Consideration of Appointments to the Infrastructure and Corporate Services Committee (Requires 5 Council Members, one of whom shall be Chair)
+
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
+> That the following appointments BE MADE to the Infrastructure and Corporate Services Committee for the term ending November 30, 2027: Councillor S. Lewis (Chair)  Councillor B. Durham  Councillor J. Sher  Councillor S. Lehman  Councillor J. King it being noted that Councillor S. Lewis was appoint...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.4. Consideration of Appointments to the Community and Protective Services Committee (Requires 5 Council Members, one of whom shall be Chair)
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
+> That the following appointments BE MADE to the Community and Protective Services Committee for the term ending November 30, 2027: Councillor H. McAlister (Chair)  Councillor S. Trosow  Councillor D. Ferreira  Councillor C. Rahman  Councillor E. Peloza it being noted that Councillor H. McAlister w...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.5. Consideration of Appointments to the Audit Committee (Requires the Budget Chair as Chair and 3 Council Members)
+
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Audit Committee for the term ending November 14, 2030: Councillor S. Lehman (Chair)  Councillor T. Cull  Councillor C. Rahman  Councillor S. Franke it being noted that the Budget Chair will serve as the Chair of the Audit Committee.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.6. Consideration of Appointments to the Covent Garden Market (Requires 2 Council Members)
+
+<div id="motion-4-6-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Covent Garden Market Board for the term ending November 14, 2030: Councillor D. Ferreira  Councillor S. Franke
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.7. Consideration of Appointments to the County/City Liaison Committee (Requires the Mayor, 2 Council Members and 1 Alternate Council Member)
+
+<div id="motion-4-7-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the County/City Liaison Committee for the term ending November 14, 2030: Mayor J. Morgan  Councillor S. Lewis  Councillor E. Peloza  Councillor T. Cull (alternate)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.8. Consideration of Appointments to the Dearness Home Committee of Management (Requires 5 Council Members)
+
+<div id="motion-4-8-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Dearness Home Committee of Management for the term ending November 14, 2030: Councillor B. Durham  Councillor J. Sher  Councillor A. Hopkins  Councillor E. Peloza  Councillor J. King it being noted that the Fixing Long-term Care Act (FLTCA) states that no pe...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.9. Consideration of Appointments to the Governance Working Group (As many Council Members as are interested)
+
+<div id="motion-4-9-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Governance Working Group for the term ending November 14, 2030: Mayor J. Morgan  Councillor D. Ferreira  Councillor S. Lewis  Councillor C. Rahman  Councillor J. Sher
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.10. Consideration of Appointments to the London & Middlesex Community Housing (Requires 2 Council Members)
+
+<div id="motion-4-10-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London & Middlesex Community Housing for the term ending November 14, 2030: Councillor S. Lewis  Councillor C. Rahman
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.10. Consideration of Appointments to the London & Middlesex Community Housing (Requires 2 Council Members)
+
+<div id="motion-4-10-1" class="motion-anchor"></div>
+
+> Appointment to the London & Middlesex Community Housing.
+
+**❌ Majority Winner: S. Lewis; C. Rahman 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.11. Consideration of Appointment to the London Hydro Board of Directors (Requires 1 Council Member)
+
+<div id="motion-4-11-0" class="motion-anchor"></div>
+
+> That Councillor S. Lehman BE APPOINTED to the London Hydro Inc. Board of Directors for the term ending November 14, 2030.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.11. Consideration of Appointment to the London Hydro Board of Directors (Requires 1 Council Member)
+
+<div id="motion-4-11-1" class="motion-anchor"></div>
+
+> Appointment to the London Hydro Board of Directors.
+
+**❌ Majority Winner: S. Lehman 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.12. Consideration of Appointments to the London Police Services Board (Requires the Mayor and 2 Council Members)
+
+<div id="motion-4-12-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London Police Services Board for the term ending November 14, 2030: Mayor J. Morgan  Councillor S. Lewis  Councillor C. Rahman
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.12. Consideration of Appointments to the London Police Services Board (Requires the Mayor and 2 Council Members)
+
+<div id="motion-4-12-1" class="motion-anchor"></div>
+
+> Appointment to the London Police Services Board.
+
+**❌ Majority Winner: C. Rahman; S. Lewis 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.13. Consideration of Appointments to the London Public Library (Requires 2 Council Members)
+
+<div id="motion-4-13-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2030: Councillor S. Trosow  Councillor A. Hopkins
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.14. Consideration of Appointments to the London Transit Commission (Requires 4 Council Members)
+
+<div id="motion-4-14-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2030: Councillor H. McAlister  Councillor B. Durham  Councillor S. Franke      Councillor J. King
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.15. Consideration of Appointment to the Middlesex-London Food Policy Council (Requires 1 Council Member) (2-Year Term)
+
+<div id="motion-4-15-0" class="motion-anchor"></div>
+
+> That Councillor S. Trosow BE APPOINTED to the Middlesex-London Food Policy Council for the term ending November 2028.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.16. Consideration of Appointments to the Middlesex-London Health Unit Board of Directors (Requires 2 Council Members)
+
+<div id="motion-4-16-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Middlesex-London Health Unit for the term ending November 14, 2030: Councillor T. Cull  Councillor J. Sher
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.17. Consideration of Appointment to the Middlesex-London Paramedic Services Authority Board (Requires 1 Council Member)
+
+<div id="motion-4-17-0" class="motion-anchor"></div>
+
+> That Councillor J. King BE APPOINTED to the Middlesex-London Paramedic Services Authority Board for the term ending November 14, 2030.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.18. Consideration of Appointment to Museum London (Requires 1 Council Member)
+
+<div id="motion-4-18-0" class="motion-anchor"></div>
+
+> That Councillor S. Trosow BE APPOINTED to Museum London for the term ending November 14, 2030.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.18. Consideration of Appointment to Museum London (Requires 1 Council Member)
+
+<div id="motion-4-18-1" class="motion-anchor"></div>
+
+> Appointment to Museum London.
+
+**❌ Majority Winner: S. Trosow 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.19. Consideration of Appointments to RBC Place London (Requires the Mayor and 2 Council Members)
+
+<div id="motion-4-19-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to RBC Place London Board for the term ending November 14, 2030: Mayor J. Morgan  Councillor E. Peloza  Councillor P. Van Meerbergen
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.20. Consideration of Appointments to the Tourism London Board of Directors (Requires 2 Council Members)
+
+<div id="motion-4-20-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to Tourism London Board of Directors for the term ending November 14, 2030: Councillor H. McAlister  Councillor D. Ferreira
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.22. Consideration of Appointment to the Western Fair Board of Governors (Requires 1 Council Member)
+
+<div id="motion-4-22-0" class="motion-anchor"></div>
+
+> That Councillor E. Peloza BE APPOINTED to the Western Fair Board of Governors for the term ending November 14, 2030.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.22. Consideration of Appointment to the Western Fair Board of Governors (Requires 1 Council Member)
+
+<div id="motion-4-22-1" class="motion-anchor"></div>
+
+> Appointment to the Western Fair Board of Governors.
+
+**❌ Majority Winner: E. Peloza 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+</details>
+
+### 4.28. Consideration of Appointment to the Elgin Area Primary Water Supply System Joint Board of Management (Requires 3 Council Members and 3 Alternate Council Members)
+
+<div id="motion-4-28-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Elgin Area Primary Water Supply System Joint Board of Management for the term ending November 14, 2030: Councillor P. Van Meerbergen  Councillor E. Peloza  Councillor J. King  Councillor B. Durham (Alternate)  Councillor D. Ferreira (Alternate)
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.29. Consideration of Appointment to the Lake Huron Primary Water Supply System Joint Board of Management (Requires 4 Council Members and 4 Alternate Council Members)
+
+<div id="motion-4-29-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Lake Huron Primary Water Supply System Joint Board of Management for the term ending November 14, 2030: Councillor B. Durham  Councillor T. Cull          Councillor J. Sher      Councillor P. Van Meerbergen          Councillor C. Rahman (Alternate)  Councill...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.30. Consideration of Appointment to the Audit Committee (Requires 1 Member with a designation of Chartered Professional Accountant (CPA)
+
+<div id="motion-4-30-0" class="motion-anchor"></div>
+
+> That Waseem Kazzah BE APPOINTED to the Audit Committee for the term ending November 14, 2030. it being noted that the appointments are at the pleasure of Council and Council retains the right to remove any appointed member at any time for any reason, unless legislation provides otherwise; it bein...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.31. Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)
+
+<div id="motion-4-31-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Committee of Adjustment for the term ending November 14, 2030: Hassan Ahm​ed Andrew McClenaghan Jean-Marc Metrailler Carrie Mitchell Steve Polhill it being noted that the appointments are at the pleasure of Council and Council retains the right to remove any...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.31. Consideration of Appointments to the Committee of Adjustment (Requires 5 Members)
+
+<div id="motion-4-31-1" class="motion-anchor"></div>
+
+> ​That pursuant to section 33.8 of the Council Procedure by-law, the Committee BE PERMITTED to proceed beyond 6:00 PM. ​
+
+**✅ Motion Passed (14 to 1)**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Hadleigh McAlister](/councillors/current/h-mcalister), [Shawn Lewis](/councillors/current/s-lewis), [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Steve Lehman](/councillors/current/s-lehman), [Anna Hopkins](/councillors/current/a-hopkins), [Paul Van Meerbergen](/councillors/current/p-van-meerbergen), [Skylar Franke](/councillors/current/s-franke), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Elizabeth Peloza](/councillors/current/e-peloza)
+
+</details>
+
+### 4.32. Consideration of Appointments for Committee of Revision/Court of Revision (Requires 3 Members)
+
+<div id="motion-4-32-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Committee of Revision/Court of Revision for the term ending November 14, 2030: Tapaskumar Joshi   Sean Menard   Avdija Ramic it being noted that the appointments are at the pleasure of Council and Council retains the right to remove any appointed member at a...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (10-0)
+
+### 4.33. Consideration of Appointments to the Covent Garden Market Corporation Board of Directors (Requires 7 Members)
+
+<div id="motion-4-33-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the Covent Garden Market Corporation Board of Directors for the term ending November 14, 2030: Gary Bezaire  Claudio De Vincenzo  Mark Dencev  Kendra Green  Steve Hillier  Jeremy McCall  Donna Szpakowski it being noted that the appointments are at the pleasure o...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.34. Consideration of Appointments to the Eldon House Board of Directors (Requires 7 Members)
+
+<div id="motion-4-34-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to Eldon House Board of Directors for the term ending November 14, 2030: Angelique Commins  Robin Easterbrook  Marie Keasey  Joseph O'Neil  Shruti Poonia  Mary Blake Rose  Michelle Southern it being noted that the appointments are at the pleasure of Council and Cou...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.35. Consideration of Appointments to the London Police Services Board (Requires 1 Member)
+
+<div id="motion-4-35-0" class="motion-anchor"></div>
+
+> That Ryan Gauss BE APPOINTED to the London Police Services Board for the term ending November 14, 2030; it being noted that the appointments are at the pleasure of Council and Council retains the right to remove any appointed member at any time for any reason, unless legislation provides otherwis...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.36. Consideration of Appointments to the London Public Library Board (Requires 7 Members)
+
+<div id="motion-4-36-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London Public Library Board for the term ending November 14, 2030: Melissa Adler  Scott Andrew Collyer  Sharon Desserud  Jessica Farmer Bosma  Jamie Fenton  Heather Jack  Rebecca Jevnikar it being noted that the Strategic Priorities and Policy Committee rece...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.37. Consideration of Appointments to the London Transit Commission (Requires 3 Members)
+
+<div id="motion-4-37-0" class="motion-anchor"></div>
+
+> That the following BE APPOINTED to the London Transit Commission for the term ending November 14, 2030: Scott Andrew Collyer  Martin Horak  Virginia Ridley it being noted that the appointments are at the pleasure of Council and Council retains the right to remove any appointed member at any time ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 4.38. Consideration of Appointment to the Middlesex-London Health Unit Board (Requires 1 Member)
+
+<div id="motion-4-38-0" class="motion-anchor"></div>
+
+> That Matthew Newton-Reid BE APPOINTED to the Middlesex-London Health Unit Board for the term ending November 14, 2030; it being noted that the Strategic Priorities and Policy Committee received a communication dated October 16, 2026 from M. Steele, Board Chair and E. Williams, Secretary, Middlese...
+
+**✅ Motion Passed (14 to 0)**
+
+Unanimous (10-0)
+
+### 4.39. Confirmation of Appointments to the RBC Place London Board
+
+<div id="motion-4-39-0" class="motion-anchor"></div>
+
+> That the recommendation of the London Convention Centre Corporation (RBC Place London) the following appointments BE CONFIRMED: Melissa Maloney (Business/Entrepreneur) for a term ending December 2029;  Candace Miller (Education) for a term ending December 2029;  Jeffrey Floyd (Energy) for a term ...
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+
+### 6.1. Confidential Information Supplied by the Province of Ontario
+
+<div id="motion-6-1-1" class="motion-anchor"></div>
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Strategic Priorities and Policy Committee Agenda BE APPROVED, to provide for Item 6.1 in Stage 6, Confidential, to be considered after Stage 2, Consent.
+
+**✅ Motion Passed (15 to 0)**
+
+Unanimous (11-0)
+

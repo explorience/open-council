@@ -199,6 +199,8 @@ The Community and Protective Services
 ### 2. Request for
   Proposal (15-03) - Driver Simulator
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -208,6 +210,8 @@ Unanimous (5-0)
 
 ### 3. License Agreement -
   Optimist Club of North London
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -219,6 +223,8 @@ Unanimous (5-0)
 ### 4. (ADDED) Deferred
   Matters List
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -229,6 +235,8 @@ Unanimous (5-0)
 ### 5. (ADDED) Violations of Provincial
   Regulations Related to Fire and Life Safety Issues
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -238,6 +246,8 @@ Unanimous (5-0)
 
 ### 6. (ADDED)
   Open Air Burning and Air Quality
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

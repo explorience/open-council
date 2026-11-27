@@ -367,6 +367,8 @@ The meeting adjourned at 4:28 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.10 BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -374,6 +376,8 @@ The meeting adjourned at 4:28 PM.
 Unanimous (3-0)
 
 ### 4.1. Automated Speed Enforcement
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to undertake the following actions with respect to automated speed enforcement: a)            consult with the London Road Safety Coalition, appropriate Advisory Committees, local school boards and other stakeholders with respect to the potential implemen...
 

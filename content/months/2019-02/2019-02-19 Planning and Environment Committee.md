@@ -869,6 +869,8 @@ The meeting adjourned at 7:46 PM
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, inclusive, and 2.7 to 2.11, inclusive, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -876,6 +878,8 @@ The meeting adjourned at 7:46 PM
 Unanimous (4-0)
 
 ### 2.4. Application - 810 Westdel Bourne, Portion of 1055 Westdel Bourne, 1079 Westdel Bourne, 1959 and 1997 Oxford Street West - Eagle Ridge Subdivision Phase 2 - Special Provisions - 39T-17501
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and West Kains Land Corporation and Dr. Hugh Allen (Liahn Farms), for the  subdivision of land over ...
 
@@ -885,6 +889,8 @@ Unanimous (4-0)
 
 ### 2.5. Application - 379 Sunningdale Road West - Sunninglea Subdivision - Special Provisions - 39T-16504
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Manager, Development Planning, the following actions be taken with respect to entering into a Subdivision Agreement between The Corporation of the City of London and Sunningdale Golf and Country Club Ltd., for the  subdivision of land over Part of Lot 12, Regist...
 
 **✅ Motion Passed (3 to 0)**
@@ -892,6 +898,8 @@ Unanimous (4-0)
 Unanimous (3-0)
 
 ### 3.6. Public Participation Meeting - 447 Old Wonderland Road (Z-8962)
+
+<div id="motion-3-6-3" class="motion-anchor"></div>
 
 > Motion to include an h-5 holding provision for the site plan; and, c) pursuant to Section 34(17) of the Planning Act, no further public notice BE GIVEN with the exception of the h-5 holding provision for the public site plan;
 

@@ -730,67 +730,6 @@ The Planning and Environment Committee convened, in Closed Session, from 6:01 PM
 
 
 The meeting adjourned at 6:29 PM.
-
----
-
-## Votes
-
-*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.6 BE APPROVED.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
-
-> That the motion be amended to include a new part b) iv to read as follows: iv)        Bird friendly design
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
-
-> Motion to approve the main motion, as amended
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 488-492 Pond Mills Road (Z-9625)
-
-> Motion to approve the motion, as amended.
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
-
-### 3.5. 488-492 Pond Mills Road (Z-9625)
-
-> Motion to remove clause b) i);
-
-**❌ Motion Failed (2 to 3) 🔥**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (2):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
-
-**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
-
-</details>
-
-### 3.5. 488-492 Pond Mills Road (Z-9625)
-
-> motion to amend clause b) ii) to install a privacy fence around the parking area bordering the property;
-
-**✅ Motion Passed (5 to 0)**
-
-Unanimous (5-0)
 ---
 
 ## Full Transcript
@@ -1389,3 +1328,154 @@ Thank you. I believe the only thing before us now is a motion to adjourn. Counci
 Closing the vote, the motion carries five to zero. We're adjourned, thank you, folks.
 
 </details>
+<<<<<<< HEAD
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
+
+<div id="motion-3-4-3" class="motion-anchor"></div>
+
+> That the motion be amended to include a new part b) iv to read as follows: iv)        Bird friendly design
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
+
+<div id="motion-3-4-4" class="motion-anchor"></div>
+
+> Motion to approve the main motion, as amended
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-4" class="motion-anchor"></div>
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-5" class="motion-anchor"></div>
+
+> Motion to remove clause b) i);
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-6" class="motion-anchor"></div>
+
+> motion to amend clause b) ii) to install a privacy fence around the parking area bordering the property;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+=======
+>>>>>>> origin/main
+
+---
+
+## Votes
+
+*6 substantive votes at this meeting (1 contested, 5 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.6 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
+
+<div id="motion-3-4-3" class="motion-anchor"></div>
+
+> That the motion be amended to include a new part b) iv to read as follows: iv)        Bird friendly design
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.4. 625 Mornington Avenue (1299 Oxford Street East) (Z-9589)
+
+<div id="motion-3-4-4" class="motion-anchor"></div>
+
+> Motion to approve the main motion, as amended
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-4" class="motion-anchor"></div>
+
+> Motion to approve the motion, as amended.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-5" class="motion-anchor"></div>
+
+> Motion to remove clause b) i);
+
+**❌ Motion Failed (2 to 3) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Corrine Rahman](/councillors/current/c-rahman), [Steve Hillier](/councillors/current/s-hillier)
+
+**Nay (3):** [Shawn Lewis](/councillors/current/s-lewis), [Steve Lehman](/councillors/current/s-lehman), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 3.5. 488-492 Pond Mills Road (Z-9625)
+
+<div id="motion-3-5-6" class="motion-anchor"></div>
+
+> motion to amend clause b) ii) to install a privacy fence around the parking area bordering the property;
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

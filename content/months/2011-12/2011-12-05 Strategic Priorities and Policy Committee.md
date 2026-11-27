@@ -99,6 +99,8 @@ The meeting adjourned at 7:55 p.m.
 ### 1. 2012-2016 Operating
   Budget Targets
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > Recommendation:   (a)       That   all Boards and Commissions BE ADVISED that it is the Municipal   Council’s expectation that their budget submissions adhere to a 1.4% target.   (b)       That   the following actions be taken with respect to the 2012 Budget target:   (i)              the   ceili...
 
 **❌ **

@@ -13,16 +13,25 @@
  *     the anchor's heading id up to the next heading), not just somewhere
  *     on the page — i.e. the link lands on the right motion, not just the
  *     right page.
- *  3. UNIQUENESS (hub-recheck verdict finding 14, added 2026-08-31): no
- *     #fragment is claimed by two rows with DIFFERENT itemNumbers — that
- *     would mean two genuinely different motions collided onto the same
- *     heading without anchors.ts catching it. Rows that legitimately share
- *     a fragment because they're different sub-motions of the SAME item
- *     number (e.g. amendment parts a/b/c under one agenda item — see
- *     anchors.ts's module doc) are expected and excluded from this check;
- *     only a same-fragment / different-itemNumber pairing counts as a
- *     violation. This is a check on EXISTENCE plus UNIQUENESS, not
- *     existence alone.
+ *  3. IDENTITY (replaces the old fragment-uniqueness pass, 2026-09-09).
+ *     Every row whose anchor is a per-motion anchor must carry EXACTLY the
+ *     id derived from that row's own natural key — motion-<itemNumber>-
+ *     <rollCallOrdinal>, recomputed here from the row's own fields rather
+ *     than trusted from the generator. A row pointing at a sibling roll
+ *     call under the same item now fails, which is precisely the silent
+ *     mis-point the old result-string oracle could not see (40.1% of
+ *     substantive motions share a result string with a same-item sibling).
+ *
+ *     The old pass grouped rows by fragment and flagged only a fragment
+ *     shared across DIFFERENT item numbers. Against motion-id anchors that
+ *     check is vacuous — such fragments are unique by construction — so it
+ *     would have passed silently forever. It is kept, narrowed to the rows
+ *     that still use a legacy heading slug, where it is still meaningful.
+ *
+ * Checks 1 and 2 are deliberately retained as an INDEPENDENT correctness
+ * net: check 3 proves the anchor is the one the natural key implies, and
+ * checks 1-2 prove the page really carries that anchor and that the motion
+ * sitting at it is the one the row describes.
  *
  * Run after `npm run build` (needs public/ to exist).
  * Usage: npx tsx scripts/election/verify-evidence-links.ts
@@ -30,6 +39,7 @@
 
 import fs from "fs";
 import path from "path";
+import { motionAnchorId, MOTION_ANCHOR_PREFIX } from "../motion-anchor.js";
 
 const REPO_ROOT = process.cwd();
 const PUBLIC_DIR = path.join(REPO_ROOT, "public");
@@ -136,19 +146,62 @@ function checkEvidenceLink(
 interface Row {
   source: string;
   motionId: string;
+  meetingSlug: string;
   itemNumber: string;
+  rollCallOrdinal: number;
   anchor: string | null;
   anchorAmbiguous: boolean;
+  anchorPrecise: boolean;
   result: string;
 }
 
-/** Uniqueness pass (finding 14): group every row that HAS a #fragment by
- * that exact fragment; any group whose rows carry more than one distinct
- * itemNumber is a real collision anchors.ts should have disambiguated or
- * marked ambiguous, and didn't. Rows sharing a fragment with the SAME
- * itemNumber (ordinary amendment sub-parts a/b/c under one item) are
- * expected and not flagged. */
-function checkUniqueness(rows: Row[]): {
+/** Check 3, part A — IDENTITY. For every row whose anchor is a per-motion
+ * anchor, recompute the id from the row's OWN natural key and require an
+ * exact match. This is the check that catches a fragment silently swapped
+ * to a same-item sibling, which the result-string oracle in
+ * checkEvidenceLink cannot see when the siblings share a result string. */
+function checkAnchorIdentity(rows: Row[]): {
+  motionId: string;
+  anchor: string;
+  reason: string;
+}[] {
+  const violations: { motionId: string; anchor: string; reason: string }[] = [];
+  for (const r of rows) {
+    if (!r.anchor) continue;
+    const fragment = r.anchor.split("#")[1];
+    const expected = motionAnchorId(r.itemNumber, r.rollCallOrdinal);
+
+    if (r.anchorPrecise) {
+      if (fragment !== expected) {
+        violations.push({
+          motionId: r.motionId,
+          anchor: r.anchor,
+          reason: `row is marked precise but its fragment is "${fragment ?? "(none)"}", not the id its own key implies ("${expected}") — it points at a different roll call`,
+        });
+      }
+      continue;
+    }
+    // Not marked precise: it must NOT be wearing a per-motion fragment,
+    // otherwise a fallback row is being published as if it were verified.
+    if (fragment?.startsWith(MOTION_ANCHOR_PREFIX)) {
+      violations.push({
+        motionId: r.motionId,
+        anchor: r.anchor,
+        reason: `row carries per-motion fragment "${fragment}" but is not marked anchorPrecise — an unverified anchor is being published as a precise one`,
+      });
+    }
+  }
+  return violations;
+}
+
+/** Check 3, part B — COLLISION. Two rows describing DIFFERENT roll calls
+ * must never share one fragment. Kept from the original finding-14 pass and
+ * strengthened: the key is now the full natural key (meeting + item +
+ * roll-call ordinal), not the item number alone, so two different roll
+ * calls under one item count as a collision instead of being waved through
+ * as "ordinary sub-parts". Rows that legitimately repeat the SAME motion
+ * (the same key, re-shown on another page) are not flagged. */
+function checkFragmentCollisions(rows: Row[]): {
   motionId: string;
   anchor: string;
   reason: string;
@@ -163,13 +216,15 @@ function checkUniqueness(rows: Row[]): {
 
   const violations: { motionId: string; anchor: string; reason: string }[] = [];
   for (const [anchor, group] of byFragment) {
-    const distinctItemNumbers = new Set(group.map((r) => r.itemNumber));
-    if (distinctItemNumbers.size > 1) {
+    const keys = new Set(
+      group.map((r) => `${r.meetingSlug}|${r.itemNumber}|${r.rollCallOrdinal}`),
+    );
+    if (keys.size > 1) {
       const ids = [...new Set(group.map((r) => r.motionId))].join(", ");
       violations.push({
         motionId: ids,
         anchor,
-        reason: `anchor shared by ${distinctItemNumbers.size} different item numbers (${[...distinctItemNumbers].join(", ")}) across motions ${ids} — not motion-unique`,
+        reason: `anchor shared by ${keys.size} different roll calls (${[...keys].join(" / ")}) across motions ${ids} — not motion-unique`,
       });
     }
   }
@@ -192,6 +247,7 @@ function main() {
     reason: string;
   }[] = [];
   const allRows: Row[] = [];
+  const identityRows: Row[] = [];
 
   for (const [issueSlug, issue] of Object.entries<any>(issues.issues)) {
     for (const v of issue.votes) {
@@ -211,9 +267,12 @@ function main() {
       allRows.push({
         source: `issue:${issueSlug}`,
         motionId: v.id,
-        itemNumber: `${v.meetingSlug}#${v.itemNumber}`,
+        meetingSlug: v.meetingSlug,
+        itemNumber: v.itemNumber,
+        rollCallOrdinal: v.rollCallOrdinal,
         anchor: v.anchor,
         anchorAmbiguous: Boolean(v.anchorAmbiguous),
+        anchorPrecise: Boolean(v.anchorPrecise),
         result: v.result,
       });
     }
@@ -236,32 +295,59 @@ function main() {
               anchor: ev.anchor,
               reason: res.reason!,
             });
-          // Not added to allRows: this is the SAME motion catalogued above
-          // via issues.json (every direction-bearing motion is classified
-          // into exactly one issue), just re-shown per-councillor — adding
-          // it again would double-count every ordinary shared-heading case
-          // as if it were a fresh collision.
+          // Not added to allRows (the COLLISION pass): this is the SAME
+          // motion catalogued above via issues.json (every direction-bearing
+          // motion is classified into exactly one issue), just re-shown
+          // per-councillor — adding it again would double-count every
+          // ordinary shared-heading case as if it were a fresh collision.
+          // It IS added to the IDENTITY pass below, because that check is
+          // per-row and these are the rows carrying most of the hub's
+          // councillor-page evidence.
+          identityRows.push({
+            source: `councillor:${slug}`,
+            motionId: ev.motionId,
+            meetingSlug: ev.meetingSlug,
+            itemNumber: ev.itemNumber,
+            rollCallOrdinal: ev.rollCallOrdinal,
+            anchor: ev.anchor,
+            anchorAmbiguous: Boolean(ev.anchorAmbiguous),
+            anchorPrecise: Boolean(ev.anchorPrecise),
+            result: ev.result,
+          });
         }
       }
     }
   }
 
-  const uniquenessViolations = checkUniqueness(allRows);
-  for (const v of uniquenessViolations) {
+  const identityViolations = checkAnchorIdentity([...allRows, ...identityRows]);
+  for (const v of identityViolations) {
     failures.push({
-      source: "uniqueness",
+      source: "identity",
       motionId: v.motionId,
       anchor: v.anchor,
       reason: v.reason,
     });
   }
 
+  const collisionViolations = checkFragmentCollisions(allRows);
+  for (const v of collisionViolations) {
+    failures.push({
+      source: "collision",
+      motionId: v.motionId,
+      anchor: v.anchor,
+      reason: v.reason,
+    });
+  }
+
+  const preciseRows = [...allRows, ...identityRows].filter(
+    (r) => r.anchorPrecise,
+  );
   console.log(
-    `Checked ${total} evidence links (+ uniqueness across ${allRows.length} issue-page rows).`,
+    `Checked ${total} evidence links (identity across ${allRows.length + identityRows.length} rows, ${preciseRows.length} of them per-motion anchors; collision across ${allRows.length} issue-page rows).`,
   );
   if (failures.length === 0) {
     console.log(
-      "All evidence links resolve to a build-output page whose own section contains the cited motion's result, and no fragment is shared across different item numbers.",
+      "All evidence links resolve to a build-output page whose own section contains the cited motion's result, every per-motion anchor is exactly the id its own roll-call key implies, and no fragment is shared by two different roll calls.",
     );
     process.exit(0);
   }

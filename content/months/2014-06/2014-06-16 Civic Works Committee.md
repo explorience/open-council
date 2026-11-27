@@ -422,6 +422,8 @@ The
 ### 12. Street Renaming -
   Terrace Street (West of Adelaide Street South)
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion

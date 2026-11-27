@@ -329,6 +329,8 @@ The Corporate Services Committee convened
 ### 2. STAFF REPORT -
   Declare Surplus - City-Owned Property - Abutting 3195 White Oak Road
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -339,6 +341,8 @@ Unanimous (5-0)
 ### 3. STAFF REPORT -
   Declare Surplus - Closed Road Allowance - Part of Hyde Park Road
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -348,6 +352,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT-
   Review of City of London Ward Boundaries
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -366,6 +372,8 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Asset Review: Class A - Vacant Land and Buildings
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -375,6 +383,8 @@ Unanimous (5-0)
 
 ### 6. STAFF REPORT -
   Canada 150 London - SesquiFest 2017 Update
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -386,6 +396,8 @@ Unanimous (5-0)
 ### 7. Appointments to the
   Accessibility Advisory Committee (Requires 2 Persons with a Disability)
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -396,6 +408,8 @@ Unanimous (5-0)
 ### 8. SesquiFest Ontario
   Craft Beer Garden - Request for Designation as a Municipally Significant
   Event
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

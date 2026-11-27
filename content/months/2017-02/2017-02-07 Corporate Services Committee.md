@@ -550,6 +550,8 @@ That it BE NOTED that Councillor J. Helmer
 ### 2. STAFF REPORT -
   Reserve Fund Housekeeping
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -561,6 +563,8 @@ Unanimous (5-0)
   Vendor of Record (VOR) OSS-00415819 Arrangement for Mobile Devices and
   Services
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -570,6 +574,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT - 2017
   Debenture Issuance
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -581,6 +587,8 @@ Unanimous (5-0)
 ### 5. STAFF REPORT -
   Streaming Offsite Standing Committee Meetings
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -591,15 +599,7 @@ Unanimous (5-0)
 ### 6. STAFF REPORT - City
   of London Days at Budweiser Gardens - United Way London & Middlesex
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. PUBLIC
-  PARTICIPATION MEETING - Proposed Election Sign By-law
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -610,6 +610,20 @@ Unanimous (5-0)
 
 ### 7. PUBLIC
   PARTICIPATION MEETING - Proposed Election Sign By-law
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. PUBLIC
+  PARTICIPATION MEETING - Proposed Election Sign By-law
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -621,6 +635,8 @@ Unanimous (6-0)
 ### 7. PUBLIC
   PARTICIPATION MEETING - Proposed Election Sign By-law
 
+<div id="motion-7-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -631,15 +647,7 @@ Unanimous (6-0)
 ### 8. Apportionment of
   Taxes
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Apportionment of
-  Taxes
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -651,6 +659,20 @@ Unanimous (5-0)
 ### 8. Apportionment of
   Taxes
 
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Apportionment of
+  Taxes
+
+<div id="motion-8-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -661,15 +683,7 @@ Unanimous (5-0)
 ### 9. Tax Adjustment
   Agenda
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Tax Adjustment
-  Agenda
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -680,6 +694,20 @@ Unanimous (5-0)
 
 ### 9. Tax Adjustment
   Agenda
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Tax Adjustment
+  Agenda
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -691,6 +719,8 @@ Unanimous (5-0)
 ### 10. Confirmation of
   Appointments to the Cycling Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -700,6 +730,8 @@ Unanimous (5-0)
 
 ### 11. Confirmation of
   Appointment to the Trees and Forests Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -712,6 +744,8 @@ Unanimous (5-0)
   REPORT - Canada 150 London - Proposed Community Celebration Event and
   Promotion
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -721,6 +755,8 @@ Unanimous (6-0)
 
 ### 13. ADDED - COUNCIL
   MEMBER SUBMISSION - Provincial Tax Reduction Legislation - Vacant Buildings
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

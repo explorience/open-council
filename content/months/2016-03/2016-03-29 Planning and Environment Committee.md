@@ -849,6 +849,8 @@ The
 ### 2. 4th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -859,6 +861,8 @@ Unanimous (4-0)
 ### 3. 4th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -868,6 +872,8 @@ Unanimous (2-0)
 
 ### 4. 3rd Report of the
   Agricultural Advisory Committee
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -880,6 +886,8 @@ Unanimous (4-0)
   501 Southdale Road West (formerly a portion of 3080 Bostwick Road, 491 and
   499 Southdale Road West (H-8530)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -889,6 +897,8 @@ Unanimous (4-0)
 
 ### 6. Designation of
   864-872 Dundas Street under the Ontario Heritage Act
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -900,6 +910,8 @@ Unanimous (5-0)
 ### 7. Annual Report on
   Building Permit Fees
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -909,6 +921,8 @@ Unanimous (4-0)
 
 ### 8. Bierens (Westfield)
   Subdivision - Subdivision Special Provisions (39T-08502)
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -920,15 +934,7 @@ Unanimous (4-0)
 ### 9. 4th Report of the
   Environmental and Ecological Planning Advisory Committee
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Property located at
-  746 Waterloo Street (Z-8574)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -940,6 +946,8 @@ Unanimous (5-0)
 ### 10. Property located at
   746 Waterloo Street (Z-8574)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -950,6 +958,20 @@ Unanimous (5-0)
 ### 10. Property located at
   746 Waterloo Street (Z-8574)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Property located at
+  746 Waterloo Street (Z-8574)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -960,15 +982,7 @@ Unanimous (5-0)
 ### 11. Old East Village
   Commercial Corridor Urban Design Manual (O-8583)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Old East Village
-  Commercial Corridor Urban Design Manual (O-8583)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -979,6 +993,20 @@ Unanimous (5-0)
 
 ### 11. Old East Village
   Commercial Corridor Urban Design Manual (O-8583)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Old East Village
+  Commercial Corridor Urban Design Manual (O-8583)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -990,15 +1018,7 @@ Unanimous (5-0)
 ### 12. Properties located
   at 2001 and 2215 Sunningdale Road West (Z-8558)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 12. Properties located
-  at 2001 and 2215 Sunningdale Road West (Z-8558)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1010,6 +1030,20 @@ Unanimous (5-0)
 ### 12. Properties located
   at 2001 and 2215 Sunningdale Road West (Z-8558)
 
+<div id="motion-12-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 12. Properties located
+  at 2001 and 2215 Sunningdale Road West (Z-8558)
+
+<div id="motion-12-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1020,15 +1054,7 @@ Unanimous (5-0)
 ### 13. Victoria on the
   River Subdivision (39T-09502/Z-8528)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Victoria on the
-  River Subdivision (39T-09502/Z-8528)
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1040,6 +1066,8 @@ Unanimous (5-0)
 ### 13. Victoria on the
   River Subdivision (39T-09502/Z-8528)
 
+<div id="motion-13-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1049,6 +1077,20 @@ Unanimous (5-0)
 
 ### 13. Victoria on the
   River Subdivision (39T-09502/Z-8528)
+
+<div id="motion-13-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Victoria on the
+  River Subdivision (39T-09502/Z-8528)
+
+<div id="motion-13-3" class="motion-anchor"></div>
 
 > Motion   Passed
 

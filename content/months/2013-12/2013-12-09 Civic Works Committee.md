@@ -350,6 +350,8 @@ The meeting adjourned at 5:52 PM.
 ### 2. Election of
   Vice-Chair for the Term Ending November 30, 2014
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -361,6 +363,8 @@ Unanimous (6-0)
   Clarke Road Intersection Improvements Construction Contract Amendment -
   Emergency Situation
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -370,6 +374,8 @@ Unanimous (6-0)
 
 ### 4. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -381,6 +387,8 @@ Unanimous (6-0)
 ### 5. Irregular Bid-Supply
   of High Performance Cold Mix Asphalt (Tender T13-104)
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -390,6 +398,8 @@ Unanimous (6-0)
 
 ### 6. 2014 Infrastructure
   Renewal Projects - Trees
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -402,6 +412,8 @@ Unanimous (6-0)
   Environment Inspection Report for the City of London Water Distribution
   System - 2013
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -411,6 +423,8 @@ Unanimous (6-0)
 
 ### 8. Community Energy
   Action Plan - Final Draft for Community Engagement
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -422,6 +436,8 @@ Unanimous (5-0)
 ### 9. Intersection
   Improvements - Richmond Street and Fanshawe Park Road
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -431,6 +447,8 @@ Unanimous (6-0)
 
 ### 10. 1st Report of the
   Transportation Advisory Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

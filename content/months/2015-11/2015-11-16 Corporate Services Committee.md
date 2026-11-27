@@ -230,6 +230,8 @@ The Corporate Services Committee convened
 ### 2. Records Management
   Program Implementation
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -240,6 +242,8 @@ Unanimous (4-0)
 ### 3. Appointments to the
   Accessibility Advisory Committee
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -249,6 +253,8 @@ Unanimous (4-0)
 
 ### 4. Appointment to the
   London Advisory Committee on Heritage
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -261,6 +267,8 @@ Unanimous (4-0)
   Municipalities of Ontario - Long-Term Care and Age-Friendly Communities Task
   Force
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -271,6 +279,8 @@ Unanimous (4-0)
 ### 6. City of London
   Contract and Tendering Processes
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -279,6 +289,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 7. City of London’s Website
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -289,6 +301,8 @@ Unanimous (4-0)
 
 ### 8. RFP 15-35 – Appointment of an Integrity
   Commissioner
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

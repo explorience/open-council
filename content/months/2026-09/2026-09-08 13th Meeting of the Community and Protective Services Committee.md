@@ -337,3 +337,69 @@ The meeting adjourned at 2:48 PM.
 
 ****
 
+---
+
+## Votes
+
+*6 substantive votes at this meeting (0 contested, 6 unanimous). Procedural motions excluded.*
+
+### 2.2. Parks and Recreation Master Plan - 2026 Update
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
+
+> That, on the recommendation of the Deputy City Manager, Neighbourhood and Community-Wide Services, the following actions be taken with respect to the staff report dated September 8, 2026 related to the Parks and Recreation Master Plan – 2026 Update: a)    the new recommendations, as appended to t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.2. Parks and Recreation Master Plan - 2026 Update
+
+<div id="motion-2-2-1" class="motion-anchor"></div>
+
+> That the delegation request from L. Butterfield, with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Enhanced Response to Public Safety Risk Dogs
+
+<div id="motion-2-3-2" class="motion-anchor"></div>
+
+> That the motion BE AMENDED in part b) iii) to read as follows: finalized assessment, investigation and operational procedures developed in coordination with the City’s contracted animal services provider, London Animal Care Centre, the Environmental Stewardship and Action Community Advisory Commi...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.3. Enhanced Response to Public Safety Risk Dogs
+
+<div id="motion-2-3-3" class="motion-anchor"></div>
+
+> That the main motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Addressing Chronic Non-Compliance in Vacant Buildings
+
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
+> That part e) BE AMENDED to add the following after "violations":     exploring the possibility of allowing the fire department staff to issue AMPs for fire code related violations and exploring requiring recovery of costs from owners of vacant buildings for regular inspections from London fire de...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 4.1. Addressing Chronic Non-Compliance in Vacant Buildings
+
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
+> That main motion, as amended, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

@@ -1087,3 +1087,68 @@ Thank you, Chair, and I would like to report that progress has been made in the 
 Okay, Councillor Joceau, Councillor Hopkins, thank you by hand, all in favor. Motion carries. Thank you, everyone. [BLANK_AUDIO]
 
 </details>
+<<<<<<< HEAD
+
+---
+
+## Votes
+
+*5 substantive votes at this meeting (1 contested, 4 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.6, 2.8, 2.10 and 2.11 BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6
+
+<div id="motion-2-7-1" class="motion-anchor"></div>
+
+> That parts a) and b) BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 2.7. Award of NRFP-2025-248: Municipal Land for Affordable Housing at 1958 Duluth Crescent, Block 6
+
+<div id="motion-2-7-2" class="motion-anchor"></div>
+
+> That part c) BE APPROVED.
+
+**✅ Motion Passed (4 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Sam Trosow](/councillors/current/s-trosow), [Corrine Rahman](/councillors/current/c-rahman), [Anna Hopkins](/councillors/current/a-hopkins), [David Ferreira](/councillors/current/d-ferreira)
+
+**Nay (1):** [Jerry Pribil](/councillors/current/j-pribil)
+
+</details>
+
+### 2.9. Byron Veterans Monument Donation to Springbank Park
+
+<div id="motion-2-9-0" class="motion-anchor"></div>
+
+> That the matter of the Byron Veterans Monument Donation to Springbank Park, as included in the staff report dated June 8, 2026, BE REFERRED to a special meeting of the Community and Protective Services Committee on June 16, 2026.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. 5th Report of the Environmental Stewardship and Action Community Advisory Committee
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
+> That the delegation request from M. Blake Rose, with respect to this matter, BE APPROVED.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

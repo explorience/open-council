@@ -317,6 +317,8 @@ The meeting adjourned at 2:43 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.3 - 2.6, inclusive, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -325,6 +327,8 @@ Unanimous (5-0)
 
 ### 2.1. Budweiser Gardens: City Approval of Zamboni Capital Lease Agreement
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the capital lease for two new Zamboni ice resurfacing machines at Budweiser Gardens BE APPROVED to replace the previous two Zamboni ice resurfacing machines, that are no longer in...
 
 **✅ Motion Passed (5 to 0)**
@@ -332,6 +336,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 5.1. Consideration of Appointments to the Eldon House Board of Directors
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following BE APPOINTED to the Eldon House Board of Directors for the term ending November 15, 2022, based on the interviews conducted by the Corporate Services Committee on January 21, 22, February 12 and 19, respectively, and the attached ranked ballot: Louanne Henderson  Theresa Regnie...
 

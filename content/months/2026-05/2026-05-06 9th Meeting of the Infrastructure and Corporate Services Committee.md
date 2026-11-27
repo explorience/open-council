@@ -503,3 +503,50 @@ Mr. Chair, could you call A separately? Yes, we can do that. Okay, we're doing A
 We're all open for voting. Motion carries, 3 to 0. Okay, and we'll do the rest of them together.
 
 </details>
+<<<<<<< HEAD
+
+---
+
+## Votes
+
+*3 substantive votes at this meeting (1 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2.6. Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
+
+> That part a) BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 2.6. Findings and Next Steps for Provincial Electric Kick-Scooter Pilot
+
+<div id="motion-2-6-2" class="motion-anchor"></div>
+
+> That parts b), c), and d) BE APPROVED.
+
+**✅ Motion Passed (2 to 1) 🔥**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (2):** [Hadleigh McAlister](/councillors/current/h-mcalister), [Elizabeth Peloza](/councillors/current/e-peloza)
+
+**Nay (1):** [Paul Van Meerbergen](/councillors/current/p-van-meerbergen)
+
+**Absent (2):** [Susan Stevenson](/councillors/current/s-stevenson), [Skylar Franke](/councillors/current/s-franke)
+
+</details>
+
+### 4.1. Association of Municipalities Ontario - Board of Directors, Large Urban Caucus
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
+> That the following actions be taken with respect to the Association of Municipalities of Ontario (AMO) Board of Directors: a)    Councillor A. Hopkins BE ENDORSED to stand for election to the Association of Municipalities of Ontario (AMO) Board of Directors, Large Urban Caucus, for the 2026/2028 ...
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+

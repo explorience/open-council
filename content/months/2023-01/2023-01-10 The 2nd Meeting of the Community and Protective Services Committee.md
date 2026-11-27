@@ -281,6 +281,8 @@ The meeting adjourned at 5:20 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.7 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -288,6 +290,8 @@ The meeting adjourned at 5:20 PM.
 Unanimous (5-0)
 
 ### 4.1. A. Johnson, Greenspace Alliance - Greenspace Protection at the Former River Road Golf Course, Ward 1
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > Motion to approve the delegation request from M.A. Hodge, with respect to Greenspace Protection at the Former River Road Golf Course, Ward 1, to be heard at this meeting.
 

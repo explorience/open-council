@@ -527,6 +527,8 @@ The meeting adjourned at 8:01 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.2 to 2.4, inclusive, and 2.6 BE APPROVED.
 
 **✅ Motion Passed (3 to 0)**
@@ -535,6 +537,8 @@ Unanimous (3-0)
 
 ### 2.5. 2019 Annual Development Report
 
+<div id="motion-2-5-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE DIRECTED to include in future Annual Development Reports the percentage of residential units located within the Built Area Boundary, as defined in the London Plan, to aid in tracking progress towards the 45% intensification target.    (2020-A23)
 
 **✅ Motion Passed (3 to 0)**
@@ -542,6 +546,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 4.1. Councillor A. Hopkins  - Review of Bill 108 at it relates to Conservation Authorities
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That in response to the consultation being undertaken with respect to the Conservation Authorities Act, the Minister of Environment, Conservation and Parks BE ADVISED that the Municipal Council supports the protection of people, property and safe development with a watershed approach to the progr...
 

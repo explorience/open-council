@@ -403,6 +403,8 @@ The meeting adjourned at 1:39 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.4, 2.5, 2.11 and 2.13 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -410,6 +412,8 @@ The meeting adjourned at 1:39 PM.
 Unanimous (5-0)
 
 ### 2.3. Hamilton Road and Highbury Avenue Intersection Improvements -  Environmental Study Report
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the Hamilton Road and Highbury Avenue Intersection Improvements Environmental Assessment: a)            the Hamilton Road and Highbury Avenu...
 
@@ -419,6 +423,8 @@ Unanimous (5-0)
 
 ### 2.6. High Speed Rail
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the High Speed Rail initiative: a)            the Civic Administration BE DIRECTED to undertake a High Speed Rail Corridor Protection Study ...
 
 **✅ Motion Passed (5 to 0)**
@@ -426,6 +432,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 2.7. Railway Rationalization
+
+<div id="motion-2-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to Railway Rationalization initiative: a)            a strategy of strategic grade separations combined with the implementation of technologies...
 
@@ -435,6 +443,8 @@ Unanimous (6-0)
 
 ### 2.9. Updates - Proposed Amended Blue Box Program Plan - Food and Organic Waste Framework & Policy Statement - Next Steps
 
+<div id="motion-2-9-0" class="motion-anchor"></div>
+
 > That Items 2.9, 2.10 and 2.12 BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -442,6 +452,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. Deferred Matters List
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the Civic Works Committee Deferred List, as at May 17, 2018, BE RECEIVED.
 
@@ -457,6 +469,8 @@ Unanimous (6-0)
 </details>
 
 ### 5.3. (ADDED) Clear Garbage Bags
+
+<div id="motion-5-3-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE DIRECTED to investigate and report back with a potential implementation strategy regarding the use of clear garbage bags as part of the 60% Waste Diversion and Action Plan.
 

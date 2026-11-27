@@ -421,6 +421,8 @@ The Corporate Services Committee convened
 ### 2. Inclusion of London
   Convention Centre Funds in City of London's Investment Portfolio
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -430,6 +432,8 @@ Unanimous (4-0)
 
 ### 2. Inclusion of London
   Convention Centre Funds in City of London's Investment Portfolio
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -441,6 +445,8 @@ Unanimous (5-0)
 ### 4. Canada Caribbean
   Local Economic Development Program (CARILED)
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -450,6 +456,8 @@ Unanimous (4-0)
 
 ### 5. Canada Ukraine
   Municipal Local Economic Development Program (MLED Ukraine)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -462,6 +470,8 @@ Unanimous (4-0)
   2014 Association of Municipalities of Ontario (AMO) Annual General Meeting,
   Conference and Trade Show
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -472,6 +482,8 @@ Unanimous (4-0)
 ### 7. Supplemental
   Assessment Levied by Ontario Municipal Insurance Exchange
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -481,6 +493,8 @@ Unanimous (4-0)
 
 ### 8. Annual Meeting
   Calendar
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,6 +513,8 @@ Unanimous (4-0)
 ### 9. Request for Support
   for Fanshawe College London Downtown Campus - Phase ll
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -516,15 +532,7 @@ Unanimous (4-0)
 ### 10. Apportionment of
   Taxes
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Apportionment of
-  Taxes
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -536,6 +544,20 @@ Unanimous (5-0)
 ### 10. Apportionment of
   Taxes
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Apportionment of
+  Taxes
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -546,15 +568,7 @@ Unanimous (5-0)
 ### 11. Tax Adjustment
   Agenda
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 11. Tax Adjustment
-  Agenda
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -565,6 +579,20 @@ Unanimous (5-0)
 
 ### 11. Tax Adjustment
   Agenda
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 11. Tax Adjustment
+  Agenda
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -576,6 +604,8 @@ Unanimous (5-0)
 ### 12. Appointment to the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -585,6 +615,8 @@ Unanimous (5-0)
 
 ### 13. Appointment to the
   Trees and Forests Advisory Committee
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

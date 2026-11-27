@@ -377,6 +377,8 @@ The meeting adjourned at 2:12 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.2 to 2.7, excluding 2.6, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -384,6 +386,8 @@ The meeting adjourned at 2:12 PM.
 Unanimous (6-0)
 
 ### 2.1. Update: Workplace Diversity and Inclusion
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and Chief Human Resources Officer, the staff report dated June 18, 2019 with respect to an update on Workplace Diversity and Inclusion BE RECEIVED for information purposes.
 
@@ -400,6 +404,8 @@ Unanimous (6-0)
 
 ### 2.6. 4G+ / 5G Small Cell Pilot Project
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director of Information Technology Services, the Managing Director, Environmental and Engineering Services and City Engineer, the Managing Director, Planning and City Planner, the Manager of Information Technology Services and the Director of Community and Econo...
 
 **✅ Motion Passed (6 to 0)**
@@ -407,6 +413,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 2.8. Expropriation of Land – Wharncliffe Road Widening and Improvements Project
+
+<div id="motion-2-8-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Environmental and Engineering Services and City Engineer, with the concurrence of the Director, Roads and Transportation and on the advice of the Manager of Realty Services, the following actions be taken with respect to the Wharncliffe Road W...
 
@@ -422,6 +430,8 @@ Unanimous (6-0)
 </details>
 
 ### 2.8. Expropriation of Land – Wharncliffe Road Widening and Improvements Project
+
+<div id="motion-2-8-1" class="motion-anchor"></div>
 
 > That a delegation from N. Finlayson BE APPROVED to be heard at this time.
 

@@ -589,6 +589,8 @@ The
 ### 2. 6th Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -600,6 +602,8 @@ Unanimous (5-0)
   the Ontario Municipal Board PL150688/PL150398 - 161 Windermere Road
   (39CD-14501/SP15-009524)
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -610,15 +614,7 @@ Unanimous (5-0)
 ### 4. Victoria on the
   River Subdivision - Phases 1 & 2 (formerly 1603 Hamilton Road) (H-8471)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. 11th Report of the
-  London Advisory Committee on Heritage
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -630,6 +626,8 @@ Unanimous (5-0)
 ### 5. 11th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -640,6 +638,20 @@ Unanimous (5-0)
 ### 5. 11th Report of the
   London Advisory Committee on Heritage
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. 11th Report of the
+  London Advisory Committee on Heritage
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -650,15 +662,7 @@ Unanimous (5-0)
 ### 6. Property located at
   648 Huron Street (Z-8495)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Property located at
-  648 Huron Street (Z-8495)
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,6 +674,20 @@ Unanimous (5-0)
 ### 6. Property located at
   648 Huron Street (Z-8495)
 
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Property located at
+  648 Huron Street (Z-8495)
+
+<div id="motion-6-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -680,15 +698,7 @@ Unanimous (5-0)
 ### 7. Property located at
   1255 Kilally Road (OZ-8500)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 7. Property located at
-  1255 Kilally Road (OZ-8500)
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -700,6 +710,8 @@ Unanimous (5-0)
 ### 7. Property located at
   1255 Kilally Road (OZ-8500)
 
+<div id="motion-7-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -709,6 +721,20 @@ Unanimous (5-0)
 
 ### 7. Property located at
   1255 Kilally Road (OZ-8500)
+
+<div id="motion-7-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 7. Property located at
+  1255 Kilally Road (OZ-8500)
+
+<div id="motion-7-3" class="motion-anchor"></div>
 
 > Motion   Failed
 
@@ -727,15 +753,7 @@ Unanimous (5-0)
 ### 8. Property located at
   4342 McDougall Close - Request for Demolition
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 8. Property located at
-  4342 McDougall Close - Request for Demolition
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,6 +764,20 @@ Unanimous (5-0)
 
 ### 8. Property located at
   4342 McDougall Close - Request for Demolition
+
+<div id="motion-8-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 8. Property located at
+  4342 McDougall Close - Request for Demolition
+
+<div id="motion-8-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -756,6 +788,8 @@ Unanimous (5-0)
 
 ### 9. Deferred Matters
   List
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

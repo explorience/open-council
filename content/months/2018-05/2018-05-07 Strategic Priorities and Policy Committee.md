@@ -606,6 +606,8 @@ The meeting adjourned at 9:31 PM.
 
 ### 3.3. Not to be heard before 7:00 PM - Municipal Accommodation Tax - Implementation
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to implementing the new Municipal Accommodation Tax (formerly “transient accommodation tax”):    a)            a four percent (4%) Muni...
 
 **✅ Motion Passed (12 to 2)**
@@ -621,6 +623,8 @@ The meeting adjourned at 9:31 PM.
 
 ### 4.1. 8th Report of the Governance Working Group
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 8th Report of the Governance Working Group from its meeting held on April 23, 2018:    a)         on the recommendation of the City Manager, the following actions be taken with respect to the Council Policy Manual Modernization:    i)       ...
 
 **✅ Motion Passed (14 to 0)**
@@ -628,6 +632,8 @@ The meeting adjourned at 9:31 PM.
 Unanimous (14-0)
 
 ### 5.1. (ADDED) London Middlesex Housing Corporation Board of Directors Vacancies
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the London Middlesex Housing Corporation Board of Directors:    a)            the letter of resignation appended to the staff report dated May 7, 2018 as Appendix A from S. Campbell, effective April 27, 2018 BE RECEIVED; and b)           the fol...
 

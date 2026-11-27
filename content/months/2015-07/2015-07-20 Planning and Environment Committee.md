@@ -401,6 +401,8 @@ Motion
 ### 3. Victoria on the
   River Phase 2 (39T-09502) Subdivision Agreement Special Provisions
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -411,6 +413,8 @@ Unanimous (5-0)
 ### 8. Municipality of
   Thames Centre Official Plan Review (Official Plan Amendment No. 12) - Notice
   of Decision
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -429,6 +433,8 @@ Unanimous (5-0)
 ### 9. Application by
   Tridon, re 510 Central Avenue (SP15-005948) - Site Plan
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -438,6 +444,8 @@ Unanimous (5-0)
 
 ### 9. Application by
   Tridon, re 510 Central Avenue (SP15-005948) - Site Plan
+
+<div id="motion-9-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -457,6 +465,8 @@ Unanimous (5-0)
   Hully Gully Limited re property located at 1659 Wharncliffe Road South -
   Request for Demolition
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -467,6 +477,8 @@ Unanimous (5-0)
 ### 11. Application by
   David Tuckey re property located at 136A and 138 Wortley Road - Request for
   Demolition
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -479,6 +491,8 @@ Unanimous (5-0)
   Talbot Limited re properties located at 505, 507 and 511 Talbot Street -
   Request for Demolition
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -488,6 +502,8 @@ Unanimous (5-0)
 
 ### 13. Proposed Addition
   of Mid-Century Modern Properties to London's Inventory of Heritage Resources
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,6 +515,8 @@ Unanimous (5-0)
 ### 14. Potential
   Application of the HER Zone
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -508,6 +526,8 @@ Unanimous (5-0)
 
 ### 15. (ADDED) 9th Report
   of the London Advisory Committee on Heritage
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

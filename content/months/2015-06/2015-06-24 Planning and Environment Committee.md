@@ -62,6 +62,8 @@ Motion
 ### 2. The London Plan
   -  Second Draft - June 2015
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -71,6 +73,8 @@ Unanimous (3-0)
 
 ### 2. The London Plan
   -  Second Draft - June 2015
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

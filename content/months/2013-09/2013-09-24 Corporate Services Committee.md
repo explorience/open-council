@@ -342,6 +342,8 @@ Motion
 ### 2. Engaging
   Post-Secondary Students in Local Government
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -353,6 +355,8 @@ Unanimous (3-0)
   Engagement of Post-Secondary Students in Local Government - Advisory
   Committee Participation
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -362,6 +366,8 @@ Unanimous (3-0)
 
 ### 4. 2012 Investment
   Report
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -373,6 +379,8 @@ Unanimous (4-0)
 ### 5. 2012 Annual Report
   - Development Charges Reserve Funds
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -382,6 +390,8 @@ Unanimous (3-0)
 
 ### 6. London Health
   Sciences Centre - South Street Campus Decommissioning
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -393,6 +403,8 @@ Unanimous (3-0)
 ### 7. Canada Caribbean
   Local Economic Development Program
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -402,6 +414,8 @@ Unanimous (3-0)
 
 ### 8. City of London -
   Website Modernization Project
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -413,15 +427,7 @@ Unanimous (4-0)
 ### 9. 1:30 PM Tax
   Adjustment Agenda
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Appointment to the
-  London Advisory Committee on Heritage
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -432,6 +438,20 @@ Unanimous (5-0)
 
 ### 10. Appointment to the
   London Advisory Committee on Heritage
+
+<div id="motion-10-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Appointment to the
+  London Advisory Committee on Heritage
+
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

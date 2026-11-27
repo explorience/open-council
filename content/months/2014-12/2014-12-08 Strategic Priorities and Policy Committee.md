@@ -2551,6 +2551,8 @@ Motion Passed
 
 ### 2. Deputy Mayor Policy
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2558,6 +2560,8 @@ Motion Passed
 Unanimous (15-0)
 
 ### 2. Deputy Mayor Policy
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2574,6 +2578,8 @@ Unanimous (15-0)
 
 ### 2. Deputy Mayor Policy
 
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2589,6 +2595,8 @@ Unanimous (15-0)
 
 ### 2. Deputy Mayor Policy
 
+<div id="motion-2-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2596,6 +2604,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 2. Deputy Mayor Policy
+
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2605,6 +2615,8 @@ Unanimous (13-0)
 
 ### 2. Deputy Mayor Policy
 
+<div id="motion-2-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2612,6 +2624,8 @@ Unanimous (13-0)
 Unanimous (15-0)
 
 ### 2. Deputy Mayor Policy
+
+<div id="motion-2-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2623,6 +2637,8 @@ Unanimous (15-0)
   Draft Budgets (Annual Tax-Supported Operating, Capital, Water and Wastewater
   Treatment)
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2632,14 +2648,7 @@ Unanimous (15-0)
 ### 4. Public
   Participation Meeting - Amendments to Council Procedure By-law
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 4. Public
-  Participation Meeting - Amendments to Council Procedure By-law
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2649,6 +2658,19 @@ Unanimous (14-0)
 
 ### 4. Public
   Participation Meeting - Amendments to Council Procedure By-law
+
+<div id="motion-4-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 4. Public
+  Participation Meeting - Amendments to Council Procedure By-law
+
+<div id="motion-4-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2658,6 +2680,8 @@ Unanimous (14-0)
 
 ### 5. Investment and
   Economic Prosperity Committee
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2676,6 +2700,8 @@ Unanimous (14-0)
   Appointment to the Civic Works Committee (Requires 5 Council Members, one of
   whom shall be Chair)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2686,15 +2712,7 @@ Unanimous (15-0)
   Appointment to the Civic Works Committee (Requires 5 Council Members, one of
   whom shall be Chair)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 7. Consideration of
-  Appointment to the Community and Protective Services Committee (Requires 5
-  Council Members, one of whom shall be Chair)
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2705,6 +2723,20 @@ Unanimous (15-0)
 ### 7. Consideration of
   Appointment to the Community and Protective Services Committee (Requires 5
   Council Members, one of whom shall be Chair)
+
+<div id="motion-7-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 7. Consideration of
+  Appointment to the Community and Protective Services Committee (Requires 5
+  Council Members, one of whom shall be Chair)
+
+<div id="motion-7-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2717,15 +2749,7 @@ Unanimous (15-0)
   and the Municipal Council's section for the Deputy Mayor who shall serve as
   Chair)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 9. Consideration of
-  Appointment to the Planning and Environment Committee (Requires 5 Council
-  Members, one of whom shall be Chair)
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2737,6 +2761,20 @@ Unanimous (15-0)
   Appointment to the Planning and Environment Committee (Requires 5 Council
   Members, one of whom shall be Chair)
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 9. Consideration of
+  Appointment to the Planning and Environment Committee (Requires 5 Council
+  Members, one of whom shall be Chair)
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2745,6 +2783,8 @@ Unanimous (15-0)
 
 ### 10. Argyle Business
   Improvement Association
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2755,6 +2795,8 @@ Unanimous (13-0)
 ### 10. Argyle Business
   Improvement Association
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2764,6 +2806,8 @@ Unanimous (13-0)
 ### 11. Consideration of
   Appointment to the Audit Committee
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2772,6 +2816,8 @@ Unanimous (15-0)
 
 ### 11. Consideration of
   Appointment to the Audit Committee
+
+<div id="motion-11-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2784,6 +2830,8 @@ Unanimous (15-0)
   Liaison Committee (Requires 3 Council Members and the Deputy Mayor selected
   by the Municipal Council)
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2795,6 +2843,8 @@ Unanimous (13-0)
   Liaison Committee (Requires 3 Council Members and the Deputy Mayor selected
   by the Municipal Council)
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2804,6 +2854,8 @@ Unanimous (13-0)
 ### 14. Consideration of
   Appointment to the Covent Garden Market Corporation Board of Directors
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2812,6 +2864,8 @@ Unanimous (15-0)
 
 ### 14. Consideration of
   Appointment to the Covent Garden Market Corporation Board of Directors
+
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2823,6 +2877,8 @@ Unanimous (15-0)
   Appointment to the Dearness Home Committee of Management (Requires 5 Council
   Members)
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2833,6 +2889,8 @@ Unanimous (15-0)
   Appointment to the Elgin Area Primary Water Supply System Joint Board of
   Management (Requires 3 Council Members and 3 Alternates)
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2841,6 +2899,8 @@ Unanimous (15-0)
 
 ### 17. Consideration of
   Appointment to the Kettle Creek Conservation Authority - 3 Year Term
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2852,15 +2912,7 @@ Unanimous (15-0)
   Appointment to the Lake Huron Primary Water Supply System Joint Board of Management
   (Requires 4 Council Members and 4 Alternates)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 19. Consideration of
-  Appointment to the London and Middlesex Housing Corporation Board of
-  Directors
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2871,6 +2923,20 @@ Unanimous (15-0)
 ### 19. Consideration of
   Appointment to the London and Middlesex Housing Corporation Board of
   Directors
+
+<div id="motion-19-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 19. Consideration of
+  Appointment to the London and Middlesex Housing Corporation Board of
+  Directors
+
+<div id="motion-19-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2888,6 +2954,8 @@ Unanimous (15-0)
 ### 20. London Convention
   Centre
 
+<div id="motion-20-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2896,6 +2964,8 @@ Unanimous (15-0)
 
 ### 21. Consideration of
   Appointment to the London Downtown Business Association Board of Management
+
+<div id="motion-21-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2906,66 +2976,7 @@ Unanimous (15-0)
 ### 22. Consideration of
   Appointment to the London Hydro Inc. Board of Directors
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
-
-**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
-
-</details>
-
-### 23. Consideration of
-  Appointment to the London Police Services Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 23. Consideration of
-  Appointment to the London Police Services Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 23. Consideration of
-  Appointment to the London Police Services Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 23. Consideration of
-  Appointment to the London Police Services Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 24. Consideration of
-  Appointment to the London Public Library Board
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 24. Consideration of
-  Appointment to the London Public Library Board
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2980,8 +2991,83 @@ Unanimous (15-0)
 
 </details>
 
+### 23. Consideration of
+  Appointment to the London Police Services Board
+
+<div id="motion-23-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 23. Consideration of
+  Appointment to the London Police Services Board
+
+<div id="motion-23-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 23. Consideration of
+  Appointment to the London Police Services Board
+
+<div id="motion-23-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 23. Consideration of
+  Appointment to the London Police Services Board
+
+<div id="motion-23-3" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
 ### 24. Consideration of
   Appointment to the London Public Library Board
+
+<div id="motion-24-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 24. Consideration of
+  Appointment to the London Public Library Board
+
+<div id="motion-24-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (14):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Virginia Ridley](/councillors/former/v-ridley), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
+
+**Nay (1):** [Harold Usher](/councillors/former/h-l-usher)
+
+</details>
+
+### 24. Consideration of
+  Appointment to the London Public Library Board
+
+<div id="motion-24-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2999,6 +3085,8 @@ Unanimous (15-0)
 ### 24. Consideration of
   Appointment to the London Public Library Board
 
+<div id="motion-24-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3015,14 +3103,7 @@ Unanimous (15-0)
 ### 25. Consideration of
   Appointment to the London Transit Commission
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 25. Consideration of
-  Appointment to the London Transit Commission
+<div id="motion-25-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3032,6 +3113,19 @@ Unanimous (15-0)
 
 ### 25. Consideration of
   Appointment to the London Transit Commission
+
+<div id="motion-25-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 25. Consideration of
+  Appointment to the London Transit Commission
+
+<div id="motion-25-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3049,6 +3143,8 @@ Unanimous (15-0)
 ### 25. Consideration of
   Appointment to the London Transit Commission
 
+<div id="motion-25-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3064,6 +3160,8 @@ Unanimous (15-0)
 
 ### 25. Consideration of
   Appointment to the London Transit Commission
+
+<div id="motion-25-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3082,6 +3180,8 @@ Unanimous (15-0)
   Appointment to the London Transit Commission Long Term Growth Report Working
   Group (Requires any Council Members)
 
+<div id="motion-26-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3097,6 +3197,8 @@ Unanimous (15-0)
 
 ### 27. Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
+
+<div id="motion-27-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3114,6 +3216,8 @@ Unanimous (15-0)
 ### 27. Consideration of
   Appointment to the Middlesex-London Health Unit Board of Health
 
+<div id="motion-27-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3122,6 +3226,8 @@ Unanimous (15-0)
 
 ### 28. Consideration of
   Appointment to the Museum London
+
+<div id="motion-28-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3133,6 +3239,8 @@ Unanimous (15-0)
   Appointment to the Old East Village Business Improvement Area Board of
   Management (Requires 1 Council Member and 14 Additional Members)
 
+<div id="motion-29-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3142,6 +3250,8 @@ Unanimous (15-0)
 ### 30. Consideration of
   Appointment to the Public Utility Commission of the City of London (Requires
   3 Council Members)
+
+<div id="motion-30-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3153,15 +3263,7 @@ Unanimous (15-0)
   Appointment to the Tourism London Board of Directors (Requires 2 Council
   Members)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 32. Consideration of
-  Appointment to the Town and Gown Committee (Requires 4 Council Members and
-  the Deputy Mayor selected by the Municipal Council)
+<div id="motion-31-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3172,6 +3274,20 @@ Unanimous (15-0)
 ### 32. Consideration of
   Appointment to the Town and Gown Committee (Requires 4 Council Members and
   the Deputy Mayor selected by the Municipal Council)
+
+<div id="motion-32-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 32. Consideration of
+  Appointment to the Town and Gown Committee (Requires 4 Council Members and
+  the Deputy Mayor selected by the Municipal Council)
+
+<div id="motion-32-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3182,15 +3298,7 @@ Unanimous (15-0)
 ### 33. Consideration of
   Appointment to the Upper Thames River Conservation Authority - 3 Year Term
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 34. Consideration of
-  Appointment to the Western Fair Association Board of Governors (Requires 1
-  Council Member)
+<div id="motion-33-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3201,6 +3309,20 @@ Unanimous (15-0)
 ### 34. Consideration of
   Appointment to the Western Fair Association Board of Governors (Requires 1
   Council Member)
+
+<div id="motion-34-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 34. Consideration of
+  Appointment to the Western Fair Association Board of Governors (Requires 1
+  Council Member)
+
+<div id="motion-34-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3219,6 +3341,8 @@ Unanimous (15-0)
   Appointment to the Western Fair Association Programming Council (Requires 2
   Council Members)
 
+<div id="motion-35-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3227,6 +3351,8 @@ Unanimous (15-0)
 
 ### 36. Consideration of
   Appointment to Western University Board of Governors
+
+<div id="motion-36-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3237,6 +3363,8 @@ Unanimous (13-0)
 ### 37. 1st Report of the
   Striking Committee
 
+<div id="motion-37-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3246,6 +3374,8 @@ Unanimous (15-0)
 ### 38. ADDED -
   Consideration of Appointment to the Committee of Adjustment (Requires 5
   Members)
+
+<div id="motion-38-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3264,6 +3394,8 @@ Unanimous (15-0)
   Consideration of Appointment to the Committee of Revision/Court of Revision
   (Requires 3 Members)
 
+<div id="motion-39-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3272,6 +3404,8 @@ Unanimous (15-0)
 
 ### 40. ADDED -
   Consideration of Appointment to Eldon House (Requires 9 Members)
+
+<div id="motion-40-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3283,6 +3417,8 @@ Unanimous (15-0)
   Consideration of Appointment to the London and Middlesex Heritage Museum
   Board of Directors (Requires 1 Member)
 
+<div id="motion-41-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3292,6 +3428,8 @@ Unanimous (15-0)
 ### 42. ADDED -
   Consideration of Appointment to the Council for Adult Education (Requires 1
   Member)
+
+<div id="motion-42-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -3303,6 +3441,8 @@ Unanimous (13-0)
   Consideration of Appointment to the Lower Thames Valley Conservation
   Authority - 3 Year Term (Requires 1 Member)
 
+<div id="motion-43-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3313,6 +3453,8 @@ Unanimous (15-0)
   Consideration of Appointment to the Plumbers' and Drain Layers' Examining
   Board (Requires 3 Members)
 
+<div id="motion-44-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -3320,6 +3462,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 45. ADDED – Striking Committee
+
+<div id="motion-45-0" class="motion-anchor"></div>
 
 > Motion Passed
 

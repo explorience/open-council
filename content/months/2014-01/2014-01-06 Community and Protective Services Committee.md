@@ -478,6 +478,8 @@ b)           
 ### 2. 1st Report of the
   London Housing Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -487,6 +489,8 @@ Unanimous (3-0)
 
 ### 3. Ontario Medal for
   Young Volunteers
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -498,6 +502,8 @@ Unanimous (3-0)
 ### 5. Request for
   Delegation Status - S. Milos, Executive Director, London Housing Registry -
   30 Year Anniversary of the London Housing Registry
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

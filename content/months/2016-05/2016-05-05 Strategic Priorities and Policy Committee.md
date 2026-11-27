@@ -113,6 +113,8 @@ Motion Passed
 ### 2. Shift Rapid Transit
   - Business Case
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -121,6 +123,8 @@ Unanimous (15-0)
 
 ### 2. Shift Rapid Transit
   - Business Case
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 

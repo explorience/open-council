@@ -1997,6 +1997,8 @@ Approve Third Reading and Enactment of Bill
 ### 17#2. Dundas Place
   Management and Dundas Field House
 
+<div id="motion-17-2-0" class="motion-anchor"></div>
+
 > Approve that part b) of clause 17 be   amended to read as follows:   b)         the   attached revised Dundas Place Governance Model and the Dundas   Place  Operational Model to reflect a reporting structure of the Business   Manager to be though the appropriate City of London Service Area, rathe...
 
 **❌ Motion Failed 🔥**
@@ -2012,6 +2014,8 @@ Approve Third Reading and Enactment of Bill
 
 ### 17#2. Dundas Place
   Management and Dundas Field House
+
+<div id="motion-17-2-1" class="motion-anchor"></div>
 
 > The motion to Approve part c) ii) of clause   17 is put.
 
@@ -2029,6 +2033,8 @@ Approve Third Reading and Enactment of Bill
 ### 17#2. Dundas Place
   Management and Dundas Field House
 
+<div id="motion-17-2-2" class="motion-anchor"></div>
+
 > The motion to Approve the balance of clause   17 is put.
 
 **✅ Motion Passed**
@@ -2044,6 +2050,8 @@ Approve Third Reading and Enactment of Bill
 
 ### 5#5. Enquiry
 
+<div id="motion-5-5-1" class="motion-anchor"></div>
+
 > Approve clause 1.     1.      That , as a   procedural matter pursuant to Section 239(6) of the Municipal Act, 2001, the   following recommendation be forwarded to Council for deliberation and a vote   in public session:            That, on   the recommendation of the Managing Director, Corporate...
 
 **✅ Motion Passed**
@@ -2052,6 +2060,8 @@ Unanimous (15-0)
 
 ### 8#4. Resignation from
   the London Police Services Board
+
+<div id="motion-8-4-0" class="motion-anchor"></div>
 
 > That the resignation from Councillor S.   Turner, from the London Police Services Board, BE ACCEPTED and the Council   Members BE REQUESTED to advise the Committee Secretary if they wish to let   their name stand on a ballot for selecting an individual to fill the upcoming   vacancy, for consider...
 
@@ -2063,6 +2073,8 @@ Unanimous (15-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-SEVENTH MEETING HELD ON NOVEMBER 14,
   2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Twenty-Seventh   meeting held on November 14, 2017.
 
 **✅ Motion Passed**
@@ -2071,6 +2083,8 @@ Unanimous (15-0)
 
 ### 4. Vacant Unit Rebate
   and Vacant/Excess Land Subclass Tax Reduction
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to vacant unit tax rebates and vacant/excess land subclass reductions   in the commercial and industrial property classes:   a)         the   Managing Director, Corporate Services and City Treasurer/Chief Financial   Officer BE DIRECTED to change...
 
@@ -2088,6 +2102,8 @@ Unanimous (15-0)
 ### 12. Confirmation of
   Appointment to the Town and Gown Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > That Deputy Chief Jack Burt BE APPOINTED to   the Town and Gown Committee as a Non-Voting Representative of the City of   London Fire Services, for the term ending February 28, 2019.
 
 **✅ Motion Passed**
@@ -2097,6 +2113,8 @@ Unanimous (15-0)
 ### 15. Safer School Zones
   Act
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer, the   Civic Administration BE AUTHORIZED to participate in the Ontario Traffic   Council’s Automated Speed Enforcement Working Group for the purposes of   developing and issuing a reque...
 
 **✅ Motion Passed**
@@ -2104,6 +2122,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 17. Water Restrictions
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the communication from Councillor M.   van Holst, with respect to water conservation and watering restrictions, BE   RECEIVED.
 
@@ -2113,6 +2133,8 @@ Unanimous (15-0)
 
 ### 20. 4th Report of the
   Agricultural Advisory Committee
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 4th Report of the Agricultural Advisory Committee from its   meeting held on November 15, 2017:   a)         the   following actions be taken with respect to the Notice of Application dated   July 5, 2017, from J. Adema, Planner II, with r...
 

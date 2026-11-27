@@ -1181,6 +1181,8 @@ Motion Passed
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1190,6 +1192,8 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1201,15 +1205,7 @@ Unanimous (11-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (10-0)
-
-### 2. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1221,6 +1217,8 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1230,6 +1228,20 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-6" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 2. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-2-7" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1248,22 +1260,7 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
-
-**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
+<div id="motion-2-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1281,6 +1278,27 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-9" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (10):** [Josh Morgan](/councillors/current/j-morgan), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Tanya Park](/councillors/former/t-park)
+
+**Nay (1):** [Stephen Turner](/councillors/former/s-turner)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-2-10" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1299,6 +1317,8 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-11" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1309,6 +1329,8 @@ Unanimous (11-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-12" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1318,6 +1340,8 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1335,6 +1359,8 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-14" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1353,15 +1379,7 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (11-0)
-
-### 2. CORPORATE OPERATING
-  AND CAPITAL BUDGETS
-  (rounded to the closest $1,000)
+<div id="motion-2-15" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1372,6 +1390,20 @@ Unanimous (11-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-16" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (11-0)
+
+### 2. CORPORATE OPERATING
+  AND CAPITAL BUDGETS
+  (rounded to the closest $1,000)
+
+<div id="motion-2-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1390,6 +1422,8 @@ Unanimous (11-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-18" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1399,6 +1433,8 @@ Unanimous (10-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-19" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1417,6 +1453,8 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-20" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1426,6 +1464,8 @@ Unanimous (11-0)
 ### 2. CORPORATE OPERATING
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1437,6 +1477,8 @@ Unanimous (10-0)
   AND CAPITAL BUDGETS
   (rounded to the closest $1,000)
 
+<div id="motion-2-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1446,6 +1488,8 @@ Unanimous (9-0)
 ### 3. WATER AND
   WASTEWATER & TREATMENT BUDGETS
   (rounded to the closest $1,000)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1457,6 +1501,8 @@ Unanimous (11-0)
   REPORT - 2016-2019 Multi-Year Budget - 2017 Annual Budget Update - Financing
   Options to Mitigate Tax Rate Increases
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1465,6 +1511,8 @@ Unanimous (11-0)
 
 ### 5. ADDED - STAFF
   REPORT - 2016-2019 Multi-Year Budget Amendment Form - Case #21
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1475,6 +1523,8 @@ Unanimous (11-0)
 ### 6. ADDED - STAFF
   REPORT - 2017 Annual Budget Update - Public Input
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1483,6 +1533,8 @@ Unanimous (9-0)
 
 ### 7. ADDED - COUNCIL
   MEMBER SUBMISSION - Absence from Meetings
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 

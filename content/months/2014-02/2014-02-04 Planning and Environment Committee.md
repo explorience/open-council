@@ -519,6 +519,8 @@ The
 ### 2. 2nd Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -528,6 +530,8 @@ Unanimous (4-0)
 
 ### 3. 1st Report of the
   Trees and Forests Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -540,6 +544,8 @@ Unanimous (4-0)
   Use Planning and Appeal System Review for the Ministry of Municipal Affairs
   and Housing
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -549,6 +555,8 @@ Unanimous (4-0)
 
 ### 5. Properties located
   at 3185 Jinnies Street, 3406 Jinnies Way and 3527 Singleton Avenue (H-8287)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -560,6 +568,8 @@ Unanimous (4-0)
 ### 6. Forest Hill (Phase
   5) Subdivision (39T-10501)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -569,6 +579,8 @@ Unanimous (4-0)
 
 ### 7. Property located at
   1602 Sunningdale Road West - Ontario Municipal Board Decision (39T-11503)
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -581,6 +593,8 @@ Unanimous (4-0)
   at 255 South Carriage Road and 1331 Hyde Park Road - Ontario Municipal Board
   Decision (39T-08502)
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -591,15 +605,7 @@ Unanimous (4-0)
 ### 9. Building Division
   Monthly Report for December 2013
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 10. Properties located
-  at 1920 and 1930 Blue Heron Drive (Z-8282)
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -611,6 +617,8 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1920 and 1930 Blue Heron Drive (Z-8282)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -621,6 +629,20 @@ Unanimous (4-0)
 ### 10. Properties located
   at 1920 and 1930 Blue Heron Drive (Z-8282)
 
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 10. Properties located
+  at 1920 and 1930 Blue Heron Drive (Z-8282)
+
+<div id="motion-10-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -631,15 +653,7 @@ Unanimous (4-0)
 ### 11. Property located at
   77 Tecumseh Avenue West (Z-8274)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (4-0)
-
-### 11. Property located at
-  77 Tecumseh Avenue West (Z-8274)
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -650,6 +664,20 @@ Unanimous (4-0)
 
 ### 11. Property located at
   77 Tecumseh Avenue West (Z-8274)
+
+<div id="motion-11-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (4-0)
+
+### 11. Property located at
+  77 Tecumseh Avenue West (Z-8274)
+
+<div id="motion-11-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -660,6 +688,8 @@ Unanimous (4-0)
 
 ### 12. Boundary Expansion
   Request and By-law Amendment
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

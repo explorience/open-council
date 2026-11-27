@@ -532,6 +532,21 @@ blockquote {
   transition: border-color 0.2s ease;
 }
 
+// Per-motion evidence anchors emitted into each meeting page's Votes
+// section by scripts/add-votes-to-pages.ts. Empty elements that sit
+// immediately AFTER the motion's own heading (see scripts/motion-anchor.ts
+// for why after and not on it), so without a scroll offset a reader tapping
+// through from the Election Hub would land with that heading just off the
+// top of the screen. Zero height: this never occupies layout, it only moves
+// where a fragment jump stops. Both tags are covered — <div> is what is
+// emitted today, <a> is the first cut's form and anchors are append-only.
+div.motion-anchor,
+a.motion-anchor {
+  display: block;
+  height: 0;
+  scroll-margin-top: 4rem;
+}
+
 h1,
 h2,
 h3,

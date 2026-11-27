@@ -1896,6 +1896,8 @@ Passed
 ### 2#4. 1st Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
 > Approve an amendment to part a) so that   part a) now reads as follows:   “a)       the   portion of the presentation from the Upper Thames River Conservation   Authority pertaining to “Effects of Barriers and Low Flow on Species at Risk   Along the Upper Thames River” BE PRESENTED at a future St...
 
 **✅ Motion Passed**
@@ -1905,6 +1907,8 @@ Unanimous (13-0)
 ### 2#4. 1st Report of the
   Advisory Committee on the Environment
 
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
 > Approve clause 2, as amended.
 
 **✅ Motion Passed**
@@ -1913,6 +1917,8 @@ Unanimous (13-0)
 
 ### IV. COUNCIL, IN
   CLOSED SESSION
+
+<div id="motion-iv-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 11.4   of the Council Procedure By-law, leave be given to add a Council, In Closed   Session reason to receive information related to personal matters, including   information regarding identifiable individuals with respect to   employment-related matters in regar...
 
@@ -1930,6 +1936,8 @@ Unanimous (13-0)
 ### IV. COUNCIL, IN
   CLOSED SESSION
 
+<div id="motion-iv-1" class="motion-anchor"></div>
+
 > Approve that the following be added to the   reasons for Council, In Closed Session:   Personal matters, including information   regarding identifiable individuals with respect to employment-related matters   in regard to one of the Corporation’s associations or unions, advice or   recommendation...
 
 **✅ Motion Passed**
@@ -1946,6 +1954,8 @@ Unanimous (13-0)
 ### IV#3. COUNCIL, IN CLOSED SESSION
   (CONTINUED)
 
+<div id="motion-iv-3-1" class="motion-anchor"></div>
+
 > Approve that, as a procedural matter   pursuant to Section 239(6) of the Municipal Act, 2001, the following   recommendation be forwarded to Council for deliberation and a vote in public   session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Ch...
 
 **✅ Motion Passed**
@@ -1954,6 +1964,8 @@ Unanimous (10-0)
 
 ### IX. ADDED
   REPORTS
+
+<div id="motion-ix-0" class="motion-anchor"></div>
 
 > Approve clause 1.
 
@@ -1972,6 +1984,8 @@ Unanimous (10-0)
   AND SIGNING OF THE MINUTES OF THE THIRD AND FOURTH MEETINGS HELD ON DECEMBER
   19, 2016 AND JANUARY 11, 2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Third and   Fourth meetings held on December 19, 2016 and January 11, 2017, respectively.
 
 **✅ Motion Passed**
@@ -1981,6 +1995,8 @@ Unanimous (13-0)
 ### XII. EMERGENT
   MOTIONS
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 20.2 of   the Council Procedure By-law, leave BE GIVEN for discussion and debate and   the making of a substantive motion with respect to acceptance of Councillor   Park’s resignation from the Economic Partnership Advisory Panel, effective   immediately.
 
 **✅ Motion Passed**
@@ -1989,6 +2005,8 @@ Unanimous (12-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-1" class="motion-anchor"></div>
 
 > Approve that the resignation of   Councillor T. Park from the Economic Partnership Advisory Panel BE ACCEPTED,   effective immediately.
 
@@ -2004,6 +2022,8 @@ Unanimous (12-0)
   Stage for Consideration with Clause 7 of the 5th Report of the Corporate
   Services Committee)
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2012,6 +2032,8 @@ Unanimous (13-0)
 
 ### 4. Bi-Annual Meetings
   with MPs and MPPs - Proposal and Update
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director   of Community and Economic Innovation, the staff report dated January 10, 2017   with respect to biannual meetings with local Members of Parliament and local   Members of the Legislative Assembly of Ontario BE RECEIVED for information.
 
@@ -2029,6 +2051,8 @@ Unanimous (13-0)
 ### 10. Review of City of
   London Ward Boundaries
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Approve that clause 10 be amended in   part a) by inserting the words “Wonderland Road South” after the words   “Exeter Road” so that the clause now reads:   “a)       the   area bounded by White Oak Road, Exeter Road, Wonderland Road South, Southdale   Road East and Wharncliffe Road;”.
 
 **✅ Motion Passed**
@@ -2037,6 +2061,8 @@ Unanimous (13-0)
 
 ### 10. Review of City of
   London Ward Boundaries
+
+<div id="motion-10-1" class="motion-anchor"></div>
 
 > Approve clause 10, as amended.
 
@@ -2048,6 +2074,8 @@ Unanimous (13-0)
   Appointment to the Agricultural Advisory Committee (Requires 1 Alternate
   Member at Large)
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > That Louise Hollingsworth BE APPOINTED to   the Agricultural Advisory Committee as a Voting Alternate Member at Large for   the term ending February 28, 2019.
 
 **✅ Motion Passed**
@@ -2057,6 +2085,8 @@ Unanimous (11-0)
 ### 13. Leasehold
   Improvements Update - Citi Plaza 355 Wellington Street
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financial Officer, the   following actions be taken:   a)         the   existing leasehold improvement contract with I.F. Propco Holdings BE   INCREASED by $283,708.00 to an upset limit of $1,133,...
 
 **✅ Motion Passed**
@@ -2065,6 +2095,8 @@ Unanimous (13-0)
 
 ### 17. Request for
   Delegation Status
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That delegation status BE APPROVED for a   community representative to speak to the Civic Works Committee on February   21, 2017 with respect to the inclusion of sidewalks on East Mile Road and   Oban Crescent in 2017 and Green Lane,  West Mile Road and North Mile Road `in   2018.
 

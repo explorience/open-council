@@ -1656,6 +1656,8 @@ Passed
   clause 9 of the 10th Report of the Community and Protective Services
   Committee.)
 
+<div id="motion-1-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1664,6 +1666,8 @@ Unanimous (15-0)
 
 ### 2#3. 5th Report of the
   Animal Welfare Advisory Committee
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to the 5th Report of the Animal Welfare Advisory Committee (AWAC)   from its meeting held on September 3, 2015:   a)         the   matter of a tethering/chaining of animals by-law BE DEFERRED to the 2016 work   plan of the AWAC;    b)         the...
 
@@ -1699,6 +1703,8 @@ Neighbourhood, Children and Fire Services:
 Environmental and Engineering Services:
   Jeff Huard.
 
+<div id="motion-2-4-0" class="motion-anchor"></div>
+
 > Approve an amendment to clause 9, to add   an additional direction for the Civic Administration to apply to the Province   with respect to fine amendments included in the Taxicab and Limousine   Licensing By-law L.-129-51.
 
 **✅ Motion Passed**
@@ -1732,6 +1738,8 @@ Neighbourhood, Children and Fire Services:
  
 Environmental and Engineering Services:
   Jeff Huard.
+
+<div id="motion-2-4-2" class="motion-anchor"></div>
 
 > At 8:36 PM  Mayor M. Brown places Councillor   P. Hubert in the Chair and takes a seat at the Council board.   At 8:38 PM  Mayor M. Brown resumes the   Chair and Councillor P. Hubert resumes his seat at the Council board.
 
@@ -1767,6 +1775,8 @@ Neighbourhood, Children and Fire Services:
 Environmental and Engineering Services:
   Jeff Huard.
 
+<div id="motion-2-4-3" class="motion-anchor"></div>
+
 > Approve parts a) and b) of clause 9, as   amended:   That the following actions be taken with   respect to Vehicles for Hire - New Technologies:   a)              on   the recommendation of the Managing Director, Development and Compliance   Services and Chief Building Official, the Civic Adminis...
 
 **✅ Motion Passed**
@@ -1793,6 +1803,8 @@ Neighbourhood, Children and Fire Services:
  
 Environmental and Engineering Services:
   Jeff Huard.
+
+<div id="motion-2-4-4" class="motion-anchor"></div>
 
 > Approve part c) of clause 9, as amended:   c)         subject   to the confirmation of the information noted in b) above, the Civic   Administration BE DIRECTED to report back, as soon as possible, to the   Community and Protective Services Committee providing licensing options with   respect to ...
 
@@ -1828,6 +1840,8 @@ Neighbourhood, Children and Fire Services:
 Environmental and Engineering Services:
   Jeff Huard.
 
+<div id="motion-2-4-5" class="motion-anchor"></div>
+
 > Approve part d) of clause 9, as amended   d)         the   Civic Administration BE DIRECTED to apply to the Province with respect to   fine amendments included in the Taxicab and Limousine Licensing By-law L.-129-51
 
 **✅ Motion Passed**
@@ -1844,6 +1858,8 @@ Environmental and Engineering Services:
 ### 8#2. 7th and 8th Reports
   of the London Diversity and Race Relations Advisory Committee
 
+<div id="motion-8-2-0" class="motion-anchor"></div>
+
 > Approve that parts b)i) and b)ii) BE   REFERRED to the City Clerk to review and report back at a future meeting of   the Community and Protective Services Committee with a recommendation with   respect to the proposed changes being recommended by the London Diversity and   Race Relations Advisory...
 
 **✅ Motion Passed**
@@ -1853,6 +1869,8 @@ Unanimous (15-0)
 ### 8#2. 7th and 8th Reports
   of the London Diversity and Race Relations Advisory Committee
 
+<div id="motion-8-2-1" class="motion-anchor"></div>
+
 > Approve clause 8, as amended.
 
 **✅ Motion Passed**
@@ -1861,6 +1879,8 @@ Unanimous (15-0)
 
 ### 9#2. Vehicle for Hire -
   New Technologies
+
+<div id="motion-9-2-0" class="motion-anchor"></div>
 
 > Approve an amendment to clause 9, by   adding the following new part c):   c)         that   the following actions be taken with respect enforcement of the City of   London’s Taxicab and Limousine Licensing By-law L.-129-51, as amended:   i)          the   Civic Administration BE DIRECTED to make...
 
@@ -1878,6 +1898,8 @@ Unanimous (15-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve that Council rise and go into   Committee of the Whole, in camera, for the purpose of considering the following:
 
 **✅ Motion Passed**
@@ -1888,6 +1910,8 @@ Unanimous (15-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-FIFTH MEETING HELD ON SEPTEMBER 15,
   2015
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the 25th Meeting  held   on September 15, 2015.
 
 **✅ Motion Passed**
@@ -1896,6 +1920,8 @@ Unanimous (15-0)
 
 ### 4. Single Source
   Procurement 15-35 Custodial Services - South London Community Centre
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the   Director, Financial Services, with the concurrence of the Managing Director,   Neighbourhood, Children & Fire Services and the Managing Director,   Housing, Social Services and Dearness Home, the following actions be taken:   a)         the   Civic Administrat...
 
@@ -1906,6 +1932,8 @@ Unanimous (13-0)
 ### 6. Change in Property
   Ownership Fees
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > That the Civic Administration BE REQUESTED   to continue to pursue opportunities to enhance the Corporation's   communication with the community; it being noted that the Corporate Services   Committee received a communication dated September 1, 2015 from Councillor V.   Ridley with respect to not...
 
 **✅ Motion Passed**
@@ -1914,6 +1942,8 @@ Unanimous (15-0)
 
 ### 9. Deferred Matters
   List
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > That the Deferred Matters List BE REVISED   to reflect the removal of items 5 and 10.
 
@@ -1924,6 +1954,8 @@ Unanimous (15-0)
 ### 13. Pay Day Loan and
   Cheque Cashing Services
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Approve that clause 13 be amended to add new   parts g) and h) as follows:   g)         the Civic Administration BE   REQUESTED to look at positive ways to increase the financial literacy   quotient of our community; and   h)         the Minister of Government and   Consumer Services BE COPIED on...
 
 **✅ Motion Passed**
@@ -1932,6 +1964,8 @@ Unanimous (14-0)
 
 ### 13. Pay Day Loan and
   Cheque Cashing Services
+
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Approve clause 13, as amended
 

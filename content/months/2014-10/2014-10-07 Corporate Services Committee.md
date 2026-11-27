@@ -388,6 +388,8 @@ Motion
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -405,6 +407,8 @@ Motion
 ### 2. Amendment to
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -424,6 +428,8 @@ Motion
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
 
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion   Failed
 
 **❌ Motion
@@ -442,6 +448,8 @@ Motion
   Council Policy 28(2) - Council Members’ Expense Account and Mayor’s Expenses
   Policy 28(3)
 
+<div id="motion-2-3" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -451,6 +459,8 @@ Unanimous (5-0)
 
 ### 3. Reserve Funds
   Housekeeping
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -463,15 +473,7 @@ Unanimous (5-0)
   Federation of Canadian Municipalities Board of Directors Meeting - Saguenay,
   Quebec, September 3-6, 2014
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. Apportionment of
-  Taxes
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -483,6 +485,8 @@ Unanimous (5-0)
 ### 5. Apportionment of
   Taxes
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -493,6 +497,20 @@ Unanimous (5-0)
 ### 5. Apportionment of
   Taxes
 
+<div id="motion-5-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Apportionment of
+  Taxes
+
+<div id="motion-5-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -503,15 +521,7 @@ Unanimous (5-0)
 ### 6. Public
   Participation Meeting - Amendments to Council Procedure By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 6. Public
-  Participation Meeting - Amendments to Council Procedure By-law
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -522,6 +532,20 @@ Unanimous (5-0)
 
 ### 6. Public
   Participation Meeting - Amendments to Council Procedure By-law
+
+<div id="motion-6-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 6. Public
+  Participation Meeting - Amendments to Council Procedure By-law
+
+<div id="motion-6-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

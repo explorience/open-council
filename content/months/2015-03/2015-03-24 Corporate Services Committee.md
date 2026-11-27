@@ -752,6 +752,8 @@ The Corporate Services Committee convened
 ### 2. Sale of VQA Wine at
   Eligible Ontario Farmers' Markets
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -761,6 +763,8 @@ Unanimous (5-0)
 
 ### 3. City of London Days
   at Budweiser Gardens - Growing Chefs! Ontario Society
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -772,6 +776,8 @@ Unanimous (5-0)
 ### 4. Information About
   the Use of Credit Cards for Property Tax Payments on the City Website
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -781,6 +787,8 @@ Unanimous (5-0)
 
 ### 5. Banking Services
   and Commercial Card Agreements - Contract Extension
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -792,6 +800,8 @@ Unanimous (5-0)
 ### 6. Signing Authority
   By-law
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -802,6 +812,8 @@ Unanimous (5-0)
 ### 7. Statement of Remuneration
   and Expenses - Elected and Appointed Officials
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -811,6 +823,8 @@ Unanimous (5-0)
 
 ### 8. Public Sector
   Salary Disclosure Act Report for Calendar Year 2014
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -823,6 +837,8 @@ Unanimous (5-0)
   Province of Ontario to Receive Funding for the Personalized Information
   Toolbox for Immigrants and International Students
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -834,6 +850,8 @@ Unanimous (5-0)
   Connection Grant Program for Downtown - Amendments to Purchase of Services
   Agreement with London Economic Development Corporation
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -843,6 +861,8 @@ Unanimous (5-0)
 
 ### 11. Expropriation of
   Lands - Fanshawe Park Road Widening (Phase ll - TS1475-02)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -854,15 +874,7 @@ Unanimous (5-0)
 ### 12. Lorne Avenue Public
   School Update
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 13. Appointment to the
-  Advisory Committee of the Environment (Requires 1 Member at Large)
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -873,6 +885,20 @@ Unanimous (5-0)
 
 ### 13. Appointment to the
   Advisory Committee of the Environment (Requires 1 Member at Large)
+
+<div id="motion-13-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 13. Appointment to the
+  Advisory Committee of the Environment (Requires 1 Member at Large)
+
+<div id="motion-13-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -887,6 +913,8 @@ Unanimous (5-0)
   Neighbourhood Representative of a Residential Area in the Immediate Vicinity
   of Fanshawe College)
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -900,18 +928,7 @@ Unanimous (5-0)
   Neighbourhood Representative of a Residential Area in the Immediate Vicinity
   of Fanshawe College)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Consideration of
-  Appointments to the London Diversity and Race Relations Advisory Committee
-  (Requires 1 Voting Member-at-Large; 1 Non-Voting Member Representing the
-  Aboriginal Community Group; 1 Non-Voting Member Representing the Immigrant
-  Settlement Services and 1 Non-Voting Post-Secondary Student)
+<div id="motion-14-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -925,6 +942,23 @@ Unanimous (5-0)
   (Requires 1 Voting Member-at-Large; 1 Non-Voting Member Representing the
   Aboriginal Community Group; 1 Non-Voting Member Representing the Immigrant
   Settlement Services and 1 Non-Voting Post-Secondary Student)
+
+<div id="motion-15-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Consideration of
+  Appointments to the London Diversity and Race Relations Advisory Committee
+  (Requires 1 Voting Member-at-Large; 1 Non-Voting Member Representing the
+  Aboriginal Community Group; 1 Non-Voting Member Representing the Immigrant
+  Settlement Services and 1 Non-Voting Post-Secondary Student)
+
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -946,17 +980,7 @@ Unanimous (5-0)
   Aboriginal Community Group; 1 Non-Voting Member Representing the Immigrant
   Settlement Services and 1 Non-Voting Post-Secondary Student)
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 16. Consideration of
-  Appointment to the Trees and Forests Advisory Committee (Requires  1
-  Voting Member-at-Large and 1 Voting Representative of the Urban League of
-  London
+<div id="motion-15-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -970,6 +994,8 @@ Unanimous (5-0)
   Voting Member-at-Large and 1 Voting Representative of the Urban League of
   London
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -981,6 +1007,22 @@ Unanimous (5-0)
   Appointment to the Trees and Forests Advisory Committee (Requires  1
   Voting Member-at-Large and 1 Voting Representative of the Urban League of
   London
+
+<div id="motion-16-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 16. Consideration of
+  Appointment to the Trees and Forests Advisory Committee (Requires  1
+  Voting Member-at-Large and 1 Voting Representative of the Urban League of
+  London
+
+<div id="motion-16-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -992,6 +1034,8 @@ Unanimous (5-0)
 ### 17. Confirmation of
   Appointment to the Transportation Advisory Committee (Requires 1 Voting
   Representative of the London Chamber of Commerce)
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1006,6 +1050,8 @@ Unanimous (5-0)
   Voting Representative from the Traffic Safety Education Committee-Safety
   Village)
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1019,6 +1065,8 @@ Unanimous (5-0)
   Conservancy of Ontario and 1 Non-Voting Representative of the London Heritage
   Council)
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1027,6 +1075,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 20. Lobbyist Registry
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

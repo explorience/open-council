@@ -450,6 +450,8 @@ The meeting adjourned at 6:32 PM.
   London Strengthening Neighbourhoods Strategy 2017-2020 - Implementation of
   New Initiatives
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -468,6 +470,8 @@ The meeting adjourned at 6:32 PM.
   London Strengthening Neighbourhoods Strategy 2017-2020 - Implementation of
   New Initiatives
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -478,6 +482,8 @@ Unanimous (5-0)
 ### 3. STAFF REPORT - Update
   on East Community Centre Project #RC2756
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -487,6 +493,8 @@ Unanimous (5-0)
 
 ### 4. STAFF REPORT -
   Amendment to By-law A.-7116-206 (Dearness Home Agreements)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -499,6 +507,8 @@ Unanimous (4-0)
   Term Care Service Agreement with Lifelabs for the Provision of Laboratory
   Services at the Dearness Home
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -508,6 +518,8 @@ Unanimous (4-0)
 
 ### 6. STAFF REPORT -
   Outdoor Dogs - Extreme Weather Protocol
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -519,6 +531,8 @@ Unanimous (4-0)
 ### 7. Ontario Medal of
   Good Citizenship
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -529,15 +543,7 @@ Unanimous (4-0)
 ### 8. Age Friendly London
   Action Plan 2017-2020
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 9. Business Licensing
-  By-law Review - Adult Entertainment Establishments
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -549,6 +555,8 @@ Unanimous (5-0)
 ### 9. Business Licensing
   By-law Review - Adult Entertainment Establishments
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -558,6 +566,20 @@ Unanimous (5-0)
 
 ### 9. Business Licensing
   By-law Review - Adult Entertainment Establishments
+
+<div id="motion-9-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 9. Business Licensing
+  By-law Review - Adult Entertainment Establishments
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -569,6 +591,8 @@ Unanimous (5-0)
 ### 10. PUBLIC SUBMISSION -
   Taxi Plate Issuing
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -578,6 +602,8 @@ Unanimous (4-0)
 
 ### 11. Deferred Matters
   List
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -589,6 +615,8 @@ Unanimous (4-0)
 ### 12. (ADDED) COUNCILLORS
   SUBMISSION - Business Licensing By-law L- 6 – Second-Hand Dealers
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -599,6 +627,8 @@ Unanimous (4-0)
 ### 13. (ADDED) PUBLIC
   SUBMISSION - City London By-law Heating for Apartment
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -608,6 +638,8 @@ Unanimous (4-0)
 
 ### 14. (ADDED) 6th Report
   of the Animal Welfare Advisory Committee
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

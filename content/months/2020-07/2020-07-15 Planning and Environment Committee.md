@@ -601,6 +601,8 @@ The meeting adjourned at 7:52 PM.
 
 ### 2.1. Request for Council Resolution, under section 45(1.4) of the Planning Act, R.S.O. 1990, c. P.13 - 307 Fanshawe Park Road East
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That D. Hannam, Zelinka Priamo Ltd., BE GRANTED delegation status relating to the request for a minor variance application for the property located at 307 Fanshawe Park Road East.
 
 **✅ Motion Passed (5 to 0)**
@@ -608,6 +610,8 @@ The meeting adjourned at 7:52 PM.
 Unanimous (5-0)
 
 ### 3.4. 1146-1156 Byron Baseline Road (Z-9172)
+
+<div id="motion-3-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, based on the application by 2186121 Ontario Inc., relating to the property located at 1146-1156 Byron Baseline Road: a) the revised, attached, proposed by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2...
 
@@ -624,6 +628,8 @@ Unanimous (5-0)
 
 ### 3.4. 1146-1156 Byron Baseline Road (Z-9172)
 
+<div id="motion-3-4-3" class="motion-anchor"></div>
+
 > Motion to change the order of business pursuant to Section 27.6 of the Council Procedure By-law to deal with Item 4.1 prior to Item 3.5.
 
 **✅ Motion Passed (6 to 0)**
@@ -631,6 +637,8 @@ Unanimous (5-0)
 Unanimous (6-0)
 
 ### 3.5. 307 Fanshawe Park Road East (SPA20-029)
+
+<div id="motion-3-5-1" class="motion-anchor"></div>
 
 > Motion to add a new part c) which reads as follows: "c) a special provision BE INCLUDED in the Development Agreement  to deal with the removal of the snow onsite to lessen the effect of the spring thaw;"
 
@@ -649,6 +657,8 @@ Unanimous (6-0)
 
 ### 4.1. (ADDED) Silverleaf Subdivision Sidewalk Installation
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the communication from R. Galizia, with respect to the proposed sidewalks in the Silverleaf subdivision BE RECEIVED and no further action be taken; it being noted that a petition signed by approximately 41 individuals is on file in the City Clerk's Office, with respect to this matter.
 
 **✅ Motion Passed (5 to 1)**
@@ -663,6 +673,8 @@ Unanimous (6-0)
 </details>
 
 ### 4.1. (ADDED) Silverleaf Subdivision Sidewalk Installation
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That R. Galizia BE GRANTED delegation status with respect to the proposed sidewalks to be installed in Silverleaf subdivision.
 

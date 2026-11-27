@@ -153,6 +153,8 @@ The meeting adjourned at 12:59 PM.
 
 ### 2.1. Agreement Between The City of London and Donald Jones Management Services Inc. - Management of Centennial Hall
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the proposed by-law appended to the staff report dated June 8, 2020 as Appendix “A” BE INTRODUCED at the Municipal Council meeting to be held on June 16, 2020 to:    a)     approv...
 
 **✅ Motion Passed (6 to 0)**
@@ -160,6 +162,8 @@ The meeting adjourned at 12:59 PM.
 Unanimous (6-0)
 
 ### 2.2. Standing Committee Meetings and Annual Meeting Calendar
+
+<div id="motion-2-2-0" class="motion-anchor"></div>
 
 > That the matter of the Annual Meeting Calendar BE REFERRED to the next meeting of the Corporate Services Committee for additional discussion.
 

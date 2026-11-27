@@ -898,6 +898,8 @@ The
 ### 2. 3rd Report of the
   Cycling Advisory Committee
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -907,6 +909,8 @@ Unanimous (5-0)
 
 ### 3. W12A Landfill Site
   - Completion of the Environmental Screening Process
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -919,6 +923,8 @@ Unanimous (5-0)
   Tender No.16-05 - 2016 Infrastructure Renewal Program - Florence Street and
   Kellogg Lane Reconstruction Project
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -930,6 +936,8 @@ Unanimous (5-0)
   Tender No. 16-04 - 2016 Infrastructure Lifecycle Renewal Program - Contract
   10: Victoria Street
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -939,6 +947,8 @@ Unanimous (5-0)
 
 ### 6. Subsurface Utility
   Engineering Investigation for the Downtown York and King Street Corridors
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -951,6 +961,8 @@ Unanimous (5-0)
   Tender No. 15-102 - Fanshawe Park Road East Improvements - Adelaide Street
   North to McLean Drive
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -961,6 +973,8 @@ Unanimous (5-0)
 ### 8. Hamilton Road and
   Highbury Avenue Intersection Improvements Environmental Assessment Update
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -970,6 +984,8 @@ Unanimous (5-0)
 
 ### 9. Roadmatrix Pavement
   Management System Services Award
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -982,6 +998,8 @@ Unanimous (5-0)
   Environmental Assessment - Wharncliffe Road West to Pack Road -  Appointment
   of Consulting Engineer
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -992,6 +1010,8 @@ Unanimous (5-0)
 ### 11. Pollution
   Prevention and Control Plan - Infoworks Modelling Consultant Appointments
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1001,6 +1021,8 @@ Unanimous (5-0)
 
 ### 12. "One
   River" - Master Plan Environmental Assessment
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1019,15 +1041,7 @@ Unanimous (5-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 12. "One
-  River" - Master Plan Environmental Assessment
+<div id="motion-12-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1039,6 +1053,8 @@ Unanimous (6-0)
 ### 12. "One
   River" - Master Plan Environmental Assessment
 
+<div id="motion-12-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1048,6 +1064,20 @@ Unanimous (6-0)
 
 ### 12. "One
   River" - Master Plan Environmental Assessment
+
+<div id="motion-12-3" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 12. "One
+  River" - Master Plan Environmental Assessment
+
+<div id="motion-12-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1058,6 +1088,8 @@ Unanimous (5-0)
 
 ### 12. "One
   River" - Master Plan Environmental Assessment
+
+<div id="motion-12-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1069,6 +1101,8 @@ Unanimous (6-0)
 ### 13. 2nd Report of the
   Transportation Advisory Committee
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1078,6 +1112,8 @@ Unanimous (5-0)
 
 ### 14. Landscape Materials
   on Boulevard Areas
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1089,6 +1125,8 @@ Unanimous (5-0)
 ### 15. London's Neglected
   Sewer Infrastructure
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1098,6 +1136,8 @@ Unanimous (5-0)
 
 ### 16. Deferred Matters
   List
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

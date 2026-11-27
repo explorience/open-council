@@ -1082,6 +1082,8 @@ Passed.
   and Councillor T. Park - Emergent Motion - Consideration of Change in Date of
   Adoption of the Water and Wastewater Treatment Budgets to January 27, 2015
 
+<div id="motion-1-5-0" class="motion-anchor"></div>
+
 > Approve that pursuant to section 19.2 of   the Council Procedure By-law, leave be given for the introduction of an   emergent motion with respect to a change in date of the adoption of the Water   and Wastewater Treatment Budgets to January 27, 2015.
 
 **✅ Motion Passed**
@@ -1098,6 +1100,8 @@ Passed.
 ### 1#5. Councillor M. Salih
   and Councillor T. Park - Emergent Motion - Consideration of Change in Date of
   Adoption of the Water and Wastewater Treatment Budgets to January 27, 2015
+
+<div id="motion-1-5-1" class="motion-anchor"></div>
 
 > Approve that the following actions be taken   with respect to the adoption of the 2015 Water and Wastewater Treatment Budgets:   a)         the   Annual Meeting Calendar BE AMENDED to reflect that Municipal Council will   consider the adoption of the 2015 Water and Wastewater Treatment Budgets at...
 
@@ -1116,6 +1120,8 @@ Passed.
   Submission to the Provincial Standing Committee on Finance and Economic
   Affairs
 
+<div id="motion-3-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director   of Intergovernmental and Community Liaison, the pre-budget submission to the   Provincial Minister of Finance, our local MPPs, and the Provincial Standing   Committee on Finance and Economic Affairs, as attached to the staff report   dated January 6, ...
 
 **✅ Motion
@@ -1126,6 +1132,8 @@ Unanimous (15-0)
 ### 3#3. 2015 Burbrook Trunk
   Storm Sewer Project Initiation
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental and Engineering Services and City Engineer, the   following actions be taken with respect to the 2015 Burbrook Trunk Storm   Sewer Project Initiation:   a)         the   engineering fees for Hatch Mott MacDonald BE INCREASED by...
 
 **✅ Motion Passed**
@@ -1134,6 +1142,8 @@ Unanimous (15-0)
 
 ### 4#2. Orientation
   Planning
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the City Manager BE DIRECTED to   provide the Strategic Priorities and Policy Committee with orientation on any   corporate matters of a significant nature that will be dealt with by the   Corporate Services Committee (CSC) on a regular basis, as part of the new   Council on-boarding process...
 
@@ -1144,6 +1154,8 @@ Unanimous (15-0)
 ### 5#2. Request for
   Delegation Status - Agreement between The Corporation of the City of London
   and Fanshawe College of Applied Arts and Technology
+
+<div id="motion-5-2-0" class="motion-anchor"></div>
 
 > That the Civic Administration BE REQUESTED   to meet with Mr. Kaplansky to review and provide clarification with respect   to his concerns regarding amendments to the agreement between The Corporation   of the City of London and Fanshawe College of Applied Arts and Technology, as   outlined in hi...
 
@@ -1162,6 +1174,8 @@ Unanimous (15-0)
   Refreshments for Members of the Public Attending Council and Standing
   Committee Meetings
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > Amend clause 6 to add the scheduling of   meal breaks on public agendas in the report.
 
 **✅ Motion Passed**
@@ -1172,6 +1186,8 @@ Unanimous (15-0)
   Refreshments for Members of the Public Attending Council and Standing
   Committee Meetings
 
+<div id="motion-6-2-1" class="motion-anchor"></div>
+
 > Approve clause 6 as amended.
 
 **✅ Motion Passed**
@@ -1180,6 +1196,8 @@ Unanimous (15-0)
 
 ### 8#2. Parking Application
   Renewal
+
+<div id="motion-8-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Development and Compliance Services and Chief Building Official,   the following actions be taken with respect to the acquisition of an   integrated parking ticket management system:   a)         the   submission from Gtechna, for the implem...
 
@@ -1190,6 +1208,8 @@ Unanimous (15-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE THIRD MEETING HELD ON DECEMBER 18, 2014
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 3rd Meeting   held on December 18, 2014.
 

@@ -538,6 +538,8 @@ The meeting adjourned at 10:34 PM.
 
 ### 2.1. Arrangements for The City of London to Become a Sanctuary City/Access to Service Without Fear City
 
+<div id="motion-2-1-1" class="motion-anchor"></div>
+
 > That the staff report dated March 26, 2018, entitled “Arrangements for the City of London to Become a Sanctuary City/Access to Service Without Fear City” BE REFERRED back to the Civic Administration in order for the Civic Administration to report back on next steps for London to become a Sanctuar...
 
 **✅ Motion Passed (8 to 2)**
@@ -552,6 +554,8 @@ The meeting adjourned at 10:34 PM.
 </details>
 
 ### 2.3. RFP 18-04: City of London Service Review - Consulting Services
+
+<div id="motion-2-3-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the selection of a consultant to undertake the City of London Service Review (RFP 18-04):    a)          the proposal submitted by K...
 
@@ -568,6 +572,8 @@ The meeting adjourned at 10:34 PM.
 
 ### 3.1. Not to be heard before 4:00 PM - London's Community Economic Road Map Update
 
+<div id="motion-3-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the City Manager, the recommended next steps associated with the Community Economic Road Map, as outlined in the staff report dated March 26, 2018, BE ENDORSED; it being noted that the Strategic Priorities and Policy Committee heard the attached update from the Dire...
 
 **✅ Motion Passed (8 to 4)**
@@ -583,6 +589,8 @@ The meeting adjourned at 10:34 PM.
 
 ### 4.1. London and Middlesex Housing Corporation
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > c)         selection of a member to fill the current vacancy on the London Middlesex Housing Corporation BE REFERRED to the next meeting of the Strategic Priorities and Policy Committee in order to allow time for the Council Members to receive additional information regarding eligibility of certa...
 
 **✅ Motion Passed (10 to 0)**
@@ -590,6 +598,8 @@ The meeting adjourned at 10:34 PM.
 Unanimous (10-0)
 
 ### 4.2. London and Middlesex Housing Corporation - Request for a Shareholder's Meeting
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for the London & Middlesex Housing Corporation:    a)         the 2018 Annual General Meeting of the Shareholder for the London & Middlesex Housing Corporation BE HELD at a meeting of the Strate...
 
@@ -599,6 +609,8 @@ Unanimous (10-0)
 
 ### 4.3. Housing Development Corporation, London - Request for a Shareholder's Meeting
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 2017 Annual General Meeting of the Shareholder for the Housing Development Corporation, London: a)         the 2017 Annual General Meeting of the Shareholder for the Housing Development Corporation, London BE HELD at a meeting of the Strateg...
 
 **✅ Motion Passed (10 to 0)**
@@ -607,6 +619,8 @@ Unanimous (10-0)
 
 ### 4.4. London Convention Centre Corporation Board Appointment Recommendation
 
+<div id="motion-4-4-0" class="motion-anchor"></div>
+
 > That David Smith BE APPOINTED to the London Convention Centre Board of Directors as the Health Care Representative, effective April 1, 2018 to November 30, 2018.
 
 **✅ Motion Passed (10 to 0)**
@@ -614,6 +628,8 @@ Unanimous (10-0)
 Unanimous (10-0)
 
 ### 4.5. 7th Report of the Governance Working Group
+
+<div id="motion-4-5-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to the 7th Report of the Governance Working Group, from its meeting held on March 5, 2018:    a)         the actions outlined in the revised Council Policy Index appended to the Governance Working Group report dated March 5, 2018 as Appendix “A”, w...
 

@@ -686,6 +686,8 @@ The meeting adjourned at 6:26 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.9, inclusive, BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -693,6 +695,8 @@ The meeting adjourned at 6:26 PM.
 Unanimous (4-0)
 
 ### 3.3. Demolition Request for Heritage Listed Property at 247 Halls Mill Road
+
+<div id="motion-3-3-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the demolition request for the property located at 247 Halls Mill Road, which is included on the City of London’s Register of Cultural Heritage Resources: a) notice BE GIVEN in accordance with section 29(3) of the Ontario Heritage Act, R.S.O. 1...
 
@@ -702,6 +706,8 @@ Unanimous (4-0)
 
 ### 3.5. Affordable Housing Community Improvement Plan (O-9099)
 
+<div id="motion-3-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Manager, Long Range Planning and Sustainability, the following actions be taken with respect to the application by the City of London relating to a Community Improvement Plan (CIP) for Affordable Housing: a) the proposed by-law appended to the staff report dated...
 
 **✅ Motion Passed (4 to 0)**
@@ -709,6 +715,8 @@ Unanimous (4-0)
 Unanimous (4-0)
 
 ### 4.1. Application - 536 and 542 Windermere Road
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application of 2492222 Ontario Inc., relating to the property located at 536 and 542 Windermere Road: a)  pursuant to section 13.3 of the Council Procedure By-law, part c) of the ...
 

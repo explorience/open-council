@@ -631,6 +631,8 @@ The meeting adjourned at 7:11 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -638,6 +640,8 @@ The meeting adjourned at 7:11 PM.
 Unanimous (6-0)
 
 ### 3.1. Public Participation Meeting - Allowing "Farm Gate Sales" on Lands within the Urban Growth Boundary (Z-9060)
+
+<div id="motion-3-1-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, City Planning and City Planner, the following actions be taken with respect to the City-wide zoning by-law amendment initiated by the City of London:  a) the proposed by-law appended to the staff report dated November 18, 2019 as Appendix "A" ...
 
@@ -654,6 +658,8 @@ Unanimous (6-0)
 
 ### 4.1. 11th Report of the Advisory Committee on the Environment
 
+<div id="motion-4-1-1" class="motion-anchor"></div>
+
 > Motion to refer clause b) ii) back to the Advisory Committee on the Environment for further consideration; it being noted that clause b) ii) reads as follows: "ii) the City Clerk BE REQUESTED to remove the non-voting membership positions for the Institute of Catastrophic Research (Western Univers...
 
 **✅ Motion Passed (6 to 0)**
@@ -661,6 +667,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 5.1. (ADDED) 11th Report of the London Advisory Committee on Heritage
+
+<div id="motion-5-1-0" class="motion-anchor"></div>
 
 > That, the following actions be taken with respect to the 11th Report of the London Advisory Committee on Heritage, from its meeting held on November 13, 2019: a) on the recommendation of the Managing Director, City Planning and City Planner, with the advice of the Heritage Planner, the applicatio...
 

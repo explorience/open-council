@@ -2561,6 +2561,8 @@ Approve Third Reading and Enactment of Bill
 ### 11#2. Property located at
   6188 Colonel Talbot Road (Z-8795)
 
+<div id="motion-11-2-0" class="motion-anchor"></div>
+
 > Approve that clause 11 of the 19th   Report of the Planning and Environment Committee with respect to the   application of Mainline Planning Services Inc., relating to the property   located at 6188 Colonel Talbot Road to rezone the subject land to facilitate   the severance of an indoor hydropon...
 
 **❌ Motion Failed**
@@ -2576,6 +2578,8 @@ Approve Third Reading and Enactment of Bill
 
 ### 11#2. Property located at
   6188 Colonel Talbot Road (Z-8795)
+
+<div id="motion-11-2-1" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2593,6 +2597,8 @@ Approve Third Reading and Enactment of Bill
 ### 11#2. Property located at
   6188 Colonel Talbot Road (Z-8795)
 
+<div id="motion-11-2-2" class="motion-anchor"></div>
+
 > Approve that clause 11 of the 19th   Report of the Planning and Environment Committee with respect to the   application of Mainline Planning Services Inc., relating to the property   located at 6188 Colonel Talbot Road to rezone the subject land to facilitate   the severance of an indoor hydropon...
 
 **❌ Motion Failed 🔥**
@@ -2609,6 +2615,8 @@ Approve Third Reading and Enactment of Bill
 ### 2#6. Establishment of Indigenous Relations
   Working Group
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > Approve that part b) of clause 2 be   amended to read as follows:
 
 **✅ Motion Passed**
@@ -2617,6 +2625,8 @@ Unanimous (13-0)
 
 ### 2#6. Establishment of Indigenous Relations
   Working Group
+
+<div id="motion-2-6-1" class="motion-anchor"></div>
 
 > Approve clause 2, as amended.
 
@@ -2628,6 +2638,8 @@ Unanimous (13-0)
   at 633, 635, 637, 645, 649, 651 and 655 Base Line Road East - Notice of
   Appeal to Ontario Municipal Board (OZ-8711)
 
+<div id="motion-4-3-1" class="motion-anchor"></div>
+
 > Approve clause 4, as amended.
 
 **✅ Motion Passed**
@@ -2637,6 +2649,8 @@ Unanimous (13-0)
 ### 4#5. Resignation from the Rapid Transit
   Implementation Working Group
 
+<div id="motion-4-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2645,6 +2659,8 @@ Unanimous (13-0)
 
 ### 5#4. Support of Hosting Request – International
   Plowing Match
+
+<div id="motion-5-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2662,6 +2678,8 @@ Unanimous (13-0)
 ### 5#4. Support of Hosting Request – International
   Plowing Match
 
+<div id="motion-5-4-1" class="motion-anchor"></div>
+
 > That, as a procedural matter pursuant to   Section 239(6) of the Municipal Act, 2001, the following recommendation be   forwarded to Council for deliberation and a vote in public session:   That, on the recommendation of the Managing   Director, Corporate Services and City Treasurer, Chief Financ...
 
 **✅ Motion Passed**
@@ -2670,6 +2688,8 @@ Unanimous (13-0)
 
 ### 5#5. Support of Hosting Request – International
   Plowing Match
+
+<div id="motion-5-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2687,6 +2707,8 @@ Unanimous (13-0)
 ### 6#3. East Community
   Centre - Tender 17-67 - Project #P015-RC2756
 
+<div id="motion-6-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Acting   Managing Director, Parks and Recreation and the Managing Director,   Neighbourhood, Children and Fire Services the following actions be taken with   respect to the East Community Centre, Tender 17-67, Project #P015-RC2756:   a)         the   bid submitt...
 
 **✅ Motion Passed**
@@ -2697,6 +2719,8 @@ Unanimous (13-0)
   AND SIGNING OF THE MINUTES OF THE TWENTY-FOURTH MEETING HELD ON OCTOBER 3,
   2017
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > Approve the Minutes of the Twenty-Fourth   meeting held on October 3, 2017.
 
 **✅ Motion Passed**
@@ -2706,6 +2730,8 @@ Unanimous (13-0)
 ### VI. COMMUNICATIONS
   AND PETITIONS
 
+<div id="motion-vi-0" class="motion-anchor"></div>
+
 > Approve that Council convene as the   Approving Authority pursuant to the provisions of the Expropriation Act,   R.S.O. 1990, c.E.26, as amended, for the purpose of considering Communication   No. 1 from the Managing Director, Environmental & Engineering Services   and City Engineer, with respect...
 
 **✅ Motion Passed**
@@ -2714,6 +2740,8 @@ Unanimous (13-0)
 
 ### XII. EMERGENT
   MOTIONS
+
+<div id="motion-xii-0" class="motion-anchor"></div>
 
 > Approve that pursuant to section 13.2 of   the Council Procedure By-law reconsideration of clause 5 of the 17th Report   of the Strategic Priorities and Policy Committee be permitted.
 
@@ -2725,6 +2753,8 @@ Unanimous (13-0)
   Lands - Main Street and Colonel Talbot Road - Intersection Improvements
   Project - TS-144616
 
+<div id="motion-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, the following actions be taken with   respect to the expr...
 
 **✅ Motion Passed**
@@ -2734,6 +2764,8 @@ Unanimous (13-0)
 ### 2. Expropriation of
   Lands - Main Street and Colonel Talbot Road - Intersection Improvements
   Project - TS-144616
+
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing   Director, Environmental & Engineering Services and City Engineer, on the   advice of the Manager of Realty Services, with the review and concurrence of   the Director, Roads and Transportation, the following actions be taken with   respect to the expr...
 
@@ -2748,6 +2780,8 @@ Unanimous (13-0)
   Committee Stage for Consideration with Clause 11 of the 19th Report of the
   Planning and Environment Committee )
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2756,6 +2790,8 @@ Unanimous (13-0)
 
 ### 10. Tequila Expo Show
   2017 - Request for Designation as a Municipally Significant Event
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > That the Tequila Expo Show 2017, to be held   on November 18, 2017 at Budweiser Gardens from 3:00 PM to 12:00 AM, BE   DESIGNATED as an event of municipal significance in the City of London.
 
@@ -2773,6 +2809,8 @@ Unanimous (13-0)
 ### 14. Small Agricultural
   Lot Creation for Microfarming Operations
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > That the Agricultural Advisory Committee BE   REQUESTED to provide comments on small agricultural lot creation for   microfarming operations in the context of Provincial Policy Statement Section   2.3.4.1.a), London Plan Policy 1228 and Official Plan (1989) Policies   9.2.14.3 and 9.1.1.iv.
 
 **✅ Motion Passed**
@@ -2781,6 +2819,8 @@ Unanimous (13-0)
 
 ### 17. Youth and Low
   Income Bus Passes
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > That the Managing Director, Neighbourhood,   Children and Fire Services BE DIRECTED to bring forward a proposal for a   youth bus pass to be considered during budget deliberations with the   following general guidelines:   a)         the   pass will provide for a reduced rate bus pass for all you...
 

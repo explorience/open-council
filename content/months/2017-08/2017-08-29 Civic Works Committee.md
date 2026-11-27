@@ -601,6 +601,8 @@ The
 ### 2. Wenige Expressway
   Bridge Drainage - Highbury Avenue South over Thames River South Branch
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -610,6 +612,8 @@ Unanimous (5-0)
 
 ### 3. Amendments to the
   Traffic and Parking By-Law
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -622,6 +626,8 @@ Unanimous (5-0)
   Parkway North Branch Connection -  Detailed Design & Tendering -
   Appointment of Consulting Engineer
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -631,6 +637,8 @@ Unanimous (5-0)
 
 ### 5. Contract Award:
   Tender No. 17-72 - Blackfriars Bridge Rehabilitation
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -643,6 +651,8 @@ Unanimous (5-0)
   South Improvements - Phases 1 & 2 Contract Administration - Appointment
   of Consulting Engineer
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -653,6 +663,8 @@ Unanimous (5-0)
 ### 7. Low Impact
   Development Stormwater Management Guidance Manual (EBR Registry Number:
   012-9080)
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -665,6 +677,8 @@ Unanimous (5-0)
   Consulting Engineer - South London Wastewater Servicing Municipal Class
   Environmental Assessment
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -674,6 +688,8 @@ Unanimous (5-0)
 
 ### 9. Single Source Purchase
   for Wastewater Facility - Channel Grinder Repairs
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -686,6 +702,8 @@ Unanimous (5-0)
   Electrical and Mechanical Services for the Turbo Blower Installations at the
   Greenway Wastewater Treatment Plant
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -695,6 +713,8 @@ Unanimous (5-0)
 
 ### 11. Community Energy
   Action Plan - Status Update
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -706,6 +726,8 @@ Unanimous (5-0)
 ### 12. 2016 Community
   Energy and Greenhouse Gas Inventory
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -715,6 +737,8 @@ Unanimous (5-0)
 
 ### 13. Contract Award
   T17-102 - Intersection AODA Upgrades - Irregular Result
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -727,15 +751,7 @@ Unanimous (5-0)
   Environmental Assessment Update: Technical Memorandum Stage One Work Plan and
   Community Consultation Plan
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 15. Deferred Matters
-  List
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -746,6 +762,20 @@ Unanimous (5-0)
 
 ### 15. Deferred Matters
   List
+
+<div id="motion-15-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 15. Deferred Matters
+  List
+
+<div id="motion-15-1" class="motion-anchor"></div>
 
 > Motion   Passed
 

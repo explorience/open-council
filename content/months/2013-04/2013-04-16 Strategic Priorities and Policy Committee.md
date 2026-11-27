@@ -246,6 +246,8 @@ The Strategic Priorities and Policy
 ### 2. City Manager -
   Council Compensation Review Task Force - Terms of Reference
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -258,6 +260,8 @@ Unanimous (12-0)
   Councillor Appointment to the Accommodation Review Committee (ARC) for
   Aberdeen Public School, Ealing Public School and Trafalgar Public School
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -267,6 +271,8 @@ Unanimous (10-0)
 
 ### 4. City of London and
   London District Catholic School Board Liaison Committee
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -280,6 +286,8 @@ Unanimous (12-0)
   May 13, 2013 Strategic Priorities and Policy Committee Meeting re LHI
   Annual General Meeting
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -291,6 +299,8 @@ Unanimous (12-0)
   Executive Director, London & Middlesex Housing Corporation (LMHC) -
   Request for Delegation Status at the May 13, 2013 Strategic Priorities and
   Policy Committee re LMHC Annual General Meeting
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

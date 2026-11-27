@@ -197,6 +197,8 @@ The meeting adjourned at 4:43 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That items 2.2 to 2.4 BE APPROVED.
 
 **✅ Motion Passed (4 to 0)**
@@ -204,6 +206,8 @@ The meeting adjourned at 4:43 PM.
 Unanimous (4-0)
 
 ### 2.1. Single Source Procurement - Vehicle Exhaust Capture Systems (VECS) in City of London Fire Stations
+
+<div id="motion-2-1-0" class="motion-anchor"></div>
 
 > That consideration of the single source procurement of a vehicle exhaust capture system in City of London fire stations BE REFERRED to the next meeting of the Community and Protective Services Committee, to be held September 9, 2020, in order for staff to investigate additional options. (2020-V08)
 

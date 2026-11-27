@@ -458,6 +458,8 @@ The meeting adjourned at 6:24 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, inclusive, BE APPROVED.
 
 **✅ Motion Passed (15 to 0)**
@@ -465,6 +467,8 @@ The meeting adjourned at 6:24 PM.
 Unanimous (15-0)
 
 ### 4.1. Review of Council Established Task Forces, Working Groups and Special Committees
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > The Civic Administration BE DIRECTED to undertake a comprehensive review of all of Council’s Advisory Committees, Task Forces, Working Groups and Special Committee and report back to the Governance Working Group with recommendations that would address the utility of the Committees, any potential ...
 
@@ -481,6 +485,8 @@ Unanimous (15-0)
 
 ### 4.3. 11th Report of the Governance Working Group
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the 11th Report of the Governance Working Group from its meeting held on June 25, 2018: a)         on the recommendation of the City Manager, the following actions be taken with respect to the Council Policy Manual Modernization: i)          the...
 
 **✅ Motion Passed (15 to 0)**
@@ -488,6 +494,8 @@ Unanimous (15-0)
 Unanimous (15-0)
 
 ### 4.4. Acting Mayor - Wednesday, July 25, 2018 to Tuesday, August 14, 2018
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That Councillor H.L. Usher BE APPOINTED Acting Mayor for the period commencing 9 AM on Wednesday, July 25, 2018 until approximately noon on Monday, August 13, 2018.
 

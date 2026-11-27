@@ -163,6 +163,8 @@ Motion Passed
   before 4:00 PM - London & Middlesex Housing Corporation -  2016 Annual
   Meeting of the Shareholder Annual Resolutions
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -171,6 +173,8 @@ Unanimous (10-0)
 
 ### 5. Consideration for
   Appointment to the London Public Library Board (Requires 1 Board Member)
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -182,6 +186,8 @@ Unanimous (10-0)
   Additional Interviewees for Appointment to the London Hydro Inc. Board
   of Directors (Requires 1 Board Member)
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -191,14 +197,7 @@ Unanimous (10-0)
 ### 7. 2nd Report of the
   Governance Working Group
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (10-0)
-
-### 8. COUNCIL MEMBER
-  SUBMISSION - Rapid Transit Implementation Working Group
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -208,6 +207,19 @@ Unanimous (10-0)
 
 ### 8. COUNCIL MEMBER
   SUBMISSION - Rapid Transit Implementation Working Group
+
+<div id="motion-8-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (10-0)
+
+### 8. COUNCIL MEMBER
+  SUBMISSION - Rapid Transit Implementation Working Group
+
+<div id="motion-8-1" class="motion-anchor"></div>
 
 > Motion Passed
 

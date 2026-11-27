@@ -1565,6 +1565,8 @@ Motion Passed
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1582,6 +1584,8 @@ Motion Passed
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1601,6 +1605,8 @@ Motion Passed
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-2" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1612,6 +1618,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-3" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1622,6 +1630,8 @@ Unanimous (13-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1641,6 +1651,8 @@ Unanimous (13-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-5" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1659,16 +1671,7 @@ Unanimous (13-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
-(Secretary’s Note:  All amounts are rounded
-  to the nearest $1,000)
+<div id="motion-2-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1681,6 +1684,8 @@ Unanimous (14-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-7" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1691,6 +1696,21 @@ Unanimous (14-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-8" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(Secretary’s Note:  All amounts are rounded
+  to the nearest $1,000)
+
+<div id="motion-2-9" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1710,6 +1730,8 @@ Unanimous (14-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-10" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1728,16 +1750,7 @@ Unanimous (14-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
-(Secretary’s Note:  All amounts are rounded
-  to the nearest $1,000)
+<div id="motion-2-11" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1749,6 +1762,21 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-12" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(Secretary’s Note:  All amounts are rounded
+  to the nearest $1,000)
+
+<div id="motion-2-13" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1768,21 +1796,7 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  BUDGET
-(Secretary’s Note:  All amounts are rounded
-  to the nearest $1,000)
+<div id="motion-2-14" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1800,6 +1814,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-15" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1815,6 +1831,26 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-16" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (13):** [Josh Morgan](/councillors/current/j-morgan), [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Virginia Ridley](/councillors/former/v-ridley), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park), [Jared Zaifman](/councillors/former/j-zaifman)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(Secretary’s Note:  All amounts are rounded
+  to the nearest $1,000)
+
+<div id="motion-2-17" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1834,6 +1870,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-18" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1844,6 +1882,8 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-19" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1863,6 +1903,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-20" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -1880,6 +1922,8 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-21" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1899,6 +1943,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-22" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -1916,6 +1962,8 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-23" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -1935,6 +1983,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-24" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1952,6 +2002,8 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-25" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1971,6 +2023,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-26" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -1988,6 +2042,8 @@ Unanimous (15-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-27" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2007,6 +2063,8 @@ Unanimous (15-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-28" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2017,6 +2075,8 @@ Unanimous (14-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-29" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2036,6 +2096,8 @@ Unanimous (14-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-30" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -2053,6 +2115,8 @@ Unanimous (14-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-31" class="motion-anchor"></div>
 
 > Motion   to approve an additional $175,000 for 2015 for operating costs associated   with the implementation of the Urban Forest Strategy.   Motion Passed
 
@@ -2072,16 +2136,7 @@ Unanimous (14-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (12-0)
-
-### 2. CORPORATE OPERATING
-  BUDGET
-(Secretary’s Note:  All amounts are rounded
-  to the nearest $1,000)
+<div id="motion-2-33" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2094,6 +2149,8 @@ Unanimous (12-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-34" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2104,6 +2161,21 @@ Unanimous (12-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-35" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (12-0)
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(Secretary’s Note:  All amounts are rounded
+  to the nearest $1,000)
+
+<div id="motion-2-36" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2116,6 +2188,8 @@ Unanimous (13-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
+<div id="motion-2-37" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed**
@@ -2133,6 +2207,8 @@ Unanimous (13-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-38" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2145,23 +2221,7 @@ Unanimous (13-0)
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
 
-> Motion Failed
-
-**❌ Motion Failed**
-
-<details>
-<summary>View roll call</summary>
-
-**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
-
-**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
-
-</details>
-
-### 2. CORPORATE OPERATING
-  BUDGET
-(Secretary’s Note:  All amounts are rounded
-  to the nearest $1,000)
+<div id="motion-2-39" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2180,6 +2240,28 @@ Unanimous (13-0)
   BUDGET
 (Secretary’s Note:  All amounts are rounded
   to the nearest $1,000)
+
+<div id="motion-2-40" class="motion-anchor"></div>
+
+> Motion Failed
+
+**❌ Motion Failed**
+
+<details>
+<summary>View roll call</summary>
+
+**Yea (4):** [Josh Morgan](/councillors/current/j-morgan), [Jesse Helmer](/councillors/former/j-helmer), [Maureen Cassidy](/councillors/former/m-cassidy), [Phil Squire](/councillors/former/p-squire)
+
+**Nay (9):** [Anna Hopkins](/councillors/current/a-hopkins), [Michael van Holst](/councillors/former/m-van-holst), [Mo Salih](/councillors/former/m-salih), [Stephen Turner](/councillors/former/s-turner), [Matt Brown](/councillors/former/m-brown), [Bill Armstrong](/councillors/former/b-armstrong), [Paul Hubert](/councillors/former/p-hubert), [Harold Usher](/councillors/former/h-l-usher), [Tanya Park](/councillors/former/t-park)
+
+</details>
+
+### 2. CORPORATE OPERATING
+  BUDGET
+(Secretary’s Note:  All amounts are rounded
+  to the nearest $1,000)
+
+<div id="motion-2-32" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2197,14 +2279,7 @@ Unanimous (13-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2215,6 +2290,8 @@ Unanimous (15-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2223,6 +2300,19 @@ Unanimous (15-0)
 
 ### 3. CORPORATE CAPITAL
     BUDGET
+
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2240,6 +2330,8 @@ Unanimous (15-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
+<div id="motion-3-4" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2248,6 +2340,8 @@ Unanimous (15-0)
 
 ### 3. CORPORATE CAPITAL
     BUDGET
+
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2265,41 +2359,7 @@ Unanimous (15-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
-
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
+<div id="motion-3-6" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2310,14 +2370,7 @@ Unanimous (15-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
+<div id="motion-3-7" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2328,14 +2381,7 @@ Unanimous (14-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
+<div id="motion-3-8" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2346,6 +2392,19 @@ Unanimous (14-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
+<div id="motion-3-9" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-10" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2354,6 +2413,63 @@ Unanimous (15-0)
 
 ### 3. CORPORATE CAPITAL
     BUDGET
+
+<div id="motion-3-11" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-12" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-13" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-14" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-15" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-16" class="motion-anchor"></div>
 
 > Motion Failed
 
@@ -2371,14 +2487,7 @@ Unanimous (15-0)
 ### 3. CORPORATE CAPITAL
     BUDGET
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (15-0)
-
-### 3. CORPORATE CAPITAL
-    BUDGET
+<div id="motion-3-17" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -2388,6 +2497,19 @@ Unanimous (15-0)
 
 ### 3. CORPORATE CAPITAL
     BUDGET
+
+<div id="motion-3-18" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (15-0)
+
+### 3. CORPORATE CAPITAL
+    BUDGET
+
+<div id="motion-3-19" class="motion-anchor"></div>
 
 > Motion Passed
 

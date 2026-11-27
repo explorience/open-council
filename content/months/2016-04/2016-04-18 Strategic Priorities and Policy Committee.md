@@ -493,6 +493,8 @@ Motion Passed
 ### 2. 2016 Council Compensation
   Review Task Force Terms of Reference - Revision
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -501,6 +503,8 @@ Unanimous (13-0)
 
 ### 3. 2nd Report of the
   Outstanding London Ambassador Award Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -511,6 +515,8 @@ Unanimous (13-0)
 ### 4. Follow-Up on
   Municipal Implications of the Truth and Reconciliation Commission Report
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -520,14 +526,7 @@ Unanimous (13-0)
 ### 5. Improving
   Collaboration with Local Boards and Commissions and Strategic Plan Alignment
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (13-0)
-
-### 6. Mayor's Advisory
-  Panel on Poverty Final Report: London For All: A Roadmap to End Poverty
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -537,6 +536,19 @@ Unanimous (13-0)
 
 ### 6. Mayor's Advisory
   Panel on Poverty Final Report: London For All: A Roadmap to End Poverty
+
+<div id="motion-6-0" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (13-0)
+
+### 6. Mayor's Advisory
+  Panel on Poverty Final Report: London For All: A Roadmap to End Poverty
+
+<div id="motion-6-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -547,6 +559,8 @@ Unanimous (13-0)
 ### 8. Board of Directors
   - Federation of Canadian Municipalities - Deputy Mayor Cassidy
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -555,6 +569,8 @@ Unanimous (13-0)
 
 ### 9. Greater London
   International Airport Authority Board of Directors –  Nominations
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -572,6 +588,8 @@ Unanimous (13-0)
 ### 9. Greater London
   International Airport Authority Board of Directors –  Nominations
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -580,6 +598,8 @@ Unanimous (13-0)
 
 ### 9. Greater London
   International Airport Authority Board of Directors –  Nominations
+
+<div id="motion-9-2" class="motion-anchor"></div>
 
 > Motion Passed
 

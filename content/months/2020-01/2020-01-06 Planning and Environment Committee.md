@@ -888,6 +888,8 @@ The meeting adjourned at 7:29 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1 to 2.3, inclusive and 2.5 to 2.8, inclusive, BE APPROVED.
 
 **✅ Motion Passed (6 to 0)**
@@ -895,6 +897,8 @@ The meeting adjourned at 7:29 PM.
 Unanimous (6-0)
 
 ### 2.4. Candidate Approval for the Urban Design Peer Review Panel
+
+<div id="motion-2-4-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Director, Development Services, the following candidates BE APPROVED for the positions, listed below, on the Urban Design Peer Review Panel: a) Tim Wickens – Position of Architect; b) Leo Xuan-Yi Lin– Position of Architect; and, c) Michael Davis – Position of Pl...
 
@@ -904,6 +908,8 @@ Unanimous (6-0)
 
 ### 2.4. Candidate Approval for the Urban Design Peer Review Panel
 
+<div id="motion-2-4-1" class="motion-anchor"></div>
+
 > That M. Wallace, Executive Director, London Development Institute, BE GRANTED delegation status with respect to candidate approval for the Urban Design Peer Review Panel.
 
 **✅ Motion Passed (6 to 0)**
@@ -911,6 +917,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 3.7. Hamilton Road Corridor Planning Study (OZ-8997)
+
+<div id="motion-3-7-0" class="motion-anchor"></div>
 
 > That, on the recommendation of the Managing Director, Planning and City Planner, the following actions be taken with respect to the Official Plan and Zoning By-law amendment application by The Corporation of the City of London, relating to the properties located near the Hamilton Road Corridor, g...
 

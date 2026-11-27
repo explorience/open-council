@@ -423,6 +423,8 @@ The Corporate Services Committee convened
   Advance Voting Days and Use of Vote Counting Equipment, Voting Machines,
   Voting by Mail, and Proxy Voting
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -433,6 +435,8 @@ Unanimous (4-0)
 ### 3. STAFF REPORT -
   Vacant Unit Rebate and Vacant/Excess Land Subclass Tax Reductions
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -442,6 +446,8 @@ Unanimous (4-0)
 
 ### 4. STAFF REPORT -
   Appointed Citizen Members 2017 Remuneration
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -454,6 +460,8 @@ Unanimous (4-0)
   Compliance Report in Accordance with the Procurement of Goods and Services
   Policy
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -463,6 +471,8 @@ Unanimous (4-0)
 
 ### 6. STAFF REPORT -
   Sherwood Forest Public School Request for Proposals - Update and Next Steps
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -474,6 +484,8 @@ Unanimous (4-0)
 ### 7. STAFF REPORT -
   Public Sector Salary Disclosure Act Report for Calendar Year 2016
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -483,6 +495,8 @@ Unanimous (4-0)
 
 ### 8. STAFF REPORT -
   Declare Surplus – Closed Road Allowance – Part of Riverside Drive
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -495,6 +509,8 @@ Unanimous (4-0)
   Ontario 150 Community Celebration Program and Ontario 150 Partnership Program
   Transfer Payment Agreements
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -504,6 +520,8 @@ Unanimous (4-0)
 
 ### 10. Consideration of
   Appointment to the Accessibility Advisory Committee
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -515,6 +533,8 @@ Unanimous (4-0)
 ### 11. Consideration of
   Appointment to the Transportation Advisory Committee
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -525,6 +545,8 @@ Unanimous (4-0)
 ### 12. Confirmation of
   Appointment to the Outstanding London Ambassador Award Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -534,6 +556,8 @@ Unanimous (4-0)
 
 ### 13. Consideration
   of Appointment to the London Police Services Board
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

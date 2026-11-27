@@ -232,6 +232,8 @@ The meeting adjourned at 9:14 PM.
 
 ### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That the draft by-law BE AMENDED in section 25 by adding the following after "until December 31, 2020", "or until such time as the regulation O. Reg 364/20: Rules for Areas in Stage 3, made under the  Emergency Management and Civil Protection Act, R.S.O. 1990, c. E.9. is revoked."
 
 **✅ Motion Passed (13 to 1)**
@@ -249,6 +251,8 @@ The meeting adjourned at 9:14 PM.
 
 ### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
 
+<div id="motion-4-1-3" class="motion-anchor"></div>
+
 > That, on the recommendation of the City Manager, with the concurrence of the Medical Officer of Health, Middlesex-London, the revised attached by-law BE INTRODUCED at the Municipal Council meeting to be held on July 21, 2020, to temporarily require the use of face coverings within enclosed public...
 
 **✅ Motion Passed (13 to 1)**
@@ -265,6 +269,8 @@ The meeting adjourned at 9:14 PM.
 </details>
 
 ### 4.1. Additional Legislated Measures to Reduce the Risk of Further COVID-19 Infections in the City of London
+
+<div id="motion-4-1-4" class="motion-anchor"></div>
 
 > That the Civic Administration, in conjunction with appropriate stakeholders, BE DIRECTED to report back to the Strategic Priorities and Policy Committee in sixty-day increments, with respect to the proposed by-law related to mandatory face covering.
 

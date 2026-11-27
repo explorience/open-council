@@ -300,6 +300,8 @@ The Corporate Services Committee convened
 ### 2. Outstanding London
   Ambassador Award
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -317,6 +319,8 @@ The Corporate Services Committee convened
 ### 3. Employee
     Absenteeism 2014 Update
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion     Passed
 
 **✅ Motion
@@ -327,15 +331,7 @@ Unanimous (3-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 3. Employee
-    Absenteeism 2014 Update
+<div id="motion-3-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -347,15 +343,7 @@ Unanimous (5-0)
 ### 3. Employee
     Absenteeism 2014 Update
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 3. Employee
-    Absenteeism 2014 Update
+<div id="motion-3-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -366,6 +354,32 @@ Unanimous (5-0)
 
 ### 3. Employee
     Absenteeism 2014 Update
+
+<div id="motion-3-3" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 3. Employee
+    Absenteeism 2014 Update
+
+<div id="motion-3-4" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 3. Employee
+    Absenteeism 2014 Update
+
+<div id="motion-3-5" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -378,16 +392,7 @@ Unanimous (5-0)
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 10. Required
-  Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
-  Corporation
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -399,6 +404,21 @@ Unanimous (5-0)
 ### 10. Required
   Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
   Corporation
+
+<div id="motion-10-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 10. Required
+  Expenditure - HVAC Units/Caps on Outside Stairwells - Covent Garden Market
+  Corporation
+
+<div id="motion-10-2" class="motion-anchor"></div>
 
 > Motion   Passed
 

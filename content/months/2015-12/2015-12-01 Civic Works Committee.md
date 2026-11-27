@@ -609,6 +609,8 @@ The
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2016
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -618,6 +620,8 @@ Unanimous (5-0)
 
 ### 3. 10th Report of the
   Cycling Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -629,6 +633,8 @@ Unanimous (5-0)
 ### 4. 6th Report of the
   Transportation Advisory Committee
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -638,6 +644,8 @@ Unanimous (5-0)
 
 ### 5. 3rd Report of the
   LTC Long Term Growth Report Working Group
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -649,6 +657,8 @@ Unanimous (5-0)
 ### 6. Proposed Street Encroachment
   Policy
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -658,6 +668,8 @@ Unanimous (5-0)
 
 ### 7. Supply and Delivery
   of Light Duty Replacement Vehicles
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -670,6 +682,8 @@ Unanimous (5-0)
   Consultant for Environmental Assessment, Design, and Contract Administration
   for the Colonel Talbot Pumping Station and Sanitary Servicing Works
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -679,6 +693,8 @@ Unanimous (5-0)
 
 ### 9. Red Light Camera
   Program Update
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -697,6 +713,8 @@ Unanimous (5-0)
 ### 10. Flooding Matters
   Work Plan Proposal
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -706,6 +724,8 @@ Unanimous (5-0)
 
 ### 11. Supply and Delivery
   of Pre-Wetting and Anti-Icing Liquids for Road Surfaces
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -718,6 +738,8 @@ Unanimous (5-0)
   Consulting Engineers for Design and Construction of Stormwater Management
   Facilities
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -728,6 +750,8 @@ Unanimous (5-0)
 ### 13. Bradley Avenue West
   Extension - Wharncliffe Road South to Wonderland Road South - Detailed Design
   - Appointment of Consulting Engineer
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -740,6 +764,8 @@ Unanimous (5-0)
   Improvements Phase 3 - Hyde Park Road to Oakcrossing Gate - Detailed Design
   -  Appointment of Consulting Engineer
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -751,6 +777,8 @@ Unanimous (5-0)
   Parkway North Extension - Huron Street to Clarke Road - Detailed Design -
   Appointment of Consulting Engineer
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -759,6 +787,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 16. Kindness Meters
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -770,6 +800,8 @@ Unanimous (5-0)
 ### 17. 9th Report of the
   Cycling Advisory Committee
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -779,6 +811,8 @@ Unanimous (5-0)
 
 ### 18. Deferred Matters
   List
+
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

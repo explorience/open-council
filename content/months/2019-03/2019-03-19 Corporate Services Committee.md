@@ -636,6 +636,8 @@ The meeting adjourned at 3:44 PM.
 
 ### 2.6. Advisory Committee Review - Interim Report
 
+<div id="motion-2-6-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the City Clerk, the following actions be taken with respect to the 2019 appointments to the City of London Advisory Committees (ACs):    a)            the Civic Administration, who currently serve as non-voting resources to ACs, BE REQUESTED to assist in the ACs wor...
 
 **✅ Motion Passed (5 to 0)**
@@ -644,6 +646,8 @@ Unanimous (5-0)
 
 ### 4.1. London Downtown Business Association Improvement Area - 2019 Proposed Budget - Municipal Special Levy
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the delegation requests of S. Peraic Weir and L. Ferguson, related to the 2019 London Downtown Business Association proposed budget, BE APPROVED to be heard at this time. Voting Record
 
 **✅ Motion Passed (5 to 0)**
@@ -651,6 +655,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 4.1. London Downtown Business Association Improvement Area - 2019 Proposed Budget - Municipal Special Levy
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That consideration of the 2019 proposed budget of the London Downtown Business Association BE DEFERRED to a future meeting of the Corporate Services Committee meeting.
 
@@ -667,6 +673,8 @@ Unanimous (5-0)
 
 ### 4.1. London Downtown Business Association Improvement Area - 2019 Proposed Budget - Municipal Special Levy
 
+<div id="motion-4-1-2" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Corporate Services and City Treasurer, Chief Financial Officer, the following actions be taken with respect to the London Downtown Business Association Improvement Area:    a)            the London Downtown Business Association proposed 2019 b...
 
 **❌ Motion Failed (3 to 3) 🔥**
@@ -682,6 +690,8 @@ Unanimous (5-0)
 
 ### 4.2. Special Meeting of the Strategic Priorities and Policy Committee
 
+<div id="motion-4-2-0" class="motion-anchor"></div>
+
 > That pursuant to section 2.6 of the Council Procedure By-law, authorization BE GIVEN for the April 8, 2019 Special Meeting of the Strategic Priorities and Policy Committee be held at the Spencer Hall Conference Centre, 551 Windermere Road, London, Ontario N5X 2T1, commencing at 8 AM for the purpo...
 
 **✅ Motion Passed (6 to 0)**
@@ -690,6 +700,8 @@ Unanimous (6-0)
 
 ### 4.3. Association of Municipalities of Ontario (AMO) - Chair, Large Urban Caucus
 
+<div id="motion-4-3-0" class="motion-anchor"></div>
+
 > That the nomination of Councillor A. Hopkins for appointment as Chair, Large Urban Caucus for the Association of Municipalities of Ontario (AMO) BE ENDORSED by the Municipal Council and in the event that Councillor A. Hopkins is elected to this position that the Councillor BE REIMBURSED by The Co...
 
 **✅ Motion Passed (6 to 0)**
@@ -697,6 +709,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 4.4. Amending Hours of Sale of Liquor on Weekend to begin at 9 AM
+
+<div id="motion-4-4-0" class="motion-anchor"></div>
 
 > That the Attorney General of Ontario and the Alcohol Gaming Commission of Ontario BE REQUESTED to change the permissible hours for licensed establishments in the City of London to sell and serve alcohol on Saturdays and Sundays to commence 9 AM.
 

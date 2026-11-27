@@ -437,6 +437,8 @@ The
 ### 2. 2nd Report of the
   Transportation Advisory Committee Meeting
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -446,6 +448,8 @@ Unanimous (4-0)
 
 ### 3. 2015 Infrastructure
   Renewal Program - Burlington Crescent Reconstruction Project - T15-42
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -457,6 +461,8 @@ Unanimous (4-0)
 ### 4. 2015 Infrastructure
   Renewal Program - Dufferin Avenue Reconstruction Project - T15-21
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -466,6 +472,8 @@ Unanimous (4-0)
 
 ### 5. Amendments to the
   Traffic and Parking By-law
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -477,6 +485,8 @@ Unanimous (4-0)
 ### 6. Amendments to the
   Traffic and Parking By-law - Refreshment Vehicles
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -486,6 +496,8 @@ Unanimous (4-0)
 
 ### 7. Proposed Revision
   to the W12A Landfill Designated Haul Route
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -497,6 +509,8 @@ Unanimous (4-0)
 ### 8. W12A Landfill -
   Proposal and Process to Accept Waste from Three Facilities Outside of London
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -506,6 +520,8 @@ Unanimous (4-0)
 
 ### 9. Regional Rideshare
   Program Update
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -517,6 +533,8 @@ Unanimous (4-0)
 ### 10. Community Research
   Snapshot - How Green Is London?
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -527,6 +545,8 @@ Unanimous (4-0)
 ### 11. Bike (Cycling) Program
   Update
 
+<div id="motion-11-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -536,6 +556,8 @@ Unanimous (4-0)
 
 ### 12. Environmental
   Programs Update
+
+<div id="motion-12-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -548,6 +570,8 @@ Unanimous (4-0)
   Update on Examination of Residential Organics Waste (Food Scraps) and Next
   Steps
 
+<div id="motion-13-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -557,6 +581,8 @@ Unanimous (4-0)
 
 ### 14. Deferred Matters
   List
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

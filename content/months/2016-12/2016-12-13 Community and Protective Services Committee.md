@@ -969,6 +969,8 @@ The meeting adjourned at 9:55 PM.
 ### 2. Election of
   Vice-Chair for the term Ending November 30, 2017
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -978,6 +980,8 @@ Unanimous (5-0)
 
 ### 3. 7th Report of the
   Community Safety and Crime Prevention Advisory Committee
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -989,6 +993,8 @@ Unanimous (5-0)
 ### 4. 4th Report of the
   Town and Gown Committee
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -998,6 +1004,8 @@ Unanimous (5-0)
 
 ### 5. 2nd Report of the
   Diversity, Inclusivity and Anti-Oppression Advisory Committee
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1009,6 +1017,8 @@ Unanimous (5-0)
 ### 6. 11th Report of the
   Accessibility Advisory Committee
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1019,6 +1029,8 @@ Unanimous (5-0)
 ### 7. STAFF REPORT - Cost
   Recovery for London Fire Department Attendance at Structure Fires
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1028,6 +1040,8 @@ Unanimous (5-0)
 
 ### 8. STAFF REPORT - Open
   Air Burning By-law - Education Plan
+
+<div id="motion-8-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1040,6 +1054,8 @@ Unanimous (5-0)
   Renewing an Agreement with South London Neighbourhood Resource Centre for Use
   of Space for Social and Community Programs at South London Community Centre
 
+<div id="motion-9-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1051,6 +1067,8 @@ Unanimous (5-0)
   Agreement with South London Neighbourhood Resource Centre for Space to
   Provide Settlement Services at South London Community Centre
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1060,6 +1078,8 @@ Unanimous (5-0)
 
 ### 11. STAFF REPORT -
   London Community Gardens Program Strategic Plan - Year 1 Update
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1071,6 +1091,8 @@ Unanimous (5-0)
 ### 12. STAFF REPORT - Amendment
   to PH-7 Dogs Off Leash Area By-law
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1080,6 +1102,8 @@ Unanimous (5-0)
 
 ### 13. STAFF REPORT -
   Social Housing Improvement Program (SHIP)
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1092,6 +1116,8 @@ Unanimous (5-0)
   Children 5 to 12 Years of Age Ride for Free on Public Transit Council By-law
   and Agreement
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1101,6 +1127,8 @@ Unanimous (5-0)
 
 ### 15. STAFF REPORT -
   Basic Income Pilot Project for Ontario
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1112,6 +1140,8 @@ Unanimous (5-0)
 ### 16. STAFF REPORT -
   Annual Emergency Management Program Update
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1122,6 +1152,8 @@ Unanimous (5-0)
 ### 17. PUBLIC
   PARTICIPATION MEETING - Residential Rental Units Licensing By-law: Secondary
   Dwelling Units and Inspection Protocol
+
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > 
 
@@ -1133,6 +1165,8 @@ Unanimous (5-0)
   PARTICIPATION MEETING - Residential Rental Units Licensing By-law: Secondary
   Dwelling Units and Inspection Protocol
 
+<div id="motion-17-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1144,6 +1178,8 @@ Unanimous (6-0)
   PARTICIPATION MEETING - Residential Rental Units Licensing By-law: Secondary
   Dwelling Units and Inspection Protocol
 
+<div id="motion-17-2" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1154,15 +1190,7 @@ Unanimous (5-0)
 ### 18. PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 18. PUBLIC
-  PARTICIPATION MEETING - Subsidized Transit
+<div id="motion-18-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1173,6 +1201,20 @@ Unanimous (6-0)
 
 ### 18. PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
+
+<div id="motion-18-1" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 18. PUBLIC
+  PARTICIPATION MEETING - Subsidized Transit
+
+<div id="motion-18-2" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1191,6 +1233,8 @@ Unanimous (6-0)
 ### 18. PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
 
+<div id="motion-18-3" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1208,15 +1252,7 @@ Unanimous (6-0)
 ### 18. PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (6-0)
-
-### 18. PUBLIC
-  PARTICIPATION MEETING - Subsidized Transit
+<div id="motion-18-4" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1227,6 +1263,20 @@ Unanimous (6-0)
 
 ### 18. PUBLIC
   PARTICIPATION MEETING - Subsidized Transit
+
+<div id="motion-18-5" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (6-0)
+
+### 18. PUBLIC
+  PARTICIPATION MEETING - Subsidized Transit
+
+<div id="motion-18-6" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1238,6 +1288,8 @@ Unanimous (5-0)
 ### 19. COUNCILLOR
   SUBMISSION - Hate Related Graffiti
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1247,6 +1299,8 @@ Unanimous (5-0)
 
 ### 20. STAFF REPORT -
   Affordable Access to City-Owned Community Centres and Recreation Facilities
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -1258,6 +1312,8 @@ Unanimous (5-0)
 ### 21. STAFF REPORT -
   Business Licensing By-law Review - Status Update
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1268,6 +1324,8 @@ Unanimous (5-0)
 ### 22. Deferred Matters
   List
 
+<div id="motion-22-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -1276,6 +1334,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 23. Confidential
+
+<div id="motion-23-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

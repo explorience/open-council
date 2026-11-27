@@ -343,3 +343,49 @@ The meeting adjourned at 2:26 PM.
 
 ****
 
+---
+
+## Votes
+
+*4 substantive votes at this meeting (0 contested, 4 unanimous). Procedural motions excluded.*
+
+### 1. Disclosures of Pecuniary Interest
+
+<div id="motion-1-0" class="motion-anchor"></div>
+
+> That, pursuant to section 27.6 of the Council Procedure By-law, a change in order of the Infrastructure and Corporate Services Committee Agenda BE APPROVED, to provide for Items 6.1 and 6.2 in Stage 6, Confidential, to be considered after Stage 1, Disclosures of Pecuniary Interest.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+<div id="motion-3-1-1" class="motion-anchor"></div>
+
+> That the Infrastructure and Corporate Services Committee now convene as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997 and provide the complainant an opportunity to make representations.
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+<div id="motion-3-1-2" class="motion-anchor"></div>
+
+> That, after convening as a tribunal under section 26 of By-law C.P.-1551-227 to hear a complaint under section 20 of the Development Charges Act, 1997, S.O. 1997, c. 27, by Mr. James Elsley, McKenzie Lake Lawyers LLP, on behalf of Sereno West Village Inc. and Westdell Development Corp., related t...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+
+### 3.1. Not to be heard before 1:05 PM - Tribunal - Development Charge Appeal
+
+<div id="motion-3-1-4" class="motion-anchor"></div>
+
+> That the Civic Administration BE DIRECTED to consult with any applicant that entered into a APA up to 50 days in advance of November 3, 2025 regarding agreements entered into pursuant to section 27 of the Development Charges Act regarding applicable interest provisions that otherwise would not ha...
+
+**✅ Motion Passed (5 to 0)**
+
+Unanimous (5-0)
+

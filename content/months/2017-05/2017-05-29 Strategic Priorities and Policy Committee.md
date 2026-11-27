@@ -415,6 +415,8 @@ The Strategic Priorities and Policy Committee
 ### 2. Strategic Plan:
   Semi-Annual Progress Report
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -431,14 +433,7 @@ The Strategic Priorities and Policy Committee
 ### 3. Update on Service
   Review Initiatives
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (14-0)
-
-### 3. Update on Service
-  Review Initiatives
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -449,6 +444,8 @@ Unanimous (14-0)
 ### 3. Update on Service
   Review Initiatives
 
+<div id="motion-3-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -457,6 +454,19 @@ Unanimous (14-0)
 
 ### 3. Update on Service
   Review Initiatives
+
+<div id="motion-3-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (14-0)
+
+### 3. Update on Service
+  Review Initiatives
+
+<div id="motion-3-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -474,6 +484,8 @@ Unanimous (14-0)
 ### 3. Update on Service
   Review Initiatives
 
+<div id="motion-3-4" class="motion-anchor"></div>
+
 > Motion Failed
 
 **❌ Motion Failed 🔥**
@@ -490,6 +502,8 @@ Unanimous (14-0)
 ### 8. London Hydro Inc. -
   2016 Annual Meeting of the Shareholder - Annual Resolutions
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -499,6 +513,8 @@ Unanimous (14-0)
 ### 9. Special Events
   Policy and Procedure Manual - Potential for the Re-Instatement of Penalties
   and Procedural Changes
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -517,6 +533,8 @@ Unanimous (14-0)
   Policy and Procedure Manual - Potential for the Re-Instatement of Penalties
   and Procedural Changes
 
+<div id="motion-9-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -525,6 +543,8 @@ Unanimous (14-0)
 
 ### 10. London &
   Middlesex Housing Corporation (Requires 3 Board of Directors)
+
+<div id="motion-10-0" class="motion-anchor"></div>
 
 > Motion Passed
 

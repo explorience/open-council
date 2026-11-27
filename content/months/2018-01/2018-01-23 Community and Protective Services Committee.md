@@ -585,6 +585,8 @@ The meeting adjourned at 5:25 PM.
 ### 2. STAFF REPORT -
   Vital Services By-law - Air Conditioning
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -599,6 +601,8 @@ The meeting adjourned at 5:25 PM.
 
 ### 3. STAFF REPORT -
   Business Licensing By-law - Technical Map Clarifications
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -615,6 +619,8 @@ The meeting adjourned at 5:25 PM.
 ### 4. STAFF REPORT -
   Veterinary Services
 
+<div id="motion-4-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -629,6 +635,8 @@ The meeting adjourned at 5:25 PM.
 
 ### 5. STAFF REPORT -
   Vehicle for Hire By-law - Six Month Statistics
+
+<div id="motion-5-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -646,6 +654,8 @@ The meeting adjourned at 5:25 PM.
   Apportionment Agreements for Land Ambulance, Ontario Works, Housing Services
   and Child Care
 
+<div id="motion-6-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -661,6 +671,8 @@ The meeting adjourned at 5:25 PM.
 ### 7. STAFF REPORT -
   Single Source, Spectrum Recreation Activity Guide  Design, Production,
   Advertising Sales and Distribution Services
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -678,6 +690,8 @@ The meeting adjourned at 5:25 PM.
   SUBMISSION - Crossing Guard  - Lord Roberts Public School Intersection of
   Maitland Street and Princess Avenue
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -691,6 +705,8 @@ The meeting adjourned at 5:25 PM.
 </details>
 
 ### 9. Paul Haggis Park
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -709,6 +725,8 @@ The meeting adjourned at 5:25 PM.
 ### 10. 1st Report of the
   Animal Welfare Advisory Committee
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -723,6 +741,8 @@ The meeting adjourned at 5:25 PM.
 
 ### 11. 1st Report of the
   Diversity, Inclusion & Anti-Oppression Advisory Committee
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -739,6 +759,8 @@ The meeting adjourned at 5:25 PM.
 ### 12. 2nd Report of the
   London Housing Advisory Committee
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -753,6 +775,8 @@ The meeting adjourned at 5:25 PM.
 
 ### 13. STAFF REPORT -
   Administrative Monetary Penalties
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -769,6 +793,8 @@ The meeting adjourned at 5:25 PM.
 ### 14. Deferred Matters
   List
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -784,6 +810,8 @@ The meeting adjourned at 5:25 PM.
 ### 15. (ADDED) PUBLIC
   SUBMISSION - Paratransit Zones and By-law Enforcement - J. Daunt
 
+<div id="motion-15-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -798,6 +826,8 @@ The meeting adjourned at 5:25 PM.
 
 ### 16. (ADDED) 1st Report
   of the Childcare Advisory Committee
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > Motion   Passed
 

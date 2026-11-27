@@ -203,16 +203,7 @@ Motion
   of Ontario – Final Report – Investigation into Whether Members of Council for
   the City of London Held an Improper Closed Meeting on February 23, 2013.
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (13-0)
-
-### 2. A. Marin, Ombudsman
-  of Ontario – Final Report – Investigation into Whether Members of Council for
-  the City of London Held an Improper Closed Meeting on February 23, 2013.
+<div id="motion-2-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -225,6 +216,8 @@ Unanimous (13-0)
   of Ontario – Final Report – Investigation into Whether Members of Council for
   the City of London Held an Improper Closed Meeting on February 23, 2013.
 
+<div id="motion-2-1" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -235,6 +228,21 @@ Unanimous (13-0)
 ### 2. A. Marin, Ombudsman
   of Ontario – Final Report – Investigation into Whether Members of Council for
   the City of London Held an Improper Closed Meeting on February 23, 2013.
+
+<div id="motion-2-2" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (13-0)
+
+### 2. A. Marin, Ombudsman
+  of Ontario – Final Report – Investigation into Whether Members of Council for
+  the City of London Held an Improper Closed Meeting on February 23, 2013.
+
+<div id="motion-2-3" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -253,6 +261,8 @@ Unanimous (13-0)
 ### 2. A. Marin, Ombudsman
   of Ontario – Final Report – Investigation into Whether Members of Council for
   the City of London Held an Improper Closed Meeting on February 23, 2013.
+
+<div id="motion-2-4" class="motion-anchor"></div>
 
 > Motion   Passed
 

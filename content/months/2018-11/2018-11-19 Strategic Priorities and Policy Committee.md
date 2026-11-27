@@ -260,6 +260,8 @@ The Meeting adjourned at 5:46 PM.
 
 ### 4.1. Appointments to the Striking Committee
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED to the Striking Committee for the 2018-2022 Council term: Dharshi Lacey (Pillar Nonprofit Network) Shawna Lewkowitz (Urban League of London) Patti Dalton (London and District Labour Council) Laurie Lashbrook (London Chamber of Commerce) Chad Callander (...
 
 **✅ Motion Passed (12 to 0)**
@@ -267,6 +269,8 @@ The Meeting adjourned at 5:46 PM.
 Unanimous (12-0)
 
 ### 4.2. Inaugural Council Meeting
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That pursuant to section 2.6 of the Council Procedure By-law, authorization BE GIVEN for the December 3, 2018 Inaugural Municipal Council Meeting for the 2018-2022 term, to be held at the London Convention Centre to commence at 6:00 PM, in order to provide sufficient capacity to permit members of...
 

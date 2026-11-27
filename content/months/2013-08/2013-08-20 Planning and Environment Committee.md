@@ -1473,6 +1473,8 @@ The meeting adjourned at 9:27 PM
 ### 2. Properties located
   at 3700 Colonel Talbot Road and 3645 Bostwick Road (O-7609)
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1481,6 +1483,8 @@ Unanimous (6-0)
 
 ### 3. Property located at
   260 Sarnia Road (Z-8075)
+
+<div id="motion-3-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1491,6 +1495,8 @@ Unanimous (6-0)
 ### 4. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
+
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1509,15 +1515,7 @@ Unanimous (6-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (6-0)
-
-### 4. Properties located
-  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
-  Road South (OZ-8120)
+<div id="motion-4-1" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1528,6 +1526,20 @@ Unanimous (6-0)
 ### 4. Properties located
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
+
+<div id="motion-4-2" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 4. Properties located
+  at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
+  Road South (OZ-8120)
+
+<div id="motion-4-3" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1546,6 +1558,8 @@ Unanimous (6-0)
   at 3130 and 3260 Dingman Drive and the rear portion of 4397/4407 Wellington
   Road South (OZ-8120)
 
+<div id="motion-4-4" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed 🔥**
@@ -1562,6 +1576,8 @@ Unanimous (6-0)
 ### 5. Blackfriars/Petersville
   Heritage Conservation Study Area
 
+<div id="motion-5-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1570,6 +1586,8 @@ Unanimous (6-0)
 
 ### 6. Property located at
   699 Wonderland Road North (H-8212)
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1580,6 +1598,8 @@ Unanimous (6-0)
 ### 7. Building Division
   Monthly Report for June 2013
 
+<div id="motion-7-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1589,6 +1609,8 @@ Unanimous (6-0)
 ### 8. 8th Report of the
   Environmental and Ecological Planning Advisory Committee
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1597,6 +1619,8 @@ Unanimous (6-0)
 
 ### 9. 7th Report of the
   Advisory Committee on the Environment
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1608,6 +1632,8 @@ Unanimous (6-0)
   at 407 McMahen Street and portions of 652, 654 and 656 Elizabeth Street
   (Z-8182)
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1616,6 +1642,8 @@ Unanimous (6-0)
 
 ### 11. Property located at
   432 Grey Street (Z-8200)
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1626,6 +1654,8 @@ Unanimous (6-0)
 ### 12. Property located at
   275 Callaway Road
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1634,6 +1664,8 @@ Unanimous (6-0)
 
 ### 13. City-Wide Day Care
   Centres in Schools (Z-8211)
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1644,6 +1676,8 @@ Unanimous (6-0)
 ### 14. Property located at
   1166 Hamilton Road
 
+<div id="motion-14-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1652,6 +1686,8 @@ Unanimous (6-0)
 
 ### 15. Veterans Memorial
   Parkway South Extension (OZ-8195)
+
+<div id="motion-15-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1662,6 +1698,8 @@ Unanimous (6-0)
 ### 16. Veterans Memorial
   Parkway (Z-8194)
 
+<div id="motion-16-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1671,14 +1709,7 @@ Unanimous (4-0)
 ### 17. Property located at
   982 Gainsborough Road (Z-8178)
 
-> Motion Passed
-
-**✅ Motion Passed**
-
-Unanimous (6-0)
-
-### 17. Property located at
-  982 Gainsborough Road (Z-8178)
+<div id="motion-17-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1688,6 +1719,19 @@ Unanimous (6-0)
 
 ### 17. Property located at
   982 Gainsborough Road (Z-8178)
+
+<div id="motion-17-1" class="motion-anchor"></div>
+
+> Motion Passed
+
+**✅ Motion Passed**
+
+Unanimous (6-0)
+
+### 17. Property located at
+  982 Gainsborough Road (Z-8178)
+
+<div id="motion-17-2" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1698,6 +1742,8 @@ Unanimous (6-0)
 ### 18. Secondary Dwelling
   Units (OZ-8053)
 
+<div id="motion-18-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1707,6 +1753,8 @@ Unanimous (6-0)
 ### 19. Proposed
   Stoneycreek Pathway
 
+<div id="motion-19-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1715,6 +1763,8 @@ Unanimous (6-0)
 
 ### 20. Tricar
   Subdivision (Phase 2) - 39T-11504
+
+<div id="motion-20-0" class="motion-anchor"></div>
 
 > Motion Passed
 
@@ -1732,6 +1782,8 @@ Unanimous (6-0)
 ### 21. Near-Campus
   Neighbourhood Amendments (Z-8218)
 
+<div id="motion-21-0" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -1739,6 +1791,8 @@ Unanimous (6-0)
 Unanimous (6-0)
 
 ### 22. Property located at 13 Blackfriars Street
+
+<div id="motion-22-0" class="motion-anchor"></div>
 
 > Motion Passed
 

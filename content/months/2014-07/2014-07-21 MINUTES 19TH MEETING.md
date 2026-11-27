@@ -247,6 +247,8 @@ Adjourn.
 
 ### XI. BY-LAWS
 
+<div id="motion-xi-0" class="motion-anchor"></div>
+
 > Approve  Introduction and 1st Reading of Bill   No. 338.
 
 **✅ Motion Passed**
@@ -254,6 +256,8 @@ Adjourn.
 Unanimous (12-0)
 
 ### XI. BY-LAWS
+
+<div id="motion-xi-1" class="motion-anchor"></div>
 
 > Approve 2nd Reading of Bill No. 338.
 
@@ -263,6 +267,8 @@ Unanimous (12-0)
 
 ### XI. BY-LAWS
 
+<div id="motion-xi-2" class="motion-anchor"></div>
+
 > Approve 3rd Reading and Enactment of Bill No.   338.   Motion Passed
 
 **✅ Motion Passed**
@@ -271,6 +277,8 @@ Unanimous (12-0)
 
 ### XII. ADJOURNMENT
 
+<div id="motion-xii-0" class="motion-anchor"></div>
+
 > Adjourn.
 
 **✅ Motion Passed**
@@ -278,6 +286,8 @@ Unanimous (12-0)
 Unanimous (11-0)
 
 ### 1. Disclosures of Pecuniary Interest
+
+<div id="motion-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with   respect to filling various Council appointments arising from recent changes   to the membership of the Municipal Council:   a)              J.   Baechler’s appointment to the Civic Works Committee (CWC) BE RESCINDED and   W.R. Monteith BE APPOINTED to th...
 

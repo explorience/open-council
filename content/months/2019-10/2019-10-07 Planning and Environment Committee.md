@@ -545,6 +545,8 @@ The meeting adjourned at 7:05 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.4, 2.5 and 2.7, BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -553,6 +555,8 @@ Unanimous (5-0)
 
 ### 3.3. Public Participation Meeting - Application - 800, 805 and 810 Chelton Road - Application for Zoning By-law Amendment (Z-9089)
 
+<div id="motion-3-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Director, Development Services, based on the application by The Ironstone Building Company Inc., relating to the lands located at 800, 805 and 810 Chelton Road, the proposed by-law appended to the staff report dated October 7, 2019 BE INTRODUCED at the Municipal...
 
 **✅ Motion Passed (5 to 0)**
@@ -560,6 +564,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
+
+<div id="motion-3-4-1" class="motion-anchor"></div>
 
 > Motion to approve parts a) and b), which read as follows: That, on the recommendation of the Director, Development Services, the following actions be taken with respect to the application by Milan Starcevic, relating to the properties located at 1339 – 1347 Commissioners Road West: a)         the...
 
@@ -578,6 +584,8 @@ Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
 
+<div id="motion-3-4-2" class="motion-anchor"></div>
+
 > Motion to approve part c) i) to iii), inclusive, which reads as follows: c)         IT BEING NOTED the following Site Plan matters have been raised through the application review process for consideration by the Site Plan Approval Authority with regard to the mitigation of potential impacts on th...
 
 **✅ Motion Passed (5 to 0)**
@@ -585,6 +593,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 3.4. Public Participation Meeting - Application - 1339-1347 Commissioners Road West (Z-9081/O-9082)
+
+<div id="motion-3-4-3" class="motion-anchor"></div>
 
 > Motion to approve part c), iv) and v) to include the following matters during site plan: iv)        the protection and preservation of trees along the northerly boundary (both shared and within the boundary vegetation) of the subject property, with the exception of invasive species or hazard tree...
 
@@ -603,6 +613,8 @@ Unanimous (5-0)
 
 ### 4.1. G. Gallacher, Chair of the Board, London Downtown Business Association - Request to Amend City By-law CP-2
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the City Clerk BE DIRECTED to bring forward to a future meeting of Municipal Council a by-law to incorporate the proposed amendments to the London Downtown Business Association (LDBA) and MainStreet London By-law CP-2 as requested by the LDBA and MainStreet London Board of Management as outl...
 
 **✅ Motion Passed (5 to 0)**
@@ -610,6 +622,8 @@ Unanimous (5-0)
 Unanimous (5-0)
 
 ### 6. Adjournment
+
+<div id="motion-6-0" class="motion-anchor"></div>
 
 > The meeting adjourned at 7:05 PM.
 

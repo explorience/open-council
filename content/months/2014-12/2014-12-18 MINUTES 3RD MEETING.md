@@ -1969,6 +1969,8 @@ Passed
 ### 4#6. Request for
   Appointment to LTC Long-Term Growth Report Working Group
 
+<div id="motion-4-6-0" class="motion-anchor"></div>
+
 > That Councillor H.L. Usher BE APPOINTED to   the London Transit Commission Long Term Growth Report Working Group for the   term December 1, 2014 to November 30, 2018.
 
 **✅ Motion Passed**
@@ -1978,6 +1980,8 @@ Unanimous (15-0)
 ### 4#6. Request for
   Appointment to LTC Long-Term Growth Report Working Group
 
+<div id="motion-4-6-1" class="motion-anchor"></div>
+
 > Approve part a) of clause 2.   a)       that the vision statement of “Inspired. Innovative. Diverse. Connected.” BE   ADOPTED for Council’s 2015-2019 Strategic Plan, subject to any revisions   desired as a result of the Strategic Plan development process.
 
 **✅ Motion Passed**
@@ -1986,6 +1990,8 @@ Unanimous (15-0)
 
 ### 4#6. Request for
   Appointment to LTC Long-Term Growth Report Working Group
+
+<div id="motion-4-6-2" class="motion-anchor"></div>
 
 > Approve progress with respect to the following in camera matters:
 
@@ -1997,6 +2003,8 @@ Unanimous (15-0)
   Internal Audit Results - Engineering and Environmental Services: Solid Waste
   (Garbage) Collection and Recycling Process Review
 
+<div id="motion-5-5-0" class="motion-anchor"></div>
+
 > That, on the recommendation of   PricewaterhouseCoopers (PwC), the following actions be taken with respect to   the Quarterly Reports on Internal Audit Results – Engineering and   Environmental Services - Solid Waste Collection and Recycling Process Review:   a)           the Action Plans identif...
 
 **✅ Motion Passed**
@@ -2006,6 +2014,8 @@ Unanimous (13-0)
 ### 6#2. Wickerson
   Stormwater Management Facility: Owner Reimbursement
 
+<div id="motion-6-2-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the   Director, Roads and Transportation, the following actions be taken with   respect to the Wickerson Stormwater Management Facility:   a)       the   engineering consulting fee claim for the Wickerson Road Development Area   Environmental Assessment, submitted b...
 
 **✅ Motion Passed**
@@ -2013,6 +2023,8 @@ Unanimous (13-0)
 Unanimous (13-0)
 
 ### 8#5. Meeting Time
+
+<div id="motion-8-5-0" class="motion-anchor"></div>
 
 > That the Audit Committee meeting time BE   CHANGED to a 4:00 PM start time; it being noted that additional amendments to   the meeting schedule may be required to accommodate this revision; it being   further noted that the Chair advised that an additional meeting (April 2015)   may be required.
 
@@ -2023,6 +2035,8 @@ Unanimous (15-0)
 ### 9#3. Amendment to By-law
   CP-2 - Expansion of London Downtown Business Association Improvement Area
 
+<div id="motion-9-3-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing   Director, Planning and City Planner, with the concurrence of the Managing   Director, Corporate Services and City Treasurer/Chief Financial Officer and   the City Clerk, the proposed by-law, as appended to the staff report dated   December 15, 2014, B...
 
 **✅ Motion Passed**
@@ -2032,6 +2046,8 @@ Unanimous (13-0)
 ### V. COMMITTEE
   OF THE WHOLE, IN CAMERA
 
+<div id="motion-v-0" class="motion-anchor"></div>
+
 > MOTION FOR IN CAMERA SESSION
 
 **✅ Motion Passed**
@@ -2040,6 +2056,8 @@ Unanimous (15-0)
 
 ### VI. CONFIRMATION
   AND SIGNING OF THE MINUTES OF THE SECOND MEETING HELD ON DECEMBER 9, 2014
+
+<div id="motion-vi-0" class="motion-anchor"></div>
 
 > Approve the Minutes of the 2nd Meeting   held on December 9, 2014.
 
@@ -2052,6 +2070,8 @@ Unanimous (15-0)
   Corporation of the City of London to Andrew Lockie representing The United
   Way
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Recess.
 
 **✅ Motion Passed**
@@ -2060,6 +2080,8 @@ Unanimous (15-0)
 
 ### 14. Request for
   Reimbursement of Expenses - Community Event Sponsorship
+
+<div id="motion-14-0" class="motion-anchor"></div>
 
 > Approve that clause 14 be amended in   part b), by deleting the following words "with a view to streamlining   the process; it being noted that accountability and openness is accomplished   through the regular posting of expenditures”.
 
@@ -2077,6 +2099,8 @@ Unanimous (15-0)
 ### 14. Request for
   Reimbursement of Expenses - Community Event Sponsorship
 
+<div id="motion-14-1" class="motion-anchor"></div>
+
 > Motion Passed
 
 **✅ Motion Passed**
@@ -2092,6 +2116,8 @@ Unanimous (15-0)
 
 ### 16. Councillor Expense
   Funds
+
+<div id="motion-16-0" class="motion-anchor"></div>
 
 > That the two communications from J.   Kogelheide regarding the policy for Council Members’ expenses BE REFERRED to   the review of the Council Members’ Expense Policy that the City Clerk is   being directed to undertake, in accordance with clause 14b) of the 1st Report   of the Corporate Services...
 
@@ -2110,6 +2136,8 @@ Unanimous (15-0)
   Appointment to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
 
+<div id="motion-17-0" class="motion-anchor"></div>
+
 > That the following individuals BE APPOINTED   as Voting Members on the Environmental and Ecological Planning Advisory   Committee, for the term ending February 28, 2015:   Katrina Moser Meaghan Murphy Sarah Peirce Joseph R. Stinziano
 
 **✅ Motion Passed**
@@ -2119,6 +2147,8 @@ Unanimous (15-0)
 ### 17. Consideration of
   Appointment to the Environmental and Ecological Planning Advisory Committee
   (Requires up to 5 Members at Large)
+
+<div id="motion-17-1" class="motion-anchor"></div>
 
 > That, on the recommendation of the City   Clerk, notwithstanding Council Policy 3(8) – City of London Days at the   Budweiser Gardens, which restricts a group from having more than two event   days over a five year consecutive period, the request from the Parkinson   Society Southwestern Ontario ...
 

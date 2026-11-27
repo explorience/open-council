@@ -209,6 +209,8 @@ The meeting adjourned at 12:39 PM.
 
 ### 2. Consent
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > That Items 2.1, 2.2, 2.3, and 2.4 BE APPROVED.
 
 **✅ Motion Passed (5 to 0)**
@@ -216,6 +218,8 @@ The meeting adjourned at 12:39 PM.
 Unanimous (5-0)
 
 ### 4.1. 100 Stanley Street - Delegation
+
+<div id="motion-4-1-0" class="motion-anchor"></div>
 
 > That the following actions be taken with respect to 100 Stanley Street: a)        the communication from J. O’Neill and B. McQuaid and the presentation from K. McKeating, with respect to this matter, BE RECEIVED; and, b)        the above-noted communication and presentation BE FORWARDED to Civic ...
 
@@ -233,6 +237,8 @@ Unanimous (5-0)
 </details>
 
 ### 4.1. 100 Stanley Street - Delegation
+
+<div id="motion-4-1-1" class="motion-anchor"></div>
 
 > That the delegation request from K. McKeating, ACO London BE APPROVED to be heard at this time.
 

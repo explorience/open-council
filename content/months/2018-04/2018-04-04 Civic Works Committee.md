@@ -253,6 +253,8 @@ The meeting stood adjourned at 5:22 PM due to a lack of quorum.
 
 ### 2.1. 2018 Annual Warranted Sidewalk Program
 
+<div id="motion-2-1-0" class="motion-anchor"></div>
+
 > That, on the recommendation of the Managing Director, Environmental & Engineering Services and City Engineer, the following actions be taken with respect to the staff report dated April 4, 2018 with respect to the 2018 Annual Warranted Sidewalk Program: a)            the proposed new sidewalks id...
 
 **✅ Motion Passed (3 to 0)**
@@ -261,6 +263,8 @@ Unanimous (3-0)
 
 ### 4.1. Paratransit
 
+<div id="motion-4-1-0" class="motion-anchor"></div>
+
 > That the following actions be taken with respect to the delegation request by M. Markiton: a)            the London Transit Commission BE REQUESTED to make contact with M. Markiton with respect to her issues with Paratransit; and, b)            the request for delegation status BE APPROVED for a ...
 
 **✅ Motion Passed (3 to 0)**
@@ -268,6 +272,8 @@ Unanimous (3-0)
 Unanimous (3-0)
 
 ### 4.2. Pedestrian Safety
+
+<div id="motion-4-2-0" class="motion-anchor"></div>
 
 > That the communication from R. Millard and M. Ratcliffe with respect to pedestrian safety and keeping bicycles off of City sidewalks BE REFERRED to the Cycling Advisory Committee for review and comment.
 

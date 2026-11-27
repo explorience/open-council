@@ -315,28 +315,6 @@ The Community and Protective Services Committee convened, In Closed Session, fro
 
 
 The meeting adjourned at 4:44 PM.
-
----
-
-## Votes
-
-*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
-
-### 2. Consent
-
-> That Items 2.1 to 2.7 BE APPROVED.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
-
-### 4.2. London's Opioid Crisis
-
-> Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
-
-**✅ Motion Passed (3 to 0)**
-
-Unanimous (3-0)
 ---
 
 ## Full Transcript
@@ -523,3 +501,60 @@ Thank you very much. All those in favor of adjourning? That's carried, three zer
 Recording stopped.
 
 </details>
+<<<<<<< HEAD
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. London's Opioid Crisis
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
+> Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+=======
+>>>>>>> origin/main
+
+---
+
+## Votes
+
+*2 substantive votes at this meeting (0 contested, 2 unanimous). Procedural motions excluded.*
+
+### 2. Consent
+
+<div id="motion-2-0" class="motion-anchor"></div>
+
+> That Items 2.1 to 2.7 BE APPROVED.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+
+### 4.2. London's Opioid Crisis
+
+<div id="motion-4-2-1" class="motion-anchor"></div>
+
+> Motion to approve the delegation request from C. Ryan and J. Scott to be heard at this meeting.
+
+**✅ Motion Passed (3 to 0)**
+
+Unanimous (3-0)
+

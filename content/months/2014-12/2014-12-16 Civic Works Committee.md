@@ -446,6 +446,8 @@ The
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2015
 
+<div id="motion-2-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -455,6 +457,8 @@ Unanimous (5-0)
 
 ### 2. Election of
   Vice-Chair for the term ending November 30, 2015
+
+<div id="motion-2-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -466,6 +470,8 @@ Unanimous (5-0)
 ### 3. 6th Report of the
   Cycling Advisory Committee
 
+<div id="motion-3-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -476,15 +482,7 @@ Unanimous (5-0)
 ### 4. Amendments to the
   Traffic and Parking By-law
 
-> Motion   Passed
-
-**✅ Motion
-  Passed**
-
-Unanimous (5-0)
-
-### 5. Transportation
-  Energy Optimization Plan (TEOP) Update
+<div id="motion-4-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -495,6 +493,20 @@ Unanimous (5-0)
 
 ### 5. Transportation
   Energy Optimization Plan (TEOP) Update
+
+<div id="motion-5-0" class="motion-anchor"></div>
+
+> Motion   Passed
+
+**✅ Motion
+  Passed**
+
+Unanimous (5-0)
+
+### 5. Transportation
+  Energy Optimization Plan (TEOP) Update
+
+<div id="motion-5-1" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -505,6 +517,8 @@ Unanimous (5-0)
 
 ### 7. Mudcreek East
   Environmental Assessment: Owner Reimbursement
+
+<div id="motion-7-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -517,6 +531,8 @@ Unanimous (5-0)
   of London's Drinking Water Quality Management System and 2014 Management
   Review
 
+<div id="motion-8-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -526,6 +542,8 @@ Unanimous (5-0)
 
 ### 9. Update on Key Solid
   Waste Management Initiatives
+
+<div id="motion-9-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -537,6 +555,8 @@ Unanimous (5-0)
 ### 10. W12A Landfill
   Public Liaison Committee Proposed Water Supply Fund
 
+<div id="motion-10-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -546,6 +566,8 @@ Unanimous (5-0)
 
 ### 11. General Orientation
   – Key Committee Matters
+
+<div id="motion-11-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
@@ -557,6 +579,8 @@ Unanimous (5-0)
 ### 12. Garbage and
   Recycling Collection - Status and Potential Next Steps
 
+<div id="motion-12-0" class="motion-anchor"></div>
+
 > Motion   Passed
 
 **✅ Motion
@@ -566,6 +590,8 @@ Unanimous (5-0)
 
 ### 13. Boulevard Parking
   Application - 552 Colborne Street
+
+<div id="motion-13-0" class="motion-anchor"></div>
 
 > Motion   Passed
 
