@@ -25,9 +25,13 @@ document.addEventListener("nav", () => {
         chatInput.value = question
         chatSendBtn.click()
       } else {
-        // Fallback: try the hero input
-        const heroInput = document.querySelector(".hero-chat-input") as HTMLInputElement
-        const heroSendBtn = document.querySelector(".hero-chat-send") as HTMLButtonElement
+        // Fallback: try the homepage hero's chat input (HomepageHero.tsx
+        // renders id="hero-chat-input" class="chat-input" and
+        // class="chat-send-btn" — this used to look for a class named
+        // "hero-chat-input"/"hero-chat-send", which never existed, so this
+        // branch was silently dead on the homepage).
+        const heroInput = document.querySelector("#hero-chat-input") as HTMLTextAreaElement
+        const heroSendBtn = document.querySelector(".chat-send-btn") as HTMLButtonElement
 
         if (heroInput && heroSendBtn) {
           heroInput.value = question
